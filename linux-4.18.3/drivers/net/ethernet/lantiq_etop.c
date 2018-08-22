@@ -761,3 +761,4 @@ module_exit(exit_ltq_etop);
 MODULE_AUTHOR("John Crispin <blogic@openwrt.org>");
 MODULE_DESCRIPTION("Lantiq SoC ETOP");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

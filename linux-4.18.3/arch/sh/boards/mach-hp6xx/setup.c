@@ -172,3 +172,4 @@ static struct sh_machine_vector mv_hp6xx __initmv = {
 	/* Enable IRQ0 -> IRQ3 in IRQ_MODE */
 	.mv_init_irq = hp6xx_init_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

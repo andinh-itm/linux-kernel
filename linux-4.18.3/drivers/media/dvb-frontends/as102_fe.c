@@ -477,3 +477,4 @@ EXPORT_SYMBOL_GPL(as102_attach);
 MODULE_DESCRIPTION("as102-fe");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Pierrick Hascoet <pierrick.hascoet@abilis.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

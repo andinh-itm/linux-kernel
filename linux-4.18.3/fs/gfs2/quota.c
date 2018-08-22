@@ -1766,3 +1766,4 @@ void __init gfs2_quota_hash_init(void)
 	for(i = 0; i < GFS2_QD_HASH_SIZE; i++)
 		INIT_HLIST_BL_HEAD(&qd_hash_table[i]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

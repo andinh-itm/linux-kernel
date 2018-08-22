@@ -86,3 +86,4 @@ static struct platform_driver atmel_ramc_driver = {
 };
 
 builtin_platform_driver(atmel_ramc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

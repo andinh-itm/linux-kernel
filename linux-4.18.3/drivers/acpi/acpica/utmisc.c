@@ -379,3 +379,4 @@ acpi_ut_display_init_pathname(u8 type,
 	ACPI_FREE(buffer.pointer);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

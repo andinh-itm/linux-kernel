@@ -199,3 +199,4 @@ int __init ams_pmu_init(struct device_node *np)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

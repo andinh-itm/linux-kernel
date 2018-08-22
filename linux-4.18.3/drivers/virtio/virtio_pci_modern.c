@@ -735,3 +735,4 @@ void virtio_pci_modern_remove(struct virtio_pci_device *vp_dev)
 	pci_iounmap(pci_dev, vp_dev->common);
 	pci_release_selected_regions(pci_dev, vp_dev->modern_bars);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

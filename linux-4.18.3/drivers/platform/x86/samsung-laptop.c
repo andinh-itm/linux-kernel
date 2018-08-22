@@ -1800,3 +1800,4 @@ module_exit(samsung_exit);
 MODULE_AUTHOR("Greg Kroah-Hartman <gregkh@suse.de>");
 MODULE_DESCRIPTION("Samsung Backlight driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

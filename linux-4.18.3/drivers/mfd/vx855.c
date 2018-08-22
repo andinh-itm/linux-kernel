@@ -136,3 +136,4 @@ module_pci_driver(vx855_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Harald Welte <HaraldWelte@viatech.com>");
 MODULE_DESCRIPTION("Driver for the VIA VX855 chipset");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

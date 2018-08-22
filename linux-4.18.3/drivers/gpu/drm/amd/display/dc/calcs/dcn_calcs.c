@@ -1649,3 +1649,4 @@ void dcn_bw_sync_calcs_and_dml(struct dc *dc)
 	dc->dml.ip.dcfclk_cstate_latency = dc->dcn_ip->dcfclk_cstate_latency;
 	kernel_fpu_end();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

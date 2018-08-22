@@ -1961,3 +1961,4 @@ module_exit(caam_algapi_hash_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("FSL CAAM support for ahash functions of crypto API");
 MODULE_AUTHOR("Freescale Semiconductor - NMG");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

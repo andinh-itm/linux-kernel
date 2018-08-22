@@ -265,3 +265,4 @@ int setup_sportster(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -715,3 +715,4 @@ void qla_nvme_register_hba(struct scsi_qla_host *vha)
 	}
 	vha->nvme_local_port->private = vha;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

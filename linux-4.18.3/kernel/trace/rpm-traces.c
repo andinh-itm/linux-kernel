@@ -19,3 +19,4 @@ EXPORT_TRACEPOINT_SYMBOL_GPL(rpm_return_int);
 EXPORT_TRACEPOINT_SYMBOL_GPL(rpm_idle);
 EXPORT_TRACEPOINT_SYMBOL_GPL(rpm_suspend);
 EXPORT_TRACEPOINT_SYMBOL_GPL(rpm_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -370,3 +370,4 @@ open_pipe:
 	return 0;
 }
 EXPORT_SYMBOL(nfc_hci_connect_gate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

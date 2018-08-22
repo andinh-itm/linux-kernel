@@ -882,3 +882,4 @@ EXPORT_SYMBOL_GPL(es8328_probe);
 MODULE_DESCRIPTION("ASoC ES8328 driver");
 MODULE_AUTHOR("Sean Cross <xobs@kosagi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

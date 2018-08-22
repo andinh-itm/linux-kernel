@@ -145,3 +145,4 @@ int ipmi_si_hardcode_find_bmc(void)
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1532,3 +1532,4 @@ enum stb0899_status stb0899_dvbs2_algo(struct stb0899_state *state)
 
 	return internal->status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

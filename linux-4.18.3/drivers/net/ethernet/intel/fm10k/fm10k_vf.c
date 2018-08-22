@@ -525,3 +525,4 @@ const struct fm10k_info fm10k_vf_info = {
 	.get_invariants	= fm10k_get_invariants_vf,
 	.mac_ops	= &mac_ops_vf,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

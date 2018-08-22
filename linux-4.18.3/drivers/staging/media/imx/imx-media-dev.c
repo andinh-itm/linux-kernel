@@ -613,3 +613,4 @@ module_platform_driver(imx_media_pdrv);
 MODULE_DESCRIPTION("i.MX5/6 v4l2 media controller driver");
 MODULE_AUTHOR("Steve Longerbeam <steve_longerbeam@mentor.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

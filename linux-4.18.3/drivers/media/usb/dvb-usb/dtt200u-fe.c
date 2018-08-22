@@ -258,3 +258,4 @@ static const struct dvb_frontend_ops dtt200u_fe_ops = {
 	.read_snr = dtt200u_fe_read_snr,
 	.read_ucblocks = dtt200u_fe_read_unc_blocks,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

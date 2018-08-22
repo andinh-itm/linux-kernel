@@ -118,3 +118,4 @@ const struct amdgpu_df_funcs df_v1_7_funcs = {
 	.get_clockgating_state = df_v1_7_get_clockgating_state,
 	.enable_ecc_force_par_wr_rmw = df_v1_7_enable_ecc_force_par_wr_rmw,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -37,3 +37,4 @@ void prom_putchar(char c)
 	while ((uart->iu_lsr & 0x20) == 0);
 	uart->iu_thr = c;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

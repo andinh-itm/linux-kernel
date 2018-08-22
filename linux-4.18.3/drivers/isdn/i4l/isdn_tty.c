@@ -3769,3 +3769,4 @@ isdn_tty_carrier_timeout(void)
 	}
 	isdn_timer_ctrl(ISDN_TIMER_CARRIER, ton);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

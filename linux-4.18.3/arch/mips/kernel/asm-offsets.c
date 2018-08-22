@@ -398,3 +398,4 @@ void output_cps_defines(void)
 	DEFINE(VPEBOOTCFG_SIZE, sizeof(struct vpe_boot_config));
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

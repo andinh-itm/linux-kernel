@@ -856,3 +856,4 @@ module_i2c_driver(mt9t031_i2c_driver);
 MODULE_DESCRIPTION("Micron MT9T031 Camera driver");
 MODULE_AUTHOR("Guennadi Liakhovetski <lg@denx.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

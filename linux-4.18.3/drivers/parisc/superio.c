@@ -496,3 +496,4 @@ static struct pci_driver superio_driver __refdata = {
 };
 
 module_pci_driver(superio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

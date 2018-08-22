@@ -236,3 +236,4 @@ module_i2c_driver(max6900_driver);
 MODULE_DESCRIPTION("Maxim MAX6900 RTC driver");
 MODULE_AUTHOR("Dale Farnsworth <dale@farnsworth.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

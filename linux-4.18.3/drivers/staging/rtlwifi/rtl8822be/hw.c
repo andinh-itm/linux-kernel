@@ -2428,3 +2428,4 @@ void rtl8822be_bt_reg_init(struct ieee80211_hw *hw)
 void rtl8822be_suspend(struct ieee80211_hw *hw) {}
 
 void rtl8822be_resume(struct ieee80211_hw *hw) {}
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

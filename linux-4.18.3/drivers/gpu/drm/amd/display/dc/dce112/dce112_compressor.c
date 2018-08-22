@@ -845,3 +845,4 @@ void dce112_compressor_destroy(struct compressor **compressor)
 	kfree(TO_DCE112_COMPRESSOR(*compressor));
 	*compressor = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

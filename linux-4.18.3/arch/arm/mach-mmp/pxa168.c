@@ -177,3 +177,4 @@ void pxa168_restart(enum reboot_mode mode, const char *cmd)
 {
 	soft_restart(0xffff0000);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

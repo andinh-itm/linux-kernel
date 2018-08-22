@@ -49,3 +49,4 @@ copy_oldmem_page(unsigned long pfn, char *buf,
 	return csize;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

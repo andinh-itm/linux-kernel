@@ -962,3 +962,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sm_via686a_init);
 module_exit(sm_via686a_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

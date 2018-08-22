@@ -163,3 +163,4 @@ MODULE_DESCRIPTION("MD5 Secure Hash Algorithm, PPC assembler");
 
 MODULE_ALIAS_CRYPTO("md5");
 MODULE_ALIAS_CRYPTO("md5-ppc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

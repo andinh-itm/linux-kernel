@@ -56,3 +56,4 @@ int is_printable_array(char *p, unsigned int len)
 	}
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

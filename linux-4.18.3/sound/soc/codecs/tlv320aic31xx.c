@@ -1495,3 +1495,4 @@ module_i2c_driver(aic31xx_i2c_driver);
 MODULE_AUTHOR("Jyri Sarha <jsarha@ti.com>");
 MODULE_DESCRIPTION("ASoC TLV320AIC31xx CODEC Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -207,3 +207,4 @@ static struct pcmcia_driver sedlbauer_driver = {
 	.resume		= sedlbauer_resume,
 };
 module_pcmcia_driver(sedlbauer_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

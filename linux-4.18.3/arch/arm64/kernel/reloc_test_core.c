@@ -79,3 +79,4 @@ module_init(reloc_test_init);
 module_exit(reloc_test_exit);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

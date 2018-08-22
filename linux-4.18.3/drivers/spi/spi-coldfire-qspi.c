@@ -528,3 +528,4 @@ MODULE_AUTHOR("Steven King <sfking@fdwdc.com>");
 MODULE_DESCRIPTION("Coldfire QSPI Controller Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -149,3 +149,4 @@ static void __init of_ti_omap2430_interface_clk_setup(struct device_node *node)
 CLK_OF_DECLARE(ti_omap2430_interface_clk, "ti,omap2430-interface-clock",
 	       of_ti_omap2430_interface_clk_setup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

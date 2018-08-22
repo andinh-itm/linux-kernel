@@ -102,3 +102,4 @@ EXPORT_SYMBOL_GPL(fb_sys_write);
 MODULE_AUTHOR("Antonino Daplas <adaplas@pol.net>");
 MODULE_DESCRIPTION("Generic file read (fb in system RAM)");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

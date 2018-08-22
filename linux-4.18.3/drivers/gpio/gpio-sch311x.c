@@ -426,3 +426,4 @@ MODULE_AUTHOR("Bruno Randolf <br1@einfach.org>");
 MODULE_DESCRIPTION("SMSC SCH311x GPIO Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:gpio-sch311x");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

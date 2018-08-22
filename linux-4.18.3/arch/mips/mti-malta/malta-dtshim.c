@@ -335,3 +335,4 @@ void __init *malta_dt_shim(void *fdt)
 
 	return fdt_buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

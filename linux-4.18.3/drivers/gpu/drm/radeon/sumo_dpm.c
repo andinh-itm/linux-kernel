@@ -1944,3 +1944,4 @@ int sumo_dpm_force_performance_level(struct radeon_device *rdev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

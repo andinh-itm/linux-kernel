@@ -537,3 +537,4 @@ int sysfs__write_int(const char *entry, int value)
 
 	return filename__write_int(path, value);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

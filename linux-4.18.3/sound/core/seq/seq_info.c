@@ -79,3 +79,4 @@ int __exit snd_seq_info_done(void)
 	free_info_entries();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

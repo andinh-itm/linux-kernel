@@ -53,3 +53,4 @@ struct omap_hwmod_class omap2_rfbi_hwmod_class = {
 	.sysc	= &omap2_rfbi_sysc,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

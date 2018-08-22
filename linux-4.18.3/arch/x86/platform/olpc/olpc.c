@@ -408,3 +408,4 @@ static int __init olpc_init(void)
 }
 
 postcore_initcall(olpc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

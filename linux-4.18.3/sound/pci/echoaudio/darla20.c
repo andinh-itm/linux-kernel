@@ -99,3 +99,4 @@ static struct snd_pcm_hardware pcm_hardware_skel = {
 #include "darla20_dsp.c"
 #include "echoaudio_dsp.c"
 #include "echoaudio.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

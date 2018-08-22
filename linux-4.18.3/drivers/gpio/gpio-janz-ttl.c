@@ -205,3 +205,4 @@ MODULE_AUTHOR("Ira W. Snyder <iws@ovro.caltech.edu>");
 MODULE_DESCRIPTION("Janz MODULbus VMOD-TTL Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:janz-ttl");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

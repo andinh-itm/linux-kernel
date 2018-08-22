@@ -1623,3 +1623,4 @@ mptspi_exit(void)
 
 module_init(mptspi_init);
 module_exit(mptspi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

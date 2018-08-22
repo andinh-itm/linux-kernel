@@ -170,3 +170,4 @@ snd_seq_oss_writeq_set_output(struct seq_oss_writeq *q, int val)
 	snd_seq_oss_control(q->dp, SNDRV_SEQ_IOCTL_SET_CLIENT_POOL, &pool);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -852,3 +852,4 @@ static void __init s5p6442_clk_dt_init(struct device_node *np)
 	__s5pv210_clk_init(np, 0, 0, true);
 }
 CLK_OF_DECLARE(s5p6442_clk, "samsung,s5p6442-clock", s5p6442_clk_dt_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

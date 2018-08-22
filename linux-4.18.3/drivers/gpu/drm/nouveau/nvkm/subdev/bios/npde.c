@@ -57,3 +57,4 @@ nvbios_npdeTp(struct nvkm_bios *bios, u32 base, struct nvbios_npdeT *info)
 	}
 	return data;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -895,3 +895,4 @@ module_exit(budget_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ralph Metzler, Marcus Metzler, Michael Hunold, others");
 MODULE_DESCRIPTION("driver for the SAA7146 based so-called budget PCI DVB cards by Siemens, Technotrend, Hauppauge");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -673,3 +673,4 @@ DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_IBM, PCI_DEVICE_ID_IBM_OBSIDIAN,
 
 struct pci_controller_ops maple_pci_controller_ops = {
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

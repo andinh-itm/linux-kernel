@@ -295,3 +295,4 @@ void __init acpi_set_irq_model(enum acpi_irq_model_id model,
 	acpi_irq_model = model;
 	acpi_gsi_domain_id = fwnode;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

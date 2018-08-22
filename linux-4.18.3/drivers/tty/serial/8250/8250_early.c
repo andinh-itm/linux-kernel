@@ -195,3 +195,4 @@ static int __init early_au_setup(struct earlycon_device *dev, const char *opt)
 OF_EARLYCON_DECLARE(palmchip, "ralink,rt2880-uart", early_au_setup);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

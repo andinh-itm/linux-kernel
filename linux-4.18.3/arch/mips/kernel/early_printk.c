@@ -41,3 +41,4 @@ void __init setup_early_printk(void)
 
 	register_console(&early_console_prom);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

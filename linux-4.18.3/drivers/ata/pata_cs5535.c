@@ -213,3 +213,4 @@ MODULE_DESCRIPTION("low-level driver for the NS/AMD 5535");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, cs5535);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

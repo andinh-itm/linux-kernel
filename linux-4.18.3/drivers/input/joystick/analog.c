@@ -800,3 +800,4 @@ static void __exit analog_exit(void)
 
 module_init(analog_init);
 module_exit(analog_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

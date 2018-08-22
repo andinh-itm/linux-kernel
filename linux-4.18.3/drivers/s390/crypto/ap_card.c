@@ -190,3 +190,4 @@ struct ap_card *ap_card_create(int id, int queue_depth, int raw_type,
 	ac->id = id;
 	return ac;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

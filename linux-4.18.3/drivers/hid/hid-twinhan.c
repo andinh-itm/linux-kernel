@@ -134,3 +134,4 @@ static struct hid_driver twinhan_driver = {
 module_hid_driver(twinhan_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

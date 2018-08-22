@@ -156,3 +156,4 @@ MACHINE_START(SMDK2413, "SMDK2413")
 	.init_machine	= smdk2413_machine_init,
 	.init_time	= smdk2413_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

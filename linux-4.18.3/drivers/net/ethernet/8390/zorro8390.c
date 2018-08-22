@@ -450,3 +450,4 @@ module_init(zorro8390_init_module);
 module_exit(zorro8390_cleanup_module);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

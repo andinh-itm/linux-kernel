@@ -309,3 +309,4 @@ void atl1c_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &atl1c_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

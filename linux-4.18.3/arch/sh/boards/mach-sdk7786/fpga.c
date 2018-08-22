@@ -70,3 +70,4 @@ void __init sdk7786_fpga_init(void)
 		((date >> 12) & 0xf) + 2000,
 		(date >> 8) & 0xf, bcd2bin(date & 0xff));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

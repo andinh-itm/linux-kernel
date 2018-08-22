@@ -96,3 +96,4 @@ module_init(i2c_ioc_init);
 MODULE_AUTHOR("Russell King <linux@armlinux.org.uk>");
 MODULE_DESCRIPTION("ARM IOC/IOMD i2c driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

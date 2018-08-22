@@ -2171,3 +2171,4 @@ module_i2c_driver(max98095_i2c_driver);
 MODULE_DESCRIPTION("ALSA SoC MAX98095 driver");
 MODULE_AUTHOR("Peter Hsiang");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

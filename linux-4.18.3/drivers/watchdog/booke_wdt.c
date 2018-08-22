@@ -241,3 +241,4 @@ module_exit(booke_wdt_exit);
 MODULE_ALIAS("booke_wdt");
 MODULE_DESCRIPTION("PowerPC Book-E watchdog driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

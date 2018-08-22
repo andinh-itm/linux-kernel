@@ -627,3 +627,4 @@ module_i2c_driver(es8316_i2c_driver);
 MODULE_DESCRIPTION("Everest Semi ES8316 ALSA SoC Codec Driver");
 MODULE_AUTHOR("David Yang <yangxiaohua@everest-semi.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

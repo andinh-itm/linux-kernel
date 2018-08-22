@@ -310,3 +310,4 @@ enum halmac_ret_status halmac_interface_integration_tuning_8822b_pcie(
 {
 	return HALMAC_RET_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

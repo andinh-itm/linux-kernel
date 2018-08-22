@@ -256,3 +256,4 @@ module_platform_driver(snow_driver);
 
 MODULE_DESCRIPTION("ALSA SoC Audio machine driver for Snow");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

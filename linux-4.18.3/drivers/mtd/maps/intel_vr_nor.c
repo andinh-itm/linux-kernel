@@ -263,3 +263,4 @@ MODULE_AUTHOR("Andy Lowe");
 MODULE_DESCRIPTION("MTD map driver for NOR flash on Intel Vermilion Range");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, vr_nor_pci_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

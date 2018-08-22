@@ -432,3 +432,4 @@ module_i2c_driver(pv88060_regulator_driver);
 MODULE_AUTHOR("James Ban <James.Ban.opensource@diasemi.com>");
 MODULE_DESCRIPTION("Regulator device driver for Powerventure PV88060");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

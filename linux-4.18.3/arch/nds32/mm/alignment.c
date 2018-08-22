@@ -577,3 +577,4 @@ static int __init nds32_sysctl_init(void)
 
 __initcall(nds32_sysctl_init);
 #endif /* CONFIG_PROC_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

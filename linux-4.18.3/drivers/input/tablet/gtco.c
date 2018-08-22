@@ -1032,3 +1032,4 @@ module_usb_driver(gtco_driverinfo_table);
 
 MODULE_DESCRIPTION("GTCO digitizer USB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

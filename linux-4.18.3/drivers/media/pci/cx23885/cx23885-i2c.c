@@ -383,3 +383,4 @@ void cx23885_av_clk(struct cx23885_dev *dev, int enable)
 
 	i2c_xfer(&dev->i2c_bus[2].i2c_adap, &msg, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

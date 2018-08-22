@@ -643,3 +643,4 @@ void mic_intr_restore(struct mic_device *mdev)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

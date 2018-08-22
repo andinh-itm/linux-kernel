@@ -48,3 +48,4 @@ void via_aux_vt1625_probe(struct via_aux_bus *bus)
 	probe(bus, 0x20);
 	probe(bus, 0x21);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

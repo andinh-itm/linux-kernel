@@ -1505,3 +1505,4 @@ struct platform_driver vc4_hdmi_driver = {
 		.of_match_table = vc4_hdmi_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

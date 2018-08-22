@@ -74,3 +74,4 @@ void __init xen_hvm_smp_init(void)
 	smp_ops.smp_prepare_boot_cpu = xen_hvm_smp_prepare_boot_cpu;
 	smp_ops.smp_cpus_done = xen_smp_cpus_done;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

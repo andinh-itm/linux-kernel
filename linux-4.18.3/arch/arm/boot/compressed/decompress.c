@@ -59,3 +59,4 @@ int do_decompress(u8 *input, int len, u8 *output, void (*error)(char *x))
 {
 	return __decompress(input, len, NULL, NULL, output, 0, NULL, error);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

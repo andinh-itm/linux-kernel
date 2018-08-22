@@ -413,3 +413,4 @@ DT_MACHINE_START(CNS3XXX_DT, "Cavium Networks CNS3xxx")
 	.init_late	= cns3xxx_pcie_init_late,
 	.restart	= cns3xxx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

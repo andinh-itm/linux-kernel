@@ -159,3 +159,4 @@ static struct acpi_driver irst_driver = {
 module_acpi_driver(irst_driver);
 
 MODULE_DEVICE_TABLE(acpi, irst_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

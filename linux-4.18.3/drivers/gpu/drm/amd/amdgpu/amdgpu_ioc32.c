@@ -45,3 +45,4 @@ long amdgpu_kms_compat_ioctl(struct file *filp, unsigned int cmd, unsigned long 
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

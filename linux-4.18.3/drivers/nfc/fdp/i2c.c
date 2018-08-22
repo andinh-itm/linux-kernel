@@ -386,3 +386,4 @@ module_i2c_driver(fdp_nci_i2c_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("I2C driver for Intel Fields Peak NFC controller");
 MODULE_AUTHOR("Robert Dolca <robert.dolca@intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

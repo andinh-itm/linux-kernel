@@ -377,3 +377,4 @@ static void __exit alsa_card_als100_exit(void)
 
 module_init(alsa_card_als100_init)
 module_exit(alsa_card_als100_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

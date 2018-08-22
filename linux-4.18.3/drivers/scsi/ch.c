@@ -1045,3 +1045,4 @@ module_exit(exit_ch_module);
  * c-basic-offset: 8
  * End:
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

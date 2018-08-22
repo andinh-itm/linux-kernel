@@ -876,3 +876,4 @@ static int __init snd_info_version_init(void)
 	entry->c.text.read = snd_info_version_read;
 	return snd_info_register(entry); /* freed in error path */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

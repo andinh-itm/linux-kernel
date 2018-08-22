@@ -512,3 +512,4 @@ unsigned int mmc_queue_map_sg(struct mmc_queue *mq, struct mmc_queue_req *mqrq)
 
 	return blk_rq_map_sg(mq->queue, req, mqrq->sg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

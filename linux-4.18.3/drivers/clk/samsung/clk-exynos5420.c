@@ -1560,3 +1560,4 @@ static void __init exynos5800_clk_init(struct device_node *np)
 }
 CLK_OF_DECLARE_DRIVER(exynos5800_clk, "samsung,exynos5800-clock",
 		      exynos5800_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

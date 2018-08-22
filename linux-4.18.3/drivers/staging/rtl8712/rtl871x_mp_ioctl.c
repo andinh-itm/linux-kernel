@@ -933,3 +933,4 @@ uint oid_rt_get_power_mode_hdl(struct oid_par_priv *poid_par_priv)
 	*poid_par_priv->bytes_rw = poid_par_priv->information_buf_len;
 	return RNDIS_STATUS_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

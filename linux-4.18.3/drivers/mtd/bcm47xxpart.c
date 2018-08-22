@@ -319,3 +319,4 @@ module_mtd_part_parser(bcm47xxpart_mtd_parser);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("MTD partitioning for BCM47XX flash memories");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

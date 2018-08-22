@@ -3840,3 +3840,4 @@ static struct usb_driver sd_driver = {
 };
 
 module_usb_driver(sd_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

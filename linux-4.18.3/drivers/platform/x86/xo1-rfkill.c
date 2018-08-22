@@ -81,3 +81,4 @@ module_platform_driver(xo1_rfkill_driver);
 MODULE_AUTHOR("Daniel Drake <dsd@laptop.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:xo1-rfkill");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

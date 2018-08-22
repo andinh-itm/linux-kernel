@@ -362,3 +362,4 @@ module_platform_driver(cobalt_lcdfb_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Yoichi Yuasa");
 MODULE_DESCRIPTION("Cobalt server LCD frame buffer driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

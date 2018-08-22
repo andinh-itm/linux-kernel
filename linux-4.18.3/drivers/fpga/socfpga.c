@@ -617,3 +617,4 @@ module_platform_driver(socfpga_fpga_driver);
 MODULE_AUTHOR("Alan Tull <atull@opensource.altera.com>");
 MODULE_DESCRIPTION("Altera SOCFPGA FPGA Manager");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

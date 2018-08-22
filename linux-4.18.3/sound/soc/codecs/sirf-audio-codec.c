@@ -579,3 +579,4 @@ module_platform_driver(sirf_audio_codec_driver);
 MODULE_DESCRIPTION("SiRF audio codec driver");
 MODULE_AUTHOR("RongJun Ying <Rongjun.Ying@csr.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

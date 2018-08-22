@@ -23,3 +23,4 @@ DT_MACHINE_START(ZX, "ZTE ZX296702 (Device Tree)")
 	.l2c_aux_val    = 0,
 	.l2c_aux_mask   = ~0,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -437,3 +437,4 @@ void mic_smpt_restore(struct mic_device *mdev)
 		mdev->smpt_ops->set(mdev, dma_addr, i);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

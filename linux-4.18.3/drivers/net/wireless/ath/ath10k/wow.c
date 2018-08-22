@@ -480,3 +480,4 @@ int ath10k_wow_init(struct ath10k *ar)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

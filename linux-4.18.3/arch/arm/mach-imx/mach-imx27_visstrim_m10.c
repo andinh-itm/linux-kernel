@@ -609,3 +609,4 @@ MACHINE_START(IMX27_VISSTRIM_M10, "Vista Silicon Visstrim_M10")
 	.init_late	= visstrim_m10_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

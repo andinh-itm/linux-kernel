@@ -164,3 +164,4 @@ module_i2c_driver(usb4604_i2c_driver);
 
 MODULE_DESCRIPTION("USB4604 USB HUB driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

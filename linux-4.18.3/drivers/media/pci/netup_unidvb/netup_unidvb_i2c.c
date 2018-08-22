@@ -376,3 +376,4 @@ void netup_i2c_unregister(struct netup_unidvb_dev *ndev)
 	netup_i2c_remove(ndev, 1);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

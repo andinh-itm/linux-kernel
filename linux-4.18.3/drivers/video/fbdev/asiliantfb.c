@@ -622,3 +622,4 @@ static void __exit asiliantfb_exit(void)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

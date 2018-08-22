@@ -56,3 +56,4 @@ void pci_resource_to_user(const struct pci_dev *dev, int bar,
 	*start = fixup_bigphys_addr(rsrc->start, size);
 	*end = rsrc->start + size - 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

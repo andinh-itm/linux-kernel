@@ -335,3 +335,4 @@ struct alpha_machine_vector noritake_primo_mv __initmv = {
 };
 ALIAS_MV(noritake_primo)
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

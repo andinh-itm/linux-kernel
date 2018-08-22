@@ -805,3 +805,4 @@ static int __init stm32mp1_exti_of_init(struct device_node *np,
 }
 
 IRQCHIP_DECLARE(stm32mp1_exti, "st,stm32mp1-exti", stm32mp1_exti_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

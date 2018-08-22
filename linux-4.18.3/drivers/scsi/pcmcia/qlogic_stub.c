@@ -315,3 +315,4 @@ MODULE_DESCRIPTION("Driver for the PCMCIA Qlogic FAS SCSI controllers");
 MODULE_LICENSE("GPL");
 module_init(init_qlogic_cs);
 module_exit(exit_qlogic_cs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

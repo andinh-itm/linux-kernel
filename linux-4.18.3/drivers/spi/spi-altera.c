@@ -247,3 +247,4 @@ MODULE_DESCRIPTION("Altera SPI driver");
 MODULE_AUTHOR("Thomas Chou <thomas@wytron.com.tw>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

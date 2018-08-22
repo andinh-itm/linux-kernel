@@ -198,3 +198,4 @@ module_platform_driver(img_ir_driver);
 MODULE_AUTHOR("Imagination Technologies Ltd.");
 MODULE_DESCRIPTION("ImgTec IR");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

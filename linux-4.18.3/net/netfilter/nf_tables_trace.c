@@ -297,3 +297,4 @@ void nft_trace_init(struct nft_traceinfo *info, const struct nft_pktinfo *pkt,
 	info->pkt = pkt;
 	info->verdict = verdict;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

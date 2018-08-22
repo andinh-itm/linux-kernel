@@ -338,3 +338,4 @@ void phy_set_rf_path_switch_8822b(struct phy_dm_struct *dm, bool is_main)
 		odm_set_bb_reg(dm, 0xCBC, (BIT(9) | BIT(8)), 0x1); /*BT*/
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -79,3 +79,4 @@ static struct hid_driver speedlink_driver = {
 module_hid_driver(speedlink_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

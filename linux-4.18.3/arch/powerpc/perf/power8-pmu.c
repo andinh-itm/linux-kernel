@@ -400,3 +400,4 @@ static int __init init_power8_pmu(void)
 	return 0;
 }
 early_initcall(init_power8_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

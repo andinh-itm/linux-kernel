@@ -138,3 +138,4 @@ static struct hid_driver hammer_driver = {
 module_hid_driver(hammer_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

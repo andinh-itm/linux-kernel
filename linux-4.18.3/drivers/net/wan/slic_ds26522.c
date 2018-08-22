@@ -249,3 +249,4 @@ static struct spi_driver slic_ds26522_driver = {
 };
 
 module_spi_driver(slic_ds26522_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

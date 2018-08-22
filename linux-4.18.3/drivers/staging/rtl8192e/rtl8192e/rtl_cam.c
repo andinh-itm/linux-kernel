@@ -270,3 +270,4 @@ void rtl92e_cam_restore(struct net_device *dev)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

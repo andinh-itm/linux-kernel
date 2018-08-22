@@ -471,3 +471,4 @@ struct platform_driver rockchip_dp_driver = {
 		   .of_match_table = of_match_ptr(rockchip_dp_dt_ids),
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

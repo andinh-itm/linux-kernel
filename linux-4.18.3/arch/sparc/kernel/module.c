@@ -226,3 +226,4 @@ int module_finalize(const Elf_Ehdr *hdr,
 	return 0;
 }
 #endif /* CONFIG_SPARC64 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

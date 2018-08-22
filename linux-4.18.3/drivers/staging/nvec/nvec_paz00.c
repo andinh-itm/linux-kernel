@@ -81,3 +81,4 @@ MODULE_AUTHOR("Ilya Petrov <ilya.muromec@gmail.com>");
 MODULE_DESCRIPTION("Tegra NVEC PAZ00 driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:nvec-paz00");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

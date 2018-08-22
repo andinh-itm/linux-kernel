@@ -1812,3 +1812,4 @@ static struct pci_driver device_driver = {
 };
 
 module_pci_driver(device_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

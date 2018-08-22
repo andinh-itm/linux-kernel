@@ -109,3 +109,4 @@ module_exit(hp6x0_apm_exit);
 MODULE_AUTHOR("Adriy Skulysh");
 MODULE_DESCRIPTION("hp6xx Advanced Power Management");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

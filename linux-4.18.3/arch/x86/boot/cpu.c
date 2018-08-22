@@ -99,3 +99,4 @@ int validate_cpu(void)
 		return 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

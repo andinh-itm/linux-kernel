@@ -2189,3 +2189,4 @@ void sas_smp_handler(struct bsg_job *job, struct Scsi_Host *shost,
 out:
 	bsg_job_done(job, ret, rcvlen);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

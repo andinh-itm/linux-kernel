@@ -3779,3 +3779,4 @@ const struct sh_pfc_soc_info r8a7740_pinmux_info = {
 	.gpio_irq	= pinmux_irqs,
 	.gpio_irq_size	= ARRAY_SIZE(pinmux_irqs),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

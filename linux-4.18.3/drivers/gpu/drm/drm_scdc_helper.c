@@ -247,3 +247,4 @@ bool drm_scdc_set_high_tmds_clock_ratio(struct i2c_adapter *adapter, bool set)
 	return true;
 }
 EXPORT_SYMBOL(drm_scdc_set_high_tmds_clock_ratio);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

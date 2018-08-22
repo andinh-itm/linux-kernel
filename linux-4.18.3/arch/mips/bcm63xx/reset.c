@@ -217,3 +217,4 @@ void bcm63xx_core_set_reset(enum bcm63xx_core_reset core, int reset)
 EXPORT_SYMBOL(bcm63xx_core_set_reset);
 
 postcore_initcall(bcm63xx_reset_bits_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

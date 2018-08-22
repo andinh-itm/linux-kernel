@@ -491,3 +491,4 @@ module_spi_driver(mcp4131_driver);
 MODULE_AUTHOR("Slawomir Stepien <sst@poczta.fm>");
 MODULE_DESCRIPTION("MCP4131 digital potentiometer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

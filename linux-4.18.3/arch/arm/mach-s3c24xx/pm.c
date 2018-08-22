@@ -119,3 +119,4 @@ void s3c_pm_save_core(void)
 	s3c_pm_do_save(core_save, ARRAY_SIZE(core_save));
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

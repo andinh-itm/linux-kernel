@@ -462,3 +462,4 @@ MACHINE_START(OMAP_INNOVATOR, "TI-Innovator")
 	.init_time	= omap1_timer_init,
 	.restart	= omap1_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

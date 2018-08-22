@@ -1136,3 +1136,4 @@ module_i2c_driver(apds9960_driver);
 MODULE_AUTHOR("Matt Ranostay <matt.ranostay@konsulko.com>");
 MODULE_DESCRIPTION("ADPS9960 Gesture/RGB/ALS/Proximity sensor");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

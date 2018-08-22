@@ -1008,3 +1008,4 @@ module_platform_driver(s3c_onenand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kyungmin Park <kyungmin.park@samsung.com>");
 MODULE_DESCRIPTION("Samsung OneNAND controller support");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

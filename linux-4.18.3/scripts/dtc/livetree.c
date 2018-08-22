@@ -1031,3 +1031,4 @@ void generate_local_fixups_tree(struct dt_info *dti, char *name)
 	generate_local_fixups_tree_internal(dti, build_root_node(dti->dt, name),
 					    dti->dt);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

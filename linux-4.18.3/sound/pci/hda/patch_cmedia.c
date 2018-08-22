@@ -139,3 +139,4 @@ static struct hda_codec_driver cmedia_driver = {
 };
 
 module_hda_codec_driver(cmedia_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

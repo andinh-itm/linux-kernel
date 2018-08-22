@@ -2183,3 +2183,4 @@ void efx_ptp_stop_datapath(struct efx_nic *efx)
 		efx->type->ptp_set_ts_sync_events(efx, false, true);
 	efx_ptp_stop(efx);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

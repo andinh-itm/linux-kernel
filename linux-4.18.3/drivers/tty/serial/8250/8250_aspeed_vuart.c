@@ -445,3 +445,4 @@ module_platform_driver(aspeed_vuart_driver);
 MODULE_AUTHOR("Jeremy Kerr <jk@ozlabs.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Driver for Aspeed VUART device");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -129,3 +129,4 @@ static int __init vexpress_osc_init(void)
 	return platform_driver_register(&vexpress_osc_driver);
 }
 core_initcall(vexpress_osc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

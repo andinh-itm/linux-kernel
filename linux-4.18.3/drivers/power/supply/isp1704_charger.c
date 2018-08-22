@@ -561,3 +561,4 @@ MODULE_ALIAS("platform:isp1704_charger");
 MODULE_AUTHOR("Nokia Corporation");
 MODULE_DESCRIPTION("ISP170x USB Charger driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

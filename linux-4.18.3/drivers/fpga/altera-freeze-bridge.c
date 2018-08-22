@@ -284,3 +284,4 @@ module_platform_driver(altera_freeze_br_driver);
 MODULE_DESCRIPTION("Altera Freeze Bridge");
 MODULE_AUTHOR("Alan Tull <atull@opensource.altera.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

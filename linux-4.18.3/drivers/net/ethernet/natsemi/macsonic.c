@@ -670,3 +670,4 @@ static void __exit mac_sonic_exit(void)
 		nubus_driver_unregister(&mac_sonic_nubus_driver);
 }
 module_exit(mac_sonic_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

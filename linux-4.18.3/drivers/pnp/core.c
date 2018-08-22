@@ -251,3 +251,4 @@ int pnp_debug;
 #if defined(CONFIG_PNP_DEBUG_MESSAGES)
 module_param_named(debug, pnp_debug, int, 0644);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

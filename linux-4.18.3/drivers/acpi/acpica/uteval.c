@@ -313,3 +313,4 @@ acpi_ut_execute_power_methods(struct acpi_namespace_node *device_node,
 
 	return_ACPI_STATUS(final_status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

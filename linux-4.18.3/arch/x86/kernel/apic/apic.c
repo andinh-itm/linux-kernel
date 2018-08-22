@@ -2764,3 +2764,4 @@ static int __init apic_set_extnmi(char *arg)
 	return 0;
 }
 early_param("apic_extnmi", apic_set_extnmi);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

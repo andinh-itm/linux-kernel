@@ -1906,3 +1906,4 @@ void initisar(struct IsdnCardState *cs)
 	timer_setup(&cs->bcs[0].hw.isar.ftimer, ftimer_handler, 0);
 	timer_setup(&cs->bcs[1].hw.isar.ftimer, ftimer_handler, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -104,3 +104,4 @@ struct wlan_pwr_cfg rtl8723B_leave_lps_flow[RTL8723B_TRANS_LPS_TO_ACT_STEPS +
 	RTL8723B_TRANS_LPS_TO_ACT
 	RTL8723B_TRANS_END
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

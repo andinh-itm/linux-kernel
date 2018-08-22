@@ -405,3 +405,4 @@ STATIC int INIT __decompress(unsigned char *buf, long len,
 	return unxz(buf, len, fill, flush, out_buf, pos, error);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1466,3 +1466,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alex Dubov");
 MODULE_DESCRIPTION("Sony MemoryStickPro block device driver");
 MODULE_DEVICE_TABLE(memstick, mspro_block_id_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

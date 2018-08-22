@@ -99,3 +99,4 @@ DECLARE_EXPORT(__udivsi3_i4i);
 #ifdef CONFIG_MCOUNT
 DECLARE_EXPORT(mcount);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

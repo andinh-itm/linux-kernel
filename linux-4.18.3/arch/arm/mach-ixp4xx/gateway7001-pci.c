@@ -61,3 +61,4 @@ int __init gateway7001_pci_init(void)
 }
 
 subsys_initcall(gateway7001_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

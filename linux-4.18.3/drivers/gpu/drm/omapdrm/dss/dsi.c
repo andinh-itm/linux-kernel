@@ -5561,3 +5561,4 @@ struct platform_driver omap_dsihw_driver = {
 		.suppress_bind_attrs = true,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

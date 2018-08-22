@@ -359,3 +359,4 @@ DT_MACHINE_START(VERSATILE_PB, "ARM-Versatile (Device Tree Support)")
 	.init_machine	= versatile_dt_init,
 	.dt_compat	= versatile_dt_match,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

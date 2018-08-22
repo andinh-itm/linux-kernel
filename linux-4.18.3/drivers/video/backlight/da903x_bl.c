@@ -173,3 +173,4 @@ MODULE_AUTHOR("Eric Miao <eric.miao@marvell.com>");
 MODULE_AUTHOR("Mike Rapoport <mike@compulab.co.il>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da903x-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

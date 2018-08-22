@@ -75,3 +75,4 @@ void gigaset_isdn_regdrv(void)
 void gigaset_isdn_unregdrv(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

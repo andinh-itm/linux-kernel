@@ -1986,3 +1986,4 @@ static int __init tegra_pmc_early_init(void)
 	return 0;
 }
 early_initcall(tegra_pmc_early_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

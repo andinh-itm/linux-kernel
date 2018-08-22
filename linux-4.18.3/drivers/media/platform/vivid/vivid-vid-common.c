@@ -867,3 +867,4 @@ int vidioc_g_edid(struct file *file, void *_fh,
 	memcpy(edid->edid, dev->edid + edid->start_block * 128, edid->blocks * 128);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

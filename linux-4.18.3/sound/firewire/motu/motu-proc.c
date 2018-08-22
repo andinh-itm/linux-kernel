@@ -116,3 +116,4 @@ void snd_motu_proc_init(struct snd_motu *motu)
 	add_node(motu, root, "clock", proc_read_clock);
 	add_node(motu, root, "format", proc_read_format);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

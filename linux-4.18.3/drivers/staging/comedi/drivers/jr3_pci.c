@@ -814,3 +814,4 @@ MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for JR3/PCI force sensor board");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE("comedi/jr3pci.idm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -222,3 +222,4 @@ MODULE_LICENSE("GPL");
 
 module_init(parport_atari_init)
 module_exit(parport_atari_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

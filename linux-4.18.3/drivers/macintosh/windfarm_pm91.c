@@ -740,3 +740,4 @@ MODULE_DESCRIPTION("Thermal control logic for PowerMac9,1");
 MODULE_LICENSE("GPL");
 
 MODULE_ALIAS("platform:windfarm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

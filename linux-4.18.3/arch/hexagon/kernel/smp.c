@@ -265,3 +265,4 @@ void smp_start_cpus(void)
 	for (i = 0; i < NR_CPUS; i++)
 		set_cpu_possible(i, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

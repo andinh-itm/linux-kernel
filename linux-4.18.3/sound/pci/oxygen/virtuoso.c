@@ -105,3 +105,4 @@ static struct pci_driver xonar_driver = {
 };
 
 module_pci_driver(xonar_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

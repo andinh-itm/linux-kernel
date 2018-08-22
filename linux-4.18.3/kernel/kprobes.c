@@ -2640,3 +2640,4 @@ module_init(init_kprobes);
 
 /* defined in arch/.../kernel/kprobes.c */
 EXPORT_SYMBOL_GPL(jprobe_return);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

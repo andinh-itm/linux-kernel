@@ -2764,3 +2764,4 @@ const struct ethtool_ops bnxt_ethtool_ops = {
 	.self_test		= bnxt_self_test,
 	.reset			= bnxt_reset,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

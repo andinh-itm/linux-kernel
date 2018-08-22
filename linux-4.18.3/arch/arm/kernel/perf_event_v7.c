@@ -2036,3 +2036,4 @@ static struct platform_driver armv7_pmu_driver = {
 
 builtin_platform_driver(armv7_pmu_driver);
 #endif	/* CONFIG_CPU_V7 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

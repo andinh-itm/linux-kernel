@@ -132,3 +132,4 @@ void __init omap3xxx_voltagedomains_init(void)
 
 	voltdm_init(voltdms);
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -236,3 +236,4 @@ struct alpha_machine_vector eb66_mv __initmv = {
 };
 ALIAS_MV(eb66)
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

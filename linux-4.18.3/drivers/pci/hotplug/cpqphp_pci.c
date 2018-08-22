@@ -1558,3 +1558,4 @@ void cpqhp_destroy_board_resources(struct pci_func *func)
 		kfree(tres);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

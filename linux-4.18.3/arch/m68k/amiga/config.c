@@ -834,3 +834,4 @@ static void amiga_get_hardware_list(struct seq_file *m)
 #ifdef CONFIG_HW_CONSOLE
 EXPORT_SYMBOL_GPL(key_maps);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

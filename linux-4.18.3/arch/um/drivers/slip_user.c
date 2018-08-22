@@ -249,3 +249,4 @@ const struct net_user_info slip_user_info = {
 	.mtu		= BUF_SIZE,
 	.max_packet	= BUF_SIZE,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

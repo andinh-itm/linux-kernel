@@ -564,3 +564,4 @@ module_platform_driver(pxa27x_pinctrl_driver);
 MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
 MODULE_DESCRIPTION("Marvell PXA27x pinctrl driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

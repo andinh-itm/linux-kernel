@@ -112,3 +112,4 @@ MODULE_AUTHOR("Linus Walleij <linus.walleij@linaro.org>");
 MODULE_DESCRIPTION("TPS6105x regulator driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:tps6105x-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

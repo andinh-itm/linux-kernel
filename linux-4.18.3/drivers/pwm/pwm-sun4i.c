@@ -413,3 +413,4 @@ MODULE_ALIAS("platform:sun4i-pwm");
 MODULE_AUTHOR("Alexandre Belloni <alexandre.belloni@free-electrons.com>");
 MODULE_DESCRIPTION("Allwinner sun4i PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

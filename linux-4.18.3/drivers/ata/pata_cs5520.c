@@ -308,3 +308,4 @@ MODULE_DESCRIPTION("low-level driver for Cyrix CS5510/5520");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, pata_cs5520);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

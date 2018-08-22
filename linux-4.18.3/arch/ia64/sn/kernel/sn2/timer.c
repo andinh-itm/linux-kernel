@@ -59,3 +59,4 @@ void __init sn_timer_init(void)
 
 	ia64_udelay = &ia64_sn_udelay;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2548,3 +2548,4 @@ const struct bpf_func_proto bpf_sock_hash_update_proto = {
 	.arg3_type	= ARG_PTR_TO_MAP_KEY,
 	.arg4_type	= ARG_ANYTHING,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

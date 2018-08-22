@@ -1601,3 +1601,4 @@ module_i2c_driver(sgtl5000_i2c_driver);
 MODULE_DESCRIPTION("Freescale SGTL5000 ALSA SoC Codec Driver");
 MODULE_AUTHOR("Zeng Zhaoming <zengzm.kernel@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

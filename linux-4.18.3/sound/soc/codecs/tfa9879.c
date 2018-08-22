@@ -321,3 +321,4 @@ module_i2c_driver(tfa9879_i2c_driver);
 MODULE_DESCRIPTION("ASoC NXP Semiconductors TFA9879 driver");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -229,3 +229,4 @@ MODULE_DESCRIPTION("SiRF SoC watchdog driver");
 MODULE_AUTHOR("Xianglong Du <Xianglong.Du@csr.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sirfsoc-wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

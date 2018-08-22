@@ -2269,3 +2269,4 @@ void efx_mcdi_mtd_rename(struct efx_mtd_partition *part)
 }
 
 #endif /* CONFIG_SFC_MTD */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

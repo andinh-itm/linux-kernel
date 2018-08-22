@@ -262,3 +262,4 @@ module_exit(a2091_exit);
 
 MODULE_DESCRIPTION("Commodore A2091/A590 SCSI");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

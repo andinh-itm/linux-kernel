@@ -75,3 +75,4 @@ static int __init tegra_hotplug_init(void)
 	return 0;
 }
 pure_initcall(tegra_hotplug_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

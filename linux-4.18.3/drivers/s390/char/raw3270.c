@@ -1355,3 +1355,4 @@ EXPORT_SYMBOL(raw3270_reset);
 EXPORT_SYMBOL(raw3270_register_notifier);
 EXPORT_SYMBOL(raw3270_unregister_notifier);
 EXPORT_SYMBOL(raw3270_wait_queue);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

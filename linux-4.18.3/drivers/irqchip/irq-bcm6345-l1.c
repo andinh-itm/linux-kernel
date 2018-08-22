@@ -364,3 +364,4 @@ out_free:
 }
 
 IRQCHIP_DECLARE(bcm6345_l1, "brcm,bcm6345-l1-intc", bcm6345_l1_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

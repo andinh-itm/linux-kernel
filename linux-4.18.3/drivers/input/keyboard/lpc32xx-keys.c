@@ -340,3 +340,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kevin Wells <kevin.wells@nxp.com>");
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("Key scanner driver for LPC32XX devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

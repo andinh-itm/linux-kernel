@@ -186,3 +186,4 @@ module_platform_driver_probe(amiga_gayle_ide_driver, amiga_gayle_ide_probe);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:amiga-gayle-ide");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

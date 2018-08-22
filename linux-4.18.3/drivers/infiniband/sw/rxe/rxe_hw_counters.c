@@ -76,3 +76,4 @@ struct rdma_hw_stats *rxe_ib_alloc_hw_stats(struct ib_device *ibdev,
 					  ARRAY_SIZE(rxe_counter_name),
 					  RDMA_HW_STATS_DEFAULT_LIFESPAN);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

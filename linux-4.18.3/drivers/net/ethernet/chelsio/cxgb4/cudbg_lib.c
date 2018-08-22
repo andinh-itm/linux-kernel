@@ -2841,3 +2841,4 @@ int cudbg_collect_hma_indirect(struct cudbg_init *pdbg_init,
 	}
 	return cudbg_write_and_release_buff(pdbg_init, &temp_buff, dbg_buff);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

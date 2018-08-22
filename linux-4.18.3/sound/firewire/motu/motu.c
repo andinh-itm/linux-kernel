@@ -281,3 +281,4 @@ static void __exit alsa_motu_exit(void)
 
 module_init(alsa_motu_init);
 module_exit(alsa_motu_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

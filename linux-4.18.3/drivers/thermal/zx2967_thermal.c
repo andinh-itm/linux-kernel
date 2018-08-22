@@ -256,3 +256,4 @@ module_platform_driver(zx2967_thermal_driver);
 MODULE_AUTHOR("Baoyou Xie <baoyou.xie@linaro.org>");
 MODULE_DESCRIPTION("ZTE zx2967 thermal driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

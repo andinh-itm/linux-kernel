@@ -189,3 +189,4 @@ void iio_simple_dummy_unconfigure_buffer(struct iio_dev *indio_dev)
 	iio_dealloc_pollfunc(indio_dev->pollfunc);
 	iio_kfifo_free(indio_dev->buffer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

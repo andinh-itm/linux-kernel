@@ -136,3 +136,4 @@ const struct hdmi_phy_cfg msm_hdmi_phy_8x60_cfg = {
 	.powerup = hdmi_phy_8x60_powerup,
 	.powerdown = hdmi_phy_8x60_powerdown,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

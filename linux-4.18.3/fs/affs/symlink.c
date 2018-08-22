@@ -74,3 +74,4 @@ const struct inode_operations affs_symlink_inode_operations = {
 	.get_link	= page_get_link,
 	.setattr	= affs_notify_change,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

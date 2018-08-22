@@ -143,3 +143,4 @@ MODULE_ALIAS_CRYPTO("sha256");
 MODULE_ALIAS_CRYPTO("sha224");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA256 and SHA224 Secure Hash Algorithm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

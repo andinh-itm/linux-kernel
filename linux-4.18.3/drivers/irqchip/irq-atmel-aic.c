@@ -272,3 +272,4 @@ static int __init aic_of_init(struct device_node *node,
 	return 0;
 }
 IRQCHIP_DECLARE(at91rm9200_aic, "atmel,at91rm9200-aic", aic_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

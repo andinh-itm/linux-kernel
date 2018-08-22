@@ -543,3 +543,4 @@ out:
 	inode_set_bytes(inode, HFS_I(inode)->fs_blocks << sb->s_blocksize_bits);
 	mark_inode_dirty(inode);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

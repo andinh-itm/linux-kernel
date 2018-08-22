@@ -212,3 +212,4 @@ void acpi_ps_set_name(union acpi_parse_object *op, u32 name)
 
 	op->named.name = name;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

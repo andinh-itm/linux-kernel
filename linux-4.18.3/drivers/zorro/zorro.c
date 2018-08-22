@@ -244,3 +244,4 @@ static int __init amiga_zorro_init(void)
 module_init(amiga_zorro_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

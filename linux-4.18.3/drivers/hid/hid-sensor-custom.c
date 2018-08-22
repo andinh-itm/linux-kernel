@@ -847,3 +847,4 @@ module_platform_driver(hid_sensor_custom_platform_driver);
 MODULE_DESCRIPTION("HID Sensor Custom and Generic sensor Driver");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

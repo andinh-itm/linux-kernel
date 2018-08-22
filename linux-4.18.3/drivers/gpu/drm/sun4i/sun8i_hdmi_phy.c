@@ -541,3 +541,4 @@ void sun8i_hdmi_phy_remove(struct sun8i_dw_hdmi *hdmi)
 	clk_put(phy->clk_mod);
 	clk_put(phy->clk_bus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

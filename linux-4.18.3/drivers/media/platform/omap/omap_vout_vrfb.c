@@ -420,3 +420,4 @@ void omap_vout_calculate_vrfb_offset(struct omap_vout_device *vout)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

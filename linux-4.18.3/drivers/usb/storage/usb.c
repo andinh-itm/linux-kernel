@@ -1154,3 +1154,4 @@ static struct usb_driver usb_storage_driver = {
 };
 
 module_usb_stor_driver(usb_storage_driver, usb_stor_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

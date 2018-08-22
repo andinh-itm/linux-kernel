@@ -68,3 +68,4 @@ static int set_mixer_defaults(struct echoaudio *chip)
 {
 	return init_line_levels(chip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

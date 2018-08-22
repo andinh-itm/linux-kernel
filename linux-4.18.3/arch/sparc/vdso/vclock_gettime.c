@@ -262,3 +262,4 @@ __vdso_gettimeofday(struct timeval *tv, struct timezone *tz)
 int
 gettimeofday(struct timeval *, struct timezone *)
 	__attribute__((weak, alias("__vdso_gettimeofday")));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

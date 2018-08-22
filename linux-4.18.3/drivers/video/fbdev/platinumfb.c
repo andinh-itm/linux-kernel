@@ -711,3 +711,4 @@ module_init(platinumfb_init);
 #ifdef MODULE
 module_exit(platinumfb_exit);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

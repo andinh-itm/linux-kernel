@@ -1012,3 +1012,4 @@ static struct usb_driver sddr55_driver = {
 };
 
 module_usb_stor_driver(sddr55_driver, sddr55_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

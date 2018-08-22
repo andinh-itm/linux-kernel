@@ -534,3 +534,4 @@ MODULE_ALIAS("platform:asoc-simple-card");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ASoC Simple Sound Card");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

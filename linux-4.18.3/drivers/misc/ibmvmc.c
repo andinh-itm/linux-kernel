@@ -2416,3 +2416,4 @@ MODULE_AUTHOR("Steven Royer <seroyer@linux.vnet.ibm.com>");
 MODULE_DESCRIPTION("IBM VMC");
 MODULE_VERSION(IBMVMC_DRIVER_VERSION);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

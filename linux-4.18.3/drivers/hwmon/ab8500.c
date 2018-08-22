@@ -205,3 +205,4 @@ EXPORT_SYMBOL(abx500_hwmon_init);
 MODULE_AUTHOR("Hongbo Zhang <hongbo.zhang@linaro.org>");
 MODULE_DESCRIPTION("AB8500 temperature driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

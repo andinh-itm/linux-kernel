@@ -173,3 +173,4 @@ struct vsp1_hsit *vsp1_hsit_create(struct vsp1_device *vsp1, bool inverse)
 
 	return hsit;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

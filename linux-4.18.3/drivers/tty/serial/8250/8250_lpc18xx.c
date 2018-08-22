@@ -224,3 +224,4 @@ module_platform_driver(lpc18xx_serial_driver);
 MODULE_AUTHOR("Joachim Eastwood <manabian@gmail.com>");
 MODULE_DESCRIPTION("Serial port driver NXP LPC18xx/43xx devices");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

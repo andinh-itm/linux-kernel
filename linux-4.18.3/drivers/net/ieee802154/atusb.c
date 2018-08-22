@@ -1177,3 +1177,4 @@ MODULE_AUTHOR("Werner Almesberger <werner@almesberger.net>");
 MODULE_AUTHOR("Josef Filzmaier <j.filzmaier@gmx.at>");
 MODULE_DESCRIPTION("ATUSB IEEE 802.15.4 Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

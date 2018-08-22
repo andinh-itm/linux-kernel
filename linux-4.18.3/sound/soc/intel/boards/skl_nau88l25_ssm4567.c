@@ -740,3 +740,4 @@ MODULE_DESCRIPTION("Intel Audio Machine driver for SKL with NAU88L25 and SSM4567
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:skl_n88l25_s4567");
 MODULE_ALIAS("platform:kbl_n88l25_s4567");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

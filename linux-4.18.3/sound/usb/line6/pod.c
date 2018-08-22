@@ -587,3 +587,4 @@ module_usb_driver(pod_driver);
 
 MODULE_DESCRIPTION("Line 6 POD USB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

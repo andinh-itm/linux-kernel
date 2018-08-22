@@ -183,3 +183,4 @@ static struct sh_machine_vector mv_apsh4a3a __initmv = {
 	.mv_init_irq		= apsh4a3a_init_irq,
 	.mv_mode_pins		= apsh4a3a_mode_pins,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

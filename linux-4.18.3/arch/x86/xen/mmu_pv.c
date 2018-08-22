@@ -2672,3 +2672,4 @@ phys_addr_t paddr_vmcoreinfo_note(void)
 		return __pa(vmcoreinfo_note);
 }
 #endif /* CONFIG_KEXEC_CORE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

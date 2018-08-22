@@ -1484,3 +1484,4 @@ module_exit(max310x_uart_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("MAX310X serial driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

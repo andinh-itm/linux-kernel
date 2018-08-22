@@ -1141,3 +1141,4 @@ int rtc_set_offset(struct rtc_device *rtc, long offset)
 	trace_rtc_set_offset(offset, ret);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

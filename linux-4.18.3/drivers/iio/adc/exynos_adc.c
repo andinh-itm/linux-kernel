@@ -986,3 +986,4 @@ module_platform_driver(exynos_adc_driver);
 MODULE_AUTHOR("Naveen Krishna Chatradhi <ch.naveen@samsung.com>");
 MODULE_DESCRIPTION("Samsung EXYNOS5 ADC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

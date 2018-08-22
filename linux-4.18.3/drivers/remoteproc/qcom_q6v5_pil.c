@@ -1504,3 +1504,4 @@ module_platform_driver(q6v5_driver);
 
 MODULE_DESCRIPTION("Peripheral Image Loader for Hexagon");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

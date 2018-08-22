@@ -326,3 +326,4 @@ module_platform_driver(moxart_rtc_driver);
 MODULE_DESCRIPTION("MOXART RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jonas Jensen <jonas.jensen@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

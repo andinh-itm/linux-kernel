@@ -276,3 +276,4 @@ MODULE_ALIAS("platform:cpcap");
 MODULE_DESCRIPTION("CPCAP driver");
 MODULE_AUTHOR("Tony Lindgren <tony@atomide.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -323,3 +323,4 @@ asmlinkage void do_notify_resume(struct pt_regs *regs, int in_syscall)
 	if (test_and_clear_thread_flag(TIF_NOTIFY_RESUME))
 		tracehook_notify_resume(regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

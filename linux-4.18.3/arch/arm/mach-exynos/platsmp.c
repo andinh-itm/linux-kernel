@@ -466,3 +466,4 @@ const struct smp_operations exynos_smp_ops __initconst = {
 	.cpu_die		= exynos_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

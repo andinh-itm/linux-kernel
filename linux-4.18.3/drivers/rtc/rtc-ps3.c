@@ -83,3 +83,4 @@ MODULE_AUTHOR("Sony Corporation");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("ps3 RTC driver");
 MODULE_ALIAS("platform:rtc-ps3");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

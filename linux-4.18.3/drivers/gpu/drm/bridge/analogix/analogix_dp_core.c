@@ -1735,3 +1735,4 @@ EXPORT_SYMBOL_GPL(analogix_dp_stop_crc);
 MODULE_AUTHOR("Jingoo Han <jg1.han@samsung.com>");
 MODULE_DESCRIPTION("Analogix DP Core Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -222,3 +222,4 @@ static void __exit snd_dg00x_exit(void)
 
 module_init(snd_dg00x_init);
 module_exit(snd_dg00x_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

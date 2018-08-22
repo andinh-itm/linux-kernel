@@ -1549,3 +1549,4 @@ void vmcore_cleanup(void)
 	/* clear vmcore device dump list */
 	vmcore_free_device_dumps();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

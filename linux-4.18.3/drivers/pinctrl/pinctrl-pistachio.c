@@ -1480,3 +1480,4 @@ static int __init pistachio_pinctrl_register(void)
 	return platform_driver_register(&pistachio_pinctrl_driver);
 }
 arch_initcall(pistachio_pinctrl_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

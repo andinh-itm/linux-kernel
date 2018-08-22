@@ -221,3 +221,4 @@ struct sti_vid *sti_vid_create(struct device *dev, struct drm_device *drm_dev,
 
 	return vid;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

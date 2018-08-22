@@ -236,3 +236,4 @@ module_spi_driver(ad8801_driver);
 MODULE_AUTHOR("Gwenhael Goavec-Merou <gwenhael.goavec-merou@trabucayre.com>");
 MODULE_DESCRIPTION("Analog Devices AD8801/AD8803 DAC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

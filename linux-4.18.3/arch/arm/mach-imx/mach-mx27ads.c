@@ -404,3 +404,4 @@ MACHINE_START(MX27ADS, "Freescale i.MX27ADS")
 	.init_late	= mx27ads_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

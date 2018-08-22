@@ -17,3 +17,4 @@ const struct inode_operations orangefs_symlink_inode_operations = {
 	.permission = orangefs_permission,
 	.update_time = orangefs_update_time,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

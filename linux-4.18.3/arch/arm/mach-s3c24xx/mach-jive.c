@@ -676,3 +676,4 @@ MACHINE_START(JIVE, "JIVE")
 	.init_machine	= jive_machine_init,
 	.init_time	= jive_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

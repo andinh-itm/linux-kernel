@@ -1310,3 +1310,4 @@ MODULE_AUTHOR("Jukka Rissanen <jukka.rissanen@linux.intel.com>");
 MODULE_DESCRIPTION("Bluetooth 6LoWPAN");
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

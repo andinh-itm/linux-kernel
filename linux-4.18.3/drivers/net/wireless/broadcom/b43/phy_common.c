@@ -651,3 +651,4 @@ struct b43_c32 b43_cordic(int theta)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

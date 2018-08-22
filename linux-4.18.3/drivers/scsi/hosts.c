@@ -632,3 +632,4 @@ void scsi_flush_work(struct Scsi_Host *shost)
 	flush_workqueue(shost->work_q);
 }
 EXPORT_SYMBOL_GPL(scsi_flush_work);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

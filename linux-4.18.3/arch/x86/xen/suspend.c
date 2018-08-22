@@ -82,3 +82,4 @@ void xen_arch_suspend(void)
 
 	on_each_cpu(xen_vcpu_notify_suspend, NULL, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

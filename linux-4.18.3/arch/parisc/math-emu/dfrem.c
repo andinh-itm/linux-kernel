@@ -295,3 +295,4 @@ dbl_frem (dbl_floating_point * srcptr1, dbl_floating_point * srcptr2,
 	Dbl_copytoptr(resultp1,resultp2,dstptr);
 	return(NOEXCEPTION);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

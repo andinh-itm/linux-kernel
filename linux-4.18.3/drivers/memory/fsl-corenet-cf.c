@@ -281,3 +281,4 @@ module_platform_driver(ccf_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Freescale Semiconductor");
 MODULE_DESCRIPTION("Freescale CoreNet Coherency Fabric error reporting");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -698,3 +698,4 @@ struct kvm_vm *vm_create_default(uint32_t vcpuid, void *guest_code)
 
 	return vm;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

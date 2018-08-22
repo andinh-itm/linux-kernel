@@ -1476,3 +1476,4 @@ module_platform_driver(at91_adc_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Atmel AT91 ADC Driver");
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

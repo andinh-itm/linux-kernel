@@ -134,3 +134,4 @@ static long snd_seq_ioctl_compat(struct file *file, unsigned int cmd, unsigned l
 	}
 	return -ENOIOCTLCMD;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

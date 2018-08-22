@@ -394,3 +394,4 @@ int mt6797_dai_adda_register(struct mtk_base_afe *afe)
 	afe->sub_dais[id].num_dapm_routes = ARRAY_SIZE(mtk_dai_adda_routes);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

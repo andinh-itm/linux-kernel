@@ -392,3 +392,4 @@ void __init sh4_cache_init(void)
 
 	sh4__flush_region_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -642,3 +642,4 @@ int fm10k_ndo_get_vf_config(struct net_device *netdev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -460,3 +460,4 @@ module_exit(cfi_probe_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org> et al.");
 MODULE_DESCRIPTION("Probe code for CFI-compliant flash chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -157,3 +157,4 @@ static void __exit mvme16x_scsi_exit(void)
 
 module_init(mvme16x_scsi_init);
 module_exit(mvme16x_scsi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1399,3 +1399,4 @@ static int jffs2_garbage_collect_dnode(struct jffs2_sb_info *c, struct jffs2_era
 	jffs2_gc_release_page(c, pg_ptr, &pg);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

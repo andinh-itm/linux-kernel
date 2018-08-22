@@ -1804,3 +1804,4 @@ bool drm_mode_is_420(const struct drm_display_info *display,
 		drm_mode_is_420_also(display, mode);
 }
 EXPORT_SYMBOL(drm_mode_is_420);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -217,3 +217,4 @@ int cx18_av_loadfw(struct cx18 *cx)
 }
 
 MODULE_FIRMWARE(FWFILE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

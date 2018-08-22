@@ -51,3 +51,4 @@ static void __exit ledtrig_usb_exit(void)
 
 module_init(ledtrig_usb_init);
 module_exit(ledtrig_usb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

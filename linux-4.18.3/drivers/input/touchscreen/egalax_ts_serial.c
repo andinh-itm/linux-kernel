@@ -192,3 +192,4 @@ module_serio_driver(egalax_drv);
 MODULE_AUTHOR("Zoltán Böszörményi <zboszor@pr.hu>");
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

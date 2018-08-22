@@ -145,3 +145,4 @@ nv50_fifo_new(struct nvkm_device *device, int index, struct nvkm_fifo **pfifo)
 {
 	return nv50_fifo_new_(&nv50_fifo, device, index, pfifo);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

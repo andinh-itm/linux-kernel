@@ -23,3 +23,4 @@ void arch_jump_label_transform(struct jump_entry *entry,
 		patch_instruction(addr, PPC_INST_NOP);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

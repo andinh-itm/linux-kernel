@@ -321,3 +321,4 @@ static void __exit alsa_sb_common_exit(void)
 
 module_init(alsa_sb_common_init)
 module_exit(alsa_sb_common_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

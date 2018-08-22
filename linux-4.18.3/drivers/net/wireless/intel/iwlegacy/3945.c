@@ -2740,3 +2740,4 @@ const struct pci_device_id il3945_hw_card_ids[] = {
 };
 
 MODULE_DEVICE_TABLE(pci, il3945_hw_card_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -173,3 +173,4 @@ void DOT11D_ScanComplete(struct rtllib_device *dev)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

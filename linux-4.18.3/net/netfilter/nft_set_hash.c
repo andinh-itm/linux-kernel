@@ -717,3 +717,4 @@ struct nft_set_type nft_set_hash_fast_type __read_mostly = {
 		.get		= nft_hash_get,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

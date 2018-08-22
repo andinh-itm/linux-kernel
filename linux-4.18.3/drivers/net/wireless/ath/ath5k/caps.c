@@ -152,3 +152,4 @@ int ath5k_hw_disable_pspoll(struct ath5k_hw *ah)
 
 	return -EIO;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -149,3 +149,4 @@ void ath9k_dfs_init_debug(struct ath_softc *sc)
 	debugfs_create_file("dfs_simulate_radar", 0200,
 			    sc->debug.debugfs_phy, sc, &fops_simulate_radar);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

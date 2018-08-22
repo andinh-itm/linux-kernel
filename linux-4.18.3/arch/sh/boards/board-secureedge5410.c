@@ -73,3 +73,4 @@ static struct sh_machine_vector mv_snapgear __initmv = {
 	.mv_name		= "SnapGear SecureEdge5410",
 	.mv_init_irq		= init_snapgear_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

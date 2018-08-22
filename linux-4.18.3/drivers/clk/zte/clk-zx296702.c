@@ -742,3 +742,4 @@ static void __init zx296702_lsp1_clocks_init(struct device_node *np)
 }
 CLK_OF_DECLARE(zx296702_lsp1_clk, "zte,zx296702-lsp1crpm-clk",
 		zx296702_lsp1_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

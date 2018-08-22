@@ -296,3 +296,4 @@ void print_hex_dump_bytes(const char *prefix_str, int prefix_type,
 EXPORT_SYMBOL(print_hex_dump_bytes);
 #endif /* !defined(CONFIG_DYNAMIC_DEBUG) */
 #endif /* defined(CONFIG_PRINTK) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -844,3 +844,4 @@ module_platform_driver(fsl_espi_driver);
 MODULE_AUTHOR("Mingkai Hu");
 MODULE_DESCRIPTION("Enhanced Freescale SPI Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

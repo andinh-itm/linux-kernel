@@ -167,3 +167,4 @@ module_init(nfcon_init);
 module_exit(nfcon_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

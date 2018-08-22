@@ -579,3 +579,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Huawei Tech. Co., Ltd.");
 MODULE_DESCRIPTION("Hisilicon HNS MDIO driver");
 MODULE_ALIAS("platform:" MDIO_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

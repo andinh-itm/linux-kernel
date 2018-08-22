@@ -679,3 +679,4 @@ int arch_remove_memory(u64 start, u64 size, struct vmem_altmap *altmap)
 }
 #endif
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

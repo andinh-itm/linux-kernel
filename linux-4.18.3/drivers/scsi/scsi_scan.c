@@ -1939,3 +1939,4 @@ void scsi_free_host_dev(struct scsi_device *sdev)
 }
 EXPORT_SYMBOL(scsi_free_host_dev);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

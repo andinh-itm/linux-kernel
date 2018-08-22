@@ -730,3 +730,4 @@ static long snd_pcm_ioctl_compat(struct file *file, unsigned int cmd, unsigned l
 
 	return -ENOIOCTLCMD;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

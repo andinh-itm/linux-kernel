@@ -392,3 +392,4 @@ int blkdev_reset_zones_ioctl(struct block_device *bdev, fmode_t mode,
 	return blkdev_reset_zones(bdev, zrange.sector, zrange.nr_sectors,
 				  GFP_KERNEL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

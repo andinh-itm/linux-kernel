@@ -428,3 +428,4 @@ MACHINE_START(PCA100, "phyCARD-i.MX27")
 	.init_time	= pca100_timer_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

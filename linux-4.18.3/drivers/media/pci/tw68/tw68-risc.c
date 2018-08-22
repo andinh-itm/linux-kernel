@@ -229,3 +229,4 @@ void tw68_risc_program_dump(struct tw68_core *core, struct tw68_buf *buf)
 		tw68_risc_decode(*addr, *(addr+1));
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

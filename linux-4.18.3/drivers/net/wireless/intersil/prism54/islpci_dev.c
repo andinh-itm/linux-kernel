@@ -962,3 +962,4 @@ islpci_set_state(islpci_private *priv, islpci_state_t new_state)
 	/* unlock */
 	return old_state;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -287,3 +287,4 @@ module_platform_driver(zx2967_wdt_driver);
 MODULE_AUTHOR("Baoyou Xie <baoyou.xie@linaro.org>");
 MODULE_DESCRIPTION("ZTE zx2967 Watchdog Device Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

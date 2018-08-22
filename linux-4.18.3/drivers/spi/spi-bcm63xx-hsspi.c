@@ -511,3 +511,4 @@ MODULE_ALIAS("platform:bcm63xx_hsspi");
 MODULE_DESCRIPTION("Broadcom BCM63xx High Speed SPI Controller driver");
 MODULE_AUTHOR("Jonas Gorski <jogo@openwrt.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

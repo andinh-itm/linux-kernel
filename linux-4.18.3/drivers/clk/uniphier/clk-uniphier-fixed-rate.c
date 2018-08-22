@@ -45,3 +45,4 @@ struct clk_hw *uniphier_clk_register_fixed_rate(struct device *dev,
 
 	return &fixed->hw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

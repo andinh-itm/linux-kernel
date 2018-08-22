@@ -268,3 +268,4 @@ void __brcms_dbg(struct device *dev, u32 level, const char *func,
 	va_end(args);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

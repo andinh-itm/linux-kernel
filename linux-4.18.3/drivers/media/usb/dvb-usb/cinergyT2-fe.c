@@ -325,3 +325,4 @@ static const struct dvb_frontend_ops cinergyt2_fe_ops = {
 	.read_snr		= cinergyt2_fe_read_snr,
 	.read_ucblocks		= cinergyt2_fe_read_unc_blocks,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

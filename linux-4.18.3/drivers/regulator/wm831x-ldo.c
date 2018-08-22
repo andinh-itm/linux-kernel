@@ -678,3 +678,4 @@ MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-ldo");
 MODULE_ALIAS("platform:wm831x-aldo");
 MODULE_ALIAS("platform:wm831x-aliveldo");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

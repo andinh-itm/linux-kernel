@@ -52,3 +52,4 @@ void __init plat_time_init(void)
 	mips_hpt_frequency = (end - start) * 10;
 	printk(KERN_INFO "MIPS counter frequency %dHz\n", mips_hpt_frequency);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

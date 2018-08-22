@@ -263,3 +263,4 @@ static int __init imx_gpcv2_irqchip_init(struct device_node *node,
 }
 
 IRQCHIP_DECLARE(imx_gpcv2, "fsl,imx7d-gpc", imx_gpcv2_irqchip_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

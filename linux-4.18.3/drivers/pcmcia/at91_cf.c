@@ -417,3 +417,4 @@ MODULE_DESCRIPTION("AT91 Compact Flash Driver");
 MODULE_AUTHOR("David Brownell");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:at91_cf");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

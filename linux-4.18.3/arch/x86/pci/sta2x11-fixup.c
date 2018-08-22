@@ -328,3 +328,4 @@ out:
 DECLARE_PCI_FIXUP_RESUME(PCI_VENDOR_ID_STMICRO, PCI_ANY_ID, resume_mapping);
 
 #endif /* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

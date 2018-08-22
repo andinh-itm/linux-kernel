@@ -14,3 +14,4 @@ struct test arch_tests[] = {
 		.func = NULL,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

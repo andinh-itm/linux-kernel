@@ -2176,3 +2176,4 @@ void snd_emu10k1_resume_regs(struct snd_emu10k1 *emu)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -43,3 +43,4 @@ void wusbhc_pal_unregister(struct wusbhc *wusbhc)
 	if (wusbhc->uwb_rc)
 		uwb_pal_unregister(&wusbhc->pal);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

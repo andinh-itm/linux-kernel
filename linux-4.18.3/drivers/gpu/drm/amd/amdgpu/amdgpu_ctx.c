@@ -516,3 +516,4 @@ void amdgpu_ctx_mgr_fini(struct amdgpu_ctx_mgr *mgr)
 	idr_destroy(&mgr->ctx_handles);
 	mutex_destroy(&mgr->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -345,3 +345,4 @@ module_platform_driver(au1xac97c_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Au1000/1500/1100 AC97C ASoC driver");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

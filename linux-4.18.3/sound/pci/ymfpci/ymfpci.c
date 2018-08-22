@@ -369,3 +369,4 @@ static struct pci_driver ymfpci_driver = {
 };
 
 module_pci_driver(ymfpci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

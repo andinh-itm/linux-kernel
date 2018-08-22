@@ -499,3 +499,4 @@ int sa11x0_sc_set_wake(unsigned int irq, unsigned int on)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

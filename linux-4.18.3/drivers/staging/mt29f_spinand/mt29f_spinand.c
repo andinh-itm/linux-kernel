@@ -977,3 +977,4 @@ module_spi_driver(spinand_driver);
 MODULE_DESCRIPTION("SPI NAND driver for Micron");
 MODULE_AUTHOR("Henry Pan <hspan@micron.com>, Kamlakant Patel <kamlakant.patel@broadcom.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

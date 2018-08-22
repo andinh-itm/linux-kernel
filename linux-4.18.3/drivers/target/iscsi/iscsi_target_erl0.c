@@ -956,3 +956,4 @@ void iscsit_take_action_for_connection_exit(struct iscsi_conn *conn, bool *conn_
 	iscsit_handle_connection_cleanup(conn);
 	*conn_freed = true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

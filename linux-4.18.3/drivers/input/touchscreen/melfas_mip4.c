@@ -1613,3 +1613,4 @@ module_i2c_driver(mip4_driver);
 MODULE_DESCRIPTION("MELFAS MIP4 Touchscreen");
 MODULE_AUTHOR("Sangwon Jee <jeesw@melfas.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

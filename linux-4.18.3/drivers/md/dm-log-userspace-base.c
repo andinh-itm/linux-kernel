@@ -932,3 +932,4 @@ module_exit(userspace_dirty_log_exit);
 MODULE_DESCRIPTION(DM_NAME " userspace dirty log link");
 MODULE_AUTHOR("Jonathan Brassow <dm-devel@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

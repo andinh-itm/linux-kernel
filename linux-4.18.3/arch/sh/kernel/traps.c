@@ -191,3 +191,4 @@ BUILD_TRAP_HANDLER(nmi)
 
 	nmi_exit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

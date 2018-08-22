@@ -309,3 +309,4 @@ module_platform_driver(int3403_driver);
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ACPI INT3403 thermal driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

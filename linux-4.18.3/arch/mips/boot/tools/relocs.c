@@ -679,3 +679,4 @@ void process(FILE *fp, int as_text, int as_bin,
 	if (!keep_relocs)
 		remove_relocs(fp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

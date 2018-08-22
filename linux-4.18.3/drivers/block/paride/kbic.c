@@ -303,3 +303,4 @@ static void __exit kbic_exit(void)
 MODULE_LICENSE("GPL");
 module_init(kbic_init)
 module_exit(kbic_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

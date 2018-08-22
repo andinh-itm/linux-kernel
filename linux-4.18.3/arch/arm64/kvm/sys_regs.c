@@ -2546,3 +2546,4 @@ void kvm_reset_sys_regs(struct kvm_vcpu *vcpu)
 		if (__vcpu_sys_reg(vcpu, num) == 0x4242424242424242)
 			panic("Didn't reset __vcpu_sys_reg(%zi)", num);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

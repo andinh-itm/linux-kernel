@@ -435,3 +435,4 @@ MODULE_ALIAS("platform:bcm-ns2-drd-phy");
 MODULE_AUTHOR("Broadcom");
 MODULE_DESCRIPTION("Broadcom NS2 USB2 PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

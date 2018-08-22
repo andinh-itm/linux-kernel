@@ -1780,3 +1780,4 @@ void e1000e_update_adaptive(struct e1000_hw *hw)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

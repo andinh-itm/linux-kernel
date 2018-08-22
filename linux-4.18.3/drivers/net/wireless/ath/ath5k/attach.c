@@ -357,3 +357,4 @@ void ath5k_hw_deinit(struct ath5k_hw *ah)
 
 	/* assume interrupts are down */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

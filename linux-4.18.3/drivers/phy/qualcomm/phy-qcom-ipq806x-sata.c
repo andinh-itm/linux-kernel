@@ -207,3 +207,4 @@ module_platform_driver(qcom_ipq806x_sata_phy_driver);
 
 MODULE_DESCRIPTION("QCOM IPQ806x SATA PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

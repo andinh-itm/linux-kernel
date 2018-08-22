@@ -287,3 +287,4 @@ nv50_fb_new(struct nvkm_device *device, int index, struct nvkm_fb **pfb)
 {
 	return nv50_fb_new_(&nv50_fb, device, index, pfb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

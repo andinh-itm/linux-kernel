@@ -666,3 +666,4 @@ int cvmx_spi_interface_up_cb(int interface, cvmx_spi_mode_t mode)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

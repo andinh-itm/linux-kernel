@@ -263,3 +263,4 @@ void acpi_ev_terminate(void)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

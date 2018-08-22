@@ -613,3 +613,4 @@ void e1000e_reload_nvm_generic(struct e1000_hw *hw)
 	ew32(CTRL_EXT, ctrl_ext);
 	e1e_flush();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

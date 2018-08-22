@@ -878,3 +878,4 @@ static int __init mxs_dma_module_init(void)
 	return platform_driver_probe(&mxs_dma_driver, mxs_dma_probe);
 }
 subsys_initcall(mxs_dma_module_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

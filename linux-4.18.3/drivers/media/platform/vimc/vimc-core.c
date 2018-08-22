@@ -402,3 +402,4 @@ module_exit(vimc_exit);
 MODULE_DESCRIPTION("Virtual Media Controller Driver (VIMC)");
 MODULE_AUTHOR("Helen Fornazier <helen.fornazier@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -77,3 +77,4 @@ static int __init init_bootinfo_procfs(void)
 }
 
 arch_initcall(init_bootinfo_procfs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

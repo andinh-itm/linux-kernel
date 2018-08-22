@@ -142,3 +142,4 @@ MODULE_DESCRIPTION("Speakup support for Accent SA synthesizer");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -316,3 +316,4 @@ module_i2c_driver(hp03_driver);
 MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_DESCRIPTION("Driver for Hope RF HP03 pressure and temperature sensor");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

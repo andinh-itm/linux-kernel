@@ -216,3 +216,4 @@ static int __init zevio_timer_init(struct device_node *node)
 }
 
 TIMER_OF_DECLARE(zevio_timer, "lsi,zevio-timer", zevio_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

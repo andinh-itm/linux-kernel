@@ -228,3 +228,4 @@ MODULE_AUTHOR("Matthieu Crapet <mcrapet@gmail.com>");
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_ALIAS("platform:ep93xx-pwm");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

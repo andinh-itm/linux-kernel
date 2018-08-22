@@ -88,3 +88,4 @@ MACHINE_START(OMAP_GENERIC, "Generic OMAP1510/1610/1710")
 	.init_time	= omap1_timer_init,
 	.restart	= omap1_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -55,3 +55,4 @@ void rodata_test(void)
 
 	pr_info("all tests were successful\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

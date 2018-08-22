@@ -134,3 +134,4 @@ struct pci_ops nile4_pci_ops = {
 	.read = nile4_pcibios_read,
 	.write = nile4_pcibios_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

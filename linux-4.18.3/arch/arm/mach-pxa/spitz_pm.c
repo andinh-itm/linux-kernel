@@ -257,3 +257,4 @@ static void spitzpm_exit(void)
 
 module_init(spitzpm_init);
 module_exit(spitzpm_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

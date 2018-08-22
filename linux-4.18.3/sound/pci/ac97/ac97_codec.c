@@ -2957,3 +2957,4 @@ static void __exit alsa_ac97_exit(void)
 
 module_init(alsa_ac97_init)
 module_exit(alsa_ac97_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

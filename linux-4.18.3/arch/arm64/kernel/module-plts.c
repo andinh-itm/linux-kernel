@@ -277,3 +277,4 @@ int module_frob_arch_sections(Elf_Ehdr *ehdr, Elf_Shdr *sechdrs,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

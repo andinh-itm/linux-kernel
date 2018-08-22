@@ -653,3 +653,4 @@ void microblaze_cache_init(void)
 	invalidate_icache();
 	enable_icache();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

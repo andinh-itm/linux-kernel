@@ -605,3 +605,4 @@ MODULE_DESCRIPTION("MaxLinear MxL111SF DVB-T demodulator driver");
 MODULE_AUTHOR("Michael Krufky <mkrufky@linuxtv.org>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

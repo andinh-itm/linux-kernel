@@ -2175,3 +2175,4 @@ static void __exit alsa_timer_exit(void)
 
 module_init(alsa_timer_init)
 module_exit(alsa_timer_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

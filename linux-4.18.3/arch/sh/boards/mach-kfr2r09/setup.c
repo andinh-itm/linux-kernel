@@ -658,3 +658,4 @@ static struct sh_machine_vector mv_kfr2r09 __initmv = {
 	.mv_name		= "kfr2r09",
 	.mv_mode_pins		= kfr2r09_mode_pins,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

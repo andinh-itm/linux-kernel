@@ -804,3 +804,4 @@ struct snd_ice1712_card_info snd_vt1724_prodigy192_cards[] = {
 	},
 	{ } /* terminator */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

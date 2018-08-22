@@ -1284,3 +1284,4 @@ void mtk_mdp_unregister_m2m_device(struct mtk_mdp_dev *mdp)
 	video_unregister_device(mdp->vdev);
 	v4l2_m2m_release(mdp->m2m_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -175,3 +175,4 @@ const struct stmmac_mode_ops chain_mode_ops = {
 	.refill_desc3 = refill_desc3,
 	.clean_desc3 = clean_desc3,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

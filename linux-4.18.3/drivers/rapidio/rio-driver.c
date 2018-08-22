@@ -270,3 +270,4 @@ EXPORT_SYMBOL_GPL(rio_unregister_driver);
 EXPORT_SYMBOL_GPL(rio_bus_type);
 EXPORT_SYMBOL_GPL(rio_dev_get);
 EXPORT_SYMBOL_GPL(rio_dev_put);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

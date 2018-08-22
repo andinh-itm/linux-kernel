@@ -1168,3 +1168,4 @@ MODULE_DESCRIPTION("STM32 Soc SAI sub-block Interface");
 MODULE_AUTHOR("Olivier Moysan <olivier.moysan@st.com>");
 MODULE_ALIAS("platform:st,stm32-sai-sub");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

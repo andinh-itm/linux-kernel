@@ -612,3 +612,4 @@ static struct platform_driver h6_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(h6_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -172,3 +172,4 @@ int snd_bebob_create_midi_devices(struct snd_bebob *bebob)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

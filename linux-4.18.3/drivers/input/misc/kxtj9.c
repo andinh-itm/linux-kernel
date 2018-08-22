@@ -669,3 +669,4 @@ module_i2c_driver(kxtj9_driver);
 MODULE_DESCRIPTION("KXTJ9 accelerometer driver");
 MODULE_AUTHOR("Chris Hudson <chudson@kionix.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

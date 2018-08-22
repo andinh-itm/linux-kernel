@@ -570,3 +570,4 @@ module_exit(lp3972_module_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Axel Lin <axel.lin@gmail.com>");
 MODULE_DESCRIPTION("LP3972 PMIC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2481,3 +2481,4 @@ void brcmf_fws_bus_blocked(struct brcmf_pub *drvr, bool flow_blocked)
 			fws->stats.bus_flow_block++;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

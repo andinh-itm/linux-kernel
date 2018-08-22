@@ -250,3 +250,4 @@ int hvcs_free_connection(uint32_t unit_address)
 	return hvcs_convert(retval);
 }
 EXPORT_SYMBOL(hvcs_free_connection);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

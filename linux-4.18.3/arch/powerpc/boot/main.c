@@ -245,3 +245,4 @@ void start(void)
 	/* console closed so printf in fatal below may not work */
 	fatal("Error: Linux kernel returned to zImage boot wrapper!\n\r");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1979,3 +1979,4 @@ MODULE_DESCRIPTION("R8A66597 USB gadget driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Yoshihiro Shimoda");
 MODULE_ALIAS("platform:r8a66597_udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

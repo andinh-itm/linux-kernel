@@ -93,3 +93,4 @@ static struct platform_driver clk_mt2701_g3d_drv = {
 };
 
 builtin_platform_driver(clk_mt2701_g3d_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

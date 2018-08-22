@@ -114,3 +114,4 @@ MACHINE_START(TAVOREVB, "PXA910 Evaluation Board (aka TavorEVB)")
 	.init_machine   = tavorevb_init,
 	.restart	= mmp_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

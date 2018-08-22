@@ -1072,3 +1072,4 @@ module_exit(caam_pkc_exit);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("FSL CAAM support for PKC functions of crypto API");
 MODULE_AUTHOR("Freescale Semiconductor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

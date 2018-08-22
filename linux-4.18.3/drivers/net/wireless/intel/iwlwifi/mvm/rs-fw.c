@@ -325,3 +325,4 @@ void iwl_mvm_rs_add_sta(struct iwl_mvm *mvm, struct iwl_mvm_sta *mvmsta)
 	lq_sta->pers.dbg_fixed_rate = 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

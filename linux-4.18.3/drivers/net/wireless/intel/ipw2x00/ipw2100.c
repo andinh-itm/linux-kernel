@@ -8643,3 +8643,4 @@ static int ipw2100_ucode_download(struct ipw2100_priv *priv,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -278,3 +278,4 @@ module_init(test_atomics_init);
 module_exit(test_atomics_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

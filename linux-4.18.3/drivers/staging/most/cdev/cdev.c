@@ -556,3 +556,4 @@ module_exit(mod_exit);
 MODULE_AUTHOR("Christian Gromm <christian.gromm@microchip.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("character device component for mostcore");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

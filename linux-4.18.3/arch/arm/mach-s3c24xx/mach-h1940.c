@@ -748,3 +748,4 @@ MACHINE_START(H1940, "IPAQ-H1940")
 	.init_machine	= h1940_init,
 	.init_time	= h1940_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

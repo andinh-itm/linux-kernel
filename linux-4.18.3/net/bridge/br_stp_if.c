@@ -343,3 +343,4 @@ ssize_t br_show_bridge_id(char *buf, const struct bridge_id *id)
 	       id->addr[0], id->addr[1], id->addr[2],
 	       id->addr[3], id->addr[4], id->addr[5]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

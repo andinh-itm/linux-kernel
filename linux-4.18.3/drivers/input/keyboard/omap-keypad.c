@@ -333,3 +333,4 @@ MODULE_AUTHOR("Timo Teräs");
 MODULE_DESCRIPTION("OMAP Keypad Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

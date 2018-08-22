@@ -1446,3 +1446,4 @@ void gbaudio_tplg_release(struct gbaudio_module_info *module)
 	if (module->dapm_routes)
 		devm_kfree(module->dev, module->dapm_routes);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

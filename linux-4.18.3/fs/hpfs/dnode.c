@@ -1093,3 +1093,4 @@ struct hpfs_dirent *map_fnode_dirent(struct super_block *s, fnode_secno fno,
 	kfree(name2);
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

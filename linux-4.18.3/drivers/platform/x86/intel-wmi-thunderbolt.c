@@ -96,3 +96,4 @@ MODULE_ALIAS("wmi:" INTEL_WMI_THUNDERBOLT_GUID);
 MODULE_AUTHOR("Mario Limonciello <mario.limonciello@dell.com>");
 MODULE_DESCRIPTION("Intel WMI Thunderbolt force power driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

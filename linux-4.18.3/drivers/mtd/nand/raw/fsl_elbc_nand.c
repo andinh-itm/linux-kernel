@@ -982,3 +982,4 @@ module_platform_driver(fsl_elbc_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Freescale");
 MODULE_DESCRIPTION("Freescale Enhanced Local Bus Controller MTD NAND driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

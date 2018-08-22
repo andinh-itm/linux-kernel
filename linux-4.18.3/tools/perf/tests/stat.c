@@ -110,3 +110,4 @@ int test__synthesize_stat_round(struct test *test __maybe_unused, int subtest __
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

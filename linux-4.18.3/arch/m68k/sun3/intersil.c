@@ -74,3 +74,4 @@ int sun3_hwclk(int set, struct rtc_time *t)
 
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

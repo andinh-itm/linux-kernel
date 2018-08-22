@@ -1381,3 +1381,4 @@ MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION("0.1.0");
 MODULE_ALIAS("platform:sh-vou");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

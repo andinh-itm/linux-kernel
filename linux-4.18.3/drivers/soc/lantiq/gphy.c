@@ -222,3 +222,4 @@ MODULE_FIRMWARE("lantiq/xrx200_phy22f_a22.bin");
 MODULE_AUTHOR("Martin Blumenstingl <martin.blumenstingl@googlemail.com>");
 MODULE_DESCRIPTION("Lantiq XWAY GPHY Firmware Loader");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

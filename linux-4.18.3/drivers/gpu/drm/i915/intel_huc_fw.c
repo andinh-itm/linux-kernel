@@ -164,3 +164,4 @@ int intel_huc_fw_upload(struct intel_huc *huc)
 {
 	return intel_uc_fw_upload(&huc->fw, huc_fw_xfer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

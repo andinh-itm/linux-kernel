@@ -245,3 +245,4 @@ int ipoib_vlan_delete(struct net_device *pdev, unsigned short pkey)
 
 	return -ENODEV;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

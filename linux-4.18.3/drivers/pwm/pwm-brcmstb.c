@@ -340,3 +340,4 @@ MODULE_AUTHOR("Florian Fainelli <f.fainelli@gmail.com>");
 MODULE_DESCRIPTION("Broadcom STB PWM driver");
 MODULE_ALIAS("platform:pwm-brcmstb");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

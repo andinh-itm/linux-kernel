@@ -430,3 +430,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("I2C driver for NXP NCI NFC controllers");
 MODULE_AUTHOR("Clément Perrochaud <clement.perrochaud@nxp.com>");
 MODULE_AUTHOR("Oleg Zhurakivskyy <oleg.zhurakivskyy@intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

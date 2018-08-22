@@ -1230,3 +1230,4 @@ static struct pci_driver via82xx_modem_driver = {
 };
 
 module_pci_driver(via82xx_modem_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

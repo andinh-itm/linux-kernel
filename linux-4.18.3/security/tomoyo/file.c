@@ -1023,3 +1023,4 @@ int tomoyo_write_file(struct tomoyo_acl_param *param)
 		return tomoyo_update_mount_acl(param);
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

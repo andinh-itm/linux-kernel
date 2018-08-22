@@ -170,3 +170,4 @@ MODULE_DESCRIPTION("CRC32C using vector polynomial multiply-sum instructions");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_CRYPTO("crc32c");
 MODULE_ALIAS_CRYPTO("crc32c-vpmsum");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

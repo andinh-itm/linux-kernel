@@ -324,3 +324,4 @@ static int snd_echo_midi_create(struct snd_card *card,
 		SNDRV_RAWMIDI_INFO_INPUT | SNDRV_RAWMIDI_INFO_DUPLEX;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

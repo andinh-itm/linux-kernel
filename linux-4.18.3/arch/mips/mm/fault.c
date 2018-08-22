@@ -333,3 +333,4 @@ asmlinkage void __kprobes do_page_fault(struct pt_regs *regs,
 	__do_page_fault(regs, write, address);
 	exception_exit(prev_state);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -86,3 +86,4 @@ const struct fb_videomode *via_aux_get_preferred_mode(struct via_aux_bus *bus)
 
 	return mode;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

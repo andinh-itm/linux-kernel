@@ -178,3 +178,4 @@ static void __init mv98dx3236_clk_init(struct device_node *np)
 		mvebu_clk_gating_setup(cgnp, mv98dx3236_gating_desc);
 }
 CLK_OF_DECLARE(mv98dx3236_clk, "marvell,mv98dx3236-core-clock", mv98dx3236_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

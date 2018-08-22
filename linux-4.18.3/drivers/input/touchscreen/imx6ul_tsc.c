@@ -583,3 +583,4 @@ module_platform_driver(imx6ul_tsc_driver);
 MODULE_AUTHOR("Haibo Chen <haibo.chen@freescale.com>");
 MODULE_DESCRIPTION("Freescale i.MX6UL Touchscreen controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

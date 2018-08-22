@@ -169,3 +169,4 @@ int nvidia_probe_i2c_connector(struct fb_info *info, int conn, u8 **out_edid)
 
 	return (edid) ? 0 : 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

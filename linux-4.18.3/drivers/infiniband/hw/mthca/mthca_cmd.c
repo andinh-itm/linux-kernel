@@ -1975,3 +1975,4 @@ int mthca_NOP(struct mthca_dev *dev)
 {
 	return mthca_cmd(dev, 0, 0x1f, 0, CMD_NOP, msecs_to_jiffies(100));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

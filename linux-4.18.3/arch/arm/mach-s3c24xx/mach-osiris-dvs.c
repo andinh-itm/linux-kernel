@@ -176,3 +176,4 @@ MODULE_DESCRIPTION("Simtec OSIRIS DVS support");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:osiris-dvs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

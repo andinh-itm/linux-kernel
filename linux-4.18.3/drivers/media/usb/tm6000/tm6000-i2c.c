@@ -317,3 +317,4 @@ int tm6000_i2c_unregister(struct tm6000_core *dev)
 	i2c_del_adapter(&dev->i2c_adap);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

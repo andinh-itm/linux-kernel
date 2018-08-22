@@ -197,3 +197,4 @@ MODULE_DESCRIPTION("Early raw iMON IR devices");
 MODULE_AUTHOR("Sean Young <sean@mess.org>");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(usb, imon_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

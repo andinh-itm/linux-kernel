@@ -900,3 +900,4 @@ ext4_fsblk_t ext4_inode_to_goal_block(struct inode *inode)
 	return bg_start + colour;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -473,3 +473,4 @@ MODULE_DESCRIPTION("MCF8390 ColdFire NS8390 driver");
 MODULE_AUTHOR("Greg Ungerer <gerg@uclinux.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mcf8390");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

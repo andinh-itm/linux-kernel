@@ -212,3 +212,4 @@ MACHINE_START(H5400, "HP iPAQ H5000")
 	.init_machine = h5000_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

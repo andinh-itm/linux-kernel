@@ -332,3 +332,4 @@ int setup_TeleInt(struct IsdnCard *card)
 	ISACVersion(cs, "TeleInt:");
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

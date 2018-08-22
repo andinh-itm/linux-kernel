@@ -621,3 +621,4 @@ MODULE_LICENSE("GPL");
 
 late_initcall(pcc_cpufreq_init);
 module_exit(pcc_cpufreq_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

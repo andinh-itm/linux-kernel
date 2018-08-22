@@ -275,3 +275,4 @@ static struct acpi_driver toshiba_haps_driver = {
 };
 
 module_acpi_driver(toshiba_haps_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

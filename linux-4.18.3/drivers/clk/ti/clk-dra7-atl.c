@@ -317,3 +317,4 @@ static struct platform_driver dra7_atl_clk_driver = {
 	.probe = of_dra7_atl_clk_probe,
 };
 builtin_platform_driver(dra7_atl_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

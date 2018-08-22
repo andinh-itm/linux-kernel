@@ -20,3 +20,4 @@ static const char *const lpc18xx_43xx_compat[] __initconst = {
 DT_MACHINE_START(LPC18XXDT, "NXP LPC18xx/43xx (Device Tree)")
 	.dt_compat = lpc18xx_43xx_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

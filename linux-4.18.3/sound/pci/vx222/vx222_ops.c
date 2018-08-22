@@ -1035,3 +1035,4 @@ struct snd_vx_ops vx222_old_ops = {
 	.dma_read = vx2_dma_read,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

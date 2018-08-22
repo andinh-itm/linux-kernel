@@ -16,3 +16,4 @@ void main(void)
 	LOCK_UNLOCK_2(b, c);
 	LOCK_UNLOCK_2(d, a);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -624,3 +624,4 @@ static int init_pcmcia(void)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

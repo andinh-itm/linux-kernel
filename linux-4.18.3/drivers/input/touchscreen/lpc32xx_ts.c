@@ -408,3 +408,4 @@ MODULE_AUTHOR("Kevin Wells <kevin.wells@nxp.com");
 MODULE_DESCRIPTION("LPC32XX TSC Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lpc32xx_ts");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

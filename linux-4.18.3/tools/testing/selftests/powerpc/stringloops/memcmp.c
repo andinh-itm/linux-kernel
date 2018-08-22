@@ -102,3 +102,4 @@ int main(void)
 {
 	return test_harness(testcase, "memcmp");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

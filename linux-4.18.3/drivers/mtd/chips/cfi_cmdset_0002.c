@@ -2926,3 +2926,4 @@ MODULE_AUTHOR("Crossnet Co. <info@crossnet.co.jp> et al.");
 MODULE_DESCRIPTION("MTD chip driver for AMD/Fujitsu flash chips");
 MODULE_ALIAS("cfi_cmdset_0006");
 MODULE_ALIAS("cfi_cmdset_0701");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

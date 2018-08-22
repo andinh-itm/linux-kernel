@@ -265,3 +265,4 @@ module_platform_driver(qcom_watchdog_driver);
 
 MODULE_DESCRIPTION("QCOM KPSS Watchdog Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -78,3 +78,4 @@ int main(int argc, char *argv[])
 {
 	return test_harness(dscr_sysfs_thread, "dscr_sysfs_thread_test");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -617,3 +617,4 @@ int vmw_overlay_close(struct vmw_private *dev_priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

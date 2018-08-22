@@ -142,3 +142,4 @@ static void __init clk_sp810_of_setup(struct device_node *node)
 	instance++;
 }
 CLK_OF_DECLARE(sp810, "arm,sp810", clk_sp810_of_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

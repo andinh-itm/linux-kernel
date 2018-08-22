@@ -77,3 +77,4 @@ int __init efi_create_mapping(struct mm_struct *mm, efi_memory_desc_t *md)
 		return efi_set_mapping_permissions(mm, md);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

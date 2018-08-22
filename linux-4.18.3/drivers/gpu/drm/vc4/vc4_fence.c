@@ -54,3 +54,4 @@ const struct dma_fence_ops vc4_fence_ops = {
 	.wait = dma_fence_default_wait,
 	.release = dma_fence_free,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

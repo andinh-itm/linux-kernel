@@ -85,3 +85,4 @@ struct regcache_ops regcache_flat_ops = {
 	.read = regcache_flat_read,
 	.write = regcache_flat_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

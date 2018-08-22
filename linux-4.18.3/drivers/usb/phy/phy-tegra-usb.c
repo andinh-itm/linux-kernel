@@ -1174,3 +1174,4 @@ module_platform_driver(tegra_usb_phy_driver);
 
 MODULE_DESCRIPTION("Tegra USB PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

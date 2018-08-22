@@ -149,3 +149,4 @@ const struct squashfs_decompressor squashfs_zstd_comp_ops = {
 	.name = "zstd",
 	.supported = 1
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

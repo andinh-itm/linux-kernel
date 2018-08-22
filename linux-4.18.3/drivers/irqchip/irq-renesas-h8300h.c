@@ -92,3 +92,4 @@ static int __init h8300h_intc_of_init(struct device_node *intc,
 }
 
 IRQCHIP_DECLARE(h8300h_intc, "renesas,h8300h-intc", h8300h_intc_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

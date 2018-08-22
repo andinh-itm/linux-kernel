@@ -307,3 +307,4 @@ void qm_log10(s32 N, s16 qN, s16 *log10N, s16 *qLog10N)
 
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

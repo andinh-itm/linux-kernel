@@ -3388,3 +3388,4 @@ __setup("aha152x=", aha152x_setup);
 #endif
 
 #endif /* !PCMCIA */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

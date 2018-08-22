@@ -207,3 +207,4 @@ MODULE_AUTHOR("Robert Jarzmik (rjarzmik@free.fr)");
 MODULE_DESCRIPTION("ALSA SoC WM9713 MIO A701");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mioa701-wm9713");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -47,3 +47,4 @@ int test__perf_hooks(struct test *test __maybe_unused, int subtest __maybe_unuse
 		return TEST_FAIL;
 	return TEST_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -5134,3 +5134,4 @@ int dwc2_gadget_exit_hibernation(struct dwc2_hsotg *hsotg,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

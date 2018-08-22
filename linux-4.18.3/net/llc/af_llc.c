@@ -1268,3 +1268,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Procom 1997, Jay Schullist 2001, Arnaldo C. Melo 2001-2003");
 MODULE_DESCRIPTION("IEEE 802.2 PF_LLC support");
 MODULE_ALIAS_NETPROTO(PF_LLC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

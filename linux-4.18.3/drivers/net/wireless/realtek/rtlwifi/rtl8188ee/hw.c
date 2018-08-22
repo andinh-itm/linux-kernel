@@ -2545,3 +2545,4 @@ void rtl88ee_suspend(struct ieee80211_hw *hw)
 void rtl88ee_resume(struct ieee80211_hw *hw)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

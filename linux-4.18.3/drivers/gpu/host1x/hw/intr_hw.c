@@ -157,3 +157,4 @@ static const struct host1x_intr_ops host1x_intr_ops = {
 	.disable_all_syncpt_intrs = _host1x_intr_disable_all_syncpt_intrs,
 	.free_syncpt_irq = _host1x_free_syncpt_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

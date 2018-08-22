@@ -81,3 +81,4 @@ void xge_port_init(struct net_device *ndev)
 	xge_mac_init(pdata);
 	xge_traffic_resume(ndev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

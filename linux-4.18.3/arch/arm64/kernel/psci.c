@@ -127,3 +127,4 @@ const struct cpu_operations cpu_psci_ops = {
 #endif
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

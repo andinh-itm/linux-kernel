@@ -661,3 +661,4 @@ static int __init init_pmacpic_syscore(void)
 machine_subsys_initcall(powermac, init_pmacpic_syscore);
 
 #endif /* CONFIG_PM && CONFIG_PPC32 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

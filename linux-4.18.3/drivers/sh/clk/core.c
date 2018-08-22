@@ -622,3 +622,4 @@ static int __init clk_late_init(void)
 	return 0;
 }
 late_initcall(clk_late_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -206,3 +206,4 @@ int ath10k_swap_code_seg_init(struct ath10k *ar, struct ath10k_fw_file *fw_file)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

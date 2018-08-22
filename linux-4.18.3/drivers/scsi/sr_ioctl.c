@@ -585,3 +585,4 @@ int sr_is_xa(Scsi_CD *cd)
 #endif
 	return is_xa;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

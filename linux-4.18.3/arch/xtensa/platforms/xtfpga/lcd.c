@@ -87,3 +87,4 @@ void lcd_shiftright(void)
 }
 
 arch_initcall(lcd_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

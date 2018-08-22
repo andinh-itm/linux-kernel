@@ -58,3 +58,4 @@ nvif_device_init(struct nvif_object *parent, u32 handle, s32 oclass,
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

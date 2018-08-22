@@ -296,3 +296,4 @@ module_platform_driver(xgene_rtc_driver);
 MODULE_DESCRIPTION("APM X-Gene SoC RTC driver");
 MODULE_AUTHOR("Rameshwar Sahu <rsahu@apm.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

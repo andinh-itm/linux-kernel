@@ -89,3 +89,4 @@
 	GALAXY_CONFIG_CDDMA_MASK)
 
 #include "galaxy.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

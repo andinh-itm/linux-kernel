@@ -36,3 +36,4 @@ MODULE_AUTHOR("Kyle McMartin <kyle@mcmartin.ca>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Generic RTC driver");
 MODULE_ALIAS("platform:rtc-generic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

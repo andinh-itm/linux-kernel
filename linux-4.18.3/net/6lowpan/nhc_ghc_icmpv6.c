@@ -25,3 +25,4 @@ LOWPAN_NHC(ghc_icmpv6, "RFC7400 ICMPv6", NEXTHDR_ICMP, 0,
 module_lowpan_nhc(ghc_icmpv6);
 MODULE_DESCRIPTION("6LoWPAN generic header ICMPv6 compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

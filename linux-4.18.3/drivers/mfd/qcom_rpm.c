@@ -720,3 +720,4 @@ module_exit(qcom_rpm_exit)
 MODULE_DESCRIPTION("Qualcomm Resource Power Manager driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Bjorn Andersson <bjorn.andersson@sonymobile.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

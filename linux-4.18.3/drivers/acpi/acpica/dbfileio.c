@@ -117,3 +117,4 @@ acpi_status acpi_db_load_tables(struct acpi_new_table_desc *list_head)
 	return (AE_OK);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

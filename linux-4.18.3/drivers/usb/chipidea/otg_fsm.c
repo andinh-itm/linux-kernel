@@ -842,3 +842,4 @@ void ci_hdrc_otg_fsm_remove(struct ci_hdrc *ci)
 {
 	sysfs_remove_group(&ci->dev->kobj, &inputs_attr_group);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -310,3 +310,4 @@ MODULE_LICENSE("GPL");
 
 module_init(powernow_k6_init);
 module_exit(powernow_k6_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

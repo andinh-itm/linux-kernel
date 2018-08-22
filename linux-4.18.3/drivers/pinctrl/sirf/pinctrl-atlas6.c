@@ -1136,3 +1136,4 @@ struct sirfsoc_pinctrl_data atlas6_pinctrl_data = {
 	ARRAY_SIZE(sirfsoc_pmx_functions),
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

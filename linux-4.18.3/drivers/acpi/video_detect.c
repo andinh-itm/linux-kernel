@@ -432,3 +432,4 @@ void __exit acpi_video_detect_exit(void)
 	if (backlight_notifier_registered)
 		backlight_unregister_notifier(&backlight_nb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

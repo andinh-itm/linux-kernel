@@ -758,3 +758,4 @@ void st_nci_se_deinit(struct nci_dev *ndev)
 }
 EXPORT_SYMBOL(st_nci_se_deinit);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

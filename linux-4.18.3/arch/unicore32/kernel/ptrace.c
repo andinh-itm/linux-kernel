@@ -148,3 +148,4 @@ asmlinkage int syscall_trace(int why, struct pt_regs *regs, int scno)
 
 	return current_thread_info()->syscall;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

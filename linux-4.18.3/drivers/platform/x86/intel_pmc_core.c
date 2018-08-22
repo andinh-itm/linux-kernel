@@ -601,3 +601,4 @@ module_exit(pmc_core_remove)
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel PMC Core Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -120,3 +120,4 @@ int oprofile_timer_init(struct oprofile_operations *ops)
 	printk(KERN_INFO "oprofile: using timer interrupt.\n");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

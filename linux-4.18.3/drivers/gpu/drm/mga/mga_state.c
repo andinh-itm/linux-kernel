@@ -1100,3 +1100,4 @@ const struct drm_ioctl_desc mga_ioctls[] = {
 };
 
 int mga_max_ioctl = ARRAY_SIZE(mga_ioctls);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

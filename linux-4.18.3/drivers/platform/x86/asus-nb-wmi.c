@@ -522,3 +522,4 @@ static void __exit asus_nb_wmi_exit(void)
 
 module_init(asus_nb_wmi_init);
 module_exit(asus_nb_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -487,3 +487,4 @@ static void __exit ibm_acpiphp_exit(void)
 
 module_init(ibm_acpiphp_init);
 module_exit(ibm_acpiphp_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

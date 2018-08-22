@@ -17,3 +17,4 @@ static __init int eisa_bus_probe(void)
 	return 0;
 }
 subsys_initcall(eisa_bus_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

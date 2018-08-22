@@ -33,3 +33,4 @@ DT_MACHINE_START(IMX35_DT, "Freescale i.MX35 (Device Tree Support)")
 	.init_irq	= mx35_init_irq,
 	.dt_compat	= imx35_dt_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

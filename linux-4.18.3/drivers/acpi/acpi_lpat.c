@@ -157,3 +157,4 @@ void acpi_lpat_free_conversion_table(struct acpi_lpat_conversion_table
 	}
 }
 EXPORT_SYMBOL_GPL(acpi_lpat_free_conversion_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

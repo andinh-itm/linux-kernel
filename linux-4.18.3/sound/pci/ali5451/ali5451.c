@@ -2282,3 +2282,4 @@ static struct pci_driver ali5451_driver = {
 };                                
 
 module_pci_driver(ali5451_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

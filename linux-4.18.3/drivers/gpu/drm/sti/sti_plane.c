@@ -140,3 +140,4 @@ void sti_plane_init_property(struct sti_plane *plane,
 	DRM_DEBUG_DRIVER("drm plane:%d mapped to %s\n",
 			 plane->drm_plane.base.id, sti_plane_to_str(plane));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -310,3 +310,4 @@ void psmouse_smbus_module_exit(void)
 	bus_unregister_notifier(&i2c_bus_type, &psmouse_smbus_notifier);
 	flush_scheduled_work();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

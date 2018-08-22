@@ -89,3 +89,4 @@ machvec_dma_sync_sg(struct device *hwdev, struct scatterlist *sg, int n,
 	mb();
 }
 EXPORT_SYMBOL(machvec_dma_sync_sg);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

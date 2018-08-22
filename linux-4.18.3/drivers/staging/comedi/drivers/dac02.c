@@ -135,3 +135,4 @@ module_comedi_driver(dac02_driver);
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_DESCRIPTION("Comedi driver for DAC02 compatible boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

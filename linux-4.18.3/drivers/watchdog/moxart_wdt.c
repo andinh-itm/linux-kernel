@@ -176,3 +176,4 @@ MODULE_PARM_DESC(heartbeat, "Watchdog heartbeat in seconds");
 MODULE_DESCRIPTION("MOXART watchdog driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jonas Jensen <jonas.jensen@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

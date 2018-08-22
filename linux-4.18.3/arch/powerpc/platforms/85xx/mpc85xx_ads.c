@@ -173,3 +173,4 @@ define_machine(mpc85xx_ads) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.progress		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

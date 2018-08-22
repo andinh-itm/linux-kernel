@@ -1766,3 +1766,4 @@ void ipwireless_associate_network(struct ipw_hardware *hw,
 {
 	hw->network = network;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

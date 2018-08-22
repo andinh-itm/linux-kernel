@@ -290,3 +290,4 @@ module_i2c_driver(lp3952_i2c_driver);
 MODULE_AUTHOR("Tony Makkiel <tony.makkiel@daqri.com>");
 MODULE_DESCRIPTION("lp3952 I2C LED controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

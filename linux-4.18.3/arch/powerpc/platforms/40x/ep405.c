@@ -121,3 +121,4 @@ define_machine(ep405) {
 	.restart		= ppc4xx_reset_system,
 	.calibrate_decr		= generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

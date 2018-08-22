@@ -566,3 +566,4 @@ int hw_sm750_pan_display(struct lynxfb_crtc *crtc,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

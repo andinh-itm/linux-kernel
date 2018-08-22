@@ -117,3 +117,4 @@ void __init prom_free_prom_memory(void)
 
 	free_init_pages("unused PROM memory", PAGE_SIZE, end);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

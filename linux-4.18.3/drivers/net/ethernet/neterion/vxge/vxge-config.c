@@ -5113,3 +5113,4 @@ vxge_hw_vpath_enable(struct __vxge_hw_vpath_handle *vp)
 	__vxge_hw_pio_mem_write32_upper((u32)vxge_bVALn(val64, 0, 32),
 		&hldev->common_reg->cmn_rsthdlr_cfg1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

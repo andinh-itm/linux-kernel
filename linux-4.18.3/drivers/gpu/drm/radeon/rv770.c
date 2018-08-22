@@ -2098,3 +2098,4 @@ static void rv770_pcie_gen2_enable(struct radeon_device *rdev)
 		WREG32_PCIE_PORT(PCIE_LC_LINK_WIDTH_CNTL, link_width_cntl);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

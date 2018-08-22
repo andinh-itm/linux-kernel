@@ -1059,3 +1059,4 @@ module_exit(exit_dvbdev);
 MODULE_DESCRIPTION("DVB Core Driver");
 MODULE_AUTHOR("Marcus Metzler, Ralph Metzler, Holger Waechtler");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

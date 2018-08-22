@@ -79,3 +79,4 @@ void __init pq2_init_pci(void)
 		pq2_pci_add_bridge(np);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

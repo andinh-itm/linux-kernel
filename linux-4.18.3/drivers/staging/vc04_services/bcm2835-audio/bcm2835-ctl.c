@@ -413,3 +413,4 @@ int snd_bcm2835_new_hdmi_ctl(struct bcm2835_chip *chip)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

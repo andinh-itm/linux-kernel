@@ -5530,3 +5530,4 @@ void evergreen_program_aspm(struct radeon_device *rdev)
 	if (pcie_lc_cntl != pcie_lc_cntl_old)
 		WREG32_PCIE_PORT(PCIE_LC_CNTL, pcie_lc_cntl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

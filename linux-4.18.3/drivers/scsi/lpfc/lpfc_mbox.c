@@ -2658,3 +2658,4 @@ lpfc_pc_sli4_params(struct lpfcMboxq *mbox)
 	bf_set(lpfc_mqe_command, &mbox->u.mqe, MBX_PORT_CAPABILITIES);
 	bf_set(cpn, sli4_params, LPFC_SLI4_PARAMETERS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

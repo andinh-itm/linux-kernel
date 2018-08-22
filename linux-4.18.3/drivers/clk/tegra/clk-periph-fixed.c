@@ -118,3 +118,4 @@ struct clk *tegra_clk_register_periph_fixed(const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1232,3 +1232,4 @@ void qxl_modeset_fini(struct qxl_device *qdev)
 		qdev->mode_info.mode_config_initialized = false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

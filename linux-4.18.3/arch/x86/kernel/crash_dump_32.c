@@ -94,3 +94,4 @@ static int __init kdump_buf_page_init(void)
 	return ret;
 }
 arch_initcall(kdump_buf_page_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

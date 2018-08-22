@@ -134,3 +134,4 @@ module_platform_driver(gpio_decoder_driver);
 MODULE_DESCRIPTION("GPIO decoder input driver");
 MODULE_AUTHOR("Vignesh R <vigneshr@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

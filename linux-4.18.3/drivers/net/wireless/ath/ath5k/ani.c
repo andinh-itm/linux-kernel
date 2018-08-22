@@ -752,3 +752,4 @@ ath5k_ani_print_counters(struct ath5k_hw *ah)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

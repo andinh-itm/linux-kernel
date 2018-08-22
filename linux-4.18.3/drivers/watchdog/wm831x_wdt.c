@@ -291,3 +291,4 @@ MODULE_AUTHOR("Mark Brown");
 MODULE_DESCRIPTION("WM831x Watchdog");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

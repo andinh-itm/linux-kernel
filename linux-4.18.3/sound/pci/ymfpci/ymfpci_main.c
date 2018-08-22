@@ -2456,3 +2456,4 @@ free_chip:
 	snd_ymfpci_free(chip);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

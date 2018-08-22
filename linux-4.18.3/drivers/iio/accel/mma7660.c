@@ -282,3 +282,4 @@ module_i2c_driver(mma7660_driver);
 MODULE_AUTHOR("Constantin Musca <constantin.musca@intel.com>");
 MODULE_DESCRIPTION("Freescale MMA7660FC 3-Axis Accelerometer driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

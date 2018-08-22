@@ -279,3 +279,4 @@ static struct platform_driver intel_xpower_pmic_opregion_driver = {
 	},
 };
 builtin_platform_driver(intel_xpower_pmic_opregion_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

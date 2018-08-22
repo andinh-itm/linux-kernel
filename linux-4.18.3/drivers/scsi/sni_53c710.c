@@ -152,3 +152,4 @@ static void __exit snirm710_exit(void)
 
 module_init(snirm710_init);
 module_exit(snirm710_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

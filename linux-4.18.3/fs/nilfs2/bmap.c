@@ -587,3 +587,4 @@ void nilfs_bmap_restore(struct nilfs_bmap *bmap,
 	bmap->b_last_allocated_ptr = store->last_allocated_ptr;
 	bmap->b_state = store->state;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

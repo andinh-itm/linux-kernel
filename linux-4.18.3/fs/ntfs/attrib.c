@@ -2612,3 +2612,4 @@ done:
 }
 
 #endif /* NTFS_RW */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

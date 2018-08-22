@@ -1625,3 +1625,4 @@ const struct regmap_config cs47l24_spi_regmap = {
 };
 EXPORT_SYMBOL_GPL(cs47l24_spi_regmap);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

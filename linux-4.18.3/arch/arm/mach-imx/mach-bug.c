@@ -61,3 +61,4 @@ MACHINE_START(BUG, "BugLabs BUGBase")
 	.init_machine = bug_board_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

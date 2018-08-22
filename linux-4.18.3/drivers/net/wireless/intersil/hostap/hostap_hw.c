@@ -3408,3 +3408,4 @@ static void prism2_suspend(struct net_device *dev)
  * used. */
 #include "hostap_callback.c"
 #endif /* PRISM2_CALLBACK */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -159,3 +159,4 @@ void chrp_get_rtc_time(struct rtc_time *tm)
 	tm->tm_mon = mon;
 	tm->tm_year = year;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

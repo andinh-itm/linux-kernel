@@ -133,3 +133,4 @@ module_usb_driver(vprbrd_driver);
 MODULE_DESCRIPTION("Nano River Technologies viperboard mfd core driver");
 MODULE_AUTHOR("Lars Poeschel <poeschel@lemonage.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

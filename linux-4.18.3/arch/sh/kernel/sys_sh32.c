@@ -59,3 +59,4 @@ asmlinkage int sys_fadvise64_64_wrapper(int fd, u32 offset0, u32 offset1,
 				 (u64)len0 << 32 | len1, advice);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

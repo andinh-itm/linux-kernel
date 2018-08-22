@@ -45,3 +45,4 @@ static inline void __iomem *get_tima_phys(void)
 #define __x_writeq	__raw_rm_writeq
 
 #include "book3s_xive_template.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -128,3 +128,4 @@ void syscore_shutdown(void)
 
 	mutex_unlock(&syscore_ops_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

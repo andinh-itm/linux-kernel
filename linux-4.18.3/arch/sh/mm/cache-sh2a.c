@@ -187,3 +187,4 @@ void __init sh2a_cache_init(void)
 	__flush_purge_region		= sh2a__flush_purge_region;
 	__flush_invalidate_region	= sh2a__flush_invalidate_region;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -104,3 +104,4 @@ struct img_ir_decoder img_ir_sharp = {
 	.scancode = img_ir_sharp_scancode,
 	.filter = img_ir_sharp_filter,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1261,3 +1261,4 @@ int __exit intel_deinit(void)
 
 	return hci_uart_unregister_proto(&intel_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -326,3 +326,4 @@ void __init sa1100_init_gpio(void)
 		irq_set_chained_handler_and_data(sa1100_gpio_irqs[i],
 						 sa1100_gpio_handler, sgc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

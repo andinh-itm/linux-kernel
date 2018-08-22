@@ -377,3 +377,4 @@ void hci_uart_unregister_device(struct hci_uart *hu)
 	serdev_device_close(hu->serdev);
 }
 EXPORT_SYMBOL_GPL(hci_uart_unregister_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

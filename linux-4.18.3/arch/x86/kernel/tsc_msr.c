@@ -121,3 +121,4 @@ unsigned long cpu_khz_from_msr(void)
 
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

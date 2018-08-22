@@ -3294,3 +3294,4 @@ module_exit(mmc_test_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Multimedia Card (MMC) host test driver");
 MODULE_AUTHOR("Pierre Ossman");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

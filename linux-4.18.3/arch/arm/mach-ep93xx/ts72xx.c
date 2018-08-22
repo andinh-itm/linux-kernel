@@ -421,3 +421,4 @@ MACHINE_START(BK3, "Liebherr controller BK3.1")
 	.init_late	= ep93xx_init_late,
 	.restart	= ep93xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

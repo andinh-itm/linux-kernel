@@ -543,3 +543,4 @@ MODULE_LICENSE("GPL");
 
 MODULE_PARM_DESC(switchlocked, "Switch the cards locked status."
 		"Use this when unlocked cards are shown readonly (default 0)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

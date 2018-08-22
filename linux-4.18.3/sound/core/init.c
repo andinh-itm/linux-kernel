@@ -1035,3 +1035,4 @@ int snd_power_wait(struct snd_card *card, unsigned int power_state)
 }
 EXPORT_SYMBOL(snd_power_wait);
 #endif /* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

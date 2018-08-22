@@ -132,3 +132,4 @@ const struct nand_manufacturer_ops samsung_nand_manuf_ops = {
 	.detect = samsung_nand_decode_id,
 	.init = samsung_nand_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

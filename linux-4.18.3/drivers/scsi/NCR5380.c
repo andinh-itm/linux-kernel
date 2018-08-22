@@ -2369,3 +2369,4 @@ static int NCR5380_host_reset(struct scsi_cmnd *cmd)
 
 	return SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

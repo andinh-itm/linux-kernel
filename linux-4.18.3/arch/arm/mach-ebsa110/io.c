@@ -438,3 +438,4 @@ void insl(unsigned int port, void *from, int len)
 
 EXPORT_SYMBOL(outsl);
 EXPORT_SYMBOL(insl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

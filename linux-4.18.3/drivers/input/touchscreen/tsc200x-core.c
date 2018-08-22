@@ -635,3 +635,4 @@ EXPORT_SYMBOL_GPL(tsc200x_pm_ops);
 MODULE_AUTHOR("Lauri Leukkunen <lauri.leukkunen@nokia.com>");
 MODULE_DESCRIPTION("TSC200x Touchscreen Driver Core");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

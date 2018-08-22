@@ -2219,3 +2219,4 @@ module_exit(i810fb_exit);
 #endif /* MODULE */
 
 module_init(i810fb_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

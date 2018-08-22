@@ -197,3 +197,4 @@ int sas_init_events(struct sas_ha_struct *sas_ha)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

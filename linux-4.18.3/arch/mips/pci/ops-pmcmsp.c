@@ -947,3 +947,4 @@ no_pci:
 	/* Disable PCI channel */
 	printk(KERN_WARNING "PCI: no host PCI bus detected\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

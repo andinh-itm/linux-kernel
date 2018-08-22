@@ -534,3 +534,4 @@ int ide_wait_not_busy(ide_hwif_t *hwif, unsigned long timeout)
 	}
 	return -EBUSY;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1217,3 +1217,4 @@ module_platform_driver(sun8i_dwmac_driver);
 MODULE_AUTHOR("Corentin Labbe <clabbe.montjoie@gmail.com>");
 MODULE_DESCRIPTION("Allwinner sun8i DWMAC specific glue layer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

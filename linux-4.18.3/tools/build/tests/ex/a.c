@@ -4,3 +4,4 @@ int a(void)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

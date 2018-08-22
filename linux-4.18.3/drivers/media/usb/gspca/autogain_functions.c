@@ -172,3 +172,4 @@ int gspca_coarse_grained_expo_autogain(
 	return retval;
 }
 EXPORT_SYMBOL(gspca_coarse_grained_expo_autogain);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

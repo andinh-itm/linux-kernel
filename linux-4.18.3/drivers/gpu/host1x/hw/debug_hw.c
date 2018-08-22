@@ -248,3 +248,4 @@ static const struct host1x_debug_ops host1x_debug_ops = {
 	.show_channel_fifo = host1x_debug_show_channel_fifo,
 	.show_mlocks = host1x_debug_show_mlocks,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -278,3 +278,4 @@ int wrmsr_safe_regs_on_cpu(unsigned int cpu, u32 *regs)
 	return err ? err : rv.err;
 }
 EXPORT_SYMBOL(wrmsr_safe_regs_on_cpu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

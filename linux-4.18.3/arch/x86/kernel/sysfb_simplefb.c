@@ -113,3 +113,4 @@ __init int create_simplefb(const struct screen_info *si,
 					       &res, 1, mode, sizeof(*mode));
 	return PTR_ERR_OR_ZERO(pd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

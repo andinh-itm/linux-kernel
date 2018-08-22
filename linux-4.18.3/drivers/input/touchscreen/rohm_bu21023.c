@@ -1200,3 +1200,4 @@ module_i2c_driver(rohm_bu21023_i2c_driver);
 MODULE_DESCRIPTION("ROHM BU21023/24 Touchscreen driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("ROHM Co., Ltd.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

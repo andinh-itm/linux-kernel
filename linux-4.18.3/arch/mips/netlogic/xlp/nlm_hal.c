@@ -506,3 +506,4 @@ int nlm_get_dram_map(int node, uint64_t *dram_map, int nentries)
 	}
 	return rv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

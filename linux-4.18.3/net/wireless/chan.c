@@ -1076,3 +1076,4 @@ cfg80211_get_chan_state(struct wireless_dev *wdev,
 		WARN_ON(1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

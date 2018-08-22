@@ -1056,3 +1056,4 @@ static int __init run_dmi_scan(void)
 	return 0;
 }
 core_initcall(run_dmi_scan);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

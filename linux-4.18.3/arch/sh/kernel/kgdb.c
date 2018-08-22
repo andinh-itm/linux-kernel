@@ -390,3 +390,4 @@ struct kgdb_arch arch_kgdb_ops = {
 	.gdb_bpt_instr		= { 0xc3, 0x3c },
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

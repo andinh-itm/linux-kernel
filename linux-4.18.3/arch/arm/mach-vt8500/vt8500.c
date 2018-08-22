@@ -175,3 +175,4 @@ DT_MACHINE_START(WMT_DT, "VIA/Wondermedia SoC (Device Tree Support)")
 	.restart	= vt8500_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -80,3 +80,4 @@ module_init(platform_coreboot_table_of_init);
 
 MODULE_AUTHOR("Google, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

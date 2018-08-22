@@ -162,3 +162,4 @@ module_i2c_driver(lv5207lp_driver);
 MODULE_DESCRIPTION("Sanyo LV5207LP Backlight Driver");
 MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

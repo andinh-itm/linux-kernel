@@ -368,3 +368,4 @@ int qat_crypto_unregister(void)
 {
 	return adf_service_unregister(&qat_crypto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -180,3 +180,4 @@ module_i2c_driver(rn5t618_i2c_driver);
 MODULE_AUTHOR("Beniamino Galvani <b.galvani@gmail.com>");
 MODULE_DESCRIPTION("Ricoh RN5T567/618 MFD driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

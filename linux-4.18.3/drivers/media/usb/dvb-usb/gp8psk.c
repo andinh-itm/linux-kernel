@@ -391,3 +391,4 @@ MODULE_AUTHOR("Alan Nisota <alannisota@gamil.com>");
 MODULE_DESCRIPTION("Driver for Genpix DVB-S");
 MODULE_VERSION("1.1");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

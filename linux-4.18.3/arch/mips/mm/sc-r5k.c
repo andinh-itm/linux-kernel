@@ -106,3 +106,4 @@ void r5k_sc_init(void)
 		bcops = &r5k_sc_ops;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

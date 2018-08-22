@@ -885,3 +885,4 @@ struct ttm_bo_driver vmw_bo_driver = {
 	.io_mem_reserve = &vmw_ttm_io_mem_reserve,
 	.io_mem_free = &vmw_ttm_io_mem_free,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

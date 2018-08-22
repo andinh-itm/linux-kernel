@@ -205,3 +205,4 @@ module_platform_driver(mdio_mux_mmioreg_driver);
 MODULE_AUTHOR("Timur Tabi <timur@freescale.com>");
 MODULE_DESCRIPTION("Memory-mapped device MDIO MUX driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

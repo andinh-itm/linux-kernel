@@ -230,3 +230,4 @@ module_i2c_driver(bd9571mwv_driver);
 MODULE_AUTHOR("Marek Vasut <marek.vasut+renesas@gmail.com>");
 MODULE_DESCRIPTION("BD9571MWV PMIC Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

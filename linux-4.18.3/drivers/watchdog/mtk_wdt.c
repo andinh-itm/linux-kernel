@@ -269,3 +269,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Matthias Brugger <matthias.bgg@gmail.com>");
 MODULE_DESCRIPTION("Mediatek WatchDog Timer Driver");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

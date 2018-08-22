@@ -497,3 +497,4 @@ void can_remove_proc(struct net *net)
 	if (net->can.proc_dir)
 		remove_proc_entry("can", net->proc_net);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

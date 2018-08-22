@@ -707,3 +707,4 @@ module_pci_driver(toshsd_driver);
 MODULE_AUTHOR("Ondrej Zary, Richard Betts");
 MODULE_DESCRIPTION("Toshiba PCI Secure Digital Host Controller Interface driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

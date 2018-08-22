@@ -57,3 +57,4 @@ int cmd_check(int argc, const char **argv)
 
 	return check(objname, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

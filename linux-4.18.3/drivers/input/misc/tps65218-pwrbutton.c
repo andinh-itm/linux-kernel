@@ -168,3 +168,4 @@ module_platform_driver(tps6521x_pb_driver);
 MODULE_DESCRIPTION("TPS6521X Power Button");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Felipe Balbi <balbi@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

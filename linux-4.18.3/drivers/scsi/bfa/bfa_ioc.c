@@ -7046,3 +7046,4 @@ bfa_flash_raw_read(void __iomem *pci_bar, u32 offset, char *buf,
 
 	return BFA_STATUS_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

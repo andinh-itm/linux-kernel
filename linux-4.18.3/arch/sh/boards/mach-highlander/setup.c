@@ -417,3 +417,4 @@ static struct sh_machine_vector mv_highlander __initmv = {
 	.mv_init_irq		= highlander_init_irq,
 	.mv_irq_demux		= highlander_irq_demux,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -685,3 +685,4 @@ int setup_gazel(struct IsdnCard *card)
 
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

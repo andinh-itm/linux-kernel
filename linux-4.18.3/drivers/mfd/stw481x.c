@@ -250,3 +250,4 @@ module_i2c_driver(stw481x_driver);
 MODULE_AUTHOR("Linus Walleij");
 MODULE_DESCRIPTION("STw481x PMIC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

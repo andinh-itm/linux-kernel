@@ -636,3 +636,4 @@ int intel_pt_pkt_desc(const struct intel_pt_pkt *packet, char *buf,
 	return snprintf(buf, buf_len, "%s 0x%llx (%d)",
 			name, payload, packet->count);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -848,3 +848,4 @@ pmu_present(void)
 {
 	return (pmu_kind != PMU_UNKNOWN);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

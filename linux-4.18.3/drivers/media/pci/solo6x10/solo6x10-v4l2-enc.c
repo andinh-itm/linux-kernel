@@ -1411,3 +1411,4 @@ void solo_enc_v4l2_exit(struct solo_dev *solo_dev)
 		pci_free_consistent(solo_dev->pdev, solo_dev->vh_size,
 			    solo_dev->vh_buf, solo_dev->vh_dma);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

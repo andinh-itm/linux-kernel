@@ -985,3 +985,4 @@ int __init mtrr_trim_uncached_memory(unsigned long end_pfn)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

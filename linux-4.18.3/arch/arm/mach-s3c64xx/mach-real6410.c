@@ -333,3 +333,4 @@ MACHINE_START(REAL6410, "REAL6410")
 	.init_time	= samsung_timer_init,
 	.restart	= s3c64xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

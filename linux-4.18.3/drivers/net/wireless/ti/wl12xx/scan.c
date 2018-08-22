@@ -510,3 +510,4 @@ void wl12xx_scan_completed(struct wl1271 *wl, struct wl12xx_vif *wlvif)
 {
 	wl1271_scan_stm(wl, wlvif);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -53,3 +53,4 @@ struct smp_ops_t chrp_smp_ops = {
 	.give_timebase = rtas_give_timebase,
 	.take_timebase = rtas_take_timebase,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

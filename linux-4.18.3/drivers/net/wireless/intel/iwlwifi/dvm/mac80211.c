@@ -1655,3 +1655,4 @@ struct ieee80211_hw *iwl_alloc_all(void)
 out:
 	return hw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

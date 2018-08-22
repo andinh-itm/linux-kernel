@@ -2403,3 +2403,4 @@ void brcmf_p2p_detach(struct brcmf_p2p_info *p2p)
 	memset(p2p, 0, sizeof(*p2p));
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

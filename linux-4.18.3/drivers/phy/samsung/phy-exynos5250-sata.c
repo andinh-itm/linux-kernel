@@ -248,3 +248,4 @@ MODULE_DESCRIPTION("Samsung SerDes PHY driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Girish K S <ks.giri@samsung.com>");
 MODULE_AUTHOR("Yuvaraj C D <yuvaraj.cd@samsung.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

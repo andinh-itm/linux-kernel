@@ -743,3 +743,4 @@ module_exit(ipq4019_pinctrl_exit);
 MODULE_DESCRIPTION("Qualcomm ipq4019 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, ipq4019_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

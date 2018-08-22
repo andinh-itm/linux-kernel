@@ -352,3 +352,4 @@ static int __init imx6ul_pinctrl_init(void)
 	return platform_driver_register(&imx6ul_pinctrl_driver);
 }
 arch_initcall(imx6ul_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

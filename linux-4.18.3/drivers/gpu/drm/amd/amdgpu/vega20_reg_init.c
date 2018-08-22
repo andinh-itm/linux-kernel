@@ -51,3 +51,4 @@ int vega20_reg_base_init(struct amdgpu_device *adev)
 }
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

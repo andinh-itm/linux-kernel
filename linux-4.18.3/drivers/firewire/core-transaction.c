@@ -1298,3 +1298,4 @@ static void __exit fw_core_cleanup(void)
 
 module_init(fw_core_init);
 module_exit(fw_core_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

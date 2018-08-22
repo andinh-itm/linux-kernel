@@ -168,3 +168,4 @@ module_platform_driver(xtfpga_spi_driver);
 MODULE_AUTHOR("Max Filippov <jcmvbkbc@gmail.com>");
 MODULE_DESCRIPTION("xtensa xtfpga SPI driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

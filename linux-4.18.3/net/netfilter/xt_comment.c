@@ -43,3 +43,4 @@ static void __exit comment_mt_exit(void)
 
 module_init(comment_mt_init);
 module_exit(comment_mt_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -928,3 +928,4 @@ static void __exit isdn_bsdcomp_exit(void)
 
 module_init(isdn_bsdcomp_init);
 module_exit(isdn_bsdcomp_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

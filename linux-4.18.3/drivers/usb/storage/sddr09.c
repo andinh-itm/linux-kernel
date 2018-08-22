@@ -1787,3 +1787,4 @@ static struct usb_driver sddr09_driver = {
 };
 
 module_usb_stor_driver(sddr09_driver, sddr09_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -188,3 +188,4 @@ int tnum_sbin(char *str, size_t size, struct tnum a)
 	str[min(size - 1, (size_t)64)] = 0;
 	return 64;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

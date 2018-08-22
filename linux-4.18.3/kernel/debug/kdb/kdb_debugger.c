@@ -184,3 +184,4 @@ void kdb_gdb_state_pass(char *buf)
 {
 	gdbstub_state(kdb_ks, buf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

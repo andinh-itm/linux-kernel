@@ -2782,3 +2782,4 @@ void musb_host_poke_root_hub(struct musb *musb)
 	else
 		usb_hcd_resume_root_hub(musb->hcd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

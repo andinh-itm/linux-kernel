@@ -42,3 +42,4 @@ static int __init nios2_soc_device_init(void)
 }
 
 device_initcall(nios2_soc_device_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

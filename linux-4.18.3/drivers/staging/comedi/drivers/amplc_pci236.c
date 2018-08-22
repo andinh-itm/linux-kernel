@@ -142,3 +142,4 @@ module_comedi_pci_driver(amplc_pci236_driver, amplc_pci236_pci_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for Amplicon PCI236 DIO boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

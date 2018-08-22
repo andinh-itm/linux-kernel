@@ -10418,3 +10418,4 @@ MODULE_LICENSE("GPL");
 
 module_init(thinkpad_acpi_module_init);
 module_exit(thinkpad_acpi_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

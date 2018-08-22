@@ -1039,3 +1039,4 @@ int c4iw_arm_cq(struct ib_cq *ibcq, enum ib_cq_notify_flags flags)
 	spin_unlock_irqrestore(&chp->lock, flag);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

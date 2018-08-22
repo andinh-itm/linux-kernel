@@ -1271,3 +1271,4 @@ module_spi_driver(st95hf_driver);
 MODULE_AUTHOR("Shikha Singh <shikha.singh@st.com>");
 MODULE_DESCRIPTION("ST NFC Transceiver ST95HF driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

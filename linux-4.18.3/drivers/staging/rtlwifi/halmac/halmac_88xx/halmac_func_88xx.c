@@ -4460,3 +4460,4 @@ u16 halmac_usbphy_read_88xx(struct halmac_adapter *halmac_adapter, u8 addr,
 
 	return value;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -282,3 +282,4 @@ void v_enqueue_ret_submit(struct vudc *udc, struct urbp *urb_p)
 
 	list_add_tail(&txi->tx_entry, &udc->tx_queue);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

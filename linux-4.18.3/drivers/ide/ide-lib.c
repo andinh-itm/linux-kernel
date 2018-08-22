@@ -143,3 +143,4 @@ u8 ide_dump_status(ide_drive_t *drive, const char *msg, u8 stat)
 	return err;
 }
 EXPORT_SYMBOL(ide_dump_status);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -912,3 +912,4 @@ module_platform_driver(mt6797_afe_pcm_driver);
 MODULE_DESCRIPTION("Mediatek ALSA SoC AFE platform driver for 6797");
 MODULE_AUTHOR("KaiChieh Chuang <kaichieh.chuang@mediatek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

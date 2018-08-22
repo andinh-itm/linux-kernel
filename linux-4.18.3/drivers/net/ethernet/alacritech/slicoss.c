@@ -1866,3 +1866,4 @@ MODULE_DESCRIPTION("Alacritech non-accelerated SLIC driver");
 MODULE_AUTHOR("Lino Sanfilippo <LinoSanfilippo@gmx.de>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

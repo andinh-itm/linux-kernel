@@ -264,3 +264,4 @@ module_exit(orinoco_pci_exit);
  *  tab-width: 8
  * End:
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

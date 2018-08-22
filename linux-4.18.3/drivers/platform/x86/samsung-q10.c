@@ -161,3 +161,4 @@ module_exit(samsungq10_exit);
 MODULE_AUTHOR("Frederick van der Wyck <fvanderwyck@gmail.com>");
 MODULE_DESCRIPTION("Samsung Q10 Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

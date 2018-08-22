@@ -8510,3 +8510,4 @@ static void check_7322_rxe_status(struct qib_pportdata *ppd)
 				QLOGIC_IB_IBCC_LINKINITCMD_DISABLE);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

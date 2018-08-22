@@ -2843,3 +2843,4 @@ module_exit(bcm_enet_exit);
 MODULE_DESCRIPTION("BCM63xx internal ethernet mac driver");
 MODULE_AUTHOR("Maxime Bizon <mbizon@freebox.fr>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

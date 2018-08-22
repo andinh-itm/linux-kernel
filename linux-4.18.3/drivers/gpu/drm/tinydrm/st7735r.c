@@ -210,3 +210,4 @@ module_spi_driver(st7735r_spi_driver);
 MODULE_DESCRIPTION("Sitronix ST7735R DRM driver");
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

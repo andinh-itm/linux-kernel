@@ -375,3 +375,4 @@ int pch_gbe_phy_disable_hibernate(struct pch_gbe_hw *hw)
 			   "Could not disable PHY hibernation\n");
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

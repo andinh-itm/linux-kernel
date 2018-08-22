@@ -1457,3 +1457,4 @@ static void __exit intel_uncore_exit(void)
 	uncore_pci_exit();
 }
 module_exit(intel_uncore_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

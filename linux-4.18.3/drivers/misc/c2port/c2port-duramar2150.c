@@ -157,3 +157,4 @@ module_exit(duramar2150_c2port_exit);
 MODULE_AUTHOR("Rodolfo Giometti <giometti@linux.it>");
 MODULE_DESCRIPTION("Silicon Labs C2 port Linux support for Duramar 2150");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

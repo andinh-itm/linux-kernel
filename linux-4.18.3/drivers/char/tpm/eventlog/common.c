@@ -193,3 +193,4 @@ void tpm_bios_log_teardown(struct tpm_chip *chip)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

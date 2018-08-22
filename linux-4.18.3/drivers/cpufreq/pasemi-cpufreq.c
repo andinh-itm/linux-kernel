@@ -289,3 +289,4 @@ module_exit(pas_cpufreq_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Egor Martovetsky <egor@pasemi.com>, Olof Johansson <olof@lixom.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

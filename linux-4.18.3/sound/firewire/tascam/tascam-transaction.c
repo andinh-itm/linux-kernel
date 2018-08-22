@@ -398,3 +398,4 @@ void snd_tscm_transaction_unregister(struct snd_tscm *tscm)
 	fw_core_remove_address_handler(&tscm->async_handler);
 	tscm->async_handler.callback_data = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

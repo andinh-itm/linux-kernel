@@ -385,3 +385,4 @@ int __exit mrvl_deinit(void)
 {
 	return hci_uart_unregister_proto(&mrvl_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -742,3 +742,4 @@ int efi_partition(struct parsed_partitions *state)
 	strlcat(state->pp_buf, "\n", PAGE_SIZE);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

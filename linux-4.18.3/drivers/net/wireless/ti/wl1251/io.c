@@ -192,3 +192,4 @@ void wl1251_set_partition(struct wl1251 *wl,
 	wl->if_ops->write(wl, HW_ACCESS_PART0_SIZE_ADDR, partition,
 		sizeof(partition));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2009,3 +2009,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sensors_w83627hf_init);
 module_exit(sensors_w83627hf_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

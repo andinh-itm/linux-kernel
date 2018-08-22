@@ -123,3 +123,4 @@ int module_finalize(const Elf32_Ehdr *hdr, const Elf_Shdr *sechdrs,
 	flush_dcache();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

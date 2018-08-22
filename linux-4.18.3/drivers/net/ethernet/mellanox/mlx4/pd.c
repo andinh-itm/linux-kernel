@@ -293,3 +293,4 @@ void mlx4_cleanup_uar_table(struct mlx4_dev *dev)
 {
 	mlx4_bitmap_cleanup(&mlx4_priv(dev)->uar_table.bitmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

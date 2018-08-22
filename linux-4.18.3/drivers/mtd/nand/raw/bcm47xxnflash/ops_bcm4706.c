@@ -454,3 +454,4 @@ exit:
 			       ~BCMA_CC_4706_FLASHSCFG_NF1);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

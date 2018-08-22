@@ -162,3 +162,4 @@ void __of_detach_node_sysfs(struct device_node *np)
 	/* finally remove the kobj_init ref */
 	of_node_put(np);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

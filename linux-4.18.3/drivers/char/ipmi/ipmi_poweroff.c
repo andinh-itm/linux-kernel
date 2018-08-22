@@ -747,3 +747,4 @@ module_init(ipmi_poweroff_init);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Corey Minyard <minyard@mvista.com>");
 MODULE_DESCRIPTION("IPMI Poweroff extension to sys_reboot");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

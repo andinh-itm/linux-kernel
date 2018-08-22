@@ -615,3 +615,4 @@ MODULE_LICENSE("GPL");
 
 module_init(i5k_amb_init);
 module_exit(i5k_amb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -273,3 +273,4 @@ MODULE_DESCRIPTION("Register-based I2C multiplexer driver");
 MODULE_AUTHOR("York Sun <yorksun@freescale.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:i2c-mux-reg");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

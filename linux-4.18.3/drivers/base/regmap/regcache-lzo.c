@@ -372,3 +372,4 @@ struct regcache_ops regcache_lzo_ops = {
 	.write = regcache_lzo_write,
 	.sync = regcache_lzo_sync
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

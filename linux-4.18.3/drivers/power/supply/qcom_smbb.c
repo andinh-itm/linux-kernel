@@ -1040,3 +1040,4 @@ module_platform_driver(smbb_charger_driver);
 
 MODULE_DESCRIPTION("Qualcomm Switch-Mode Battery Charger and Boost driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

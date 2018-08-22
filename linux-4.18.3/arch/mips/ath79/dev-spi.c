@@ -36,3 +36,4 @@ void __init ath79_register_spi(struct ath79_spi_platform_data *pdata,
 	ath79_spi_device.dev.platform_data = pdata;
 	platform_device_register(&ath79_spi_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

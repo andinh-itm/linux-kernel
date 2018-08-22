@@ -2908,3 +2908,4 @@ void kvm_s390_gisa_destroy(struct kvm *kvm)
 		return;
 	kvm->arch.gisa = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

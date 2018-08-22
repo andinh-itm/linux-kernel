@@ -616,3 +616,4 @@ module_platform_driver(hi6210_i2s_driver);
 MODULE_DESCRIPTION("Hisilicon HI6210 I2S driver");
 MODULE_AUTHOR("Andy Green <andy.green@linaro.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

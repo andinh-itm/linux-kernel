@@ -374,3 +374,4 @@ MODULE_ALIAS("platform:palmas_rtc");
 MODULE_DESCRIPTION("TI PALMAS series RTC driver");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

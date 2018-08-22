@@ -84,3 +84,4 @@ wimmc37b_init(struct nouveau_drm *drm, s32 oclass, struct nv50_wndw *wndw)
 {
 	return wimmc37b_init_(&wimmc37b, drm, oclass, wndw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

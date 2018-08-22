@@ -509,3 +509,4 @@ int __init acpi_osi_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -87,3 +87,4 @@ void __init pc873xx_enable_ide(void)
 	data = pc873xx_read(base, REG_FER);
 	pc873xx_write(base, REG_FER, data | 0x40);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

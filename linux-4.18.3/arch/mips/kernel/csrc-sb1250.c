@@ -78,3 +78,4 @@ void __init sb1250_clocksource_init(void)
 
 	sched_clock_register(sb1250_read_sched_clock, 23, V_SCD_TIMER_FREQ);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

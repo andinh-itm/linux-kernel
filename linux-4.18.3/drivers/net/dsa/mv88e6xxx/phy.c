@@ -245,3 +245,4 @@ int mv88e6xxx_phy_setup(struct mv88e6xxx_chip *chip)
 {
 	return mv88e6xxx_phy_ppu_enable(chip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

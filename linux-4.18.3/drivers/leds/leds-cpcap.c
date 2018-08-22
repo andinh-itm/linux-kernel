@@ -237,3 +237,4 @@ module_platform_driver(cpcap_led_driver);
 MODULE_DESCRIPTION("CPCAP LED driver");
 MODULE_AUTHOR("Sebastian Reichel <sre@kernel.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

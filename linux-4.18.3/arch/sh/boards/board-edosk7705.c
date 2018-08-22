@@ -77,3 +77,4 @@ static struct sh_machine_vector mv_edosk7705 __initmv = {
 	.mv_name		= "EDOSK7705",
 	.mv_init_irq		= sh_edosk7705_init_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

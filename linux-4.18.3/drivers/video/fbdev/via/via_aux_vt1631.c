@@ -44,3 +44,4 @@ void via_aux_vt1631_probe(struct via_aux_bus *bus)
 	printk(KERN_INFO "viafb: Found %s\n", name);
 	via_aux_add(&drv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

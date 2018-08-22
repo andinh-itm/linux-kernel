@@ -20,3 +20,4 @@ void odm_DynamicTxPowerInit(void *pDM_VOID)
 	pdmpriv->LastDTPLvl = TxHighPwrLevel_Normal;
 	pdmpriv->DynamicTxHighPowerLvl = TxHighPwrLevel_Normal;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

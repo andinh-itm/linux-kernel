@@ -128,3 +128,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Ian Molton <spyro@f2s.com>");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
 MODULE_DESCRIPTION("e740 PCMCIA platform support");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

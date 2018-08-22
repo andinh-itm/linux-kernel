@@ -258,3 +258,4 @@ void perf_gtk__show_annotations(void)
 
 	perf_gtk__deactivate_context(&pgctx);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

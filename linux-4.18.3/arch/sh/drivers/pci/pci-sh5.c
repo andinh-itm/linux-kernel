@@ -217,3 +217,4 @@ static int __init sh5pci_init(void)
 	return register_pci_controller(&sh5pci_controller);
 }
 arch_initcall(sh5pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

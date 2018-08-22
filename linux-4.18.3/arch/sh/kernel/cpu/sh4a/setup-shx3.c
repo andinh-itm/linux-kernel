@@ -396,3 +396,4 @@ void __init plat_mem_setup(void)
 
 	setup_bootmem_node(nid++, 0x16000000, 0x16020000);	/* CSM */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

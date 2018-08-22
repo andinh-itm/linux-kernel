@@ -342,3 +342,4 @@ define_machine(p1024_rdb) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.progress		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

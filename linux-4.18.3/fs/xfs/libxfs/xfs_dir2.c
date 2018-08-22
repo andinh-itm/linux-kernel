@@ -715,3 +715,4 @@ xfs_dir2_shrink_inode(
 	xfs_trans_log_inode(tp, dp, XFS_ILOG_CORE);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

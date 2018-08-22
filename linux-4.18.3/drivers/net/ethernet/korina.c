@@ -1154,3 +1154,4 @@ MODULE_AUTHOR("Florian Fainelli <florian@openwrt.org>");
 MODULE_AUTHOR("Roman Yeryomin <roman@advem.lv>");
 MODULE_DESCRIPTION("IDT RC32434 (Korina) Ethernet driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

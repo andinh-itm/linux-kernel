@@ -1313,3 +1313,4 @@ int drm_dp_read_desc(struct drm_dp_aux *aux, struct drm_dp_desc *desc,
 	return 0;
 }
 EXPORT_SYMBOL(drm_dp_read_desc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

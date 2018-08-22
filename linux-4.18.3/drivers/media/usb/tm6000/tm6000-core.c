@@ -920,3 +920,4 @@ void tm6000_close_extension(struct tm6000_core *dev)
 	}
 	mutex_unlock(&tm6000_devlist_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

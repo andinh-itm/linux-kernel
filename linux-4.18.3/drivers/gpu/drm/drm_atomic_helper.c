@@ -3894,3 +3894,4 @@ void __drm_atomic_helper_private_obj_duplicate_state(struct drm_private_obj *obj
 	memcpy(state, obj->state, sizeof(*state));
 }
 EXPORT_SYMBOL(__drm_atomic_helper_private_obj_duplicate_state);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

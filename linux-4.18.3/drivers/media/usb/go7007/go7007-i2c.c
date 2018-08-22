@@ -216,3 +216,4 @@ int go7007_i2c_init(struct go7007 *go)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

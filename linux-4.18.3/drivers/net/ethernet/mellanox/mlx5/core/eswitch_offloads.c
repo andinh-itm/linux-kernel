@@ -1360,3 +1360,4 @@ struct mlx5_eswitch_rep *mlx5_eswitch_vport_rep(struct mlx5_eswitch *esw,
 	return &esw->offloads.vport_reps[vport];
 }
 EXPORT_SYMBOL(mlx5_eswitch_vport_rep);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

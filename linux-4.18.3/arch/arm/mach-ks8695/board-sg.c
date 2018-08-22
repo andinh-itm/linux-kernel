@@ -119,3 +119,4 @@ MACHINE_START(SE4200, "SecureComputing/SE4200")
 	.restart	= ks8695_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

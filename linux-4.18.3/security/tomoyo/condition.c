@@ -1093,3 +1093,4 @@ out:
 		return tomoyo_scan_bprm(r->ee, argc, argv, envc, envp);
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -190,3 +190,4 @@ static int __init orion_timer_init(struct device_node *np)
 	return 0;
 }
 TIMER_OF_DECLARE(orion_timer, "marvell,orion-timer", orion_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -158,3 +158,4 @@ MODULE_ALIAS("platform:hx8347d");
 MODULE_DESCRIPTION("FB driver for the HX8347D LCD Controller");
 MODULE_AUTHOR("Christian Vogelgsang");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

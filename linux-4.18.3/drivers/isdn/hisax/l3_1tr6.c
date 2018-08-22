@@ -929,3 +929,4 @@ setstack_1tr6(struct PStack *st)
 	strcpy(tmp, l3_1tr6_revision);
 	printk(KERN_INFO "HiSax: 1TR6 Rev. %s\n", HiSax_getrev(tmp));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

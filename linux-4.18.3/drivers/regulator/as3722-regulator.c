@@ -971,3 +971,4 @@ MODULE_DESCRIPTION("AS3722 regulator driver");
 MODULE_AUTHOR("Florian Lobmaier <florian.lobmaier@ams.com>");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

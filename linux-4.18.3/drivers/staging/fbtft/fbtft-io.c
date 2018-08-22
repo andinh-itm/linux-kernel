@@ -233,3 +233,4 @@ int fbtft_write_gpio16_wr_latched(struct fbtft_par *par, void *buf, size_t len)
 	return -1;
 }
 EXPORT_SYMBOL(fbtft_write_gpio16_wr_latched);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

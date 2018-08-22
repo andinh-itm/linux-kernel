@@ -565,3 +565,4 @@ module_platform_driver(pata_ftide010_driver);
 MODULE_AUTHOR("Linus Walleij <linus.walleij@linaro.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

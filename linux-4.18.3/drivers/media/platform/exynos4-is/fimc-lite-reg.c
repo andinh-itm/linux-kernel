@@ -347,3 +347,4 @@ void flite_hw_dump_regs(struct fimc_lite *dev, const char *label)
 			  registers[i].name, cfg);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

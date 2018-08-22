@@ -1246,3 +1246,4 @@ int drbd_rs_del_all(struct drbd_device *device)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

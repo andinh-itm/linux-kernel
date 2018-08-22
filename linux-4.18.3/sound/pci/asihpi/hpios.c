@@ -81,3 +81,4 @@ u16 hpios_locked_mem_free(struct consistent_dma_area *p_mem_area)
 		return 1;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

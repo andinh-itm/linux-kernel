@@ -591,3 +591,4 @@ int __init valkyriefb_setup(char *options)
 
 module_init(valkyriefb_init);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

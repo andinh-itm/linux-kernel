@@ -207,3 +207,4 @@ struct op_axp_model op_model_pca56 = {
 	.num_counters		= 3,
 	.can_set_proc_mode	= 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

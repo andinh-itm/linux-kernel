@@ -309,3 +309,4 @@ void pci_remove_firmware_label_files(struct pci_dev *pdev)
 	else
 		pci_remove_smbiosname_file(pdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

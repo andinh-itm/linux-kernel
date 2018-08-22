@@ -266,3 +266,4 @@ module_i2c_driver(zet6223_driver);
 MODULE_AUTHOR("Jelle van der Waa <jelle@vdwaa.nl>");
 MODULE_DESCRIPTION("ZEITEC zet622x I2C touchscreen driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

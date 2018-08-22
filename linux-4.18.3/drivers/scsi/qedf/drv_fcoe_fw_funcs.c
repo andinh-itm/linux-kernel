@@ -197,3 +197,4 @@ int init_initiator_sequence_recovery_fcoe_task(
 								desired_offset;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

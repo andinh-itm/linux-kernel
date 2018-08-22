@@ -304,3 +304,4 @@ void __init tauros2_init(unsigned int features)
 #endif
 	tauros2_internal_init(features);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -806,3 +806,4 @@ void dce120_mem_input_construct(
 	dce_mem_input_construct(dce_mi, ctx, inst, regs, mi_shift, mi_mask);
 	dce_mi->base.funcs = &dce120_mi_funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

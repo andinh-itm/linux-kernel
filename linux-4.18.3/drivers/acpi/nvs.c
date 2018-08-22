@@ -210,3 +210,4 @@ void suspend_nvs_restore(void)
 			memcpy(entry->kaddr, entry->data, entry->size);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

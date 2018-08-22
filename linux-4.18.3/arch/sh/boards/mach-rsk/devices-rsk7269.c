@@ -58,3 +58,4 @@ static int __init rsk7269_devices_setup(void)
 				    ARRAY_SIZE(rsk7269_devices));
 }
 device_initcall(rsk7269_devices_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

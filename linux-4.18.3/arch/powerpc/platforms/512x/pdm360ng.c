@@ -131,3 +131,4 @@ define_machine(pdm360ng) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.restart		= mpc512x_restart,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

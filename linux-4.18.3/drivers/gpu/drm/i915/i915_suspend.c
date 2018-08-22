@@ -147,3 +147,4 @@ int i915_restore_state(struct drm_i915_private *dev_priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

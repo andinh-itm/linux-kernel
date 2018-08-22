@@ -557,3 +557,4 @@ void qede_ptp_rx_ts(struct qede_dev *edev, struct sk_buff *skb)
 		   "Rx timestamp, timestamp cycles = %llu, ns = %llu\n",
 		   timestamp, ns);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

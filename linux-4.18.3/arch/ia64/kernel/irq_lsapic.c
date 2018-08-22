@@ -43,3 +43,4 @@ struct irq_chip irq_type_ia64_lsapic = {
 	.irq_ack =		lsapic_noop,
 	.irq_retrigger =	lsapic_retrigger,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

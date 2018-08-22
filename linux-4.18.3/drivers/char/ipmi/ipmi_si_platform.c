@@ -438,3 +438,4 @@ void ipmi_si_platform_shutdown(void)
 {
 	platform_driver_unregister(&ipmi_platform_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

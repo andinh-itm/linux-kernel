@@ -904,3 +904,4 @@ MACHINE_START(H4700, "HP iPAQ HX4700")
 	.init_time	= pxa_timer_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

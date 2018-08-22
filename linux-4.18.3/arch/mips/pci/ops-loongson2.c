@@ -214,3 +214,4 @@ void _wrmsr(u32 msr, u32 hi, u32 lo)
 }
 EXPORT_SYMBOL(_wrmsr);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

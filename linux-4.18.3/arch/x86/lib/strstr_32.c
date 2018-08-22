@@ -31,3 +31,4 @@ __asm__ __volatile__(
 return __res;
 }
 EXPORT_SYMBOL(strstr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

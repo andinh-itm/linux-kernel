@@ -116,3 +116,4 @@ void omap_hwmod_rtc_lock(struct omap_hwmod *oh)
 	omap_hwmod_write(0x0, oh, OMAP_RTC_KICK1_REG);
 	local_irq_enable();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

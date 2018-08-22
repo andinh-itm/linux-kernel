@@ -444,3 +444,4 @@ const struct ti_bandgap_data dra752_data = {
 	},
 	.sensor_count = 5,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

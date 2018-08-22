@@ -301,3 +301,4 @@ module_usb_driver(pxrc_driver);
 MODULE_AUTHOR("Marcus Folkesson <marcus.folkesson@gmail.com>");
 MODULE_DESCRIPTION("PhoenixRC Flight Controller Adapter");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

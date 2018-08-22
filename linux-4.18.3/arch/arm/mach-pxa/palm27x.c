@@ -481,3 +481,4 @@ void __init palm27x_pmic_init(void)
 	pxa27x_set_i2c_power_info(&palm27x_i2c_power_info);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

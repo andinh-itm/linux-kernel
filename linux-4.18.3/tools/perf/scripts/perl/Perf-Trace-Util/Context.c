@@ -136,3 +136,4 @@ XS(boot_Perf__Trace__Context)
     XSRETURN_YES;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

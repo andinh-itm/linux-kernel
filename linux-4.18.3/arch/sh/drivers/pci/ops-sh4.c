@@ -106,3 +106,4 @@ int __attribute__((weak)) pci_fixup_pcic(struct pci_channel *chan)
 	/* Nothing to do. */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

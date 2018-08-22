@@ -192,3 +192,4 @@ out_unlock:
 	mutex_unlock(&sclp_pci_mutex);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

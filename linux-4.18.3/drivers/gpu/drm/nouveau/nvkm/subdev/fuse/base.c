@@ -52,3 +52,4 @@ nvkm_fuse_new_(const struct nvkm_fuse_func *func, struct nvkm_device *device,
 	spin_lock_init(&fuse->lock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

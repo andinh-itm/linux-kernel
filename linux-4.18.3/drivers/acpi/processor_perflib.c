@@ -809,3 +809,4 @@ void acpi_processor_unregister_performance(unsigned int cpu)
 }
 
 EXPORT_SYMBOL(acpi_processor_unregister_performance);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

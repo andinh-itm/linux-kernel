@@ -259,3 +259,4 @@ int module_frob_arch_sections(Elf_Ehdr *ehdr, Elf_Shdr *sechdrs,
 		 mod->arch.core.plt->sh_size, mod->arch.init.plt->sh_size);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

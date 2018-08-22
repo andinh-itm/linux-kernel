@@ -3359,3 +3359,4 @@ MODULE_DESCRIPTION("PC-style parallel port driver");
 MODULE_LICENSE("GPL");
 module_init(parport_pc_init)
 module_exit(parport_pc_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

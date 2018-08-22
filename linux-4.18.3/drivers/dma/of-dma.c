@@ -355,3 +355,4 @@ struct dma_chan *of_dma_xlate_by_chan_id(struct of_phandle_args *dma_spec,
 	return dma_get_slave_channel(candidate);
 }
 EXPORT_SYMBOL_GPL(of_dma_xlate_by_chan_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -128,3 +128,4 @@ struct syscore_ops s3c244x_pm_syscore_ops = {
 	.resume		= s3c244x_resume,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -326,3 +326,4 @@ MODULE_DESCRIPTION("Camellia Cipher Algorithm, sparc64 camellia opcode accelerat
 MODULE_ALIAS_CRYPTO("camellia");
 
 #include "crop_devid.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

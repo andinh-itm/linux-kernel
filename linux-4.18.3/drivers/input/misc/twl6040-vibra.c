@@ -380,3 +380,4 @@ MODULE_DESCRIPTION("TWL6040 Vibra driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jorge Eduardo Candelaria <jorge.candelaria@ti.com>");
 MODULE_AUTHOR("Misael Lopez Cruz <misael.lopez@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

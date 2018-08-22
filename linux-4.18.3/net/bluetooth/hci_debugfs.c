@@ -995,3 +995,4 @@ void hci_debugfs_create_conn(struct hci_conn *conn)
 	snprintf(name, sizeof(name), "%u", conn->handle);
 	conn->debugfs = debugfs_create_dir(name, hdev->debugfs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

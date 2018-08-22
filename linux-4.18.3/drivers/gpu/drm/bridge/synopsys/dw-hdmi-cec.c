@@ -325,3 +325,4 @@ MODULE_AUTHOR("Russell King <rmk+kernel@armlinux.org.uk>");
 MODULE_DESCRIPTION("Synopsys Designware HDMI CEC driver for i.MX");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS(PLATFORM_MODULE_PREFIX "dw-hdmi-cec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

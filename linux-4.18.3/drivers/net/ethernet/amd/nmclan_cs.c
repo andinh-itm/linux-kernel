@@ -1508,3 +1508,4 @@ static struct pcmcia_driver nmclan_cs_driver = {
 	.resume		= nmclan_resume,
 };
 module_pcmcia_driver(nmclan_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

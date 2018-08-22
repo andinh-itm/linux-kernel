@@ -599,3 +599,4 @@ static struct platform_driver a64_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(a64_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -105,3 +105,4 @@ module_platform_driver(qcom_a53pll_driver);
 
 MODULE_DESCRIPTION("Qualcomm A53 PLL Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

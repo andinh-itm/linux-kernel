@@ -210,3 +210,4 @@ MODULE_PARM_DESC(clock, "Clock rate in hertz.\n\t\t"
 		"\t\t\t\tFast+: 400100 - 10000099\n"
 		"\t\t\t\tTurbo: Up to 1265800");
 module_isa_driver(pca_isa_driver, 1);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

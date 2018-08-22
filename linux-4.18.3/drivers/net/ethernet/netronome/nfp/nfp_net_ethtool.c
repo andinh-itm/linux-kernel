@@ -1379,3 +1379,4 @@ void nfp_net_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &nfp_net_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

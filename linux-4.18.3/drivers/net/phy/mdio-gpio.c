@@ -211,3 +211,4 @@ MODULE_ALIAS("platform:mdio-gpio");
 MODULE_AUTHOR("Laurent Pinchart, Paulius Zaleckas");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Generic driver for MDIO bus emulation using GPIO");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

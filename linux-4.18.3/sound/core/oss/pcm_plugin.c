@@ -765,3 +765,4 @@ int snd_pcm_area_copy(const struct snd_pcm_channel_area *src_area, size_t src_of
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

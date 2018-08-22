@@ -165,3 +165,4 @@ module_platform_driver(denali_dt_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jamie Iles");
 MODULE_DESCRIPTION("DT driver for Denali NAND controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2987,3 +2987,4 @@ MODULE_PARM_DESC(num_mb, "Number of concurrent requests to be used in mb speed t
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Quick & dirty crypto testing module");
 MODULE_AUTHOR("James Morris <jmorris@intercode.com.au>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

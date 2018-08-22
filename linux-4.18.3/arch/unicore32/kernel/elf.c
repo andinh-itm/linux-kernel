@@ -36,3 +36,4 @@ void elf_set_personality(const struct elf32_hdr *x)
 	set_personality(personality);
 }
 EXPORT_SYMBOL(elf_set_personality);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

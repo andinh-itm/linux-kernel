@@ -222,3 +222,4 @@ const struct clk_ops ccu_nm_ops = {
 	.round_rate	= ccu_nm_round_rate,
 	.set_rate	= ccu_nm_set_rate,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

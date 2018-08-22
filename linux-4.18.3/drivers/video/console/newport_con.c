@@ -756,3 +756,4 @@ module_init(newport_console_init);
 module_exit(newport_console_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

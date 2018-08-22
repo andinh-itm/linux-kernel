@@ -2600,3 +2600,4 @@ static int __init cpufreq_core_init(void)
 }
 module_param(off, int, 0444);
 core_initcall(cpufreq_core_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

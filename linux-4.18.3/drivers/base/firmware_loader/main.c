@@ -1268,3 +1268,4 @@ static void __exit firmware_class_exit(void)
 
 fs_initcall(firmware_class_init);
 module_exit(firmware_class_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

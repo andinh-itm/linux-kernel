@@ -543,3 +543,4 @@ module_exit(sch311x_wdt_exit);
 MODULE_AUTHOR("Wim Van Sebroeck <wim@iguana.be>");
 MODULE_DESCRIPTION("SMSC SCH311x WatchDog Timer Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

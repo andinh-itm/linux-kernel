@@ -2080,3 +2080,4 @@ struct sas_function_template mpt3sas_transport_functions = {
 };
 
 struct scsi_transport_template *mpt3sas_transport_template;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

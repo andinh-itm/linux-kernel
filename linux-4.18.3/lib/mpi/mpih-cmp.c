@@ -54,3 +54,4 @@ diff:
 	 * since that expression might give signed overflow.  */
 	return (op1_word > op2_word) ? 1 : -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

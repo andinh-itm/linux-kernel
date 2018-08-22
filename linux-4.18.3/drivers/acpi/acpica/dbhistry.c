@@ -203,3 +203,4 @@ char *acpi_db_get_history_by_index(u32 cmd_num)
 	acpi_os_printf("Invalid history number: %u\n", history_index);
 	return (NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

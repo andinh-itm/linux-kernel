@@ -549,3 +549,4 @@ module_platform_driver(zd1301_demod_driver);
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("ZyDAS ZD1301 demodulator driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

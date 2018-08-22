@@ -40,3 +40,4 @@ int verify_sha256_digest(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

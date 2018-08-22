@@ -883,3 +883,4 @@ static void __exit omap_usbhs_drvexit(void)
 	platform_driver_unregister(&usbhs_omap_driver);
 }
 module_exit(omap_usbhs_drvexit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

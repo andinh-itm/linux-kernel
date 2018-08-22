@@ -1244,3 +1244,4 @@ MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(nxt200x_attach);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

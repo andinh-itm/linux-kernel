@@ -1008,3 +1008,4 @@ ath5k_hw_pcu_init(struct ath5k_hw *ah, enum nl80211_iftype op_mode)
 	}
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

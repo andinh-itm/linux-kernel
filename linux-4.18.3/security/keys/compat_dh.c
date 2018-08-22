@@ -38,3 +38,4 @@ long compat_keyctl_dh_compute(struct keyctl_dh_params __user *params,
 
 	return __keyctl_dh_compute(params, buffer, buflen, &kdfcopy);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

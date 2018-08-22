@@ -449,3 +449,4 @@ MODULE_DESCRIPTION("Powertec SCSI driver");
 module_param_array(term, int, NULL, 0);
 MODULE_PARM_DESC(term, "SCSI bus termination");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

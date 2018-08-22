@@ -246,3 +246,4 @@ const struct net_user_info ethertap_user_info = {
 	.mtu		= ETH_MAX_PACKET,
 	.max_packet	= ETH_MAX_PACKET + ETH_HEADER_ETHERTAP,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

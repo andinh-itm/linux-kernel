@@ -146,3 +146,4 @@ void at93c_write(u8 addr, u8 data)
 	at93c_wait();
 	at93c_enable_wp();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

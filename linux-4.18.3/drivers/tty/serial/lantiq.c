@@ -775,3 +775,4 @@ init_lqasc(void)
 	return ret;
 }
 device_initcall(init_lqasc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

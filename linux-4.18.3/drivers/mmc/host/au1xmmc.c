@@ -1242,3 +1242,4 @@ MODULE_AUTHOR("Advanced Micro Devices, Inc");
 MODULE_DESCRIPTION("MMC/SD driver for the Alchemy Au1XXX");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:au1xxx-mmc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

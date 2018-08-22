@@ -706,3 +706,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("JZ4740 SoC LCD framebuffer driver");
 MODULE_ALIAS("platform:jz4740-fb");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

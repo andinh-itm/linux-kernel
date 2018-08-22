@@ -1123,3 +1123,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Imgtec SHA1/224/256 & MD5 hw accelerator driver");
 MODULE_AUTHOR("Will Thomas.");
 MODULE_AUTHOR("James Hartley <james.hartley@imgtec.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

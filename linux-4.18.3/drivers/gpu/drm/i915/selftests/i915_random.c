@@ -68,3 +68,4 @@ unsigned int *i915_random_order(unsigned int count, struct rnd_state *state)
 	i915_random_reorder(order, count, state);
 	return order;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

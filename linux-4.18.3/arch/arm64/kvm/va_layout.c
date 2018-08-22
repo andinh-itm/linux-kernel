@@ -225,3 +225,4 @@ void kvm_patch_vector_branch(struct alt_instr *alt,
 					   AARCH64_INSN_BRANCH_NOLINK);
 	*updptr++ = cpu_to_le32(insn);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

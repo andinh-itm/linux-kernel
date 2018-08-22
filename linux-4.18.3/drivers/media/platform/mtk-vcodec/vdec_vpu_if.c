@@ -167,3 +167,4 @@ int vpu_dec_reset(struct vdec_vpu_inst *vpu)
 {
 	return vcodec_send_ap_ipi(vpu, AP_IPIMSG_DEC_RESET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

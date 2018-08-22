@@ -1309,3 +1309,4 @@ module_platform_driver(nixge_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("National Instruments XGE Management MAC");
 MODULE_AUTHOR("Moritz Fischer <mdf@kernel.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

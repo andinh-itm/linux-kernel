@@ -1090,3 +1090,4 @@ static struct i2c_driver tvp7002_driver = {
 };
 
 module_i2c_driver(tvp7002_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

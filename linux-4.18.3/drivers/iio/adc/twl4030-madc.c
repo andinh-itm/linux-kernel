@@ -952,3 +952,4 @@ MODULE_DESCRIPTION("TWL4030 ADC driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("J Keerthy");
 MODULE_ALIAS("platform:twl4030_madc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

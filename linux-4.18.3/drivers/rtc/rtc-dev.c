@@ -481,3 +481,4 @@ void __exit rtc_dev_exit(void)
 	if (rtc_devt)
 		unregister_chrdev_region(rtc_devt, RTC_DEV_MAX);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -795,3 +795,4 @@ module_platform_driver(spear_pcie_gadget_driver);
 MODULE_ALIAS("platform:pcie-gadget-spear");
 MODULE_AUTHOR("Pratyush Anand");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -394,3 +394,4 @@ int kvmppc_emulate_loadstore(struct kvm_vcpu *vcpu)
 
 	return emulated;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

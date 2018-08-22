@@ -290,3 +290,4 @@ int scsi_ioctl_block_when_processing_errors(struct scsi_device *sdev, int cmd,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(scsi_ioctl_block_when_processing_errors);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2618,3 +2618,4 @@ void kvm_lapic_exit(void)
 	static_key_deferred_flush(&apic_hw_disabled);
 	static_key_deferred_flush(&apic_sw_disabled);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

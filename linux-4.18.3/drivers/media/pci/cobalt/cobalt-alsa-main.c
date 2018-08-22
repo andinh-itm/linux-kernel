@@ -148,3 +148,4 @@ void cobalt_alsa_exit(struct cobalt_stream *s)
 		snd_card_free(cobsc->sc);
 	s->alsa = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -566,3 +566,4 @@ module_init(agp_amdk7_init);
 module_exit(agp_amdk7_cleanup);
 
 MODULE_LICENSE("GPL and additional rights");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

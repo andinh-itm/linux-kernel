@@ -232,3 +232,4 @@ static int __init gic_clocksource_of_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(mips_gic_timer, "mti,gic-timer",
 		       gic_clocksource_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

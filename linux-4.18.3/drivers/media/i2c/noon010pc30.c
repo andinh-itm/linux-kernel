@@ -827,3 +827,4 @@ module_i2c_driver(noon010_i2c_driver);
 MODULE_DESCRIPTION("Siliconfile NOON010PC30 camera driver");
 MODULE_AUTHOR("Sylwester Nawrocki <s.nawrocki@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1175,3 +1175,4 @@ MODULE_DESCRIPTION("General Instruments SB1000 driver");
 MODULE_LICENSE("GPL");
 
 module_pnp_driver(sb1000_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

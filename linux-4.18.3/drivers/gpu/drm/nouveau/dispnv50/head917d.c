@@ -98,3 +98,4 @@ head917d = {
 	.procamp = head907d_procamp,
 	.or = head907d_or,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

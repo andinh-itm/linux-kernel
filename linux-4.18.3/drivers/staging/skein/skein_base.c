@@ -868,3 +868,4 @@ int skein_1024_output(struct skein_1024_ctx *ctx, u8 *hash_val)
 	return SKEIN_SUCCESS;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

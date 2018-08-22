@@ -46,3 +46,4 @@ module_exit(cmx2xx_pcmcia_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mike Rapoport <mike@compulab.co.il>");
 MODULE_DESCRIPTION("CM-x2xx PCMCIA driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

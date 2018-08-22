@@ -1301,3 +1301,4 @@ module_platform_driver(q6afe_dai_platform_driver);
 
 MODULE_DESCRIPTION("Q6 Audio Fronend dai driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

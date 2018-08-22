@@ -680,3 +680,4 @@ bool smack_privileged(int cap)
 
 	return smack_privileged_cred(cap, current_cred());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

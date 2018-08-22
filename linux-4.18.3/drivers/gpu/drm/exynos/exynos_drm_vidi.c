@@ -497,3 +497,4 @@ struct platform_driver vidi_driver = {
 		.owner	= THIS_MODULE,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

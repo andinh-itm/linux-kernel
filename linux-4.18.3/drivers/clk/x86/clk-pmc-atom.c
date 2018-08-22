@@ -383,3 +383,4 @@ static struct platform_driver plt_clk_driver = {
 	.remove = plt_clk_remove,
 };
 builtin_platform_driver(plt_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

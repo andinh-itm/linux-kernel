@@ -73,3 +73,4 @@ void cpu_probe(void)
 	/* Setup some I/D TLB defaults */
 	sh64_tlb_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

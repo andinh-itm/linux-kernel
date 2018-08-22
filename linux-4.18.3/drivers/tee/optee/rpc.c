@@ -450,3 +450,4 @@ void optee_handle_rpc(struct tee_context *ctx, struct optee_rpc_param *param,
 
 	param->a0 = OPTEE_SMC_CALL_RETURN_FROM_RPC;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

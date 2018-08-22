@@ -130,3 +130,4 @@ static void __exit scx200_gpio_cleanup(void)
 
 module_init(scx200_gpio_init);
 module_exit(scx200_gpio_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

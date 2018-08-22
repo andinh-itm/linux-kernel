@@ -102,3 +102,4 @@ static int __populate_cache_leaves(unsigned int cpu)
 
 DEFINE_SMP_CALL_CACHE_FUNCTION(init_cache_level)
 DEFINE_SMP_CALL_CACHE_FUNCTION(populate_cache_leaves)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

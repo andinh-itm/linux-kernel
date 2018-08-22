@@ -458,3 +458,4 @@ snd_seq_oss_event_input(struct snd_seq_event *ev, int direct, void *private_data
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

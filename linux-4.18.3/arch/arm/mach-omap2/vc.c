@@ -841,3 +841,4 @@ void __init omap_vc_init_channel(struct voltagedomain *voltdm)
 		omap4_vc_init_channel(voltdm);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

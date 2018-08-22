@@ -121,3 +121,4 @@ qcaspi_write_register(struct qcaspi *qca, u16 reg, u16 value)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

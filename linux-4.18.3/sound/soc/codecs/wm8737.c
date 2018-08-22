@@ -736,3 +736,4 @@ module_exit(wm8737_exit);
 MODULE_DESCRIPTION("ASoC WM8737 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

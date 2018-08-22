@@ -683,3 +683,4 @@ int arch_trampoline_kprobe(struct kprobe *p)
 	return 0;
 }
 NOKPROBE_SYMBOL(arch_trampoline_kprobe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

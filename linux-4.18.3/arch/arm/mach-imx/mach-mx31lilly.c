@@ -329,3 +329,4 @@ MACHINE_START(LILLY1131, "INCO startec LILLY-1131")
 	.init_late	= mx31lilly_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

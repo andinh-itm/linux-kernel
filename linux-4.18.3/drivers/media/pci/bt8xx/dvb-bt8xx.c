@@ -974,3 +974,4 @@ module_exit(dvb_bt8xx_exit);
 MODULE_DESCRIPTION("Bt8xx based DVB adapter driver");
 MODULE_AUTHOR("Florian Schirmer <jolt@tuxbox.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

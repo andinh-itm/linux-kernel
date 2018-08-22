@@ -995,3 +995,4 @@ void pcmcia_disable_device(struct pcmcia_device *p_dev)
 	}
 }
 EXPORT_SYMBOL(pcmcia_disable_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

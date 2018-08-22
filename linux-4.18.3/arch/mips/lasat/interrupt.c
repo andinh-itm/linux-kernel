@@ -133,3 +133,4 @@ void __init arch_init_irq(void)
 
 	setup_irq(LASAT_CASCADE_IRQ, &cascade);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

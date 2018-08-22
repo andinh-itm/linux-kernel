@@ -114,3 +114,4 @@ int viafb_ioctl_hotplug(int hres, int vres, int bpp)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

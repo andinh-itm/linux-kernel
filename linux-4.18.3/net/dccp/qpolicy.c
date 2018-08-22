@@ -135,3 +135,4 @@ bool dccp_qpolicy_param_ok(struct sock *sk, __be32 param)
 		return false;
 	return (qpol_table[dccp_sk(sk)->dccps_qpolicy].params & param) == param;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

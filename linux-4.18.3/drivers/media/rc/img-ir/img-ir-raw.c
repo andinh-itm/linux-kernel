@@ -153,3 +153,4 @@ void img_ir_remove_raw(struct img_ir_priv *priv)
 
 	del_timer_sync(&raw->timer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -370,3 +370,4 @@ module_i2c_driver(mpr_touchkey_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Zhang Jiejing <jiejing.zhang@freescale.com>");
 MODULE_DESCRIPTION("Touch Key driver for Freescale MPR121 Chip");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

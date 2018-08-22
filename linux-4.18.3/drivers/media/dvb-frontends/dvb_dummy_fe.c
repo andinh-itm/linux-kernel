@@ -267,3 +267,4 @@ MODULE_LICENSE("GPL");
 EXPORT_SYMBOL(dvb_dummy_fe_ofdm_attach);
 EXPORT_SYMBOL(dvb_dummy_fe_qam_attach);
 EXPORT_SYMBOL(dvb_dummy_fe_qpsk_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

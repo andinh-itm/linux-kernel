@@ -989,3 +989,4 @@ const struct amdgpu_ip_block_version vce_v3_4_ip_block =
 	.rev = 0,
 	.funcs = &vce_v3_0_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -576,3 +576,4 @@ module_exit(rpmsg_chrdev_exit);
 
 MODULE_ALIAS("rpmsg:rpmsg_chrdev");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

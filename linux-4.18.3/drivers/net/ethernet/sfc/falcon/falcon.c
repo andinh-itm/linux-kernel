@@ -2904,3 +2904,4 @@ const struct ef4_nic_type falcon_b0_nic_type = {
 	.offload_features = NETIF_F_IP_CSUM | NETIF_F_RXHASH | NETIF_F_NTUPLE,
 	.max_rx_ip_filters = FR_BZ_RX_FILTER_TBL0_ROWS,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

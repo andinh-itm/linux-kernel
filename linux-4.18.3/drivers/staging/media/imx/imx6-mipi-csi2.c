@@ -703,3 +703,4 @@ module_platform_driver(csi2_driver);
 MODULE_DESCRIPTION("i.MX5/6 MIPI CSI-2 Receiver driver");
 MODULE_AUTHOR("Steve Longerbeam <steve_longerbeam@mentor.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

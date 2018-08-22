@@ -594,3 +594,4 @@ static struct hid_driver magicmouse_driver = {
 module_hid_driver(magicmouse_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

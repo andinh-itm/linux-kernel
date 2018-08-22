@@ -1148,3 +1148,4 @@ MODULE_ALIAS_NF_LOGGER(5, 1); /* NFPROTO_NETDEV */
 
 module_init(nfnetlink_log_init);
 module_exit(nfnetlink_log_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

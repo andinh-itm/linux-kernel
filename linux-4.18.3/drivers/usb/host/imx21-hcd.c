@@ -1933,3 +1933,4 @@ MODULE_DESCRIPTION("i.MX21 USB Host controller");
 MODULE_AUTHOR("Martin Fuzzey");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:imx21-hcd");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

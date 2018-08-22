@@ -2529,3 +2529,4 @@ static void _rtl92e_dm_send_rssi_to_fw(struct net_device *dev)
 
 	rtl92e_writeb(dev, DRIVER_RSSI, (u8)priv->undecorated_smoothed_pwdb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

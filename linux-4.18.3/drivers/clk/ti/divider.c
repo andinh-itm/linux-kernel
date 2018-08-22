@@ -665,3 +665,4 @@ cleanup:
 }
 CLK_OF_DECLARE(ti_composite_divider_clk, "ti,composite-divider-clock",
 	       of_ti_composite_divider_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

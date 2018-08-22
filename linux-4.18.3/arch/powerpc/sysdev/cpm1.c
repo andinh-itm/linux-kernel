@@ -787,3 +787,4 @@ int cpm1_gpiochip_add32(struct device *dev)
 }
 
 #endif /* CONFIG_8xx_GPIO */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

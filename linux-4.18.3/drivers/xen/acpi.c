@@ -75,3 +75,4 @@ int xen_acpi_notify_hypervisor_extended_sleep(u8 sleep_state,
 	return xen_acpi_notify_hypervisor_state(sleep_state, val_a,
 						val_b, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

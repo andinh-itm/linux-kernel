@@ -47,3 +47,4 @@ void __init tx4927_irq_init(void)
 	for (i = 0; i < TX4927_NUM_IR_SIO; i++)
 		txx9_irq_set_pri(TX4927_IR_SIO(i), 5);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

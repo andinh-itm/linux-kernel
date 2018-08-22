@@ -3421,3 +3421,4 @@ module_exit(gcc_msm8916_exit);
 MODULE_DESCRIPTION("Qualcomm GCC MSM8916 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-msm8916");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

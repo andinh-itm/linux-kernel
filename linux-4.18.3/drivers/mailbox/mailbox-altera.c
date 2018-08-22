@@ -386,3 +386,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Altera mailbox specific functions");
 MODULE_AUTHOR("Ley Foon Tan <lftan@altera.com>");
 MODULE_ALIAS("platform:altera-mailbox");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

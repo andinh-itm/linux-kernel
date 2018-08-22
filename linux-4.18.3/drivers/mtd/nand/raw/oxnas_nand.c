@@ -204,3 +204,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_DESCRIPTION("Oxnas NAND driver");
 MODULE_ALIAS("platform:oxnas_nand");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

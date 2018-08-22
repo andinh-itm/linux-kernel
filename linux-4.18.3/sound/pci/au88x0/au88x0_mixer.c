@@ -42,3 +42,4 @@ static int snd_vortex_mixer(vortex_t *vortex)
 	remove_ctl(vortex->card, "Master Mono Playback Switch");
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

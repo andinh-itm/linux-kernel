@@ -219,3 +219,4 @@ static void __exit st5481_usb_exit(void)
 
 module_init(st5481_usb_init);
 module_exit(st5481_usb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

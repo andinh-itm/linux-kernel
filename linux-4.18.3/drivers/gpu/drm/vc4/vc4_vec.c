@@ -659,3 +659,4 @@ struct platform_driver vc4_vec_driver = {
 		.of_match_table = vc4_vec_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

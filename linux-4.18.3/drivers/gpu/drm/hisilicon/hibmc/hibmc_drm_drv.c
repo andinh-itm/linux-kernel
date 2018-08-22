@@ -431,3 +431,4 @@ MODULE_DEVICE_TABLE(pci, hibmc_pci_table);
 MODULE_AUTHOR("RongrongZou <zourongrong@huawei.com>");
 MODULE_DESCRIPTION("DRM Driver for Hisilicon Hibmc");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

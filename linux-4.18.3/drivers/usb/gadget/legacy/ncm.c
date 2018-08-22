@@ -207,3 +207,4 @@ module_usb_composite_driver(ncm_driver);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("Yauheni Kaliuta");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

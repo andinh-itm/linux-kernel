@@ -133,3 +133,4 @@ const struct kgdb_arch arch_kgdb_ops = {
 	/* Breakpoint instruction: trapa #2 */
 	.gdb_bpt_instr = { 0x57, 0x20 },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

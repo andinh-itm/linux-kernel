@@ -181,3 +181,4 @@ static void __exit snd_hrtimer_exit(void)
 
 module_init(snd_hrtimer_init);
 module_exit(snd_hrtimer_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

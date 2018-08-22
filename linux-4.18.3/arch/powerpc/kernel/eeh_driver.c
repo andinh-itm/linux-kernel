@@ -1103,3 +1103,4 @@ void eeh_handle_special_event(void)
 			break;
 	} while (rc != EEH_NEXT_ERR_NONE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

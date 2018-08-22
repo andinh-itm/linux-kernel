@@ -667,3 +667,4 @@ module_exit(gdm_usb_mux_exit);
 
 MODULE_DESCRIPTION("GCT LTE TTY Device Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

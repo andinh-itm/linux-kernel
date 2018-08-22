@@ -328,3 +328,4 @@ MODULE_ALIAS("platform:cpcap-rtc");
 MODULE_DESCRIPTION("CPCAP RTC driver");
 MODULE_AUTHOR("Sebastian Reichel <sre@kernel.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

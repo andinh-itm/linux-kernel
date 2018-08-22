@@ -143,3 +143,4 @@ void sm750_enable_i2c(unsigned int enable)
 
 	sm750_set_current_gate(gate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

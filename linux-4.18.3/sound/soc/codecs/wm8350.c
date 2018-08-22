@@ -1617,3 +1617,4 @@ MODULE_DESCRIPTION("ASoC WM8350 driver");
 MODULE_AUTHOR("Liam Girdwood");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8350-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

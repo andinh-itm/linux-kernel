@@ -73,3 +73,4 @@ struct platform_device *__init imx_add_mxc_nand(
 			res, ARRAY_SIZE(res) - !data->axibase,
 			pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

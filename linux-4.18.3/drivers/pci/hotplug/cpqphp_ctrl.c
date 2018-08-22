@@ -2954,3 +2954,4 @@ free_and_out:
 	return_resource(&(resources->p_mem_head), hold_p_mem_node);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

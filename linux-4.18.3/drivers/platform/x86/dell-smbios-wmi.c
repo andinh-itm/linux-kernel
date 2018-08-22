@@ -277,3 +277,4 @@ void exit_dell_smbios_wmi(void)
 }
 
 MODULE_ALIAS("wmi:" DELL_WMI_SMBIOS_GUID);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

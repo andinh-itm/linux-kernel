@@ -564,3 +564,4 @@ nokobj:
 	kfree(validate_flash_data.buf);
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

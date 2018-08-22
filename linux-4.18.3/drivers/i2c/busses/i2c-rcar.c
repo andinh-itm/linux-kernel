@@ -1027,3 +1027,4 @@ module_platform_driver(rcar_i2c_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Renesas R-Car I2C bus driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

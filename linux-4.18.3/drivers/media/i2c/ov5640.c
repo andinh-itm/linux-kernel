@@ -2695,3 +2695,4 @@ module_i2c_driver(ov5640_i2c_driver);
 
 MODULE_DESCRIPTION("OV5640 MIPI Camera Subdev Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

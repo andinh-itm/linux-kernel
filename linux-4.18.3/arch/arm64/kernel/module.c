@@ -459,3 +459,4 @@ int module_finalize(const Elf_Ehdr *hdr,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

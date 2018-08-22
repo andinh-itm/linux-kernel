@@ -83,3 +83,4 @@ const struct regmap_config bmp280_regmap_config = {
 	.volatile_reg = bmp280_is_volatile_reg,
 };
 EXPORT_SYMBOL(bmp280_regmap_config);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

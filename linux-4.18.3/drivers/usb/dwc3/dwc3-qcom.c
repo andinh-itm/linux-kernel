@@ -614,3 +614,4 @@ module_platform_driver(dwc3_qcom_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("DesignWare DWC3 QCOM Glue Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -355,3 +355,4 @@ static void __exit devcoredump_exit(void)
 	class_unregister(&devcd_class);
 }
 __exitcall(devcoredump_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

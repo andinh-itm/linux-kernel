@@ -484,3 +484,4 @@ void devm_regulator_unregister_notifier(struct regulator *regulator,
 		WARN_ON(rc);
 }
 EXPORT_SYMBOL_GPL(devm_regulator_unregister_notifier);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

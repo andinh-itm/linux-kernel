@@ -1127,3 +1127,4 @@ int __kprobes arch_trampoline_kprobe(struct kprobe *p)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

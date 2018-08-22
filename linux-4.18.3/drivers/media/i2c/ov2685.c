@@ -843,3 +843,4 @@ module_i2c_driver(ov2685_i2c_driver);
 
 MODULE_DESCRIPTION("OmniVision ov2685 sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -352,3 +352,4 @@ int snd_cx18_pcm_create(struct snd_cx18_card *cxsc)
 err_exit:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

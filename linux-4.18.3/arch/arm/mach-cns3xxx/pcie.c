@@ -291,3 +291,4 @@ void __init cns3xxx_pcie_init_late(void)
 
 	pci_assign_unassigned_resources();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

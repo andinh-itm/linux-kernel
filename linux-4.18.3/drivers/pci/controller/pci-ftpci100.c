@@ -619,3 +619,4 @@ static struct platform_driver faraday_pci_driver = {
 	.probe  = faraday_pci_probe,
 };
 builtin_platform_driver(faraday_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

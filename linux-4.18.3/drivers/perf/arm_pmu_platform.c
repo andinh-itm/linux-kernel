@@ -247,3 +247,4 @@ out_free:
 	armpmu_free(pmu);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

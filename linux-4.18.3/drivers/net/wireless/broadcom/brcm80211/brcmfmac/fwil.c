@@ -425,3 +425,4 @@ brcmf_fil_bsscfg_int_get(struct brcmf_if *ifp, char *name, u32 *data)
 		*data = le32_to_cpu(data_le);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

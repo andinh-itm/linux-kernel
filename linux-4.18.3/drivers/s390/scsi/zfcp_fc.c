@@ -1047,3 +1047,4 @@ void zfcp_fc_gs_destroy(struct zfcp_adapter *adapter)
 	adapter->gs = NULL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

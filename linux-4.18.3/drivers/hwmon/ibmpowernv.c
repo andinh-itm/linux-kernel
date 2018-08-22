@@ -562,3 +562,4 @@ module_platform_driver(ibmpowernv_driver);
 MODULE_AUTHOR("Neelesh Gupta <neelegup@linux.vnet.ibm.com>");
 MODULE_DESCRIPTION("IBM POWERNV platform sensors");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

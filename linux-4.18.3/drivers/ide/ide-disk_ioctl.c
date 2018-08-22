@@ -31,3 +31,4 @@ out:
 	mutex_unlock(&ide_disk_ioctl_mutex);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

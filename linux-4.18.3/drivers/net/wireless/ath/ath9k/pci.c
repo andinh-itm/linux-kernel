@@ -1098,3 +1098,4 @@ void ath_pci_exit(void)
 {
 	pci_unregister_driver(&ath_pci_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

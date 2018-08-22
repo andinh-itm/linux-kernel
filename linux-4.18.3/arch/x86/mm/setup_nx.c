@@ -60,3 +60,4 @@ void __init x86_report_nx(void)
 #endif
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

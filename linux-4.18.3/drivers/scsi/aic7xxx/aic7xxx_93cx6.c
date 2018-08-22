@@ -322,3 +322,4 @@ ahc_verify_cksum(struct seeprom_config *sc)
 		return(1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

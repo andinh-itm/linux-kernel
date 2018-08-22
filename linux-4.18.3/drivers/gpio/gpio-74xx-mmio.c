@@ -150,3 +150,4 @@ module_platform_driver(mmio_74xx_gpio_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("74xx MMIO GPIO driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -478,3 +478,4 @@ module_platform_driver(xgene_mdio_driver);
 MODULE_DESCRIPTION("APM X-Gene SoC MDIO driver");
 MODULE_AUTHOR("Iyappan Subramanian <isubramanian@apm.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

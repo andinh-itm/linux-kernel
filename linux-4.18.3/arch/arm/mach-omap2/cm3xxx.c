@@ -679,3 +679,4 @@ static void __exit omap3xxx_cm_exit(void)
 	cm_unregister(&omap3xxx_cm_ll_data);
 }
 __exitcall(omap3xxx_cm_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

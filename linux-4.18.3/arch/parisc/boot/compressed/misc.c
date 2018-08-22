@@ -300,3 +300,4 @@ unsigned long decompress_kernel(unsigned int started_wide,
 
 	return (unsigned long) output;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

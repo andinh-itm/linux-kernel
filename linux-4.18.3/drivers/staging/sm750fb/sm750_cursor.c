@@ -174,3 +174,4 @@ void sm750_hw_cursor_setData2(struct lynx_cursor *cursor, u16 rop,
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -735,3 +735,4 @@ void solo_v4l2_exit(struct solo_dev *solo_dev)
 	v4l2_ctrl_handler_free(&solo_dev->disp_hdl);
 	solo_dev->vfd = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

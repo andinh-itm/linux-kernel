@@ -905,3 +905,4 @@ int omap3_dpll5_set_rate(struct clk_hw *hw, unsigned long rate,
 
 	return omap3_noncore_dpll_set_rate(hw, rate, parent_rate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -330,3 +330,4 @@ void solo_i2c_exit(struct solo_dev *solo_dev)
 		solo_dev->i2c_adap[i].algo_data = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

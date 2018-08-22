@@ -52,3 +52,4 @@ void via_aux_vt1632_probe(struct via_aux_bus *bus)
 	for (i = 0x08; i <= 0x0F; i++)
 		probe(bus, i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -431,3 +431,4 @@ MODULE_AUTHOR("Wan ZongShun <mcuos.com@gmail.com>");
 MODULE_DESCRIPTION("nuc900 spi driver!");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:nuc900-spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

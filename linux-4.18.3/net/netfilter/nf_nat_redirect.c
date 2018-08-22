@@ -123,3 +123,4 @@ nf_nat_redirect_ipv6(struct sk_buff *skb, const struct nf_nat_range2 *range,
 	return nf_nat_setup_info(ct, &newrange, NF_NAT_MANIP_DST);
 }
 EXPORT_SYMBOL_GPL(nf_nat_redirect_ipv6);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

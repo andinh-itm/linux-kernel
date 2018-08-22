@@ -322,3 +322,4 @@ free_memory:
 }
 
 CLK_OF_DECLARE(pxa910_clk, "marvell,pxa910-clock", pxa910_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -154,3 +154,4 @@ void mtk_mdp_hw_set_global_alpha(struct mtk_mdp_ctx *ctx)
 
 	misc->alpha = ctx->ctrls.global_alpha->val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

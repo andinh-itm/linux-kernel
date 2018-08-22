@@ -1642,3 +1642,4 @@ module_i2c_driver(gp2ap020a00f_driver);
 MODULE_AUTHOR("Jacek Anaszewski <j.anaszewski@samsung.com>");
 MODULE_DESCRIPTION("Sharp GP2AP020A00F Proximity/ALS sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

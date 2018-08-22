@@ -1431,3 +1431,4 @@ const struct ethtool_ops be_ethtool_ops = {
 	.get_module_eeprom = be_get_module_eeprom,
 	.get_link_ksettings = be_get_link_ksettings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

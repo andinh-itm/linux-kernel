@@ -214,3 +214,4 @@ module_pci_driver(lpc_sch_driver);
 MODULE_AUTHOR("Denis Turischev <denis@compulab.co.il>");
 MODULE_DESCRIPTION("LPC interface for Intel Poulsbo SCH");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

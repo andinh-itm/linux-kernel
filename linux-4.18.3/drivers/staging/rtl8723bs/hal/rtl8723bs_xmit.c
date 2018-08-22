@@ -676,3 +676,4 @@ void rtl8723bs_free_xmit_priv(struct adapter *padapter)
 		rtw_free_xmitbuf(pxmitpriv, pxmitbuf);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

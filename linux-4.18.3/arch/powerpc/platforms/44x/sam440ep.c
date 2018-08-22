@@ -75,3 +75,4 @@ static int __init sam440ep_setup_rtc(void)
 	return i2c_register_board_info(0, &sam440ep_rtc_info, 1);
 }
 machine_device_initcall(sam440ep, sam440ep_setup_rtc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

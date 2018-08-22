@@ -102,3 +102,4 @@ static struct platform_driver stw481x_vmmc_regulator_driver = {
 };
 
 module_platform_driver(stw481x_vmmc_regulator_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

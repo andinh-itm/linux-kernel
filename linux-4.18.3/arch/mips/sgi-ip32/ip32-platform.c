@@ -136,3 +136,4 @@ static __init int sgio2_rtc_devinit(void)
 }
 
 device_initcall(sgio2_rtc_devinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

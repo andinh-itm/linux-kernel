@@ -343,3 +343,4 @@ const struct smp_operations bcm2836_smp_ops __initconst = {
 	.smp_boot_secondary	= bcm2836_boot_secondary,
 };
 CPU_METHOD_OF_DECLARE(bcm_smp_bcm2836, "brcm,bcm2836-smp", &bcm2836_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

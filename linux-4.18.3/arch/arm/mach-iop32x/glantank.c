@@ -211,3 +211,4 @@ MACHINE_START(GLANTANK, "GLAN Tank")
 	.init_machine	= glantank_init_machine,
 	.restart	= iop3xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

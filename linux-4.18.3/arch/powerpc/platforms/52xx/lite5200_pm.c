@@ -248,3 +248,4 @@ int __init lite5200_pm_init(void)
 	suspend_set_ops(&lite5200_pm_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

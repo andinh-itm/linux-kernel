@@ -244,3 +244,4 @@ g84_therm_new(struct nvkm_device *device, int index, struct nvkm_therm **ptherm)
 						     NVKM_THERM_THRS_LOWER);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

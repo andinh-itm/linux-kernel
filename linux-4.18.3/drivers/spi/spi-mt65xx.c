@@ -857,3 +857,4 @@ MODULE_DESCRIPTION("MTK SPI Controller driver");
 MODULE_AUTHOR("Leilk Liu <leilk.liu@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mtk-spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

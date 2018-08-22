@@ -170,3 +170,4 @@ static int __init setup_early_printk(char *buf)
 }
 early_param("earlyprintk", setup_early_printk);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

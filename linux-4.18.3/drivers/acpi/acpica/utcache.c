@@ -277,3 +277,4 @@ void *acpi_os_acquire_object(struct acpi_memory_list *cache)
 	return_PTR(object);
 }
 #endif				/* ACPI_USE_LOCAL_CACHE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

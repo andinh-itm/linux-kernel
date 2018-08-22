@@ -48,3 +48,4 @@ int __init shmobile_suspend_init(void)
 	suspend_set_ops(&shmobile_suspend_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

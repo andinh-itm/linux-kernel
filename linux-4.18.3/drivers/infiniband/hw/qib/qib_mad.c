@@ -2496,3 +2496,4 @@ void qib_notify_free_mad_agent(struct rvt_dev_info *rdi, int port_idx)
 	if (dd->pport[port_idx].ibport_data.smi_ah)
 		rdma_destroy_ah(&dd->pport[port_idx].ibport_data.smi_ah->ibah);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

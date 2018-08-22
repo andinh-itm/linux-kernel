@@ -333,3 +333,4 @@ const struct k_clock clock_posix_dynamic = {
 	.clock_get	= pc_clock_gettime,
 	.clock_adj	= pc_clock_adjtime,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

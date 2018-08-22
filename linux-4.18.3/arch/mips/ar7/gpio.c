@@ -342,3 +342,4 @@ int __init ar7_gpio_init(void)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

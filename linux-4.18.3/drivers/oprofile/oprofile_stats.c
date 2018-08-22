@@ -82,3 +82,4 @@ void oprofile_create_stats_files(struct dentry *root)
 		&oprofile_stats.multiplex_counter);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

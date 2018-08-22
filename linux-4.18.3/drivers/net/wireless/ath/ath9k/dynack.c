@@ -349,3 +349,4 @@ void ath_dynack_init(struct ath_hw *ah)
 
 	ah->hw->wiphy->features |= NL80211_FEATURE_ACKTO_ESTIMATION;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

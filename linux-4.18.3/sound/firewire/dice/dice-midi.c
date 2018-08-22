@@ -155,3 +155,4 @@ int snd_dice_create_midi(struct snd_dice *dice)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

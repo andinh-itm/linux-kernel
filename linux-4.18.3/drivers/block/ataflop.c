@@ -2056,3 +2056,4 @@ module_init(atari_floppy_init)
 module_exit(atari_floppy_exit)
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

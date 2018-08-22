@@ -305,3 +305,4 @@ int setup_avm_a1(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

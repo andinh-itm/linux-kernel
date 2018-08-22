@@ -428,3 +428,4 @@ MODULE_LICENSE("GPL");
 
 module_init(i2c_sis5595_init);
 module_exit(i2c_sis5595_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

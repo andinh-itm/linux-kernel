@@ -250,3 +250,4 @@ static void __init of_at91sam9x5_clk_master_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(at91sam9x5_clk_master, "atmel,at91sam9x5-clk-master",
 	       of_at91sam9x5_clk_master_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

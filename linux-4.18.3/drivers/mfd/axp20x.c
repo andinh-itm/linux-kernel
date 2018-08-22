@@ -954,3 +954,4 @@ EXPORT_SYMBOL(axp20x_device_remove);
 MODULE_DESCRIPTION("PMIC MFD core driver for AXP20X");
 MODULE_AUTHOR("Carlo Caione <carlo@caione.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

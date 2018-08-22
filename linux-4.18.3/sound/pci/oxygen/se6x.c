@@ -158,3 +158,4 @@ static struct pci_driver se6x_driver = {
 };
 
 module_pci_driver(se6x_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

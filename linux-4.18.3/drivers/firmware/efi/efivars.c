@@ -760,3 +760,4 @@ EXPORT_SYMBOL_GPL(efivars_sysfs_init);
 
 module_init(efivars_sysfs_init);
 module_exit(efivars_sysfs_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

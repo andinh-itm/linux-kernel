@@ -1111,3 +1111,4 @@ static int __init ns2_pinmux_init(void)
 	return platform_driver_register(&ns2_pinmux_driver);
 }
 arch_initcall(ns2_pinmux_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

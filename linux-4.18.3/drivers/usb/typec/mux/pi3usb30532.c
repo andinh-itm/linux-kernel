@@ -176,3 +176,4 @@ module_i2c_driver(pi3usb30532_driver);
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_DESCRIPTION("Pericom PI3USB30532 Type-C mux driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

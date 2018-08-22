@@ -229,3 +229,4 @@ module_init(hplance_init_module);
 module_exit(hplance_cleanup_module);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

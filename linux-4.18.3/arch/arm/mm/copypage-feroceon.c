@@ -110,3 +110,4 @@ struct cpu_user_fns feroceon_user_fns __initdata = {
 	.cpu_copy_user_highpage	= feroceon_copy_user_highpage,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

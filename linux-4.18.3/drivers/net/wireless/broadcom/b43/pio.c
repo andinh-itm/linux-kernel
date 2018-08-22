@@ -832,3 +832,4 @@ void b43_pio_tx_resume(struct b43_wldev *dev)
 	b43_pio_tx_resume_queue(dev->pio.tx_queue_AC_BK);
 	b43_power_saving_ctl_bits(dev, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

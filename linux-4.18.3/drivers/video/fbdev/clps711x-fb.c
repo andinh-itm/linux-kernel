@@ -394,3 +394,4 @@ module_platform_driver(clps711x_fb_driver);
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("Cirrus Logic CLPS711X FB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

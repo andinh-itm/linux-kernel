@@ -407,3 +407,4 @@ void __init pcibios_resource_survey(void)
 	 */
 	ioapic_insert_resources();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

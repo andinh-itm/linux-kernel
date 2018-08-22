@@ -126,3 +126,4 @@ static void __init pb44_init(void)
 
 MIPS_MACHINE(ATH79_MACH_PB44, "PB44", "Atheros PB44 reference board",
 	     pb44_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

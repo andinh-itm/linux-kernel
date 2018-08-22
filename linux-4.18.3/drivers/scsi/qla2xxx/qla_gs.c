@@ -4723,3 +4723,4 @@ int qla24xx_post_gfpnid_work(struct scsi_qla_host *vha, fc_port_t *fcport)
 	e->u.fcport.fcport = fcport;
 	return qla2x00_post_work(vha, e);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

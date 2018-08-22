@@ -81,3 +81,4 @@ module_platform_driver(micro_backlight_device_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("driver for iPAQ Atmel micro backlight");
 MODULE_ALIAS("platform:ipaq-micro-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

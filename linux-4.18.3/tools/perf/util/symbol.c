@@ -2246,3 +2246,4 @@ struct mem_info *mem_info__new(void)
 		refcount_set(&mi->refcnt, 1);
 	return mi;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

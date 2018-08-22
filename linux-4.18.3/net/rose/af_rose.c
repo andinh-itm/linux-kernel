@@ -1624,3 +1624,4 @@ static void __exit rose_exit(void)
 }
 
 module_exit(rose_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

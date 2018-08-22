@@ -2546,3 +2546,4 @@ void radeon_setup_mst_connector(struct drm_device *dev)
 		ret = radeon_dp_mst_init(radeon_connector);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

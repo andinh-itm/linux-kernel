@@ -95,3 +95,4 @@ static int __init axxia_reset_init(void)
 	return platform_driver_register(&axxia_reset_driver);
 }
 device_initcall(axxia_reset_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

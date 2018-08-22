@@ -223,3 +223,4 @@ int ddk750_setModeTiming(struct mode_parameter *parm, enum clock_type clock)
 	programModeRegisters(parm, &pll);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -293,3 +293,4 @@ MODULE_PARM_DESC(heartbeat,
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:davinci-wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

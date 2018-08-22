@@ -2359,3 +2359,4 @@ static void __exit acer_wmi_exit(void)
 
 module_init(acer_wmi_init);
 module_exit(acer_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

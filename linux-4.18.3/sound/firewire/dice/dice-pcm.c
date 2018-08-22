@@ -459,3 +459,4 @@ int snd_dice_create_pcm(struct snd_dice *dice)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

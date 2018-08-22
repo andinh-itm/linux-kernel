@@ -1040,3 +1040,4 @@ static struct usb_driver bcm5974_driver = {
 };
 
 module_usb_driver(bcm5974_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

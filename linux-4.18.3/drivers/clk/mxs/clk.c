@@ -27,3 +27,4 @@ int mxs_clk_wait(void __iomem *reg, u8 shift)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

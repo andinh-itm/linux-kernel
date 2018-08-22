@@ -469,3 +469,4 @@ void drm_rect_rotate_inv(struct drm_rect *r,
 	}
 }
 EXPORT_SYMBOL(drm_rect_rotate_inv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -477,3 +477,4 @@ MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_DESCRIPTION("Renesas TPU PWM Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:renesas-tpu-pwm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

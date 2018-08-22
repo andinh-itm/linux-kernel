@@ -111,3 +111,4 @@ int pci_fixup_pcic(struct pci_channel *chan)
 
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

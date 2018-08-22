@@ -1134,3 +1134,4 @@ module_platform_driver(mpc_dma_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Piotr Ziecik <kosmo@semihalf.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

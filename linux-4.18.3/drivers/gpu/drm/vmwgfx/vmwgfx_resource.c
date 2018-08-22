@@ -1561,3 +1561,4 @@ enum vmw_res_type vmw_res_type(const struct vmw_resource *res)
 {
 	return res->func->res_type;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

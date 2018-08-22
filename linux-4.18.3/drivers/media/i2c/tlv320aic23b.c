@@ -214,3 +214,4 @@ static struct i2c_driver tlv320aic23b_driver = {
 };
 
 module_i2c_driver(tlv320aic23b_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

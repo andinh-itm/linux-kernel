@@ -1236,3 +1236,4 @@ ixgb_optics_reset_bcm(struct ixgb_hw *hw)
 	/* SerDes needs extra delay */
 	msleep(IXGB_SUN_PHY_RESET_DELAY);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -7036,3 +7036,4 @@ module_usb_driver(sd_driver);
 module_param(force_sensor, int, 0644);
 MODULE_PARM_DESC(force_sensor,
 	"Force sensor. Only for experts!!!");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

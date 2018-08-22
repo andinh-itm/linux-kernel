@@ -2607,3 +2607,4 @@ MODULE_AUTHOR("Guennadi Liakhovetski <kernel@pengutronix.de>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(PXA_CAM_VERSION);
 MODULE_ALIAS("platform:" PXA_CAM_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

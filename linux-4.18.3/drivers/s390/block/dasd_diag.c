@@ -660,3 +660,4 @@ dasd_diag_cleanup(void)
 
 module_init(dasd_diag_init);
 module_exit(dasd_diag_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1326,3 +1326,4 @@ void fw_node_event(struct fw_card *card, struct fw_node *node, int event)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

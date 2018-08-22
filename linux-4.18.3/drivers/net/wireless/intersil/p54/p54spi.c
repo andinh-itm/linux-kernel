@@ -718,3 +718,4 @@ MODULE_AUTHOR("Christian Lamparter <chunkeey@web.de>");
 MODULE_ALIAS("spi:cx3110x");
 MODULE_ALIAS("spi:p54spi");
 MODULE_ALIAS("spi:stlc45xx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

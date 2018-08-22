@@ -454,3 +454,4 @@ EXPORT_SYMBOL(kcs_bmc_alloc);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Haiyue Wang <haiyue.wang@linux.intel.com>");
 MODULE_DESCRIPTION("KCS BMC to handle the IPMI request from system software");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

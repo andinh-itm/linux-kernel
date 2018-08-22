@@ -460,3 +460,4 @@ struct auxtrace_record *intel_bts_recording_init(int *err)
 	btsr->itr.alignment = sizeof(struct branch);
 	return &btsr->itr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

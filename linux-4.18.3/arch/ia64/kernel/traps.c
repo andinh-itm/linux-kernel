@@ -676,3 +676,4 @@ ia64_fault (unsigned long vector, unsigned long isr, unsigned long ifa,
 	if (!die_if_kernel(buf, &regs, error))
 		force_sig(SIGILL, current);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1571,3 +1571,4 @@ int cx23885_417_register(struct cx23885_dev *dev)
 }
 
 MODULE_FIRMWARE(CX23885_FIRM_IMAGE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

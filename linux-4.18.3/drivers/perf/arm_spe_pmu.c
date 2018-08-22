@@ -1268,3 +1268,4 @@ module_exit(arm_spe_pmu_exit);
 MODULE_DESCRIPTION("Perf driver for the ARMv8.2 Statistical Profiling Extension");
 MODULE_AUTHOR("Will Deacon <will.deacon@arm.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

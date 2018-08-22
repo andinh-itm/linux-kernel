@@ -238,3 +238,4 @@ MODULE_DESCRIPTION("low-level driver for platform device ATA");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

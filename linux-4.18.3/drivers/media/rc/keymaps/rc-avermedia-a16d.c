@@ -69,3 +69,4 @@ module_exit(exit_rc_map_avermedia_a16d)
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mauro Carvalho Chehab");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

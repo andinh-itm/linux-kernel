@@ -1561,3 +1561,4 @@ MODULE_AUTHOR("Kevin Wells <kevin.wells@nxp.com>");
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("LPC Ethernet Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

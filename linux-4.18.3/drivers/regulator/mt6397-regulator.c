@@ -414,3 +414,4 @@ module_platform_driver(mt6397_regulator_driver);
 MODULE_AUTHOR("Flora Fu <flora.fu@mediatek.com>");
 MODULE_DESCRIPTION("Regulator Driver for MediaTek MT6397 PMIC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

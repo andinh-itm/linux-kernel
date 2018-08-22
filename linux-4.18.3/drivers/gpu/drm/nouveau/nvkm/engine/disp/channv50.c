@@ -360,3 +360,4 @@ nv50_disp_chan_new_(const struct nv50_disp_chan_func *func,
 	disp->chan[chan->chid.user] = chan;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

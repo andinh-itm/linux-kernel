@@ -124,3 +124,4 @@ int mlxfw_mfa2_tlv_multi_child_count(const struct mlxfw_mfa2_file *mfa2_file,
 	*p_count = count;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

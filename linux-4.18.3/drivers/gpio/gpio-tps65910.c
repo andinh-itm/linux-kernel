@@ -192,3 +192,4 @@ static int __init tps65910_gpio_init(void)
 	return platform_driver_register(&tps65910_gpio_driver);
 }
 subsys_initcall(tps65910_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

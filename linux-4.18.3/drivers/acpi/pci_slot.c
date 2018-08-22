@@ -196,3 +196,4 @@ void __init acpi_pci_slot_init(void)
 {
 	dmi_check_system(acpi_pci_slot_dmi_table);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

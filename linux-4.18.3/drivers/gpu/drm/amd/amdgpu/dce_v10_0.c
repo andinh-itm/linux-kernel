@@ -3607,3 +3607,4 @@ const struct amdgpu_ip_block_version dce_v10_1_ip_block =
 	.rev = 0,
 	.funcs = &dce_v10_0_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

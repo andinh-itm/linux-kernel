@@ -179,3 +179,4 @@ MODULE_ALIAS("platform:st7735r");
 MODULE_DESCRIPTION("FB driver for the ST7735R LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -588,3 +588,4 @@ int qed_init_fw_data(struct qed_dev *cdev, const u8 *data)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

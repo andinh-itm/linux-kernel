@@ -33,3 +33,4 @@ void xhci_dbg_trace(struct xhci_hcd *xhci, void (*trace)(struct va_format *),
 	va_end(args);
 }
 EXPORT_SYMBOL_GPL(xhci_dbg_trace);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

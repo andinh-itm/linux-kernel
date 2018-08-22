@@ -384,3 +384,4 @@ MODULE_PARM_DESC(panel_type, "Select the panel type: 6, 8, 97");
 MODULE_DESCRIPTION("board driver for am200 metronome epd kit");
 MODULE_AUTHOR("Jaya Kumar");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

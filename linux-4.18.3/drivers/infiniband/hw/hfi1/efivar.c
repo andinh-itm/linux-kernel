@@ -180,3 +180,4 @@ int read_hfi1_efi_var(struct hfi1_devdata *dd, const char *kind,
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

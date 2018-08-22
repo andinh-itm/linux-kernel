@@ -340,3 +340,4 @@ int main(int argc, char **argv, char **envp)
 {
 	return test_harness(ptrace_hwbreak, "ptrace-hwbreak");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -171,3 +171,4 @@ size_t dm_cache_policy_get_hint_size(struct dm_cache_policy *p)
 EXPORT_SYMBOL_GPL(dm_cache_policy_get_hint_size);
 
 /*----------------------------------------------------------------*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

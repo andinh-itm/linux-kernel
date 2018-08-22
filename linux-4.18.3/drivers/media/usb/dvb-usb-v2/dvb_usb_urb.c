@@ -102,3 +102,4 @@ int dvb_usbv2_generic_write_locked(struct dvb_usb_device *d, u8 *buf, u16 len)
 	return dvb_usb_v2_generic_io(d, buf, len, NULL, 0);
 }
 EXPORT_SYMBOL(dvb_usbv2_generic_write_locked);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

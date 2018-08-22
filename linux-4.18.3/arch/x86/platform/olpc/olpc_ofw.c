@@ -118,3 +118,4 @@ bool __init olpc_ofw_is_installed(void)
 {
 	return olpc_ofw_cif != NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

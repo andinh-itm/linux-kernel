@@ -312,3 +312,4 @@ static int sis_init_one(struct pci_dev *pdev, const struct pci_device_id *ent)
 }
 
 module_pci_driver(sis_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

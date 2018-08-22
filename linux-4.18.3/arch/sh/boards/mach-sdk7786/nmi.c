@@ -81,3 +81,4 @@ void __init sdk7786_nmi_init(void)
 	/* And the IRQ masking */
 	fpga_write_reg(NMIMR_MASK ^ mask, NMIMR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

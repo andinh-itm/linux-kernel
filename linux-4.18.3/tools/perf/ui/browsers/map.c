@@ -130,3 +130,4 @@ int map__browse(struct map *map)
 	mb.addrlen = snprintf(tmp, sizeof(tmp), "%" PRIx64, maxaddr);
 	return map_browser__run(&mb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

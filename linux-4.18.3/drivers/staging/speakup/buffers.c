@@ -122,3 +122,4 @@ void synth_buffer_clear(void)
 	buff_out = synth_buffer;
 }
 EXPORT_SYMBOL_GPL(synth_buffer_clear);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

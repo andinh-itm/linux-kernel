@@ -406,3 +406,4 @@ static void print_position(WINDOW * win)
 	wmove(win, getmaxy(win) - 3, getmaxx(win) - 9);
 	wprintw(win, "(%3d%%)", percent);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

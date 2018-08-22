@@ -638,3 +638,4 @@ module_exit(wil6210_driver_exit);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Qualcomm Atheros <wil6210@qca.qualcomm.com>");
 MODULE_DESCRIPTION("Driver for 60g WiFi WIL6210 card");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

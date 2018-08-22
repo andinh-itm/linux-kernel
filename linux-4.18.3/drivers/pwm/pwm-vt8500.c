@@ -275,3 +275,4 @@ module_platform_driver(vt8500_pwm_driver);
 MODULE_DESCRIPTION("VT8500 PWM Driver");
 MODULE_AUTHOR("Tony Prisk <linux@prisktech.co.nz>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

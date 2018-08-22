@@ -358,3 +358,4 @@ void intel_lpe_audio_notify(struct drm_i915_private *dev_priv,
 
 	spin_unlock_irqrestore(&pdata->lpe_audio_slock, irqflags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

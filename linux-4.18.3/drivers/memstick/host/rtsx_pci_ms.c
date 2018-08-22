@@ -653,3 +653,4 @@ module_platform_driver(rtsx_pci_ms_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Wei WANG <wei_wang@realsil.com.cn>");
 MODULE_DESCRIPTION("Realtek PCI-E Memstick Card Host Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

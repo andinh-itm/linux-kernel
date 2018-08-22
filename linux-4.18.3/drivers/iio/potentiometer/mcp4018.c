@@ -191,3 +191,4 @@ module_i2c_driver(mcp4018_driver);
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_DESCRIPTION("MCP4018 digital potentiometer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

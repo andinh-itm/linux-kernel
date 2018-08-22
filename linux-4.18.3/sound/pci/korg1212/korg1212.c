@@ -2484,3 +2484,4 @@ static struct pci_driver korg1212_driver = {
 };
 
 module_pci_driver(korg1212_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

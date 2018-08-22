@@ -488,3 +488,4 @@ static int __init s3c2416_cpufreq_init(void)
 	return cpufreq_register_driver(&s3c2416_cpufreq_driver);
 }
 module_init(s3c2416_cpufreq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

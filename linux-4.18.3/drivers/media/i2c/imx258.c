@@ -1316,3 +1316,4 @@ MODULE_AUTHOR("Chiang, Alan <alanx.chiang@intel.com>");
 MODULE_AUTHOR("Chen, Jason <jasonx.z.chen@intel.com>");
 MODULE_DESCRIPTION("Sony IMX258 sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -193,3 +193,4 @@ static struct platform_driver am335x_control_driver = {
 
 module_platform_driver(am335x_control_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

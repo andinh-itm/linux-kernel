@@ -649,3 +649,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Yong Shen <yong.shen@linaro.org>");
 MODULE_DESCRIPTION("Regulator Driver for Freescale MC13892 PMIC");
 MODULE_ALIAS("platform:mc13892-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

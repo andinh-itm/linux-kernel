@@ -445,3 +445,4 @@ static struct platform_driver tps68470_pmic_opregion_driver = {
 };
 
 builtin_platform_driver(tps68470_pmic_opregion_driver)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

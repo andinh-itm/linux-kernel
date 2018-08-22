@@ -52,3 +52,4 @@ DECLARE_EXPORT(__sdivsi3_1);
 DECLARE_EXPORT(__sdivsi3_2);
 DECLARE_EXPORT(__udivsi3);
 DECLARE_EXPORT(__div_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1227,3 +1227,4 @@ int crash_prepare_elf64_headers(struct crash_mem *mem, int kernel_map,
 	*sz = elf_sz;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

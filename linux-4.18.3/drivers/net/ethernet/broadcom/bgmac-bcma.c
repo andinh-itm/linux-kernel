@@ -355,3 +355,4 @@ module_exit(bgmac_exit)
 
 MODULE_AUTHOR("Rafał Miłecki");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

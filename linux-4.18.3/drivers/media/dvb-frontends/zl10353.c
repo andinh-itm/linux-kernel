@@ -677,3 +677,4 @@ MODULE_AUTHOR("Chris Pascoe");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(zl10353_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

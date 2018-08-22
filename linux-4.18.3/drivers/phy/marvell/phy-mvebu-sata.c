@@ -136,3 +136,4 @@ module_platform_driver(phy_mvebu_sata_driver);
 MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch>");
 MODULE_DESCRIPTION("Marvell MVEBU SATA PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

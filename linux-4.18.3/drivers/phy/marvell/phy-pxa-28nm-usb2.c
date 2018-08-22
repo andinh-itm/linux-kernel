@@ -353,3 +353,4 @@ module_platform_driver(mv_usb2_phy_driver);
 MODULE_AUTHOR("Rob Herring <robh@kernel.org>");
 MODULE_DESCRIPTION("Marvell USB2 phy driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -786,3 +786,4 @@ module_platform_driver(emac_platform_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:qcom-emac");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

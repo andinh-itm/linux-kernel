@@ -49,3 +49,4 @@ DT_MACHINE_START(BRCMSTB, "Broadcom STB (Flattened Device Tree)")
 	.dt_compat	= brcmstb_match,
 	.init_irq	= brcmstb_init_irq,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

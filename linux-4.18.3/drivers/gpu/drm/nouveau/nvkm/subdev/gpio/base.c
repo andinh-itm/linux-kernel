@@ -222,3 +222,4 @@ nvkm_gpio_new_(const struct nvkm_gpio_func *func, struct nvkm_device *device,
 	return nvkm_event_init(&nvkm_gpio_intr_func, 2, func->lines,
 			       &gpio->event);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

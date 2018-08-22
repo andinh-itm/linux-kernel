@@ -282,3 +282,4 @@ static void macio_adb_poll(void)
 		macio_adb_interrupt(0, NULL);
 	local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

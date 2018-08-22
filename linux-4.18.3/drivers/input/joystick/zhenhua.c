@@ -216,3 +216,4 @@ static struct serio_driver zhenhua_drv = {
 };
 
 module_serio_driver(zhenhua_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -184,3 +184,4 @@ const struct blk_integrity_profile t10_pi_type3_ip = {
 	.verify_fn		= t10_pi_type3_verify_ip,
 };
 EXPORT_SYMBOL(t10_pi_type3_ip);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

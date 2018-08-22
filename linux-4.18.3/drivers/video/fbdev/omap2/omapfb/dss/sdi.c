@@ -452,3 +452,4 @@ void sdi_uninit_port(struct device_node *port)
 
 	sdi_uninit_output(sdi.pdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1306,3 +1306,4 @@ void init_netdev(struct net_device *dev)
 
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

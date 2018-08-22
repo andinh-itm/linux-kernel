@@ -307,3 +307,4 @@ char *__init pcibios_setup(char *str)
 		return pcibios_plat_setup(str);
 	return str;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

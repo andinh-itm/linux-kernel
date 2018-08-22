@@ -490,3 +490,4 @@ void LedControl8188eu(struct adapter *padapter, enum LED_CTL_MODE LedAction)
 
 	SwLedControlMode1(padapter, LedAction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

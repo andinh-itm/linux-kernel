@@ -1093,3 +1093,4 @@ module_i2c_driver(alc5623_i2c_driver);
 MODULE_DESCRIPTION("ASoC alc5621/2/3 driver");
 MODULE_AUTHOR("Arnaud Patard <arnaud.patard@rtp-net.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

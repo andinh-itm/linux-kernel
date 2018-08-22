@@ -4539,3 +4539,4 @@ void rtl8723bs_hal_check_bt_hang(struct adapter *adapter)
 		queue_delayed_work(adapter->priv_checkbt_wq, &(adapter->checkbt_work), 0);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

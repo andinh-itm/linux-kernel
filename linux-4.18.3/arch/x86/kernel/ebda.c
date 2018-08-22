@@ -96,3 +96,4 @@ void __init reserve_bios_regions(void)
 	/* Reserve all memory between bios_start and the 1MB mark: */
 	memblock_reserve(bios_start, 0x100000 - bios_start);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

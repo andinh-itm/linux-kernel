@@ -382,3 +382,4 @@ int register_sh_pmu(struct sh_pmu *_pmu)
 			  NULL);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

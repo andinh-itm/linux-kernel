@@ -518,3 +518,4 @@ void intel_init_thermal(struct cpuinfo_x86 *c)
 	/* enable thermal throttle processing */
 	atomic_set(&therm_throt_en, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

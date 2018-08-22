@@ -451,3 +451,4 @@ MODULE_AUTHOR("Akinobu Mita <akinobu.mita@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("EPSON TOYOCOM RTC-7301SF/DG Driver");
 MODULE_ALIAS("platform:rtc-r7301");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

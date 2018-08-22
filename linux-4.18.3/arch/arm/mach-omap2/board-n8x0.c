@@ -597,3 +597,4 @@ void * __init n8x0_legacy_init(void)
 				ARRAY_SIZE(n800_spi_board_info));
 	return &mmc1_data;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

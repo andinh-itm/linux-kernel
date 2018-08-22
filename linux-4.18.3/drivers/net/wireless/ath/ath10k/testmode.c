@@ -463,3 +463,4 @@ void ath10k_testmode_destroy(struct ath10k *ar)
 out:
 	mutex_unlock(&ar->conf_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

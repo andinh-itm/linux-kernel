@@ -317,3 +317,4 @@ void tpm_sysfs_add_device(struct tpm_chip *chip)
 	WARN_ON(chip->groups_cnt != 0);
 	chip->groups[chip->groups_cnt++] = &tpm_dev_group;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

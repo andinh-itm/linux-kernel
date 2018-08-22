@@ -212,3 +212,4 @@ MODULE_DESCRIPTION("MFD for ADC/TSC for Freescale mx25");
 MODULE_AUTHOR("Markus Pargmann <mpa@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mx25-tsadc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

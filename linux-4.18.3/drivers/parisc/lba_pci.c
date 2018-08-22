@@ -1743,3 +1743,4 @@ static void quirk_diva_aux_disable(struct pci_dev *dev)
 }
 DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_HP, PCI_DEVICE_ID_HP_DIVA_AUX,
 	quirk_diva_aux_disable);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

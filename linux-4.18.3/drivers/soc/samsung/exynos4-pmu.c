@@ -207,3 +207,4 @@ const struct exynos_pmu_data exynos4210_pmu_data = {
 const struct exynos_pmu_data exynos4412_pmu_data = {
 	.pmu_config		= exynos4412_pmu_config,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

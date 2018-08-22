@@ -1694,3 +1694,4 @@ static struct pcmcia_driver pcnet_driver = {
 	.resume		= pcnet_resume,
 };
 module_pcmcia_driver(pcnet_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

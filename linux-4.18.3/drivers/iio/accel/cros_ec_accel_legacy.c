@@ -421,3 +421,4 @@ MODULE_DESCRIPTION("ChromeOS EC legacy accelerometer driver");
 MODULE_AUTHOR("Gwendal Grignou <gwendal@chromium.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

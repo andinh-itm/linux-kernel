@@ -770,3 +770,4 @@ MODULE_AUTHOR("Paul Mundt <lethal@linux-sh.org>, "
 	      "Angelo Castello <angelo.castello@st.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

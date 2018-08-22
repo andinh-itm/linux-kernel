@@ -209,3 +209,4 @@ int __init init_mfgpt_clocksource(void)
 }
 
 arch_initcall(init_mfgpt_clocksource);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

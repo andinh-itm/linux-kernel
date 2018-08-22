@@ -63,3 +63,4 @@ static void __exit cpu_mt_exit(void)
 
 module_init(cpu_mt_init);
 module_exit(cpu_mt_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

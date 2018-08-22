@@ -755,3 +755,4 @@ static struct usb_driver datafab_driver = {
 };
 
 module_usb_stor_driver(datafab_driver, datafab_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

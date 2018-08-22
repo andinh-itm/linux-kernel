@@ -2188,3 +2188,4 @@ static int __init ppc4xx_pci_find_bridges(void)
 }
 arch_initcall(ppc4xx_pci_find_bridges);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

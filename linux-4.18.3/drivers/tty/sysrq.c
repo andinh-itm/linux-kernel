@@ -1138,3 +1138,4 @@ static int __init sysrq_init(void)
 	return 0;
 }
 device_initcall(sysrq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

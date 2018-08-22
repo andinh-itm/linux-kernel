@@ -460,3 +460,4 @@ MODULE_ALIAS("platform:pmic8xxx_pwrkey");
 MODULE_DESCRIPTION("PMIC8XXX Power Key driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Trilok Soni <tsoni@codeaurora.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

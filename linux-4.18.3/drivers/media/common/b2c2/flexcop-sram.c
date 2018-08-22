@@ -362,3 +362,4 @@ static void sll_detect_sram_size(struct adapter *adapter)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

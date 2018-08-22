@@ -48,3 +48,4 @@ g98_msvld_new(struct nvkm_device *device, int index,
 {
 	return nvkm_msvld_new_(&g98_msvld, device, index, pengine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

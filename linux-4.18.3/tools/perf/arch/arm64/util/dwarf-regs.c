@@ -94,3 +94,4 @@ int regs_query_register_offset(const char *name)
 			return DWARFNUM2OFFSET(roff->dwarfnum);
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1293,3 +1293,4 @@ void ivtv_yuv_close(struct ivtv *itv)
 	/* All done. */
 	clear_bit(IVTV_F_I_DECODING_YUV, &itv->i_flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

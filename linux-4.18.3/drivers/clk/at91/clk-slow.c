@@ -109,3 +109,4 @@ static void __init of_at91sam9260_clk_slow_setup(struct device_node *np)
 
 CLK_OF_DECLARE(at91sam9260_clk_slow, "atmel,at91sam9260-clk-slow",
 	       of_at91sam9260_clk_slow_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

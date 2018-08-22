@@ -226,3 +226,4 @@ static struct x86_cpu_id __maybe_unused via_rng_cpu_id[] = {
 MODULE_DESCRIPTION("H/W RNG driver for VIA CPU with PadLock");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(x86cpu, via_rng_cpu_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

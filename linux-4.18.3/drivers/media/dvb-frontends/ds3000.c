@@ -1140,3 +1140,4 @@ MODULE_DESCRIPTION("DVB Frontend module for Montage Technology DS3000 hardware")
 MODULE_AUTHOR("Konstantin Dimitrov <kosio.dimitrov@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(DS3000_DEFAULT_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

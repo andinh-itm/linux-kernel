@@ -2399,3 +2399,4 @@ MODULE_AUTHOR("Dean Anderson (Sensoray Company Inc.)");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(S2255_VERSION);
 MODULE_FIRMWARE(FIRMWARE_FILE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -142,3 +142,4 @@ module_platform_driver(bd9571mwv_gpio_driver);
 MODULE_AUTHOR("Marek Vasut <marek.vasut+renesas@gmail.com>");
 MODULE_DESCRIPTION("BD9571MWV GPIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

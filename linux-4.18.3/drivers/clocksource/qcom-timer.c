@@ -256,3 +256,4 @@ static int __init msm_dt_timer_init(struct device_node *np)
 }
 TIMER_OF_DECLARE(kpss_timer, "qcom,kpss-timer", msm_dt_timer_init);
 TIMER_OF_DECLARE(scss_timer, "qcom,scss-timer", msm_dt_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

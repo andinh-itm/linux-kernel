@@ -1807,3 +1807,4 @@ MODULE_AUTHOR("Holger Waechtler <holger@convergence.de>");
 MODULE_DESCRIPTION("TTUSB DVB Driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE("ttusb-budget/dspbootcode.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

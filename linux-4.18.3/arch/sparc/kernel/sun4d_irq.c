@@ -517,3 +517,4 @@ void __init sun4d_init_IRQ(void)
 
 	/* Cannot enable interrupts until OBP ticker is disabled. */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

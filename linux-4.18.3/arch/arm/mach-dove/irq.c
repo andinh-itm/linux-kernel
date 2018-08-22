@@ -79,3 +79,4 @@ void __init dove_init_irq(void)
 	orion_gpio_init(NULL, 64, 8, DOVE_GPIO2_VIRT_BASE, 0,
 			IRQ_DOVE_GPIO_START + 64, gpio2_irqs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

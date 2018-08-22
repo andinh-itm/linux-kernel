@@ -1677,3 +1677,4 @@
 "f3 0f ae 25 78 56 34 12 \tptwritel 0x12345678",},
 {{0xf3, 0x0f, 0xae, 0xa4, 0xc8, 0x78, 0x56, 0x34, 0x12, }, 9, 0, "", "",
 "f3 0f ae a4 c8 78 56 34 12 \tptwritel 0x12345678(%eax,%ecx,8)",},
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

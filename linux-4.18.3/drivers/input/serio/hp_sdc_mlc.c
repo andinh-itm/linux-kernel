@@ -353,3 +353,4 @@ static void __exit hp_sdc_mlc_exit(void)
 
 module_init(hp_sdc_mlc_init);
 module_exit(hp_sdc_mlc_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -554,3 +554,4 @@ MODULE_AUTHOR("Ralph Metzler");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(ves1x93_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

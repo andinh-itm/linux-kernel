@@ -1957,3 +1957,4 @@ module_platform_driver(rcar_dmac_driver);
 MODULE_DESCRIPTION("R-Car Gen2 DMA Controller Driver");
 MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

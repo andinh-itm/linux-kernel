@@ -703,3 +703,4 @@ static void __exit exit_hfsplus_fs(void)
 
 module_init(init_hfsplus_fs)
 module_exit(exit_hfsplus_fs)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

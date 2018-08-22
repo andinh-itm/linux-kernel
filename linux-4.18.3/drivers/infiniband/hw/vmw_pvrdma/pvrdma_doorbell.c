@@ -125,3 +125,4 @@ void pvrdma_uar_free(struct pvrdma_dev *dev, struct pvrdma_uar_map *uar)
 	tbl->top = (tbl->top + tbl->max) & tbl->mask;
 	spin_unlock_irqrestore(&tbl->lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -575,3 +575,4 @@ module_exit(comp_exit);
 MODULE_DESCRIPTION("V4L2 Component Module for Mostcore");
 MODULE_AUTHOR("Andrey Shvetsov <andrey.shvetsov@k2l.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

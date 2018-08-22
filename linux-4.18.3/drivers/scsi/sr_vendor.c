@@ -328,3 +328,4 @@ int sr_cd_check(struct cdrom_device_info *cdi)
 	kfree(buffer);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

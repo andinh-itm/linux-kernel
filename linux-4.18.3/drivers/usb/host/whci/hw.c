@@ -91,3 +91,4 @@ void whc_hw_error(struct whc *whc, const char *reason)
 	dev_err(&whc->umc->dev, "hardware error: %s\n", reason);
 	wusbhc_reset_all(wusbhc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

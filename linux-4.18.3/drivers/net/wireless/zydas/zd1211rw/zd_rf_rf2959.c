@@ -279,3 +279,4 @@ int zd_rf_init_rf2959(struct zd_rf *rf)
 	rf->switch_radio_off = rf2959_switch_radio_off;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -306,3 +306,4 @@ module_exit(cleanup_sc520cdp);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sysgo Real-Time Solutions GmbH");
 MODULE_DESCRIPTION("MTD map driver for AMD SC520 Customer Development Platform");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

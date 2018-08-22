@@ -813,3 +813,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Arjan van de Ven <arjan@linux.intel.com>");
 MODULE_AUTHOR("Jacob Pan <jacob.jun.pan@linux.intel.com>");
 MODULE_DESCRIPTION("Package Level C-state Idle Injection for Intel CPUs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

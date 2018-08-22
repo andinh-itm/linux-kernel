@@ -474,3 +474,4 @@ void *__kmalloc(size_t size, gfp_t flags)
 {
 	return (void *)NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

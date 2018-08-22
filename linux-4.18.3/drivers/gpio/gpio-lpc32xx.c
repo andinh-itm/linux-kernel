@@ -536,3 +536,4 @@ static struct platform_driver lpc32xx_gpio_driver = {
 };
 
 module_platform_driver(lpc32xx_gpio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -255,3 +255,4 @@ static void __init sun9i_a80_usb_phy_setup(struct device_node *node)
 	sunxi_usb_clk_setup(node, &sun9i_a80_usb_phy_data, &a80_usb_phy_lock);
 }
 CLK_OF_DECLARE(sun9i_a80_usb_phy, "allwinner,sun9i-a80-usb-phy-clk", sun9i_a80_usb_phy_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

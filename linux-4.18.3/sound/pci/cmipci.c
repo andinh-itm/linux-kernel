@@ -3405,3 +3405,4 @@ static struct pci_driver cmipci_driver = {
 };
 	
 module_pci_driver(cmipci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

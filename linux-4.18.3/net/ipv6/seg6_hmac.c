@@ -447,3 +447,4 @@ void __net_exit seg6_hmac_net_exit(struct net *net)
 	rhashtable_free_and_destroy(&sdata->hmac_infos, seg6_free_hi, NULL);
 }
 EXPORT_SYMBOL(seg6_hmac_net_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

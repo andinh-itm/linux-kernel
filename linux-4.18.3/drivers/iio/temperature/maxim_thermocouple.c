@@ -276,3 +276,4 @@ module_spi_driver(maxim_thermocouple_driver);
 MODULE_AUTHOR("Matt Ranostay <matt.ranostay@konsulko.com>");
 MODULE_DESCRIPTION("Maxim thermocouple sensors");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

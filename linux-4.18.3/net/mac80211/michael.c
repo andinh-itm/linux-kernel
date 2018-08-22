@@ -84,3 +84,4 @@ void michael_mic(const u8 *key, struct ieee80211_hdr *hdr,
 	put_unaligned_le32(mctx.l, mic);
 	put_unaligned_le32(mctx.r, mic + 4);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1228,3 +1228,4 @@ static int __init zynq_pinctrl_init(void)
 	return platform_driver_register(&zynq_pinctrl_driver);
 }
 arch_initcall(zynq_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -418,3 +418,4 @@ acpi_status acpi_leave_sleep_state(u8 sleep_state)
 }
 
 ACPI_EXPORT_SYMBOL(acpi_leave_sleep_state)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

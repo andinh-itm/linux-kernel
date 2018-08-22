@@ -122,3 +122,4 @@ module_platform_driver(gpo_twl6040_driver);
 MODULE_AUTHOR("Texas Instruments, Inc.");
 MODULE_DESCRIPTION("GPO interface for TWL6040");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

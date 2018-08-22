@@ -376,3 +376,4 @@ void default_machine_crash_shutdown(struct pt_regs *regs)
 	if (ppc_md.kexec_cpu_down)
 		ppc_md.kexec_cpu_down(1, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

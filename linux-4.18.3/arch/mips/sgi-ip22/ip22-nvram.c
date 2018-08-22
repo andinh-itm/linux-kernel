@@ -120,3 +120,4 @@ unsigned short ip22_nvram_read(int reg)
 }
 
 EXPORT_SYMBOL(ip22_nvram_read);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

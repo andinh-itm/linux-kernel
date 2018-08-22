@@ -1011,3 +1011,4 @@ module_i2c_driver(mt9v022_i2c_driver);
 MODULE_DESCRIPTION("Micron MT9V022 Camera driver");
 MODULE_AUTHOR("Guennadi Liakhovetski <kernel@pengutronix.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

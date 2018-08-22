@@ -667,3 +667,4 @@ EXPORT_SYMBOL_GPL(lance_poll);
 #endif
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

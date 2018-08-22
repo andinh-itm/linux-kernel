@@ -881,3 +881,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_AUTHOR("Baruch Siach <baruch@tkos.co.il>");
 MODULE_DESCRIPTION("IMX DryIce Realtime Clock Driver (RTC)");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

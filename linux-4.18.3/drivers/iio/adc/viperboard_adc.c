@@ -154,3 +154,4 @@ MODULE_AUTHOR("Lars Poeschel <poeschel@lemonage.de>");
 MODULE_DESCRIPTION("IIO ADC driver for Nano River Techs Viperboard");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:viperboard-adc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1058,3 +1058,4 @@ MODULE_AUTHOR("HeungJun Kim <riverful.kim@samsung.com>");
 MODULE_AUTHOR("Dongsoo Kim <dongsoo45.kim@samsung.com>");
 MODULE_DESCRIPTION("Fujitsu M-5MOLS 8M Pixel camera driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

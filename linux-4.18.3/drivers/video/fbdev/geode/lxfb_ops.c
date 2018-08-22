@@ -843,3 +843,4 @@ int lx_powerup(struct fb_info *info)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

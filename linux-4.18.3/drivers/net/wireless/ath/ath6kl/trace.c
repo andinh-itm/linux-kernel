@@ -21,3 +21,4 @@
 
 EXPORT_TRACEPOINT_SYMBOL(ath6kl_sdio);
 EXPORT_TRACEPOINT_SYMBOL(ath6kl_sdio_scat);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

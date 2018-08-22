@@ -521,3 +521,4 @@ void trap_is_kprobe(unsigned long address, struct pt_regs *regs)
 {
 	notify_die(DIE_TRAP, "kprobe_trap", regs, address, 0, SIGTRAP);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

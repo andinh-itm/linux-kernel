@@ -1659,3 +1659,4 @@ module_usb_driver(port100_driver);
 MODULE_DESCRIPTION("NFC Port-100 series usb driver ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

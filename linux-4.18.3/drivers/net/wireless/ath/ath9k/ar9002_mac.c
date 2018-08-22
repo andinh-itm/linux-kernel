@@ -426,3 +426,4 @@ void ar9002_hw_attach_mac_ops(struct ath_hw *ah)
 	ops->proc_txdesc = ar9002_hw_proc_txdesc;
 	ops->get_duration = ar9002_hw_get_duration;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

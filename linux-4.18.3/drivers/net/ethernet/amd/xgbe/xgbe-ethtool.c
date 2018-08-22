@@ -869,3 +869,4 @@ const struct ethtool_ops *xgbe_get_ethtool_ops(void)
 {
 	return &xgbe_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

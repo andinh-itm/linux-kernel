@@ -999,3 +999,4 @@ MODULE_AUTHOR("Michael Buesch <m@bues.ch>");
 MODULE_DESCRIPTION("Micro Crystal RV3029/RV3049 RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rv3049");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

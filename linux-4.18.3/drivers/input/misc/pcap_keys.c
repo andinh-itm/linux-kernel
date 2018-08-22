@@ -129,3 +129,4 @@ MODULE_DESCRIPTION("Motorola PCAP2 input events driver");
 MODULE_AUTHOR("Ilya Petrov <ilya.muromec@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pcap_keys");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

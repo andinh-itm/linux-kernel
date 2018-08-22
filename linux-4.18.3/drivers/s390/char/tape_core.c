@@ -1372,3 +1372,4 @@ EXPORT_SYMBOL(tape_do_io_async);
 EXPORT_SYMBOL(tape_do_io_interruptible);
 EXPORT_SYMBOL(tape_cancel_io);
 EXPORT_SYMBOL(tape_mtop);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

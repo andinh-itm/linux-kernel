@@ -229,3 +229,4 @@ module_i2c_driver(ad5272_driver);
 MODULE_AUTHOR("Phil Reid <preid@eletromag.com.au>");
 MODULE_DESCRIPTION("AD5272 digital potentiometer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

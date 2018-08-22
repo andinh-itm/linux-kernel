@@ -180,3 +180,4 @@ void socfpga_init_arria10_ocram_ecc(void)
 exit:
 	iounmap(ecc_block_base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

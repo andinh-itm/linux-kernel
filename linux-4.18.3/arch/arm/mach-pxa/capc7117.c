@@ -160,3 +160,4 @@ MACHINE_START(CAPC7117,
 	.init_machine = capc7117_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

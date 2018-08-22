@@ -28633,3 +28633,4 @@ void wlc_nphy_deaf_mode(struct brcms_phy *pi, bool mode)
 
 	wlapi_enable_mac(pi->sh->physhim);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

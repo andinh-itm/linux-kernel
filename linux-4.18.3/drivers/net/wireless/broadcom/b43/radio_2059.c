@@ -362,3 +362,4 @@ const struct b43_phy_ht_channeltab_e_radio2059
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

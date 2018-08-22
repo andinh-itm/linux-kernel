@@ -154,3 +154,4 @@ void pstore_unregister_ftrace(void)
 
 	debugfs_remove_recursive(pstore_ftrace_dir);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

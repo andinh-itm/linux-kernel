@@ -4120,3 +4120,4 @@ MODULE_LICENSE("GPL");
 MODULE_VERSION(CY_VERSION);
 MODULE_ALIAS_CHARDEV_MAJOR(CYCLADES_MAJOR);
 MODULE_FIRMWARE("cyzfirm.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

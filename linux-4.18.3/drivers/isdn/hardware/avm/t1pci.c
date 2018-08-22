@@ -257,3 +257,4 @@ static void __exit t1pci_exit(void)
 
 module_init(t1pci_init);
 module_exit(t1pci_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

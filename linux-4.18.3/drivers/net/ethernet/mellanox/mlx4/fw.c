@@ -3083,3 +3083,4 @@ void mlx4_replace_zero_macs(struct mlx4_dev *dev)
 		}
 }
 EXPORT_SYMBOL_GPL(mlx4_replace_zero_macs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

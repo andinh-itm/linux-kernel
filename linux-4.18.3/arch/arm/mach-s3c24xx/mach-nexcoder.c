@@ -156,3 +156,4 @@ MACHINE_START(NEXCODER_2440, "NexVision - Nexcoder 2440")
 	.init_irq	= s3c2440_init_irq,
 	.init_time	= nexcoder_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

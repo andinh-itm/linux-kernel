@@ -121,3 +121,4 @@ define_machine(storcenter){
 	.restart 		= storcenter_restart,
 	.calibrate_decr 	= generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

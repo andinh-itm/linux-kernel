@@ -82,3 +82,4 @@ module_sunxi_rsb_driver(axp20x_rsb_driver);
 MODULE_DESCRIPTION("PMIC MFD sunXi RSB driver for AXP20X");
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

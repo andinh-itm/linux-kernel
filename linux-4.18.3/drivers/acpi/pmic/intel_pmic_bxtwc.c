@@ -413,3 +413,4 @@ static struct platform_driver intel_bxtwc_pmic_opregion_driver = {
 	.id_table = bxt_wc_opregion_id_table,
 };
 builtin_platform_driver(intel_bxtwc_pmic_opregion_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

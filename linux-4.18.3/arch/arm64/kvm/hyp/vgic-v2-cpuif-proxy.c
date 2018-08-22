@@ -90,3 +90,4 @@ int __hyp_text __vgic_v2_perform_cpuif_access(struct kvm_vcpu *vcpu)
 
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

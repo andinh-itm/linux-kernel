@@ -490,3 +490,4 @@ void cros_ec_debugfs_resume(struct cros_ec_dev *ec)
 		schedule_delayed_work(&ec->debug_info->log_poll_work, 0);
 }
 EXPORT_SYMBOL(cros_ec_debugfs_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

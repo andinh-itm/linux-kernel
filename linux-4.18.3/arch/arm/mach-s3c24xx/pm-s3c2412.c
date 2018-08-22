@@ -124,3 +124,4 @@ struct syscore_ops s3c2412_pm_syscore_ops = {
 	.suspend	= s3c2412_pm_suspend,
 	.resume		= s3c2412_pm_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

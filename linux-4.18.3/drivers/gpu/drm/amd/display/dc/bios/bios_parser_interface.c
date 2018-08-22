@@ -54,3 +54,4 @@ void dal_bios_parser_destroy(struct dc_bios **dcb)
 	bios->funcs->bios_parser_destroy(dcb);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

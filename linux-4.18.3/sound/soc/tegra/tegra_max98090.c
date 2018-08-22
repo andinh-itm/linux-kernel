@@ -302,3 +302,4 @@ MODULE_DESCRIPTION("Tegra max98090 machine ASoC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, tegra_max98090_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

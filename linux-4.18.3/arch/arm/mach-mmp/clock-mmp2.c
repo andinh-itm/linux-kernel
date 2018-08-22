@@ -112,3 +112,4 @@ void __init mmp2_clk_init(phys_addr_t mpmu_phys, phys_addr_t apmu_phys,
 {
 	clkdev_add_table(ARRAY_AND_SIZE(mmp2_clkregs));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

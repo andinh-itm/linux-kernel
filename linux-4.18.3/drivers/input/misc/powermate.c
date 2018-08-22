@@ -453,3 +453,4 @@ module_usb_driver(powermate_driver);
 MODULE_AUTHOR( "William R Sowerbutts" );
 MODULE_DESCRIPTION( "Griffin Technology, Inc PowerMate driver" );
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

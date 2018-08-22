@@ -85,3 +85,4 @@ bool speakup_fake_key_pressed(void)
 {
 	return this_cpu_read(reporting_keystroke);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

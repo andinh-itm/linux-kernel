@@ -199,3 +199,4 @@ EXPORT_SYMBOL_GPL(sm_register_device);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Maxim Levitsky <maximlevitsky@gmail.com>");
 MODULE_DESCRIPTION("Common SmartMedia/xD functions");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

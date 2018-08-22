@@ -437,3 +437,4 @@ module_usb_driver(usbpn_driver);
 MODULE_AUTHOR("Remi Denis-Courmont");
 MODULE_DESCRIPTION("USB CDC Phonet host interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

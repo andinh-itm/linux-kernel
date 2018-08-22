@@ -1048,3 +1048,4 @@ u8 acpiphp_get_adapter_status(struct acpiphp_slot *slot)
 {
 	return !!get_slot_status(slot);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

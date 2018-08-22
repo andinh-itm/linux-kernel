@@ -447,3 +447,4 @@ MODULE_DEVICE_TABLE(pci, alim7101_pci_tbl);
 MODULE_AUTHOR("Steve Hill");
 MODULE_DESCRIPTION("ALi M7101 PMU Computer Watchdog Timer driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

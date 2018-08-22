@@ -153,3 +153,4 @@ void b43_sysfs_unregister(struct b43_wldev *wldev)
 
 	device_remove_file(dev, &dev_attr_interference);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

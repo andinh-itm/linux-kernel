@@ -36,3 +36,4 @@ g84_sor_new(struct nvkm_disp *disp, int id)
 {
 	return nvkm_ior_new_(&g84_sor, disp, SOR, id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -62,3 +62,4 @@ DT_MACHINE_START(sama5d2, "Atmel SAMA5")
 	.dt_compat	= sama5d2_compat,
 	.l2c_aux_mask	= ~0UL,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

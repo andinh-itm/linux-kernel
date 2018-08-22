@@ -102,3 +102,4 @@ int pcibios_plat_dev_init(struct pci_dev *dev)
 #endif
 		return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

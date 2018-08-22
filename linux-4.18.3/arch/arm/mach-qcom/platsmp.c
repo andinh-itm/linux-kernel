@@ -361,3 +361,4 @@ static const struct smp_operations qcom_smp_kpssv2_ops __initconst = {
 #endif
 };
 CPU_METHOD_OF_DECLARE(qcom_smp_kpssv2, "qcom,kpss-acc-v2", &qcom_smp_kpssv2_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

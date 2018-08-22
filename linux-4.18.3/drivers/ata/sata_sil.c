@@ -823,3 +823,4 @@ static int sil_pci_device_resume(struct pci_dev *pdev)
 #endif
 
 module_pci_driver(sil_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -42,3 +42,4 @@ prom_getbootargs(void)
 	bootstr_info.bootstr_valid = 1;
 	return bootstr_info.bootstr_buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -560,3 +560,4 @@ module_platform_driver(grvga_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Aeroflex Gaisler");
 MODULE_DESCRIPTION("Aeroflex Gaisler framebuffer device driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

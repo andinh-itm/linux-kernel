@@ -212,3 +212,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Skein Hash Algorithm");
 
 MODULE_ALIAS("skein");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

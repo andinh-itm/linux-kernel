@@ -55,3 +55,4 @@ int imx_pcm_dma_init(struct platform_device *pdev, size_t size)
 EXPORT_SYMBOL_GPL(imx_pcm_dma_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

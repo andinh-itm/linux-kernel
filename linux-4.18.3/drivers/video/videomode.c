@@ -43,3 +43,4 @@ int videomode_from_timings(const struct display_timings *disp,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(videomode_from_timings);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

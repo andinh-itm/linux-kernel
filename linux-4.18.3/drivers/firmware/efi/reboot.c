@@ -75,3 +75,4 @@ static int __init efi_shutdown_init(void)
 	return 0;
 }
 late_initcall(efi_shutdown_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

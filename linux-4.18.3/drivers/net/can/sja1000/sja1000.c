@@ -706,3 +706,4 @@ static __exit void sja1000_exit(void)
 }
 
 module_exit(sja1000_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

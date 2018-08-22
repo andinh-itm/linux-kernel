@@ -985,3 +985,4 @@ MODULE_AUTHOR("Stefan Roese <sr@denx.de>");
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
 MODULE_DESCRIPTION("Allwinner A10 emac network driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

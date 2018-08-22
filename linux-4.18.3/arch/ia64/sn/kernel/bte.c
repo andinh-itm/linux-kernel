@@ -473,3 +473,4 @@ void bte_init_node(nodepda_t * mynodepda, cnodeid_t cnode)
 	}
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -23,3 +23,4 @@ DT_MACHINE_START(BCM_HR2_DT, "Broadcom Hurricane 2 SoC")
 	.l2c_aux_mask	= ~0,
 	.dt_compat = bcm_hr2_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

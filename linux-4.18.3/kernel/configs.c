@@ -97,3 +97,4 @@ module_exit(ikconfig_cleanup);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Randy Dunlap");
 MODULE_DESCRIPTION("Echo the kernel .config file used to build the kernel");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

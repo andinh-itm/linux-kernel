@@ -470,3 +470,4 @@ const struct stmmac_desc_ops dwmac4_desc_ops = {
 };
 
 const struct stmmac_mode_ops dwmac4_ring_mode_ops = { };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

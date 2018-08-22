@@ -426,3 +426,4 @@ void __init mpc52xx_setup_pci(void)
 	mpc52xx_add_bridge(pci);
 	of_node_put(pci);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

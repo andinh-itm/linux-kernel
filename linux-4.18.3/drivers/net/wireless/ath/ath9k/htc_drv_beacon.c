@@ -522,3 +522,4 @@ bool ath9k_htc_csa_is_finished(struct ath9k_htc_priv *priv)
 	priv->csa_vif = NULL;
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

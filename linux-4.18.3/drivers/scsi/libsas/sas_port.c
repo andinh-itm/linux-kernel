@@ -359,3 +359,4 @@ const work_func_t sas_port_event_fns[PORT_NUM_EVENTS] = {
 	[PORTE_TIMER_EVENT] = sas_porte_timer_event,
 	[PORTE_HARD_RESET] = sas_porte_hard_reset,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

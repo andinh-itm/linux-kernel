@@ -1509,3 +1509,4 @@ MODULE_DESCRIPTION("OMAP Multimedia Card driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRIVER_NAME);
 MODULE_AUTHOR("Juha Yrjölä");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

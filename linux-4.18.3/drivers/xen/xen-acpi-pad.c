@@ -168,3 +168,4 @@ static int __init xen_acpi_pad_init(void)
 	return acpi_bus_register_driver(&acpi_pad_driver);
 }
 subsys_initcall(xen_acpi_pad_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

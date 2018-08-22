@@ -3444,3 +3444,4 @@ static __init int event_trace_self_tests_init(void)
 late_initcall(event_trace_self_tests_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

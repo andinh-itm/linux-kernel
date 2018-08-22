@@ -30,3 +30,4 @@ void __init early_init_devtree(void *params)
 	early_init_dt_scan(params);
 	memblock_allow_resize();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

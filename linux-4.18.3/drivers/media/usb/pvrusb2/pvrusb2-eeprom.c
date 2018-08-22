@@ -142,3 +142,4 @@ int pvr2_eeprom_analyze(struct pvr2_hdw *hdw)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

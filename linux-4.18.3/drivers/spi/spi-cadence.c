@@ -793,3 +793,4 @@ module_platform_driver(cdns_spi_driver);
 MODULE_AUTHOR("Xilinx, Inc.");
 MODULE_DESCRIPTION("Cadence SPI driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

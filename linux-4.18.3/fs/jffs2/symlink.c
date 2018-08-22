@@ -17,3 +17,4 @@ const struct inode_operations jffs2_symlink_inode_operations =
 	.setattr =	jffs2_setattr,
 	.listxattr =	jffs2_listxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

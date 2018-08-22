@@ -1149,3 +1149,4 @@ int img_ir_resume(struct device *dev)
 	return 0;
 }
 #endif	/* CONFIG_PM_SLEEP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

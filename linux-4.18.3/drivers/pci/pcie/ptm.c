@@ -132,3 +132,4 @@ int pci_enable_ptm(struct pci_dev *dev, u8 *granularity)
 	return 0;
 }
 EXPORT_SYMBOL(pci_enable_ptm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -118,3 +118,4 @@ module_exit(mc13xxx_i2c_exit);
 MODULE_DESCRIPTION("i2c driver for Freescale MC13XXX PMIC");
 MODULE_AUTHOR("Marc Reilly <marc@cpdesign.com.au");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

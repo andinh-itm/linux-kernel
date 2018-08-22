@@ -481,3 +481,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("RTC driver for the WM8350");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8350-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

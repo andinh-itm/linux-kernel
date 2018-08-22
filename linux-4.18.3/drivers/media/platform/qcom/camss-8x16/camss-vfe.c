@@ -3091,3 +3091,4 @@ void msm_vfe_unregister_entities(struct vfe_device *vfe)
 		media_entity_cleanup(&sd->entity);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

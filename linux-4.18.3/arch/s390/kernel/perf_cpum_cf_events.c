@@ -596,3 +596,4 @@ __init const struct attribute_group **cpumf_cf_event_group(void)
 		cpumcf_pmu_events_group.attrs = combined;
 	return cpumcf_pmu_attr_groups;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

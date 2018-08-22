@@ -590,3 +590,4 @@ void dal_ddc_close(
 	dal_gpio_close(ddc->pin_data);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

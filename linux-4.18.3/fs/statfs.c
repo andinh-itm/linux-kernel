@@ -384,3 +384,4 @@ COMPAT_SYSCALL_DEFINE2(ustat, unsigned, dev, struct compat_ustat __user *, u)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

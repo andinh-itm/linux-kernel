@@ -373,3 +373,4 @@ module_exit(tfp410_module_exit);
 MODULE_AUTHOR("Jyri Sarha <jsarha@ti.com>");
 MODULE_DESCRIPTION("TI TFP410 DVI bridge driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

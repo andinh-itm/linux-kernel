@@ -54,3 +54,4 @@ union ieee754dp ieee754dp_fint(int x)
 	}
 	return builddp(xs, xe + DP_EBIAS, xm & ~DP_HIDDEN_BIT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

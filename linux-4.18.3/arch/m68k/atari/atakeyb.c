@@ -568,3 +568,4 @@ int atari_keyb_init(void)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(atari_keyb_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

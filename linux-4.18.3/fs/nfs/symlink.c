@@ -82,3 +82,4 @@ const struct inode_operations nfs_symlink_inode_operations = {
 	.getattr	= nfs_getattr,
 	.setattr	= nfs_setattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

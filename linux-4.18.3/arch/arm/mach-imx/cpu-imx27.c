@@ -71,3 +71,4 @@ int mx27_revision(void)
 	return mx27_cpu_rev;
 }
 EXPORT_SYMBOL(mx27_revision);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

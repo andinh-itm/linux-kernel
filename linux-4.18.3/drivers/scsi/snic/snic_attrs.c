@@ -75,3 +75,4 @@ struct device_attribute *snic_attrs[] = {
 	&dev_attr_link_state,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -59,3 +59,4 @@ int main(void)
 {
 	return test_harness(close_clears_pmcc, "close_clears_pmcc");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

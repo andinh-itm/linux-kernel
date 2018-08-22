@@ -224,3 +224,4 @@ MACHINE_START(RISCPC, "Acorn-RiscPC")
 	.init_time	= ioc_timer_init,
 	.restart	= rpc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

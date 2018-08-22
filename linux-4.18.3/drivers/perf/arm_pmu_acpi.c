@@ -290,3 +290,4 @@ static int arm_pmu_acpi_init(void)
 	return ret;
 }
 subsys_initcall(arm_pmu_acpi_init)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

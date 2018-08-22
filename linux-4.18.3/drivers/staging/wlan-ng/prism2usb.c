@@ -290,3 +290,4 @@ static struct usb_driver prism2_usb_driver = {
 };
 
 module_usb_driver(prism2_usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

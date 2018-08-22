@@ -822,3 +822,4 @@ static int __init pm_init(void)
 }
 
 core_initcall(pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

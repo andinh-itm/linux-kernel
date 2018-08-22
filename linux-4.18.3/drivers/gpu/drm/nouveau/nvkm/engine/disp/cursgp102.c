@@ -30,3 +30,4 @@ gp102_disp_curs_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	return nv50_disp_curs_new_(&gf119_disp_pioc_func, disp, 13, 17,
 				   oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

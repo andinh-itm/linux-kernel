@@ -565,3 +565,4 @@ int emac_mii_phy_probe(struct mii_phy *phy, int address)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

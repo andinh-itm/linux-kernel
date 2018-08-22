@@ -1242,3 +1242,4 @@ module_exit(apq8084_pinctrl_exit);
 MODULE_DESCRIPTION("Qualcomm APQ8084 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, apq8084_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

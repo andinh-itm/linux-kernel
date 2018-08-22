@@ -71,3 +71,4 @@ DT_MACHINE_START(S5PV210_DT, "Samsung S5PC110/S5PV210-based board")
 	.restart = s5pv210_dt_restart,
 	.init_late = s5pv210_dt_init_late,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

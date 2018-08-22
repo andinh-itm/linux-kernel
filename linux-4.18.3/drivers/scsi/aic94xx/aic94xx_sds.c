@@ -1474,3 +1474,4 @@ int asd_check_flash_type(struct asd_ha_struct *asd_ha)
 	asd_ha->hw_prof.flash.sec_prot = sec_prot;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

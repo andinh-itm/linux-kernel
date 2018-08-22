@@ -172,3 +172,4 @@ int main(int argc, char **argv)
 	printf("test_verifier_log: OK\n");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

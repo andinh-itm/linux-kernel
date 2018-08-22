@@ -136,3 +136,4 @@ bool __init initrd_load(void)
 	ksys_unlink("/initrd.image");
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

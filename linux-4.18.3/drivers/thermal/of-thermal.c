@@ -1049,3 +1049,4 @@ void of_thermal_destroy_zones(void)
 	}
 	of_node_put(np);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

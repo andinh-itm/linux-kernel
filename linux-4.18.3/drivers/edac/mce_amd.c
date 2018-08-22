@@ -1150,3 +1150,4 @@ MODULE_ALIAS("edac-mce-amd");
 MODULE_LICENSE("GPL");
 module_exit(mce_amd_exit);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

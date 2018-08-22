@@ -170,3 +170,4 @@ static struct i2c_driver tea6415c_driver = {
 };
 
 module_i2c_driver(tea6415c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

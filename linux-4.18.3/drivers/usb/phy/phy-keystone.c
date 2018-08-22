@@ -120,3 +120,4 @@ MODULE_ALIAS("platform:keystone-usbphy");
 MODULE_AUTHOR("Texas Instruments Inc.");
 MODULE_DESCRIPTION("Keystone USB phy driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -566,3 +566,4 @@ int hibernate_resume_nonboot_cpu_disable(void)
 
 	return freeze_secondary_cpus(sleep_cpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

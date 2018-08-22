@@ -1378,3 +1378,4 @@ void ib_device_unregister_sysfs(struct ib_device *device)
 
 	device_unregister(&device->dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

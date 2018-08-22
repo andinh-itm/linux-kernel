@@ -4943,3 +4943,4 @@ module_platform_driver(bcm_spu_pdriver);
 MODULE_AUTHOR("Rob Rice <rob.rice@broadcom.com>");
 MODULE_DESCRIPTION("Broadcom symmetric crypto offload driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

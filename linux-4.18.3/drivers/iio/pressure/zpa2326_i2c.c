@@ -97,3 +97,4 @@ module_i2c_driver(zpa2326_i2c_driver);
 MODULE_AUTHOR("Gregor Boirie <gregor.boirie@parrot.com>");
 MODULE_DESCRIPTION("I2C driver for Murata ZPA2326 pressure sensor");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

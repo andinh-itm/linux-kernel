@@ -635,3 +635,4 @@ const struct dev_pm_ops usb_hcd_pci_pm_ops = {
 EXPORT_SYMBOL_GPL(usb_hcd_pci_pm_ops);
 
 #endif	/* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

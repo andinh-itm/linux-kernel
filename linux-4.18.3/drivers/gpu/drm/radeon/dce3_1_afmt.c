@@ -230,3 +230,4 @@ void dce3_2_set_mute(struct drm_encoder *encoder, u32 offset, bool mute)
 	else
 		WREG32_AND(HDMI0_GC + offset, ~HDMI0_GC_AVMUTE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

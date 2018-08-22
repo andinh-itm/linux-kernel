@@ -4981,3 +4981,4 @@ module_init(floppy_init)
 #endif
 
 MODULE_ALIAS_BLOCKDEV_MAJOR(FLOPPY_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -173,3 +173,4 @@ acpi_get_timer_duration(u32 start_ticks, u32 end_ticks, u32 *time_elapsed)
 
 ACPI_EXPORT_SYMBOL(acpi_get_timer_duration)
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

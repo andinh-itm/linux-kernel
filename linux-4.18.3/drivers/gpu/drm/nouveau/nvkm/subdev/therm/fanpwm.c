@@ -108,3 +108,4 @@ nvkm_fanpwm_create(struct nvkm_therm *therm, struct dcb_gpio_func *func)
 	fan->func = *func;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

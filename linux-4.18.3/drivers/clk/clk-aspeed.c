@@ -735,3 +735,4 @@ static void __init aspeed_cc_init(struct device_node *np)
 };
 CLK_OF_DECLARE_DRIVER(aspeed_cc_g5, "aspeed,ast2500-scu", aspeed_cc_init);
 CLK_OF_DECLARE_DRIVER(aspeed_cc_g4, "aspeed,ast2400-scu", aspeed_cc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

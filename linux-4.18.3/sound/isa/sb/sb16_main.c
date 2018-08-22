@@ -913,3 +913,4 @@ static void __exit alsa_sb16_exit(void)
 
 module_init(alsa_sb16_init)
 module_exit(alsa_sb16_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

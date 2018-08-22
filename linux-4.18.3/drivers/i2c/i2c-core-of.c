@@ -275,3 +275,4 @@ struct notifier_block i2c_of_notifier = {
 	.notifier_call = of_i2c_notify,
 };
 #endif /* CONFIG_OF_DYNAMIC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

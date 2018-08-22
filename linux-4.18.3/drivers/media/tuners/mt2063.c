@@ -2276,3 +2276,4 @@ static int tuner_MT2063_ClearPowerMaskBits(struct dvb_frontend *fe)
 MODULE_AUTHOR("Mauro Carvalho Chehab");
 MODULE_DESCRIPTION("MT2063 Silicon tuner");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

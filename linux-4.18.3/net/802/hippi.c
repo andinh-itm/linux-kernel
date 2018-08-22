@@ -195,3 +195,4 @@ struct net_device *alloc_hippi_dev(int sizeof_priv)
 }
 
 EXPORT_SYMBOL(alloc_hippi_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -98,3 +98,4 @@ static void __exit acpi_custom_method_exit(void)
 
 module_init(acpi_custom_method_init);
 module_exit(acpi_custom_method_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

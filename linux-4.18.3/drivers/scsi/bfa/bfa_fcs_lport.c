@@ -6984,3 +6984,4 @@ bfa_cb_lps_cvl_event(void *bfad, void *uarg)
 	bfa_sm_send_event(vport, BFA_FCS_VPORT_SM_OFFLINE);
 	bfa_sm_send_event(vport, BFA_FCS_VPORT_SM_ONLINE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

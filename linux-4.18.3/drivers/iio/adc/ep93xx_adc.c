@@ -248,3 +248,4 @@ MODULE_AUTHOR("Alexander Sverdlin <alexander.sverdlin@gmail.com>");
 MODULE_DESCRIPTION("Cirrus Logic EP93XX ADC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ep93xx-adc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

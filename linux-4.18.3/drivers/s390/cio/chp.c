@@ -828,3 +828,4 @@ static int __init chp_init(void)
 }
 
 subsys_initcall(chp_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

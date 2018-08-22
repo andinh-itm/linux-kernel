@@ -249,3 +249,4 @@ module_platform_driver(mdiomux_iproc_driver);
 MODULE_DESCRIPTION("iProc MDIO Mux Bus Driver");
 MODULE_AUTHOR("Pramod Kumar <pramod.kumar@broadcom.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

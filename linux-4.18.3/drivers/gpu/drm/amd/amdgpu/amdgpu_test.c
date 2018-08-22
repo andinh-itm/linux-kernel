@@ -242,3 +242,4 @@ void amdgpu_test_moves(struct amdgpu_device *adev)
 	if (adev->mman.buffer_funcs)
 		amdgpu_do_test_moves(adev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

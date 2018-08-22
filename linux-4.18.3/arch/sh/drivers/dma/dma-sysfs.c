@@ -165,3 +165,4 @@ void dma_remove_sysfs_files(struct dma_channel *chan, struct dma_info *info)
 
 	device_unregister(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

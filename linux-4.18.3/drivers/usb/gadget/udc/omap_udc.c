@@ -3037,3 +3037,4 @@ module_platform_driver(udc_driver);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap_udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

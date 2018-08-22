@@ -1071,3 +1071,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PS3 AV Settings Driver");
 MODULE_AUTHOR("Sony Computer Entertainment Inc.");
 MODULE_ALIAS(PS3_MODULE_ALIAS_AV_SETTINGS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -13,3 +13,4 @@ const char *dump_insn(struct perf_insn *x __maybe_unused,
 		*lenp = 0;
 	return "?";
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

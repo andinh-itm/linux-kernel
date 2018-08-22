@@ -2147,3 +2147,4 @@ int fc_lport_bsg_request(struct bsg_job *job)
 	return rc;
 }
 EXPORT_SYMBOL(fc_lport_bsg_request);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

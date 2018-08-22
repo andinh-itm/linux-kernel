@@ -328,3 +328,4 @@ MODULE_AUTHOR("Saeed Bishara <saeed@marvell.com>");
 MODULE_DESCRIPTION("Marvell RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-mv");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

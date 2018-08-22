@@ -112,3 +112,4 @@ void init_kio(void)
 			XCHAL_KIO_BYPASS_VADDR + 6);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1715,3 +1715,4 @@ end:
 late_initcall(kprobe_trace_self_tests_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

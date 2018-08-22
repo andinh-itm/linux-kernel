@@ -113,3 +113,4 @@ int llc_sap_ev_deactivation_req(struct llc_sap *sap, struct sk_buff *skb)
 	return ev->type == LLC_SAP_EV_TYPE_SIMPLE &&
 	       ev->prim_type == LLC_SAP_EV_DEACTIVATION_REQ ? 0 : 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

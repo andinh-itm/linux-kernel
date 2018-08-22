@@ -249,3 +249,4 @@ module_i2c_driver(shtc1_i2c_driver);
 MODULE_AUTHOR("Johannes Winkelmann <johannes.winkelmann@sensirion.com>");
 MODULE_DESCRIPTION("Sensirion SHTC1 humidity and temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

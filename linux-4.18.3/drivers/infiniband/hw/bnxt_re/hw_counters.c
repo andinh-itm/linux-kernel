@@ -237,3 +237,4 @@ struct rdma_hw_stats *bnxt_re_ib_alloc_hw_stats(struct ib_device *ibdev,
 					  ARRAY_SIZE(bnxt_re_stat_name),
 					  RDMA_HW_STATS_DEFAULT_LIFESPAN);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

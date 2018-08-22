@@ -161,3 +161,4 @@ module_platform_driver(bcm_iproc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Kamal Dasu");
 MODULE_DESCRIPTION("SPI flash driver for Broadcom iProc SoCs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

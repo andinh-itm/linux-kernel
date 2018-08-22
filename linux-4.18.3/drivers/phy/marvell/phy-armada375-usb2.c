@@ -156,3 +156,4 @@ module_platform_driver(armada375_usb_phy_driver);
 MODULE_DESCRIPTION("Armada 375 USB cluster driver");
 MODULE_AUTHOR("Gregory CLEMENT <gregory.clement@free-electrons.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -614,3 +614,4 @@ isdn_v110_stat_callback(int idx, isdn_ctrl *c)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

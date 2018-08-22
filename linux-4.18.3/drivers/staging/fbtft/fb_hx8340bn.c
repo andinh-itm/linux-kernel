@@ -223,3 +223,4 @@ MODULE_ALIAS("platform:hx8340bn");
 MODULE_DESCRIPTION("FB driver for the HX8340BN LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

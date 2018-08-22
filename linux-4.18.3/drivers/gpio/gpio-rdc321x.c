@@ -209,3 +209,4 @@ MODULE_AUTHOR("Florian Fainelli <florian@openwrt.org>");
 MODULE_DESCRIPTION("RDC321x GPIO driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rdc321x-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

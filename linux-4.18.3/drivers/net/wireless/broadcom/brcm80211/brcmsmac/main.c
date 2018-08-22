@@ -8138,3 +8138,4 @@ brcms_c_attach(struct brcms_info *wl, struct bcma_device *core, uint unit,
 		*perr = err;
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

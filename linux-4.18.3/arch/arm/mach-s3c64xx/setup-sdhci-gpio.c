@@ -51,3 +51,4 @@ void s3c64xx_setup_sdhci2_cfg_gpio(struct platform_device *dev, int width)
 	/* Set all the necessary GPC pins to special-function 3 */
 	s3c_gpio_cfgrange_nopull(S3C64XX_GPC(4), 2, S3C_GPIO_SFN(3));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

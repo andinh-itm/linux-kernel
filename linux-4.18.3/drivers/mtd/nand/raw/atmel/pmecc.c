@@ -1010,3 +1010,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("PMECC engine driver");
 MODULE_ALIAS("platform:atmel_pmecc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

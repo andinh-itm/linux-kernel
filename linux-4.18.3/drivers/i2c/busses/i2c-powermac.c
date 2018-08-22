@@ -462,3 +462,4 @@ static struct platform_driver i2c_powermac_driver = {
 module_platform_driver(i2c_powermac_driver);
 
 MODULE_ALIAS("platform:i2c-powermac");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

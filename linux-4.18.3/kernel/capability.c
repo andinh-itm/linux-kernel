@@ -507,3 +507,4 @@ bool ptracer_capable(struct task_struct *tsk, struct user_namespace *ns)
 	rcu_read_unlock();
 	return (ret == 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -900,3 +900,4 @@ module_platform_driver(bcm_kona_i2c_driver);
 MODULE_AUTHOR("Tim Kryger <tkryger@broadcom.com>");
 MODULE_DESCRIPTION("Broadcom Kona I2C Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

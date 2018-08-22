@@ -621,3 +621,4 @@ static void __exit thermostat_exit(void)
 
 module_init(thermostat_init);
 module_exit(thermostat_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

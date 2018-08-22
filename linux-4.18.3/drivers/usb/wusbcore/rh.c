@@ -424,3 +424,4 @@ void wusbhc_rh_destroy(struct wusbhc *wusbhc)
 {
 	kfree(wusbhc->port);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -476,3 +476,4 @@ void amdgpu_cgs_destroy_device(struct cgs_device *cgs_device)
 {
 	kfree(cgs_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

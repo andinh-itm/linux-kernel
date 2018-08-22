@@ -752,3 +752,4 @@ MODULE_AUTHOR("Clement Vuchener");
 /* Scimitar PRO RGB driver author */
 MODULE_AUTHOR("Oscar Campos");
 MODULE_DESCRIPTION("HID driver for Corsair devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

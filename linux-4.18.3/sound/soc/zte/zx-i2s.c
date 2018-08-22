@@ -451,3 +451,4 @@ module_platform_driver(i2s_driver);
 MODULE_AUTHOR("Jun Nie <jun.nie@linaro.org>");
 MODULE_DESCRIPTION("ZTE I2S SoC DAI");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

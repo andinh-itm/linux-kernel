@@ -97,3 +97,4 @@ void __init integrator_reserve(void)
 {
 	memblock_reserve(PHYS_OFFSET, __pa(swapper_pg_dir) - PHYS_OFFSET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

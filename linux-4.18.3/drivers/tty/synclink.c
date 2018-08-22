@@ -8085,3 +8085,4 @@ static void synclink_remove_one (struct pci_dev *dev)
 {
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

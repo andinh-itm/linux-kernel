@@ -766,3 +766,4 @@ nouveau_hwmon_fini(struct drm_device *dev)
 	kfree(hwmon);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -564,3 +564,4 @@ static struct i2c_driver vpx3220_driver = {
 };
 
 module_i2c_driver(vpx3220_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -99,3 +99,4 @@ module_exit(crc_t10dif_mod_exit);
 MODULE_AUTHOR("Ard Biesheuvel <ard.biesheuvel@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS_CRYPTO("crct10dif");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

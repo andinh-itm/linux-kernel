@@ -149,3 +149,4 @@ int amd_pci_get_num_boost_states(int *active, int *states)
 	return 0;
 }
 #endif /* defined(__i386__) || defined(__x86_64__) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

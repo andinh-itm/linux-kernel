@@ -173,3 +173,4 @@ void __exit snd_seq_system_client_done(void)
 		snd_seq_delete_kernel_client(oldsysclient);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

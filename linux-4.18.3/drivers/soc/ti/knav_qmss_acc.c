@@ -590,3 +590,4 @@ int knav_init_acc_range(struct knav_device *kdev,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(knav_init_acc_range);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

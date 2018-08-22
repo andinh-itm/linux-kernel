@@ -2708,3 +2708,4 @@ module_exit(net2272_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("PLX Technology, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

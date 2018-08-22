@@ -43,3 +43,4 @@ DWtype __muldi3(DWtype u, DWtype v)
 
 	return w.ll;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

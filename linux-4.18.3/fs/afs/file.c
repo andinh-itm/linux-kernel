@@ -672,3 +672,4 @@ static int afs_file_mmap(struct file *file, struct vm_area_struct *vma)
 		vma->vm_ops = &afs_vm_ops;
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

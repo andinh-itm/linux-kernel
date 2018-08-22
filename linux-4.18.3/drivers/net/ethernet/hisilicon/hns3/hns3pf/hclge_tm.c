@@ -1332,3 +1332,4 @@ int hclge_tm_schd_init(struct hclge_dev *hdev)
 
 	return hclge_tm_init_hw(hdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

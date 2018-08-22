@@ -180,3 +180,4 @@ MODULE_DEVICE_TABLE(dmi, amilo_rfkill_id_table);
 
 module_init(amilo_rfkill_init);
 module_exit(amilo_rfkill_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

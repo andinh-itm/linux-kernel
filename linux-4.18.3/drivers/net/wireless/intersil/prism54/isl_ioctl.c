@@ -2908,3 +2908,4 @@ const struct iw_handler_def prism54_handler_def = {
 	.private_args = (struct iw_priv_args *) prism54_private_args,
 	.get_wireless_stats = prism54_get_wireless_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

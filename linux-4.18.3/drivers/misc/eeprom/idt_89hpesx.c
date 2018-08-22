@@ -1620,3 +1620,4 @@ static void __exit idt_exit(void)
 	i2c_del_driver(&idt_driver);
 }
 module_exit(idt_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

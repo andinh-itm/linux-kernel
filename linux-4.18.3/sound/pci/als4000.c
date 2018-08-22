@@ -1035,3 +1035,4 @@ static struct pci_driver als4000_driver = {
 };
 
 module_pci_driver(als4000_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

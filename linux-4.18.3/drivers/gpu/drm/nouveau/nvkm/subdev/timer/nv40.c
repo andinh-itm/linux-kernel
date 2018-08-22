@@ -86,3 +86,4 @@ nv40_timer_new(struct nvkm_device *device, int index, struct nvkm_timer **ptmr)
 {
 	return nvkm_timer_new_(&nv40_timer, device, index, ptmr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

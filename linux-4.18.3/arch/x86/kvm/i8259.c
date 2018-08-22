@@ -649,3 +649,4 @@ void kvm_pic_destroy(struct kvm *kvm)
 	kvm->arch.vpic = NULL;
 	kfree(vpic);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -65,3 +65,4 @@ module_i2c_driver(adau1781_i2c_driver);
 MODULE_DESCRIPTION("ASoC ADAU1381/ADAU1781 CODEC I2C driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

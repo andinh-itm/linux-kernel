@@ -42,3 +42,4 @@ const struct nv50_outp_func
 dac507d = {
 	.ctrl = dac507d_ctrl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

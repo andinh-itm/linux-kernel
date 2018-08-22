@@ -369,3 +369,4 @@ const struct snd_ff_protocol snd_ff_protocol_ff400 = {
 	.midi_rx_port_0_reg	= FF400_MIDI_RX_PORT_0,
 	.midi_rx_port_1_reg	= FF400_MIDI_RX_PORT_1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

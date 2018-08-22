@@ -249,3 +249,4 @@ int nomadik_clcd_init_board(struct amba_device *adev,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(nomadik_clcd_init_board);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

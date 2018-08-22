@@ -93,3 +93,4 @@ const struct inode_operations ocfs2_symlink_inode_operations = {
 	.listxattr	= ocfs2_listxattr,
 	.fiemap		= ocfs2_fiemap,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

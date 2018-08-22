@@ -864,3 +864,4 @@ void p54_unregister_common(struct ieee80211_hw *dev)
 	mutex_destroy(&priv->eeprom_mutex);
 }
 EXPORT_SYMBOL_GPL(p54_unregister_common);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -353,3 +353,4 @@ error:
 	kfree(parent_names);
 }
 CLK_OF_DECLARE(cpg_div6_clk, "renesas,cpg-div6-clock", cpg_div6_clock_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3541,3 +3541,4 @@ MODULE_DESCRIPTION("MC support for AMD64 memory controllers - "
 
 module_param(edac_op_state, int, 0444);
 MODULE_PARM_DESC(edac_op_state, "EDAC Error Reporting state: 0=Poll,1=NMI");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

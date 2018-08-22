@@ -39,3 +39,4 @@ hpsim_setup (char **cmdline_p)
 
 	simcons_register();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

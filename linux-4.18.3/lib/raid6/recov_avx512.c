@@ -386,3 +386,4 @@ const struct raid6_recov_calls raid6_recov_avx512 = {
 #else
 #warning "your version of binutils lacks AVX512 support"
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

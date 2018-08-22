@@ -273,3 +273,4 @@ void devm_extcon_unregister_notifier_all(struct device *dev,
 			       devm_extcon_dev_match, edev));
 }
 EXPORT_SYMBOL(devm_extcon_unregister_notifier_all);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

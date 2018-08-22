@@ -812,3 +812,4 @@ EXPORT_SYMBOL_GPL(ucsi_unregister_ppm);
 MODULE_AUTHOR("Heikki Krogerus <heikki.krogerus@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("USB Type-C Connector System Software Interface driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

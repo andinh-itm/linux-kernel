@@ -178,3 +178,4 @@ void __init register_early_udbg_console(void)
 #if 0   /* if you want to use this as a regular output console */
 console_initcall(register_udbg_console);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

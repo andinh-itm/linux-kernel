@@ -802,3 +802,4 @@ static int __init pxa_gpio_sysinit(void)
 	return 0;
 }
 postcore_initcall(pxa_gpio_sysinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

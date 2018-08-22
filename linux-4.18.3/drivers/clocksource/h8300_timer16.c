@@ -190,3 +190,4 @@ free_clk:
 
 TIMER_OF_DECLARE(h8300_16bit, "renesas,16bit-timer",
 			   h8300_16timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

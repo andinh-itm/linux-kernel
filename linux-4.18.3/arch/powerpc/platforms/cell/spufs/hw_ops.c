@@ -346,3 +346,4 @@ struct spu_context_ops spu_hw_ops = {
 	.send_mfc_command = spu_hw_send_mfc_command,
 	.restart_dma = spu_hw_restart_dma,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

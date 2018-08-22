@@ -275,3 +275,4 @@ static int __init pm_dbg_init(void)
 omap_arch_initcall(pm_dbg_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

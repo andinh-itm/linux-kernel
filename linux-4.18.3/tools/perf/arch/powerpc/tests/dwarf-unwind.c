@@ -61,3 +61,4 @@ int test__arch_unwind_sample(struct perf_sample *sample,
 
 	return sample_ustack(sample, thread, buf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

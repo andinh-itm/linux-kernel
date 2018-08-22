@@ -596,3 +596,4 @@ int get_sys_clock(void)
 	else
 		return (FREF * readb(MCF_PLL_PFDR)) / (BUSDIV * 4);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

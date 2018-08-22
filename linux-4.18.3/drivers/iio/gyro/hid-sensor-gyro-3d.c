@@ -418,3 +418,4 @@ module_platform_driver(hid_gyro_3d_platform_driver);
 MODULE_DESCRIPTION("HID Sensor Gyroscope 3D");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@intel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

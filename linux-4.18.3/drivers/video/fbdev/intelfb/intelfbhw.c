@@ -2115,3 +2115,4 @@ int intelfbhw_wait_for_vsync(struct intelfb_info *dinfo, u32 pipe)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

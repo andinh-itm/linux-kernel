@@ -463,3 +463,4 @@ MACHINE_START(POODLE, "SHARP Poodle")
 	.init_machine	= poodle_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

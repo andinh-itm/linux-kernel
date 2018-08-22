@@ -168,3 +168,4 @@ void mt7601u_init_debugfs(struct mt7601u_dev *dev)
 	debugfs_create_file("ampdu_stat", 0400, dir, dev, &fops_ampdu_stat);
 	debugfs_create_file("eeprom_param", 0400, dir, dev, &fops_eeprom_param);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

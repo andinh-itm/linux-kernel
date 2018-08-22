@@ -93,3 +93,4 @@ void __init kmap_init(void)
 	kmap_pte = kmap_get_fixmap_pte(kmap_vstart);
 	kmap_waitqueues_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

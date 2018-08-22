@@ -574,3 +574,4 @@ static void acpi_rs_dump_word_list(u16 length, u16 *data)
 		acpi_os_printf("%25s%2.2X : %4.4X\n", "Word", i, data[i]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

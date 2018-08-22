@@ -517,3 +517,4 @@ int ath9k_dump_btcoex(struct ath_softc *sc, u8 *buf, u32 size)
 }
 
 #endif /* CONFIG_ATH9K_BTCOEX_SUPPORT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

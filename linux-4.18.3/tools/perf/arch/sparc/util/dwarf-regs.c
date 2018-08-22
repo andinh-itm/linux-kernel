@@ -41,3 +41,4 @@ const char *get_arch_regstr(unsigned int n)
 {
 	return (n < SPARC_MAX_REGS) ? sparc_regs_table[n] : NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -446,3 +446,4 @@ final_cleanup:
 }
 
 ACPI_EXPORT_SYMBOL(acpi_get_sleep_type_data)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

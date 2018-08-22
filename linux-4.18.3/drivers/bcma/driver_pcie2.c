@@ -199,3 +199,4 @@ void bcma_core_pcie2_up(struct bcma_drv_pcie2 *pcie2)
 	if (err)
 		bcma_err(bus, "Error setting PCI_EXP_DEVCTL_READRQ: %d\n", err);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

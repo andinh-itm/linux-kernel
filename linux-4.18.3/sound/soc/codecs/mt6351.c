@@ -1503,3 +1503,4 @@ module_platform_driver(mt6351_codec_driver)
 MODULE_DESCRIPTION("MT6351 ALSA SoC codec driver");
 MODULE_AUTHOR("KaiChieh Chuang <kaichieh.chuang@mediatek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

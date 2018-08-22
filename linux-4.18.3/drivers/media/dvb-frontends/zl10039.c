@@ -311,3 +311,4 @@ MODULE_PARM_DESC(debug, "Turn on/off frontend debugging (default:off).");
 MODULE_DESCRIPTION("Zarlink ZL10039 DVB-S tuner driver");
 MODULE_AUTHOR("Jan D. Louw <jd.louw@mweb.co.za>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

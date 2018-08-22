@@ -180,3 +180,4 @@ err_out:
 	return err;
 }
 device_initcall(cps_cpuidle_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

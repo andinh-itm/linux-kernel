@@ -48,3 +48,4 @@ struct mqd_manager *mqd_manager_init(enum KFD_MQD_TYPE type,
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

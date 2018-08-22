@@ -594,3 +594,4 @@ static struct i2c_driver mt9v011_driver = {
 };
 
 module_i2c_driver(mt9v011_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

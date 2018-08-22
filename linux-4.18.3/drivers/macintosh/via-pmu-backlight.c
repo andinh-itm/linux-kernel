@@ -188,3 +188,4 @@ void __init pmu_backlight_init(void)
 
 	printk(KERN_INFO "PMU Backlight initialized (%s)\n", name);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

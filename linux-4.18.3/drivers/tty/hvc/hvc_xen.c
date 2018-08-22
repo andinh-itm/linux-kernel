@@ -692,3 +692,4 @@ static int __init xenboot_earlycon_setup(struct earlycon_device *device,
 	return 0;
 }
 EARLYCON_DECLARE(xenboot, xenboot_earlycon_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

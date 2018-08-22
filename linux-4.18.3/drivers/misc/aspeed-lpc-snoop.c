@@ -283,3 +283,4 @@ MODULE_DEVICE_TABLE(of, aspeed_lpc_snoop_match);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Robert Lippert <rlippert@google.com>");
 MODULE_DESCRIPTION("Linux driver to control Aspeed LPC snoop functionality");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

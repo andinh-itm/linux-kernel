@@ -451,3 +451,4 @@ void __init x86_64_start_reservations(char *real_mode_data)
 
 	start_kernel();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

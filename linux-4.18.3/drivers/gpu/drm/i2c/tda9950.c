@@ -507,3 +507,4 @@ module_i2c_driver(tda9950_driver);
 MODULE_AUTHOR("Russell King <rmk+kernel@armlinux.org.uk>");
 MODULE_DESCRIPTION("TDA9950/TDA998x Consumer Electronics Control Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

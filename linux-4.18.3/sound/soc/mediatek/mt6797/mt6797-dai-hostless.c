@@ -110,3 +110,4 @@ int mt6797_dai_hostless_register(struct mtk_base_afe *afe)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

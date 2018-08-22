@@ -282,3 +282,4 @@ module_i2c_driver(gp2a_i2c_driver);
 MODULE_AUTHOR("Courtney Cavin <courtney.cavin@sonyericsson.com>");
 MODULE_DESCRIPTION("Sharp GP2AP002A00F I2C Proximity/Opto sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

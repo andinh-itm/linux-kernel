@@ -535,3 +535,4 @@ void rtl8723bs_free_recv_priv(struct adapter *padapter)
 		precvpriv->pallocated_recv_buf = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

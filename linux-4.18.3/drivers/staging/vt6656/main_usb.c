@@ -1032,3 +1032,4 @@ static struct usb_driver vt6656_driver = {
 };
 
 module_usb_driver(vt6656_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

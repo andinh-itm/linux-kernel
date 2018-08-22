@@ -208,3 +208,4 @@ const struct gphy t1_my3126_ops = {
 	.create = my3126_phy_create,
 	.reset = my3126_phy_reset
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

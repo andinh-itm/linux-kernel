@@ -1046,3 +1046,4 @@ static int __init arch_parse_efi_cmdline(char *str)
 	return 0;
 }
 early_param("efi", arch_parse_efi_cmdline);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

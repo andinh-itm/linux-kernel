@@ -609,3 +609,4 @@ const struct dma_map_ops pcx_dma_ops = {
 	.sync_sg_for_device =	pa11_dma_sync_sg_for_device,
 	.cache_sync =		pa11_dma_cache_sync,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -432,3 +432,4 @@ mpt3sas_trigger_mpi(struct MPT3SAS_ADAPTER *ioc, u16 ioc_status, u32 loginfo)
 	dTriggerDiagPrintk(ioc, pr_info(MPT3SAS_FMT "%s: exit\n", ioc->name,
 	    __func__));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

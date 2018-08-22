@@ -287,3 +287,4 @@ int __init init_hpet_clocksource(void)
 }
 
 arch_initcall(init_hpet_clocksource);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

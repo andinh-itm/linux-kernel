@@ -361,3 +361,4 @@ module_platform_driver(dht11_driver);
 MODULE_AUTHOR("Harald Geyer <harald@ccbib.org>");
 MODULE_DESCRIPTION("DHT11 humidity/temperature sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1631,3 +1631,4 @@ module_i2c_driver(ov965x_i2c_driver);
 MODULE_AUTHOR("Sylwester Nawrocki <sylvester.nawrocki@gmail.com>");
 MODULE_DESCRIPTION("OV9650/OV9652 CMOS Image Sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

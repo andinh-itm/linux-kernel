@@ -957,3 +957,4 @@ void mark_rodata_ro(void)
 	if (__supported_pte_mask & _PAGE_NX)
 		debug_checkwx();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

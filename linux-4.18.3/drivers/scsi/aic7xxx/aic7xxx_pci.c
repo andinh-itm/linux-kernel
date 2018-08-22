@@ -2467,3 +2467,4 @@ ahc_aha494XX_setup(struct ahc_softc *ahc)
 	ahc->flags |= AHC_LARGE_SEEPROM;
 	return (0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

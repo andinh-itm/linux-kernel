@@ -147,3 +147,4 @@ module_platform_driver(tps65912_gpio_driver);
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("TPS65912 GPIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -345,3 +345,4 @@ module_spi_driver(adc108s102_driver);
 MODULE_AUTHOR("Bogdan Pricop <bogdan.pricop@emutex.com>");
 MODULE_DESCRIPTION("Texas Instruments ADC108S102 and ADC128S102 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

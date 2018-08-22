@@ -4367,3 +4367,4 @@ void ex_btc8723b2ant_periodical(struct btc_coexist *btcoexist)
 			btc8723b2ant_run_coexist_mechanism(btcoexist);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

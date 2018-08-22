@@ -140,3 +140,4 @@ module_platform_driver(bcm6368_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Simon Arlott");
 MODULE_DESCRIPTION("NAND driver for BCM6368");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

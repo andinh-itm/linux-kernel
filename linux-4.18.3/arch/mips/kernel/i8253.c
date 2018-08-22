@@ -38,3 +38,4 @@ static int __init init_pit_clocksource(void)
 	return clocksource_i8253_init();
 }
 arch_initcall(init_pit_clocksource);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

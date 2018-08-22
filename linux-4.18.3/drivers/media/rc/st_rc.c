@@ -410,3 +410,4 @@ module_platform_driver(st_rc_driver);
 MODULE_DESCRIPTION("RC Transceiver driver for STMicroelectronics platforms");
 MODULE_AUTHOR("STMicroelectronics (R&D) Ltd");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

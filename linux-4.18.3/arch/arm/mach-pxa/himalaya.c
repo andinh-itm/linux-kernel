@@ -167,3 +167,4 @@ MACHINE_START(HIMALAYA, "HTC Himalaya")
 	.init_time	= pxa_timer_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

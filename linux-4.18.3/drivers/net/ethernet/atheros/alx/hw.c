@@ -1122,3 +1122,4 @@ void alx_update_hw_stats(struct alx_hw *hw)
 
 	hw->stats.update         += alx_read_mem32(hw, ALX_MIB_UPDATE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

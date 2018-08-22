@@ -1029,3 +1029,4 @@ struct clk *pic32_sosc_clk_register(const struct pic32_sec_osc_data *data,
 
 	return devm_clk_register(core->dev, &sosc->hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

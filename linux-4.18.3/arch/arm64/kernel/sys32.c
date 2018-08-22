@@ -50,3 +50,4 @@ void * const compat_sys_call_table[__NR_compat_syscalls] __aligned(4096) = {
 	[0 ... __NR_compat_syscalls - 1] = sys_ni_syscall,
 #include <asm/unistd32.h>
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

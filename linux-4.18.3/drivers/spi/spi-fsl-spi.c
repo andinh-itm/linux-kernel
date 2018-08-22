@@ -956,3 +956,4 @@ module_exit(fsl_spi_exit);
 MODULE_AUTHOR("Kumar Gala");
 MODULE_DESCRIPTION("Simple Freescale SPI Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

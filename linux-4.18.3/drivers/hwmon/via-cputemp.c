@@ -341,3 +341,4 @@ MODULE_LICENSE("GPL");
 
 module_init(via_cputemp_init)
 module_exit(via_cputemp_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

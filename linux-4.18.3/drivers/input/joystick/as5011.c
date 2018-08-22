@@ -370,3 +370,4 @@ static struct i2c_driver as5011_driver = {
 };
 
 module_i2c_driver(as5011_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

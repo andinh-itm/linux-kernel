@@ -191,3 +191,4 @@ const struct squashfs_decompressor squashfs_xz_comp_ops = {
 	.name = "xz",
 	.supported = 1
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

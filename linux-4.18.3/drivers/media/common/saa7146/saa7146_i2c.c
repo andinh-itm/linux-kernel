@@ -422,3 +422,4 @@ int saa7146_i2c_adapter_prepare(struct saa7146_dev *dev, struct i2c_adapter *i2c
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

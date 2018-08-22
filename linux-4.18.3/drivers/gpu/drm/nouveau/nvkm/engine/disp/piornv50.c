@@ -137,3 +137,4 @@ nv50_pior_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = (nvkm_rd32(device, 0x610184) & 0x70000000) >> 28;
 	return 3;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

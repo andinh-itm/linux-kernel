@@ -93,3 +93,4 @@ void s3c_pm_restore_uarts(void)
 	if (!soc_is_s3c2410())
 		__raw_writel(save->udivslot, regs + S3C2443_DIVSLOT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

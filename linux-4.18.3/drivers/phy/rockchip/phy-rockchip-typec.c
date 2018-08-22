@@ -1237,3 +1237,4 @@ MODULE_AUTHOR("Chris Zhong <zyw@rock-chips.com>");
 MODULE_AUTHOR("Kever Yang <kever.yang@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip USB TYPE-C PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

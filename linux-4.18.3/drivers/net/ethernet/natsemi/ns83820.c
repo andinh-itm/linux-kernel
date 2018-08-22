@@ -2300,3 +2300,4 @@ MODULE_PARM_DESC(reset_phy, "Set to 1 to reset the PHY on startup");
 
 module_init(ns83820_init);
 module_exit(ns83820_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

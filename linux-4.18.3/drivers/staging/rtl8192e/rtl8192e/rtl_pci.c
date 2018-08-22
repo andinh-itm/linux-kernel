@@ -92,3 +92,4 @@ bool rtl92e_check_adapter(struct pci_dev *pdev, struct net_device *dev)
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

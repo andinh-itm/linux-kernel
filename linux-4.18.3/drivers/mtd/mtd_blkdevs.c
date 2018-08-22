@@ -608,3 +608,4 @@ EXPORT_SYMBOL_GPL(del_mtd_blktrans_dev);
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Common interface to block layer for MTD 'translation layers'");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -422,3 +422,4 @@ void hvsilib_init(struct hvsi_priv *pv,
 	pv->termno = termno;
 	pv->is_console = is_console;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

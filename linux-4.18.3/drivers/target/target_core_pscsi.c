@@ -1135,3 +1135,4 @@ MODULE_LICENSE("GPL");
 
 module_init(pscsi_module_init);
 module_exit(pscsi_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

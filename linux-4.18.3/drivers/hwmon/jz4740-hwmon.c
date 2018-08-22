@@ -144,3 +144,4 @@ MODULE_DESCRIPTION("JZ4740 SoC HWMON driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:jz4740-hwmon");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

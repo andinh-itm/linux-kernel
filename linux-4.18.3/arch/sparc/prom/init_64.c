@@ -55,3 +55,4 @@ void __init prom_init_report(void)
 	printk("PROMLIB: Sun IEEE Boot Prom '%s'\n", prom_version);
 	printk("PROMLIB: Root node compatible: %s\n", prom_root_compatible);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

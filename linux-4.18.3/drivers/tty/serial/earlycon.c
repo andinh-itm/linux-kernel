@@ -302,3 +302,4 @@ int __init of_setup_earlycon(const struct earlycon_id *match,
 }
 
 #endif /* CONFIG_OF_EARLY_FLATTREE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

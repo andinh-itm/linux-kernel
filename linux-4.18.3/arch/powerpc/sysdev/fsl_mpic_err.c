@@ -147,3 +147,4 @@ void mpic_err_int_init(struct mpic *mpic, irq_hw_number_t irqnum)
 	if (ret)
 		pr_err("Failed to register error interrupt handler\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

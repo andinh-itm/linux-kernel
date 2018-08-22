@@ -799,3 +799,4 @@ struct nci_hci_dev *nci_hci_allocate(struct nci_dev *ndev)
 
 	return hdev;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

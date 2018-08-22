@@ -119,3 +119,4 @@ void __init acpi_amba_init(void)
 	amba_register_dummy_clk();
 	acpi_scan_add_handler(&amba_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

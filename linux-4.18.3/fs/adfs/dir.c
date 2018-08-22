@@ -272,3 +272,4 @@ const struct inode_operations adfs_dir_inode_operations = {
 	.lookup		= adfs_lookup,
 	.setattr	= adfs_notify_change,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -69,3 +69,4 @@ void usb_notify_remove_bus(struct usb_bus *ubus)
 {
 	blocking_notifier_call_chain(&usb_notifier_list, USB_BUS_REMOVE, ubus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

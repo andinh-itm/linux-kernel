@@ -129,3 +129,4 @@ void FPU_etc(void)
 {
 	(fp_etc_table[FPU_rm]) (&st(0), FPU_gettag0());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -80,3 +80,4 @@ int parse_elf32(void *hdr, struct elf_info *info)
 	info->elfoffset = elf32ph->p_offset;
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

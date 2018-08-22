@@ -109,3 +109,4 @@ module_platform_driver(lpc18xx_otp_driver);
 MODULE_AUTHOR("Joachim Eastwoood <manabian@gmail.com>");
 MODULE_DESCRIPTION("NXP LPC18xx OTP NVMEM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

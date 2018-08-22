@@ -322,3 +322,4 @@ void exynos4_jpeg_set_timer_count(void __iomem *base, unsigned int size)
 {
 	writel(size, base + EXYNOS4_INT_TIMER_COUNT_REG);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

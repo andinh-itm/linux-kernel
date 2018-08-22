@@ -2388,3 +2388,4 @@ static int cw1200_update_beaconing(struct cw1200_common *priv)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

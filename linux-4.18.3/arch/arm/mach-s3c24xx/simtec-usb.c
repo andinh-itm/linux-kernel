@@ -123,3 +123,4 @@ int __init usb_simtec_init(void)
 	s3c_ohci_set_platdata(&usb_simtec_info);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

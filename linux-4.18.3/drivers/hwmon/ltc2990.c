@@ -289,3 +289,4 @@ module_i2c_driver(ltc2990_i2c_driver);
 MODULE_DESCRIPTION("LTC2990 Sensor Driver");
 MODULE_AUTHOR("Topic Embedded Products");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

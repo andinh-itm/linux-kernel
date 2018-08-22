@@ -1606,3 +1606,4 @@ static void __exit pvscsi_exit(void)
 
 module_init(pvscsi_init);
 module_exit(pvscsi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

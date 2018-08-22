@@ -499,3 +499,4 @@ int netcp_xgbe_serdes_init(void __iomem *serdes_regs, void __iomem *xgbe_regs)
 	}
 	return netcp_xgbe_serdes_config(serdes_regs, xgbe_regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

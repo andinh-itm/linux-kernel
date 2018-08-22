@@ -29,3 +29,4 @@ DT_MACHINE_START(REALVIEW_DT, "ARM RealView Machine (Device Tree Support)")
 	.l2c_aux_val = 0x0,
 	.l2c_aux_mask = ~0x0,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -880,3 +880,4 @@ MODULE_DESCRIPTION("ASoC ADAV80x driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_AUTHOR("Yi Li <yi.li@analog.com>>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

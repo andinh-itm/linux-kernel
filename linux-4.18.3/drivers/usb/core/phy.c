@@ -195,3 +195,4 @@ int usb_phy_roothub_resume(struct device *controller_dev,
 	return err;
 }
 EXPORT_SYMBOL_GPL(usb_phy_roothub_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1888,3 +1888,4 @@ int synaptics_init(struct psmouse *psmouse)
 }
 
 #endif /* CONFIG_MOUSE_PS2_SYNAPTICS || CONFIG_MOUSE_PS2_SYNAPTICS_SMBUS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

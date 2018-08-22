@@ -2232,3 +2232,4 @@ int snd_emu10k1_mixer(struct snd_emu10k1 *emu,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

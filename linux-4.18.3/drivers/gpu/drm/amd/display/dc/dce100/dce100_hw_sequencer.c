@@ -152,3 +152,4 @@ void dce100_hw_sequencer_construct(struct dc *dc)
 			dce100_pplib_apply_display_requirements;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

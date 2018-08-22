@@ -496,3 +496,4 @@ struct usb_device_driver stub_driver = {
 #endif
 	.supports_autosuspend	=	0,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

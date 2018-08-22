@@ -524,3 +524,4 @@ module_platform_driver(mtu3_driver);
 MODULE_AUTHOR("Chunfeng Yun <chunfeng.yun@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MediaTek USB3 DRD Controller Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

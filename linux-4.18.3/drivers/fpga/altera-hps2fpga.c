@@ -230,3 +230,4 @@ module_platform_driver(alt_fpga_bridge_driver);
 MODULE_DESCRIPTION("Altera SoCFPGA HPS to FPGA Bridge");
 MODULE_AUTHOR("Alan Tull <atull@opensource.altera.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

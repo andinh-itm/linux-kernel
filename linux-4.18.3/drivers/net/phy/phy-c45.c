@@ -335,3 +335,4 @@ struct phy_driver genphy_10g_driver = {
 	.suspend        = gen10g_suspend,
 	.resume         = gen10g_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

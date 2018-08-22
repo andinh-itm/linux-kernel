@@ -2445,3 +2445,4 @@ static enum bp_result set_dce_clock_v2_1(
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

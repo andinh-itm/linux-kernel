@@ -366,3 +366,4 @@ MODULE_DESCRIPTION("JZ4740 SoC internal codec driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:jz4740-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

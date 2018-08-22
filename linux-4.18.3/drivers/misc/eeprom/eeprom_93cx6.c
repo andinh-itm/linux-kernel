@@ -379,3 +379,4 @@ void eeprom_93cx6_write(struct eeprom_93cx6 *eeprom, u8 addr, u16 data)
 	eeprom_93cx6_cleanup(eeprom);
 }
 EXPORT_SYMBOL_GPL(eeprom_93cx6_write);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

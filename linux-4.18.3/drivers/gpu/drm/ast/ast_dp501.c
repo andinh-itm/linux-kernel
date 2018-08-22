@@ -440,3 +440,4 @@ void ast_release_firmware(struct drm_device *dev)
 	release_firmware(ast->dp501_fw);
 	ast->dp501_fw = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

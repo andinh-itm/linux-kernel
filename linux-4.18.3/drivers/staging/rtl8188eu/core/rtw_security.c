@@ -1535,3 +1535,4 @@ do {									\
 	d##2 = TE0(s##2) ^ TE1(s##3) ^ TE2(s##0) ^ TE3(s##1) ^ rk[4 * i + 2]; \
 	d##3 = TE0(s##3) ^ TE1(s##0) ^ TE2(s##1) ^ TE3(s##2) ^ rk[4 * i + 3]; \
 } while (0)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

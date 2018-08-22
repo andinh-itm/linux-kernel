@@ -236,3 +236,4 @@ MODULE_DESCRIPTION("low-level driver for Intel MPIIX");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, mpiix);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

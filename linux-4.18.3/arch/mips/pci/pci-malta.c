@@ -252,3 +252,4 @@ void __init mips_pcibios_init(void)
 
 	register_pci_controller(controller);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -193,3 +193,4 @@ MACHINE_START(COLIBRI300, "Toradex Colibri PXA300")
 	.restart	= pxa_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

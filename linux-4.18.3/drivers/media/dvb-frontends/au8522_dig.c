@@ -928,3 +928,4 @@ MODULE_PARM_DESC(zv_mode, "Turn on/off ZeeVee modulator compatibility mode (defa
 MODULE_DESCRIPTION("Auvitek AU8522 QAM-B/ATSC Demodulator driver");
 MODULE_AUTHOR("Steven Toth");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

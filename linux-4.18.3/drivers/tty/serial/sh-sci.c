@@ -3381,3 +3381,4 @@ MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sh-sci");
 MODULE_AUTHOR("Paul Mundt");
 MODULE_DESCRIPTION("SuperH (H)SCI(F) serial driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

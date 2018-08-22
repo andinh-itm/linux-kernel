@@ -397,3 +397,4 @@ EXPORT_SYMBOL(cma3000_exit);
 MODULE_DESCRIPTION("CMA3000-D0x Accelerometer Driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Hemanth V <hemanthv@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

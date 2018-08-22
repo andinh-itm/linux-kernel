@@ -2860,3 +2860,4 @@ module_i2c_driver(rt5640_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT5640/RT5639 driver");
 MODULE_AUTHOR("Johnny Hsu <johnnyhsu@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

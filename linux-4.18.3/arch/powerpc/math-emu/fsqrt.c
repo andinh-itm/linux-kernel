@@ -39,3 +39,4 @@ fsqrt(void *frD, void *frB)
 
 	return FP_CUR_EXCEPTIONS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

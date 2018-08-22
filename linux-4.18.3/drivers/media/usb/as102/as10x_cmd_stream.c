@@ -205,3 +205,4 @@ int as10x_cmd_stop_streaming(struct as10x_bus_adapter_t *adap)
 out:
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

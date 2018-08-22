@@ -36,3 +36,4 @@ const struct inode_operations ext2_fast_symlink_inode_operations = {
 	.listxattr	= ext2_listxattr,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

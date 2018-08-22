@@ -880,3 +880,4 @@ u32 RTL8192EE_AGC_TAB_ARRAY[] = {
 		0xC50, 0x00040020,
 	0xFF010718, 0xDEAD,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

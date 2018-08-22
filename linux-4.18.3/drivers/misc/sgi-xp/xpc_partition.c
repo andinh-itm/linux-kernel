@@ -539,3 +539,4 @@ xpc_initiate_partid_to_nasids(short partid, void *nasid_mask)
 	return xp_remote_memcpy(xp_pa(nasid_mask), part_nasid_pa,
 				xpc_nasid_mask_nbytes);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

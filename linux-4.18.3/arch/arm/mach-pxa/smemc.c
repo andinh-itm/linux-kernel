@@ -70,3 +70,4 @@ static int __init smemc_init(void)
 }
 subsys_initcall(smemc_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

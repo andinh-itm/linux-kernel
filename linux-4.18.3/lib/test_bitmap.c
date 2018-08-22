@@ -388,3 +388,4 @@ module_exit(test_bitmap_cleanup);
 
 MODULE_AUTHOR("david decotigny <david.decotigny@googlers.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

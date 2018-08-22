@@ -3224,3 +3224,4 @@ setstack_dss1(struct PStack *st)
 	strcpy(tmp, dss1_revision);
 	printk(KERN_INFO "HiSax: DSS1 Rev. %s\n", HiSax_getrev(tmp));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

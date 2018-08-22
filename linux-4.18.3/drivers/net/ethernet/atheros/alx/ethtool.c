@@ -322,3 +322,4 @@ const struct ethtool_ops alx_ethtool_ops = {
 	.get_link_ksettings	= alx_get_link_ksettings,
 	.set_link_ksettings	= alx_set_link_ksettings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -285,3 +285,4 @@ module_platform_driver(phy_meson8b_usb2_driver);
 MODULE_AUTHOR("Martin Blumenstingl <martin.blumenstingl@googlemail.com>");
 MODULE_DESCRIPTION("Meson8, Meson8b and GXBB USB2 PHY driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

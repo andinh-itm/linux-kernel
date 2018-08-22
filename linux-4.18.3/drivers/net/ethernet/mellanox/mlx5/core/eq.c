@@ -977,3 +977,4 @@ void mlx5_core_eq_free_irqs(struct mlx5_core_dev *dev)
 #endif
 	pci_free_irq_vectors(dev->pdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

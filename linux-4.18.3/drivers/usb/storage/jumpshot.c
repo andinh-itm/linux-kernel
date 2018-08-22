@@ -680,3 +680,4 @@ static struct usb_driver jumpshot_driver = {
 };
 
 module_usb_stor_driver(jumpshot_driver, jumpshot_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

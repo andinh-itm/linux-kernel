@@ -518,3 +518,4 @@ MODULE_DESCRIPTION("Cumana SCSI-2 driver for Acorn machines");
 module_param_array(term, int, NULL, 0);
 MODULE_PARM_DESC(term, "SCSI bus termination");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

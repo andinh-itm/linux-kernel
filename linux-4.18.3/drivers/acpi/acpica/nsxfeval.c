@@ -980,3 +980,4 @@ acpi_get_data(acpi_handle obj_handle, acpi_object_handler handler, void **data)
 }
 
 ACPI_EXPORT_SYMBOL(acpi_get_data)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

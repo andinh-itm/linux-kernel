@@ -1415,3 +1415,4 @@ module_spi_driver(mcr20a_driver);
 MODULE_DESCRIPTION("MCR20A Transceiver Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Xue Liu <liuxuenetmail@gmail>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

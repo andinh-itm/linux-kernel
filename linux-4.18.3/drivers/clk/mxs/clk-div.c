@@ -107,3 +107,4 @@ struct clk *mxs_clk_div(const char *name, const char *parent_name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

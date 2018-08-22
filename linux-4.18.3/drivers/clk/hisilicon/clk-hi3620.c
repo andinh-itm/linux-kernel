@@ -495,3 +495,4 @@ static void __init hi3620_mmc_clk_init(struct device_node *node)
 }
 
 CLK_OF_DECLARE(hi3620_mmc_clk, "hisilicon,hi3620-mmc-clock", hi3620_mmc_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

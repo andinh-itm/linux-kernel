@@ -443,3 +443,4 @@ ergo_inithardware(hysdn_card *card)
 
 	return (0);
 }				/* ergo_inithardware */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

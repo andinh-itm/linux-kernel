@@ -809,3 +809,4 @@ u32 ath_regd_get_band_ctl(struct ath_regulatory *reg,
 	}
 }
 EXPORT_SYMBOL(ath_regd_get_band_ctl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

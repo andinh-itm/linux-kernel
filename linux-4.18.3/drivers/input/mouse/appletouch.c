@@ -1018,3 +1018,4 @@ static struct usb_driver atp_driver = {
 };
 
 module_usb_driver(atp_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

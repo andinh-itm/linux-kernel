@@ -1451,3 +1451,4 @@ MODULE_DEVICE_TABLE(sdio, rsi_dev_table);
 MODULE_FIRMWARE(FIRMWARE_RSI9113);
 MODULE_VERSION("0.1");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

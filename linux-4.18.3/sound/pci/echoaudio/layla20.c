@@ -113,3 +113,4 @@ static struct snd_pcm_hardware pcm_hardware_skel = {
 #include "echoaudio_dsp.c"
 #include "echoaudio.c"
 #include "midi.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

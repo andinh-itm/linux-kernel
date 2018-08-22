@@ -130,3 +130,4 @@ void smp_init_ps3(void)
 	smp_ops = &ps3_smp_ops;
 	DBG(" <- %s\n", __func__);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

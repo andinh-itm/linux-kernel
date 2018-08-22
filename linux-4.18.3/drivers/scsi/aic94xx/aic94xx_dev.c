@@ -361,3 +361,4 @@ void asd_dev_gone(struct domain_device *dev)
 	dev->lldd_dev = NULL;
 	spin_unlock_irqrestore(&asd_ha->hw_prof.ddb_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

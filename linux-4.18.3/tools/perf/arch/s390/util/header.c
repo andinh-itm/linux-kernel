@@ -146,3 +146,4 @@ char *get_cpuid_str(struct perf_pmu *pmu __maybe_unused)
 		zfree(&buf);
 	return buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

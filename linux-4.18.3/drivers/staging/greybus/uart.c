@@ -1062,3 +1062,4 @@ static void gb_uart_driver_exit(void)
 
 module_exit(gb_uart_driver_exit);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

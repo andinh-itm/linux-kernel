@@ -634,3 +634,4 @@ static int __init davinci_gpio_drv_reg(void)
 	return platform_driver_register(&davinci_gpio_driver);
 }
 postcore_initcall(davinci_gpio_drv_reg);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

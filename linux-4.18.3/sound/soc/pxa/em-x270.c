@@ -91,3 +91,4 @@ module_exit(em_x270_exit);
 MODULE_AUTHOR("Mike Rapoport");
 MODULE_DESCRIPTION("ALSA SoC EM-X270, eXeda and CM-X300");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

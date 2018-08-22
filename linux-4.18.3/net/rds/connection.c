@@ -758,3 +758,4 @@ __rds_conn_path_error(struct rds_conn_path *cp, const char *fmt, ...)
 
 	rds_conn_path_drop(cp, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

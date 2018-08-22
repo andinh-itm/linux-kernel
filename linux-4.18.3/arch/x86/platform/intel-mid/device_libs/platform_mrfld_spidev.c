@@ -52,3 +52,4 @@ static const struct devs_id spidev_dev_id __initconst = {
 };
 
 sfi_device(spidev_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

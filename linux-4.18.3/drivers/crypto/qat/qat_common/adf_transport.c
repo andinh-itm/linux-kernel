@@ -564,3 +564,4 @@ void adf_cleanup_etr_data(struct adf_accel_dev *accel_dev)
 	}
 }
 EXPORT_SYMBOL_GPL(adf_cleanup_etr_data);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

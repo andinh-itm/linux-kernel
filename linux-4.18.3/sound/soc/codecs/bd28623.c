@@ -240,3 +240,4 @@ module_platform_driver(bd28623_codec_driver);
 MODULE_AUTHOR("Katsuhiro Suzuki <suzuki.katsuhiro@socionext.com>");
 MODULE_DESCRIPTION("ROHM BD28623 speaker amplifier driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

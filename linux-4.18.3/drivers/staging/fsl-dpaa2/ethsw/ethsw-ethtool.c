@@ -180,3 +180,4 @@ const struct ethtool_ops ethsw_port_ethtool_ops = {
 	.get_ethtool_stats	= ethsw_ethtool_get_stats,
 	.get_sset_count		= ethsw_ethtool_get_sset_count,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

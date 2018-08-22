@@ -304,3 +304,4 @@ u16 esas2r_targ_db_get_tgt_cnt(struct esas2r_adapter *a)
 
 	return devcnt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

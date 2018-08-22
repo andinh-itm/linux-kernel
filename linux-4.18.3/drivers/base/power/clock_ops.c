@@ -643,3 +643,4 @@ void pm_clk_add_notifier(struct bus_type *bus,
 	bus_register_notifier(bus, &clknb->nb);
 }
 EXPORT_SYMBOL_GPL(pm_clk_add_notifier);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -446,3 +446,4 @@ void brcmf_fweh_process_event(struct brcmf_pub *drvr,
 
 	brcmf_fweh_queue_event(fweh, event);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

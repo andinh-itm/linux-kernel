@@ -596,3 +596,4 @@ void sas_init_disc(struct sas_discovery *disc, struct asd_sas_port *port)
 		disc->disc_work[i].port = port;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

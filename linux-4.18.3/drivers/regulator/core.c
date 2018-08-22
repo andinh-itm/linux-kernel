@@ -4859,3 +4859,4 @@ static int __init regulator_init_complete(void)
 	return 0;
 }
 late_initcall_sync(regulator_init_complete);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

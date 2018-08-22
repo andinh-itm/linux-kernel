@@ -1103,3 +1103,4 @@ void process(FILE *fp, int use_real_mode, int as_text,
 	}
 	emit_relocs(as_text, use_real_mode);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -582,3 +582,4 @@ MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("GPIO Driven Matrix Keypad Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:matrix-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

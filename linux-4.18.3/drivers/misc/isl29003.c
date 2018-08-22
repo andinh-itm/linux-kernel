@@ -485,3 +485,4 @@ MODULE_AUTHOR("Daniel Mack <daniel@caiaq.de>");
 MODULE_DESCRIPTION("ISL29003 ambient light sensor driver");
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION(DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

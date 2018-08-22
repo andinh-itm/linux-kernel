@@ -104,3 +104,4 @@ void __init time_init(void)
 	if (mips_clockevent_init() != 0 || !cpu_has_mfc0_count_bug())
 		init_mips_clocksource();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -50,3 +50,4 @@ void cpuidle_poll_state_init(struct cpuidle_driver *drv)
 	state->flags = CPUIDLE_FLAG_POLLING;
 }
 EXPORT_SYMBOL_GPL(cpuidle_poll_state_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

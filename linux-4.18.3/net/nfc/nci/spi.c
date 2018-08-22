@@ -329,3 +329,4 @@ done:
 EXPORT_SYMBOL_GPL(nci_spi_read);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

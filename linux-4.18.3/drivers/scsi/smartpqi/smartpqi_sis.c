@@ -437,3 +437,4 @@ static void __attribute__((unused)) verify_structures(void)
 		error_buffer_num_elements) != 0x14);
 	BUILD_BUG_ON(sizeof(struct sis_base_struct) != 0x18);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

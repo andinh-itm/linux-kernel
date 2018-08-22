@@ -203,3 +203,4 @@ void prepare_pri2_functions(PISDN_ADAPTER IoAdapter) {
 	diva_os_prepare_pri2_functions(IoAdapter);
 }
 /* ------------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

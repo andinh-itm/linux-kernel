@@ -355,3 +355,4 @@ module_platform_driver_probe(mc13xxx_rtc_driver, &mc13xxx_rtc_probe);
 MODULE_AUTHOR("Sascha Hauer <s.hauer@pengutronix.de>");
 MODULE_DESCRIPTION("RTC driver for Freescale MC13XXX PMIC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

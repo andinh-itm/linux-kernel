@@ -505,3 +505,4 @@ module_exit(serial21285_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Intel Footbridge (21285) serial driver");
 MODULE_ALIAS_CHARDEV(SERIAL_21285_MAJOR, SERIAL_21285_MINOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

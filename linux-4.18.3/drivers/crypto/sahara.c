@@ -1578,3 +1578,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Javier Martin <javier.martin@vista-silicon.com>");
 MODULE_AUTHOR("Steffen Trumtrar <s.trumtrar@pengutronix.de>");
 MODULE_DESCRIPTION("SAHARA2 HW crypto accelerator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -396,3 +396,4 @@ void omap3isp_h3a_af_cleanup(struct isp_device *isp)
 {
 	omap3isp_stat_cleanup(&isp->isp_af);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

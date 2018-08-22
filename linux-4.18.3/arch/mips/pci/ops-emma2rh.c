@@ -178,3 +178,4 @@ struct pci_ops emma2rh_pci_ops = {
 	.read = pci_config_read,
 	.write = pci_config_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

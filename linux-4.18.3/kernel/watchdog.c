@@ -785,3 +785,4 @@ void __init lockup_detector_init(void)
 		nmi_watchdog_available = true;
 	lockup_detector_setup();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

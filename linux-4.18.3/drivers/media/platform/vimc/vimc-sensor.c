@@ -457,3 +457,4 @@ MODULE_DEVICE_TABLE(platform, vimc_sen_driver_ids);
 MODULE_DESCRIPTION("Virtual Media Controller Driver (VIMC) Sensor");
 MODULE_AUTHOR("Helen Mae Koike Fornazier <helen.fornazier@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

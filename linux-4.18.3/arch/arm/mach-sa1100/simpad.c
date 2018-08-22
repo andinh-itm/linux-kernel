@@ -422,3 +422,4 @@ MACHINE_START(SIMPAD, "Simpad")
 	.init_time	= sa1100_timer_init,
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

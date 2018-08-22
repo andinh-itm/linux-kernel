@@ -337,3 +337,4 @@ module_platform_driver_probe(mc13783_adc_driver, mc13783_adc_probe);
 MODULE_DESCRIPTION("MC13783 ADC driver");
 MODULE_AUTHOR("Luotao Fu <l.fu@pengutronix.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -601,3 +601,4 @@ module_usb_driver(ipheth_driver);
 MODULE_AUTHOR("Diego Giagio <diego@giagio.com>");
 MODULE_DESCRIPTION("Apple iPhone USB Ethernet driver");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

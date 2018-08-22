@@ -1350,3 +1350,4 @@ MODULE_LICENSE("GPL");
 
 module_init(pc87427_init);
 module_exit(pc87427_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

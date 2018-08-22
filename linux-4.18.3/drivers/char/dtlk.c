@@ -661,3 +661,4 @@ static char dtlk_write_tts(char ch)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -464,3 +464,4 @@ static struct usb_driver usb_ma901radio_driver = {
 };
 
 module_usb_driver(usb_ma901radio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

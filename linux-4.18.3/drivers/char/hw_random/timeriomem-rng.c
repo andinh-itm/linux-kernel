@@ -214,3 +214,4 @@ module_platform_driver(timeriomem_rng_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Clouter <alex@digriz.org.uk>");
 MODULE_DESCRIPTION("Timer IOMEM H/W RNG driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

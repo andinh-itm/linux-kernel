@@ -63,3 +63,4 @@ void __init startup_init_nobss(void)
 	rescue_initrd();
 	clear_bss_section();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -495,3 +495,4 @@ static struct platform_driver vesafb_driver = {
 
 module_platform_driver(vesafb_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

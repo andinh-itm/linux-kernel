@@ -2511,3 +2511,4 @@ int jfs_lmstats_proc_show(struct seq_file *m, void *v)
 	return 0;
 }
 #endif /* CONFIG_JFS_STATISTICS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

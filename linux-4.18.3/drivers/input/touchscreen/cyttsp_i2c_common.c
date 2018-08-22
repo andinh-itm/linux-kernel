@@ -93,3 +93,4 @@ EXPORT_SYMBOL_GPL(cyttsp_i2c_write_block_data);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Cypress");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -165,3 +165,4 @@ struct cvmx_boot_vector_element *cvmx_boot_vector_get(void)
 	return ret;
 }
 EXPORT_SYMBOL(cvmx_boot_vector_get);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

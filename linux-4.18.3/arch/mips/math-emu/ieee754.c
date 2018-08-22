@@ -94,3 +94,4 @@ const union ieee754sp __ieee754sp_spcvals[] = {
 	SPCNST(0, 31,	       0x000000),	/* + 1.0e31 */
 	SPCNST(0, 63,	       0x000000),	/* + 1.0e63 */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

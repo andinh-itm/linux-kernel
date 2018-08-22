@@ -416,3 +416,4 @@ module_platform_driver(ktd2692_driver);
 MODULE_AUTHOR("Ingi Kim <ingi2.kim@samsung.com>");
 MODULE_DESCRIPTION("Kinetic KTD2692 LED driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

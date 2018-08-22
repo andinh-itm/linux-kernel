@@ -217,3 +217,4 @@ EXPORT_SYMBOL(s3fwrn5_recv_frame);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Samsung S3FWRN5 NFC driver");
 MODULE_AUTHOR("Robert Baldyga <r.baldyga@samsung.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

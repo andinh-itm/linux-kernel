@@ -1900,3 +1900,4 @@ static void alarm_sig_handler(int sig __maybe_unused)
 	if (switch_output_time(rec))
 		trigger_hit(&switch_output_trigger);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

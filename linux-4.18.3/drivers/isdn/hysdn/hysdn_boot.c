@@ -396,3 +396,4 @@ EvalSysrTokData(hysdn_card *card, unsigned char *cp, int len)
 	hysdn_addlog(card, "no end token found");
 	return (1);
 }				/* EvalSysrTokData */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

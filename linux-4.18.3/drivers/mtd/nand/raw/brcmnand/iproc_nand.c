@@ -158,3 +158,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Brian Norris");
 MODULE_AUTHOR("Ray Jui");
 MODULE_DESCRIPTION("NAND driver for Broadcom IPROC-based SoCs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

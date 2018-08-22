@@ -1003,3 +1003,4 @@ int snd_vx_mixer_new(struct vx_core *chip)
 	vx_reset_audio_levels(chip);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

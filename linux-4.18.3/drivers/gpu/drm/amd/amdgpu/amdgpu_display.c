@@ -876,3 +876,4 @@ int amdgpu_display_crtc_idx_to_irq_type(struct amdgpu_device *adev, int crtc)
 		return AMDGPU_CRTC_IRQ_NONE;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

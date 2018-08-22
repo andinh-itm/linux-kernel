@@ -207,3 +207,4 @@ void intelfb_delete_i2c_busses(struct intelfb_info *dinfo)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

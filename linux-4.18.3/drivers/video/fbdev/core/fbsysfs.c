@@ -577,3 +577,4 @@ void fb_bl_default_curve(struct fb_info *fb_info, u8 off, u8 min, u8 max)
 }
 EXPORT_SYMBOL_GPL(fb_bl_default_curve);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

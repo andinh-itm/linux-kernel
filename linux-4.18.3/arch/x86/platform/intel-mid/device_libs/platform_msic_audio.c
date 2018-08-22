@@ -44,3 +44,4 @@ static const struct devs_id msic_audio_dev_id __initconst = {
 };
 
 sfi_device(msic_audio_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

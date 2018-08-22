@@ -281,3 +281,4 @@ static struct platform_driver sun9i_a80_de_clk_driver = {
 	},
 };
 builtin_platform_driver(sun9i_a80_de_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

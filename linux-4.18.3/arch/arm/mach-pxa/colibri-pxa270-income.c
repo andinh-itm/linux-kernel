@@ -228,3 +228,4 @@ void __init colibri_pxa270_income_boardinit(void)
 	income_pwm_init();
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

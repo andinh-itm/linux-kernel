@@ -188,3 +188,4 @@ int snd_dice_create_hwdep(struct snd_dice *dice)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

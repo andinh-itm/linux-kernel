@@ -304,3 +304,4 @@ MODULE_DESCRIPTION("GPIO-based I2C multiplexer driver");
 MODULE_AUTHOR("Peter Korsgaard <peter.korsgaard@barco.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:i2c-mux-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

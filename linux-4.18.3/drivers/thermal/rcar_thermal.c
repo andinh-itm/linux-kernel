@@ -663,3 +663,4 @@ module_platform_driver(rcar_thermal_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("R-Car THS/TSC thermal sensor driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

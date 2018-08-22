@@ -366,3 +366,4 @@ asmlinkage void plat_irq_dispatch(void)
 	else
 		do_IRQ(MIPS_CPU_IRQ_BASE + ip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -188,3 +188,4 @@ void __init plat_time_init(void)
 	pr_info("CPU Clock: %ldMHz\n", clk_get_rate(clk) / 1000000);
 	clk_put(clk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

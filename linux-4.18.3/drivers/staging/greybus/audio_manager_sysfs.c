@@ -99,3 +99,4 @@ void gb_audio_manager_sysfs_init(struct kobject *kobj)
 	manager_sysfs_init_attribute(kobj, &manager_remove_attribute);
 	manager_sysfs_init_attribute(kobj, &manager_dump_attribute);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

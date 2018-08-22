@@ -1808,3 +1808,4 @@ module_exit(mxs_auart_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Freescale MXS application uart driver");
 MODULE_ALIAS("platform:mxs-auart");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

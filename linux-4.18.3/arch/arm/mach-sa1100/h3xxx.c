@@ -332,3 +332,4 @@ void __init h3xxx_map_io(void)
 	GPDR = 0;		/* Configure all GPIOs as input */
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

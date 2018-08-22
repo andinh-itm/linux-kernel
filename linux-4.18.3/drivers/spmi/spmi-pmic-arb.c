@@ -1331,3 +1331,4 @@ module_platform_driver(spmi_pmic_arb_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:spmi_pmic_arb");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

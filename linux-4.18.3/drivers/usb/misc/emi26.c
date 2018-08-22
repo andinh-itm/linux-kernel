@@ -257,3 +257,4 @@ MODULE_FIRMWARE("emi26/bitstream.fw");
 MODULE_FIRMWARE("emi26/firmware.fw");
 /* vi:ai:syntax=c:sw=8:ts=8:tw=80
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

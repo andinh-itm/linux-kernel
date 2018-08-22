@@ -273,3 +273,4 @@ module_exit(activity_exit);
 MODULE_AUTHOR("Willy Tarreau <w@1wt.eu>");
 MODULE_DESCRIPTION("Activity LED trigger");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

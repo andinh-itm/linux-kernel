@@ -390,3 +390,4 @@ bool amdgpu_fbdev_robj_is_fb(struct amdgpu_device *adev, struct amdgpu_bo *robj)
 		return true;
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

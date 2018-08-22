@@ -252,3 +252,4 @@ static struct isa_driver snd_sb8_driver = {
 };
 
 module_isa_driver(snd_sb8_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

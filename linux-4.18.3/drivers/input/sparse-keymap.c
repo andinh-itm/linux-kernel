@@ -295,3 +295,4 @@ bool sparse_keymap_report_event(struct input_dev *dev, unsigned int code,
 }
 EXPORT_SYMBOL(sparse_keymap_report_event);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

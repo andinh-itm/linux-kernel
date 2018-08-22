@@ -812,3 +812,4 @@ __init int init_function_trace(void)
 	init_func_cmd_traceon();
 	return register_tracer(&function_trace);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

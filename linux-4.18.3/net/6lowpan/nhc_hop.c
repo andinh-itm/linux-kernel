@@ -25,3 +25,4 @@ LOWPAN_NHC(nhc_hop, "RFC6282 Hop-by-Hop Options", NEXTHDR_HOP, 0,
 module_lowpan_nhc(nhc_hop);
 MODULE_DESCRIPTION("6LoWPAN next header RFC6282 Hop-by-Hop Options compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

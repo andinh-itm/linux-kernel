@@ -121,3 +121,4 @@ EXPORT_SYMBOL(cns3xxx_cpu_clock);
 
 atomic_t usb_pwr_ref = ATOMIC_INIT(0);
 EXPORT_SYMBOL(usb_pwr_ref);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1741,3 +1741,4 @@ void cpu_clear_disr(const struct arm64_cpu_capabilities *__unused)
 	/* Firmware may have left a deferred SError in this register. */
 	write_sysreg_s(0, SYS_DISR_EL1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

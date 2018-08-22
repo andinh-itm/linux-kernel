@@ -237,3 +237,4 @@ __init void sysfb_apply_efi_quirks(void)
 	    !(screen_info.capabilities & VIDEO_CAPABILITY_SKIP_QUIRKS))
 		dmi_check_system(efifb_dmi_system_table);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

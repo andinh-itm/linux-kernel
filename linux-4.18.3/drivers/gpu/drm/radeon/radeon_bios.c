@@ -705,3 +705,4 @@ free_bios:
 	rdev->bios = NULL;
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

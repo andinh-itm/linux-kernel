@@ -230,3 +230,4 @@ MODULE_AUTHOR("Martin Liska <marxin.liska@gmail.com>");
 MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_DESCRIPTION("ACPI Ambient Light Sensor Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

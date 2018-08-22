@@ -403,3 +403,4 @@ module_platform_driver(sh4_ssi_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SuperH onchip SSI (I2S) audio driver");
 MODULE_AUTHOR("Manuel Lauss <mano@roarinelk.homelinux.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

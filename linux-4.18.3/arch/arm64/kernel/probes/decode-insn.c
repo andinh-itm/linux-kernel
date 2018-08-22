@@ -171,3 +171,4 @@ arm_kprobe_decode_insn(kprobe_opcode_t *addr, struct arch_specific_insn *asi)
 	return decoded;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

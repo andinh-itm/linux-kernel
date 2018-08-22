@@ -550,3 +550,4 @@ static struct usbmix_ctl_map uac3_badd_usbmix_ctl_maps[] = {
 	},
 	{ 0 } /* terminator */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

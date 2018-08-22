@@ -41,3 +41,4 @@ void __init imx27_pm_init(void)
 {
 	suspend_set_ops(&mx27_suspend_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

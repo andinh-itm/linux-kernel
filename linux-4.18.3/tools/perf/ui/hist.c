@@ -820,3 +820,4 @@ int perf_hpp__setup_hists_formats(struct perf_hpp_list *list,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

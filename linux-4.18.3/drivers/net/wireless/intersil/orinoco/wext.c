@@ -1411,3 +1411,4 @@ const struct iw_handler_def orinoco_handler_def = {
 	.private_args = orinoco_privtab,
 	.get_wireless_stats = orinoco_get_wireless_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

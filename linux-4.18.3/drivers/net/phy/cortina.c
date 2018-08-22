@@ -108,3 +108,4 @@ MODULE_DEVICE_TABLE(mdio, cortina_tbl);
 MODULE_DESCRIPTION("Cortina EDC CDR 10G Ethernet PHY driver");
 MODULE_AUTHOR("NXP");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

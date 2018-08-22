@@ -1028,3 +1028,4 @@ uint64_t mtd_get_device_size(const struct mtd_info *mtd)
 	return mtd_get_device_size(mtd_to_part(mtd)->parent);
 }
 EXPORT_SYMBOL_GPL(mtd_get_device_size);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

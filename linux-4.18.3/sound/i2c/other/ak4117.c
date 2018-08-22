@@ -545,3 +545,4 @@ EXPORT_SYMBOL(snd_ak4117_reinit);
 EXPORT_SYMBOL(snd_ak4117_build);
 EXPORT_SYMBOL(snd_ak4117_external_rate);
 EXPORT_SYMBOL(snd_ak4117_check_rate_and_errors);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

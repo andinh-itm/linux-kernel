@@ -430,3 +430,4 @@ static struct platform_driver sr_clk_driver = {
 	.probe = sr_clk_probe,
 };
 builtin_platform_driver(sr_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

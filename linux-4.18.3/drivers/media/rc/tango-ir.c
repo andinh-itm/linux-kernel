@@ -279,3 +279,4 @@ module_platform_driver(tango_ir_driver);
 MODULE_DESCRIPTION("SMP86xx IR decoder driver");
 MODULE_AUTHOR("Mans Rullgard <mans@mansr.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -298,3 +298,4 @@ module_platform_driver(mtk_disp_pwm_driver);
 MODULE_AUTHOR("YH Huang <yh.huang@mediatek.com>");
 MODULE_DESCRIPTION("MediaTek SoC display PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

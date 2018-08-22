@@ -374,3 +374,4 @@ MODULE_LICENSE("GPL");
 
 module_init(us2e_freq_init);
 module_exit(us2e_freq_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

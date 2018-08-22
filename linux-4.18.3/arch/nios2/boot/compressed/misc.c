@@ -185,3 +185,4 @@ void decompress_kernel(void)
 	gunzip();
 	puts("Ok, booting the kernel.\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

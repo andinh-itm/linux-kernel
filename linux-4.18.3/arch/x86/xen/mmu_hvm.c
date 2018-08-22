@@ -78,3 +78,4 @@ void __init xen_hvm_init_mmu_ops(void)
 	WARN_ON(register_oldmem_pfn_is_ram(&xen_oldmem_pfn_is_ram));
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

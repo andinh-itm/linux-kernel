@@ -385,3 +385,4 @@ void *get_fdt(efi_system_table_t *sys_table, unsigned long *fdt_size)
 
 	return fdt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

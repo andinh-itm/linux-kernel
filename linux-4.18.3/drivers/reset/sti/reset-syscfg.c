@@ -207,3 +207,4 @@ int syscfg_reset_probe(struct platform_device *pdev)
 
 	return syscfg_reset_controller_register(dev, match->data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

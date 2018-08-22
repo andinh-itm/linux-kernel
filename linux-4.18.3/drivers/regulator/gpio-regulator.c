@@ -428,3 +428,4 @@ MODULE_AUTHOR("Heiko Stuebner <heiko@sntech.de>");
 MODULE_DESCRIPTION("gpio voltage regulator");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:gpio-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

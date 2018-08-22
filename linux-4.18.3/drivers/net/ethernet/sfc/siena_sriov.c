@@ -1686,3 +1686,4 @@ int efx_siena_sriov_configure(struct efx_nic *efx, int num_vfs)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

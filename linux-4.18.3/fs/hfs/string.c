@@ -112,3 +112,4 @@ int hfs_compare_dentry(const struct dentry *dentry,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

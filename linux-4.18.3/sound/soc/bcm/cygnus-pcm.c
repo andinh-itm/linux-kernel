@@ -858,3 +858,4 @@ int cygnus_soc_platform_unregister(struct device *dev)
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Broadcom");
 MODULE_DESCRIPTION("Cygnus ASoC PCM module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

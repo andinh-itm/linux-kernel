@@ -612,3 +612,4 @@ static struct platform_driver atmel_ebi_driver = {
 	},
 };
 builtin_platform_driver_probe(atmel_ebi_driver, atmel_ebi_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

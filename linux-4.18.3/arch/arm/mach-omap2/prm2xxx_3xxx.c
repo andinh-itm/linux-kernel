@@ -238,3 +238,4 @@ int omap2_clkdm_clear_all_wkdeps(struct clockdomain *clkdm)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

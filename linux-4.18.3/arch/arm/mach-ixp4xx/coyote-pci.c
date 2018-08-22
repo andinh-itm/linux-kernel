@@ -62,3 +62,4 @@ int __init coyote_pci_init(void)
 }
 
 subsys_initcall(coyote_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

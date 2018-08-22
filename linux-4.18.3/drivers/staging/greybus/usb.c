@@ -243,3 +243,4 @@ static struct gbphy_driver usb_driver = {
 
 module_gbphy_driver(usb_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

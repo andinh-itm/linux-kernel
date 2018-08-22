@@ -619,3 +619,4 @@ void __init sh5_cache_init(void)
 
 	sh4__flush_region_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

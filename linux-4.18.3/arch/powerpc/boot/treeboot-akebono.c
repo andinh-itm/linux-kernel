@@ -161,3 +161,4 @@ void platform_init(char *userdata)
 
 	serial_console_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

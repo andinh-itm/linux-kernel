@@ -350,3 +350,4 @@ module_i2c_driver(rfd77402_driver);
 MODULE_AUTHOR("Peter Meerwald-Stadler <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("RFD77402 Time-of-Flight sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

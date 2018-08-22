@@ -94,3 +94,4 @@ module_exit(act8945a_i2c_exit);
 MODULE_DESCRIPTION("ACT8945A PMIC multi-function driver");
 MODULE_AUTHOR("Wenyou Yang <wenyou.yang@atmel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

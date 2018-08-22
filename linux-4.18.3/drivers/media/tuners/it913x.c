@@ -464,3 +464,4 @@ module_platform_driver(it913x_driver);
 MODULE_DESCRIPTION("ITE IT913X silicon tuner driver");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

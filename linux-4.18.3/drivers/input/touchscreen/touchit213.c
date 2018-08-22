@@ -216,3 +216,4 @@ static struct serio_driver touchit213_drv = {
 };
 
 module_serio_driver(touchit213_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

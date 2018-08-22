@@ -2234,3 +2234,4 @@ void isp1760_hcd_unregister(struct isp1760_hcd *priv)
 	usb_remove_hcd(priv->hcd);
 	usb_put_hcd(priv->hcd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

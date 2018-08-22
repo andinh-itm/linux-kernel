@@ -223,3 +223,4 @@ void __init txx9_tmr_init(unsigned long baseaddr)
 	__raw_writel(0, &tmrptr->pgmr);
 	iounmap(tmrptr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

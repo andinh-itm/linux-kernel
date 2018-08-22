@@ -152,3 +152,4 @@ module_platform_driver(sc27xx_vibra_driver);
 MODULE_DESCRIPTION("Spreadtrum SC27xx Vibrator Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Xiaotong Lu <xiaotong.lu@spreadtrum.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

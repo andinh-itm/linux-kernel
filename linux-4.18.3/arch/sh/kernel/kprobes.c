@@ -583,3 +583,4 @@ int __init arch_init_kprobes(void)
 {
 	return register_kprobe(&trampoline_p);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

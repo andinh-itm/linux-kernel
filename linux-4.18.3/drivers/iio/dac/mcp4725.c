@@ -558,3 +558,4 @@ module_i2c_driver(mcp4725_driver);
 MODULE_AUTHOR("Peter Meerwald <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("MCP4725/6 12-bit DAC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

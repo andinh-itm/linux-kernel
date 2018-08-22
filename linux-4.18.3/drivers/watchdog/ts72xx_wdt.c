@@ -177,3 +177,4 @@ MODULE_AUTHOR("Mika Westerberg <mika.westerberg@iki.fi>");
 MODULE_DESCRIPTION("TS-72xx SBC Watchdog");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ts72xx-wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

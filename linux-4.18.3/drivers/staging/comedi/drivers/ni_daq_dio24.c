@@ -80,3 +80,4 @@ MODULE_AUTHOR("Daniel Vecino Castel <dvecino@able.es>");
 MODULE_DESCRIPTION(
 	"Comedi driver for National Instruments PCMCIA DAQ-Card DIO-24");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

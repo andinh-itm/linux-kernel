@@ -1135,3 +1135,4 @@ module_i2c_driver(cs53l30_i2c_driver);
 MODULE_DESCRIPTION("ASoC CS53L30 driver");
 MODULE_AUTHOR("Paul Handrigan, Cirrus Logic Inc, <Paul.Handrigan@cirrus.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

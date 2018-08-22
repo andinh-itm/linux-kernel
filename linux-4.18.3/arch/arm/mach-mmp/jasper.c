@@ -186,3 +186,4 @@ MACHINE_START(MARVELL_JASPER, "Jasper Development Platform")
 	.init_machine   = jasper_init,
 	.restart	= mmp_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

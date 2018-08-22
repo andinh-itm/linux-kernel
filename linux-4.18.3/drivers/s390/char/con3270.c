@@ -647,3 +647,4 @@ con3270_init(void)
 }
 
 console_initcall(con3270_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

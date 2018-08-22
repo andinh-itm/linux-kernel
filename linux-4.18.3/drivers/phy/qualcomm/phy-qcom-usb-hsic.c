@@ -157,3 +157,4 @@ module_ulpi_driver(qcom_usb_hsic_phy_driver);
 
 MODULE_DESCRIPTION("Qualcomm USB HSIC phy");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

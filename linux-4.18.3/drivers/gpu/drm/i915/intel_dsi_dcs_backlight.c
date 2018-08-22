@@ -175,3 +175,4 @@ int intel_dsi_dcs_init_backlight_funcs(struct intel_connector *intel_connector)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

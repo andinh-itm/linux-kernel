@@ -2911,3 +2911,4 @@ module_platform_driver(atmel_sha_driver);
 MODULE_DESCRIPTION("Atmel SHA (1/256/224/384/512) hw acceleration support.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Nicolas Royer - Eukréa Electromatique");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

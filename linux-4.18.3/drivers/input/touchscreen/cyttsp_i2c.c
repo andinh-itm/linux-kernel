@@ -76,3 +76,4 @@ module_i2c_driver(cyttsp_i2c_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Cypress TrueTouch(R) Standard Product (TTSP) I2C driver");
 MODULE_AUTHOR("Cypress");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

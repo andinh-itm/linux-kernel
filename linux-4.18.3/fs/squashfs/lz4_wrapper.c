@@ -140,3 +140,4 @@ const struct squashfs_decompressor squashfs_lz4_comp_ops = {
 	.name = "lz4",
 	.supported = 1
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

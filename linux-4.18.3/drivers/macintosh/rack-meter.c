@@ -618,3 +618,4 @@ module_exit(rackmeter_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Benjamin Herrenschmidt <benh@kernel.crashing.org>");
 MODULE_DESCRIPTION("RackMeter: Support vu-meter on XServe front panel");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -315,3 +315,4 @@ MODULE_AUTHOR("Rudolf Marek <r.marek@assembler.cz>");
 
 MODULE_DESCRIPTION("hwmon-vid driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

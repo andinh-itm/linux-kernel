@@ -104,3 +104,4 @@ int pick_online_cpu(void)
 	printf("No cpus in affinity mask?!\n");
 	return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

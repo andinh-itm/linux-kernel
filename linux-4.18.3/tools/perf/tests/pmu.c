@@ -175,3 +175,4 @@ int test__pmu(struct test *test __maybe_unused, int subtest __maybe_unused)
 	test_format_dir_put(format);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

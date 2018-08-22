@@ -656,3 +656,4 @@ module_platform_driver(xtfpga_i2s_driver);
 MODULE_AUTHOR("Max Filippov <jcmvbkbc@gmail.com>");
 MODULE_DESCRIPTION("xtfpga I2S controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

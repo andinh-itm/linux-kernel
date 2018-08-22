@@ -83,3 +83,4 @@ static void __init tango4_clkgen_setup(struct device_node *np)
 		panic("%s: clk provider registration failed\n", np->name);
 }
 CLK_OF_DECLARE(tango4_clkgen, "sigma,tango4-clkgen", tango4_clkgen_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

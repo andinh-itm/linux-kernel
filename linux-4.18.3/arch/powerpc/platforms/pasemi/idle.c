@@ -103,3 +103,4 @@ static int __init idle_param(char *p)
 }
 
 early_param("idle", idle_param);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

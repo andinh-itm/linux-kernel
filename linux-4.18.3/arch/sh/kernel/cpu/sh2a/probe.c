@@ -58,3 +58,4 @@ void cpu_probe(void)
 	 */
 	boot_cpu_data.icache		= boot_cpu_data.dcache;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

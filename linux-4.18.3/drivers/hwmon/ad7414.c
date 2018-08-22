@@ -239,3 +239,4 @@ MODULE_AUTHOR("Stefan Roese <sr at denx.de>, "
 
 MODULE_DESCRIPTION("AD7414 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

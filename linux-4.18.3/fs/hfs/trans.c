@@ -148,3 +148,4 @@ out:
 	while (--dstlen >= 0)
 		*dst++ = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

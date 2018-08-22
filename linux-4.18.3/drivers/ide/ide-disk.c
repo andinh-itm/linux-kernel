@@ -796,3 +796,4 @@ const struct ide_disk_ops ide_ata_disk_ops = {
 	.do_request		= ide_do_rw_disk,
 	.ioctl			= ide_disk_ioctl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

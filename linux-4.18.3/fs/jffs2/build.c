@@ -427,3 +427,4 @@ int jffs2_do_mount_fs(struct jffs2_sb_info *c)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -761,3 +761,4 @@ struct platform_driver mtk_dpi_driver = {
 		.of_match_table = mtk_dpi_of_ids,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

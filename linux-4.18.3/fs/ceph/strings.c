@@ -126,3 +126,4 @@ const char *ceph_snap_op_name(int o)
 	}
 	return "???";
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -350,3 +350,4 @@ static struct platform_driver dc_pinctrl_driver = {
 	.probe = dc_pinctrl_probe,
 };
 builtin_platform_driver(dc_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

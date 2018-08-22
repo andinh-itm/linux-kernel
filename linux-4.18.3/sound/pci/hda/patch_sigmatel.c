@@ -5174,3 +5174,4 @@ static struct hda_codec_driver sigmatel_driver = {
 };
 
 module_hda_codec_driver(sigmatel_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

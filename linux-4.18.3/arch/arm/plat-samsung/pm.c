@@ -197,3 +197,4 @@ int __init s3c_pm_init(void)
 	suspend_set_ops(&s3c_pm_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -569,3 +569,4 @@ bool cm_helper_translate_curve_to_degamma_hw_format(
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

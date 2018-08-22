@@ -214,3 +214,4 @@ MODULE_AUTHOR("Andreas Werner <andreas.werner@men.de>");
 MODULE_DESCRIPTION("MEN 16z127 GPIO Controller");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("mcb:16z127");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

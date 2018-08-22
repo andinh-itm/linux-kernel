@@ -130,3 +130,4 @@ nv50_gpio_new(struct nvkm_device *device, int index, struct nvkm_gpio **pgpio)
 {
 	return nvkm_gpio_new_(&nv50_gpio, device, index, pgpio);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

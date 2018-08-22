@@ -302,3 +302,4 @@ static struct i2c_driver atxp1_driver = {
 };
 
 module_i2c_driver(atxp1_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

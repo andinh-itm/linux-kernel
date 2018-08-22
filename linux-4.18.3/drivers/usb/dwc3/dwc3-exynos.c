@@ -290,3 +290,4 @@ module_platform_driver(dwc3_exynos_driver);
 MODULE_AUTHOR("Anton Tikhomirov <av.tikhomirov@samsung.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("DesignWare USB3 EXYNOS Glue Layer");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

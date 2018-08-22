@@ -155,3 +155,4 @@ MODULE_ALIAS_CRYPTO("ghash");
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("GHASH Message Digest Algorithm, s390 implementation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

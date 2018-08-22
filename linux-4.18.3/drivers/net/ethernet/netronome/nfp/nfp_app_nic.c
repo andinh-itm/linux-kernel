@@ -72,3 +72,4 @@ int nfp_app_nic_vnic_alloc(struct nfp_app *app, struct nfp_net *nn,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

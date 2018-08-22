@@ -790,3 +790,4 @@ module_platform_driver(sprd_platform_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Spreadtrum SoC serial driver series");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

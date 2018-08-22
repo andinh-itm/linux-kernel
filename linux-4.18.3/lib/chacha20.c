@@ -72,3 +72,4 @@ void chacha20_block(u32 *state, u32 *stream)
 	state[12]++;
 }
 EXPORT_SYMBOL(chacha20_block);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -184,3 +184,4 @@ static struct platform_driver sun6i_prcm_driver = {
 	.probe = sun6i_prcm_probe,
 };
 builtin_platform_driver(sun6i_prcm_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

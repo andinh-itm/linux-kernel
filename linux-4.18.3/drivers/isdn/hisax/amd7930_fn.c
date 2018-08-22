@@ -792,3 +792,4 @@ void setup_Amd7930(struct IsdnCardState *cs)
 	INIT_WORK(&cs->tqueue, Amd7930_bh);
 	timer_setup(&cs->dbusytimer, dbusy_timer_handler, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

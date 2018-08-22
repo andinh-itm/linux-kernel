@@ -208,3 +208,4 @@ MODULE_AUTHOR("Liam Girdwood, Xingchao Wang");
 MODULE_DESCRIPTION("Intel SST Audio for Haswell Lynxpoint");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:haswell-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

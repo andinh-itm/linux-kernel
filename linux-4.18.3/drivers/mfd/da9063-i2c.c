@@ -296,3 +296,4 @@ static struct i2c_driver da9063_i2c_driver = {
 };
 
 module_i2c_driver(da9063_i2c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

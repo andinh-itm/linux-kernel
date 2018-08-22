@@ -1150,3 +1150,4 @@ module_exit(lbs_exit_module);
 MODULE_DESCRIPTION("Libertas WLAN Driver Library");
 MODULE_AUTHOR("Marvell International Ltd.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

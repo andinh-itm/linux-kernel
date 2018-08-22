@@ -343,3 +343,4 @@ bool cirrus_check_framebuffer(struct cirrus_device *cdev, int width, int height,
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -853,3 +853,4 @@ struct fc_function_template zfcp_transport_functions = {
 	.show_host_port_id = 1,
 	.dd_bsg_size = sizeof(struct zfcp_fsf_ct_els),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

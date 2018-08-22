@@ -607,3 +607,4 @@ MODULE_PARM_DESC(polling_frequency, "Polling timer frequency in ns");
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dariusz Marcinkiewicz <reksio@newterm.pl>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -129,3 +129,4 @@ struct rmi_function_handler rmi_f55_handler = {
 	.func = 0x55,
 	.probe = rmi_f55_probe,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -299,3 +299,4 @@ gf100_fifo_gpfifo_oclass = {
 	.base.maxver = 0,
 	.ctor = gf100_fifo_gpfifo_new,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

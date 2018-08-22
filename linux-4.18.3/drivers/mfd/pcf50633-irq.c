@@ -312,3 +312,4 @@ void pcf50633_irq_free(struct pcf50633 *pcf)
 {
 	free_irq(pcf->irq, pcf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

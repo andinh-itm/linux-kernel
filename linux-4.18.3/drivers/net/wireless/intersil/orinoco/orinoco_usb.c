@@ -1754,3 +1754,4 @@ module_usb_driver(orinoco_driver);
 MODULE_AUTHOR("Manuel Estrada Sainz");
 MODULE_DESCRIPTION("Driver for Orinoco wireless LAN cards using EZUSB bridge");
 MODULE_LICENSE("Dual MPL/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1162,3 +1162,4 @@ MODULE_DESCRIPTION("Xen SCSI frontend driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("xen:vscsi");
 MODULE_AUTHOR("Juergen Gross <jgross@suse.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

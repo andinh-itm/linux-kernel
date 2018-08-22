@@ -63,3 +63,4 @@ define_machine(walnut) {
 	.restart		= ppc4xx_reset_system,
 	.calibrate_decr		= generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

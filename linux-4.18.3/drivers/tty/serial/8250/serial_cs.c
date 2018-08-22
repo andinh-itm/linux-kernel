@@ -863,3 +863,4 @@ static struct pcmcia_driver serial_cs_driver = {
 module_pcmcia_driver(serial_cs_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

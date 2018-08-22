@@ -870,3 +870,4 @@ module_platform_driver(axp288_charger_driver);
 MODULE_AUTHOR("Ramakrishna Pallala <ramakrishna.pallala@intel.com>");
 MODULE_DESCRIPTION("X-power AXP288 Charger Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

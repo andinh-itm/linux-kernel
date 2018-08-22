@@ -324,3 +324,4 @@ void __init omap_gic_of_init(void)
 skip_errata_init:
 	irqchip_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

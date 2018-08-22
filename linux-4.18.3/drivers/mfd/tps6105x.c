@@ -205,3 +205,4 @@ module_exit(tps6105x_exit);
 MODULE_AUTHOR("Linus Walleij");
 MODULE_DESCRIPTION("TPS6105x White LED Boost Converter Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

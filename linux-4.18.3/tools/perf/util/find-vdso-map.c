@@ -29,3 +29,4 @@ static int find_vdso_map(void **start, void **end)
 	fclose(maps);
 	return !found;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

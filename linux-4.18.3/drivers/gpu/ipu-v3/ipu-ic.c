@@ -799,3 +799,4 @@ void ipu_ic_dump(struct ipu_ic *ic)
 		ipu_ic_read(ic, IC_IDMAC_4));
 }
 EXPORT_SYMBOL_GPL(ipu_ic_dump);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

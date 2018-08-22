@@ -94,3 +94,4 @@ static void __exit string_mt_exit(void)
 
 module_init(string_mt_init);
 module_exit(string_mt_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

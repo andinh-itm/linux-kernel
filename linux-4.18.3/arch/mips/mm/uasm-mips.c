@@ -274,3 +274,4 @@ __resolve_relocs(struct uasm_reloc *rel, struct uasm_label *lab)
 		      rel->type);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

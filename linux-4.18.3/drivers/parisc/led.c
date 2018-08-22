@@ -777,3 +777,4 @@ static void __exit led_exit(void)
 #ifdef CONFIG_PROC_FS
 module_init(led_create_procfs)
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

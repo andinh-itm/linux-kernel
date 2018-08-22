@@ -132,3 +132,4 @@ int comedi_check_chanlist(struct comedi_subdevice *s, int n,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(comedi_check_chanlist);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -494,3 +494,4 @@ const struct ef4_phy_operations falcon_qt202x_phy_ops = {
 	.get_module_eeprom = qt202x_phy_get_module_eeprom,
 	.get_module_info = qt202x_phy_get_module_info,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

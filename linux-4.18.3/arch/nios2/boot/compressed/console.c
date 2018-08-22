@@ -123,3 +123,4 @@ static int puts(const char *s)
 		putchar(*s++);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

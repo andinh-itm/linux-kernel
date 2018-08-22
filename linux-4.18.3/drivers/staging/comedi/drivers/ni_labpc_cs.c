@@ -110,3 +110,4 @@ module_comedi_pcmcia_driver(driver_labpc_cs, labpc_cs_driver);
 MODULE_DESCRIPTION("Comedi driver for National Instruments Lab-PC");
 MODULE_AUTHOR("Frank Mori Hess <fmhess@users.sourceforge.net>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

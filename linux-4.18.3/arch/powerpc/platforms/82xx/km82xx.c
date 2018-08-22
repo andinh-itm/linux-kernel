@@ -212,3 +212,4 @@ define_machine(km82xx)
 	.restart = pq2_restart,
 	.progress = udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

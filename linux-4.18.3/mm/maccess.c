@@ -105,3 +105,4 @@ long strncpy_from_unsafe(char *dst, const void *unsafe_addr, long count)
 
 	return ret ? -EFAULT : src - unsafe_addr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

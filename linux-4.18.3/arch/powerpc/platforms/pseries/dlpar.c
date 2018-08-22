@@ -597,3 +597,4 @@ static int __init dlpar_sysfs_init(void)
 }
 machine_device_initcall(pseries, dlpar_sysfs_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

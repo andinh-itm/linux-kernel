@@ -184,3 +184,4 @@ static void __exit dell_led_exit(void)
 
 module_init(dell_led_init);
 module_exit(dell_led_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

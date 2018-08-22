@@ -531,3 +531,4 @@ const struct ethtool_ops dpaa_ethtool_ops = {
 	.get_rxnfc = dpaa_get_rxnfc,
 	.set_rxnfc = dpaa_set_rxnfc,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

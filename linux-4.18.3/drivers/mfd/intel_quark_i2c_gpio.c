@@ -303,3 +303,4 @@ module_pci_driver(intel_quark_mfd_driver);
 MODULE_AUTHOR("Raymond Tan <raymond.tan@intel.com>");
 MODULE_DESCRIPTION("Intel Quark MFD PCI driver for I2C & GPIO");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

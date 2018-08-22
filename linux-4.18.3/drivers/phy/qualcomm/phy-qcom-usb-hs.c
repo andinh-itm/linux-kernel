@@ -285,3 +285,4 @@ module_ulpi_driver(qcom_usb_hs_phy_driver);
 
 MODULE_DESCRIPTION("Qualcomm USB HS phy");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

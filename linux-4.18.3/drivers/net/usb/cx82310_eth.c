@@ -348,3 +348,4 @@ module_usb_driver(cx82310_driver);
 MODULE_AUTHOR("Ondrej Zary");
 MODULE_DESCRIPTION("Conexant CX82310-based ADSL router USB ethernet driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

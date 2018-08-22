@@ -145,3 +145,4 @@ void pvr2_cx25840_subdev_update(struct pvr2_hdw *hdw, struct v4l2_subdev *sd)
 		sd->ops->audio->s_routing(sd, (u32)aud_input, 0, 0);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

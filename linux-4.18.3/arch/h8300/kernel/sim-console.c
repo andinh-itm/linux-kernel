@@ -28,3 +28,4 @@ static int __init sim_setup(struct earlycon_device *device, const char *opt)
 }
 
 EARLYCON_DECLARE(h8sim, sim_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

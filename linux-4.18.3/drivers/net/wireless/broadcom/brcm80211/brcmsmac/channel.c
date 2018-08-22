@@ -771,3 +771,4 @@ void brcms_c_regd_init(struct brcms_c_info *wlc)
 	wiphy_apply_custom_regulatory(wlc->wiphy, regd->regdomain);
 	brcms_reg_apply_beaconing_flags(wiphy, NL80211_REGDOM_SET_BY_DRIVER);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

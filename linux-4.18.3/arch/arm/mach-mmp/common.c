@@ -51,3 +51,4 @@ void mmp_restart(enum reboot_mode mode, const char *cmd)
 {
 	soft_restart(0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

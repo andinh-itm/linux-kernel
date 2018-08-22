@@ -305,3 +305,4 @@ unsigned long vmalloc_to_phys(void *va)
 	return __pa(pfn_to_kaddr(pfn)) + offset_in_page(va);
 }
 EXPORT_SYMBOL_GPL(vmalloc_to_phys);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

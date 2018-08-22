@@ -966,3 +966,4 @@ MACHINE_START(E800, "Toshiba e800")
 	.restart	= pxa_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

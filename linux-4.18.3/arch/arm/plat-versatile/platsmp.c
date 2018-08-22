@@ -91,3 +91,4 @@ int versatile_boot_secondary(unsigned int cpu, struct task_struct *idle)
 
 	return pen_release != -1 ? -ENOSYS : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

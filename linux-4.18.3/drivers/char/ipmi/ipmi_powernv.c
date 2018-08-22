@@ -314,3 +314,4 @@ MODULE_DEVICE_TABLE(of, ipmi_powernv_match);
 MODULE_DESCRIPTION("powernv IPMI driver");
 MODULE_AUTHOR("Jeremy Kerr <jk@ozlabs.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

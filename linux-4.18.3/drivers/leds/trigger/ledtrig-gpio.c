@@ -236,3 +236,4 @@ module_exit(gpio_trig_exit);
 MODULE_AUTHOR("Felipe Balbi <me@felipebalbi.com>");
 MODULE_DESCRIPTION("GPIO LED trigger");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -252,3 +252,4 @@ berlin2_div_register(const struct berlin2_div_map *map,
 				      &div->hw, mux_ops, &div->hw, rate_ops,
 				      &div->hw, gate_ops, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

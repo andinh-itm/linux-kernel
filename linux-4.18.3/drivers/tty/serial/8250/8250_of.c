@@ -345,3 +345,4 @@ module_platform_driver(of_platform_serial_driver);
 MODULE_AUTHOR("Arnd Bergmann <arnd@arndb.de>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Serial Port driver for Open Firmware platform devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

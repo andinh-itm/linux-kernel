@@ -91,3 +91,4 @@ int main(void)
 {
 	return test_harness(cycles_with_mmcr2, "cycles_with_mmcr2");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

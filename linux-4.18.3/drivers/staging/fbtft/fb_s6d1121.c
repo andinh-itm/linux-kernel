@@ -183,3 +183,4 @@ MODULE_ALIAS("platform:s6d1121");
 MODULE_DESCRIPTION("FB driver for the S6D1121 LCD Controller");
 MODULE_AUTHOR("Roman Rolinsky");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -259,3 +259,4 @@ static struct platform_driver uniphier_aidet_driver = {
 	},
 };
 builtin_platform_driver(uniphier_aidet_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

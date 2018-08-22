@@ -1997,3 +1997,4 @@ MODULE_PARM_DESC(default_baud,
 module_param(user_uartclk, uint, S_IRUGO);
 MODULE_PARM_DESC(user_uartclk,
                  "Override UART default or board specific UART clock");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

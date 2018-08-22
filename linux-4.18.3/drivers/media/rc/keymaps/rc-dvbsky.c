@@ -76,3 +76,4 @@ module_exit(exit_rc_map_rc5_dvbsky)
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Nibble Max <nibble.max@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

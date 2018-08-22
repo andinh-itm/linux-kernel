@@ -166,3 +166,4 @@ void nd_region_exit(void)
 
 MODULE_ALIAS_ND_DEVICE(ND_DEVICE_REGION_PMEM);
 MODULE_ALIAS_ND_DEVICE(ND_DEVICE_REGION_BLK);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

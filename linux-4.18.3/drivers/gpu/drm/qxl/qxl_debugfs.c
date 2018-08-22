@@ -129,3 +129,4 @@ int qxl_debugfs_add_files(struct qxl_device *qdev,
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

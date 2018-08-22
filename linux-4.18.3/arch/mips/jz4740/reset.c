@@ -31,3 +31,4 @@ void jz4740_reset_init(void)
 {
 	_machine_halt = jz4740_halt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

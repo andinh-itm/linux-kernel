@@ -166,3 +166,4 @@ int jfs_umount_rw(struct super_block *sb)
 
 	return lmLogClose(sb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -34,3 +34,4 @@ static int __init proc_loadavg_init(void)
 	return 0;
 }
 fs_initcall(proc_loadavg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

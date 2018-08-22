@@ -2303,3 +2303,4 @@ static void dump_fw_version(struct hfi1_devdata *dd)
 	clear_sbus_fast_mode(dd);
 	release_chip_resource(dd, CR_SBUS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

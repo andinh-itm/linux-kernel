@@ -440,3 +440,4 @@ void mlxsw_thermal_fini(struct mlxsw_thermal *thermal)
 
 	devm_kfree(thermal->bus_info->dev, thermal);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

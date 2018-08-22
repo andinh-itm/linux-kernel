@@ -385,3 +385,4 @@ const struct driver_info ax88172a_info = {
 	.rx_fixup = ax88172a_rx_fixup,
 	.tx_fixup = asix_tx_fixup,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

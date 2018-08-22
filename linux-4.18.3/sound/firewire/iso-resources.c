@@ -234,3 +234,4 @@ void fw_iso_resources_free(struct fw_iso_resources *r)
 	mutex_unlock(&r->mutex);
 }
 EXPORT_SYMBOL(fw_iso_resources_free);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

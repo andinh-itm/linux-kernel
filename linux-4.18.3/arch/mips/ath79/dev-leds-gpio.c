@@ -52,3 +52,4 @@ err_put_pdev:
 err_free_leds:
 	kfree(p);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

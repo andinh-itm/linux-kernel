@@ -1430,3 +1430,4 @@ void qlcnic_83xx_remove_sysfs(struct qlcnic_adapter *adapter)
 	qlcnic_remove_diag_entries(adapter);
 	sysfs_remove_bin_file(&dev->kobj, &bin_attr_flash);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

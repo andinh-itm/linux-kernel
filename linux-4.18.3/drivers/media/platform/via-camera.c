@@ -1481,3 +1481,4 @@ static struct platform_driver viacam_driver = {
 };
 
 module_platform_driver(viacam_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

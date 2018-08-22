@@ -1608,3 +1608,4 @@ MODULE_DESCRIPTION("Freescale Video-In(VIU)");
 MODULE_AUTHOR("Hongjun Chen");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(VIU_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

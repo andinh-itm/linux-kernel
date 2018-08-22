@@ -877,3 +877,4 @@ module_exit(mxb_cleanup_module);
 MODULE_DESCRIPTION("video4linux-2 driver for the Siemens-Nixdorf 'Multimedia eXtension board'");
 MODULE_AUTHOR("Michael Hunold <michael@mihu.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

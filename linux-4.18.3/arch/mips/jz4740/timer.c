@@ -49,3 +49,4 @@ void __init jz4740_timer_init(void)
 	/* Timer irqs are unmasked by default, mask them */
 	writel(0x00ff00ff, jz4740_timer_base + JZ_REG_TIMER_MASK_SET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

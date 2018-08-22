@@ -2328,3 +2328,4 @@ module_exit(wm8995_exit);
 MODULE_DESCRIPTION("ASoC WM8995 driver");
 MODULE_AUTHOR("Dimitris Papastamos <dp@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

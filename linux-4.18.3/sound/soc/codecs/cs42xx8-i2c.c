@@ -61,3 +61,4 @@ module_i2c_driver(cs42xx8_i2c_driver);
 MODULE_DESCRIPTION("Cirrus Logic CS42448/CS42888 ALSA SoC Codec I2C Driver");
 MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

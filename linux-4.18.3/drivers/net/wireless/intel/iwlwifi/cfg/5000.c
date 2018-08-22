@@ -171,3 +171,4 @@ const struct iwl_cfg iwl5150_abg_cfg = {
 
 MODULE_FIRMWARE(IWL5000_MODULE_FIRMWARE(IWL5000_UCODE_API_MAX));
 MODULE_FIRMWARE(IWL5150_MODULE_FIRMWARE(IWL5150_UCODE_API_MAX));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

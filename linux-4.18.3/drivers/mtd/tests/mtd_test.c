@@ -107,3 +107,4 @@ int mtdtest_write(struct mtd_info *mtd, loff_t addr, size_t size,
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

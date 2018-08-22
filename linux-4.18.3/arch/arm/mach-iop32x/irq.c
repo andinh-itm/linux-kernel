@@ -72,3 +72,4 @@ void __init iop32x_init_irq(void)
 		irq_clear_status_flags(i, IRQ_NOREQUEST | IRQ_NOPROBE);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

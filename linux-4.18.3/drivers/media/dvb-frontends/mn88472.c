@@ -743,3 +743,4 @@ MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("Panasonic MN88472 DVB-T/T2/C demodulator driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(MN88472_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

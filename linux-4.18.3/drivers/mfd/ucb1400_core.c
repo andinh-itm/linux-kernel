@@ -161,3 +161,4 @@ module_exit(ucb1400_core_exit);
 
 MODULE_DESCRIPTION("Philips UCB1400 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

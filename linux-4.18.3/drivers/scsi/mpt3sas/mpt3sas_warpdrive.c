@@ -316,3 +316,4 @@ mpt3sas_setup_direct_io(struct MPT3SAS_ADAPTER *ioc, struct scsi_cmnd *scmd,
 
 	st->direct_io = 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

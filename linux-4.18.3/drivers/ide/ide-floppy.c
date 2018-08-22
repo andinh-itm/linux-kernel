@@ -546,3 +546,4 @@ const struct ide_disk_ops ide_atapi_disk_ops = {
 	.do_request	= ide_floppy_do_request,
 	.ioctl		= ide_floppy_ioctl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

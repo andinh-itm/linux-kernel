@@ -340,3 +340,4 @@ ahc_linux_show_info(struct seq_file *m, struct Scsi_Host *shost)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

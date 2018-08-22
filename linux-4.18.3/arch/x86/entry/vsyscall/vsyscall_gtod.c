@@ -76,3 +76,4 @@ void update_vsyscall(struct timekeeper *tk)
 
 	gtod_write_end(vdata);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

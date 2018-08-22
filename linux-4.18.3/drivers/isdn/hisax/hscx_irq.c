@@ -292,3 +292,4 @@ hscx_int_main(struct IsdnCardState *cs, u_char val)
 		hscx_interrupt(cs, exval, 0);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

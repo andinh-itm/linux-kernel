@@ -161,3 +161,4 @@ const struct export_operations squashfs_export_ops = {
 	.fh_to_parent = squashfs_fh_to_parent,
 	.get_parent = squashfs_get_parent
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -288,3 +288,4 @@ module_exit(i2c_opal_exit);
 MODULE_AUTHOR("Neelesh Gupta <neelegup@linux.vnet.ibm.com>");
 MODULE_DESCRIPTION("IBM OPAL I2C driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

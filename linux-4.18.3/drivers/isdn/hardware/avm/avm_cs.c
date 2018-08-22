@@ -164,3 +164,4 @@ static struct pcmcia_driver avmcs_driver = {
 	.id_table = avmcs_ids,
 };
 module_pcmcia_driver(avmcs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

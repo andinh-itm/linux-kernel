@@ -149,3 +149,4 @@ static const struct host1x_syncpt_ops host1x_syncpt_ops = {
 	.assign_to_channel = syncpt_assign_to_channel,
 	.enable_protection = syncpt_enable_protection,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

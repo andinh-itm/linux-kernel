@@ -947,3 +947,4 @@ MODULE_AUTHOR("Nobuhiro Iwamatsu <iwamatsu.nobuhiro@renesas.com>");
 MODULE_DESCRIPTION("Renesas SH DMA Engine driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" SH_DMAE_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

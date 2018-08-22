@@ -1152,3 +1152,4 @@ dm_CheckEdcaTurbo_EXIT:
 	pxmitpriv->last_tx_bytes = pxmitpriv->tx_bytes;
 	precvpriv->last_rx_bytes = precvpriv->rx_bytes;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

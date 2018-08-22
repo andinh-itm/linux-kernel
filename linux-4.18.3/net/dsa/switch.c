@@ -302,3 +302,4 @@ void dsa_switch_unregister_notifier(struct dsa_switch *ds)
 	if (err)
 		dev_err(ds->dev, "failed to unregister notifier (%d)\n", err);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

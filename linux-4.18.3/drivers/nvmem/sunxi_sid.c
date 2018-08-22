@@ -254,3 +254,4 @@ module_platform_driver(sunxi_sid_driver);
 MODULE_AUTHOR("Oliver Schinagl <oliver@schinagl.nl>");
 MODULE_DESCRIPTION("Allwinner sunxi security id driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

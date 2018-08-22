@@ -500,3 +500,4 @@ module_platform_driver(mt6323_led_driver);
 MODULE_DESCRIPTION("LED driver for Mediatek MT6323 PMIC");
 MODULE_AUTHOR("Sean Wang <sean.wang@mediatek.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

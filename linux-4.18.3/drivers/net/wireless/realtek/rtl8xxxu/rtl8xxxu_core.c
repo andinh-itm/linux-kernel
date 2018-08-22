@@ -6397,3 +6397,4 @@ MODULE_DEVICE_TABLE(usb, dev_table);
 
 module_init(rtl8xxxu_module_init);
 module_exit(rtl8xxxu_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

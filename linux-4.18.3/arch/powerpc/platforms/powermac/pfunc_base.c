@@ -409,3 +409,4 @@ void pmac_pfunc_base_resume(void)
 }
 
 #endif /* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -198,3 +198,4 @@ bool ssb_is_sprom_available(struct ssb_bus *bus)
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

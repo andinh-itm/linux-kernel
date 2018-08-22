@@ -102,3 +102,4 @@ module_platform_driver(ssm2305_driver);
 MODULE_DESCRIPTION("ASoC SSM2305 amplifier driver");
 MODULE_AUTHOR("Marco Felsch <m.felsch@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

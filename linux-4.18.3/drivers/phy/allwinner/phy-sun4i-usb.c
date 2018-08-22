@@ -982,3 +982,4 @@ module_platform_driver(sun4i_usb_phy_driver);
 MODULE_DESCRIPTION("Allwinner sun4i USB phy driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

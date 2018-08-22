@@ -434,3 +434,4 @@ void cx18_stream_free(struct cx18_stream *s)
 		kfree(buf);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

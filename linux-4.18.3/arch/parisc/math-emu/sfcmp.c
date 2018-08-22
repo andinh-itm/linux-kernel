@@ -153,3 +153,4 @@ sgl_fcmp (sgl_floating_point * leftptr, sgl_floating_point * rightptr,
         }
 	return(NOEXCEPTION);
     }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

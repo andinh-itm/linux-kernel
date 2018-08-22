@@ -10635,3 +10635,4 @@ static const struct inode_operations btrfs_symlink_inode_operations = {
 const struct dentry_operations btrfs_dentry_operations = {
 	.d_delete	= btrfs_dentry_delete,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

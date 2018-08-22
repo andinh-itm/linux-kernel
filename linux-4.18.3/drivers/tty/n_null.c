@@ -66,3 +66,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alan Cox");
 MODULE_ALIAS_LDISC(N_NULL);
 MODULE_DESCRIPTION("Null ldisc driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

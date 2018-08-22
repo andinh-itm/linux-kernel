@@ -1174,3 +1174,4 @@ void omap3isp_ccp2_cleanup(struct isp_device *isp)
 	omap3isp_video_cleanup(&ccp2->video_in);
 	media_entity_cleanup(&ccp2->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

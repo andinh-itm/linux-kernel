@@ -84,3 +84,4 @@ save_stack_trace_regs(struct pt_regs *regs, struct stack_trace *trace)
 		     save_stack_address_nosched);
 }
 EXPORT_SYMBOL_GPL(save_stack_trace_regs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

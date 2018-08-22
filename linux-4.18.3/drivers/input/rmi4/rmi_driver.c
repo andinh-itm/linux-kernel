@@ -1279,3 +1279,4 @@ void __exit rmi_unregister_physical_driver(void)
 {
 	driver_unregister(&rmi_physical_driver.driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

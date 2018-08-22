@@ -469,3 +469,4 @@ const struct file_operations scif_fops = {
 	.flush = scif_fdflush,
 	.owner = THIS_MODULE,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

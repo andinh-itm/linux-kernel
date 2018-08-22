@@ -353,3 +353,4 @@ void mtk_clk_register_plls(struct device_node *node,
 		clk_data->clks[pll->id] = clk;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

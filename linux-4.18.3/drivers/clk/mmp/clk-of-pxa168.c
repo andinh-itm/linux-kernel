@@ -285,3 +285,4 @@ static void __init pxa168_clk_init(struct device_node *np)
 }
 
 CLK_OF_DECLARE(pxa168_clk, "marvell,pxa168-clock", pxa168_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

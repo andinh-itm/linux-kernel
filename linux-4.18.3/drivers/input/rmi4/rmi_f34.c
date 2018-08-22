@@ -609,3 +609,4 @@ struct rmi_function_handler rmi_f34_handler = {
 	.probe = rmi_f34_probe,
 	.attention = rmi_f34_attention,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

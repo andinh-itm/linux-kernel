@@ -189,3 +189,4 @@ mxms_output_device(struct nvkm_mxm *mxm, u8 *pdata, struct mxms_odev *desc)
 	desc->conn_type = (data & 0x000000000001f000ULL) >> 12;
 	desc->dig_conn  = (data & 0x0000000000780000ULL) >> 19;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

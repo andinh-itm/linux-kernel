@@ -59,3 +59,4 @@ define_machine(mpc830x_rdb) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.progress		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

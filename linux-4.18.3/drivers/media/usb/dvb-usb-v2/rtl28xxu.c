@@ -1961,3 +1961,4 @@ MODULE_DESCRIPTION("Realtek RTL28xxU DVB USB driver");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_AUTHOR("Thomas Mair <thomas.mair86@googlemail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -189,3 +189,4 @@ void start_kernel(void)
 		/* nothing */;
 	__halt();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -373,3 +373,4 @@ module_platform_driver(st_dwc3_driver);
 MODULE_AUTHOR("Giuseppe Cavallaro <peppe.cavallaro@st.com>");
 MODULE_DESCRIPTION("DesignWare USB3 STi Glue Layer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

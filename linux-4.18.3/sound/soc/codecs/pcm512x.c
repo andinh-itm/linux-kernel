@@ -1602,3 +1602,4 @@ EXPORT_SYMBOL_GPL(pcm512x_pm_ops);
 MODULE_DESCRIPTION("ASoC PCM512x codec driver");
 MODULE_AUTHOR("Mark Brown <broonie@kernel.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

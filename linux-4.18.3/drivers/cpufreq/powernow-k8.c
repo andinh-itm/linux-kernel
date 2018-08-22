@@ -1224,3 +1224,4 @@ MODULE_LICENSE("GPL");
 
 late_initcall(powernowk8_init);
 module_exit(powernowk8_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

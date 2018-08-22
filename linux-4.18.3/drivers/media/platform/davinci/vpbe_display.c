@@ -1532,3 +1532,4 @@ module_platform_driver(vpbe_display_driver);
 MODULE_DESCRIPTION("TI DM644x/DM355/DM365 VPBE Display controller");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Texas Instruments");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

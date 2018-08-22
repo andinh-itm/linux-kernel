@@ -93,3 +93,4 @@ module_platform_driver(h3_panel_driver);
 MODULE_AUTHOR("Imre Deak");
 MODULE_DESCRIPTION("LCD panel support for the TI OMAP H3 board");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

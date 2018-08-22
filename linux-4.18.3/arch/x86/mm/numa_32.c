@@ -92,3 +92,4 @@ void __init initmem_init(void)
 	__vmalloc_start_set = true;
 	setup_bootmem_allocator();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

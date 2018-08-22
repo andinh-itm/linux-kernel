@@ -355,3 +355,4 @@ static struct serio_driver sermouse_drv = {
 };
 
 module_serio_driver(sermouse_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

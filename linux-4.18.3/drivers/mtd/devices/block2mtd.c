@@ -494,3 +494,4 @@ module_exit(block2mtd_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Joern Engel <joern@lazybastard.org>");
 MODULE_DESCRIPTION("Emulate an MTD using a block device");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

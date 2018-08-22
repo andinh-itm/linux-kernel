@@ -348,3 +348,4 @@ u64 nfp_ustore_calc_ecc_insn(u64 insn)
 
 	return insn | (u64)ecc << NFP_USTORE_OP_BITS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

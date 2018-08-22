@@ -1790,3 +1790,4 @@ module_i2c_driver(imx274_i2c_driver);
 MODULE_AUTHOR("Leon Luo <leonl@leopardimaging.com>");
 MODULE_DESCRIPTION("IMX274 CMOS Image Sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

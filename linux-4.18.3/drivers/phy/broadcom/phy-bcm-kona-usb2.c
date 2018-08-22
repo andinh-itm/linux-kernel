@@ -153,3 +153,4 @@ MODULE_ALIAS("platform:bcm-kona-usb2");
 MODULE_AUTHOR("Matt Porter <mporter@linaro.org>");
 MODULE_DESCRIPTION("BCM Kona USB 2.0 PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

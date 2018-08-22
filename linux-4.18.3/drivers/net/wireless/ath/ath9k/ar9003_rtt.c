@@ -256,3 +256,4 @@ fail:
 	ar9003_hw_rtt_disable(ah);
 	return restore;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

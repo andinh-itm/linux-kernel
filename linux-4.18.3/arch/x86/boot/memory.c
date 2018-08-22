@@ -134,3 +134,4 @@ int detect_memory(void)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

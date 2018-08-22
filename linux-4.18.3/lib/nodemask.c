@@ -29,3 +29,4 @@ int node_random(const nodemask_t *maskp)
 	return bit;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

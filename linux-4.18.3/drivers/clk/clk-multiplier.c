@@ -140,3 +140,4 @@ const struct clk_ops clk_multiplier_ops = {
 	.set_rate	= clk_multiplier_set_rate,
 };
 EXPORT_SYMBOL_GPL(clk_multiplier_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

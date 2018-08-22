@@ -507,3 +507,4 @@ struct kfd2kgd_calls *amdgpu_amdkfd_gfx_9_0_get_functions(void)
 	return NULL;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

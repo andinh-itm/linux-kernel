@@ -562,3 +562,4 @@ snic_tgt_del_all(struct snic *snic)
 
 	flush_workqueue(snic_glob->event_q);
 } /* end of snic_tgt_del_all */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

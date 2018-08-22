@@ -359,3 +359,4 @@ module_exit(efi_capsule_loader_exit);
 
 MODULE_DESCRIPTION("EFI capsule firmware binary loader");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

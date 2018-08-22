@@ -620,3 +620,4 @@ static void __exit parport_default_proc_unregister (void)
 
 subsys_initcall(parport_default_proc_register)
 module_exit(parport_default_proc_unregister)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

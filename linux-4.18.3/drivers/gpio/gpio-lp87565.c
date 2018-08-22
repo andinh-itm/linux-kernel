@@ -190,3 +190,4 @@ module_platform_driver(lp87565_gpio_driver);
 MODULE_AUTHOR("Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("LP87565 GPIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

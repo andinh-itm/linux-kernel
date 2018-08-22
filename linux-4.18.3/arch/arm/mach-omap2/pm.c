@@ -265,3 +265,4 @@ int __init omap2_common_pm_late_init(void)
 	return 0;
 }
 omap_late_initcall(omap2_common_pm_late_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

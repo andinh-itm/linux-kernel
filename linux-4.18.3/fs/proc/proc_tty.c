@@ -177,3 +177,4 @@ void __init proc_tty_init(void)
 	proc_create_seq("tty/ldiscs", 0, NULL, &tty_ldiscs_seq_ops);
 	proc_create_seq("tty/drivers", 0, NULL, &tty_drivers_op);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

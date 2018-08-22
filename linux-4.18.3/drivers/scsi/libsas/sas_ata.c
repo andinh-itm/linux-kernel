@@ -865,3 +865,4 @@ void sas_ata_wait_eh(struct domain_device *dev)
 	ap = dev->sata_dev.ap;
 	ata_port_wait_eh(ap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

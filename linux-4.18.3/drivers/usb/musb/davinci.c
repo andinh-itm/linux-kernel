@@ -595,3 +595,4 @@ MODULE_DESCRIPTION("DaVinci MUSB Glue Layer");
 MODULE_AUTHOR("Felipe Balbi <balbi@ti.com>");
 MODULE_LICENSE("GPL v2");
 module_platform_driver(davinci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

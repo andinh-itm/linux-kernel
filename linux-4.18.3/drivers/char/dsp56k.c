@@ -532,3 +532,4 @@ module_exit(dsp56k_cleanup_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE("dsp56k/bootstrap.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

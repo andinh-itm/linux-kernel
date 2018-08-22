@@ -346,3 +346,4 @@ void hclgevf_cmd_uninit(struct hclgevf_dev *hdev)
 	hclgevf_free_cmd_desc(&hdev->hw.cmq.csq);
 	hclgevf_free_cmd_desc(&hdev->hw.cmq.crq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

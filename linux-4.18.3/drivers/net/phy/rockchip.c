@@ -230,3 +230,4 @@ MODULE_DEVICE_TABLE(mdio, rockchip_phy_tbl);
 MODULE_AUTHOR("David Wu <david.wu@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip Ethernet PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -629,3 +629,4 @@ module_exit(deflate_cleanup);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("ppp-compress-" __stringify(CI_DEFLATE));
 MODULE_ALIAS("ppp-compress-" __stringify(CI_DEFLATE_DRAFT));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

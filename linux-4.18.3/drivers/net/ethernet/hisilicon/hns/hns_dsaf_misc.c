@@ -771,3 +771,4 @@ platform_device *hns_dsaf_find_platform_device(struct fwnode_handle *fwnode)
 			      fwnode, hns_dsaf_dev_match);
 	return dev ? to_platform_device(dev) : NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

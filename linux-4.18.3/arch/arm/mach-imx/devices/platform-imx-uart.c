@@ -93,3 +93,4 @@ struct platform_device *__init imx_add_imx_uart_1irq(
 	return imx_add_platform_device("imx21-uart", data->id,
 			res, ARRAY_SIZE(res), pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

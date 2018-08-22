@@ -838,3 +838,4 @@ int module_finalize_ftrace(struct module *mod, const Elf_Shdr *sechdrs)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

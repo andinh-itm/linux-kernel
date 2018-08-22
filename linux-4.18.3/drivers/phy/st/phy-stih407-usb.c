@@ -178,3 +178,4 @@ module_platform_driver(stih407_usb2_picophy_driver);
 MODULE_AUTHOR("Giuseppe Cavallaro <peppe.cavallaro@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics Generic picoPHY driver for STiH407");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -355,3 +355,4 @@ acpi_ut_initialize_buffer(struct acpi_buffer *buffer, acpi_size required_length)
 	memset(buffer->pointer, 0, required_length);
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

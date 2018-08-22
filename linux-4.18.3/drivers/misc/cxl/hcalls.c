@@ -645,3 +645,4 @@ long cxl_h_validate_adapter_image(u64 unit_address,
 				       H_DOWNLOAD_CA_FACILITY_VALIDATE,
 				       list_address, num, out);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

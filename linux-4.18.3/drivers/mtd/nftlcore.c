@@ -827,3 +827,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>, Fabrice Bellard <fabrice.bellard@netgem.com> et al.");
 MODULE_DESCRIPTION("Support code for NAND Flash Translation Layer, used on M-Systems DiskOnChip 2000 and Millennium");
 MODULE_ALIAS_BLOCKDEV_MAJOR(NFTL_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

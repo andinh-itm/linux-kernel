@@ -95,3 +95,4 @@ module_i2c_driver(lp873x_driver);
 MODULE_AUTHOR("J Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("LP873X chip family Multi-Function Device driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

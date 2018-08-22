@@ -771,3 +771,4 @@ int asix_set_mac_address(struct net_device *net, void *p)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

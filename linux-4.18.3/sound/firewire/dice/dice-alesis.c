@@ -50,3 +50,4 @@ int snd_dice_detect_alesis_formats(struct snd_dice *dice)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

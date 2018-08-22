@@ -992,3 +992,4 @@ trap_init(void)
 	wrent(entSys, 5);
 	wrent(entDbg, 6);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -186,3 +186,4 @@ static struct platform_driver reset_simple_driver = {
 	},
 };
 builtin_platform_driver(reset_simple_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

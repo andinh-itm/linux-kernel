@@ -178,3 +178,4 @@ const struct spu_priv1_ops spu_priv1_mmio_ops =
 	.resource_allocation_enable_set = resource_allocation_enable_set,
 	.resource_allocation_enable_get = resource_allocation_enable_get,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

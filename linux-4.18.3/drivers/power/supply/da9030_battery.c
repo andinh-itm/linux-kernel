@@ -594,3 +594,4 @@ module_platform_driver(da903x_battery_driver);
 MODULE_DESCRIPTION("DA9030 battery charger driver");
 MODULE_AUTHOR("Mike Rapoport, CompuLab");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

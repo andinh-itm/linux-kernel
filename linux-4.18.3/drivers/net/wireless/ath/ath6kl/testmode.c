@@ -100,3 +100,4 @@ int ath6kl_tm_cmd(struct wiphy *wiphy, struct wireless_dev *wdev,
 		return -EOPNOTSUPP;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

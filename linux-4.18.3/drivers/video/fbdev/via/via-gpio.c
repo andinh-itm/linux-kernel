@@ -305,3 +305,4 @@ void viafb_gpio_exit(void)
 {
 	platform_driver_unregister(&via_gpio_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

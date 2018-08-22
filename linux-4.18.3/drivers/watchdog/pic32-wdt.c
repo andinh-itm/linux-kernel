@@ -260,3 +260,4 @@ module_platform_driver(pic32_wdt_driver);
 MODULE_AUTHOR("Joshua Henderson <joshua.henderson@microchip.com>");
 MODULE_DESCRIPTION("Microchip PIC32 Watchdog Timer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -282,3 +282,4 @@ phys_addr_t hdmi_wp_get_audio_dma_addr(struct hdmi_wp_data *wp)
 {
 	return wp->phys_base + HDMI_WP_AUDIO_DATA;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

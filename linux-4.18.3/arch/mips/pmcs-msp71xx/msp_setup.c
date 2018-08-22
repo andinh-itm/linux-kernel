@@ -230,3 +230,4 @@ void __init prom_init(void)
 
 	register_vsmp_smp_ops();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

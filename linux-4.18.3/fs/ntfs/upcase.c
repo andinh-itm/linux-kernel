@@ -85,3 +85,4 @@ ntfschar *generate_default_upcase(void)
 		uc[uc_word_table[r][0]] = cpu_to_le16(uc_word_table[r][1]);
 	return uc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

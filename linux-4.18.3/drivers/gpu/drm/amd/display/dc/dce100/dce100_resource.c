@@ -963,3 +963,4 @@ struct resource_pool *dce100_create_resource_pool(
 	return NULL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

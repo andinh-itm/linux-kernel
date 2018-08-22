@@ -2371,3 +2371,4 @@ bool rtl92e_is_halfn_supported_by_ap(struct net_device *dev)
 
 	return ieee->bHalfWirelessN24GMode;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -116,3 +116,4 @@ module_exit(cbe_powerbutton_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Christian Krafft <krafft@de.ibm.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -320,3 +320,4 @@ MODULE_AUTHOR("Andrew Victor");
 MODULE_DESCRIPTION("Watchdog driver for KS8695");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ks8695_wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -416,3 +416,4 @@ static struct i2c_driver tda7432_driver = {
 };
 
 module_i2c_driver(tda7432_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

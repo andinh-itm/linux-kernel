@@ -465,3 +465,4 @@ void __init processor_init(void)
 {
 	register_parisc_driver(&cpu_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -557,3 +557,4 @@ void adv748x_afe_cleanup(struct adv748x_afe *afe)
 	media_entity_cleanup(&afe->sd.entity);
 	v4l2_ctrl_handler_free(&afe->ctrl_hdl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

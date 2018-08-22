@@ -422,3 +422,4 @@ enum cvmx_helper_board_usb_clock_types __cvmx_helper_board_usb_get_clock_type(vo
 		return USB_CLOCK_TYPE_CRYSTAL_12;
 	return USB_CLOCK_TYPE_REF_48;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -364,3 +364,4 @@ void rtl88eu_dm_antenna_diversity(struct odm_dm_struct *dm_odm)
 	    (dm_odm->AntDivType == CGCS_RX_HW_ANTDIV))
 		rtl88eu_dm_hw_ant_div(dm_odm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

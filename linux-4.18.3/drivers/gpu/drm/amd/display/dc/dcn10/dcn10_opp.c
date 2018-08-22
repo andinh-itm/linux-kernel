@@ -410,3 +410,4 @@ void dcn10_opp_construct(struct dcn10_opp *oppn10,
 	oppn10->opp_shift = opp_shift;
 	oppn10->opp_mask = opp_mask;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

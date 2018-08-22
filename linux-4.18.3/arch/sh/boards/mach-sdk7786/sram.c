@@ -70,3 +70,4 @@ static int __init fpga_sram_init(void)
 	return 0;
 }
 postcore_initcall(fpga_sram_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

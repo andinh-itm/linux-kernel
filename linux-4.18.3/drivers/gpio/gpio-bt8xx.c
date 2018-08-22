@@ -321,3 +321,4 @@ module_pci_driver(bt8xxgpio_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Michael Buesch");
 MODULE_DESCRIPTION("Abuse a BT8xx framegrabber card as generic GPIO card");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

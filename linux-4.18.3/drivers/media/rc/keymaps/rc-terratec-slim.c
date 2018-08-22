@@ -78,3 +78,4 @@ module_exit(exit_rc_map_terratec_slim)
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

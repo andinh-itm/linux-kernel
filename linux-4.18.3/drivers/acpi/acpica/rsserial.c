@@ -795,3 +795,4 @@ struct acpi_rsconvert_info acpi_rs_convert_pin_group_config[14] = {
 	 AML_OFFSET(pin_group_config.vendor_offset),
 	 0},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

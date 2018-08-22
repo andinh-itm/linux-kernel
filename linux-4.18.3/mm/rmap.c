@@ -1924,3 +1924,4 @@ void hugepage_add_new_anon_rmap(struct page *page,
 	__hugepage_set_anon_rmap(page, vma, address, 1);
 }
 #endif /* CONFIG_HUGETLB_PAGE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

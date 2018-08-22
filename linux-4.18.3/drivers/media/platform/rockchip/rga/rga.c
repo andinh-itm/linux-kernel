@@ -1008,3 +1008,4 @@ module_platform_driver(rga_pdrv);
 MODULE_AUTHOR("Jacob Chen <jacob-chen@iotwrt.com>");
 MODULE_DESCRIPTION("Rockchip Raster 2d Graphic Acceleration Unit");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

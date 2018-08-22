@@ -964,3 +964,4 @@ static void __exit alsa_card_opl3sa2_exit(void)
 
 module_init(alsa_card_opl3sa2_init)
 module_exit(alsa_card_opl3sa2_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

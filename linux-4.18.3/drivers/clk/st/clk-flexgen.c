@@ -404,3 +404,4 @@ err:
 	kfree(rlock);
 }
 CLK_OF_DECLARE(flexgen, "st,flexgen", st_of_flexgen_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

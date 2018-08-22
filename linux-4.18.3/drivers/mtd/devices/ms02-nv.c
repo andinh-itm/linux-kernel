@@ -309,3 +309,4 @@ static void __exit ms02nv_cleanup(void)
 
 module_init(ms02nv_init);
 module_exit(ms02nv_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

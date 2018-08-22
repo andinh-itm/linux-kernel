@@ -382,3 +382,4 @@ int vmw_irq_install(struct drm_device *dev, int irq)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

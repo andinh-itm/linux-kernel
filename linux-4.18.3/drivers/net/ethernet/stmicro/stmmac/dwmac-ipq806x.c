@@ -370,3 +370,4 @@ module_platform_driver(ipq806x_gmac_dwmac_driver);
 MODULE_AUTHOR("Mathieu Olivari <mathieu@codeaurora.org>");
 MODULE_DESCRIPTION("Qualcomm Atheros IPQ806x DWMAC specific glue layer");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

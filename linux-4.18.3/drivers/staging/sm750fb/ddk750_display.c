@@ -157,3 +157,4 @@ void ddk750_setLogicalDispOut(enum disp_output output)
 	if (output & DPMS_USAGE)
 		ddk750_set_dpms((output & DPMS_MASK) >> DPMS_OFFSET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

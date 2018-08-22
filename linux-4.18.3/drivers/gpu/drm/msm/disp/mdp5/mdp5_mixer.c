@@ -170,3 +170,4 @@ struct mdp5_hw_mixer *mdp5_mixer_init(const struct mdp5_lm_instance *lm)
 
 	return mixer;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

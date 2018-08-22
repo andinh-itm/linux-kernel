@@ -2908,3 +2908,4 @@ void radeonfb_pm_exit(struct radeonfb_info *rinfo)
 		pmac_set_early_video_resume(NULL, NULL);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

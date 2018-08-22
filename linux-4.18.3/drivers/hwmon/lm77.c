@@ -371,3 +371,4 @@ module_i2c_driver(lm77_driver);
 MODULE_AUTHOR("Andras BALI <drewie@freemail.hu>");
 MODULE_DESCRIPTION("LM77 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -415,3 +415,4 @@ hip04_of_init(struct device_node *node, struct device_node *parent)
 	return 0;
 }
 IRQCHIP_DECLARE(hip04_intc, "hisilicon,hip04-intc", hip04_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

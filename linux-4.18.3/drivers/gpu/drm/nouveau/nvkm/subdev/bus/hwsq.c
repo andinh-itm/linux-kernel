@@ -175,3 +175,4 @@ nvkm_hwsq_nsec(struct nvkm_hwsq *hwsq, u32 nsec)
 	nvkm_debug(hwsq->subdev, "    DELAY = %d ns\n", nsec);
 	hwsq_cmd(hwsq, 1, (u8[]){ 0x00 | (shift << 2) | usec });
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

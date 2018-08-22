@@ -101,3 +101,4 @@ int main(void)
 {
 	return test_harness(test_vmxcopy, "tm_vmxcopy");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

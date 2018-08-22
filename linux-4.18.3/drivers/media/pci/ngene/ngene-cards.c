@@ -1254,3 +1254,4 @@ module_exit(module_exit_ngene);
 MODULE_DESCRIPTION("nGene");
 MODULE_AUTHOR("Micronas, Ralph Metzler, Manfred Voelkel");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

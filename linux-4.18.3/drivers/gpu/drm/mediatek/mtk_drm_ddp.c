@@ -421,3 +421,4 @@ struct platform_driver mtk_ddp_driver = {
 		.of_match_table = ddp_driver_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

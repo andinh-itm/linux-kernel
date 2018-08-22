@@ -68,3 +68,4 @@ int imx_cpu_kill(unsigned int cpu)
 	imx_set_cpu_arg(cpu, 0);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

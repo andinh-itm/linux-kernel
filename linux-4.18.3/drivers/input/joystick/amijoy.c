@@ -174,3 +174,4 @@ static void __exit amijoy_exit(void)
 
 module_init(amijoy_init);
 module_exit(amijoy_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

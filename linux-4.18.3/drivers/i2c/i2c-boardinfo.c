@@ -111,3 +111,4 @@ int i2c_register_board_info(int busnum, struct i2c_board_info const *info, unsig
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

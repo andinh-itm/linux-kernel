@@ -637,3 +637,4 @@ static void sca_init(card_t *card, int wait_states)
 	sca_out(0, DSR_TX(1), card);
 	sca_out(DMER_DME, DMER, card); /* DMA Master enable */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

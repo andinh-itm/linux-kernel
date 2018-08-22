@@ -340,3 +340,4 @@ MODULE_AUTHOR("Andrew Victor");
 MODULE_DESCRIPTION("Watchdog driver for Atmel AT91RM9200");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:atmel_st_watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

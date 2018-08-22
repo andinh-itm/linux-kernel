@@ -665,3 +665,4 @@ void pvr2_i2c_core_done(struct pvr2_hdw *hdw)
 		hdw->i2c_linked = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

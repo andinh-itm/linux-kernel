@@ -2138,3 +2138,4 @@ static struct usb_driver hfcsusb_drv = {
 };
 
 module_usb_driver(hfcsusb_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

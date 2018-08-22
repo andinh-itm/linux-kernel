@@ -663,3 +663,4 @@ static int __init oops_setup(char *s)
 	return 0;
 }
 early_param("oops", oops_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -189,3 +189,4 @@ module_exit(sun4v_wdt_exit);
 MODULE_AUTHOR("Wim Coekaerts <wim.coekaerts@oracle.com>");
 MODULE_DESCRIPTION("sun4v watchdog driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

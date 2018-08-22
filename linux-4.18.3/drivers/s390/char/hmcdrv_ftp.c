@@ -342,3 +342,4 @@ void hmcdrv_ftp_shutdown(void)
 	mutex_unlock(&hmcdrv_ftp_mutex);
 }
 EXPORT_SYMBOL(hmcdrv_ftp_shutdown);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1033,3 +1033,4 @@ static void i40e_resume_aq(struct i40e_hw *hw)
 
 	i40e_config_arq_regs(hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

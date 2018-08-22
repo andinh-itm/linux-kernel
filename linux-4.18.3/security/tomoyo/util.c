@@ -1068,3 +1068,4 @@ bool tomoyo_domain_quota_is_ok(struct tomoyo_request_info *r)
 	}
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

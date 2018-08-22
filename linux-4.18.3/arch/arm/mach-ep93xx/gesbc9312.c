@@ -43,3 +43,4 @@ MACHINE_START(GESBC9312, "Glomation GESBC-9312-sx")
 	.init_late	= ep93xx_init_late,
 	.restart	= ep93xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

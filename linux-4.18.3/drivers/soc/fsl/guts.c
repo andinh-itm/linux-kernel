@@ -246,3 +246,4 @@ static void __exit fsl_guts_exit(void)
 	platform_driver_unregister(&fsl_guts_driver);
 }
 module_exit(fsl_guts_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -67,3 +67,4 @@ DT_MACHINE_START(ARTPEC6, "Axis ARTPEC-6 Platform")
 	.init_machine	= artpec6_init_machine,
 	.dt_compat	= artpec6_dt_match,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

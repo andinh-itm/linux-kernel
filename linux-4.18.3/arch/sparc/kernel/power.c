@@ -69,3 +69,4 @@ static struct platform_driver power_driver = {
 };
 
 builtin_platform_driver(power_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

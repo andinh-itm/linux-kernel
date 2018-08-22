@@ -276,3 +276,4 @@ void kfr2r09_lcd_start(void *sohandle, struct sh_mobile_lcdc_sys_bus_ops *so)
 {
 	write_memory_start(sohandle, so);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

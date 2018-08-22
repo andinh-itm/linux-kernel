@@ -1592,3 +1592,4 @@ module_pci_driver(sc92031_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Cesar Eduardo Barros <cesarb@cesarb.net>");
 MODULE_DESCRIPTION("Silan SC92031 PCI Fast Ethernet Adapter driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

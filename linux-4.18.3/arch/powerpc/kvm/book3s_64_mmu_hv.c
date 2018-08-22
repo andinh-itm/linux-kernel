@@ -2156,3 +2156,4 @@ void kvmppc_mmu_book3s_hv_init(struct kvm_vcpu *vcpu)
 
 	vcpu->arch.hflags |= BOOK3S_HFLAG_SLB;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

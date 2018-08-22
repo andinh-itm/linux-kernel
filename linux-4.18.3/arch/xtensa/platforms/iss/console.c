@@ -255,3 +255,4 @@ console_initcall(iss_console_init);
 
 #endif /* CONFIG_SERIAL_CONSOLE */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

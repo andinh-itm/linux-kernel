@@ -337,3 +337,4 @@ module_platform_driver(sunxi_ir_driver);
 MODULE_DESCRIPTION("Allwinner sunXi IR controller driver");
 MODULE_AUTHOR("Alexsey Shestacov <wingrime@linux-sunxi.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

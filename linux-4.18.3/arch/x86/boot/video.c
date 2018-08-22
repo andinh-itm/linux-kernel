@@ -343,3 +343,4 @@ void set_video(void)
 	if (do_restore)
 		restore_screen();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

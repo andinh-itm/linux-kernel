@@ -452,3 +452,4 @@ int ax25_kiss_rcv(struct sk_buff *skb, struct net_device *dev,
 
 	return ax25_rcv(skb, dev, (ax25_address *)dev->dev_addr, ptype);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

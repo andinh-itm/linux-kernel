@@ -112,3 +112,4 @@ struct op_axp_model op_model_ev4 = {
 	.num_counters		= 2,
 	.can_set_proc_mode	= 0,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

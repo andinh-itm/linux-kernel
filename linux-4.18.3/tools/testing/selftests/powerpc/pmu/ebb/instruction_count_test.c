@@ -164,3 +164,4 @@ int main(void)
 {
 	return test_harness(instruction_count, "instruction_count");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

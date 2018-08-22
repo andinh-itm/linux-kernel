@@ -97,3 +97,4 @@ void perfmon_exit(void)
 
 	pfm_unregister_buffer_fmt(oprofile_fmt.fmt_uuid);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

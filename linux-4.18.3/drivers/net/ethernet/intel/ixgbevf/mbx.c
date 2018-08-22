@@ -334,3 +334,4 @@ const struct ixgbe_mbx_operations ixgbevf_hv_mbx_ops = {
 	.init_params	= ixgbevf_init_mbx_params_vf,
 	.check_for_rst	= ixgbevf_check_for_rst_vf,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

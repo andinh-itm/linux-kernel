@@ -452,3 +452,4 @@ static void __exit it8712f_wdt_exit(void)
 
 module_init(it8712f_wdt_init);
 module_exit(it8712f_wdt_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

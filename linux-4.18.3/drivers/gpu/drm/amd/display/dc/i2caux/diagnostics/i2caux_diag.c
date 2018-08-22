@@ -95,3 +95,4 @@ struct i2caux *dal_i2caux_diag_fpga_create(
 	construct(i2caux, ctx);
 	return i2caux;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

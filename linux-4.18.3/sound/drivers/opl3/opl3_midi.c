@@ -883,3 +883,4 @@ void snd_opl3_sysex(void *p, unsigned char *buf, int len,
 	snd_printk(KERN_DEBUG "SYSEX\n");
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

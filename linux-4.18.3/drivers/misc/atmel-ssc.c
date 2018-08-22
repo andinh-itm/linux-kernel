@@ -283,3 +283,4 @@ MODULE_AUTHOR("Hans-Christian Egtvedt <hcegtvedt@atmel.com>");
 MODULE_DESCRIPTION("SSC driver for Atmel AVR32 and AT91");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ssc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

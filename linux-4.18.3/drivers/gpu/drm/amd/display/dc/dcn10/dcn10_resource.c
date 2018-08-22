@@ -1256,3 +1256,4 @@ struct resource_pool *dcn10_create_resource_pool(
 	BREAK_TO_DEBUGGER();
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

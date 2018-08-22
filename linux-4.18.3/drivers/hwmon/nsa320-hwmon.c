@@ -213,3 +213,4 @@ MODULE_AUTHOR("Adam Baker <linux@baker-net.org.uk>");
 MODULE_DESCRIPTION("NSA320 Hardware Monitoring");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:nsa320-hwmon");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

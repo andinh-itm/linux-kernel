@@ -705,3 +705,4 @@ static struct platform_driver w5300_driver = {
 };
 
 module_platform_driver(w5300_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

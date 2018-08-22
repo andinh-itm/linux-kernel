@@ -196,3 +196,4 @@ define_machine(lite5200) {
 	.restart	= mpc52xx_restart,
 	.calibrate_decr	= generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

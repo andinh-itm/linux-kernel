@@ -727,3 +727,4 @@ MACHINE_START(VPAC270, "Voipac PXA270")
 	.init_machine	= vpac270_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

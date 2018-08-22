@@ -156,3 +156,4 @@ __sum16 csum_ipv6_magic(const struct in6_addr *saddr,
 	       (__force __wsum)add32_with_carry(sum64 & 0xffffffff, sum64>>32));
 }
 EXPORT_SYMBOL(csum_ipv6_magic);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

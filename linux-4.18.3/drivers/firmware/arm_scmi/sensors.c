@@ -289,3 +289,4 @@ static int __init scmi_sensors_init(void)
 				      &scmi_sensors_protocol_init);
 }
 subsys_initcall(scmi_sensors_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

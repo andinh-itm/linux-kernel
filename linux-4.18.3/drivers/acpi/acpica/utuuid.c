@@ -62,3 +62,4 @@ void acpi_ut_convert_string_to_uuid(char *in_string, u8 *uuid_buffer)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

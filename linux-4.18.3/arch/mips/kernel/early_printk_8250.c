@@ -64,3 +64,4 @@ void prom_putchar(char c)
 	if (timeout)
 		serial_out(UART_TX, c);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

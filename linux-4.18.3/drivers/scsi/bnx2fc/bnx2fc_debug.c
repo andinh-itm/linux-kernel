@@ -82,3 +82,4 @@ void BNX2FC_HBA_DBG(const struct fc_lport *lport, const char *fmt, ...)
 
 	va_end(args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

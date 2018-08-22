@@ -142,3 +142,4 @@ module_isa_driver(cio_dac_driver, num_cio_dac);
 MODULE_AUTHOR("William Breathitt Gray <vilhelm.gray@gmail.com>");
 MODULE_DESCRIPTION("Measurement Computing CIO-DAC IIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

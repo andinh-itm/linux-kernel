@@ -305,3 +305,4 @@ snd_emu8000_sample_reset(struct snd_emux *rec)
 {
 	snd_emux_terminate_all(rec);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

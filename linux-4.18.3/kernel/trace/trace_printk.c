@@ -379,3 +379,4 @@ static __init int init_trace_printk(void)
 }
 
 early_initcall(init_trace_printk);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

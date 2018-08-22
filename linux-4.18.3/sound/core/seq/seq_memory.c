@@ -528,3 +528,4 @@ void snd_seq_info_pool(struct snd_info_buffer *buffer,
 	snd_iprintf(buffer, "%sAlloc success      : %d\n", space, pool->event_alloc_success);
 	snd_iprintf(buffer, "%sAlloc failures     : %d\n", space, pool->event_alloc_failures);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

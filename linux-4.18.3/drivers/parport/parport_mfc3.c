@@ -368,3 +368,4 @@ MODULE_LICENSE("GPL");
 
 module_init(parport_mfc3_init)
 module_exit(parport_mfc3_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

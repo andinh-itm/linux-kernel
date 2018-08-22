@@ -171,3 +171,4 @@ static struct platform_driver rpckbd_driver = {
 	},
 };
 module_platform_driver(rpckbd_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

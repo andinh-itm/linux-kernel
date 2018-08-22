@@ -222,3 +222,4 @@ acpi_ds_initialize_objects(u32 table_index,
 
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

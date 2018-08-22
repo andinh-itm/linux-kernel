@@ -173,3 +173,4 @@ MODULE_DESCRIPTION("Speakup support for DoubleTalk LT/LiteTalk synthesizers");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

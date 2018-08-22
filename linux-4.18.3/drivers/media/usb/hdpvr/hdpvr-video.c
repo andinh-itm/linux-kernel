@@ -1253,3 +1253,4 @@ error:
 	v4l2_ctrl_handler_free(hdl);
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

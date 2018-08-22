@@ -1115,3 +1115,4 @@ int vnt_beacon_enable(struct vnt_private *priv, struct ieee80211_vif *vif,
 
 	return vnt_beacon_make(priv, vif);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

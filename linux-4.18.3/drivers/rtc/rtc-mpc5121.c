@@ -422,3 +422,4 @@ module_platform_driver(mpc5121_rtc_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Rigby <jcrigby@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

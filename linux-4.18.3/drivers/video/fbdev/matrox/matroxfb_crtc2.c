@@ -736,3 +736,4 @@ MODULE_LICENSE("GPL");
 module_init(matroxfb_crtc2_init);
 module_exit(matroxfb_crtc2_exit);
 /* we do not have __setup() yet */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

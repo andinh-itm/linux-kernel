@@ -299,3 +299,4 @@ const struct export_operations fat_export_ops_nostale = {
 	.fh_to_parent   = fat_fh_to_parent_nostale,
 	.get_parent     = fat_get_parent,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

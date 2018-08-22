@@ -305,3 +305,4 @@ int snd_hda_codec_configure(struct hda_codec *codec)
 	return err;
 }
 EXPORT_SYMBOL_GPL(snd_hda_codec_configure);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

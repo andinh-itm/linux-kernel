@@ -7511,3 +7511,4 @@ static void __attribute__((unused)) verify_structures(void)
 	BUILD_BUG_ON(PQI_RESERVED_IO_SLOTS >=
 		PQI_MAX_OUTSTANDING_REQUESTS_KDUMP);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

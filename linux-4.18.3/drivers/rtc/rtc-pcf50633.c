@@ -293,3 +293,4 @@ MODULE_DESCRIPTION("PCF50633 RTC driver");
 MODULE_AUTHOR("Balaji Rao <balajirrao@openmoko.org>");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

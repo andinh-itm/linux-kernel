@@ -123,3 +123,4 @@ void __iomem *microdev_ioport_map(unsigned long offset, unsigned int len)
 
 	return (void __iomem *)result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

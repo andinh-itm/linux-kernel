@@ -140,3 +140,4 @@ static int __init ls_uarts_init(void)
 }
 
 machine_late_initcall(linkstation, ls_uarts_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -63,3 +63,4 @@ const struct snd_bebob_spec yamaha_terratec_spec = {
 	.rate	= &rate_spec,
 	.meter	= NULL
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

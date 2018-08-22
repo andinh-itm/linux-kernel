@@ -301,3 +301,4 @@ COMPAT_SYSCALL_DEFINE4(kexec_load, compat_ulong_t, entry,
 	return result;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

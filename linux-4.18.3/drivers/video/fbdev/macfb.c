@@ -928,3 +928,4 @@ fail_unmap:
 
 module_init(macfb_init);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

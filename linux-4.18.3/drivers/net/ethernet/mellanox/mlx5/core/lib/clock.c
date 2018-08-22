@@ -592,3 +592,4 @@ void mlx5_cleanup_clock(struct mlx5_core_dev *mdev)
 
 	kfree(clock->ptp_info.pin_config);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

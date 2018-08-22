@@ -389,3 +389,4 @@ static void pci_fixed_bar_fixup(struct pci_dev *dev)
 	}
 }
 DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_INTEL, PCI_ANY_ID, pci_fixed_bar_fixup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

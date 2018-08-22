@@ -234,3 +234,4 @@ module_exit(cleanup_sbc_gxx);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Arcom Control Systems Ltd.");
 MODULE_DESCRIPTION("MTD map driver for SBC-GXm and SBC-GX1 series boards");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -739,3 +739,4 @@ u32 r8712_GetPhyRxPktCRC32Error(struct _adapter *pAdapter)
 	HT_cnt = GetPhyRxPktCounts(pAdapter, HT_MPDU_FAIL_BIT);
 	return OFDM_cnt + CCK_cnt + HT_cnt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

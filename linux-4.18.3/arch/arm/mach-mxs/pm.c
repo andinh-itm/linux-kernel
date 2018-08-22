@@ -39,3 +39,4 @@ void __init mxs_pm_init(void)
 {
 	suspend_set_ops(&mxs_suspend_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

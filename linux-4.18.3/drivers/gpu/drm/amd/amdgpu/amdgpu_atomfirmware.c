@@ -366,3 +366,4 @@ int amdgpu_atomfirmware_get_gfx_info(struct amdgpu_device *adev)
 	}
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -297,3 +297,4 @@ module_platform_driver(pmic_thermal_driver);
 MODULE_AUTHOR("Yegnesh S Iyer <yegnesh.s.iyer@intel.com>");
 MODULE_DESCRIPTION("Intel Broxton PMIC Thermal Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -617,3 +617,4 @@ void sfp_unregister_socket(struct sfp_bus *bus)
 	sfp_bus_put(bus);
 }
 EXPORT_SYMBOL_GPL(sfp_unregister_socket);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

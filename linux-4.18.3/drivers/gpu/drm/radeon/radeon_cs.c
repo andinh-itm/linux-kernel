@@ -875,3 +875,4 @@ int radeon_cs_packet_next_reloc(struct radeon_cs_parser *p,
 		*cs_reloc = &p->relocs[(idx / 4)];
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -133,3 +133,4 @@ struct xor_block_template xor_block_xc = {
 	.do_5 = xor_xc_5,
 };
 EXPORT_SYMBOL(xor_block_xc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

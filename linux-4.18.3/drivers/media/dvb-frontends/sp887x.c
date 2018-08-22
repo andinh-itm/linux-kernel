@@ -626,3 +626,4 @@ MODULE_DESCRIPTION("Spase sp887x DVB-T demodulator driver");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(sp887x_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

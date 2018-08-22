@@ -2316,3 +2316,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Corey Minyard <minyard@mvista.com>");
 MODULE_DESCRIPTION("Interface to the IPMI driver for the KCS, SMIC, and BT"
 		   " system interfaces.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

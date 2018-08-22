@@ -275,3 +275,4 @@ void rts5209_init_params(struct rtsx_pcr *pcr)
 	pcr->ms_pull_ctl_enable_tbl = rts5209_ms_pull_ctl_enable_tbl;
 	pcr->ms_pull_ctl_disable_tbl = rts5209_ms_pull_ctl_disable_tbl;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

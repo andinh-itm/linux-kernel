@@ -728,3 +728,4 @@ bool xive_native_has_single_escalation(void)
 	return xive_has_single_esc;
 }
 EXPORT_SYMBOL_GPL(xive_native_has_single_escalation);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

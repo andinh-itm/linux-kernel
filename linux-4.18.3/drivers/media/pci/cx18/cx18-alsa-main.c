@@ -288,3 +288,4 @@ static void __exit cx18_alsa_exit(void)
 
 module_init(cx18_alsa_init);
 module_exit(cx18_alsa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

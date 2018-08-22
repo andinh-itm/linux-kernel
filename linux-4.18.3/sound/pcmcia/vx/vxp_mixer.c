@@ -149,3 +149,4 @@ int vxp_add_mic_controls(struct vx_core *_chip)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

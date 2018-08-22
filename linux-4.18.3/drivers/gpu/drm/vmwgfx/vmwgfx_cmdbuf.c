@@ -1412,3 +1412,4 @@ void vmw_cmdbuf_man_destroy(struct vmw_cmdbuf_man *man)
 	mutex_destroy(&man->error_mutex);
 	kfree(man);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

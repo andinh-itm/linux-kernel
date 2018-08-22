@@ -566,3 +566,4 @@ void ath10k_spectral_destroy(struct ath10k *ar)
 		ar->spectral.rfs_chan_spec_scan = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

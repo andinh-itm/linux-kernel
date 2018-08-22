@@ -42,3 +42,4 @@ TIMER_OF_DECLARE(vexpress, "arm,vexpress-sysreg",
 		       versatile_sched_clock_init);
 TIMER_OF_DECLARE(versatile, "arm,versatile-sysreg",
 		       versatile_sched_clock_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

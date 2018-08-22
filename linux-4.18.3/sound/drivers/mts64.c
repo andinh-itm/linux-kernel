@@ -1069,3 +1069,4 @@ static void __exit snd_mts64_module_exit(void)
 
 module_init(snd_mts64_module_init);
 module_exit(snd_mts64_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

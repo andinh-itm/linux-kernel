@@ -34,3 +34,4 @@ static const char *simulation_compat[] __initconst = {
 MACHINE_START(SIMULATION, "simulation")
 	.dt_compat	= simulation_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

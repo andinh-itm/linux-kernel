@@ -81,3 +81,4 @@ static int __init s3c2410a_pll_init(void)
 	return subsys_interface_register(&s3c2410a_plls_interface);
 }
 arch_initcall(s3c2410a_pll_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

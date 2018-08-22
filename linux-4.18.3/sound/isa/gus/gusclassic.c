@@ -230,3 +230,4 @@ static struct isa_driver snd_gusclassic_driver = {
 };
 
 module_isa_driver(snd_gusclassic_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -582,3 +582,4 @@ int mv88e6xxx_hwtstamp_setup(struct mv88e6xxx_chip *chip)
 void mv88e6xxx_hwtstamp_free(struct mv88e6xxx_chip *chip)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

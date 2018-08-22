@@ -357,3 +357,4 @@ module_platform_driver(rescale_driver);
 MODULE_DESCRIPTION("IIO rescale driver");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

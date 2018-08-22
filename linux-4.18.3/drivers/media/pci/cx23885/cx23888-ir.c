@@ -1231,3 +1231,4 @@ int cx23888_ir_remove(struct cx23885_dev *dev)
 	/* Nothing more to free() as state held the actual v4l2_subdev object */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

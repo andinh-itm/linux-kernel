@@ -1398,3 +1398,4 @@ void mon_bin_exit(void)
 	unregister_chrdev_region(mon_bin_dev0, MON_BIN_MAX_MINOR);
 	class_destroy(mon_bin_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

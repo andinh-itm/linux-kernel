@@ -96,3 +96,4 @@ int bcm63xx_nvram_get_psi_size(void)
 	return BCM63XX_DEFAULT_PSI_SIZE;
 }
 EXPORT_SYMBOL(bcm63xx_nvram_get_psi_size);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

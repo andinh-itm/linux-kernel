@@ -497,3 +497,4 @@ int setup_detour_execution(struct kprobe *p, struct pt_regs *regs, int reenter)
 	return 0;
 }
 NOKPROBE_SYMBOL(setup_detour_execution);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

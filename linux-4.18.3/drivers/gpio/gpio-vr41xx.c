@@ -595,3 +595,4 @@ static struct platform_driver giu_device_driver = {
 };
 
 module_platform_driver(giu_device_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -41,3 +41,4 @@ static struct hid_driver aureal_driver = {
 module_hid_driver(aureal_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1381,3 +1381,4 @@ MODULE_DESCRIPTION("Allwinner A31 DMA Controller Driver");
 MODULE_AUTHOR("Sugar <shuge@allwinnertech.com>");
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

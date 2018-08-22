@@ -170,3 +170,4 @@ MODULE_AUTHOR("Ola Lilja");
 MODULE_AUTHOR("Roger Nilsson");
 MODULE_DESCRIPTION("ASoC UX500 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1410,3 +1410,4 @@ module_spi_driver(mrf24j40_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alan Ott");
 MODULE_DESCRIPTION("MRF24J40 SPI 802.15.4 Controller Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

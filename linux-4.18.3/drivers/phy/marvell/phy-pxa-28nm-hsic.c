@@ -218,3 +218,4 @@ module_platform_driver(mv_hsic_phy_driver);
 MODULE_AUTHOR("Rob Herring <robh@kernel.org>");
 MODULE_DESCRIPTION("Marvell HSIC phy driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

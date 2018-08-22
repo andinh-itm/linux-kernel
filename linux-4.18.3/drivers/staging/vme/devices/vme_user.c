@@ -780,3 +780,4 @@ MODULE_LICENSE("GPL");
 
 module_init(vme_user_init);
 module_exit(vme_user_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

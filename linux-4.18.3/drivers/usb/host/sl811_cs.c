@@ -201,3 +201,4 @@ static struct pcmcia_driver sl811_cs_driver = {
 	.id_table	= sl811_ids,
 };
 module_pcmcia_driver(sl811_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

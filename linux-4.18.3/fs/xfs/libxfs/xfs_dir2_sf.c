@@ -1215,3 +1215,4 @@ xfs_dir2_sf_toino8(
 	dp->i_d.di_size = newsize;
 	xfs_trans_log_inode(args->trans, dp, XFS_ILOG_CORE | XFS_ILOG_DDATA);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

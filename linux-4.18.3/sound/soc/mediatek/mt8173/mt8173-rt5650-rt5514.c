@@ -245,3 +245,4 @@ MODULE_AUTHOR("Koro Chen <koro.chen@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mtk-rt5650-rt5514");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

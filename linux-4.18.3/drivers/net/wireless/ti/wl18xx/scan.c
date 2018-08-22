@@ -349,3 +349,4 @@ int wl18xx_scan_stop(struct wl1271 *wl, struct wl12xx_vif *wlvif)
 {
 	return __wl18xx_scan_stop(wl, wlvif, SCAN_TYPE_SEARCH);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

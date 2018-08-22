@@ -155,3 +155,4 @@ void __init omap2_sdrc_init(struct omap_sdrc_params *sdrc_cs0,
 	sdrc_write_reg(l, SDRC_POWER);
 	omap2_sms_save_context();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

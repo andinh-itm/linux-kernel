@@ -53,3 +53,4 @@ err_free_device:
 	return retval;
 }
 device_initcall(cobalt_lcd_add);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

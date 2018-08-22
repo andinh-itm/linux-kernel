@@ -4767,3 +4767,4 @@ void i40e_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &i40e_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

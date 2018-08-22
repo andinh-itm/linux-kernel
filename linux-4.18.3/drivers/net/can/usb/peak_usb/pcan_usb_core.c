@@ -980,3 +980,4 @@ static void __exit peak_usb_exit(void)
 
 module_init(peak_usb_init);
 module_exit(peak_usb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

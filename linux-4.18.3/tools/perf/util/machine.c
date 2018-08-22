@@ -2511,3 +2511,4 @@ char *machine__resolve_kernel_addr(void *vmachine, unsigned long long *addrp, ch
 	*addrp = map->unmap_ip(map, sym->start);
 	return sym->name;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

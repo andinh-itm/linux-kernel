@@ -827,3 +827,4 @@ struct snd_ice1712_card_info snd_vt1720_pontis_cards[] = {
 	},
 	{ } /* terminator */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

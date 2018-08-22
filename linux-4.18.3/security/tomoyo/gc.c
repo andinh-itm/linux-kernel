@@ -649,3 +649,4 @@ void tomoyo_notify_gc(struct tomoyo_io_buffer *head, const bool is_register)
 	if (is_write)
 		kthread_run(tomoyo_gc_thread, NULL, "GC for TOMOYO");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

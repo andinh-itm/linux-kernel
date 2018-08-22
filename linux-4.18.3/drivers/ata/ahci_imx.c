@@ -1251,3 +1251,4 @@ MODULE_DESCRIPTION("Freescale i.MX AHCI SATA platform driver");
 MODULE_AUTHOR("Richard Zhu <Hong-Xing.Zhu@freescale.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("ahci:imx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

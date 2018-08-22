@@ -510,3 +510,4 @@ MODULE_AUTHOR("Bin Gao <bin.gao@intel.com>");
 MODULE_DESCRIPTION("Intel Whiskey Cove GPIO Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bxt_wcove_gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

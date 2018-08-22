@@ -119,3 +119,4 @@ void mantis_pcmcia_exit(struct mantis_ca *ca)
 	mmwrite(mmread(MANTIS_GPIF_STATUS) & (~MANTIS_CARD_PLUGOUT | ~MANTIS_CARD_PLUGIN), MANTIS_GPIF_STATUS);
 	mantis_mask_ints(mantis, MANTIS_INT_IRQ0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

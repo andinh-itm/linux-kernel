@@ -74,3 +74,4 @@ nomem:
 	return -ENOMEM;
 }
 arch_initcall(init_atags_procfs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

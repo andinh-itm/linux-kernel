@@ -85,3 +85,4 @@ int mtk_infracfg_clear_bus_protection(struct regmap *infracfg, u32 mask,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

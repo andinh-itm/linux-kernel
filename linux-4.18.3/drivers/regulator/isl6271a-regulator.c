@@ -177,3 +177,4 @@ module_exit(isl6271a_cleanup);
 MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("Intersil ISL6271A voltage regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

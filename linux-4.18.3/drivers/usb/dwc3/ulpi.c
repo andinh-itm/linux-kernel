@@ -98,3 +98,4 @@ void dwc3_ulpi_exit(struct dwc3 *dwc)
 		dwc->ulpi = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

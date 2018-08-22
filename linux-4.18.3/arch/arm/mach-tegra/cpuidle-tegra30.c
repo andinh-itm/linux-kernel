@@ -146,3 +146,4 @@ int __init tegra30_cpuidle_init(void)
 {
 	return cpuidle_register(&tegra_idle_driver, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

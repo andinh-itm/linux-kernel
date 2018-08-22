@@ -1946,3 +1946,4 @@ const struct regmap_config wm5102_i2c_regmap = {
 	.num_reg_defaults = ARRAY_SIZE(wm5102_reg_default),
 };
 EXPORT_SYMBOL_GPL(wm5102_i2c_regmap);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

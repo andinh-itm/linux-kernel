@@ -165,3 +165,4 @@ int st95hf_spi_recv_echo_res(struct st95hf_spi_context *spicontext,
 	return ret;
 }
 EXPORT_SYMBOL_GPL(st95hf_spi_recv_echo_res);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

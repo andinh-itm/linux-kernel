@@ -240,3 +240,4 @@ MODULE_DEVICE_TABLE(pci, mf624_pci_id);
 module_pci_driver(mf624_pci_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Rostislav Lisovy <lisovy@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

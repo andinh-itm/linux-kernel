@@ -540,3 +540,4 @@ error:
 	radeon_set_uvd_clocks(rdev, 0, 0);
 	return r;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

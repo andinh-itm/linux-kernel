@@ -1503,3 +1503,4 @@ void __init batadv_tp_meter_init(void)
 {
 	get_random_bytes(batadv_tp_prerandom, sizeof(batadv_tp_prerandom));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

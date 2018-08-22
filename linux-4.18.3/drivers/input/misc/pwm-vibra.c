@@ -265,3 +265,4 @@ MODULE_AUTHOR("Sebastian Reichel <sre@kernel.org>");
 MODULE_DESCRIPTION("PWM vibrator driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pwm-vibrator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -166,3 +166,4 @@ static int __init q40ide_init(void)
 module_init(q40ide_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -424,3 +424,4 @@ module_exit(sw842_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Software 842 Decompressor");
 MODULE_AUTHOR("Dan Streetman <ddstreet@ieee.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

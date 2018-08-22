@@ -615,3 +615,4 @@ module_platform_driver(uniphier_fi2c_drv);
 MODULE_AUTHOR("Masahiro Yamada <yamada.masahiro@socionext.com>");
 MODULE_DESCRIPTION("UniPhier FIFO-builtin I2C bus driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -293,3 +293,4 @@ void __hyp_text __kvm_set_tpidr_el2(u64 tpidr_el2)
 {
 	asm("msr tpidr_el2, %0": : "r" (tpidr_el2));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

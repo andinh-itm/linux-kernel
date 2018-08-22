@@ -173,3 +173,4 @@ static int __init arm_dmi_init(void)
 	return 0;
 }
 core_initcall(arm_dmi_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

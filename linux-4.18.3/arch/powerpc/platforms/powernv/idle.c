@@ -835,3 +835,4 @@ out:
 	return 0;
 }
 machine_subsys_initcall(powernv, pnv_init_idle_states);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

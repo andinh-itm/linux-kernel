@@ -63,3 +63,4 @@ module_spi_driver(pcm3168a_spi_driver);
 MODULE_DESCRIPTION("PCM3168A SPI codec driver");
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

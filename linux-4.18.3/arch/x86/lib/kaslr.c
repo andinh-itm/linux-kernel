@@ -90,3 +90,4 @@ unsigned long kaslr_get_random_long(const char *purpose)
 
 	return random;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

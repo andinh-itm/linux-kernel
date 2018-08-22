@@ -3936,3 +3936,4 @@ int perf_event__process_build_id(struct perf_tool *tool __maybe_unused,
 				 session);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

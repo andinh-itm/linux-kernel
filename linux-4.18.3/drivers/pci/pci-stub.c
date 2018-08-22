@@ -95,3 +95,4 @@ module_exit(pci_stub_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Chris Wright <chrisw@sous-sol.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

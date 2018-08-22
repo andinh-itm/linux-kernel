@@ -6304,3 +6304,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Huawei Tech. Co., Ltd.");
 MODULE_DESCRIPTION("HCLGE Driver");
 MODULE_VERSION(HCLGE_MOD_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

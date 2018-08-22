@@ -522,3 +522,4 @@ struct spear_pinctrl_machdata spear3xx_machdata = {
 	.gpio_pingroups = spear3xx_gpio_pingroup,
 	.ngpio_pingroups = ARRAY_SIZE(spear3xx_gpio_pingroup),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

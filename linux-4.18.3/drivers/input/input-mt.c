@@ -493,3 +493,4 @@ int input_mt_get_slot_by_key(struct input_dev *dev, int key)
 	return -1;
 }
 EXPORT_SYMBOL(input_mt_get_slot_by_key);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

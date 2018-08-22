@@ -118,3 +118,4 @@ define_machine(mvme7100) {
 	.pcibios_fixup_bus	= fsl_pcibios_fixup_bus,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

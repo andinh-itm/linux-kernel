@@ -285,3 +285,4 @@ module_platform_driver(wm97xx_bat_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("WM97xx battery driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

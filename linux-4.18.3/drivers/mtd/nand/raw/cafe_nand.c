@@ -874,3 +874,4 @@ module_pci_driver(cafe_nand_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("NAND flash driver for OLPC CAFÉ chip");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

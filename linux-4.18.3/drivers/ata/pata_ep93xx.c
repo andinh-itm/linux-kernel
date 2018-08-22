@@ -1033,3 +1033,4 @@ MODULE_DESCRIPTION("low-level driver for cirrus ep93xx IDE controller");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
 MODULE_ALIAS("platform:pata_ep93xx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

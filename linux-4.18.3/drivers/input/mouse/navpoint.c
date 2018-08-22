@@ -363,3 +363,4 @@ MODULE_AUTHOR("Paul Parsons <lost.distance@yahoo.com>");
 MODULE_DESCRIPTION("Synaptics NavPoint (PXA27x SSP/SPI) driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:navpoint");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

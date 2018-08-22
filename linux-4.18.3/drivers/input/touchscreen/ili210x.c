@@ -354,3 +354,4 @@ module_i2c_driver(ili210x_ts_driver);
 MODULE_AUTHOR("Olivier Sobrie <olivier@sobrie.be>");
 MODULE_DESCRIPTION("ILI210X I2C Touchscreen Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

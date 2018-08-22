@@ -1934,3 +1934,4 @@ failed:
 	drm_connector_cleanup(connector);
 	kfree(connector);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

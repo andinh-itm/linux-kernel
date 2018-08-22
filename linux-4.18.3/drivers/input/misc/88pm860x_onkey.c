@@ -145,3 +145,4 @@ module_platform_driver(pm860x_onkey_driver);
 MODULE_DESCRIPTION("Marvell 88PM860x ONKEY driver");
 MODULE_AUTHOR("Haojian Zhuang <haojian.zhuang@marvell.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

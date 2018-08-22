@@ -60,3 +60,4 @@ void __init detect_memory_memblock(void)
 		max_physmem_end = memblock_end_of_DRAM();
 	memblock_dump_all();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

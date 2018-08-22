@@ -855,3 +855,4 @@ void __init orion_crypto_init(unsigned long mapbase,
 
 	platform_device_register(&orion_crypto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

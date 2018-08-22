@@ -1311,3 +1311,4 @@ module_platform_driver(at91_adc_driver)
 MODULE_AUTHOR("Ludovic Desroches <ludovic.desroches@atmel.com>");
 MODULE_DESCRIPTION("Atmel AT91 SAMA5D2 ADC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

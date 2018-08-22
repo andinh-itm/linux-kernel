@@ -245,3 +245,4 @@ dispfail:
 	return NULL;
 }
 EXPORT_SYMBOL_GPL(of_get_display_timings);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

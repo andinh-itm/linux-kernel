@@ -385,3 +385,4 @@ void dal_hw_translate_dce110_init(struct hw_translate *tr)
 {
 	tr->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

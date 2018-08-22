@@ -589,3 +589,4 @@ int snd_mixart_setup_firmware(struct mixart_mgr *mgr)
 MODULE_FIRMWARE("mixart/miXart8.xlx");
 MODULE_FIRMWARE("mixart/miXart8.elf");
 MODULE_FIRMWARE("mixart/miXart8AES.xlx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

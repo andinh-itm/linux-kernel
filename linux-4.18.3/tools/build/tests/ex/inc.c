@@ -7,3 +7,4 @@ int inc(void)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

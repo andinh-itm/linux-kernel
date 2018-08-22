@@ -370,3 +370,4 @@ end_delete_all:
 	hfs_find_exit(&fd);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

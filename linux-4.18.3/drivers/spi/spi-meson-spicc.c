@@ -623,3 +623,4 @@ module_platform_driver(meson_spicc_driver);
 MODULE_DESCRIPTION("Meson SPI Communication Controller driver");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

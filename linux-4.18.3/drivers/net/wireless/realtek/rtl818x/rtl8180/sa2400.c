@@ -226,3 +226,4 @@ const struct rtl818x_rf_ops sa2400_rf_ops = {
 	.set_chan	= sa2400_rf_set_channel,
 	.calc_rssi	= sa2400_rf_calc_rssi,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

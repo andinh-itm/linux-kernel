@@ -1074,3 +1074,4 @@ module_exit(ipq8074_pinctrl_exit);
 MODULE_DESCRIPTION("Qualcomm ipq8074 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, ipq8074_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

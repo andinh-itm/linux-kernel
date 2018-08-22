@@ -111,3 +111,4 @@ static struct pci_driver piix4_poweroff_driver = {
 module_pci_driver(piix4_poweroff_driver);
 MODULE_AUTHOR("Paul Burton <paul.burton@mips.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

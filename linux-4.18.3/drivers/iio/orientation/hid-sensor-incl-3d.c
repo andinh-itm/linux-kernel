@@ -439,3 +439,4 @@ module_platform_driver(hid_incl_3d_platform_driver);
 MODULE_DESCRIPTION("HID Sensor Inclinometer 3D");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

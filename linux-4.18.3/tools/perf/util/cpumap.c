@@ -723,3 +723,4 @@ size_t cpu_map__snprint_mask(struct cpu_map *map, char *buf, size_t size)
 	buf[size - 1] = '\0';
 	return ptr - buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

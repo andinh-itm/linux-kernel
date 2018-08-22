@@ -179,3 +179,4 @@ void __init omap243x_clockdomains_init(void)
 	clkdm_complete_init();
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

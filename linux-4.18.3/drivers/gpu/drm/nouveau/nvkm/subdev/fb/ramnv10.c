@@ -38,3 +38,4 @@ nv10_ram_new(struct nvkm_fb *fb, struct nvkm_ram **pram)
 
 	return nvkm_ram_new_(&nv04_ram_func, fb, type, size, pram);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

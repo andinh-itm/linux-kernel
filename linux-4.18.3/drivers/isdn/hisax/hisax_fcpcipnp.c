@@ -1022,3 +1022,4 @@ static void __exit hisax_fcpcipnp_exit(void)
 
 module_init(hisax_fcpcipnp_init);
 module_exit(hisax_fcpcipnp_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

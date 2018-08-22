@@ -555,3 +555,4 @@ static void __exit alsa_opl3_exit(void)
 
 module_init(alsa_opl3_init)
 module_exit(alsa_opl3_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

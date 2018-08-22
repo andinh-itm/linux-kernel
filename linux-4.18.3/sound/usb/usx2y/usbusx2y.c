@@ -466,3 +466,4 @@ static void usX2Y_usb_disconnect(struct usb_device *device, void* ptr)
 }
 
 module_usb_driver(snd_usX2Y_usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

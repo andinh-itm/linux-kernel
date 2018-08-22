@@ -563,3 +563,4 @@ static int __init bcm63xx_clk_init(void)
 	return 0;
 }
 arch_initcall(bcm63xx_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

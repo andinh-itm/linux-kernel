@@ -480,3 +480,4 @@ const struct amdgpu_ip_block_version cik_ih_ip_block =
 	.rev = 0,
 	.funcs = &cik_ih_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

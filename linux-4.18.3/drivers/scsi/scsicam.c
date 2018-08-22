@@ -258,3 +258,4 @@ static int setsize(unsigned long capacity, unsigned int *cyls, unsigned int *hds
 	*hds = (unsigned int) heads;
 	return (rv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

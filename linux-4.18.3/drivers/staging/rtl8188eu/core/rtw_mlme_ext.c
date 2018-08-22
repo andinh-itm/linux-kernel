@@ -5555,3 +5555,4 @@ u8 set_chplan_hdl(struct adapter *padapter, unsigned char *pbuf)
 
 	return	H2C_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -450,3 +450,4 @@ static void __exit tm6000_dvb_unregister(void)
 
 module_init(tm6000_dvb_register);
 module_exit(tm6000_dvb_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

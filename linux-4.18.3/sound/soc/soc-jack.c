@@ -514,3 +514,4 @@ void snd_soc_jack_free_gpios(struct snd_soc_jack *jack, int count,
 }
 EXPORT_SYMBOL_GPL(snd_soc_jack_free_gpios);
 #endif	/* CONFIG_GPIOLIB */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

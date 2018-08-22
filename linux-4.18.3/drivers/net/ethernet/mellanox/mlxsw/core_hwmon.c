@@ -370,3 +370,4 @@ err_fans_init:
 err_temp_init:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

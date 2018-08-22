@@ -274,3 +274,4 @@ MODULE_ALIAS_CRYPTO("sha224");
 MODULE_ALIAS_CRYPTO("sha224-ppc-spe");
 MODULE_ALIAS_CRYPTO("sha256");
 MODULE_ALIAS_CRYPTO("sha256-ppc-spe");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -787,3 +787,4 @@ MODULE_DESCRIPTION("Cx231xx Audio driver");
 
 module_init(cx231xx_alsa_register);
 module_exit(cx231xx_alsa_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

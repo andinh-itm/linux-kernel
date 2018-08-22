@@ -151,3 +151,4 @@ define_machine(p1022_rdk) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.progress		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

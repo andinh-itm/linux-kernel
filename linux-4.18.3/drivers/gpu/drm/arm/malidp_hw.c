@@ -929,3 +929,4 @@ void malidp_se_irq_fini(struct drm_device *drm)
 	malidp_hw_disable_irq(hwdev, MALIDP_SE_BLOCK,
 			      hwdev->hw->map.se_irq_map.irq_mask);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

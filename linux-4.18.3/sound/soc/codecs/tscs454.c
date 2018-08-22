@@ -3495,3 +3495,4 @@ module_i2c_driver(tscs454_i2c_driver);
 MODULE_AUTHOR("Tempo Semiconductor <steven.eckhoff.opensource@gmail.com");
 MODULE_DESCRIPTION("ASoC TSCS454 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

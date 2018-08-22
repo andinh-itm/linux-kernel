@@ -127,3 +127,4 @@ static int set_sample_rate(struct echoaudio *chip, u32 rate)
 	clear_handshake(chip);
 	return send_vector(chip, DSP_VC_SET_GD_AUDIO_STATE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

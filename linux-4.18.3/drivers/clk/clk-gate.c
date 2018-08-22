@@ -208,3 +208,4 @@ void clk_hw_unregister_gate(struct clk_hw *hw)
 	kfree(gate);
 }
 EXPORT_SYMBOL_GPL(clk_hw_unregister_gate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

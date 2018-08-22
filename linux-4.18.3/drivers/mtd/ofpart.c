@@ -238,3 +238,4 @@ MODULE_AUTHOR("Vitaly Wool, David Gibson");
  */
 MODULE_ALIAS("fixed-partitions");
 MODULE_ALIAS("ofoldpart");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

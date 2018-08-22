@@ -54,3 +54,4 @@ void sreset_set_wifi_error_status(struct adapter *padapter, u32 status)
 {
 	padapter->HalData->srestpriv.Wifi_Error_Status = status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

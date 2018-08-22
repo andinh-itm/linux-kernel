@@ -298,3 +298,4 @@ struct platform_driver dp_driver = {
 MODULE_AUTHOR("Jingoo Han <jg1.han@samsung.com>");
 MODULE_DESCRIPTION("Samsung Specific Analogix-DP Driver Extension");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

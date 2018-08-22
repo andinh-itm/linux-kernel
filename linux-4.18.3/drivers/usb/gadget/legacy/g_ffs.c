@@ -579,3 +579,4 @@ static int bind_rndis_config(struct usb_configuration *c)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

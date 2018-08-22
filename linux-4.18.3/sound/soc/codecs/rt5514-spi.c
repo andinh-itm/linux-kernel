@@ -514,3 +514,4 @@ module_spi_driver(rt5514_spi_driver);
 MODULE_DESCRIPTION("RT5514 SPI driver");
 MODULE_AUTHOR("Oder Chiou <oder_chiou@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

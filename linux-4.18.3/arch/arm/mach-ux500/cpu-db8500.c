@@ -142,3 +142,4 @@ DT_MACHINE_START(U8500_DT, "ST-Ericsson Ux5x0 platform (Device Tree Support)")
 	.dt_compat      = stericsson_dt_platform_compat,
 	.restart        = ux500_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -88,3 +88,4 @@ int xhci_ext_cap_init(struct xhci_hcd *xhci)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(xhci_ext_cap_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

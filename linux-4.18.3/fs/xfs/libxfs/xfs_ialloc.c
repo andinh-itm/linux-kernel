@@ -2774,3 +2774,4 @@ xfs_ialloc_count_inodes(
 	*freecount = ci.freecount;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

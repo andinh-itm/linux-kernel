@@ -375,3 +375,4 @@ module_platform_driver(da8xx_rproc_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("DA8XX Remote Processor control driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -144,3 +144,4 @@ void __init bcsr_init_irq(int csc_start, int csc_end, int hook_irq)
 
 	irq_set_chained_handler(hook_irq, bcsr_csc_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

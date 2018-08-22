@@ -146,3 +146,4 @@ struct plat_smp_ops shx3_smp_ops = {
 	.cpu_disable		= native_cpu_disable,
 	.play_dead		= native_play_dead,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

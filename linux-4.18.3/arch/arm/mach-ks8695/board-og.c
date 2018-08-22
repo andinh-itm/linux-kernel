@@ -198,3 +198,4 @@ MACHINE_START(IM42XX, "OpenGear/IM42xx")
 	.restart        = ks8695_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

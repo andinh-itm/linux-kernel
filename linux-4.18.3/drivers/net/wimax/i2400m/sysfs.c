@@ -77,3 +77,4 @@ struct attribute_group i2400m_dev_attr_group = {
 	.name = NULL,		/* we want them in the same directory */
 	.attrs = i2400m_dev_attrs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

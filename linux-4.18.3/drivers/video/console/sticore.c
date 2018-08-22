@@ -1116,3 +1116,4 @@ MODULE_AUTHOR("Philipp Rumpf, Helge Deller, Thomas Bogendoerfer");
 MODULE_DESCRIPTION("Core STI driver for HP's NGLE series graphics cards in HP PARISC machines");
 MODULE_LICENSE("GPL v2");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

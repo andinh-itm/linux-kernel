@@ -1797,3 +1797,4 @@ static int __init pinmux_xway_init(void)
 }
 
 core_initcall_sync(pinmux_xway_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

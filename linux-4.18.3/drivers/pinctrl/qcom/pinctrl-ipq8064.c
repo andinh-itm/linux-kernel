@@ -667,3 +667,4 @@ MODULE_AUTHOR("Andy Gross <agross@codeaurora.org>");
 MODULE_DESCRIPTION("Qualcomm IPQ8064 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, ipq8064_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

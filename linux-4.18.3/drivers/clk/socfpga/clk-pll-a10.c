@@ -128,3 +128,4 @@ void __init socfpga_a10_pll_init(struct device_node *node)
 {
 	__socfpga_pll_init(node, &clk_pll_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

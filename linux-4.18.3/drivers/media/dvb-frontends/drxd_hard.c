@@ -2980,3 +2980,4 @@ EXPORT_SYMBOL(drxd_attach);
 MODULE_DESCRIPTION("DRXD driver");
 MODULE_AUTHOR("Micronas");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

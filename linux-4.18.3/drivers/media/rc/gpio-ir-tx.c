@@ -174,3 +174,4 @@ module_platform_driver(gpio_ir_tx_driver);
 MODULE_DESCRIPTION("GPIO IR Bit Banging Transmitter");
 MODULE_AUTHOR("Sean Young <sean@mess.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -273,3 +273,4 @@ void acpi_ut_delete_generic_state(union acpi_generic_state *state)
 
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

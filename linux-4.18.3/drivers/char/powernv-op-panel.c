@@ -221,3 +221,4 @@ MODULE_DEVICE_TABLE(of, oppanel_match);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PowerNV Operator Panel LCD Display Driver");
 MODULE_AUTHOR("Suraj Jitindar Singh <sjitindarsingh@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

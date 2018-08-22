@@ -1254,3 +1254,4 @@ module_param(interval, int, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(interval, "Overrides interrupt interval");
 module_param(unstable_bauds, bool, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(unstable_bauds, "Allow unstable baud rates");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

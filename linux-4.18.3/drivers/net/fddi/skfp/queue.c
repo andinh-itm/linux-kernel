@@ -171,3 +171,4 @@ void do_smt_flag(struct s_smc *smc, char *flag, int value)
 #endif	/* DEBUG */
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

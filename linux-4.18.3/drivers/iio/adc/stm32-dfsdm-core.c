@@ -334,3 +334,4 @@ module_platform_driver(stm32_dfsdm_driver);
 MODULE_AUTHOR("Arnaud Pouliquen <arnaud.pouliquen@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 dfsdm driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

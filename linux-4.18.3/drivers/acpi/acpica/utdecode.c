@@ -576,3 +576,4 @@ u8 acpi_ut_valid_object_type(acpi_object_type type)
 
 	return (TRUE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -291,3 +291,4 @@ module_i2c_driver(da9210_regulator_driver);
 MODULE_AUTHOR("S Twiss <stwiss.opensource@diasemi.com>");
 MODULE_DESCRIPTION("Regulator device driver for Dialog DA9210");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

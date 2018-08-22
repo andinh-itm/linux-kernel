@@ -2207,3 +2207,4 @@ EXPORT_SYMBOL(wd33c93_queuecommand);
 EXPORT_SYMBOL(wd33c93_intr);
 EXPORT_SYMBOL(wd33c93_show_info);
 EXPORT_SYMBOL(wd33c93_write_info);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

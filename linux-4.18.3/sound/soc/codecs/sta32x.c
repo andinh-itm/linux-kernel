@@ -1151,3 +1151,4 @@ module_i2c_driver(sta32x_i2c_driver);
 MODULE_DESCRIPTION("ASoC STA32X driver");
 MODULE_AUTHOR("Johannes Stezenbach <js@sig21.net>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

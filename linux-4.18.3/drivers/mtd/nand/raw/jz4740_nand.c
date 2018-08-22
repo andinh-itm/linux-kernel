@@ -534,3 +534,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("NAND controller driver for JZ4740 SoC");
 MODULE_ALIAS("platform:jz4740-nand");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -61,3 +61,4 @@ DT_MACHINE_START(GEMINI_DT, "Gemini (Device Tree)")
 	.init_machine	= gemini_init_machine,
 	.dt_compat	= gemini_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

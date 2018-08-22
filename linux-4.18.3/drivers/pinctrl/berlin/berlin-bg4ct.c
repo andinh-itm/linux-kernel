@@ -485,3 +485,4 @@ static struct platform_driver berlin4ct_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(berlin4ct_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

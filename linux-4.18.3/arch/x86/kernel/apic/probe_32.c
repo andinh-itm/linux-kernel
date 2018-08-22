@@ -247,3 +247,4 @@ int __init default_acpi_madt_oem_check(char *oem_id, char *oem_table_id)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -35,3 +35,4 @@ const struct xattr_handler hfsplus_xattr_trusted_handler = {
 	.get	= hfsplus_trusted_getxattr,
 	.set	= hfsplus_trusted_setxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -19,3 +19,4 @@ int ptrace_setregs(long pid, unsigned long *regs)
 		return -errno;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

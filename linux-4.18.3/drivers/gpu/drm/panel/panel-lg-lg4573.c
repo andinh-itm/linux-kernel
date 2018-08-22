@@ -295,3 +295,4 @@ module_spi_driver(lg4573_driver);
 MODULE_AUTHOR("Heiko Schocher <hs@denx.de>");
 MODULE_DESCRIPTION("lg4573 LCD Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

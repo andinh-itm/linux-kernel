@@ -147,3 +147,4 @@ void snd_gus_irq_profile_init(struct snd_gus_card *gus)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

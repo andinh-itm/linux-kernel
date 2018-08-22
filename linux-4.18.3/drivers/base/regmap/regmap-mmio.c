@@ -389,3 +389,4 @@ void regmap_mmio_detach_clk(struct regmap *map)
 EXPORT_SYMBOL_GPL(regmap_mmio_detach_clk);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

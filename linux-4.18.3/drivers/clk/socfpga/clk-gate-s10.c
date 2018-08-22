@@ -123,3 +123,4 @@ struct clk *s10_register_gate(const char *name, const char *parent_name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

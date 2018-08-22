@@ -162,3 +162,4 @@ MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("PCF50633 backlight driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pcf50633-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

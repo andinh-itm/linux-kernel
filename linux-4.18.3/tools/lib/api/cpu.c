@@ -17,3 +17,4 @@ int cpu__get_max_freq(unsigned long long *freq)
 
 	return sysfs__read_ull(entry, freq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

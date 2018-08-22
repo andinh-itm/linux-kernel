@@ -212,3 +212,4 @@ int spufs_coredump_extra_notes_write(struct coredump_params *cprm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -606,3 +606,4 @@ void iop13xx_restart(enum reboot_mode mode, const char *cmd)
 	write_wdtsr(IOP13XX_WDTSR_WRITE_EN | IOP13XX_WDTCR_IB_RESET);
 	write_wdtcr(0x1000);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -283,3 +283,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Qualcomm crypto engine driver");
 MODULE_ALIAS("platform:" KBUILD_MODNAME);
 MODULE_AUTHOR("The Linux Foundation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

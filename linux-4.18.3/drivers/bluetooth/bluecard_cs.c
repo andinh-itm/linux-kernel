@@ -908,3 +908,4 @@ static struct pcmcia_driver bluecard_driver = {
 	.id_table	= bluecard_ids,
 };
 module_pcmcia_driver(bluecard_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

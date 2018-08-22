@@ -838,3 +838,4 @@ module_hid_driver(alps_driver);
 MODULE_AUTHOR("Masaki Ota <masaki.ota@jp.alps.com>");
 MODULE_DESCRIPTION("ALPS HID driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2293,3 +2293,4 @@ MODULE_DESCRIPTION("LG Electronics LGDT3306A ATSC/QAM-B Demodulator Driver");
 MODULE_AUTHOR("Fred Richter <frichter@hauppauge.com>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

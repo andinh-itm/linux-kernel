@@ -49,3 +49,4 @@ void arch_remove_reservations(struct resource *avail)
 		remove_e820_regions(avail);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

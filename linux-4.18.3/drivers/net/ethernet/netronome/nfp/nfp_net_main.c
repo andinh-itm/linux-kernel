@@ -805,3 +805,4 @@ void nfp_net_pci_remove(struct nfp_pf *pf)
 
 	cancel_work_sync(&pf->port_refresh_work);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1960,3 +1960,4 @@ static struct i2c_driver ov7670_driver = {
 };
 
 module_i2c_driver(ov7670_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

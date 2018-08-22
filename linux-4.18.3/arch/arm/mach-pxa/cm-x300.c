@@ -877,3 +877,4 @@ MACHINE_START(CM_X300, "CM-X300 module")
 	.fixup		= cm_x300_fixup,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -102,3 +102,4 @@ MODULE_AUTHOR("David A. Schleef <ds@schleef.org>");
 MODULE_AUTHOR("Frank Mori Hess <fmhess@users.sourceforge.net>");
 MODULE_DESCRIPTION("Comedi driver for ComputerBoards DAS-08 PCMCIA boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

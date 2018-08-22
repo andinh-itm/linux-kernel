@@ -61,3 +61,4 @@ struct pci_dev *pci_slot_func_init(struct pci_access **pacc, int slot,
 }
 
 #endif /* defined(__i386__) || defined(__x86_64__) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

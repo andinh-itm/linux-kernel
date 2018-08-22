@@ -888,3 +888,4 @@ module_exit(locomo_exit);
 MODULE_DESCRIPTION("Sharp LoCoMo core driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Lenz <lenz@cs.wisc.edu>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

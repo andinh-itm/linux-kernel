@@ -426,3 +426,4 @@ module_platform_driver(rockchip_pwm_driver);
 MODULE_AUTHOR("Beniamino Galvani <b.galvani@gmail.com>");
 MODULE_DESCRIPTION("Rockchip SoC PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

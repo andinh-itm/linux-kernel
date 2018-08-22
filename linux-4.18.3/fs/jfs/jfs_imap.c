@@ -3174,3 +3174,4 @@ static void copy_to_dinode(struct dinode * dip, struct inode *ip)
 	if (S_ISCHR(ip->i_mode) || S_ISBLK(ip->i_mode))
 		dip->di_rdev = cpu_to_le32(jfs_ip->dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

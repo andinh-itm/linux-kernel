@@ -794,3 +794,4 @@ module_i2c_driver(wm8940_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8940 driver");
 MODULE_AUTHOR("Jonathan Cameron");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

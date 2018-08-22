@@ -72,3 +72,4 @@ void __init nor_simtec_init(void)
 	else
 		simtec_nor_vpp(NULL, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

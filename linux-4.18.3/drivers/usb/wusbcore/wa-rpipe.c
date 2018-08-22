@@ -539,3 +539,4 @@ void rpipe_clear_feature_stalled(struct wahc *wa, struct usb_host_endpoint *ep)
 	mutex_unlock(&wa->rpipe_mutex);
 }
 EXPORT_SYMBOL_GPL(rpipe_clear_feature_stalled);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -83,3 +83,4 @@ size_t syscall_arg__scnprintf_open_flags(char *bf, size_t size, struct syscall_a
 
 	return open__scnprintf_flags(flags, bf, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

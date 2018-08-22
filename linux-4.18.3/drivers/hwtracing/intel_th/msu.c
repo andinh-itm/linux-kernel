@@ -1520,3 +1520,4 @@ module_driver(intel_th_msc_driver,
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel(R) Trace Hub Memory Storage Unit driver");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

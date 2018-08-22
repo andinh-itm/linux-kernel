@@ -348,3 +348,4 @@ EXPORT_SYMBOL_GPL(wm9705_codec);
 MODULE_AUTHOR("Liam Girdwood <lrg@slimlogic.co.uk>");
 MODULE_DESCRIPTION("WM9705 Touch Screen Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

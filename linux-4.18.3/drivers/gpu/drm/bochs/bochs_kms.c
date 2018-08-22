@@ -272,3 +272,4 @@ void bochs_kms_fini(struct bochs_device *bochs)
 		bochs->mode_config_initialized = false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

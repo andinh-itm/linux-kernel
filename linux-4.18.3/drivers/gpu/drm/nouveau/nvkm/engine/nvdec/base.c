@@ -57,3 +57,4 @@ nvkm_nvdec_new_(struct nvkm_device *device, int index,
 	return nvkm_engine_ctor(&nvkm_nvdec, device, index, true,
 				&nvdec->engine);
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

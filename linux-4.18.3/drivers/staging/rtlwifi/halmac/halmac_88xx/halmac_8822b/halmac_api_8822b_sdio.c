@@ -171,3 +171,4 @@ enum halmac_ret_status halmac_interface_integration_tuning_8822b_sdio(
 {
 	return HALMAC_RET_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

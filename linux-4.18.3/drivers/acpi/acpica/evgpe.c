@@ -841,3 +841,4 @@ acpi_ev_gpe_dispatch(struct acpi_namespace_node *gpe_device,
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

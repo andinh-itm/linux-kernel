@@ -75,3 +75,4 @@ static int __init ledtrig_panic_init(void)
 	return 0;
 }
 device_initcall(ledtrig_panic_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

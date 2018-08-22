@@ -559,3 +559,4 @@ module_i2c_driver(adp1653_i2c_driver);
 MODULE_AUTHOR("Sakari Ailus <sakari.ailus@nokia.com>");
 MODULE_DESCRIPTION("Analog Devices ADP1653 LED flash driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

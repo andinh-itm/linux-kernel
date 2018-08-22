@@ -238,3 +238,4 @@ struct alpha_machine_vector ruffian_mv __initmv = {
 	.pci_swizzle		= ruffian_swizzle,
 };
 ALIAS_MV(ruffian)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

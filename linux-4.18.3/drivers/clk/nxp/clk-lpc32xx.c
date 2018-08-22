@@ -1591,3 +1591,4 @@ static void __init lpc32xx_usb_clk_init(struct device_node *np)
 	of_clk_add_provider(np, of_clk_src_onecell_get, &usb_clk_data);
 }
 CLK_OF_DECLARE(lpc32xx_usb_clk, "nxp,lpc3220-usb-clk", lpc32xx_usb_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

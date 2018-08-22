@@ -343,3 +343,4 @@ module_exit(intel_th_pti_lpp_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel(R) Trace Hub PTI/LPP output driver");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

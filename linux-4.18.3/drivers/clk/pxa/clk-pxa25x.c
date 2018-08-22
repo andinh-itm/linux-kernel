@@ -360,3 +360,4 @@ static void __init pxa25x_dt_clocks_init(struct device_node *np)
 }
 CLK_OF_DECLARE(pxa25x_clks, "marvell,pxa250-core-clocks",
 	       pxa25x_dt_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

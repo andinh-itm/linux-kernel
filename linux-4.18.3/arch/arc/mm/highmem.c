@@ -139,3 +139,4 @@ void __init kmap_init(void)
 	BUILD_BUG_ON(LAST_PKMAP > PTRS_PER_PTE);
 	fixmap_page_table = alloc_kmap_pgtable(FIXMAP_BASE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

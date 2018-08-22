@@ -39,3 +39,4 @@ static const struct devs_id lis331dl_dev_id __initconst = {
 };
 
 sfi_device(lis331dl_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

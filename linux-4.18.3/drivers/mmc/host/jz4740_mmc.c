@@ -1198,3 +1198,4 @@ module_platform_driver(jz4740_mmc_driver);
 MODULE_DESCRIPTION("JZ4740 SD/MMC controller driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

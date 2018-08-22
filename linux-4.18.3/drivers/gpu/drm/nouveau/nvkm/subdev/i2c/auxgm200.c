@@ -181,3 +181,4 @@ gm200_i2c_aux_new(struct nvkm_i2c_pad *pad, int index, u8 drive,
 	aux->base.intr = 1 << aux->ch;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

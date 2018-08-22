@@ -1942,3 +1942,4 @@ module_param(programmableDelay, int, 0);
 MODULE_PARM_DESC(programmableDelay, "delay used during tablet programming");
 module_param(jitterDelay, int, 0);
 MODULE_PARM_DESC(jitterDelay, "stylus/mouse settlement delay");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

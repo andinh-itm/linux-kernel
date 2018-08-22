@@ -511,3 +511,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Ian Molton, Dirk Opfer, Chris Humbert, Dmitry Baryshkov");
 MODULE_DESCRIPTION("NAND flash driver on Toshiba Mobile IO controller");
 MODULE_ALIAS("platform:tmio-nand");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

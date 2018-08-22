@@ -79,3 +79,4 @@ MODULE_AUTHOR("Sebastian Claßen <sebastian.classen@freenet.ag>");
 MODULE_AUTHOR("Jan Engelhardt <jengelh@medozas.de>");
 MODULE_DESCRIPTION("nf_dup_ipv6: IPv6 packet duplication");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1677,3 +1677,4 @@ const struct inode_operations reiserfs_special_inode_operations = {
 	.get_acl = reiserfs_get_acl,
 	.set_acl = reiserfs_set_acl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

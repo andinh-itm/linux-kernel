@@ -500,3 +500,4 @@ MODULE_LICENSE("GPL");
 module_init(cpufreq_gx_init);
 module_exit(cpufreq_gx_exit);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

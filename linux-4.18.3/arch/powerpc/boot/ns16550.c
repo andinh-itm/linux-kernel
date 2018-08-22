@@ -77,3 +77,4 @@ int ns16550_console_init(void *devp, struct serial_console_data *scdp)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1062,3 +1062,4 @@ MODULE_DESCRIPTION("Palmas pin control driver");
 MODULE_AUTHOR("Laxman Dewangan<ldewangan@nvidia.com>");
 MODULE_ALIAS("platform:palmas-pinctrl");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

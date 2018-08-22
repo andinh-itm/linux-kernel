@@ -446,3 +446,4 @@ MODULE_AUTHOR("Philippe Cornu <philippe.cornu@st.com>");
 MODULE_AUTHOR("Yannick Fertre <yannick.fertre@st.com>");
 MODULE_DESCRIPTION("DRM Driver for Raydium RM68200 MIPI DSI panel");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

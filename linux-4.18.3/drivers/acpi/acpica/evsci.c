@@ -212,3 +212,4 @@ acpi_status acpi_ev_remove_all_sci_handlers(void)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -83,3 +83,4 @@ struct omap_volt_data omap36xx_vddcore_volt_data[] = {
 	VOLT_DATA_DEFINE(OMAP3630_VDD_CORE_OPP100_UV, OMAP3630_CONTROL_FUSE_OPP100_VDD2, 0xf9, 0x16),
 	VOLT_DATA_DEFINE(0, 0, 0, 0),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

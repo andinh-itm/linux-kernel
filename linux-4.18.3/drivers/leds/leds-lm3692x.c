@@ -391,3 +391,4 @@ module_i2c_driver(lm3692x_driver);
 MODULE_DESCRIPTION("Texas Instruments LM3692X LED driver");
 MODULE_AUTHOR("Dan Murphy <dmurphy@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

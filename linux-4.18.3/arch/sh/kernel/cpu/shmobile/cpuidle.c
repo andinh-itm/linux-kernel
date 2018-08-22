@@ -96,3 +96,4 @@ int __init sh_mobile_setup_cpuidle(void)
 
 	return cpuidle_register(&cpuidle_driver, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

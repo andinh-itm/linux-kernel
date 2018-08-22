@@ -2895,3 +2895,4 @@ lpfc_disc_state_machine(struct lpfc_vport *vport, struct lpfc_nodelist *ndlp,
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

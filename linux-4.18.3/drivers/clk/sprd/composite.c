@@ -58,3 +58,4 @@ const struct clk_ops sprd_comp_ops = {
 	.set_rate	= sprd_comp_set_rate,
 };
 EXPORT_SYMBOL_GPL(sprd_comp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

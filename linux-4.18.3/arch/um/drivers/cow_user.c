@@ -441,3 +441,4 @@ int init_cow_file(int fd, char *cow_file, char *backing_file, int sectorsize,
  out:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -106,3 +106,4 @@ module_exit(pvr2_dma_exit);
 MODULE_AUTHOR("Paul Mundt <lethal@linux-sh.org>");
 MODULE_DESCRIPTION("NEC PowerVR 2 DMA driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

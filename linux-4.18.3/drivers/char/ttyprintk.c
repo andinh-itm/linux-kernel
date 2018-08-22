@@ -219,3 +219,4 @@ device_initcall(ttyprintk_init);
 module_exit(ttyprintk_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

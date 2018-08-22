@@ -359,3 +359,4 @@ void ath9k_dfs_process_phyerr(struct ath_softc *sc, void *data,
 }
 #undef PRI_CH_RADAR_FOUND
 #undef EXT_CH_RADAR_FOUND
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

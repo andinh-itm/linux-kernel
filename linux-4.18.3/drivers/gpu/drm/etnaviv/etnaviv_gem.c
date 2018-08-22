@@ -784,3 +784,4 @@ int etnaviv_gem_new_userptr(struct drm_device *dev, struct drm_file *file,
 	drm_gem_object_put_unlocked(&etnaviv_obj->base);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

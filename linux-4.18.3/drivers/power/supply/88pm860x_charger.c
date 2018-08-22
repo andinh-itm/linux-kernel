@@ -758,3 +758,4 @@ module_platform_driver(pm860x_charger_driver);
 
 MODULE_DESCRIPTION("Marvell 88PM860x Charger driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

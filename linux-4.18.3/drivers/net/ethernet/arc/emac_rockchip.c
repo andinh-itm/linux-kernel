@@ -283,3 +283,4 @@ module_platform_driver(emac_rockchip_driver);
 MODULE_AUTHOR("Romain Perier <romain.perier@gmail.com>");
 MODULE_DESCRIPTION("Rockchip EMAC platform driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

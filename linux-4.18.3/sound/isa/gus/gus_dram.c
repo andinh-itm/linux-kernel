@@ -100,3 +100,4 @@ int snd_gus_dram_read(struct snd_gus_card *gus, char __user *buffer,
 {
 	return snd_gus_dram_peek(gus, buffer, address, size, rom);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

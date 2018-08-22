@@ -171,3 +171,4 @@ MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, jmicron_pci_tbl);
 MODULE_VERSION(DRV_VERSION);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

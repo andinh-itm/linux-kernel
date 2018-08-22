@@ -624,3 +624,4 @@ static int __init alchemy_usb_init(void)
 	return ret;
 }
 arch_initcall(alchemy_usb_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -146,3 +146,4 @@ void lkdtm_READ_BUDDY_AFTER_FREE(void)
 
 	kfree(val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -93,3 +93,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("CLPS711X GPIO driver");
 MODULE_ALIAS("platform:clps711x-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

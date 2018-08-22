@@ -619,3 +619,4 @@ int __init db1550_dev_setup(void)
 
 	return platform_add_devices(db1550_devs, ARRAY_SIZE(db1550_devs));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -202,3 +202,4 @@ MODULE_ALIAS("platform:" DRIVER_NAME);
 MODULE_DESCRIPTION("Exar GPIO driver");
 MODULE_AUTHOR("Sudip Mukherjee <sudip.mukherjee@codethink.co.uk>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

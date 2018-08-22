@@ -310,3 +310,4 @@ acpi_status acpi_hw_legacy_wake(u8 sleep_state)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

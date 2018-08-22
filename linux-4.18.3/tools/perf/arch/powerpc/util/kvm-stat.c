@@ -170,3 +170,4 @@ int cpu_isa_init(struct perf_kvm_stat *kvm, const char *cpuid __maybe_unused)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

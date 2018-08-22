@@ -336,3 +336,4 @@ void ceph_auth_invalidate_authorizer(struct ceph_auth_client *ac, int peer_type)
 	mutex_unlock(&ac->mutex);
 }
 EXPORT_SYMBOL(ceph_auth_invalidate_authorizer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

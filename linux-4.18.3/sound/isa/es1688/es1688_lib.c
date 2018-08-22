@@ -1045,3 +1045,4 @@ static void __exit alsa_es1688_exit(void)
 
 module_init(alsa_es1688_init)
 module_exit(alsa_es1688_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

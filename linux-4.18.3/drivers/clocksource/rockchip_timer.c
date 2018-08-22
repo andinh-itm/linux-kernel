@@ -305,3 +305,4 @@ static int __init rk_timer_init(struct device_node *np)
 
 TIMER_OF_DECLARE(rk3288_timer, "rockchip,rk3288-timer", rk_timer_init);
 TIMER_OF_DECLARE(rk3399_timer, "rockchip,rk3399-timer", rk_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

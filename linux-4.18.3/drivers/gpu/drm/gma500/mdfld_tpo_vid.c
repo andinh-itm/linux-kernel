@@ -87,3 +87,4 @@ const struct panel_funcs mdfld_tpo_vid_funcs = {
 	.get_config_mode = &tpo_vid_get_config_mode,
 	.get_panel_info = tpo_vid_get_panel_info,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

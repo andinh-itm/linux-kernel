@@ -1724,3 +1724,4 @@ void isci_dev_set_hang_detection_timeout(
 						    timeout);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

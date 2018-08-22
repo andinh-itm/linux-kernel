@@ -273,3 +273,4 @@ void __init tegra_super_clk_gen5_init(void __iomem *clk_base,
 	tegra_super_clk_init(clk_base, pmc_base, tegra_clks, params,
 			     &tegra_super_gen_info_gen5);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

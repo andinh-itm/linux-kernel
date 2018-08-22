@@ -1645,3 +1645,4 @@ MODULE_LICENSE("GPL");
 MODULE_FIRMWARE("icom_call_setup.bin");
 MODULE_FIRMWARE("icom_res_dce.bin");
 MODULE_FIRMWARE("icom_asc.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

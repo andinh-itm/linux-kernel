@@ -3309,3 +3309,4 @@ MODULE_DESCRIPTION("Solarflare Falcon network driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, ef4_pci_table);
 MODULE_VERSION(EF4_DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -757,3 +757,4 @@ void msm_dsi_phy_set_usecase(struct msm_dsi_phy *phy,
 	if (phy)
 		phy->usecase = uc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

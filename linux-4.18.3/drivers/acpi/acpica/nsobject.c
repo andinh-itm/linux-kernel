@@ -426,3 +426,4 @@ acpi_ns_get_attached_data(struct acpi_namespace_node *node,
 
 	return (AE_NOT_FOUND);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

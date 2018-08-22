@@ -54,3 +54,4 @@ void iscsit_unregister_transport(struct iscsit_transport *t)
 	pr_debug("Unregistered iSCSI transport: %s\n", t->name);
 }
 EXPORT_SYMBOL(iscsit_unregister_transport);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -26,3 +26,4 @@ void intel_th_debug_done(void)
 	debugfs_remove(intel_th_dbg);
 	intel_th_dbg = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

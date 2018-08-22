@@ -66,3 +66,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Jiri Pirko <jiri@resnulli.us>");
 MODULE_DESCRIPTION("Random mode for team");
 MODULE_ALIAS_TEAM_MODE("random");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

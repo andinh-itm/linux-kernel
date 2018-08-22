@@ -280,3 +280,4 @@ MODULE_ALIAS_CRYPTO("xts(speck128)");
 MODULE_ALIAS_CRYPTO("xts-speck128-neon");
 MODULE_ALIAS_CRYPTO("xts(speck64)");
 MODULE_ALIAS_CRYPTO("xts-speck64-neon");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

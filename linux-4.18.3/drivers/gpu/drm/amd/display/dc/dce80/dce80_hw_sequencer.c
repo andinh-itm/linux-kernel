@@ -79,3 +79,4 @@ void dce80_hw_sequencer_construct(struct dc *dc)
 	dc->hwss.set_bandwidth = dce100_set_bandwidth;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

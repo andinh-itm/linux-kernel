@@ -284,3 +284,4 @@ struct sk_buff *h4_recv_buf(struct hci_dev *hdev, struct sk_buff *skb,
 	return skb;
 }
 EXPORT_SYMBOL_GPL(h4_recv_buf);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

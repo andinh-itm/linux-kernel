@@ -86,3 +86,4 @@ u32 cs5536_pci_conf_read4(int function, int reg)
 
 	return data;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

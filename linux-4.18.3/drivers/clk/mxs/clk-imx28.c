@@ -253,3 +253,4 @@ static void __init mx28_clocks_init(struct device_node *np)
 		clk_prepare_enable(clks[clks_init_on[i]]);
 }
 CLK_OF_DECLARE(imx28_clkctrl, "fsl,imx28-clkctrl", mx28_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

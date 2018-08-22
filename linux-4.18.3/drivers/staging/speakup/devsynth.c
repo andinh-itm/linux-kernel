@@ -94,3 +94,4 @@ void speakup_unregister_devsynth(void)
 	misc_deregister(&synth_device);
 	misc_registered = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

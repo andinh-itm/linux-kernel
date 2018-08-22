@@ -1117,3 +1117,4 @@ module_i2c_driver(hideep_driver);
 MODULE_DESCRIPTION("Driver for HiDeep Touchscreen Controller");
 MODULE_AUTHOR("anthony.kim@hideep.com");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

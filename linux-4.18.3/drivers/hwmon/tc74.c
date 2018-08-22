@@ -175,3 +175,4 @@ MODULE_AUTHOR("Maciej Szmigiero <mail@maciej.szmigiero.name>");
 
 MODULE_DESCRIPTION("TC74 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

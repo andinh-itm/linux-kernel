@@ -327,3 +327,4 @@ __setup("kmac=", setup_kmac);
 #endif /* CONFIG_NET */
 
 arch_initcall(plat_setup_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

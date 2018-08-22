@@ -2172,3 +2172,4 @@ MODULE_AUTHOR("Matti Aaltonen <matti.j.aaltonen@nokia.com>");
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wl1273_fm_radio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

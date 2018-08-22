@@ -221,3 +221,4 @@ void generic_bug_clear_once(void)
 
 	clear_once_table(__start___bug_table, __stop___bug_table);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

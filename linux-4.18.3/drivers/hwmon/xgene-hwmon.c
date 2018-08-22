@@ -809,3 +809,4 @@ module_platform_driver(xgene_hwmon_driver);
 
 MODULE_DESCRIPTION("APM X-Gene SoC hardware monitor");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

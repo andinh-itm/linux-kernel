@@ -237,3 +237,4 @@ int hfsplus_show_options(struct seq_file *seq, struct dentry *root)
 		seq_puts(seq, ",nobarrier");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -143,3 +143,4 @@ int __init ip22_eisa_init(void)
 	EISA_bus = 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

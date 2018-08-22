@@ -262,3 +262,4 @@ static int __init max8925_i2c_init(void)
 	return ret;
 }
 subsys_initcall(max8925_i2c_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

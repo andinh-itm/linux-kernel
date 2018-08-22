@@ -139,3 +139,4 @@ unsigned int intlog10(u32 value)
 	return (log * 646456993) >> 31;
 }
 EXPORT_SYMBOL(intlog10);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

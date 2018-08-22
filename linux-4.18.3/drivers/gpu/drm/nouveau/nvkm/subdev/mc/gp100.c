@@ -126,3 +126,4 @@ gp100_mc_new(struct nvkm_device *device, int index, struct nvkm_mc **pmc)
 {
 	return gp100_mc_new_(&gp100_mc, device, index, pmc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

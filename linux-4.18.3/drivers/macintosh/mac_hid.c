@@ -281,3 +281,4 @@ static void __exit mac_hid_exit(void)
 		mac_hid_stop_emulation();
 }
 module_exit(mac_hid_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

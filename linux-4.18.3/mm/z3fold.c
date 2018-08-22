@@ -1128,3 +1128,4 @@ module_exit(exit_z3fold);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vitaly Wool <vitalywool@gmail.com>");
 MODULE_DESCRIPTION("3-Fold Allocator for Compressed Pages");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -197,3 +197,4 @@ void __init board_staging_register_devices(const struct board_staging_dev *devs,
 	for (i = 0; i < ndevs; i++)
 		board_staging_register_device(&devs[i]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

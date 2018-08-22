@@ -213,3 +213,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Avi Fishman <avifishman70@gmail.com>");
 MODULE_AUTHOR("Haiyue Wang <haiyue.wang@linux.intel.com>");
 MODULE_DESCRIPTION("NPCM7xx device interface to the KCS BMC device");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

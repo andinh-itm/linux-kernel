@@ -568,3 +568,4 @@ module_i2c_driver(cs2000_driver);
 MODULE_DESCRIPTION("CS2000-CP driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

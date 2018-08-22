@@ -460,3 +460,4 @@ module_platform_driver(spi_gpio_driver);
 MODULE_DESCRIPTION("SPI master driver using generic bitbanged GPIO ");
 MODULE_AUTHOR("David Brownell");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

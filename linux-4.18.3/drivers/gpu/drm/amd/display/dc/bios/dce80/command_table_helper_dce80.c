@@ -352,3 +352,4 @@ const struct command_table_helper *dal_cmd_tbl_helper_dce80_get_table(void)
 {
 	return &command_table_helper_funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

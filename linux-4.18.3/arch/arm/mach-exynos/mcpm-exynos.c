@@ -295,3 +295,4 @@ static int __init exynos_mcpm_init(void)
 }
 
 early_initcall(exynos_mcpm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

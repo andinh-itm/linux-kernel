@@ -35,3 +35,4 @@ EXPORT_SYMBOL(__udivsi3);
 EXPORT_SYMBOL(memcpy);
 EXPORT_SYMBOL(memset);
 EXPORT_SYMBOL(strncpy_from_user);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

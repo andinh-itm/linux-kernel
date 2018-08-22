@@ -308,3 +308,4 @@ snd_emux_clear_effect(struct snd_emux_port *p)
 }
 
 #endif /* SNDRV_EMUX_USE_RAW_EFFECT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

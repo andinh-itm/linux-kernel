@@ -243,3 +243,4 @@ void __iomem *pasemi_pci_getcfgaddr(struct pci_dev *dev, int offset)
 }
 
 struct pci_controller_ops pasemi_pci_controller_ops;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

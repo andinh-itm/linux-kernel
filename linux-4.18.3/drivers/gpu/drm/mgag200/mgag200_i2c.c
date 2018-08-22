@@ -156,3 +156,4 @@ void mgag200_i2c_destroy(struct mga_i2c_chan *i2c)
 	kfree(i2c);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

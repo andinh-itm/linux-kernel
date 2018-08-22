@@ -46,3 +46,4 @@ void __init s5p_init_cpu(const void __iomem *cpuid_addr)
 
 	pr_info("Samsung CPU ID: 0x%08lx\n", samsung_cpu_id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

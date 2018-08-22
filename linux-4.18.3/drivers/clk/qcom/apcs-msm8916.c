@@ -135,3 +135,4 @@ module_platform_driver(qcom_apcs_msm8916_clk_driver);
 MODULE_AUTHOR("Georgi Djakov <georgi.djakov@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Qualcomm MSM8916 APCS clock driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

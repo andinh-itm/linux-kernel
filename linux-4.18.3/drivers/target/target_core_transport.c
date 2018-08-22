@@ -3434,3 +3434,4 @@ target_check_fua(struct se_device *dev)
 {
 	return target_check_wce(dev) && dev->dev_attrib.emulate_fua_write > 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

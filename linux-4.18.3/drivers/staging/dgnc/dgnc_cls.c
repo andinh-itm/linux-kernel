@@ -1133,3 +1133,4 @@ struct board_ops dgnc_cls_ops = {
 	.get_uart_bytes_left =		cls_get_uart_bytes_left,
 	.send_immediate_char =		cls_send_immediate_char
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

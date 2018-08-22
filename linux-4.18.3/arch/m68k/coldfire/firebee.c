@@ -85,3 +85,4 @@ static int __init init_firebee(void)
 arch_initcall(init_firebee);
 
 /***************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -338,3 +338,4 @@ void solo_enc_exit(struct solo_dev *solo_dev)
 		solo_reg_write(solo_dev, SOLO_CAP_CH_COMP_ENA_E(i), 0);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2283,3 +2283,4 @@ bool rtl92cu_gpio_radio_on_off_checking(struct ieee80211_hw *hw, u8 * valid)
 	*valid = 1;
 	return !ppsc->hwradiooff;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

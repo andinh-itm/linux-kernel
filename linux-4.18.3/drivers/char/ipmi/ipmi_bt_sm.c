@@ -686,3 +686,4 @@ const struct si_sm_handlers bt_smi_handlers = {
 	.cleanup		= bt_cleanup,
 	.size			= bt_size,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -152,3 +152,4 @@ MODULE_AUTHOR("William Breathitt Gray <vilhelm.gray@gmail.com>");
 MODULE_DESCRIPTION("WinSystems EBC-C384 watchdog timer driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("isa:" MODULE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

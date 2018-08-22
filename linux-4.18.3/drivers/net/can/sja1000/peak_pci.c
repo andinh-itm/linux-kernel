@@ -767,3 +767,4 @@ static struct pci_driver peak_pci_driver = {
 };
 
 module_pci_driver(peak_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

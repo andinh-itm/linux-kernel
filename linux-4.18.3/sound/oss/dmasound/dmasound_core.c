@@ -1598,3 +1598,4 @@ EXPORT_SYMBOL(dmasound_catchRadius);
 EXPORT_SYMBOL(dmasound_ulaw2dma8);
 EXPORT_SYMBOL(dmasound_alaw2dma8);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

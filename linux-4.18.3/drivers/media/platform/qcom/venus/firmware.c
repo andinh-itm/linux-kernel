@@ -96,3 +96,4 @@ int venus_shutdown(struct device *dev)
 {
 	return qcom_scm_pas_shutdown(VENUS_PAS_ID);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

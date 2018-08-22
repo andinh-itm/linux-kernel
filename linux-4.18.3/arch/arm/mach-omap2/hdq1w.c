@@ -75,3 +75,4 @@ int omap_hdq1w_reset(struct omap_hwmod *oh)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

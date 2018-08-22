@@ -550,3 +550,4 @@ void hclge_mbx_handler(struct hclge_dev *hdev)
 	/* Write back CMDQ_RQ header pointer, M7 need this pointer */
 	hclge_write_dev(&hdev->hw, HCLGE_NIC_CRQ_HEAD_REG, crq->next_to_use);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

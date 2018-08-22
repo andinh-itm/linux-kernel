@@ -218,3 +218,4 @@ acpi_bios_warning(const char *module_name,
 
 ACPI_EXPORT_SYMBOL(acpi_bios_warning)
 #endif				/* ACPI_NO_ERROR_MESSAGES */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

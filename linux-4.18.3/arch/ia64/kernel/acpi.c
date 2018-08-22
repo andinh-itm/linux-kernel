@@ -998,3 +998,4 @@ EXPORT_SYMBOL(acpi_unregister_ioapic);
  * TBD when when IA64 starts to support suspend...
  */
 int acpi_suspend_lowlevel(void) { return 0; }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

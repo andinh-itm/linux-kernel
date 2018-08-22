@@ -205,3 +205,4 @@ tinydrm_display_pipe_init(struct tinydrm_device *tdev,
 					    format_count, NULL, connector);
 }
 EXPORT_SYMBOL(tinydrm_display_pipe_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

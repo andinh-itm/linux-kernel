@@ -51,3 +51,4 @@ void arch_jump_label_transform_static(struct jump_entry *entry,
 }
 
 #endif	/* HAVE_JUMP_LABEL */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

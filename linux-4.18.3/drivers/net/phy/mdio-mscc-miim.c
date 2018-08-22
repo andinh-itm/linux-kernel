@@ -191,3 +191,4 @@ module_platform_driver(mscc_miim_driver);
 MODULE_DESCRIPTION("Microsemi MIIM driver");
 MODULE_AUTHOR("Alexandre Belloni <alexandre.belloni@bootlin.com>");
 MODULE_LICENSE("Dual MIT/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

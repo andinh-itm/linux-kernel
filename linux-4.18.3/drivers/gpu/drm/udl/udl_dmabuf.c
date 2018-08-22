@@ -282,3 +282,4 @@ fail_detach:
 	put_device(dev->dev);
 	return ERR_PTR(ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

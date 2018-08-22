@@ -617,3 +617,4 @@ MODULE_AUTHOR("Cavium Inc. <support@cavium.com>");
 MODULE_DESCRIPTION("Cavium Inc. OCTEON Watchdog driver.");
 module_init(octeon_wdt_init);
 module_exit(octeon_wdt_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

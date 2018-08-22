@@ -669,3 +669,4 @@ struct drm_crtc *mdp4_crtc_init(struct drm_device *dev,
 
 	return crtc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -373,3 +373,4 @@ module_exit(cleanup_mtdblock);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Nicolas Pitre <nico@fluxnic.net> et al.");
 MODULE_DESCRIPTION("Caching read/erase/writeback block device emulation access to MTD devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

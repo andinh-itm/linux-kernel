@@ -108,3 +108,4 @@ int cpcmd(const char *cmd, char *response, int rlen, int *response_code)
 	return len;
 }
 EXPORT_SYMBOL(cpcmd);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

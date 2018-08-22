@@ -276,3 +276,4 @@ void s3c2412_cpufreq_setrefresh(struct s3c_cpufreq_config *cfg)
 
 	__raw_writel(refresh, S3C2412_REFRESH);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

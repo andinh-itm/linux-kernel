@@ -138,3 +138,4 @@ err_plat_reg2:
 err_data:
 	kfree(samsung_bl_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

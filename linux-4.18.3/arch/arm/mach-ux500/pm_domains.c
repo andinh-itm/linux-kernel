@@ -77,3 +77,4 @@ int __init ux500_pm_domains_init(void)
 	of_genpd_add_provider_onecell(np, genpd_data);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -97,3 +97,4 @@ int aoa_snd_ctl_add(struct snd_kcontrol* control)
 	return err;
 }
 EXPORT_SYMBOL_GPL(aoa_snd_ctl_add);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -895,3 +895,4 @@ int __insn_is_compact_branch(union mips_instruction insn)
 EXPORT_SYMBOL_GPL(__insn_is_compact_branch);
 
 #endif  /* CONFIG_KPROBES || CONFIG_UPROBES */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

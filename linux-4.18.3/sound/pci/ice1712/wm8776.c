@@ -617,3 +617,4 @@ int snd_wm8776_build_controls(struct snd_wm8776 *wm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -221,3 +221,4 @@ MODULE_AUTHOR("KaiChieh Chuang <kaichieh.chuang@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("mt6797 mt6351 soc card");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

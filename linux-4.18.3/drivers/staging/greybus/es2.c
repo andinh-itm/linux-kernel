@@ -1464,3 +1464,4 @@ module_usb_driver(es2_ap_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Greg Kroah-Hartman <gregkh@linuxfoundation.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

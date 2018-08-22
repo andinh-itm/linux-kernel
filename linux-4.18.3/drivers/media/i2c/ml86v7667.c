@@ -448,3 +448,4 @@ module_i2c_driver(ml86v7667_i2c_driver);
 MODULE_DESCRIPTION("OKI Semiconductor ML86V7667 video decoder driver");
 MODULE_AUTHOR("Vladimir Barinov");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

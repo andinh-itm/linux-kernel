@@ -272,3 +272,4 @@ MODULE_AUTHOR("Mårten Lindahl <martenli@axis.com>");
 MODULE_DESCRIPTION("Texas Instruments ADC084S021");
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION("1.0");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

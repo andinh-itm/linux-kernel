@@ -1212,3 +1212,4 @@ void hfi1_put_proc_affinity(int cpu)
 	hfi1_cdbg(PROC, "Returning CPU %d for future process assignment", cpu);
 	mutex_unlock(&affinity->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

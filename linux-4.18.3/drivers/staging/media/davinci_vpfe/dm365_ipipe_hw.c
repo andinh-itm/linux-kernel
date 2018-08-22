@@ -1037,3 +1037,4 @@ int rsz_enable(void __iomem *rsz_base, int rsz_id, int enable)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

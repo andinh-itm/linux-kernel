@@ -433,3 +433,4 @@ module_platform_driver(sti_dwmac_driver);
 MODULE_AUTHOR("Srinivas Kandagatla <srinivas.kandagatla@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics DWMAC Specific Glue layer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

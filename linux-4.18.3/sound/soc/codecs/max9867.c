@@ -537,3 +537,4 @@ module_i2c_driver(max9867_i2c_driver);
 MODULE_AUTHOR("anish kumar <yesanishhere@gmail.com>");
 MODULE_DESCRIPTION("ALSA SoC MAX9867 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

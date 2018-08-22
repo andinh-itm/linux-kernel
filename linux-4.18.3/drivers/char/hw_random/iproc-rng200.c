@@ -238,3 +238,4 @@ module_platform_driver(iproc_rng200_driver);
 MODULE_AUTHOR("Broadcom");
 MODULE_DESCRIPTION("iProc RNG200 Random Number Generator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

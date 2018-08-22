@@ -114,3 +114,4 @@ int __init mtk_clk_register_cpumuxes(struct device_node *node,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

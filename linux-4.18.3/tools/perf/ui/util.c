@@ -83,3 +83,4 @@ int perf_error__unregister(struct perf_error_ops *eops)
 	perf_eops = &default_eops;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

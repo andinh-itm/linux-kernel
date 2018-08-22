@@ -2818,3 +2818,4 @@ static void __exit ftdi_elan_exit(void)
 
 module_init(ftdi_elan_init);
 module_exit(ftdi_elan_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

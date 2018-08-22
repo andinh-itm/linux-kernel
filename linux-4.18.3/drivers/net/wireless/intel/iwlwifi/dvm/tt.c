@@ -685,3 +685,4 @@ void iwl_tt_exit(struct iwl_priv *priv)
 		tt->transaction = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

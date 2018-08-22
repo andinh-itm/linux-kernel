@@ -577,3 +577,4 @@ const struct dentry_operations affs_intl_dentry_operations = {
 	.d_hash		= affs_intl_hash_dentry,
 	.d_compare	= affs_intl_compare_dentry,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

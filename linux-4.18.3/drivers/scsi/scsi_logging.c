@@ -483,3 +483,4 @@ out_printk:
 	scsi_log_release_buffer(logbuf);
 }
 EXPORT_SYMBOL(scsi_print_result);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

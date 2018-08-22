@@ -2207,3 +2207,4 @@ static struct platform_driver smc911x_driver = {
 };
 
 module_platform_driver(smc911x_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

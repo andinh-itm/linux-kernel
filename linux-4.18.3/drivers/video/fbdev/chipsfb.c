@@ -517,3 +517,4 @@ static void __exit chipsfb_exit(void)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

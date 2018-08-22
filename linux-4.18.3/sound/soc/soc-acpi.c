@@ -110,3 +110,4 @@ EXPORT_SYMBOL_GPL(snd_soc_acpi_codec_list);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ALSA SoC ACPI module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

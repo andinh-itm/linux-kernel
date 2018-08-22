@@ -137,3 +137,4 @@ void __init dec_kn02xa_be_init(void)
 	/* Clear any leftover errors from the firmware. */
 	dec_kn02xa_be_ack();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

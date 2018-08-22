@@ -104,3 +104,4 @@ int swsusp_arch_resume(void)
 		resume_stack + ARRAY_SIZE(resume_stack));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -199,3 +199,4 @@ static struct usb_driver kbtab_driver = {
 };
 
 module_usb_driver(kbtab_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

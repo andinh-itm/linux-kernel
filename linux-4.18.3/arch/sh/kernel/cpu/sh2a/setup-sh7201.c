@@ -418,3 +418,4 @@ void __init plat_early_device_setup(void)
 	early_platform_add_devices(sh7201_early_devices,
 				   ARRAY_SIZE(sh7201_early_devices));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

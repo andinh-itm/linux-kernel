@@ -175,3 +175,4 @@ int pm860x_page_bulk_read(struct i2c_client *i2c, int reg,
 	return ret;
 }
 EXPORT_SYMBOL(pm860x_page_bulk_read);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

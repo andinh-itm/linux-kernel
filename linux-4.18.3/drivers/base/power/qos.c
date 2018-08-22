@@ -884,3 +884,4 @@ void dev_pm_qos_hide_latency_tolerance(struct device *dev)
 	pm_runtime_put(dev);
 }
 EXPORT_SYMBOL_GPL(dev_pm_qos_hide_latency_tolerance);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

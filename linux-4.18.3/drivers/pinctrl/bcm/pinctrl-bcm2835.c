@@ -1110,3 +1110,4 @@ static struct platform_driver bcm2835_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(bcm2835_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

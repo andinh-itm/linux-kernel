@@ -711,3 +711,4 @@ int asd_query_task(struct sas_task *task)
 	}
 	return TMF_RESP_FUNC_COMPLETE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

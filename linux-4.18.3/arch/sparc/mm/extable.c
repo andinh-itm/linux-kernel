@@ -105,3 +105,4 @@ unsigned long search_extables_range(unsigned long addr, unsigned long *g2)
 
 	return entry->fixup;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

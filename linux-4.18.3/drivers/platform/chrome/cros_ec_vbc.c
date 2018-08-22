@@ -133,3 +133,4 @@ struct attribute_group cros_ec_vbc_attr_group = {
 	.is_bin_visible = cros_ec_vbc_is_visible,
 };
 EXPORT_SYMBOL(cros_ec_vbc_attr_group);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

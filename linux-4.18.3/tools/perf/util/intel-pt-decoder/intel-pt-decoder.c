@@ -2681,3 +2681,4 @@ unsigned char *intel_pt_find_overlap(unsigned char *buf_a, size_t len_a,
 			return buf_b; /* No overlap */
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

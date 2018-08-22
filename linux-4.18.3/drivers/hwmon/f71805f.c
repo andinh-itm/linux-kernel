@@ -1651,3 +1651,4 @@ MODULE_DESCRIPTION("F71805F/F71872F hardware monitoring driver");
 
 module_init(f71805f_init);
 module_exit(f71805f_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

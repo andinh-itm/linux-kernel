@@ -287,3 +287,4 @@ void wa_nep_destroy(struct wahc *wa)
 	usb_free_urb(wa->nep_urb);
 	kfree(wa->nep_buffer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

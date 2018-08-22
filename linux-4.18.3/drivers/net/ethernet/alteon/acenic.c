@@ -3191,3 +3191,4 @@ static int read_eeprom_byte(struct net_device *dev, unsigned long offset)
 }
 
 module_pci_driver(acenic_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -57,3 +57,4 @@ phys_addr_t mips_cdmm_phys_base(void)
 	/* This address is "typically unused" */
 	return 0x1fc10000;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

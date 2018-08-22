@@ -756,3 +756,4 @@ module_i2c_driver(adv748x_driver);
 MODULE_AUTHOR("Kieran Bingham <kieran.bingham@ideasonboard.com>");
 MODULE_DESCRIPTION("ADV748X video decoder");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

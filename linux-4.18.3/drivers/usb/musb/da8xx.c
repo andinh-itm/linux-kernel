@@ -650,3 +650,4 @@ MODULE_DESCRIPTION("DA8xx/OMAP-L1x MUSB Glue Layer");
 MODULE_AUTHOR("Sergei Shtylyov <sshtylyov@ru.mvista.com>");
 MODULE_LICENSE("GPL v2");
 module_platform_driver(da8xx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

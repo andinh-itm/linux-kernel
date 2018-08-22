@@ -188,3 +188,4 @@ void omap1510_fpga_init_irq(void)
 	irq_set_irq_type(gpio_to_irq(13), IRQ_TYPE_EDGE_RISING);
 	irq_set_chained_handler(OMAP1510_INT_FPGA, innovator_fpga_IRQ_demux);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

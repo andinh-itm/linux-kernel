@@ -144,3 +144,4 @@ MODULE_AUTHOR("Martin Willi <martin@strongswan.org>");
 MODULE_DESCRIPTION("chacha20 cipher algorithm, SIMD accelerated");
 MODULE_ALIAS_CRYPTO("chacha20");
 MODULE_ALIAS_CRYPTO("chacha20-simd");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

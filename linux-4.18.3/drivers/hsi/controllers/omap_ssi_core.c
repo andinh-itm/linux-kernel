@@ -679,3 +679,4 @@ MODULE_AUTHOR("Carlos Chinea <carlos.chinea@nokia.com>");
 MODULE_AUTHOR("Sebastian Reichel <sre@kernel.org>");
 MODULE_DESCRIPTION("Synchronous Serial Interface Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

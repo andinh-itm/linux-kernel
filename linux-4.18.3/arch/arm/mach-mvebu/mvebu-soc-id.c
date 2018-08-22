@@ -176,3 +176,4 @@ static int __init mvebu_soc_device(void)
 	return 0;
 }
 postcore_initcall(mvebu_soc_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

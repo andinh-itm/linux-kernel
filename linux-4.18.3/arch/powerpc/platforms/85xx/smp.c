@@ -512,3 +512,4 @@ void __init mpc85xx_smp_init(void)
 	ppc_md.machine_kexec = mpc85xx_smp_machine_kexec;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

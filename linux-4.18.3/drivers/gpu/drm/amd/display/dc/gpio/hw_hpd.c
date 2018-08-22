@@ -160,3 +160,4 @@ struct hw_gpio_pin *dal_hw_hpd_create(
 	construct(hpd, id, en, ctx);
 	return &hpd->base.base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -110,3 +110,4 @@ struct wlan_pwr_cfg rtl8192E_leave_lps_flow
 	RTL8192E_TRANS_LPS_TO_ACT
 	RTL8192E_TRANS_END
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

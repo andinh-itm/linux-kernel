@@ -141,3 +141,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR(	"Felix Fietkau <nbd@openwrt.org>, "
 		"Eugene Konev <ejka@openwrt.org>");
 MODULE_DESCRIPTION("MTD partitioning for TI AR7");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

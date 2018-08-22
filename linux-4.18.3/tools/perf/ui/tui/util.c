@@ -255,3 +255,4 @@ struct perf_error_ops perf_tui_eops = {
 	.error		= perf_tui__error,
 	.warning	= perf_tui__warning,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -673,3 +673,4 @@ MODULE_AUTHOR("Szabolcs Gyurko <szabolcs.gyurko@tlt.hu>, "
 	"Matt Reimer <mreimer@vpop.net>,"
 	"Jean-Francois Dagenais <dagenaisj@sonatest.com>");
 MODULE_DESCRIPTION("DS1WM w1 busmaster driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

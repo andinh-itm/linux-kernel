@@ -100,3 +100,4 @@ static struct sh_machine_vector mv_landisk __initmv = {
 	.mv_setup = landisk_setup,
 	.mv_init_irq = init_landisk_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

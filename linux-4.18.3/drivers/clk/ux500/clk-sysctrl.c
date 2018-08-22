@@ -223,3 +223,4 @@ struct clk *clk_reg_sysctrl_set_parent(struct device *dev,
 			reg_sel, reg_mask, reg_bits, 0, 0, flags,
 			&clk_sysctrl_set_parent_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

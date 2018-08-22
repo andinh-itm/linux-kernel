@@ -568,3 +568,4 @@ module_spi_driver(ams369fg06_driver);
 MODULE_AUTHOR("Jingoo Han <jg1.han@samsung.com>");
 MODULE_DESCRIPTION("ams369fg06 LCD Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

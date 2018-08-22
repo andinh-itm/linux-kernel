@@ -93,3 +93,4 @@ struct clk_hw *uniphier_clk_register_mux(struct device *dev,
 
 	return &mux->hw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

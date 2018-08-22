@@ -578,3 +578,4 @@ ixgb_get_ee_device_id(struct ixgb_hw *hw)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -198,3 +198,4 @@ module_platform_driver(ahci_dm816_driver);
 MODULE_DESCRIPTION("DaVinci DM816 AHCI SATA platform driver");
 MODULE_AUTHOR("Bartosz Golaszewski <bgolaszewski@baylibre.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

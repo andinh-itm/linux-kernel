@@ -1212,3 +1212,4 @@ static int acpi_gpio_initial_sync(void)
 }
 /* We must use _sync so that this runs after the first deferred_probe run */
 late_initcall_sync(acpi_gpio_initial_sync);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

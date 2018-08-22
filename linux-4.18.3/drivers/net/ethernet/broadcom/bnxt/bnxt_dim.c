@@ -30,3 +30,4 @@ void bnxt_dim_work(struct work_struct *work)
 	bnxt_hwrm_set_ring_coal(bnapi->bp, bnapi);
 	dim->state = NET_DIM_START_MEASURE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

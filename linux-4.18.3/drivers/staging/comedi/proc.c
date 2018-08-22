@@ -72,3 +72,4 @@ void comedi_proc_cleanup(void)
 {
 	remove_proc_entry("comedi", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

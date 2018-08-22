@@ -617,3 +617,4 @@ int register_cps_smp_ops(void)
 	register_smp_ops(&cps_smp_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1219,3 +1219,4 @@ module_usb_driver(hdm_usb);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Christian Gromm <christian.gromm@microchip.com>");
 MODULE_DESCRIPTION("HDM_4_USB");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

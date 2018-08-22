@@ -1479,3 +1479,4 @@ void kvmppc_xics_clr_mapped(struct kvm *kvm, unsigned long irq,
 	ics->irq_state[idx].host_irq = 0;
 }
 EXPORT_SYMBOL_GPL(kvmppc_xics_clr_mapped);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

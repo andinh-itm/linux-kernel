@@ -14,3 +14,4 @@ extern void __gcov_merge_add(void *, unsigned int)  __attribute__((weak));
 EXPORT_SYMBOL(__gcov_merge_add);
 extern void __gcov_exit(void)  __attribute__((weak));
 EXPORT_SYMBOL(__gcov_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -274,3 +274,4 @@ module_platform_driver(keyscan_device_driver);
 MODULE_AUTHOR("Stuart Menefy <stuart.menefy@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics keyscan device driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -458,3 +458,4 @@ module_i2c_driver(max1668_driver);
 MODULE_AUTHOR("David George <david.george@ska.ac.za>");
 MODULE_DESCRIPTION("MAX1668 remote temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

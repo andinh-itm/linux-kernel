@@ -107,3 +107,4 @@ apply_relocate(Elf32_Shdr *sechdrs, const char *strtab, unsigned int symindex,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

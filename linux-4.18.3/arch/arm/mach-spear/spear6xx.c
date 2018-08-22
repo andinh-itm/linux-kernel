@@ -420,3 +420,4 @@ DT_MACHINE_START(SPEAR600_DT, "ST SPEAr600 (Flattened Device Tree)")
 	.restart	=	spear_restart,
 	.dt_compat	=	spear600_dt_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

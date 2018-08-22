@@ -1043,3 +1043,4 @@ void saa7146_set_capture(struct saa7146_dev *dev, struct saa7146_buf *buf, struc
 	/* turn on rps */
 	saa7146_write(dev, MC1, (MASK_12 | MASK_28));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

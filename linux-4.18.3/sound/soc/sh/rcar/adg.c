@@ -642,3 +642,4 @@ void rsnd_adg_remove(struct rsnd_priv *priv)
 
 	rsnd_adg_clk_disable(priv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

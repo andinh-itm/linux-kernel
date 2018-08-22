@@ -469,3 +469,4 @@ exit:
 	acpi_ut_remove_reference(operand[1]);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

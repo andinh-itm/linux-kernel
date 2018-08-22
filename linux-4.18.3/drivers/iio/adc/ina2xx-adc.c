@@ -1088,3 +1088,4 @@ module_i2c_driver(ina2xx_driver);
 MODULE_AUTHOR("Marc Titinger <marc.titinger@baylibre.com>");
 MODULE_DESCRIPTION("Texas Instruments INA2XX ADC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

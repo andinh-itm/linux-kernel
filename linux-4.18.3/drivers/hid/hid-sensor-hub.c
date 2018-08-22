@@ -754,3 +754,4 @@ module_hid_driver(sensor_hub_driver);
 MODULE_DESCRIPTION("HID Sensor Hub driver");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@intel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

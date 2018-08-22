@@ -782,3 +782,4 @@ module_exit(at24_exit);
 MODULE_DESCRIPTION("Driver for most I2C EEPROMs");
 MODULE_AUTHOR("David Brownell and Wolfram Sang");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

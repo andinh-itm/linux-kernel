@@ -827,3 +827,4 @@ void ast_vhub_init_hub(struct ast_vhub *vhub)
 	INIT_WORK(&vhub->wake_work, ast_vhub_wake_work);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

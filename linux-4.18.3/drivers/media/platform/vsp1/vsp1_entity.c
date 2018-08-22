@@ -689,3 +689,4 @@ void vsp1_entity_destroy(struct vsp1_entity *entity)
 	v4l2_subdev_free_pad_config(entity->config);
 	media_entity_cleanup(&entity->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -907,3 +907,4 @@ void intel_device_info_init_mmio(struct drm_i915_private *dev_priv)
 		DRM_DEBUG_DRIVER("vecs%u fused off\n", i);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

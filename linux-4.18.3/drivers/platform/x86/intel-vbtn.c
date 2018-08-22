@@ -242,3 +242,4 @@ static void __exit intel_vbtn_exit(void)
 	platform_driver_unregister(&intel_vbtn_pl_driver);
 }
 module_exit(intel_vbtn_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -866,3 +866,4 @@ int hr222_add_mic_controls(struct snd_pcxhr *chip)
 						   chip));
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

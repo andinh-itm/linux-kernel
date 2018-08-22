@@ -148,3 +148,4 @@ void prom_soc_init(struct ralink_soc_info *soc_info)
 
 	ralink_soc = RT3883_SOC;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

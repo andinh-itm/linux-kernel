@@ -637,3 +637,4 @@ u32 RTL8188EEAGCTAB_1TARRAY[] = {
 		0xC78, 0x407F0001,
 
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

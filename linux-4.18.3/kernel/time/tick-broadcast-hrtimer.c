@@ -110,3 +110,4 @@ void tick_setup_hrtimer_broadcast(void)
 	bctimer.function = bc_handler;
 	clockevents_register_device(&ce_broadcast_hrtimer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

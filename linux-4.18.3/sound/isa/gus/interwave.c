@@ -935,3 +935,4 @@ static void __exit alsa_card_interwave_exit(void)
 
 module_init(alsa_card_interwave_init)
 module_exit(alsa_card_interwave_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

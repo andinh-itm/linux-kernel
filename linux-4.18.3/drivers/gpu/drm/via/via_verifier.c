@@ -1107,3 +1107,4 @@ void via_init_command_verifier(void)
 	setup_hazard_table(init_table2, table2, ARRAY_SIZE(init_table2));
 	setup_hazard_table(init_table3, table3, ARRAY_SIZE(init_table3));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

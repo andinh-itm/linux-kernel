@@ -2207,3 +2207,4 @@ snd_wavefront_detect (snd_wavefront_card_t *card)
 }
 
 MODULE_FIRMWARE(DEFAULT_OSPATH);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

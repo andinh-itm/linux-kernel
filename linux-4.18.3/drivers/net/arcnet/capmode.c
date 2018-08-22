@@ -266,3 +266,4 @@ module_init(capmode_module_init);
 module_exit(capmode_module_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

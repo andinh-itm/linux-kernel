@@ -264,3 +264,4 @@ module_i2c_driver(qm1d1b0004_driver);
 MODULE_DESCRIPTION("Sharp QM1D1B0004");
 MODULE_AUTHOR("Akihiro Tsukada");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

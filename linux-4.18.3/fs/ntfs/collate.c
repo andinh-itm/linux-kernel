@@ -122,3 +122,4 @@ int ntfs_collate(ntfs_volume *vol, COLLATION_RULE cr,
 	BUG();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

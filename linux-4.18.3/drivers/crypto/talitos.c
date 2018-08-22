@@ -3528,3 +3528,4 @@ module_platform_driver(talitos_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kim Phillips <kim.phillips@freescale.com>");
 MODULE_DESCRIPTION("Freescale integrated security engine (SEC) driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

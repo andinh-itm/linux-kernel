@@ -518,3 +518,4 @@ MACHINE_START(PALMTC, "Palm Tungsten|C")
 	.init_machine	= palmtc_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

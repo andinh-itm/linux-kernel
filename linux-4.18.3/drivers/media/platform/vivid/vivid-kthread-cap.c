@@ -920,3 +920,4 @@ void vivid_stop_generating_vid_cap(struct vivid_dev *dev, bool *pstreaming)
 	dev->kthread_vid_cap = NULL;
 	mutex_lock(&dev->mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

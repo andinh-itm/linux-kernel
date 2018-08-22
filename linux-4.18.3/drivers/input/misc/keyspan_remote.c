@@ -588,3 +588,4 @@ MODULE_DEVICE_TABLE(usb, keyspan_table);
 MODULE_AUTHOR("Michael Downey <downey@zymeta.com>");
 MODULE_DESCRIPTION("Driver for the USB Keyspan remote control.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

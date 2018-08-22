@@ -563,3 +563,4 @@ MODULE_DESCRIPTION("Intel SST Audio for Skylake");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:skl_alc286s_i2s");
 MODULE_ALIAS("platform:kbl_alc286s_i2s");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2051,3 +2051,4 @@ int amdgpu_atombios_init(struct amdgpu_device *adev)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1424,3 +1424,4 @@ void i40evf_virtchnl_completion(struct i40evf_adapter *adapter,
 	} /* switch v_opcode */
 	adapter->current_op = VIRTCHNL_OP_UNKNOWN;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

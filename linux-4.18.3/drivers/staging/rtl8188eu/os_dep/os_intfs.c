@@ -746,3 +746,4 @@ static int netdev_close(struct net_device *pnetdev)
 	DBG_88E("-88eu_drv - drv_close, bup =%d\n", padapter->bup);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

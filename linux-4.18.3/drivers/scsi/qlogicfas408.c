@@ -615,3 +615,4 @@ EXPORT_SYMBOL(qlogicfas408_setup);
 EXPORT_SYMBOL(qlogicfas408_detect);
 EXPORT_SYMBOL(qlogicfas408_disable_ints);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

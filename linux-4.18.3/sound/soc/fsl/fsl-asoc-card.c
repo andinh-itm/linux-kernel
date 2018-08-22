@@ -724,3 +724,4 @@ MODULE_DESCRIPTION("Freescale Generic ASoC Sound Card driver with ASRC");
 MODULE_AUTHOR("Nicolin Chen <nicoleotsuka@gmail.com>");
 MODULE_ALIAS("platform:fsl-asoc-card");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

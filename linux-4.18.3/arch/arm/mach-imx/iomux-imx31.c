@@ -172,3 +172,4 @@ void mxc_iomux_set_gpr(enum iomux_gp_func gp, bool en)
 	imx_writel(l, IOMUXGPR);
 	spin_unlock(&gpio_mux_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

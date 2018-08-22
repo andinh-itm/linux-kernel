@@ -2144,3 +2144,4 @@ const struct attribute_group *coresight_etmv4_groups[] = {
 	&coresight_etmv4_trcidr_group,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -401,3 +401,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("IEEE 802.15.4 configuration interface");
 MODULE_AUTHOR("Dmitry Eremin-Solenikov");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -524,3 +524,4 @@ static int __init powernv_processor_idle_init(void)
 }
 
 device_initcall(powernv_processor_idle_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -578,3 +578,4 @@ EXPORT_SYMBOL_GPL(shash_attr_alg);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Synchronous cryptographic hash type");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -71,3 +71,4 @@ void __noreturn ps3_sys_manager_halt(void)
 		lv1_pause(1);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

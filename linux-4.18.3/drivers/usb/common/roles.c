@@ -303,3 +303,4 @@ MODULE_AUTHOR("Heikki Krogerus <heikki.krogerus@linux.intel.com>");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("USB Role Class");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

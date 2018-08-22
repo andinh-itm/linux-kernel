@@ -524,3 +524,4 @@ bchannel_get_rxbuf(struct bchannel *bch, int reqlen)
 	return len;
 }
 EXPORT_SYMBOL(bchannel_get_rxbuf);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

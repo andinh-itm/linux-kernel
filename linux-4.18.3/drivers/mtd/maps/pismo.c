@@ -289,3 +289,4 @@ module_exit(pismo_exit);
 MODULE_AUTHOR("Russell King <linux@arm.linux.org.uk>");
 MODULE_DESCRIPTION("PISMO memory driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

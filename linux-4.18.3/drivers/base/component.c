@@ -603,3 +603,4 @@ void component_del(struct device *dev, const struct component_ops *ops)
 EXPORT_SYMBOL_GPL(component_del);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

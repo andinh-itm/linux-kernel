@@ -403,3 +403,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("WM831x PMIC touchscreen driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-touch");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

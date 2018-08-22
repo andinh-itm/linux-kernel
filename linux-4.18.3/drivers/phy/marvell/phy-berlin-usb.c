@@ -212,3 +212,4 @@ module_platform_driver(phy_berlin_usb_driver);
 MODULE_AUTHOR("Antoine Tenart <antoine.tenart@free-electrons.com>");
 MODULE_DESCRIPTION("Marvell Berlin PHY driver for USB");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

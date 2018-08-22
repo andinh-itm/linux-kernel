@@ -151,3 +151,4 @@ unsigned long decompress_kernel(void)
 	return (unsigned long) output;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

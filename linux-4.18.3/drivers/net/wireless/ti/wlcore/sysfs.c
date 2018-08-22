@@ -187,3 +187,4 @@ void wlcore_sysfs_free(struct wl1271 *wl)
 
 	device_remove_file(wl->dev, &dev_attr_bt_coex_state);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

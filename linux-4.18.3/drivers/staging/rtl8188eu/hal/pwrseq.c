@@ -95,3 +95,4 @@ struct wl_pwr_cfg rtl8188E_leave_lps_flow[RTL8188E_TRANS_LPS_TO_ACT_STEPS +
 	RTL8188E_TRANS_LPS_TO_ACT
 	RTL8188E_TRANS_END
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

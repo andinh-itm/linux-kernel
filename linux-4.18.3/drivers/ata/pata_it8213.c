@@ -296,3 +296,4 @@ MODULE_DESCRIPTION("SCSI low-level driver for the ITE 8213");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, it8213_pci_tbl);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

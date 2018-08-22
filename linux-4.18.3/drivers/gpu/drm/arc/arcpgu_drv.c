@@ -253,3 +253,4 @@ module_platform_driver(arcpgu_platform_driver);
 MODULE_AUTHOR("Carlos Palminha <palminha@synopsys.com>");
 MODULE_DESCRIPTION("ARC PGU DRM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

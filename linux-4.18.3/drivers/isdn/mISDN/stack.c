@@ -662,3 +662,4 @@ mISDN_initstack(u_int *dp)
 {
 	debug = dp;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

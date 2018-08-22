@@ -991,3 +991,4 @@ MODULE_AUTHOR("Paul Fulghum paulkf@microgate.com");
 module_param(debuglevel, int, 0);
 module_param(maxframe, int, 0);
 MODULE_ALIAS_LDISC(N_HDLC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

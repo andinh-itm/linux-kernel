@@ -766,3 +766,4 @@ cuda_input(unsigned char *buf, int nb)
 	               buf, nb, false);
     }
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

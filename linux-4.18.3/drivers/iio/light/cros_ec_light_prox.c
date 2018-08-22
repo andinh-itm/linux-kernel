@@ -284,3 +284,4 @@ module_platform_driver(cros_ec_light_prox_platform_driver);
 
 MODULE_DESCRIPTION("ChromeOS EC light/proximity sensors driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

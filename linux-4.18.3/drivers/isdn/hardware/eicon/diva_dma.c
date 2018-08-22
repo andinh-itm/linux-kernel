@@ -92,3 +92,4 @@ void diva_get_dma_map_entry(struct _diva_dma_map_entry *pmap, int nr,
 void *diva_get_entry_handle(struct _diva_dma_map_entry *pmap, int nr) {
 	return (pmap[nr].addr_handle);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

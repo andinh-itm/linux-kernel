@@ -166,3 +166,4 @@ MODULE_DESCRIPTION("Mediatek simple platform driver");
 MODULE_AUTHOR("Garlic Tseng <garlic.tseng@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

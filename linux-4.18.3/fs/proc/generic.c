@@ -773,3 +773,4 @@ ssize_t proc_simple_write(struct file *f, const char __user *ubuf, size_t size,
 	kfree(buf);
 	return ret == 0 ? size : ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

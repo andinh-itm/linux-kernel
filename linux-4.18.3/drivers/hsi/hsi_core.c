@@ -778,3 +778,4 @@ module_exit(hsi_exit);
 MODULE_AUTHOR("Carlos Chinea <carlos.chinea@nokia.com>");
 MODULE_DESCRIPTION("High-speed Synchronous Serial Interface (HSI) framework");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

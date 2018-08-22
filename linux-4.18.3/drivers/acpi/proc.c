@@ -151,3 +151,4 @@ void __init acpi_sleep_proc_init(void)
 	proc_create("wakeup", S_IFREG | S_IRUGO | S_IWUSR,
 		    acpi_root_dir, &acpi_system_wakeup_device_fops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -50,3 +50,4 @@ fmadd(void *frD, void *frA, void *frB, void *frC)
 
 	return FP_CUR_EXCEPTIONS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

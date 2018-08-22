@@ -609,3 +609,4 @@ struct i2c_adapter *cx231xx_get_i2c_adap(struct cx231xx *dev, int i2c_port)
 	}
 }
 EXPORT_SYMBOL_GPL(cx231xx_get_i2c_adap);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

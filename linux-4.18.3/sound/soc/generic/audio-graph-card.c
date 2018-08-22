@@ -368,3 +368,4 @@ MODULE_ALIAS("platform:asoc-audio-graph-card");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ASoC Audio Graph Sound Card");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

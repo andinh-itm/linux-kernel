@@ -1267,3 +1267,4 @@ static struct i2c_driver twl_driver = {
 	.remove		= twl_remove,
 };
 builtin_i2c_driver(twl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

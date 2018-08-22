@@ -258,3 +258,4 @@ MACHINE_START(ARCOM_VULCAN, "Arcom/Eurotech Vulcan")
 #endif
 	.restart	= ixp4xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

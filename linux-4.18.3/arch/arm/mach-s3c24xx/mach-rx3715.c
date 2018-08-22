@@ -211,3 +211,4 @@ MACHINE_START(RX3715, "IPAQ-RX3715")
 	.init_machine	= rx3715_init_machine,
 	.init_time	= rx3715_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

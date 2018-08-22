@@ -656,3 +656,4 @@ err_unregister:
 	platform_device_unregister(dd);
 	acpi_handle_err(handle, "%s encountered error %d\n", __func__, ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

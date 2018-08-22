@@ -468,3 +468,4 @@ static void acpi_ns_normalize_pathname(char *original_path)
 	strcpy(original_path, new_path_buffer);
 	ACPI_FREE(new_path_buffer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

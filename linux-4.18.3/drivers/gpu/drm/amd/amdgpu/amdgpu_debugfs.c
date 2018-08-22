@@ -949,3 +949,4 @@ int amdgpu_debugfs_regs_init(struct amdgpu_device *adev)
 }
 void amdgpu_debugfs_regs_cleanup(struct amdgpu_device *adev) { }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

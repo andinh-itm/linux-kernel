@@ -127,3 +127,4 @@ const struct clk_ops ccu_gate_ops = {
 	.set_rate	= ccu_gate_set_rate,
 	.recalc_rate	= ccu_gate_recalc_rate,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -187,3 +187,4 @@ module_init(arcnet_raw_init);
 module_exit(arcnet_raw_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

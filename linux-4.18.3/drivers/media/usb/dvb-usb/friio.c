@@ -520,3 +520,4 @@ MODULE_AUTHOR("Akihiro Tsukada <tskd2@yahoo.co.jp>");
 MODULE_DESCRIPTION("Driver for Friio ISDB-T USB2.0 Receiver");
 MODULE_VERSION("0.2");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

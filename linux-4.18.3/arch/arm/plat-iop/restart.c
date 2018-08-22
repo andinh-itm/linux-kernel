@@ -18,3 +18,4 @@ void iop3xx_restart(enum reboot_mode mode, const char *cmd)
 	/* Jump into ROM at address 0 */
 	soft_restart(0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

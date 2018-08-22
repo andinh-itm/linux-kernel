@@ -1489,3 +1489,4 @@ int snd_pmac_tumbler_init(struct snd_pmac *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

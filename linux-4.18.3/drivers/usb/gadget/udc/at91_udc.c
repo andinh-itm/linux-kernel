@@ -2035,3 +2035,4 @@ MODULE_DESCRIPTION("AT91 udc driver");
 MODULE_AUTHOR("Thomas Rathbone, David Brownell");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:at91_udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -330,3 +330,4 @@ MACHINE_START(OMAP_PERSEUS2, "OMAP730 Perseus2")
 	.init_time	= omap1_timer_init,
 	.restart	= omap1_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

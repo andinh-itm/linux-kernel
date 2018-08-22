@@ -289,3 +289,4 @@ g94_sor_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = (nvkm_rd32(device, 0x610184) & 0x0f000000) >> 24;
 	return 4;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

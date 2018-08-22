@@ -2233,3 +2233,4 @@ static void __exit neofb_exit(void)
 
 module_exit(neofb_exit);
 #endif				/* MODULE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

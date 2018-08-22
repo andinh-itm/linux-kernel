@@ -301,3 +301,4 @@ MACHINE_START(VISION_EP9307, "Vision Engraving Systems EP9307")
 	.init_late	= ep93xx_init_late,
 	.restart	= ep93xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

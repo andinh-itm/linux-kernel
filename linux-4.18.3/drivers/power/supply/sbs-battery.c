@@ -965,3 +965,4 @@ MODULE_LICENSE("GPL");
 module_param(force_load, bool, S_IRUSR | S_IRGRP | S_IROTH);
 MODULE_PARM_DESC(force_load,
 		 "Attempt to load the driver even if no battery is connected");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

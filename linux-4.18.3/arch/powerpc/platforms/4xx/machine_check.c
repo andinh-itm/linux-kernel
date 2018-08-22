@@ -24,3 +24,4 @@ int machine_check_4xx(struct pt_regs *regs)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

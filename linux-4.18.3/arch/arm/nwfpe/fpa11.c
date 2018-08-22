@@ -126,3 +126,4 @@ unsigned int EmulateAll(unsigned int opcode)
 	/* Invalid instruction detected.  Return FALSE. */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

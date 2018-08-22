@@ -103,3 +103,4 @@ module_i2c_driver(axp20x_i2c_driver);
 MODULE_DESCRIPTION("PMIC MFD I2C driver for AXP20X");
 MODULE_AUTHOR("Carlo Caione <carlo@caione.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

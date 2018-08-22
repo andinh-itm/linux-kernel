@@ -196,3 +196,4 @@ void omap4_prminst_global_warm_sw_reset(void)
 	v = omap4_prminst_read_inst_reg(OMAP4430_PRM_PARTITION,
 				    inst, OMAP4_PRM_RSTCTRL_OFFSET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

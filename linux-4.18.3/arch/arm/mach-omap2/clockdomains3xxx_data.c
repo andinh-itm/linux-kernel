@@ -524,3 +524,4 @@ void __init omap3xxx_clockdomains_init(void)
 
 	clkdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

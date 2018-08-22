@@ -84,3 +84,4 @@ gf119_gpio_new(struct nvkm_device *device, int index, struct nvkm_gpio **pgpio)
 {
 	return nvkm_gpio_new_(&gf119_gpio, device, index, pgpio);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -389,3 +389,4 @@ MODULE_AUTHOR("Wolfgang Scherr <scherr@net4you.at>");
 MODULE_DESCRIPTION("Intermediate API module for video codecs "
 		   VIDEOCODEC_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

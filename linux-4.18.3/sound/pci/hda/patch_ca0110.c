@@ -99,3 +99,4 @@ static struct hda_codec_driver ca0110_driver = {
 };
 
 module_hda_codec_driver(ca0110_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

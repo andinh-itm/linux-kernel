@@ -532,3 +532,4 @@ static void stop_ecm_timer(struct s_smc *smc)
 	if (smc->e.ecm_timer.tm_active)
 		smt_timer_stop(smc,&smc->e.ecm_timer) ;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

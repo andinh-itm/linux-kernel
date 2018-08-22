@@ -267,3 +267,4 @@ void rockchip_drm_mode_config_init(struct drm_device *dev)
 	dev->mode_config.funcs = &rockchip_drm_mode_config_funcs;
 	dev->mode_config.helper_private = &rockchip_mode_config_helpers;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

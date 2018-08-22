@@ -539,3 +539,4 @@ MODULE_AUTHOR("Texas Instruments");
 MODULE_DESCRIPTION("TPS6507x voltage regulator driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:tps6507x-pmic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

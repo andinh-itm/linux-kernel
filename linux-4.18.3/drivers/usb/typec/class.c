@@ -1445,3 +1445,4 @@ module_exit(typec_exit);
 MODULE_AUTHOR("Heikki Krogerus <heikki.krogerus@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("USB Type-C Connector Class");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

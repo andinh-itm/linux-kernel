@@ -634,3 +634,4 @@ struct alpha_machine_vector lynx_mv __initmv = {
 };
 ALIAS_MV(lynx)
 #endif /* GENERIC || LYNX */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

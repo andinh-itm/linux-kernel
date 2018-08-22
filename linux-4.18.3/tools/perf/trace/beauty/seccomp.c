@@ -49,3 +49,4 @@ static size_t syscall_arg__scnprintf_seccomp_flags(char *bf, size_t size,
 }
 
 #define SCA_SECCOMP_FLAGS syscall_arg__scnprintf_seccomp_flags
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

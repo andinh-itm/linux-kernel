@@ -3677,3 +3677,4 @@ module_i2c_driver(rt5663_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT5663 driver");
 MODULE_AUTHOR("Jack Yu <jack.yu@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -88,3 +88,4 @@ perf_hook_func_t perf_hooks__get_hook(const char *hook_name)
 	}
 	return ERR_PTR(-ENOENT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

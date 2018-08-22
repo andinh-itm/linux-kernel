@@ -356,3 +356,4 @@ static void __exit video_cc_sdm845_exit(void)
 module_exit(video_cc_sdm845_exit);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

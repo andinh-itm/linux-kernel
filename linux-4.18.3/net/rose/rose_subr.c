@@ -554,3 +554,4 @@ void rose_disconnect(struct sock *sk, int reason, int cause, int diagnostic)
 		sock_set_flag(sk, SOCK_DEAD);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

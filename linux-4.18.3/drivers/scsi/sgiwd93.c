@@ -322,3 +322,4 @@ MODULE_DESCRIPTION("SGI WD33C93 driver");
 MODULE_AUTHOR("Ralf Baechle <ralf@linux-mips.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sgiwd93");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -166,3 +166,4 @@ module_exit(edac_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Doug Thompson www.softwarebitmaker.com, et al");
 MODULE_DESCRIPTION("Core library routines for EDAC reporting");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

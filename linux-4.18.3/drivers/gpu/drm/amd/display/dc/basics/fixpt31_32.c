@@ -481,3 +481,4 @@ int dc_fixpt_s4d19(struct fixed31_32 arg)
 	else
 		return ux_dy(arg.value, 4, 19);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -778,3 +778,4 @@ module_hid_driver(rmi_driver);
 MODULE_AUTHOR("Andrew Duggan <aduggan@synaptics.com>");
 MODULE_DESCRIPTION("RMI HID driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

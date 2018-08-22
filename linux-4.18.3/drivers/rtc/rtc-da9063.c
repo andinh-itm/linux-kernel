@@ -506,3 +506,4 @@ MODULE_AUTHOR("S Twiss <stwiss.opensource@diasemi.com>");
 MODULE_DESCRIPTION("Real time clock device driver for Dialog DA9063");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DA9063_DRVNAME_RTC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

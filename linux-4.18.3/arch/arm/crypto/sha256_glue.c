@@ -126,3 +126,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA256 Secure Hash Algorithm (ARM), including NEON");
 
 MODULE_ALIAS_CRYPTO("sha256");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

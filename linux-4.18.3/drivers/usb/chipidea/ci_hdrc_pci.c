@@ -168,3 +168,4 @@ MODULE_AUTHOR("MIPS - David Lopo <dlopo@chipidea.mips.com>");
 MODULE_DESCRIPTION("MIPS CI13XXX USB Peripheral Controller");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ci13xxx_pci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

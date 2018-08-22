@@ -133,3 +133,4 @@ static int __init sirfsoc_irq_pm_init(void)
 	return 0;
 }
 device_initcall(sirfsoc_irq_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -114,3 +114,4 @@ static int __init rd88f5182_pci_init(void)
 }
 
 subsys_initcall(rd88f5182_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

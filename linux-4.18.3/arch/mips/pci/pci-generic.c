@@ -50,3 +50,4 @@ void pcibios_fixup_bus(struct pci_bus *bus)
 {
 	pci_read_bridge_bases(bus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1613,3 +1613,4 @@ dont_render_tag:
 	if (e->action)
 		render_opcode(out, "_action(ACT_%s),\n", e->action->name);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

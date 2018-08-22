@@ -1088,3 +1088,4 @@ void ivtv_unfinished_dma(struct timer_list *t)
 	itv->cur_dma_stream = -1;
 	wake_up(&itv->dma_waitq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

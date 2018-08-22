@@ -23,3 +23,4 @@ MACHINE_START(PERSONAL_SERVER, "Compaq-PersonalServer")
 	.restart	= footbridge_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

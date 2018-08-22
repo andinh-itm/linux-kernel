@@ -157,3 +157,4 @@ void __exit nvram_cleanup(void)
 module_init(nvram_init);
 module_exit(nvram_cleanup);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

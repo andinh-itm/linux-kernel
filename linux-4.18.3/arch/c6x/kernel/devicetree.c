@@ -16,3 +16,4 @@ void __init early_init_dt_add_memory_arch(u64 base, u64 size)
 {
 	c6x_add_memory(base, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

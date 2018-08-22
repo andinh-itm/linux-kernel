@@ -346,3 +346,4 @@ MODULE_DESCRIPTION("Littlemill audio support");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:littlemill");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -673,3 +673,4 @@ const struct arm64_cpu_capabilities arm64_errata[] = {
 	{
 	}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

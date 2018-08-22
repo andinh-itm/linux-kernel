@@ -369,3 +369,4 @@ const struct attribute_group *rio_mport_groups[] = {
 	&rio_mport_group,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

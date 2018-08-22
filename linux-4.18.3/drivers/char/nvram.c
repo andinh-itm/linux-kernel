@@ -697,3 +697,4 @@ static void atari_proc_infos(unsigned char *nvram, struct seq_file *seq,
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_MISCDEV(NVRAM_MINOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

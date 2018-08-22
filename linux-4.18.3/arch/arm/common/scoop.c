@@ -273,3 +273,4 @@ static int __init scoop_init(void)
 }
 
 subsys_initcall(scoop_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

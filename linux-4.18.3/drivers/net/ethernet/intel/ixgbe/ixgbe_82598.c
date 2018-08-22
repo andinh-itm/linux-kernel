@@ -1194,3 +1194,4 @@ const struct ixgbe_info ixgbe_82598_info = {
 	.phy_ops		= &phy_ops_82598,
 	.mvals			= ixgbe_mvals_8259X,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

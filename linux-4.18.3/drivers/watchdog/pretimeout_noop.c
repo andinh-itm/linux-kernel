@@ -45,3 +45,4 @@ module_exit(watchdog_gov_noop_unregister);
 MODULE_AUTHOR("Vladimir Zapolskiy <vladimir_zapolskiy@mentor.com>");
 MODULE_DESCRIPTION("Panic watchdog pretimeout governor");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

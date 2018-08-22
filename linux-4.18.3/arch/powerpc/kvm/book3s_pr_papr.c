@@ -472,3 +472,4 @@ void kvmppc_pr_init_default_hcalls(struct kvm *kvm)
 		__set_bit(hcall / 4, kvm->arch.enabled_hcalls);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

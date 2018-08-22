@@ -105,3 +105,4 @@ u32 rtw_hal_get_sdio_tx_max_length(struct adapter *padapter, u8 queue_idx)
 
 	return max_len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

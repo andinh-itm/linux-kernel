@@ -2840,3 +2840,4 @@ void bnxt_qplib_flush_cqn_wq(struct bnxt_qplib_qp *qp)
 	if (qp->scq != qp->rcq)
 		flush_workqueue(qp->rcq->nq->cqn_wq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

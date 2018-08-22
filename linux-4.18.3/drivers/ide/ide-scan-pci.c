@@ -113,3 +113,4 @@ static int __init ide_scan_pcibus(void)
 	return 0;
 }
 device_initcall(ide_scan_pcibus);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

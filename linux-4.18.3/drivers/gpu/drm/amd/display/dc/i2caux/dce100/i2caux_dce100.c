@@ -103,3 +103,4 @@ struct i2caux *dal_i2caux_dce100_create(
 				    &i2c_mask);
 	return &i2caux_dce110->base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

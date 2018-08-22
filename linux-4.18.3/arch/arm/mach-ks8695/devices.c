@@ -195,3 +195,4 @@ static int __init ks8695_add_standard_devices(void)
 }
 
 arch_initcall(ks8695_add_standard_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -126,3 +126,4 @@ void snd_emux_proc_free(struct snd_emux *emu)
 	snd_info_free_entry(emu->proc);
 	emu->proc = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

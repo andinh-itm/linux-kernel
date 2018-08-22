@@ -426,3 +426,4 @@ MODULE_AUTHOR("Peter Senna Tschudin <peter.senna@collabora.com>");
 MODULE_AUTHOR("Martyn Welch <martyn.welch@collabora.co.uk>");
 MODULE_DESCRIPTION("GE LVDS to DP++ display bridge)");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

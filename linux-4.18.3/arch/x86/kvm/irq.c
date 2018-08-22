@@ -172,3 +172,4 @@ void __kvm_migrate_timers(struct kvm_vcpu *vcpu)
 	__kvm_migrate_apic_timer(vcpu);
 	__kvm_migrate_pit_timer(vcpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

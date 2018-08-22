@@ -206,3 +206,4 @@ module_comedi_pci_driver(adv_pci1724_driver, adv_pci1724_pci_driver);
 MODULE_AUTHOR("Frank Mori Hess <fmh6jj@gmail.com>");
 MODULE_DESCRIPTION("Advantech PCI-1724U Comedi driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -429,3 +429,4 @@ module_platform_driver(mxsfb_platform_driver);
 MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_DESCRIPTION("Freescale MXS DRM/KMS driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

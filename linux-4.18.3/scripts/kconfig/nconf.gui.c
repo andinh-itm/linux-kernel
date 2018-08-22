@@ -662,3 +662,4 @@ void show_scroll_win(WINDOW *main_window,
 	delwin(win);
 	refresh_all_windows(main_window);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

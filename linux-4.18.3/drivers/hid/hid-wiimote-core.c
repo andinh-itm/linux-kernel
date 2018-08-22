@@ -1873,3 +1873,4 @@ module_hid_driver(wiimote_hid_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Herrmann <dh.herrmann@gmail.com>");
 MODULE_DESCRIPTION("Driver for Nintendo Wii / Wii U peripherals");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

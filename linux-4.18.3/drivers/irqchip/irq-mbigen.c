@@ -388,3 +388,4 @@ MODULE_AUTHOR("Jun Ma <majun258@huawei.com>");
 MODULE_AUTHOR("Yun Wu <wuyun.wu@huawei.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Hisilicon MBI Generator driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

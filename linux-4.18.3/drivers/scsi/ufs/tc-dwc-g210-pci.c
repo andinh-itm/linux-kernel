@@ -177,3 +177,4 @@ module_pci_driver(tc_dwc_g210_pci_driver);
 MODULE_AUTHOR("Joao Pinto <Joao.Pinto@synopsys.com>");
 MODULE_DESCRIPTION("Synopsys Test Chip G210 PCI glue driver");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

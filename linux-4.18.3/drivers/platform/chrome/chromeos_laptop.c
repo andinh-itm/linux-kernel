@@ -938,3 +938,4 @@ module_exit(chromeos_laptop_exit);
 MODULE_DESCRIPTION("Chrome OS Laptop driver");
 MODULE_AUTHOR("Benson Leung <bleung@chromium.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

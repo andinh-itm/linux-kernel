@@ -992,3 +992,4 @@ static struct i2c_driver sii9234_driver = {
 
 module_i2c_driver(sii9234_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

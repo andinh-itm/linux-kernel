@@ -415,3 +415,4 @@ module_exit(sh_dmac_exit);
 MODULE_AUTHOR("Takashi YOSHII, Paul Mundt, Andriy Skulysh");
 MODULE_DESCRIPTION("SuperH On-Chip DMAC Support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

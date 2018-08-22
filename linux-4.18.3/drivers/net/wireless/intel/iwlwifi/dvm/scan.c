@@ -1077,3 +1077,4 @@ void iwl_cancel_scan_deferred_work(struct iwl_priv *priv)
 		mutex_unlock(&priv->mutex);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

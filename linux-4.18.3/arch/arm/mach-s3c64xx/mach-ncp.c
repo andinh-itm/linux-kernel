@@ -101,3 +101,4 @@ MACHINE_START(NCP, "NCP")
 	.init_time	= samsung_timer_init,
 	.restart	= s3c64xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

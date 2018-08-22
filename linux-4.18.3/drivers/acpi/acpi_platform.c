@@ -132,3 +132,4 @@ struct platform_device *acpi_create_platform_device(struct acpi_device *adev,
 	return pdev;
 }
 EXPORT_SYMBOL_GPL(acpi_create_platform_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

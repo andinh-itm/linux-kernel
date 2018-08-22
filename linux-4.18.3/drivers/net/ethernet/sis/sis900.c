@@ -2512,3 +2512,4 @@ static void __exit sis900_cleanup_module(void)
 module_init(sis900_init_module);
 module_exit(sis900_cleanup_module);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

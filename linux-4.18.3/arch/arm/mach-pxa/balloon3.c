@@ -827,3 +827,4 @@ MACHINE_START(BALLOON3, "Balloon3")
 	.atag_offset	= 0x100,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

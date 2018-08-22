@@ -177,3 +177,4 @@ module_init(livepatch_shadow_fix1_init);
 module_exit(livepatch_shadow_fix1_exit);
 MODULE_LICENSE("GPL");
 MODULE_INFO(livepatch, "Y");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

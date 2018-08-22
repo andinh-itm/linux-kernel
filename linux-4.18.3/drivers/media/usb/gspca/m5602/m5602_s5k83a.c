@@ -583,3 +583,4 @@ static void s5k83a_dump_registers(struct sd *sd)
 	pr_info("Read/write register probing complete\n");
 	m5602_write_sensor(sd, S5K83A_PAGE_MAP, &old_page, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

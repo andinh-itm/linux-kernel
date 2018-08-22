@@ -874,3 +874,4 @@ const struct samsung_pinctrl_of_match_data exynos5420_of_data __initconst = {
 	.ctrl		= exynos5420_pin_ctrl,
 	.num_ctrl	= ARRAY_SIZE(exynos5420_pin_ctrl),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

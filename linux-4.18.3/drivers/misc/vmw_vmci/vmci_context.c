@@ -1213,3 +1213,4 @@ bool vmci_is_context_owner(u32 context_id, kuid_t uid)
 	return is_owner;
 }
 EXPORT_SYMBOL_GPL(vmci_is_context_owner);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

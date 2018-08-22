@@ -98,3 +98,4 @@ static void __init moxart_of_apb_clk_init(struct device_node *node)
 }
 CLK_OF_DECLARE(moxart_apb_clock, "moxa,moxart-apb-clock",
 	       moxart_of_apb_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

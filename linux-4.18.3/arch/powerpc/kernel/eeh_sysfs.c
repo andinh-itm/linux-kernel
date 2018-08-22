@@ -194,3 +194,4 @@ void eeh_sysfs_remove_device(struct pci_dev *pdev)
 	if (edev)
 		edev->mode &= ~EEH_DEV_SYSFS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

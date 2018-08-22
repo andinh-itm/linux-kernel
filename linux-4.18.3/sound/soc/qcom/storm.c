@@ -143,3 +143,4 @@ module_platform_driver(storm_platform_driver);
 
 MODULE_DESCRIPTION("QTi IPQ806x-based Storm Machine Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -150,3 +150,4 @@ out:
  * register the platform_suspend_ops)
  */
 device_initcall_sync(mvebu_armada_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

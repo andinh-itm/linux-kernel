@@ -3085,3 +3085,4 @@ const struct font_desc font_6x10 = {
 	.data	= fontdata_6x10,
 	.pref	= 0,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

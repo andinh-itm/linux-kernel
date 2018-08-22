@@ -191,3 +191,4 @@ const struct smp_operations tegra_smp_ops __initconst = {
 	.cpu_die		= tegra_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

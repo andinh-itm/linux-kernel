@@ -339,3 +339,4 @@ static struct pcmcia_driver orinoco_driver = {
 	.resume		= orinoco_cs_resume,
 };
 module_pcmcia_driver(orinoco_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

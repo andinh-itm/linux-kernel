@@ -1207,3 +1207,4 @@ void dm_statistics_exit(void)
 
 module_param_named(stats_current_allocated_bytes, shared_memory_amount, ulong, S_IRUGO);
 MODULE_PARM_DESC(stats_current_allocated_bytes, "Memory currently used by statistics");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

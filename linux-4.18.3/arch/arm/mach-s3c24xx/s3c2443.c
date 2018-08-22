@@ -108,3 +108,4 @@ static int __init s3c2443_core_init(void)
 }
 
 core_initcall(s3c2443_core_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

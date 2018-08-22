@@ -872,3 +872,4 @@ module_i2c_driver(nau8810_i2c_driver);
 MODULE_DESCRIPTION("ASoC NAU8810 driver");
 MODULE_AUTHOR("David Lin <ctlin0@nuvoton.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

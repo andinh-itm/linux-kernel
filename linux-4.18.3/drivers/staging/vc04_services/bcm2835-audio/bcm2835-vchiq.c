@@ -858,3 +858,4 @@ unsigned int bcm2835_audio_retrieve_buffers(struct bcm2835_alsa_stream *alsa_str
 
 module_param(force_bulk, bool, 0444);
 MODULE_PARM_DESC(force_bulk, "Force use of vchiq bulk for audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

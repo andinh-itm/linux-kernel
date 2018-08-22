@@ -277,3 +277,4 @@ module_exit(ad5398_exit);
 MODULE_DESCRIPTION("AD5398 and AD5821 current regulator driver");
 MODULE_AUTHOR("Sonic Zhang");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

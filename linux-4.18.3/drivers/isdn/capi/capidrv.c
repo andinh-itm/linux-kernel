@@ -2522,3 +2522,4 @@ static void __exit capidrv_exit(void)
 
 module_init(capidrv_init);
 module_exit(capidrv_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

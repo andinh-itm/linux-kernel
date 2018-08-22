@@ -252,3 +252,4 @@ void mmu_init_secondary(int cpu)
 	}
 }
 #endif /* CONFIG_SMP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

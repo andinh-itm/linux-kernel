@@ -915,3 +915,4 @@ void HTSetConnectBwMode(struct rtllib_device *ieee,
 
 	HTSetConnectBwModeCallback(ieee);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

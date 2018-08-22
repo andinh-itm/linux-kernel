@@ -234,3 +234,4 @@ int enic_dev_status_to_errno(int devcmd_status)
 		return (devcmd_status < 0) ? devcmd_status : -1;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

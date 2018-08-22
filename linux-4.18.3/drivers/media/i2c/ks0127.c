@@ -712,3 +712,4 @@ static struct i2c_driver ks0127_driver = {
 };
 
 module_i2c_driver(ks0127_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

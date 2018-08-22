@@ -1802,3 +1802,4 @@ MODULE_DESCRIPTION("IPU core driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Guennadi Liakhovetski <lg@denx.de>");
 MODULE_ALIAS("platform:ipu-core");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

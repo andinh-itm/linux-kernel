@@ -1103,3 +1103,4 @@ static const struct wilc_hif_func wilc_hif_sdio = {
 	.disable_interrupt = wilc_sdio_disable_interrupt,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

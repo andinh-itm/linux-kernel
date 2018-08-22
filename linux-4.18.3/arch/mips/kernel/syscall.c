@@ -244,3 +244,4 @@ asmlinkage void bad_stack(void)
 {
 	do_exit(SIGSEGV);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

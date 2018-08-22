@@ -2171,3 +2171,4 @@ MODULE_SUPPORTED_DEVICE("Z8530 based SCC cards for Amateur Radio");
 MODULE_LICENSE("GPL");
 module_init(scc_init_driver);
 module_exit(scc_cleanup_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -935,3 +935,4 @@ static struct platform_driver hal2_driver = {
 };
 
 module_platform_driver(hal2_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

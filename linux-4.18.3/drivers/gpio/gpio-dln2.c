@@ -523,3 +523,4 @@ MODULE_AUTHOR("Daniel Baluta <daniel.baluta@intel.com");
 MODULE_DESCRIPTION("Driver for the Diolan DLN2 GPIO interface");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:dln2-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -621,3 +621,4 @@ int bcma_core_pci_pcibios_map_irq(const struct pci_dev *dev)
 	return bcma_core_irq(pc_host->pdev->core, 0);
 }
 EXPORT_SYMBOL(bcma_core_pci_pcibios_map_irq);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

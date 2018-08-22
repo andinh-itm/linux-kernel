@@ -266,3 +266,4 @@ nv50_fifo_chan_ctor(struct nv50_fifo *fifo, u64 vmm, u64 push,
 
 	return nvkm_ramht_new(device, 0x8000, 16, chan->base.inst, &chan->ramht);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

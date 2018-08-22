@@ -193,3 +193,4 @@ module_pci_driver(dwc2_pci_driver);
 MODULE_DESCRIPTION("DESIGNWARE HS OTG PCI Bus Glue");
 MODULE_AUTHOR("Synopsys, Inc.");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -364,3 +364,4 @@ static u32 acpi_ns_get_bitmapped_type(union acpi_operand_object *return_object)
 
 	return (return_btype);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

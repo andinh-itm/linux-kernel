@@ -2338,3 +2338,4 @@ xfs_dir2_node_trim_free(
 	*rvalp = 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

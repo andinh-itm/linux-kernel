@@ -252,3 +252,4 @@ static int __init pm_init(void)
 }
 
 late_initcall(pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

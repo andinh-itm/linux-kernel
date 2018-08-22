@@ -284,3 +284,4 @@ static struct usb_driver cypress_driver = {
 };
 
 module_usb_stor_driver(cypress_driver, cypress_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

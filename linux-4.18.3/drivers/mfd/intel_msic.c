@@ -450,3 +450,4 @@ static struct platform_driver intel_msic_driver = {
 	},
 };
 builtin_platform_driver(intel_msic_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

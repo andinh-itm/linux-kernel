@@ -1354,3 +1354,4 @@ module_i2c_driver(ov772x_i2c_driver);
 MODULE_DESCRIPTION("V4L2 driver for OV772x image sensor");
 MODULE_AUTHOR("Kuninori Morimoto");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

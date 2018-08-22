@@ -198,3 +198,4 @@ static int __init gfb_init(void)
 	return platform_driver_register(&gfb_driver);
 }
 device_initcall(gfb_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

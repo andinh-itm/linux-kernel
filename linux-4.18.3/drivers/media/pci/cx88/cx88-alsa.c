@@ -1012,3 +1012,4 @@ static struct pci_driver cx88_audio_pci_driver = {
 };
 
 module_pci_driver(cx88_audio_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

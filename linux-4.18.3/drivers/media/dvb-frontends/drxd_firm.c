@@ -923,3 +923,4 @@ u8 DRXD_DiversityDelay6MHZ[] =	/* also used ok for 7 MHz */
 	WR16(B_SC_RA_RAM_DIVERSITY_DELAY_8K_4__A, 3500 - 50),
 	END_OF_TABLE
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

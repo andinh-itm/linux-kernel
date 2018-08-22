@@ -4303,3 +4303,4 @@ static void hdlcdev_exit(MGSLPC_INFO *info)
 
 #endif /* CONFIG_HDLC */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

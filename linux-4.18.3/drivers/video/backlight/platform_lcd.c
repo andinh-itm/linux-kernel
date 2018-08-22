@@ -159,3 +159,4 @@ module_platform_driver(platform_lcd_driver);
 MODULE_AUTHOR("Ben Dooks <ben-linux@fluff.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:platform-lcd");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

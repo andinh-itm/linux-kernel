@@ -104,3 +104,4 @@ parse_branch_stack(const struct option *opt, const char *str, int unset)
 
 	return parse_branch_str(str, mode);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

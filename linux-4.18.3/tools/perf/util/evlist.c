@@ -1810,3 +1810,4 @@ void perf_evlist__force_leader(struct perf_evlist *evlist)
 		leader->forced_leader = true;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

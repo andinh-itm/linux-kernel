@@ -169,3 +169,4 @@ struct kgdb_arch arch_kgdb_ops = {
 	/* Breakpoint instruction: trap 30 */
 	.gdb_bpt_instr = { 0xba, 0x6f, 0x3b, 0x00 },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

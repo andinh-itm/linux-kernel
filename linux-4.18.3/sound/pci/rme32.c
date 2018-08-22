@@ -1994,3 +1994,4 @@ static struct pci_driver rme32_driver = {
 };
 
 module_pci_driver(rme32_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

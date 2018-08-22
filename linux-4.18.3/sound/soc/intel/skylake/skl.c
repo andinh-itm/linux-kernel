@@ -1211,3 +1211,4 @@ module_pci_driver(skl_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel Skylake ASoC HDA driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

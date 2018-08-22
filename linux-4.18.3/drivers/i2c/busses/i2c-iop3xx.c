@@ -523,3 +523,4 @@ MODULE_AUTHOR("D-TACQ Solutions Ltd <www.d-tacq.com>");
 MODULE_DESCRIPTION("IOP3xx iic algorithm and driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:IOP3xx-I2C");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

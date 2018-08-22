@@ -1704,3 +1704,4 @@ static void __exit smsc9420_exit_module(void)
 
 module_init(smsc9420_init_module);
 module_exit(smsc9420_exit_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

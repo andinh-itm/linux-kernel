@@ -1201,3 +1201,4 @@ failed:
 	kfree(lvds_connector);
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

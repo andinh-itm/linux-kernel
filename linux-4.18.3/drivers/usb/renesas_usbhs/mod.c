@@ -397,3 +397,4 @@ void usbhs_irq_callback_update(struct usbhs_priv *priv, struct usbhs_mod *mod)
 	if (usbhs_mod_is_host(priv) && intenb1)
 		usbhs_write(priv, INTENB1, intenb1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

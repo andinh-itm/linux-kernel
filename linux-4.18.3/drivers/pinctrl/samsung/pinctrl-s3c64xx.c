@@ -803,3 +803,4 @@ const struct samsung_pinctrl_of_match_data s3c64xx_of_data __initconst = {
 	.ctrl		= s3c64xx_pin_ctrl,
 	.num_ctrl	= ARRAY_SIZE(s3c64xx_pin_ctrl),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

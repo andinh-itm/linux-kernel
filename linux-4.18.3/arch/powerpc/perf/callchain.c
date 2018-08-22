@@ -495,3 +495,4 @@ perf_callchain_user(struct perf_callchain_entry_ctx *entry, struct pt_regs *regs
 	else
 		perf_callchain_user_32(entry, regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

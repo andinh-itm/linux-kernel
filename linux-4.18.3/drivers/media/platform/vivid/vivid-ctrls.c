@@ -1739,3 +1739,4 @@ void vivid_free_controls(struct vivid_dev *dev)
 	v4l2_ctrl_handler_free(&dev->ctrl_hdl_loop_cap);
 	v4l2_ctrl_handler_free(&dev->ctrl_hdl_fb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

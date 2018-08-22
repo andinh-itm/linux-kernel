@@ -183,3 +183,4 @@ module_platform_driver(da9052_wled_driver);
 MODULE_AUTHOR("David Dajun Chen <dchen@diasemi.com>");
 MODULE_DESCRIPTION("Backlight driver for DA9052 PMIC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

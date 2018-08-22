@@ -327,3 +327,4 @@ MODULE_ALIAS("platform:palmas-pwrbutton");
 MODULE_DESCRIPTION("Palmas Power Button");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Texas Instruments Inc.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

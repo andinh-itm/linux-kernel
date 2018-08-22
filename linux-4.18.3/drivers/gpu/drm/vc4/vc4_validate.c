@@ -937,3 +937,4 @@ vc4_validate_shader_recs(struct drm_device *dev,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

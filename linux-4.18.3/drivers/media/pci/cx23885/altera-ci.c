@@ -836,3 +836,4 @@ int altera_ci_tuner_reset(void *dev, int ci_nr)
 	return 0;
 }
 EXPORT_SYMBOL(altera_ci_tuner_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

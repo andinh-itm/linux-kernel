@@ -1325,3 +1325,4 @@ out:
 	return ERR_PTR(ret);
 }
 IWL_EXPORT_SYMBOL(iwl_get_nvm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

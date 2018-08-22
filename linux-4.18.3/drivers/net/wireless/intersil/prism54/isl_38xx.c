@@ -254,3 +254,4 @@ isl38xx_in_queue(isl38xx_control_block *cb, int queue)
 	BUG();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

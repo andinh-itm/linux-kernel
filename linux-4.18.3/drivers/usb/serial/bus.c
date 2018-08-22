@@ -188,3 +188,4 @@ void usb_serial_bus_deregister(struct usb_serial_driver *driver)
 	driver_unregister(&driver->driver);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

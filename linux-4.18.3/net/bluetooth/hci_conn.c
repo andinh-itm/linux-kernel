@@ -1593,3 +1593,4 @@ struct hci_chan *hci_chan_lookup_handle(struct hci_dev *hdev, __u16 handle)
 
 	return hchan;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

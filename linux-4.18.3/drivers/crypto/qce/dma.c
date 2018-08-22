@@ -132,3 +132,4 @@ int qce_dma_terminate_all(struct qce_dma_data *dma)
 	ret = dmaengine_terminate_all(dma->rxchan);
 	return ret ?: dmaengine_terminate_all(dma->txchan);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

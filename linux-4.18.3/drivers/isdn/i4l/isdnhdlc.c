@@ -628,3 +628,4 @@ int isdnhdlc_encode(struct isdnhdlc_vars *hdlc, const u8 *src, u16 slen,
 	return len;
 }
 EXPORT_SYMBOL(isdnhdlc_encode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

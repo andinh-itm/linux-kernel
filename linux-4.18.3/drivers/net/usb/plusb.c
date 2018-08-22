@@ -171,3 +171,4 @@ module_usb_driver(plusb_driver);
 MODULE_AUTHOR("David Brownell");
 MODULE_DESCRIPTION("Prolific PL-2301/2302/25A1/27A1 USB Host to Host Link Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

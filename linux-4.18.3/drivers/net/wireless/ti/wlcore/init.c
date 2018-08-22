@@ -763,3 +763,4 @@ int wl1271_hw_init(struct wl1271 *wl)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

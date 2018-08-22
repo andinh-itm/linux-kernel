@@ -166,3 +166,4 @@ MODULE_AUTHOR("Ryder Lee <ryder.lee@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("mt2701 wm8960 soc card");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

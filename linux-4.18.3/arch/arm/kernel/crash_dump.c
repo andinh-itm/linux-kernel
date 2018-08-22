@@ -55,3 +55,4 @@ ssize_t copy_oldmem_page(unsigned long pfn, char *buf,
 	iounmap(vaddr);
 	return csize;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

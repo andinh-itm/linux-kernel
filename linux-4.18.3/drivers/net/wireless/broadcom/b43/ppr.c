@@ -197,3 +197,4 @@ bool b43_ppr_load_max_from_sprom(struct b43_wldev *dev, struct b43_ppr *ppr,
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

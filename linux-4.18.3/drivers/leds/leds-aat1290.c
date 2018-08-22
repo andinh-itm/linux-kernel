@@ -555,3 +555,4 @@ module_platform_driver(aat1290_led_driver);
 MODULE_AUTHOR("Jacek Anaszewski <j.anaszewski@samsung.com>");
 MODULE_DESCRIPTION("Skyworks Current Regulator for Flash LEDs");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

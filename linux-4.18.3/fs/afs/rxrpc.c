@@ -941,3 +941,4 @@ noinline int afs_protocol_error(struct afs_call *call, int error)
 	trace_afs_protocol_error(call, error, __builtin_return_address(0));
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

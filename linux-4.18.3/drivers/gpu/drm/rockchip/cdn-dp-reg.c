@@ -981,3 +981,4 @@ err_audio_config:
 		DRM_DEV_ERROR(dp->dev, "audio config failed: %d\n", ret);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

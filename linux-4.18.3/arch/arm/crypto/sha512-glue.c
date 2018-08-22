@@ -119,3 +119,4 @@ static void __exit sha512_arm_mod_fini(void)
 
 module_init(sha512_arm_mod_init);
 module_exit(sha512_arm_mod_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

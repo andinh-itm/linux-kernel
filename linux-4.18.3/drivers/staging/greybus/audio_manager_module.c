@@ -240,3 +240,4 @@ void gb_audio_manager_module_dump(struct gb_audio_manager_module *module)
 		module->desc.ip_devices,
 		module->desc.op_devices);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

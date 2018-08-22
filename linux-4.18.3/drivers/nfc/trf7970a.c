@@ -2272,3 +2272,4 @@ module_spi_driver(trf7970a_spi_driver);
 MODULE_AUTHOR("Mark A. Greer <mgreer@animalcreek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI trf7970a RFID/NFC Transceiver Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

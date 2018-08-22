@@ -1962,3 +1962,4 @@ module_platform_driver(stm32f7_i2c_driver);
 MODULE_AUTHOR("M'boumba Cedric Madianga <cedric.madianga@gmail.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32F7 I2C driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

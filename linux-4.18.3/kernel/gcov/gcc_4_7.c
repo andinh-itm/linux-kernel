@@ -568,3 +568,4 @@ int gcov_iter_write(struct gcov_iterator *iter, struct seq_file *seq)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

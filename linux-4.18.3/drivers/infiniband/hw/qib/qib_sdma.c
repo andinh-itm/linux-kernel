@@ -1018,3 +1018,4 @@ void __qib_sdma_process_event(struct qib_pportdata *ppd,
 
 	ss->last_event = event;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

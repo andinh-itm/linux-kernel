@@ -539,3 +539,4 @@ static struct platform_driver imx_gpc_driver = {
 	.remove = imx_gpc_remove,
 };
 builtin_platform_driver(imx_gpc_driver)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1141,3 +1141,4 @@ int snd_usb_parse_audio_interface(struct snd_usb_audio *chip, int iface_no)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

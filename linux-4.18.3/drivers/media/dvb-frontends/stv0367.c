@@ -3364,3 +3364,4 @@ MODULE_PARM_DESC(i2c_debug, "Set i2c debug");
 MODULE_AUTHOR("Igor M. Liplianin");
 MODULE_DESCRIPTION("ST STV0367 DVB-C/T demodulator driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

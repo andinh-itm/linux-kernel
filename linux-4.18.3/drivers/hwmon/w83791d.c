@@ -1693,3 +1693,4 @@ module_i2c_driver(w83791d_driver);
 MODULE_AUTHOR("Charles Spirakis <bezaur@gmail.com>");
 MODULE_DESCRIPTION("W83791D driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

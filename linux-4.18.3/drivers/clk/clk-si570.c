@@ -529,3 +529,4 @@ MODULE_AUTHOR("Guenter Roeck <guenter.roeck@ericsson.com>");
 MODULE_AUTHOR("Soeren Brinkmann <soren.brinkmann@xilinx.com>");
 MODULE_DESCRIPTION("Si570 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

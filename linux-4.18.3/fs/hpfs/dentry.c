@@ -60,3 +60,4 @@ const struct dentry_operations hpfs_dentry_operations = {
 	.d_hash		= hpfs_hash_dentry,
 	.d_compare	= hpfs_compare_dentry,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

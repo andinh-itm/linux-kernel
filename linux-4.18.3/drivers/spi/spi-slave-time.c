@@ -127,3 +127,4 @@ module_spi_driver(spi_slave_time_driver);
 MODULE_AUTHOR("Geert Uytterhoeven <geert+renesas@glider.be>");
 MODULE_DESCRIPTION("SPI slave reporting uptime at previous SPI message");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -155,3 +155,4 @@ MODULE_ALIAS("spmi:spmi-pmic");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Josh Cartwright <joshc@codeaurora.org>");
 MODULE_AUTHOR("Stanimir Varbanov <svarbanov@mm-sol.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

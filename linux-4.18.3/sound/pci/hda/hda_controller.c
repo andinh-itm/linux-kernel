@@ -1410,3 +1410,4 @@ void azx_free_streams(struct azx *chip)
 	}
 }
 EXPORT_SYMBOL_GPL(azx_free_streams);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

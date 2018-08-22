@@ -932,3 +932,4 @@ MODULE_DESCRIPTION("MaxLinear MxL5007T Silicon IC tuner driver");
 MODULE_AUTHOR("Michael Krufky <mkrufky@linuxtv.org>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

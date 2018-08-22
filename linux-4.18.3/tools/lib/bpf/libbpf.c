@@ -2324,3 +2324,4 @@ bpf_perf_event_read_simple(void *mem, unsigned long size,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

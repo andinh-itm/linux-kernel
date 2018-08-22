@@ -246,3 +246,4 @@ print_insn_spu (unsigned long insn, unsigned long memaddr)
     }
   return 4;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

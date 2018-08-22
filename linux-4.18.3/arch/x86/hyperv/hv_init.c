@@ -447,3 +447,4 @@ bool hv_is_hyperv_initialized(void)
 	return hypercall_msr.enable;
 }
 EXPORT_SYMBOL_GPL(hv_is_hyperv_initialized);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -281,3 +281,4 @@ void vgem_fence_close(struct vgem_file *vfile)
 	idr_for_each(&vfile->fence_idr, __vgem_fence_idr_fini, vfile);
 	idr_destroy(&vfile->fence_idr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

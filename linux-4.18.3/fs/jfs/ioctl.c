@@ -183,3 +183,4 @@ long jfs_compat_ioctl(struct file *filp, unsigned int cmd, unsigned long arg)
 	return jfs_ioctl(filp, cmd, arg);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

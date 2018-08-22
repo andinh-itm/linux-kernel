@@ -137,3 +137,4 @@ module_exit(trace_event_exit);
 MODULE_AUTHOR("Steven Rostedt");
 MODULE_DESCRIPTION("trace-events-sample");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -170,3 +170,4 @@ module_exit(qdf2xxx_pinctrl_exit);
 
 MODULE_DESCRIPTION("Qualcomm Technologies QDF2xxx pin control driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

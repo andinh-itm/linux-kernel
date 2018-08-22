@@ -1313,3 +1313,4 @@ void dss_uninit_platform_driver(void)
 {
 	platform_driver_unregister(&omap_dsshw_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

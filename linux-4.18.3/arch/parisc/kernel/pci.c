@@ -277,3 +277,4 @@ void pcibios_register_hba(struct pci_hba_data *hba)
 }
 
 subsys_initcall(pcibios_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

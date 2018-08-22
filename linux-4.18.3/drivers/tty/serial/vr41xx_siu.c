@@ -948,3 +948,4 @@ module_platform_driver(siu_device_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:SIU");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

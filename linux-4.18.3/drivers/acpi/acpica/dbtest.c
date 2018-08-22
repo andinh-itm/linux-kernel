@@ -1070,3 +1070,4 @@ acpi_db_evaluate_one_predefined_name(acpi_handle obj_handle,
 
 	return (status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

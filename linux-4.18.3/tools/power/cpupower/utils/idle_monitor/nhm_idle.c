@@ -214,3 +214,4 @@ struct cpuidle_monitor intel_nhm_monitor = {
 					       at 20GHz */
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

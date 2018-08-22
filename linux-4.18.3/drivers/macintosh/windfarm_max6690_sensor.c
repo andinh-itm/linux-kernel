@@ -135,3 +135,4 @@ module_i2c_driver(wf_max6690_driver);
 MODULE_AUTHOR("Paul Mackerras <paulus@samba.org>");
 MODULE_DESCRIPTION("MAX6690 sensor objects for PowerMac thermal control");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

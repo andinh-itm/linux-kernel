@@ -563,3 +563,4 @@ module_platform_driver(max77686_pmic_driver);
 MODULE_DESCRIPTION("MAXIM 77686 Regulator Driver");
 MODULE_AUTHOR("Chiwoong Byun <woong.byun@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

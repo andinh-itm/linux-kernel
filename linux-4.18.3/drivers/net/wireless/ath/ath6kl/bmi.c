@@ -546,3 +546,4 @@ void ath6kl_bmi_cleanup(struct ath6kl *ar)
 	kfree(ar->bmi.cmd_buf);
 	ar->bmi.cmd_buf = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

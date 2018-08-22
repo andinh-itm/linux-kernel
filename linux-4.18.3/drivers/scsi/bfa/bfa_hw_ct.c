@@ -177,3 +177,4 @@ bfa_hwct_msix_get_rme_range(struct bfa_s *bfa, u32 *start, u32 *end)
 	*start = BFI_MSIX_RME_QMIN_CT;
 	*end = BFI_MSIX_RME_QMAX_CT;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

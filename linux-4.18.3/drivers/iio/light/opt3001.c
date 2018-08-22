@@ -857,3 +857,4 @@ module_i2c_driver(opt3001_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Andreas Dannenberg <dannenberg@ti.com>");
 MODULE_DESCRIPTION("Texas Instruments OPT3001 Light Sensor Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -702,3 +702,4 @@ static int snd_vortex_new_pcm(vortex_t *chip, int idx, int nr)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

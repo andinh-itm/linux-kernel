@@ -803,3 +803,4 @@ int isci_task_I_T_nexus_reset(struct domain_device *dev)
 	isci_put_device(idev);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

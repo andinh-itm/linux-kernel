@@ -193,3 +193,4 @@ void bochs_hw_setbase(struct bochs_device *bochs,
 	bochs_dispi_write(bochs, VBE_DISPI_INDEX_X_OFFSET, vx);
 	bochs_dispi_write(bochs, VBE_DISPI_INDEX_Y_OFFSET, vy);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

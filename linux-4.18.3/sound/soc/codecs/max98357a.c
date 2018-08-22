@@ -148,3 +148,4 @@ module_platform_driver(max98357a_platform_driver);
 
 MODULE_DESCRIPTION("Maxim MAX98357A Codec Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

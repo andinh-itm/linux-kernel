@@ -370,3 +370,4 @@ static int __init tegra_init_soc(void)
 }
 device_initcall(tegra_init_soc);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

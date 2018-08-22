@@ -96,3 +96,4 @@ static struct i2c_driver tps68470_driver = {
 	.probe_new = tps68470_probe,
 };
 builtin_i2c_driver(tps68470_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

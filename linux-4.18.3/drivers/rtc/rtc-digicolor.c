@@ -225,3 +225,4 @@ module_platform_driver_probe(dc_rtc_driver, dc_rtc_probe);
 MODULE_AUTHOR("Baruch Siach <baruch@tkos.co.il>");
 MODULE_DESCRIPTION("Conexant Digicolor Realtime Clock Driver (RTC)");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

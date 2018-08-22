@@ -684,3 +684,4 @@ MODULE_LICENSE("GPL v2");
 
 subsys_initcall(fpga_mgr_class_init);
 module_exit(fpga_mgr_class_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

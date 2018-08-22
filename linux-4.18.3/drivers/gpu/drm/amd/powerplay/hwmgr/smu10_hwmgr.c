@@ -1194,3 +1194,4 @@ int smu10_init_function_pointers(struct pp_hwmgr *hwmgr)
 	hwmgr->pptable_func = &pptable_funcs;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

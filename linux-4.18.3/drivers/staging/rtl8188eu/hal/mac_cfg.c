@@ -127,3 +127,4 @@ bool rtl88eu_phy_mac_config(struct adapter *adapt)
 	usb_write8(adapt, REG_MAX_AGGR_NUM, MAX_AGGR_NUM);
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -23,3 +23,4 @@
   EXPORT_SYMBOL(_lv1_##name);
 
 #include <asm/lv1call.h>
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

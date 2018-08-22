@@ -811,3 +811,4 @@ MODULE_AUTHOR("Jyri Sarha <jsarha@ti.com>");
 MODULE_DESCRIPTION("HDMI Audio Codec Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" HDMI_CODEC_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3205,3 +3205,4 @@ void _ath5k_printk(const struct ath5k_hw *ah, const char *level,
 
 	va_end(args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -141,3 +141,4 @@ EXPORT_SYMBOL(dio_match_device);
 EXPORT_SYMBOL(dio_register_driver);
 EXPORT_SYMBOL(dio_unregister_driver);
 EXPORT_SYMBOL(dio_bus_type);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

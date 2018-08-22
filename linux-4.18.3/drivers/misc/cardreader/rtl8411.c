@@ -506,3 +506,4 @@ void rtl8402_init_params(struct rtsx_pcr *pcr)
 	pcr->ops = &rtl8402_pcr_ops;
 	set_pull_ctrl_tables(pcr, rtl8411);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

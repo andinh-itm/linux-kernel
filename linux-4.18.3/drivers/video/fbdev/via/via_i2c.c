@@ -293,3 +293,4 @@ void viafb_i2c_exit(void)
 {
 	platform_driver_unregister(&via_i2c_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

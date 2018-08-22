@@ -1566,3 +1566,4 @@ err_kfree:
 	core->ops = NULL;
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

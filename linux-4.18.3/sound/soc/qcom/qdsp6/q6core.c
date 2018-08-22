@@ -378,3 +378,4 @@ static struct apr_driver qcom_q6core_driver = {
 module_apr_driver(qcom_q6core_driver);
 MODULE_DESCRIPTION("q6 core");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

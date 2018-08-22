@@ -1086,3 +1086,4 @@ module_i2c_driver(ov5642_i2c_driver);
 MODULE_DESCRIPTION("Omnivision OV5642 Camera driver");
 MODULE_AUTHOR("Bastian Hecht <hechtb@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

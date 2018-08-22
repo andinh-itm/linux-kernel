@@ -211,3 +211,4 @@ define_machine(gef_ppc9a) {
 	.pcibios_fixup_bus	= fsl_pcibios_fixup_bus,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

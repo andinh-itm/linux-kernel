@@ -134,3 +134,4 @@ int snd_tscm_create_midi_devices(struct snd_tscm *tscm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

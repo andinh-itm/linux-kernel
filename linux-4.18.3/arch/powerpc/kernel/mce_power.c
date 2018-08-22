@@ -618,3 +618,4 @@ long __machine_check_early_realmode_p9(struct pt_regs *regs)
 
 	return mce_handle_error(regs, mce_p9_derror_table, mce_p9_ierror_table);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

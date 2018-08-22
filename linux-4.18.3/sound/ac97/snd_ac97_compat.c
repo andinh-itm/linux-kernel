@@ -106,3 +106,4 @@ int snd_ac97_reset(struct snd_ac97 *ac97, bool try_warm, unsigned int id,
 	return -ENODEV;
 }
 EXPORT_SYMBOL_GPL(snd_ac97_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

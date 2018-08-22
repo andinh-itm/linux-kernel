@@ -382,3 +382,4 @@ MODULE_DEVICE_TABLE(mdio, xway_gphy_tbl);
 
 MODULE_DESCRIPTION("Intel XWAY PHY driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

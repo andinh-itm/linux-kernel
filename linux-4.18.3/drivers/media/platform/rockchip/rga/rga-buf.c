@@ -153,3 +153,4 @@ void rga_buf_map(struct vb2_buffer *vb)
 	dma_sync_single_for_device(rga->dev, virt_to_phys(pages),
 				   8 * PAGE_SIZE, DMA_BIDIRECTIONAL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

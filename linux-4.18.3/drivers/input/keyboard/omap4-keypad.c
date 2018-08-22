@@ -468,3 +468,4 @@ MODULE_AUTHOR("Texas Instruments");
 MODULE_DESCRIPTION("OMAP4 Keypad Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap4-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

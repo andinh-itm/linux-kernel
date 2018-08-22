@@ -625,3 +625,4 @@ EFUSE_ShadowRead(
 		efuse_ShadowRead4Byte(padapter, Offset, (u32 *)Value);
 
 }	/* EFUSE_ShadowRead*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -146,3 +146,4 @@ struct rtc_time rtc_ktime_to_tm(ktime_t kt)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(rtc_ktime_to_tm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

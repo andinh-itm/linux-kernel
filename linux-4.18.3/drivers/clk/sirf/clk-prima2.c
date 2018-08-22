@@ -148,3 +148,4 @@ static void __init prima2_clk_init(struct device_node *np)
 	of_clk_add_provider(np, of_clk_src_onecell_get, &clk_data);
 }
 CLK_OF_DECLARE(prima2_clk, "sirf,prima2-clkc", prima2_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1204,3 +1204,4 @@ u32 vfp_double_cpdo(u32 inst, u32 fpscr)
  invalid:
 	return ~0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

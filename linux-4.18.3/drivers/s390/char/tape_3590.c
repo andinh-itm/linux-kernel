@@ -1700,3 +1700,4 @@ MODULE_LICENSE("GPL");
 
 module_init(tape_3590_init);
 module_exit(tape_3590_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

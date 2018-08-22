@@ -110,3 +110,4 @@ module_exit(map_absent_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Resilience Corporation - Eric Brower <ebrower@resilience.com>");
 MODULE_DESCRIPTION("Placeholder MTD chip driver for 'absent' chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

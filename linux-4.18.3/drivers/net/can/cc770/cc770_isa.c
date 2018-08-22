@@ -377,3 +377,4 @@ static void __exit cc770_isa_exit(void)
 	}
 }
 module_exit(cc770_isa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

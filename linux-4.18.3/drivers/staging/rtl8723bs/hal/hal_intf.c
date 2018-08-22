@@ -464,3 +464,4 @@ s32 rtw_hal_fill_h2c_cmd(struct adapter *padapter, u8 ElementID, u32 CmdLen, u8 
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

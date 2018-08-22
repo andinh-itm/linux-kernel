@@ -427,3 +427,4 @@ int ipu_dc_init(struct ipu_soc *ipu, struct device *dev,
 void ipu_dc_exit(struct ipu_soc *ipu)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -280,3 +280,4 @@ const struct file_operations qnx6_dir_operations = {
 const struct inode_operations qnx6_dir_inode_operations = {
 	.lookup		= qnx6_lookup,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

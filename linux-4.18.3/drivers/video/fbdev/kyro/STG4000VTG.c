@@ -168,3 +168,4 @@ void SetupVTG(volatile STG4000REG __iomem *pSTGReg,
 
 	STG_WRITE_REG(DACSyncCtrl, tmp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

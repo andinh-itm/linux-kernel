@@ -1078,3 +1078,4 @@ void vlv_phy_reset_lanes(struct intel_encoder *encoder,
 	vlv_dpio_write(dev_priv, pipe, VLV_PCS_DW1(port), 0x00e00060);
 	mutex_unlock(&dev_priv->sb_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

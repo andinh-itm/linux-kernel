@@ -298,3 +298,4 @@ int fdt_finish(void *fdt)
 	fdt_set_magic(fdt, FDT_MAGIC);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

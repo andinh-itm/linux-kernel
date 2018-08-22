@@ -283,3 +283,4 @@ void mfp_config_run(void)
 	for (pin = 0; pin < ARRAY_SIZE(mfp_table); pin++, p++)
 		__mfp_config_run(p);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

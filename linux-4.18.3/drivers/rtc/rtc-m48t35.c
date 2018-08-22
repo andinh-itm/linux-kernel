@@ -189,3 +189,4 @@ MODULE_AUTHOR("Thomas Bogendoerfer <tsbogend@alpha.franken.de>");
 MODULE_DESCRIPTION("M48T35 RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-m48t35");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -406,3 +406,4 @@ static int __init imx27_pinctrl_init(void)
 	return platform_driver_register(&imx27_pinctrl_driver);
 }
 arch_initcall(imx27_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

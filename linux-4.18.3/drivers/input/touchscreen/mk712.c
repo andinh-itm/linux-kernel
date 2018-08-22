@@ -217,3 +217,4 @@ static void __exit mk712_exit(void)
 
 module_init(mk712_init);
 module_exit(mk712_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

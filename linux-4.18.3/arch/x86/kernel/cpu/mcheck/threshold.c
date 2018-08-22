@@ -27,3 +27,4 @@ asmlinkage __visible void __irq_entry smp_threshold_interrupt(void)
 	trace_threshold_apic_exit(THRESHOLD_APIC_VECTOR);
 	exiting_ack_irq();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

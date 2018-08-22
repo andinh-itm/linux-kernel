@@ -618,3 +618,4 @@ long kvmppc_h_get_tce(struct kvm_vcpu *vcpu, unsigned long liobn,
 EXPORT_SYMBOL_GPL(kvmppc_h_get_tce);
 
 #endif /* KVM_BOOK3S_HV_POSSIBLE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

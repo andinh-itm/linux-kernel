@@ -287,3 +287,4 @@ int mlx4_SET_VPORT_QOS_set(struct mlx4_dev *dev, u8 port, u8 vport,
 	return err;
 }
 EXPORT_SYMBOL(mlx4_SET_VPORT_QOS_set);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

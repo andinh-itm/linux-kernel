@@ -153,3 +153,4 @@ module_pci_driver(moxa8250_pci_driver);
 MODULE_AUTHOR("Mathieu OTHACEHE");
 MODULE_DESCRIPTION("MOXA SmartIO MUE driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

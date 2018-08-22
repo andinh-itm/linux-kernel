@@ -32,3 +32,4 @@ void __init early_init_devtree(void *params)
 
 	pr_debug(" <- early_init_devtree()\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

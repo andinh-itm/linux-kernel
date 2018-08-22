@@ -89,3 +89,4 @@ void __init chrp_nvram_init(void)
 
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

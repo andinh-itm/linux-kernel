@@ -488,3 +488,4 @@ MODULE_AUTHOR("James Simmons <jsimmons@users.sf.net>");
 MODULE_DESCRIPTION("VGA State Save/Restore");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

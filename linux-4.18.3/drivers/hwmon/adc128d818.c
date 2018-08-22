@@ -570,3 +570,4 @@ module_i2c_driver(adc128_driver);
 MODULE_AUTHOR("Guenter Roeck");
 MODULE_DESCRIPTION("Driver for ADC128D818");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

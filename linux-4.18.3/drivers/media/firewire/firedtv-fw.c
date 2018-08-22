@@ -426,3 +426,4 @@ MODULE_AUTHOR("Ben Backx <ben@bbackx.com>");
 MODULE_DESCRIPTION("FireDTV DVB Driver");
 MODULE_LICENSE("GPL");
 MODULE_SUPPORTED_DEVICE("FireDTV DVB");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

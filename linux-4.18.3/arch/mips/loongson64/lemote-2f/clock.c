@@ -141,3 +141,4 @@ long clk_round_rate(struct clk *clk, unsigned long rate)
 	return rate;
 }
 EXPORT_SYMBOL_GPL(clk_round_rate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

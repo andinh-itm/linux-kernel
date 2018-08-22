@@ -468,3 +468,4 @@ int hfsplus_compare_dentry(const struct dentry *dentry,
 		return 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

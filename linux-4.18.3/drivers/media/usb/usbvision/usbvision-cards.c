@@ -1127,3 +1127,4 @@ struct usb_device_id usbvision_table[] = {
 };
 
 MODULE_DEVICE_TABLE(usb, usbvision_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -437,3 +437,4 @@ int cfi_varsize_frob(struct mtd_info *mtd, varsize_frob_t frob,
 EXPORT_SYMBOL(cfi_varsize_frob);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

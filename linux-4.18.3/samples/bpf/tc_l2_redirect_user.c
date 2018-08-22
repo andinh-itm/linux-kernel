@@ -71,3 +71,4 @@ out:
 		close(array_fd);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

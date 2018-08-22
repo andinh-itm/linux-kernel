@@ -51,3 +51,4 @@ static int __init init_loader_binfmt(void)
 	return 0;
 }
 arch_initcall(init_loader_binfmt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

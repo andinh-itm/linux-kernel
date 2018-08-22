@@ -191,3 +191,4 @@ init_onchip_IRQ(struct device_node *intc, struct device_node *parent)
 }
 
 IRQCHIP_DECLARE(arc_intc, "snps,archs-intc", init_onchip_IRQ);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

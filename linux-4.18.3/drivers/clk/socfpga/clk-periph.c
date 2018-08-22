@@ -117,3 +117,4 @@ void __init socfpga_periph_init(struct device_node *node)
 {
 	__socfpga_periph_init(node, &periclk_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

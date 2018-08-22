@@ -965,3 +965,4 @@ static struct pcmcia_driver tc589_driver = {
 	.resume		= tc589_resume,
 };
 module_pcmcia_driver(tc589_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

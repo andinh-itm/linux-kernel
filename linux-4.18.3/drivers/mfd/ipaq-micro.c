@@ -452,3 +452,4 @@ static struct platform_driver micro_device_driver = {
 	},
 };
 builtin_platform_driver_probe(micro_device_driver, micro_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

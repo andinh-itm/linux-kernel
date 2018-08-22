@@ -137,3 +137,4 @@ define_machine(sbc8548) {
 	.calibrate_decr = generic_calibrate_decr,
 	.progress	= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

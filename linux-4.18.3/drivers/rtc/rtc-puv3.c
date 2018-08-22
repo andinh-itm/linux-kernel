@@ -307,3 +307,4 @@ module_platform_driver(puv3_rtc_driver);
 MODULE_DESCRIPTION("RTC Driver for the PKUnity v3 chip");
 MODULE_AUTHOR("Hu Dongliang");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -844,3 +844,4 @@ static void __exit exit_scsi(void)
 
 subsys_initcall(init_scsi);
 module_exit(exit_scsi);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

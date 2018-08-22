@@ -324,3 +324,4 @@ const struct snd_soc_component_driver kirkwood_soc_component = {
 	.pcm_new	= kirkwood_dma_new,
 	.pcm_free	= kirkwood_dma_free_dma_buffers,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -492,3 +492,4 @@ const struct ef4_phy_operations falcon_sfx7101_phy_ops = {
 	.test_name	  = sfx7101_test_name,
 	.run_tests	  = sfx7101_run_tests,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

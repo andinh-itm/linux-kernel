@@ -400,3 +400,4 @@ struct platform_driver vc4_dpi_driver = {
 		.of_match_table = vc4_dpi_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

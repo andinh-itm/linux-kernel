@@ -3068,3 +3068,4 @@ const struct b43_phy_operations b43_phyops_g = {
 	.pwork_15sec		= b43_gphy_op_pwork_15sec,
 	.pwork_60sec		= b43_gphy_op_pwork_60sec,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

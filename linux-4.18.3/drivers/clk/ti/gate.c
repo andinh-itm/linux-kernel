@@ -294,3 +294,4 @@ static void __init of_ti_dss_gate_clk_setup(struct device_node *node)
 CLK_OF_DECLARE(ti_dss_gate_clk, "ti,dss-gate-clock",
 	       of_ti_dss_gate_clk_setup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

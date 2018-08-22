@@ -916,3 +916,4 @@ void acpi_db_get_bus_info(void)
 				  ACPI_UINT32_MAX, acpi_db_bus_walk, NULL, NULL,
 				  NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

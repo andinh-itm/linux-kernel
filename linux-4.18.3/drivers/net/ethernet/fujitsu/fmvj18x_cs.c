@@ -1169,3 +1169,4 @@ static void set_rx_mode(struct net_device *dev)
 
     local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

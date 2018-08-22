@@ -469,3 +469,4 @@ EXPORT_SYMBOL_GPL(wm8350_device_exit);
 
 MODULE_DESCRIPTION("WM8350 AudioPlus PMIC core driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

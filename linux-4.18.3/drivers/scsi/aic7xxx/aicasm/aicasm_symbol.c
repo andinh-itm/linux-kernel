@@ -691,3 +691,4 @@ symtable_dump(FILE *ofile, FILE *dfile)
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

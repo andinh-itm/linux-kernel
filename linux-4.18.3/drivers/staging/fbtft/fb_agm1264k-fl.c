@@ -453,3 +453,4 @@ MODULE_ALIAS("platform:" DRVNAME);
 MODULE_DESCRIPTION("Two KS0108 LCD controllers in AGM1264K-FL display");
 MODULE_AUTHOR("ololoshka2871");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

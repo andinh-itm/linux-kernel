@@ -125,3 +125,4 @@ struct clk *hisi_register_clkgate_sep(struct device *dev, const char *name,
 		kfree(sclk);
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -278,3 +278,4 @@ module_exit(sa1111_drv_pcmcia_exit);
 
 MODULE_DESCRIPTION("SA1111 PCMCIA card socket driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

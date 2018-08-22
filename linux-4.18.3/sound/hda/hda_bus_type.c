@@ -94,3 +94,4 @@ static void __exit hda_bus_exit(void)
 
 subsys_initcall(hda_bus_init);
 module_exit(hda_bus_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

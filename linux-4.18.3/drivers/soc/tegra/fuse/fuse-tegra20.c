@@ -176,3 +176,4 @@ const struct tegra_fuse_soc tegra20_fuse_soc = {
 	.probe = tegra20_fuse_probe,
 	.info = &tegra20_fuse_info,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

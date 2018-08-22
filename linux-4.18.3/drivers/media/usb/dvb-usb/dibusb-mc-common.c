@@ -167,3 +167,4 @@ int dibusb_dib3000mc_tuner_attach(struct dvb_usb_adapter *adap)
 	return 0;
 }
 EXPORT_SYMBOL(dibusb_dib3000mc_tuner_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

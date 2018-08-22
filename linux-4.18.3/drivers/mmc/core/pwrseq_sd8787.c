@@ -115,3 +115,4 @@ static struct platform_driver mmc_pwrseq_sd8787_driver = {
 
 module_platform_driver(mmc_pwrseq_sd8787_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

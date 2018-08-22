@@ -255,3 +255,4 @@ int zfcp_unit_remove(struct zfcp_port *port, u64 fcp_lun)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

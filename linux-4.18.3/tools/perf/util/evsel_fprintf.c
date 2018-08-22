@@ -234,3 +234,4 @@ int sample__fprintf_sym(struct perf_sample *sample, struct addr_location *al,
 
 	return printed;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -937,3 +937,4 @@ static int __init vt8623fb_init(void)
 
 module_init(vt8623fb_init);
 module_exit(vt8623fb_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

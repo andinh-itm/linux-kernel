@@ -247,3 +247,4 @@ u32 scif_rb_count(struct scif_rb *rb, u32 size)
 				rb->current_read_offset,
 				rb->size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

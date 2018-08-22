@@ -416,3 +416,4 @@ module_pci_driver(pasemi_smb_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR ("Olof Johansson <olof@lixom.net>");
 MODULE_DESCRIPTION("PA Semi PWRficient SMBus driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

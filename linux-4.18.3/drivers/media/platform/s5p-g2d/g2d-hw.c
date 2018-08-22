@@ -115,3 +115,4 @@ void g2d_clear_int(struct g2d_dev *d)
 {
 	w(1, INTC_PEND_REG);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

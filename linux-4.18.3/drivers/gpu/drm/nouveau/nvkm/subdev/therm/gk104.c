@@ -134,3 +134,4 @@ gk104_therm_new(struct nvkm_device *device,
 				gk104_clkgate_engine_info, &gk104_idle_filter,
 				ptherm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

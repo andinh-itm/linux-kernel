@@ -281,3 +281,4 @@ int __init cyrix_init_mtrr(void)
 	set_mtrr_ops(&cyrix_mtrr_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -113,3 +113,4 @@ MODULE_DESCRIPTION("SDHCI driver for CNS3xxx");
 MODULE_AUTHOR("Scott Shu, "
 	      "Anton Vorontsov <avorontsov@mvista.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

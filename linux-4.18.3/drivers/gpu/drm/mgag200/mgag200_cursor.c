@@ -272,3 +272,4 @@ int mga_crtc_cursor_move(struct drm_crtc *crtc, int x, int y)
 	WREG8(MGA_CURPOSYH, (y>>8) & 0xff);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

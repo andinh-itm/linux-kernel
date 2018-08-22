@@ -261,3 +261,4 @@ module_exit(sprd_pmic_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Spreadtrum SC27xx PMICs driver");
 MODULE_AUTHOR("Baolin Wang <baolin.wang@spreadtrum.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

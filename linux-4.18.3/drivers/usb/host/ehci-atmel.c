@@ -250,3 +250,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_ALIAS("platform:atmel-ehci");
 MODULE_AUTHOR("Nicolas Ferre");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

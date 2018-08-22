@@ -145,3 +145,4 @@ static void __exit toshiba_wmi_exit(void)
 
 module_init(toshiba_wmi_init);
 module_exit(toshiba_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

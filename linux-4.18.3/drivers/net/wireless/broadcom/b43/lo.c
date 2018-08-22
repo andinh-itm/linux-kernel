@@ -1014,3 +1014,4 @@ void b43_lo_g_init(struct b43_wldev *dev)
 		b43_gphy_dc_lt_init(dev, 1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

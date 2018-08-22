@@ -207,3 +207,4 @@ const struct file_operations event_buffer_fops = {
 	.read		= event_buffer_read,
 	.llseek		= no_llseek,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

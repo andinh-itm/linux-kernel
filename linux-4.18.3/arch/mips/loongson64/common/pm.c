@@ -159,3 +159,4 @@ static int __init loongson_pm_init(void)
 	return 0;
 }
 arch_initcall(loongson_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

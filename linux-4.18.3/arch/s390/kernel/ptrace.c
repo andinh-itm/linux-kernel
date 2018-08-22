@@ -1742,3 +1742,4 @@ unsigned long regs_get_kernel_stack_nth(struct pt_regs *regs, unsigned int n)
 		return 0;
 	return *(unsigned long *)addr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

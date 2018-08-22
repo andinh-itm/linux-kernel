@@ -155,3 +155,4 @@ void mmc_spi_put_pdata(struct spi_device *spi)
 	dev->platform_data = NULL;
 }
 EXPORT_SYMBOL(mmc_spi_put_pdata);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

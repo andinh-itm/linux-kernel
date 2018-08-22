@@ -1052,3 +1052,4 @@ void tsi721_unregister_dma(struct tsi721_device *priv)
 		list_del(&chan->device_node);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -806,3 +806,4 @@ module_i2c_driver(tas571x_i2c_driver);
 MODULE_DESCRIPTION("ASoC TAS571x driver");
 MODULE_AUTHOR("Kevin Cernekee <cernekee@chromium.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

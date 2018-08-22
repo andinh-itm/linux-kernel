@@ -393,3 +393,4 @@ void iwl_power_initialize(struct iwl_priv *priv)
 	memset(&priv->power_data.sleep_cmd, 0,
 		sizeof(priv->power_data.sleep_cmd));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

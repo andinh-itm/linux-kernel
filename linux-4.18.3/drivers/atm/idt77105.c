@@ -372,3 +372,4 @@ static void __exit idt77105_exit(void)
 module_exit(idt77105_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

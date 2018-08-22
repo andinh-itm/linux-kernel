@@ -271,3 +271,4 @@ static struct sh_machine_vector mv_x3proto __initmv = {
 	.mv_name		= "x3proto",
 	.mv_setup		= x3proto_setup,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -740,3 +740,4 @@ static struct pcmcia_driver pcan_driver = {
 	.id_table = pcan_table,
 };
 module_pcmcia_driver(pcan_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

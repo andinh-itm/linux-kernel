@@ -449,3 +449,4 @@ int rsi_sdio_determine_event_timeout(struct rsi_hw *adapter)
 
 	return EVENT_WAIT_FOREVER;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

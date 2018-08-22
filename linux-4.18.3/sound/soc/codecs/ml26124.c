@@ -605,3 +605,4 @@ module_i2c_driver(ml26124_i2c_driver);
 MODULE_AUTHOR("Tomoya MORINAGA <tomoya.rohm@gmail.com>");
 MODULE_DESCRIPTION("LAPIS Semiconductor ML26124 ALSA SoC codec driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

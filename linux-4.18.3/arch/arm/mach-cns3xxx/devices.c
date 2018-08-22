@@ -109,3 +109,4 @@ void __init cns3xxx_sdhci_init(void)
 
 	platform_device_register(&cns3xxx_sdhci_pdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

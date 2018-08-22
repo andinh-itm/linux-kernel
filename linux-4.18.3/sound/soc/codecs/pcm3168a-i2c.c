@@ -64,3 +64,4 @@ module_i2c_driver(pcm3168a_i2c_driver);
 MODULE_DESCRIPTION("PCM3168A I2C codec driver");
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

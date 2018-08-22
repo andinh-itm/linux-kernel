@@ -1292,3 +1292,4 @@ EXPORT_SYMBOL(mpu3050_dev_pm_ops);
 MODULE_AUTHOR("Linus Walleij");
 MODULE_DESCRIPTION("MPU3050 gyroscope driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

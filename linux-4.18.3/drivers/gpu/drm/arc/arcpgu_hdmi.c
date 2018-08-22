@@ -54,3 +54,4 @@ int arcpgu_drm_hdmi_init(struct drm_device *drm, struct device_node *np)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

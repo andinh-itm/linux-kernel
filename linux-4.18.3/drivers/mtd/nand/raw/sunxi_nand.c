@@ -2143,3 +2143,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Boris BREZILLON");
 MODULE_DESCRIPTION("Allwinner NAND Flash Controller driver");
 MODULE_ALIAS("platform:sunxi_nand");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

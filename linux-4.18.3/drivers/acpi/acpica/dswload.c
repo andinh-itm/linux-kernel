@@ -579,3 +579,4 @@ acpi_status acpi_ds_load1_end_op(struct acpi_walk_state *walk_state)
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

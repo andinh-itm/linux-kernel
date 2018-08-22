@@ -734,3 +734,4 @@ arm_probes_decode_insn(probes_opcode_t insn, struct arch_probes_insn *asi,
 	return probes_decode_insn(insn, asi, probes_decode_arm_table, false,
 				  emulate, actions, checkers);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

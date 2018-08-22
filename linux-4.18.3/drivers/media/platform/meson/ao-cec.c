@@ -742,3 +742,4 @@ module_platform_driver(meson_ao_cec_driver);
 MODULE_DESCRIPTION("Meson AO CEC Controller driver");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

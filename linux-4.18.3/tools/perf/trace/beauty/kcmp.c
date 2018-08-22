@@ -42,3 +42,4 @@ size_t syscall_arg__scnprintf_kcmp_type(char *bf, size_t size, struct syscall_ar
 
 	return kcmp__scnprintf_type(type, bf, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

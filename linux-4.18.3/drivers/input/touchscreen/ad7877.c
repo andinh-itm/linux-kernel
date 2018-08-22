@@ -834,3 +834,4 @@ MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("AD7877 touchscreen Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:ad7877");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

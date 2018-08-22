@@ -311,3 +311,4 @@ void watchdog_nmi_disable(unsigned int cpu)
 	else
 		smp_call_function_single(cpu, stop_nmi_watchdog, NULL, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

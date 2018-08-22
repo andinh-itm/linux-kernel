@@ -265,3 +265,4 @@ MODULE_AUTHOR("Jaewon Kim <jaewon02.kim@samsung.com>");
 MODULE_AUTHOR("Hyunhee Kim <hyunhee.kim@samsung.com>");
 MODULE_DESCRIPTION("Regulator haptic driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

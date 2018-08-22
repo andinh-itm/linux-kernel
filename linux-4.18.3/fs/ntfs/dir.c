@@ -1549,3 +1549,4 @@ const struct file_operations ntfs_dir_ops = {
 						   mounted filesystem. */
 	.open		= ntfs_dir_open,	/* Open directory. */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -926,3 +926,4 @@ MODULE_AUTHOR("Johan Hovold <jhovold@gmail.com>");
 MODULE_DESCRIPTION("LM3533 Ambient Light Sensor driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lm3533-als");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

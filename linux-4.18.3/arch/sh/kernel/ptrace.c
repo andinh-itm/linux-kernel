@@ -32,3 +32,4 @@ const char *regs_query_register_name(unsigned int offset)
 			return roff->name;
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

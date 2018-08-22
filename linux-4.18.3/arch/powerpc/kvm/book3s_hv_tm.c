@@ -214,3 +214,4 @@ int kvmhv_p9_tm_emulation(struct kvm_vcpu *vcpu)
 	WARN_ON_ONCE(1);
 	return RESUME_GUEST;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

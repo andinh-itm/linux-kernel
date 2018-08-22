@@ -266,3 +266,4 @@ void cmtp_cleanup_sockets(void)
 	bt_sock_unregister(BTPROTO_CMTP);
 	proto_unregister(&cmtp_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

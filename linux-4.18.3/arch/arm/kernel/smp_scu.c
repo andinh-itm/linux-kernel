@@ -125,3 +125,4 @@ int scu_get_cpu_power_mode(void __iomem *scu_base, unsigned int logical_cpu)
 
 	return val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

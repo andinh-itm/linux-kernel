@@ -7218,3 +7218,4 @@ module_init(DAC960_init_module);
 module_exit(DAC960_cleanup_module);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

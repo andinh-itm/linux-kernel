@@ -229,3 +229,4 @@ int ddb_i2c_init(struct ddb *dev)
 
 	return stat;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

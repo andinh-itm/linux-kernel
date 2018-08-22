@@ -1471,3 +1471,4 @@ module_platform_driver(hva_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Yannick Fertre <yannick.fertre@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics HVA video encoder V4L2 driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

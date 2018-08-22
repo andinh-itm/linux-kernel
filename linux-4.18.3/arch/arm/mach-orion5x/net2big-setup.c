@@ -433,3 +433,4 @@ MACHINE_START(NET2BIG, "LaCie 2Big Network")
 	.restart	= orion5x_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

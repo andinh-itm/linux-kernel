@@ -721,3 +721,4 @@ int register_fsl_emb_pmu(struct fsl_emb_pmu *pmu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

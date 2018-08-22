@@ -2483,3 +2483,4 @@ void ath10k_dbg_dump(struct ath10k *ar,
 EXPORT_SYMBOL(ath10k_dbg_dump);
 
 #endif /* CONFIG_ATH10K_DEBUG */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -125,3 +125,4 @@ void __init lpc32xx_serial_init(void)
 	tmp &= ~LPC32XX_UART_U5_ROUTE_TO_USB;
 	__raw_writel(tmp, LPC32XX_UARTCTL_CTRL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

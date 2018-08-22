@@ -127,3 +127,4 @@ DT_MACHINE_START(SOCFPGA_A10, "Altera SOCFPGA Arria10")
 	.restart	= socfpga_arria10_restart,
 	.dt_compat	= altera_a10_dt_match,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

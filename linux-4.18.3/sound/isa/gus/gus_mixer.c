@@ -188,3 +188,4 @@ int snd_gf1_new_mixer(struct snd_gus_card * gus)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

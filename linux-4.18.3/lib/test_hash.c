@@ -254,3 +254,4 @@ module_init(test_hash_init);	/* Does everything */
 module_exit(test_hash_exit);	/* Does nothing */
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3080,3 +3080,4 @@ void device_set_of_node_from_dev(struct device *dev, const struct device *dev2)
 	dev->of_node_reused = true;
 }
 EXPORT_SYMBOL_GPL(device_set_of_node_from_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

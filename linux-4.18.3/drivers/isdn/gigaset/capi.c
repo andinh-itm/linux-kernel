@@ -2518,3 +2518,4 @@ void gigaset_isdn_unregdrv(void)
 {
 	unregister_capi_driver(&capi_driver_gigaset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

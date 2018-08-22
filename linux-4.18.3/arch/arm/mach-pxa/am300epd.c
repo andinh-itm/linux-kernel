@@ -294,3 +294,4 @@ MODULE_PARM_DESC(panel_type, "Select the panel type: 37, 6, 97");
 MODULE_DESCRIPTION("board driver for am300 epd kit");
 MODULE_AUTHOR("Jaya Kumar");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

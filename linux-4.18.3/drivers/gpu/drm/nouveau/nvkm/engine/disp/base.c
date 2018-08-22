@@ -477,3 +477,4 @@ nvkm_disp_new_(const struct nvkm_disp_func *func, struct nvkm_device *device,
 		return -ENOMEM;
 	return nvkm_disp_ctor(func, device, index, *pdisp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

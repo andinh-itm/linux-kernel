@@ -221,3 +221,4 @@ int adv7533_parse_dt(struct device_node *np, struct adv7511 *adv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

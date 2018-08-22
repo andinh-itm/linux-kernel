@@ -180,3 +180,4 @@ struct net_device *alloc_fddidev(int sizeof_priv)
 EXPORT_SYMBOL(alloc_fddidev);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

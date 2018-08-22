@@ -391,3 +391,4 @@ void fifo_icap_flush_fifo(struct hwicap_drvdata *drvdata)
 				reg_data & (~XHI_CR_FIFO_CLR_MASK));
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

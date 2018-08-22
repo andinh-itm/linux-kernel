@@ -156,3 +156,4 @@ static void __exit atamouse_exit(void)
 
 module_init(atamouse_init);
 module_exit(atamouse_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

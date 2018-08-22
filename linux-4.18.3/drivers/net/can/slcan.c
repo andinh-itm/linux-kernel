@@ -776,3 +776,4 @@ static void __exit slcan_exit(void)
 
 module_init(slcan_init);
 module_exit(slcan_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

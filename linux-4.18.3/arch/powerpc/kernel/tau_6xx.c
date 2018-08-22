@@ -271,3 +271,4 @@ u32 tau_interrupts(unsigned long cpu)
 {
 	return (tau[cpu].interrupts);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

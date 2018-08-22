@@ -320,3 +320,4 @@ const struct amdgpu_ip_block_version si_ih_ip_block =
 	.rev = 0,
 	.funcs = &si_ih_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

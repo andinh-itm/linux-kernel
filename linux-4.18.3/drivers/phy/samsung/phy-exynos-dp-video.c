@@ -119,3 +119,4 @@ module_platform_driver(exynos_dp_video_phy_driver);
 MODULE_AUTHOR("Jingoo Han <jg1.han@samsung.com>");
 MODULE_DESCRIPTION("Samsung EXYNOS SoC DP PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

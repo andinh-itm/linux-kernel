@@ -144,3 +144,4 @@ addit:
 
 	list_add_tail(&root_res->list, &info->resources);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

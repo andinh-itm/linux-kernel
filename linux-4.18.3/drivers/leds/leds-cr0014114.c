@@ -312,3 +312,4 @@ MODULE_AUTHOR("Oleh Kravchenko <oleg@kaa.org.ua>");
 MODULE_DESCRIPTION("cr0014114 LED driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("spi:cr0014114");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

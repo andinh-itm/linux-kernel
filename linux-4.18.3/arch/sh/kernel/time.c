@@ -117,3 +117,4 @@ void __init time_init(void)
 
 	late_time_init = sh_late_time_init;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

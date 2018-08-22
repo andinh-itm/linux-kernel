@@ -544,3 +544,4 @@ module_platform_driver(vctrl_driver);
 MODULE_DESCRIPTION("Voltage Controlled Regulator Driver");
 MODULE_AUTHOR("Matthias Kaehlcke <mka@chromium.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

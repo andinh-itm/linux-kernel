@@ -151,3 +151,4 @@ ssize_t ide_park_store(struct device *dev, struct device_attribute *attr,
 
 	return rc ? rc : len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

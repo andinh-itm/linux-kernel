@@ -246,3 +246,4 @@ void tty_audit_add_data(struct tty_struct *tty, const void *data, size_t size)
 	} while (size != 0);
 	mutex_unlock(&buf->mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

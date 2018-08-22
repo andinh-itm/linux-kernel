@@ -310,3 +310,4 @@ MACHINE_START(TTC_DKB, "PXA910-based TTC_DKB Development Platform")
 	.init_machine   = ttc_dkb_init,
 	.restart	= mmp_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

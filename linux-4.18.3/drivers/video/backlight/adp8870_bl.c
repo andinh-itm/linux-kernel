@@ -994,3 +994,4 @@ module_i2c_driver(adp8870_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("ADP8870 Backlight driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

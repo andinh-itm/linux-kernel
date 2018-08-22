@@ -894,3 +894,4 @@ int lola_create_mixer(struct lola *chip)
 #endif /* FIXME */
 	return init_mixer_values(chip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

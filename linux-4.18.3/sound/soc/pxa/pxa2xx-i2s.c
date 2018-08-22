@@ -401,3 +401,4 @@ MODULE_AUTHOR("Liam Girdwood, lrg@slimlogic.co.uk");
 MODULE_DESCRIPTION("pxa2xx I2S SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa2xx-i2s");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

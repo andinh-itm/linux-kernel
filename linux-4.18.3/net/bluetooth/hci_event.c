@@ -5464,3 +5464,4 @@ void hci_event_packet(struct hci_dev *hdev, struct sk_buff *skb)
 	kfree_skb(skb);
 	hdev->stat.evt_rx++;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -579,3 +579,4 @@ module_platform_driver(tegra_platform_hda);
 
 MODULE_DESCRIPTION("Tegra HDA bus driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

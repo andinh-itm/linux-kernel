@@ -156,3 +156,4 @@ struct clk *hi6220_register_clkdiv(struct device *dev, const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -107,3 +107,4 @@ void kvmhv_emulate_tm_rollback(struct kvm_vcpu *vcpu)
 	copy_from_checkpoint(vcpu);
 	vcpu->arch.cr = (vcpu->arch.cr & 0x0fffffff) | 0xa0000000;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

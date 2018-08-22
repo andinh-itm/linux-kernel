@@ -118,3 +118,4 @@ EXPORT_SYMBOL(mtk_vcodec_get_curr_ctx);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Mediatek video codec driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -470,3 +470,4 @@ static struct snd_seq_driver seq_midisynth_driver = {
 };
 
 module_snd_seq_driver(seq_midisynth_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

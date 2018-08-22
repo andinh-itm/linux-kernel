@@ -240,3 +240,4 @@ static struct platform_driver artpec6_clkctrl_driver = {
 };
 
 builtin_platform_driver(artpec6_clkctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

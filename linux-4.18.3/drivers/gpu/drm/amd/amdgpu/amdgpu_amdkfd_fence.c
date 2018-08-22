@@ -177,3 +177,4 @@ static const struct dma_fence_ops amdkfd_fence_ops = {
 	.wait = dma_fence_default_wait,
 	.release = amdkfd_fence_release,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

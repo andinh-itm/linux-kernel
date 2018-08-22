@@ -155,3 +155,4 @@ module_platform_driver(imx_iim_driver);
 MODULE_AUTHOR("Michael Grzeschik <m.grzeschik@pengutronix.de>");
 MODULE_DESCRIPTION("i.MX IIM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1279,3 +1279,4 @@ int acpi_dev_pm_attach(struct device *dev, bool power_on)
 }
 EXPORT_SYMBOL_GPL(acpi_dev_pm_attach);
 #endif /* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -307,3 +307,4 @@ const struct ethtool_ops dpaa2_ethtool_ops = {
 	.get_rxnfc = dpaa2_eth_get_rxnfc,
 	.get_ts_info = dpaa2_eth_get_ts_info,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

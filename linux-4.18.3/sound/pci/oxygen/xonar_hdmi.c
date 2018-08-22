@@ -126,3 +126,4 @@ void xonar_hdmi_uart_input(struct oxygen *chip)
 		chip->uart_input_count = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

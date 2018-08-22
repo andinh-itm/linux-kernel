@@ -401,3 +401,4 @@ MODULE_AUTHOR("Ondrej Mosnacek <omosnacek@gmail.com>");
 MODULE_DESCRIPTION("AEGIS-128 AEAD algorithm -- AESNI+SSE2 implementation");
 MODULE_ALIAS_CRYPTO("aegis128");
 MODULE_ALIAS_CRYPTO("aegis128-aesni");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

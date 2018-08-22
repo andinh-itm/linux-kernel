@@ -525,3 +525,4 @@ static struct usb_driver usb_si4713_driver = {
 };
 
 module_usb_driver(usb_si4713_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

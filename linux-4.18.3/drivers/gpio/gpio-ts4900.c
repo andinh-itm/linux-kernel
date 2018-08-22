@@ -183,3 +183,4 @@ module_i2c_driver(ts4900_gpio_driver);
 MODULE_AUTHOR("Technologic Systems");
 MODULE_DESCRIPTION("GPIO interface for Technologic Systems I2C-FPGA core");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

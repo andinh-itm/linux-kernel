@@ -426,3 +426,4 @@ module_platform_driver(img_pwm_driver);
 MODULE_AUTHOR("Sai Masarapu <Sai.Masarapu@imgtec.com>");
 MODULE_DESCRIPTION("Imagination Technologies PWM DAC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

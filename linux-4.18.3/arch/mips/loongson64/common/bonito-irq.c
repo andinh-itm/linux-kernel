@@ -51,3 +51,4 @@ void bonito_irq_init(void)
 	setup_irq(LOONGSON_IRQ_BASE + 10, &dma_timeout_irqaction);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

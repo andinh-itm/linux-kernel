@@ -268,3 +268,4 @@ const __initconst struct hypervisor_x86 x86_hyper_xen_hvm = {
 	.init.guest_late_init	= xen_hvm_guest_late_init,
 	.runtime.pin_vcpu       = xen_pin_vcpu,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

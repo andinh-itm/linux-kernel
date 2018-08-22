@@ -240,3 +240,4 @@ module_hid_driver(icade_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Bastien Nocera <hadess@hadess.net>");
 MODULE_DESCRIPTION("ION iCade input driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

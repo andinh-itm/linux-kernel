@@ -1433,3 +1433,4 @@ static void __exit w6692_cleanup(void)
 
 module_init(w6692_init);
 module_exit(w6692_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

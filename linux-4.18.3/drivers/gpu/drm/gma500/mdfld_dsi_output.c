@@ -598,3 +598,4 @@ dsi_init_err1:
 dsi_init_err0:
 	kfree(dsi_connector);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

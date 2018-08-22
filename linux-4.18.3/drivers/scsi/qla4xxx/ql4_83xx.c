@@ -1594,3 +1594,4 @@ int qla4_83xx_is_detached(struct scsi_qla_host *ha)
 
 	return QLA_ERROR;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

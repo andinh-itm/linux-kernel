@@ -123,3 +123,4 @@ module_platform_driver(ci_hdrc_usb2_driver);
 MODULE_DESCRIPTION("ChipIdea HDRC USB2 binding for ci13xxx");
 MODULE_AUTHOR("Antoine Tenart <antoine.tenart@free-electrons.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -73,3 +73,4 @@ int __init fsg_pci_init(void)
 }
 
 subsys_initcall(fsg_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

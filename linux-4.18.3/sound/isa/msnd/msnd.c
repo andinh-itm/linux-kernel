@@ -703,3 +703,4 @@ EXPORT_SYMBOL(snd_msnd_pcm);
 MODULE_DESCRIPTION("Common routines for Turtle Beach Multisound drivers");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

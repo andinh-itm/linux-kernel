@@ -281,3 +281,4 @@ static struct gameport_driver guillemot_drv = {
 };
 
 module_gameport_driver(guillemot_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

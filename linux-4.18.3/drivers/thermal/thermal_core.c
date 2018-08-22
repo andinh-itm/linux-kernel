@@ -1574,3 +1574,4 @@ static void __exit thermal_exit(void)
 
 fs_initcall(thermal_init);
 module_exit(thermal_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

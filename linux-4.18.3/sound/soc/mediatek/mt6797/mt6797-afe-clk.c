@@ -121,3 +121,4 @@ int mt6797_afe_disable_clock(struct mtk_base_afe *afe)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

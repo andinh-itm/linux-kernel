@@ -57,3 +57,4 @@ void x86_init_rdrand(struct cpuinfo_x86 *c)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

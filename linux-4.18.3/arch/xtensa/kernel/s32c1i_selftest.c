@@ -126,3 +126,4 @@ static int __init check_s32c1i(void)
 #endif /* XCHAL_HAVE_S32C1I */
 
 early_initcall(check_s32c1i);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

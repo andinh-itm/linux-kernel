@@ -178,3 +178,4 @@ module_platform_driver(altera_fpga_driver);
 MODULE_DESCRIPTION("Altera SoCFPGA FPGA to SDRAM Bridge");
 MODULE_AUTHOR("Alan Tull <atull@opensource.altera.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

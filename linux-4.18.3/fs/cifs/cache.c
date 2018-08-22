@@ -142,3 +142,4 @@ const struct fscache_cookie_def cifs_fscache_inode_object_def = {
 	.type		= FSCACHE_COOKIE_TYPE_DATAFILE,
 	.check_aux	= cifs_fscache_inode_check_aux,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -173,3 +173,4 @@ void snd_usb_caiaq_midi_output_done(struct urb* urb)
 
 	snd_usb_caiaq_midi_send(cdev, cdev->midi_out_substream);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

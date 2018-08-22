@@ -187,3 +187,4 @@ void __init ath79_misc_irq_init(void __iomem *regs, int irq,
 
 	ath79_misc_intc_domain_init(domain, irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

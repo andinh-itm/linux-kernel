@@ -451,3 +451,4 @@ nvkm_therm_new_(const struct nvkm_therm_func *func, struct nvkm_device *device,
 	nvkm_therm_ctor(therm, device, index, func);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

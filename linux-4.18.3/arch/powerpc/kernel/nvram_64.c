@@ -1212,3 +1212,4 @@ static int __init nvram_init(void)
   	return rc;
 }
 device_initcall(nvram_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

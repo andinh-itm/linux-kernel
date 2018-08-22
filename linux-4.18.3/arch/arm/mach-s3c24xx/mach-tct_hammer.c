@@ -141,3 +141,4 @@ MACHINE_START(TCT_HAMMER, "TCT_HAMMER")
 	.init_machine	= tct_hammer_init,
 	.init_time	= tct_hammer_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

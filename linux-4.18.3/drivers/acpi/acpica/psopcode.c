@@ -627,3 +627,4 @@ const struct acpi_opcode_info acpi_gbl_aml_op_info[AML_NUM_OPCODES] = {
 
 /*! [End] no source code translation !*/
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

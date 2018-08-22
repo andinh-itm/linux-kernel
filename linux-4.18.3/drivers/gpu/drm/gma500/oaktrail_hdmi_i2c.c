@@ -325,3 +325,4 @@ void oaktrail_hdmi_i2c_exit(struct pci_dev *dev)
 	kfree(i2c_dev);
 	free_irq(dev->irq, hdmi_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

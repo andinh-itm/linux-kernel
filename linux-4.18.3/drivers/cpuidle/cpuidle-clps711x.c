@@ -57,3 +57,4 @@ static struct platform_driver clps711x_cpuidle_driver = {
 	},
 };
 builtin_platform_driver_probe(clps711x_cpuidle_driver, clps711x_cpuidle_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

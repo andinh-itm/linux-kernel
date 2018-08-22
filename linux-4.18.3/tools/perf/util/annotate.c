@@ -2792,3 +2792,4 @@ void annotation_config__init(void)
 	annotation__default_options.show_total_period = symbol_conf.show_total_period;
 	annotation__default_options.show_nr_samples   = symbol_conf.show_nr_samples;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

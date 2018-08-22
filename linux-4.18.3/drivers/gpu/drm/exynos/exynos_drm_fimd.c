@@ -1204,3 +1204,4 @@ struct platform_driver fimd_driver = {
 		.of_match_table = fimd_driver_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

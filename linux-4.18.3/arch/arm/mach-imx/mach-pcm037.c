@@ -592,3 +592,4 @@ MACHINE_START(PCM037, "Phytec Phycore pcm037")
 	.init_late = pcm037_init_late,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

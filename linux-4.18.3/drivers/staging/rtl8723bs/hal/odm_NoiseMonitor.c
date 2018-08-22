@@ -165,3 +165,4 @@ s16 ODM_InbandNoise_Monitor(void *pDM_VOID, u8 bPauseDIG, u8 IGIValue, u32 max_t
 {
 	return odm_InbandNoise_Monitor_NSeries(pDM_VOID, bPauseDIG, IGIValue, max_time);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

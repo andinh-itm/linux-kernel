@@ -73,3 +73,4 @@ void ZSTD_free(void *ptr, ZSTD_customMem customMem)
 	if (ptr != NULL)
 		customMem.customFree(customMem.opaque, ptr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

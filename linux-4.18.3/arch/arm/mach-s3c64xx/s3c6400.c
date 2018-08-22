@@ -90,3 +90,4 @@ int __init s3c6400_init(void)
 
 	return device_register(&s3c6400_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

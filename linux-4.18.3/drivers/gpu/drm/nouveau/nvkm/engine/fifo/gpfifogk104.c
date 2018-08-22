@@ -351,3 +351,4 @@ gk104_fifo_gpfifo_new(struct gk104_fifo *fifo, const struct nvkm_oclass *oclass,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

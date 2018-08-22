@@ -274,3 +274,4 @@ const struct font_desc font_sun_8x16 = {
 	.pref	= -1,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

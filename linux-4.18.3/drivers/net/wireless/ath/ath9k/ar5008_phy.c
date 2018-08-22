@@ -1368,3 +1368,4 @@ int ar5008_hw_attach_phy_ops(struct ath_hw *ah)
 	memcpy(ah->nf_regs, ar5416_cca_regs, sizeof(ah->nf_regs));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

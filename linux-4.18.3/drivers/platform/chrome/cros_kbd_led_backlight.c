@@ -120,3 +120,4 @@ MODULE_AUTHOR("Simon Que <sque@chromium.org>");
 MODULE_DESCRIPTION("ChromeOS Keyboard backlight LED Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:chromeos-keyboard-leds");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

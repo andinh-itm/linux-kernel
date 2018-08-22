@@ -169,3 +169,4 @@ EXPORT_SYMBOL(msgqueue_flush);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("SCSI message queue handling");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

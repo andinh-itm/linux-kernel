@@ -368,3 +368,4 @@ MODULE_DESCRIPTION("IR controller driver for hix5hd2 platforms");
 MODULE_AUTHOR("Guoxiong Yan <yanguoxiong@huawei.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:hix5hd2-ir");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

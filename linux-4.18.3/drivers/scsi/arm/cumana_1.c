@@ -338,3 +338,4 @@ module_exit(cumanascsi_exit);
 
 MODULE_DESCRIPTION("Cumana SCSI-1 driver for Acorn machines");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

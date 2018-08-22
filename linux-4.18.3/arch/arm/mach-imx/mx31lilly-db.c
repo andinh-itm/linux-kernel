@@ -189,3 +189,4 @@ void __init mx31lilly_db_init(void)
 	imx31_add_mxc_mmc(0, &mmc_pdata);
 	mx31lilly_init_fb();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

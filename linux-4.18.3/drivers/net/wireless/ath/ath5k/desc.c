@@ -784,3 +784,4 @@ ath5k_hw_init_desc_functions(struct ath5k_hw *ah)
 		return -ENOTSUPP;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

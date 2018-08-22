@@ -256,3 +256,4 @@ int setup_netjet_u(struct IsdnCard *card)
 
 	return nju_cs_init_rest(card, cs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

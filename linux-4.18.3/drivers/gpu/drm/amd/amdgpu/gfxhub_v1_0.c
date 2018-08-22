@@ -364,3 +364,4 @@ void gfxhub_v1_0_init(struct amdgpu_device *adev)
 	hub->vm_l2_pro_fault_cntl =
 		SOC15_REG_OFFSET(GC, 0, mmVM_L2_PROTECTION_FAULT_CNTL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

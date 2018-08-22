@@ -1019,3 +1019,4 @@ module_i2c_driver(amc6821_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("T. Mertelj <tomaz.mertelj@guest.arnes.si>");
 MODULE_DESCRIPTION("Texas Instruments amc6821 hwmon driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

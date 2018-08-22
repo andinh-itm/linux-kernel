@@ -398,3 +398,4 @@ MODULE_AUTHOR("Haavard Skinnemoen (Atmel)");
 MODULE_DESCRIPTION("Platform-independent bitbanging I2C driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:i2c-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

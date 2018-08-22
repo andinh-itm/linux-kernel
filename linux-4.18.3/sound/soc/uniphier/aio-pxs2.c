@@ -318,3 +318,4 @@ module_platform_driver(uniphier_aio_driver);
 MODULE_AUTHOR("Katsuhiro Suzuki <suzuki.katsuhiro@socionext.com>");
 MODULE_DESCRIPTION("UniPhier PXs2 AIO driver.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

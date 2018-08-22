@@ -441,3 +441,4 @@ struct mqd_manager *mqd_manager_init_v9(enum KFD_MQD_TYPE type,
 
 	return mqd;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

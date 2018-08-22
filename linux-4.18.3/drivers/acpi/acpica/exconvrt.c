@@ -665,3 +665,4 @@ acpi_ex_convert_to_target_type(acpi_object_type destination_type,
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

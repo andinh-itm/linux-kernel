@@ -269,3 +269,4 @@ err_kfree:
 	return ERR_PTR(err);
 }
 EXPORT_SYMBOL_GPL(fscrypt_get_symlink);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -161,3 +161,4 @@ const struct smp_operations sti_smp_ops __initconst = {
 	.smp_secondary_init	= sti_secondary_init,
 	.smp_boot_secondary	= sti_boot_secondary,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

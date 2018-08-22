@@ -4167,3 +4167,4 @@ void rtl8821ae_add_wowlan_pattern(struct ieee80211_hw *hw,
 	rtl_write_byte(rtlpriv, REG_PKT_BUFF_ACCESS_CTRL,
 		       DISABLE_TRXPKT_BUF_ACCESS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

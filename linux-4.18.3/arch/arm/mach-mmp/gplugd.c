@@ -207,3 +207,4 @@ MACHINE_START(GPLUGD, "PXA168-based GuruPlug Display (gplugD) Platform")
 	.init_machine   = gplugd_init,
 	.restart	= pxa168_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

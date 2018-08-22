@@ -129,3 +129,4 @@ module_usb_driver(isight_firmware_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Matthew Garrett <mjg@redhat.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

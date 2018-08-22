@@ -556,3 +556,4 @@ int audit_exe_compare(struct task_struct *tsk, struct audit_fsnotify_mark *mark)
 	fput(exe_file);
 	return audit_mark_compare(mark, ino, dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

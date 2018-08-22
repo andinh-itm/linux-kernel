@@ -324,3 +324,4 @@ void __init early_trap_init(void)
 
 	flush_icache_range(vectors, vectors + PAGE_SIZE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

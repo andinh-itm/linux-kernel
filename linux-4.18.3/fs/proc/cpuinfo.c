@@ -29,3 +29,4 @@ static int __init proc_cpuinfo_init(void)
 	return 0;
 }
 fs_initcall(proc_cpuinfo_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

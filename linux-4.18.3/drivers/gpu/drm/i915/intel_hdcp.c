@@ -884,3 +884,4 @@ out:
 	mutex_unlock(&connector->hdcp_mutex);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

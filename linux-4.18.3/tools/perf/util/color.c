@@ -220,3 +220,4 @@ int percent_color_len_snprintf(char *bf, size_t size, const char *fmt, ...)
 	color = get_percent_color(percent);
 	return color_snprintf(bf, size, color, fmt, len, percent);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

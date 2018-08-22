@@ -245,3 +245,4 @@ int sm750_hw_i2c_write_reg(unsigned char addr,
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

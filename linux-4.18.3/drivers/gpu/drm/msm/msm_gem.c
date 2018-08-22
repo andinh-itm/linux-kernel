@@ -1086,3 +1086,4 @@ void *msm_gem_kernel_new_locked(struct drm_device *dev, uint32_t size,
 {
 	return _msm_gem_kernel_new(dev, size, flags, aspace, bo, iova, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -468,3 +468,4 @@ void intel_vgpu_reset_display(struct intel_vgpu *vgpu)
 {
 	emulate_monitor_status_change(vgpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

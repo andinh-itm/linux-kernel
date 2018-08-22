@@ -2382,3 +2382,4 @@ void hci_request_cancel_all(struct hci_dev *hdev)
 		hdev->adv_instance_timeout = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

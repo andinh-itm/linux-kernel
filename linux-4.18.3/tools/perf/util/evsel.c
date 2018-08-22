@@ -2914,3 +2914,4 @@ struct perf_env *perf_evsel__env(struct perf_evsel *evsel)
 		return evsel->evlist->env;
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

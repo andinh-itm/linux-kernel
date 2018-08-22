@@ -109,3 +109,4 @@ void r8712_write_port(struct _adapter *adapter, u32 addr, u32 cnt, u8 *pmem)
 
 	hdl->io_ops._write_port(hdl, addr, cnt, pmem);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -49,3 +49,4 @@ void pa7300lc_init(void)
 {
 	cpu_lpmc = pa7300lc_lpmc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

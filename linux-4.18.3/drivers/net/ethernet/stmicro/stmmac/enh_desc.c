@@ -476,3 +476,4 @@ const struct stmmac_desc_ops enh_desc_ops = {
 	.set_addr = enh_desc_set_addr,
 	.clear = enh_desc_clear,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

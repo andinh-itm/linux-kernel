@@ -134,3 +134,4 @@ void device_connection_remove(struct device_connection *con)
 	mutex_unlock(&devcon_lock);
 }
 EXPORT_SYMBOL_GPL(device_connection_remove);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

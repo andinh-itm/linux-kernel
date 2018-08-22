@@ -2713,3 +2713,4 @@ MODULE_AUTHOR("QLogic Corporation");
 MODULE_VERSION(QEDI_MODULE_VERSION);
 module_init(qedi_init);
 module_exit(qedi_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

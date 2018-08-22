@@ -84,3 +84,4 @@ struct GFX_DPA_SETTING GFX_DPA_SETTING_TBL_VT3364[] = {
 /* 15000000 < LCK/VCK will use this value */
 {DPA_CLK_RANGE_150M, 0x01, 0x00, 0x02, 0x10, 0x00, 0x03, 0x00, 0x00, 0x08},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

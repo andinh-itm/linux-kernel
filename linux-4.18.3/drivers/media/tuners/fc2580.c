@@ -635,3 +635,4 @@ module_i2c_driver(fc2580_driver);
 MODULE_DESCRIPTION("FCI FC2580 silicon tuner driver");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

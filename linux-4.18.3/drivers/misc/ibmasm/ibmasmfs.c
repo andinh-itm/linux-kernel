@@ -606,3 +606,4 @@ static void ibmasmfs_create_files (struct super_block *sb)
 		ibmasmfs_create_file(remote_dir, "depth", &remote_settings_fops, (void *)display_depth(sp), S_IRUSR|S_IWUSR);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

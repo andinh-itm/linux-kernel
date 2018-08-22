@@ -41,3 +41,4 @@ static int __init loongson3_platform_init(void)
 }
 
 arch_initcall(loongson3_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -297,3 +297,4 @@ module_platform_driver(phy_berlin_sata_driver);
 MODULE_DESCRIPTION("Marvell Berlin SATA PHY driver");
 MODULE_AUTHOR("Antoine Ténart <antoine.tenart@free-electrons.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

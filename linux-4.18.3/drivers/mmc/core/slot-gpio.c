@@ -342,3 +342,4 @@ bool mmc_can_gpio_ro(struct mmc_host *host)
 	return ctx->ro_gpio ? true : false;
 }
 EXPORT_SYMBOL(mmc_can_gpio_ro);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

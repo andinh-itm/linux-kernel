@@ -83,3 +83,4 @@ module_pci_driver(intel_spi_pci_driver);
 MODULE_DESCRIPTION("Intel PCH/PCU SPI flash PCI driver");
 MODULE_AUTHOR("Mika Westerberg <mika.westerberg@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -448,3 +448,4 @@ MODULE_AUTHOR("H. Nikolaus Schaller <hns@goldelico.com>");
 MODULE_AUTHOR("Andrey Utkin <andrey_utkin@fastmail.com>");
 MODULE_DESCRIPTION("IS31FL319X LED driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

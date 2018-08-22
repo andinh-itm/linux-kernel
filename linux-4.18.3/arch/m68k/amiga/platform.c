@@ -253,3 +253,4 @@ static int __init amiga_init_devices(void)
 }
 
 arch_initcall(amiga_init_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

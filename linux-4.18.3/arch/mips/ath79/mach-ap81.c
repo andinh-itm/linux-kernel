@@ -98,3 +98,4 @@ static void __init ap81_setup(void)
 
 MIPS_MACHINE(ATH79_MACH_AP81, "AP81", "Atheros AP81 reference board",
 	     ap81_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

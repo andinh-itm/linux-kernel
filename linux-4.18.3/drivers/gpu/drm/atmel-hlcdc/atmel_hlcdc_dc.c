@@ -847,3 +847,4 @@ MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("Atmel HLCDC Display Controller DRM Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:atmel-hlcdc-dc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

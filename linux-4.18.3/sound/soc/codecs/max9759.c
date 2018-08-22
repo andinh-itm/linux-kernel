@@ -205,3 +205,4 @@ module_platform_driver(max9759_driver);
 MODULE_DESCRIPTION("ASoC MAX9759 amplifier driver");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

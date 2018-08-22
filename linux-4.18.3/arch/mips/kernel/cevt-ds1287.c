@@ -137,3 +137,4 @@ int __init ds1287_clockevent_init(int irq)
 
 	return setup_irq(irq, &ds1287_irqaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

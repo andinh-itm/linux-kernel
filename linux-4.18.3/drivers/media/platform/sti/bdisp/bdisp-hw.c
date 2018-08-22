@@ -1116,3 +1116,4 @@ int bdisp_hw_update(struct bdisp_ctx *ctx)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

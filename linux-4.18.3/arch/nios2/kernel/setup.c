@@ -227,3 +227,4 @@ void __init setup_arch(char **cmdline_p)
 	conswitchp = &dummy_con;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

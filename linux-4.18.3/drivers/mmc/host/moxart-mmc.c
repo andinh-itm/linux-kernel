@@ -726,3 +726,4 @@ MODULE_ALIAS("platform:mmc-moxart");
 MODULE_DESCRIPTION("MOXA ART MMC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Jonas Jensen <jonas.jensen@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

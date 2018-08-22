@@ -267,3 +267,4 @@ static int __init parse_memmap_opt(char *str)
 	return 0;
 }
 early_param("memmap", parse_memmap_opt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

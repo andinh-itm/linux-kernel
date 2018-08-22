@@ -344,3 +344,4 @@ static int __init cpm_powersave_off(char *arg)
 	return 0;
 }
 __setup("powersave=off", cpm_powersave_off);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

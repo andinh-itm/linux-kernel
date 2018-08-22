@@ -100,3 +100,4 @@ int pq2_fixup_clocks(u32 crystal)
 	pq2_set_clocks(sysfreq, corefreq, timebase, brgfreq);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

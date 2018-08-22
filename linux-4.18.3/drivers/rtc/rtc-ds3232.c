@@ -733,3 +733,4 @@ MODULE_AUTHOR("Dennis Aberilla <denzzzhome@yahoo.com>");
 MODULE_DESCRIPTION("Maxim/Dallas DS3232/DS3234 RTC Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:ds3234");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

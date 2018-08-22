@@ -223,3 +223,4 @@ static int set_professional_spdif(struct echoaudio *chip, char prof)
 	return update_flags(chip);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

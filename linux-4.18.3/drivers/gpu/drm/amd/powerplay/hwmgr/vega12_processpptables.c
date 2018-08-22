@@ -440,3 +440,4 @@ int vega12_get_powerplay_table_entry(struct pp_hwmgr *hwmgr,
 	return result;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

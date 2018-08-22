@@ -824,3 +824,4 @@ int dm_sm_metadata_open(struct dm_space_map *sm,
 	memcpy(&smm->old_ll, &smm->ll, sizeof(smm->old_ll));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

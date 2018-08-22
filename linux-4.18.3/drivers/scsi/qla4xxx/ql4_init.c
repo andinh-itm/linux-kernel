@@ -1264,3 +1264,4 @@ exit_login:
 		dma_pool_free(ha->fw_ddb_dma_pool, fw_ddb_entry, fw_ddb_dma);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

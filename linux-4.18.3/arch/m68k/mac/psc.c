@@ -163,3 +163,4 @@ void psc_irq_disable(int irq) {
 
 	psc_write_byte(pIER, 1 << irq_idx);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

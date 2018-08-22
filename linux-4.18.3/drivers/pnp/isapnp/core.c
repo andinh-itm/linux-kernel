@@ -1104,3 +1104,4 @@ static int __init isapnp_setup_isapnp(char *str)
 }
 
 __setup("isapnp=", isapnp_setup_isapnp);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

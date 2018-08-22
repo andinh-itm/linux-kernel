@@ -213,3 +213,4 @@ struct xgene_ring_ops xgene_ring2_ops = {
 	.len = xgene_enet_ring_len,
 	.coalesce = xgene_enet_setup_coalescing,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

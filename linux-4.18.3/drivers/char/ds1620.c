@@ -421,3 +421,4 @@ module_init(ds1620_init);
 module_exit(ds1620_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -692,3 +692,4 @@ void au0828_dvb_resume(struct au0828_dev *dev)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1568,3 +1568,4 @@ module_spi_driver(sca3000_driver);
 MODULE_AUTHOR("Jonathan Cameron <jic23@kernel.org>");
 MODULE_DESCRIPTION("VTI SCA3000 Series Accelerometers SPI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

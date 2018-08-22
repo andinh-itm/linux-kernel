@@ -349,3 +349,4 @@ void hinic_free_hwif(struct hinic_hwif *hwif)
 {
 	iounmap(hwif->cfg_regs_bar);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

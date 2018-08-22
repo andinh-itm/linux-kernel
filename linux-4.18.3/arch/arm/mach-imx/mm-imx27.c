@@ -101,3 +101,4 @@ void __init imx27_soc_init(void)
 
 	imx27_pm_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

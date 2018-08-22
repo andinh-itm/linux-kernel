@@ -444,3 +444,4 @@ module_i2c_driver(hdc100x_driver);
 MODULE_AUTHOR("Matt Ranostay <matt.ranostay@konsulko.com>");
 MODULE_DESCRIPTION("TI HDC100x humidity and temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

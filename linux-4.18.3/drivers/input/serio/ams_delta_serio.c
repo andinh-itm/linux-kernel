@@ -189,3 +189,4 @@ static void __exit ams_delta_serio_exit(void)
 			ARRAY_SIZE(ams_delta_gpios));
 }
 module_exit(ams_delta_serio_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -196,3 +196,4 @@ const struct msm_dsi_phy_cfg dsi_phy_28nm_8960_cfgs = {
 	.io_start = { 0x4700300, 0x5800300 },
 	.num_dsi_phy = 2,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -396,3 +396,4 @@ acpi_ex_get_name_string(acpi_object_type data_type,
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

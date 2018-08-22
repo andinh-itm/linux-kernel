@@ -6,3 +6,4 @@
 #include "watermark.h"
 
 nfit_test_watermark(pmem);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

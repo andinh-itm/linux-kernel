@@ -1204,3 +1204,4 @@ module_exit(mb862xxfb_exit);
 MODULE_DESCRIPTION("Fujitsu MB862xx Framebuffer driver");
 MODULE_AUTHOR("Anatolij Gustschin <agust@denx.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

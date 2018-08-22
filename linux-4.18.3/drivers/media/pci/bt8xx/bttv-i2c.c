@@ -400,3 +400,4 @@ int fini_bttv_i2c(struct bttv *btv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

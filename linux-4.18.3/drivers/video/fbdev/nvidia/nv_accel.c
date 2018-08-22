@@ -416,3 +416,4 @@ void nvidiafb_imageblit(struct fb_info *info, const struct fb_image *image)
 	else
 		cfb_imageblit(info, image);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

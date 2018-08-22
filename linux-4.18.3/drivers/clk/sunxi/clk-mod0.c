@@ -382,3 +382,4 @@ static void __init sun9i_a80_mmc_setup(struct device_node *node)
 	sunxi_mmc_setup(node, &sun9i_a80_mod0_data, &sun9i_a80_mmc_lock);
 }
 CLK_OF_DECLARE(sun9i_a80_mmc, "allwinner,sun9i-a80-mmc-clk", sun9i_a80_mmc_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

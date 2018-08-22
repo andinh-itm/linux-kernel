@@ -289,3 +289,4 @@ const struct cfg80211_ops orinoco_cfg_ops = {
 	.scan = orinoco_scan,
 	.set_wiphy_params = orinoco_set_wiphy_params,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

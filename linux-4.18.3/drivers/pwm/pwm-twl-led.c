@@ -345,3 +345,4 @@ MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_DESCRIPTION("PWM driver for TWL4030 and TWL6030 LED outputs");
 MODULE_ALIAS("platform:twl-pwmled");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

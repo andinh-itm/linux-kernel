@@ -198,3 +198,4 @@ module_usb_driver(int51x1_driver);
 MODULE_AUTHOR("Peter Holik");
 MODULE_DESCRIPTION("Intellon usb powerline adapter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

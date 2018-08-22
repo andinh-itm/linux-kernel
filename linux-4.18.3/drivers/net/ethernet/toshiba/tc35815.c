@@ -2154,3 +2154,4 @@ MODULE_PARM_DESC(duplex, "0:auto, 1:half, 2:full");
 module_pci_driver(tc35815_pci_driver);
 MODULE_DESCRIPTION("TOSHIBA TC35815 PCI 10M/100M Ethernet driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

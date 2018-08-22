@@ -1769,3 +1769,4 @@ void dev_pm_opp_remove_table(struct device *dev)
 	_dev_pm_opp_find_and_remove_table(dev, true);
 }
 EXPORT_SYMBOL_GPL(dev_pm_opp_remove_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

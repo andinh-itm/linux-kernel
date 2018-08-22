@@ -624,3 +624,4 @@ u64 ehea_h_error_data(const u64 adapter_handle, const u64 ressource_handle,
 				       __pa(rblock),		/* R6 */
 				       0, 0, 0, 0);		/* R7-R12 */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -456,3 +456,4 @@ EXPORT_SYMBOL(pnp_request_card_device);
 EXPORT_SYMBOL(pnp_release_card_device);
 EXPORT_SYMBOL(pnp_register_card_driver);
 EXPORT_SYMBOL(pnp_unregister_card_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

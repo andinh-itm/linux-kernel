@@ -228,3 +228,4 @@ MODULE_AUTHOR("David Griego <dgriego@mvista.com>");
 MODULE_DESCRIPTION("MTD map driver for flashes addressed physically with upper "
 		"address lines being set board specifically");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

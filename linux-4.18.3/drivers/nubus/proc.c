@@ -184,3 +184,4 @@ void __init nubus_proc_init(void)
 	proc_create_single("devices", 0, proc_bus_nubus_dir,
 			nubus_devices_proc_show);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

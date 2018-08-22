@@ -333,3 +333,4 @@ const struct ide_dma_ops sff_dma_ops = {
 	.dma_sff_read_status	= ide_dma_sff_read_status,
 };
 EXPORT_SYMBOL_GPL(sff_dma_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

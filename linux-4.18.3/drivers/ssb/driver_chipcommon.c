@@ -695,3 +695,4 @@ int ssb_chipco_serial_init(struct ssb_chipcommon *cc,
 	return nr_ports;
 }
 #endif /* CONFIG_SSB_SERIAL */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

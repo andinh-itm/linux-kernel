@@ -106,3 +106,4 @@ module_platform_driver(ath79_usb_phy_driver);
 MODULE_DESCRIPTION("ATH79 USB PHY driver");
 MODULE_AUTHOR("Alban Bedel <albeu@free.fr>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1328,3 +1328,4 @@ void rtl_fill_dummy(u8 *pfwbuf, u32 *pfwlen)
 
 	*pfwlen = fwlen;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

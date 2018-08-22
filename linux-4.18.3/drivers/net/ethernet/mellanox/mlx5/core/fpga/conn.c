@@ -1043,3 +1043,4 @@ void mlx5_fpga_conn_device_cleanup(struct mlx5_fpga_device *fdev)
 	mlx5_put_uars_page(fdev->mdev, fdev->conn_res.uar);
 	mlx5_nic_vport_disable_roce(fdev->mdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

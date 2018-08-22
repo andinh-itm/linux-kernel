@@ -882,3 +882,4 @@ thumb32_probes_decode_insn(probes_opcode_t insn, struct arch_probes_insn *asi,
 	return probes_decode_insn(insn, asi, probes_decode_thumb32_table, true,
 				  emulate, actions, checkers);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

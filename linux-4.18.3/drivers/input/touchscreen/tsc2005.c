@@ -101,3 +101,4 @@ MODULE_AUTHOR("Michael Welling <mwelling@ieee.org>");
 MODULE_DESCRIPTION("TSC2005 Touchscreen Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:tsc2005");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

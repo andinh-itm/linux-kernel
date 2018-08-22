@@ -1352,3 +1352,4 @@ struct rmi_function_handler rmi_f11_handler = {
 	.attention	= rmi_f11_attention,
 	.resume		= rmi_f11_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -163,3 +163,4 @@ static int jffs2_garbage_collect_thread(void *_c)
 	spin_unlock(&c->erase_completion_lock);
 	complete_and_exit(&c->gc_thread_exit, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

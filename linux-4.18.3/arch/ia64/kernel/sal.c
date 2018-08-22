@@ -403,3 +403,4 @@ ia64_sal_freq_base (unsigned long which, unsigned long *ticks_per_second,
 	return isrv.status;
 }
 EXPORT_SYMBOL_GPL(ia64_sal_freq_base);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

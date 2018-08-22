@@ -157,3 +157,4 @@ static struct platform_driver uflash_driver = {
 };
 
 module_platform_driver(uflash_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

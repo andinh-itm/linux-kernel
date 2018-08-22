@@ -1032,3 +1032,4 @@ static struct hid_driver ntrig_driver = {
 module_hid_driver(ntrig_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

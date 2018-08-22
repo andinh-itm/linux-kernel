@@ -1757,3 +1757,4 @@ void snd_usb_preallocate_buffer(struct snd_usb_substream *subs)
 		snd_pcm_lib_preallocate_pages(s, SNDRV_DMA_TYPE_DEV_SG,
 					      dev, 64*1024, 512*1024);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

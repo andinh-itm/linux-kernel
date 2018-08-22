@@ -60,3 +60,4 @@ void __init omap2_set_globals_prcm_mpu(void __iomem *prcm_mpu)
 {
 	prcm_mpu_base.va = prcm_mpu;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

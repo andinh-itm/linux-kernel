@@ -669,3 +669,4 @@ ia64_send_ipi (int cpu, int vector, int delivery_mode, int redirect)
 
 	writeq(ipi_data, ipi_addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

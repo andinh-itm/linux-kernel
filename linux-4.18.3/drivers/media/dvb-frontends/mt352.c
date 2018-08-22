@@ -605,3 +605,4 @@ MODULE_AUTHOR("Holger Waechtler, Daniel Mack, Antonio Mancuso");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(mt352_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

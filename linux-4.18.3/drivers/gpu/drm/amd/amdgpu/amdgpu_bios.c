@@ -439,3 +439,4 @@ success:
 	adev->is_atom_fw = (adev->asic_type >= CHIP_VEGA10) ? true : false;
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

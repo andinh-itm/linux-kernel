@@ -192,3 +192,4 @@ static __init int rng_init(void)
 	return 0;
 }
 machine_subsys_initcall(powernv, rng_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

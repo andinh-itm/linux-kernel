@@ -89,3 +89,4 @@ const struct xattr_handler hfsplus_xattr_security_handler = {
 	.get	= hfsplus_security_getxattr,
 	.set	= hfsplus_security_setxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

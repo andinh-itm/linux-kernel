@@ -836,3 +836,4 @@ MACHINE_START(ASSABET, "Intel-Assabet")
 #endif
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

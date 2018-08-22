@@ -1015,3 +1015,4 @@ const struct dquot_operations ocfs2_quota_operations = {
 	.destroy_dquot	= ocfs2_destroy_dquot,
 	.get_next_id	= ocfs2_get_next_id,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

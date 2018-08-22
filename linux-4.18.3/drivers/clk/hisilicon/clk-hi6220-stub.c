@@ -274,3 +274,4 @@ static int __init hi6220_stub_clk_init(void)
 	return platform_driver_register(&hi6220_stub_clk_driver);
 }
 subsys_initcall(hi6220_stub_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

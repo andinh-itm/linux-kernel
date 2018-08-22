@@ -2300,3 +2300,4 @@ int core_setup_alua(struct se_device *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

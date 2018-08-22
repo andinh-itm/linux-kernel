@@ -252,3 +252,4 @@ void exynos_drm_crtc_te_handler(struct drm_crtc *crtc)
 	if (exynos_crtc->ops->te_handler)
 		exynos_crtc->ops->te_handler(exynos_crtc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

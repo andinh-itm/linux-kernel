@@ -546,3 +546,4 @@ module_exit(lp8755_exit);
 MODULE_DESCRIPTION("Texas Instruments lp8755 driver");
 MODULE_AUTHOR("Daniel Jeong <daniel.jeong@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

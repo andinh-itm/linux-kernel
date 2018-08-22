@@ -942,3 +942,4 @@ static struct platform_driver dm355_ccdc_driver = {
 };
 
 module_platform_driver(dm355_ccdc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

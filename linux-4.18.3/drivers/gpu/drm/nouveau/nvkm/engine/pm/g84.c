@@ -163,3 +163,4 @@ g84_pm_new(struct nvkm_device *device, int index, struct nvkm_pm **ppm)
 {
 	return nv40_pm_new_(g84_pm, device, index, ppm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

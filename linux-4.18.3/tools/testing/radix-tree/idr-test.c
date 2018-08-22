@@ -594,3 +594,4 @@ int __weak main(void)
 		printf("nr_allocated = %d\n", nr_allocated);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

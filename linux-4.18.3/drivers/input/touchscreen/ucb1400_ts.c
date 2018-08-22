@@ -461,3 +461,4 @@ MODULE_PARM_DESC(ts_delay_pressure,
 
 MODULE_DESCRIPTION("Philips UCB1400 touchscreen driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

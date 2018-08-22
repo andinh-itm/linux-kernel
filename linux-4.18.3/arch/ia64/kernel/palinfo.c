@@ -980,3 +980,4 @@ static void __exit palinfo_exit(void)
 
 module_init(palinfo_init);
 module_exit(palinfo_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

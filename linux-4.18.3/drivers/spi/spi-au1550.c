@@ -999,3 +999,4 @@ module_exit(au1550_spi_exit);
 MODULE_DESCRIPTION("Au1550 PSC SPI Driver");
 MODULE_AUTHOR("Jan Nikitenko <jan.nikitenko@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

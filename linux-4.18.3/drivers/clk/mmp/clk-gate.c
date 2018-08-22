@@ -128,3 +128,4 @@ struct clk *mmp_clk_register_gate(struct device *dev, const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

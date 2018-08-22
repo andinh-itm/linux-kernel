@@ -894,3 +894,4 @@ MODULE_PARM_DESC(debug, "Debug level (0-3)");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Maxim Levitsky <maximlevitsky@gmail.com>");
 MODULE_DESCRIPTION("Ricoh R5C592 Memstick/Memstick PRO card reader driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

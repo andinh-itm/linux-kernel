@@ -983,3 +983,4 @@ module_exit(ab8500_usb_exit);
 MODULE_AUTHOR("ST-Ericsson AB");
 MODULE_DESCRIPTION("AB8500 family usb transceiver driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

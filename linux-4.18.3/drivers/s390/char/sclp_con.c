@@ -352,3 +352,4 @@ sclp_console_init(void)
 }
 
 console_initcall(sclp_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

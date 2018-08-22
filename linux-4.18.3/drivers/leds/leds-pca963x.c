@@ -508,3 +508,4 @@ module_i2c_driver(pca963x_driver);
 MODULE_AUTHOR("Peter Meerwald <p.meerwald@bct-electronic.com>");
 MODULE_DESCRIPTION("PCA963X LED driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

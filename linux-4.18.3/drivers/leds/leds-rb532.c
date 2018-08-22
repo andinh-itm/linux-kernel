@@ -62,3 +62,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("User LED support for Routerboard532");
 MODULE_AUTHOR("Phil Sutter <n0-1@freewrt.org>");
 MODULE_ALIAS("platform:rb532-led");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

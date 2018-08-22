@@ -589,3 +589,4 @@ acpi_status acpi_ev_initialize_region(union acpi_operand_object *region_obj)
 
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

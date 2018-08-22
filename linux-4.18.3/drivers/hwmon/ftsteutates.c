@@ -864,3 +864,4 @@ module_i2c_driver(fts_driver);
 MODULE_AUTHOR("Thilo Cestonaro <thilo.cestonaro@ts.fujitsu.com>");
 MODULE_DESCRIPTION("FTS Teutates driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1522,3 +1522,4 @@ static void __exit zoran_exit(void)
 
 module_init(zoran_init);
 module_exit(zoran_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

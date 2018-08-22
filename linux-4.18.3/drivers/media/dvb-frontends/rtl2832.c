@@ -1161,3 +1161,4 @@ MODULE_AUTHOR("Thomas Mair <mair.thomas86@gmail.com>");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("Realtek RTL2832 DVB-T demodulator driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

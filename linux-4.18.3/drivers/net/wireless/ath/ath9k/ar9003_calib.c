@@ -1700,3 +1700,4 @@ void ar9003_hw_attach_calib_ops(struct ath_hw *ah)
 
 	ops->calibrate = ar9003_hw_calibrate;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

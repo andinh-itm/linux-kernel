@@ -680,3 +680,4 @@ void kvm_set_ioapic(struct kvm *kvm, struct kvm_ioapic_state *state)
 	kvm_ioapic_inject_all(ioapic, state->irr);
 	spin_unlock(&ioapic->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -166,3 +166,4 @@ MODULE_AUTHOR("David Dajun Chen <dchen@diasemi.com>");
 MODULE_DESCRIPTION("Onkey driver for DA9055");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9055-onkey");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -40,3 +40,4 @@ void edac_workqueue_teardown(void)
 	destroy_workqueue(wq);
 	wq = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

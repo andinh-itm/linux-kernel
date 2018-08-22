@@ -1484,3 +1484,4 @@ void *addr_gva2hva(struct kvm_vm *vm, vm_vaddr_t gva)
 {
 	return addr_gpa2hva(vm, addr_gva2gpa(vm, gva));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

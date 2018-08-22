@@ -397,3 +397,4 @@ module_mtd_part_parser(sharpsl_mtd_parser);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Andrea Adami <andrea.adami@gmail.com>");
 MODULE_DESCRIPTION("MTD partitioning for NAND flash on Sharp SL Series");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

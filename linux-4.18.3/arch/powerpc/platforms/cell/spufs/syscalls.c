@@ -87,3 +87,4 @@ struct spufs_calls spufs_calls = {
 	.coredump_extra_notes_write = spufs_coredump_extra_notes_write,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

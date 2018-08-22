@@ -237,3 +237,4 @@ void adf_clean_hw_data_c3xxx(struct adf_hw_device_data *hw_data)
 {
 	hw_data->dev_class->instances--;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

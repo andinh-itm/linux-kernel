@@ -707,3 +707,4 @@ const struct intel_dvo_dev_ops ns2501_ops = {
 	.get_hw_state = ns2501_get_hw_state,
 	.destroy = ns2501_destroy,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -682,3 +682,4 @@ int set_print_fmt(struct trace_probe *tp, bool is_return)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

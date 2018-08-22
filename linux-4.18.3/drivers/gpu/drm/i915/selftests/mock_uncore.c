@@ -44,3 +44,4 @@ void mock_uncore_init(struct drm_i915_private *i915)
 	ASSIGN_WRITE_MMIO_VFUNCS(i915, nop);
 	ASSIGN_READ_MMIO_VFUNCS(i915, nop);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

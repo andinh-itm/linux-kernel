@@ -39,3 +39,4 @@ static struct sh_machine_vector mv_dreamcast __initmv = {
 	.mv_irq_demux		= systemasic_irq_demux,
 	.mv_init_irq		= systemasic_irq_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

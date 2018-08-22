@@ -1202,3 +1202,4 @@ void iwl_mvm_rx_mfuart_notif(struct iwl_mvm *mvm,
 			       "MFUART: image size: 0x%08x\n",
 			       le32_to_cpu(mfuart_notif->image_size));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

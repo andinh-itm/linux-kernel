@@ -114,3 +114,4 @@ const struct amdgpu_df_funcs df_v3_6_funcs = {
 			df_v3_6_update_medium_grain_clock_gating,
 	.get_clockgating_state = df_v3_6_get_clockgating_state,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

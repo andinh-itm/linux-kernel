@@ -495,3 +495,4 @@ void qed_ooo_join_isles(struct qed_hwfn *p_hwfn,
 	}
 	list_add_tail(&p_right_isle->list_entry, &p_ooo_info->free_isles_list);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

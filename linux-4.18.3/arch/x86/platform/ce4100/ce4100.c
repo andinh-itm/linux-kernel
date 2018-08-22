@@ -158,3 +158,4 @@ void __init x86_ce4100_early_setup(void)
 
 	pm_power_off = ce4100_power_off;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

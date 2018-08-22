@@ -298,3 +298,4 @@ MODULE_AUTHOR("Sjoerd Simons <sjoerd.simons@collabora.com>");
 MODULE_DESCRIPTION("Rockchip RK3288 machine ASoC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -46,3 +46,4 @@ int main(void)
 {
 	return test_harness(l3_bank_test, "l3_bank_test");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

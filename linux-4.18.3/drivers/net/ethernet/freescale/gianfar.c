@@ -3792,3 +3792,4 @@ static struct platform_driver gfar_driver = {
 };
 
 module_platform_driver(gfar_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

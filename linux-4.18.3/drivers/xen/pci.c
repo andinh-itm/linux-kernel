@@ -257,3 +257,4 @@ static int __init xen_mcfg_late(void)
  */
 subsys_initcall_sync(xen_mcfg_late);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

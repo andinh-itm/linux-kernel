@@ -566,3 +566,4 @@ module_i2c_driver(stk8ba50_driver);
 MODULE_AUTHOR("Tiberiu Breana <tiberiu.a.breana@intel.com>");
 MODULE_DESCRIPTION("STK8BA50 3-Axis Accelerometer driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

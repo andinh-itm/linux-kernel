@@ -73,3 +73,4 @@ static struct platform_driver clk_mt2712_mfg_drv = {
 };
 
 builtin_platform_driver(clk_mt2712_mfg_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

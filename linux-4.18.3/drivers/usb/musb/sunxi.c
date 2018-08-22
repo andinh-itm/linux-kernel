@@ -833,3 +833,4 @@ module_platform_driver(sunxi_musb_driver);
 MODULE_DESCRIPTION("Allwinner sunxi MUSB Glue Layer");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

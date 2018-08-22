@@ -166,3 +166,4 @@ const struct rtl818x_rf_ops max2820_rf_ops = {
 	.set_chan	= max2820_rf_set_channel,
 	.calc_rssi	= max2820_rf_calc_rssi,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

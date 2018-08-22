@@ -1073,3 +1073,4 @@ void ab8540_gpadc_get_otp(struct ab8500_gpadc *gpadc,
 	*ibat_l  = gpadc->cal_data[ADC_INPUT_IBAT].otp_calib_lo;
 	*ibat_h  = gpadc->cal_data[ADC_INPUT_IBAT].otp_calib_hi;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

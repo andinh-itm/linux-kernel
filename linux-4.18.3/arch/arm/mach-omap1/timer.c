@@ -170,3 +170,4 @@ err_free_pdev:
 	return ret;
 }
 arch_initcall(omap1_dm_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

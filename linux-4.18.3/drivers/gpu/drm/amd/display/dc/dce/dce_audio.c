@@ -957,3 +957,4 @@ struct audio *dce_audio_create(
 	return &audio->base;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -204,3 +204,4 @@ static struct isa_driver tscan1_isa_driver = {
 };
 
 module_isa_driver(tscan1_isa_driver, TSCAN1_MAXDEV);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -233,3 +233,4 @@ void rtw_btcoex_LPS_Leave(struct adapter *padapter)
 		pwrpriv->bpower_saving = false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

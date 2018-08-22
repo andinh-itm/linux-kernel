@@ -10808,3 +10808,4 @@ ahd_handle_target_cmd(struct ahd_softc *ahd, struct target_cmd *cmd)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

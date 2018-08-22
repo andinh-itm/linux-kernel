@@ -304,3 +304,4 @@ MODULE_DEVICE_TABLE(pci, cs5536_pci_tbl);
 
 module_param_named(msr, use_msr, int, 0644);
 MODULE_PARM_DESC(msr, "Force using MSR to configure IDE function (Default: 0)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

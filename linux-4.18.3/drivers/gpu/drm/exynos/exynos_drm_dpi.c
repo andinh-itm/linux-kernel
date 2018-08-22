@@ -258,3 +258,4 @@ int exynos_dpi_remove(struct drm_encoder *encoder)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

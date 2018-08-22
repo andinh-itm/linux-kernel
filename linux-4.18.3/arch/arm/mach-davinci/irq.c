@@ -115,3 +115,4 @@ void __init davinci_irq_init(void)
 
 	irq_set_handler(IRQ_TINT1_TINT34, handle_level_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

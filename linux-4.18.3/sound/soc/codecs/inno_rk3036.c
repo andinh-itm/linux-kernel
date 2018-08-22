@@ -490,3 +490,4 @@ module_platform_driver(rk3036_codec_platform_driver);
 MODULE_AUTHOR("Rockchip Inc.");
 MODULE_DESCRIPTION("Rockchip rk3036 codec driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

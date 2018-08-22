@@ -306,3 +306,4 @@ acpi_ex_do_debug_object(union acpi_operand_object *source_desc,
 	return_VOID;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

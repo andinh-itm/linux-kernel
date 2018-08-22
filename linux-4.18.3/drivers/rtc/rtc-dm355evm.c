@@ -153,3 +153,4 @@ static struct platform_driver rtc_dm355evm_driver = {
 module_platform_driver(rtc_dm355evm_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

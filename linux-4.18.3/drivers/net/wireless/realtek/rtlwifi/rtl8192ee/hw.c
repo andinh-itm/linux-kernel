@@ -2629,3 +2629,4 @@ void rtl92ee_allow_all_destaddr(struct ieee80211_hw *hw,
 		 "receive_config=0x%08X, write_into_reg=%d\n",
 		  rtlpci->receive_config, write_into_reg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

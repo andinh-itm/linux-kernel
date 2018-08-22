@@ -275,3 +275,4 @@ module_exit(octeon_sha512_mod_fini);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA-512 and SHA-384 Secure Hash Algorithms (OCTEON)");
 MODULE_AUTHOR("Aaro Koskinen <aaro.koskinen@iki.fi>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -721,3 +721,4 @@ struct op_x86_model_spec op_p4_spec = {
 	.stop			= &p4_stop,
 	.shutdown		= &p4_shutdown
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

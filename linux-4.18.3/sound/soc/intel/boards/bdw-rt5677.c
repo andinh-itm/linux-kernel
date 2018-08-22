@@ -371,3 +371,4 @@ MODULE_AUTHOR("Ben Zhang");
 MODULE_DESCRIPTION("Intel Broadwell RT5677 machine driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bdw-rt5677");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

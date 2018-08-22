@@ -891,3 +891,4 @@ void ena_dump_stats_to_dmesg(struct ena_adapter *adapter)
 {
 	ena_dump_stats_ex(adapter, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

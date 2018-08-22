@@ -1801,3 +1801,4 @@ module_exit(gcc_ipq4019_exit);
 MODULE_ALIAS("platform:gcc-ipq4019");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("QCOM GCC IPQ4019 driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

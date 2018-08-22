@@ -574,3 +574,4 @@ MACHINE_START(ARMADILLO5X0, "Armadillo-500")
 	.init_late	= armadillo5x0_late,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

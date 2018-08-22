@@ -336,3 +336,4 @@ static int __init pnpacpi_setup(char *str)
 }
 
 __setup("pnpacpi=", pnpacpi_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

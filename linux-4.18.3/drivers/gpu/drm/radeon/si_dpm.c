@@ -7129,3 +7129,4 @@ u32 si_dpm_get_current_mclk(struct radeon_device *rdev)
 		return pl->mclk;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -38,3 +38,4 @@ int main(int argc, char **argv) {
 	printf("msr 0x199: 0x%llx\n", msr);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -63,3 +63,4 @@ struct usbip_host_driver host_driver = {
 		.is_my_device = is_my_device,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

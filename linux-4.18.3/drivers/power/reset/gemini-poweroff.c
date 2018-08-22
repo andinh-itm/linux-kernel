@@ -163,3 +163,4 @@ static struct platform_driver gemini_poweroff_driver = {
 	},
 };
 builtin_platform_driver(gemini_poweroff_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

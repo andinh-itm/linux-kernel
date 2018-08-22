@@ -323,3 +323,4 @@ static struct platform_driver vf610_gpio_driver = {
 };
 
 builtin_platform_driver(vf610_gpio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

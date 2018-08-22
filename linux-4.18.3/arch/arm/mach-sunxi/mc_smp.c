@@ -905,3 +905,4 @@ err_put_nodes:
 }
 
 early_initcall(sunxi_mc_smp_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

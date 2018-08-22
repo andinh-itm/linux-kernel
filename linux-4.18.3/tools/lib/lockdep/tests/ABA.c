@@ -12,3 +12,4 @@ void main(void)
 	pthread_mutex_lock(&b);
 	pthread_mutex_lock(&a);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

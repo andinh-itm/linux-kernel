@@ -344,3 +344,4 @@ static struct fsi_driver hub_master_driver = {
 
 module_fsi_driver(hub_master_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

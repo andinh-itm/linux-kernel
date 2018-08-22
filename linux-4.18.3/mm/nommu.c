@@ -1952,3 +1952,4 @@ static int __meminit init_admin_reserve(void)
 	return 0;
 }
 subsys_initcall(init_admin_reserve);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

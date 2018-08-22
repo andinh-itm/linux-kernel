@@ -100,3 +100,4 @@ void ieee802154_stop_device(struct ieee802154_local *local)
 	hrtimer_cancel(&local->ifs_timer);
 	drv_stop(local);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

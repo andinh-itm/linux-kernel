@@ -971,3 +971,4 @@ MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("ishtp:*");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

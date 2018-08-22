@@ -825,3 +825,4 @@ error:
 	radeon_fence_unref(&fence);
 	return r;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

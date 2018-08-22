@@ -768,3 +768,4 @@ void go7007_update_board(struct go7007 *go)
 EXPORT_SYMBOL(go7007_update_board);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

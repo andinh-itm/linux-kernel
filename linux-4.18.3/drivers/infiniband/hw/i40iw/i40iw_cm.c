@@ -4388,3 +4388,4 @@ void i40iw_if_notify(struct i40iw_device *iwdev, struct net_device *netdev,
 	if (!ifup)
 		i40iw_cm_teardown_connections(iwdev, ipaddr, &nfo, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

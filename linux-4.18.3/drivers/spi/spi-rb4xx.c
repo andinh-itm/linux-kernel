@@ -208,3 +208,4 @@ MODULE_DESCRIPTION("Mikrotik RB4xx SPI controller driver");
 MODULE_AUTHOR("Gabor Juhos <juhosg@openwrt.org>");
 MODULE_AUTHOR("Bert Vermeulen <bert@biot.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

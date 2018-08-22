@@ -430,3 +430,4 @@ MODULE_DESCRIPTION("Texas Instruments Flash Lighting driver for LM3642");
 MODULE_AUTHOR("Daniel Jeong <daniel.jeong@ti.com>");
 MODULE_AUTHOR("G.Shark Jeong <gshark.jeong@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

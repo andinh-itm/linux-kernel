@@ -778,3 +778,4 @@ void op_nmi_exit(void)
 {
 	exit_suspend_resume();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

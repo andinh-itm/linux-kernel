@@ -1100,3 +1100,4 @@ void seg6_local_exit(void)
 {
 	lwtunnel_encap_del_ops(&seg6_local_ops, LWTUNNEL_ENCAP_SEG6_LOCAL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

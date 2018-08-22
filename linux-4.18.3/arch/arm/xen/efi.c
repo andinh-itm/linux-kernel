@@ -38,3 +38,4 @@ void __init xen_efi_runtime_setup(void)
 	efi.reset_system             = xen_efi_reset_system;
 }
 EXPORT_SYMBOL_GPL(xen_efi_runtime_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

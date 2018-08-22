@@ -436,3 +436,4 @@ define_machine(pasemi) {
 	.progress		= pas_progress,
 	.machine_check_exception = pas_machine_check_handler,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

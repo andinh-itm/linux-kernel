@@ -9,3 +9,4 @@ int swsusp_arch_resume(void)
 	local_flush_tlb_all();
 	return restore_image();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

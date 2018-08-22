@@ -1588,3 +1588,4 @@ MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("Afatech AF9013 DVB-T demodulator driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(AF9013_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

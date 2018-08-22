@@ -225,3 +225,4 @@ static struct i2c_driver cs53l32a_driver = {
 };
 
 module_i2c_driver(cs53l32a_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

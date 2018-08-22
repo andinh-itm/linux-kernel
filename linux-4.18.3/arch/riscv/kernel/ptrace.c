@@ -123,3 +123,4 @@ void do_syscall_trace_exit(struct pt_regs *regs)
 		trace_sys_exit(regs, regs->regs[0]);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

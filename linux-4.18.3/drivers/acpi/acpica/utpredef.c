@@ -363,3 +363,4 @@ u32 acpi_ut_get_resource_bit_width(char *buffer, u16 types)
 	return (found);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

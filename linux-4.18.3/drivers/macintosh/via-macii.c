@@ -548,3 +548,4 @@ static irqreturn_t macii_interrupt(int irq, void *arg)
 	entered--;
 	return IRQ_HANDLED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

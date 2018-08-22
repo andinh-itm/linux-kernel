@@ -1026,3 +1026,4 @@ i40e_status i40e_read_lldp_cfg(struct i40e_hw *hw,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

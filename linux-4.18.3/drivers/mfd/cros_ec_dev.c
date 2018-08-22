@@ -567,3 +567,4 @@ MODULE_AUTHOR("Bill Richardson <wfrichar@chromium.org>");
 MODULE_DESCRIPTION("Userspace interface to the Chrome OS Embedded Controller");
 MODULE_VERSION("1.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

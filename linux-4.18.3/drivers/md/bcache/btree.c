@@ -2545,3 +2545,4 @@ void bch_keybuf_init(struct keybuf *buf)
 	spin_lock_init(&buf->lock);
 	array_allocator_init(&buf->freelist);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

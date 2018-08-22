@@ -240,3 +240,4 @@ void __init ath79_register_usb(void)
 	else
 		BUG();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -241,3 +241,4 @@ int ipu_vdi_init(struct ipu_soc *ipu, struct device *dev,
 void ipu_vdi_exit(struct ipu_soc *ipu)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

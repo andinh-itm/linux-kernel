@@ -1412,3 +1412,4 @@ void omap_hwmod_am43xx_reg(void)
 	omap_hwmod_am43xx_clkctrl();
 	omap_hwmod_am43xx_rst();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

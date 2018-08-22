@@ -389,3 +389,4 @@ static int __init jz4780_nemc_init(void)
 	return platform_driver_register(&jz4780_nemc_driver);
 }
 subsys_initcall(jz4780_nemc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

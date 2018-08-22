@@ -303,3 +303,4 @@ MODULE_AUTHOR("S Twiss <stwiss.opensource@diasemi.com>");
 MODULE_DESCRIPTION("Onkey device driver for Dialog DA9063, DA9062 and DA9061");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DA9063_DRVNAME_ONKEY);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

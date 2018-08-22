@@ -224,3 +224,4 @@ void snd_opl3_drum_switch(struct snd_opl3 *opl3, int note, int vel, int on_off,
 	opl3->command(opl3, OPL3_LEFT | OPL3_REG_PERCUSSION,
 			 opl3->drum_reg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

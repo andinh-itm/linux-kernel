@@ -210,3 +210,4 @@ headc37d = {
 	.procamp = headc37d_procamp,
 	.or = headc37d_or,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

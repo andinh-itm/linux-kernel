@@ -1475,3 +1475,4 @@ MODULE_AUTHOR("Kumar Gala/Antoniou Pantelis");
 MODULE_DESCRIPTION("CPM SCC/SMC port driver $Revision: 0.01 $");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_CHARDEV(SERIAL_CPM_MAJOR, SERIAL_CPM_MINOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

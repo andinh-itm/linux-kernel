@@ -157,3 +157,4 @@ module_pci_driver(fm801_gp_driver);
 MODULE_DESCRIPTION("FM801 gameport driver");
 MODULE_AUTHOR("Takashi Iwai <tiwai@suse.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

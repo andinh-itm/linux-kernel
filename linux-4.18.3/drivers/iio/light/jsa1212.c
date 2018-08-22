@@ -464,3 +464,4 @@ module_i2c_driver(jsa1212_driver);
 MODULE_AUTHOR("Sathya Kuppuswamy <sathyanarayanan.kuppuswamy@linux.intel.com>");
 MODULE_DESCRIPTION("JSA1212 proximity/ambient light sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

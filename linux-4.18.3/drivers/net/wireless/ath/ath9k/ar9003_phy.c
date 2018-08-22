@@ -2194,3 +2194,4 @@ void ar9003_hw_disable_phy_restart(struct ath_hw *ah)
 	}
 }
 EXPORT_SYMBOL(ar9003_hw_disable_phy_restart);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

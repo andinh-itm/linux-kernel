@@ -1614,3 +1614,4 @@ module_platform_driver(pxa168_eth_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Ethernet driver for Marvell PXA168");
 MODULE_ALIAS("platform:pxa168_eth");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

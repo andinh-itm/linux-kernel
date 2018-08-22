@@ -293,3 +293,4 @@ void snd_ff_transaction_unregister(struct snd_ff *ff)
 
 	fw_core_remove_address_handler(&ff->async_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

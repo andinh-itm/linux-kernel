@@ -269,3 +269,4 @@ static struct i2c_driver wm8739_driver = {
 };
 
 module_i2c_driver(wm8739_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

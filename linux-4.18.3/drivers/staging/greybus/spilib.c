@@ -564,3 +564,4 @@ void gb_spilib_master_exit(struct gb_connection *connection)
 EXPORT_SYMBOL_GPL(gb_spilib_master_exit);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

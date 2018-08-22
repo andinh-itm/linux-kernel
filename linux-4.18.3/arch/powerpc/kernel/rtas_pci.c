@@ -252,3 +252,4 @@ int rtas_setup_phb(struct pci_controller *phb)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

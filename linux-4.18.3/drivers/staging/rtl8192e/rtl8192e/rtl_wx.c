@@ -1224,3 +1224,4 @@ const struct iw_handler_def r8192_wx_handlers_def = {
 	.get_wireless_stats = _rtl92e_get_wireless_stats,
 	.private_args = (struct iw_priv_args *)r8192_private_args,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

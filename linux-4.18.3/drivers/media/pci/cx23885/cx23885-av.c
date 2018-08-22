@@ -42,3 +42,4 @@ void cx23885_av_work_handler(struct work_struct *work)
 
 	cx23885_irq_enable(dev, PCI_MSK_AV_CORE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

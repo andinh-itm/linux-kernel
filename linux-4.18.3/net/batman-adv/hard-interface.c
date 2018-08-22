@@ -1091,3 +1091,4 @@ out:
 struct notifier_block batadv_hard_if_notifier = {
 	.notifier_call = batadv_hard_if_event,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

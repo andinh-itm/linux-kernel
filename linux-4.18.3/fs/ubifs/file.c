@@ -1684,3 +1684,4 @@ const struct file_operations ubifs_file_operations = {
 	.compat_ioctl   = ubifs_compat_ioctl,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

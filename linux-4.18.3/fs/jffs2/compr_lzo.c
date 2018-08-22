@@ -108,3 +108,4 @@ void jffs2_lzo_exit(void)
 	jffs2_unregister_compressor(&jffs2_lzo_comp);
 	free_workspace();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

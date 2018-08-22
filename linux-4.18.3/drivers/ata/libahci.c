@@ -2613,3 +2613,4 @@ EXPORT_SYMBOL_GPL(ahci_host_activate);
 MODULE_AUTHOR("Jeff Garzik");
 MODULE_DESCRIPTION("Common AHCI SATA low-level routines");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

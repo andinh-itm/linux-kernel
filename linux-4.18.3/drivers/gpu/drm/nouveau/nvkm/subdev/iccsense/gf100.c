@@ -29,3 +29,4 @@ gf100_iccsense_new(struct nvkm_device *device, int index,
 {
 	return nvkm_iccsense_new_(device, index, piccsense);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

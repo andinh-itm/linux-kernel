@@ -1333,3 +1333,4 @@ b43_nphy_get_chantabent_rev2(struct b43_wldev *dev, u8 channel)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

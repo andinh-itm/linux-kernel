@@ -464,3 +464,4 @@ static int cx18_av_audio_s_ctrl(struct v4l2_ctrl *ctrl)
 const struct v4l2_ctrl_ops cx18_av_audio_ctrl_ops = {
 	.s_ctrl = cx18_av_audio_s_ctrl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

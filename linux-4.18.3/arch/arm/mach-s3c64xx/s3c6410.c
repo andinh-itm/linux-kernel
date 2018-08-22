@@ -93,3 +93,4 @@ int __init s3c6410_init(void)
 
 	return device_register(&s3c6410_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

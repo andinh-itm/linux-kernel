@@ -240,3 +240,4 @@ int kvm_mips_pending_timer(struct kvm_vcpu *vcpu)
 {
 	return test_bit(MIPS_EXC_INT_TIMER, &vcpu->arch.pending_exceptions);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

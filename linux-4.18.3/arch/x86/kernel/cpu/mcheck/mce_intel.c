@@ -516,3 +516,4 @@ void mce_intel_feature_clear(struct cpuinfo_x86 *c)
 {
 	intel_clear_lmce();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

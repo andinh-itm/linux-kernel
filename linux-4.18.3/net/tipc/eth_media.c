@@ -97,3 +97,4 @@ struct tipc_media eth_media_info = {
 	.hwaddr_len	= ETH_ALEN,
 	.name		= "eth"
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

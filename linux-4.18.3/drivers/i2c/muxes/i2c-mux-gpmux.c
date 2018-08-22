@@ -171,3 +171,4 @@ module_platform_driver(i2c_mux_driver);
 MODULE_DESCRIPTION("General Purpose I2C multiplexer driver");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

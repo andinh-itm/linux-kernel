@@ -1359,3 +1359,4 @@ __le16 get_updated_dev_handle(struct megasas_instance *instance,
 
 	return devHandle;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

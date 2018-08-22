@@ -317,3 +317,4 @@ int snd_oxfw_add_spkr(struct snd_oxfw *oxfw, bool is_lacie)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -218,3 +218,4 @@ int cpm2_gpiochip_add32(struct device *dev)
 	return of_mm_gpiochip_add_data(np, mm_gc, cpm2_gc);
 }
 #endif /* CONFIG_CPM2 || CONFIG_8xx_GPIO */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

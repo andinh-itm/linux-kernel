@@ -23,3 +23,4 @@ void *memset(void *dst, int c, size_t len)
 {
 	return __builtin_memset(dst, c, len);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

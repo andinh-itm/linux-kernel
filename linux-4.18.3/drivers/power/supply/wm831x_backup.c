@@ -223,3 +223,4 @@ MODULE_DESCRIPTION("Backup battery charger driver for WM831x PMICs");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-backup");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -250,3 +250,4 @@ void line6_midibuf_destroy(struct midi_buffer *this)
 	kfree(this->buf);
 	this->buf = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

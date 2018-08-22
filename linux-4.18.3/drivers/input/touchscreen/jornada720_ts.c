@@ -158,3 +158,4 @@ static struct platform_driver jornada720_ts_driver = {
 	},
 };
 module_platform_driver(jornada720_ts_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

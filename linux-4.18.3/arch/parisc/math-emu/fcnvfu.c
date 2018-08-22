@@ -534,3 +534,4 @@ dbl_to_dbl_fcnvfu (dbl_floating_point * srcptr, unsigned int *nullptr,
 	return(NOEXCEPTION);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

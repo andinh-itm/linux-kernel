@@ -338,3 +338,4 @@ s32 wilc_parse_assoc_resp_info(u8 *buffer, u32 buffer_len,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

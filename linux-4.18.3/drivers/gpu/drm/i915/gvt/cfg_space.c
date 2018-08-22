@@ -410,3 +410,4 @@ void intel_vgpu_reset_cfg_space(struct intel_vgpu *vgpu)
 	 */
 	intel_vgpu_init_cfg_space(vgpu, primary);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

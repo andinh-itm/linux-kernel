@@ -210,3 +210,4 @@ void mantis_set_direction(struct mantis_pci *mantis, int direction)
 		mmwrite(reg, 0x28);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

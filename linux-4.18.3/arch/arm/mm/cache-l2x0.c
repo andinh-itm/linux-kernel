@@ -1815,3 +1815,4 @@ int __init l2x0_of_init(u32 aux_val, u32 aux_mask)
 	return __l2c_init(data, aux_val, aux_mask, cache_id, nosync);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

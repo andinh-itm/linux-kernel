@@ -442,3 +442,4 @@ static struct platform_driver sta2x11_gpio_platform_driver = {
 	.probe = gsta_probe,
 };
 builtin_platform_driver(sta2x11_gpio_platform_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -745,3 +745,4 @@ int lio_validate_cn6xxx_config_info(struct octeon_device *oct,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

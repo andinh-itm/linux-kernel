@@ -81,3 +81,4 @@ static int __init sclp_quiesce_init(void)
 	return sclp_register(&sclp_quiesce_event);
 }
 device_initcall(sclp_quiesce_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

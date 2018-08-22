@@ -249,3 +249,4 @@ MODULE_AUTHOR("jianqun <jay.xu@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip max98090 machine ASoC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

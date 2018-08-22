@@ -646,3 +646,4 @@ void rtl8188e_set_FwJoinBssReport_cmd(struct adapter *adapt, u8 mstatus)
 		usb_write8(adapt,  REG_CR+1, haldata->RegCR_1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

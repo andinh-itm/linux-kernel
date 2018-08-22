@@ -146,3 +146,4 @@ struct reservation_object *etnaviv_gem_prime_res_obj(struct drm_gem_object *obj)
 
 	return etnaviv_obj->resv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

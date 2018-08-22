@@ -1152,3 +1152,4 @@ long kvmppc_hpte_hv_fault(struct kvm_vcpu *vcpu, unsigned long addr,
 
 	return -1;		/* send fault up to host kernel mode */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

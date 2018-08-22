@@ -281,3 +281,4 @@ static struct pci_driver emu10k1_driver = {
 };
 
 module_pci_driver(emu10k1_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

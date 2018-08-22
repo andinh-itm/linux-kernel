@@ -589,3 +589,4 @@ void asihpi_exit(void)
 		HPI_SUBSYS_DRIVER_UNLOAD);
 	hpi_send_recv_ex(&hm, &hr, HOWNER_KERNEL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -313,3 +313,4 @@ MODULE_DESCRIPTION("LP3943 PWM driver");
 MODULE_ALIAS("platform:lp3943-pwm");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -743,3 +743,4 @@ EXPORT_SYMBOL(tape_std_read_block);
 EXPORT_SYMBOL(tape_std_read_backward);
 EXPORT_SYMBOL(tape_std_write_block);
 EXPORT_SYMBOL(tape_std_process_eov);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

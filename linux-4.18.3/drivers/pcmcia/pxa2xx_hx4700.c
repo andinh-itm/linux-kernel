@@ -119,3 +119,4 @@ module_exit(hx4700_pcmcia_exit);
 MODULE_AUTHOR("Paul Parsons <lost.distance@yahoo.com>");
 MODULE_DESCRIPTION("HP iPAQ hx4700 PCMCIA driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

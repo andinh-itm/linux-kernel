@@ -95,3 +95,4 @@ void mtk_register_reset_controller(struct device_node *np,
 		return;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

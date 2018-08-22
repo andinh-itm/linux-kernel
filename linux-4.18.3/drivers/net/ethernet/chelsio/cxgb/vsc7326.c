@@ -724,3 +724,4 @@ const struct gmac t1_vsc7326_ops = {
 	.create              = vsc7326_mac_create,
 	.reset               = vsc7326_mac_reset,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

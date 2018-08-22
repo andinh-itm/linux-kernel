@@ -158,3 +158,4 @@ static int __init smsc_superio_setup(void)
 	return 0;
 }
 device_initcall(smsc_superio_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

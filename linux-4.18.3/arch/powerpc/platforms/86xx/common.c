@@ -41,3 +41,4 @@ long __init mpc86xx_time_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

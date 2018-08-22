@@ -116,3 +116,4 @@ module_platform_driver(iio_interrupt_trigger_driver);
 MODULE_AUTHOR("Jonathan Cameron <jic23@kernel.org>");
 MODULE_DESCRIPTION("Interrupt trigger for the iio subsystem");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

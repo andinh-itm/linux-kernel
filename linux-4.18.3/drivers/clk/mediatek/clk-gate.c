@@ -187,3 +187,4 @@ struct clk *mtk_clk_register_gate(
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

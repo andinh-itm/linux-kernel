@@ -620,3 +620,4 @@ int pm_suspend(suspend_state_t state)
 	return error;
 }
 EXPORT_SYMBOL(pm_suspend);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

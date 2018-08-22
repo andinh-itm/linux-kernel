@@ -333,3 +333,4 @@ struct cpuidle_monitor amd_fam14h_monitor = {
 	.overflow_s		= OVERFLOW_MS / 1000,
 };
 #endif /* #if defined(__i386__) || defined(__x86_64__) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

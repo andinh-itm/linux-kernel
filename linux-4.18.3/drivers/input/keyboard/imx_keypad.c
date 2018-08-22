@@ -590,3 +590,4 @@ MODULE_AUTHOR("Alberto Panizzo <maramaopercheseimorto@gmail.com>");
 MODULE_DESCRIPTION("IMX Keypad Port Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:imx-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

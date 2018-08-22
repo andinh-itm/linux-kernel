@@ -3476,3 +3476,4 @@ void ex_btc8723b1ant_periodical(struct btc_coexist *btcoexist)
 		coex_sta->special_pkt_period_cnt++;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

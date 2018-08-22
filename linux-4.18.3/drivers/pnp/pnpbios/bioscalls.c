@@ -489,3 +489,4 @@ void pnpbios_calls_init(union pnp_bios_install_struct *header)
 			 (unsigned long)__va(header->fields.pm16dseg));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

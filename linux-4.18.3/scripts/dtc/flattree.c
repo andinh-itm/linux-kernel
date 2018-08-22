@@ -938,3 +938,4 @@ struct dt_info *dt_from_blob(const char *fname)
 
 	return build_dt_info(DTSF_V1, reservelist, tree, boot_cpuid_phys);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -97,3 +97,4 @@ int lm_device_register(struct lm_device *dev)
 
 EXPORT_SYMBOL(lm_driver_register);
 EXPORT_SYMBOL(lm_driver_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -240,3 +240,4 @@ void dce80_timing_generator_construct(
 	tg110->min_h_back_porch = 4;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

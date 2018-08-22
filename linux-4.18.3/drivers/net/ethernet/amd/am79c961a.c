@@ -764,3 +764,4 @@ static int __init am79c961_init(void)
 }
 
 __initcall(am79c961_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

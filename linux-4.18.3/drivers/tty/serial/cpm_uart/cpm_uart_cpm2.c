@@ -155,3 +155,4 @@ void cpm_uart_freebuf(struct uart_cpm_port *pinfo)
 
 	cpm_dpfree(pinfo->dp_addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

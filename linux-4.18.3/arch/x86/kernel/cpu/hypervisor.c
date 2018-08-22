@@ -100,3 +100,4 @@ void __init init_hypervisor_platform(void)
 	x86_hyper_type = h->type;
 	x86_init.hyper.init_platform();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

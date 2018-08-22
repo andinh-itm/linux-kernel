@@ -518,3 +518,4 @@ void of_phy_deregister_fixed_link(struct device_node *np)
 	phy_device_free(phydev);	/* fixed_phy_register() */
 }
 EXPORT_SYMBOL(of_phy_deregister_fixed_link);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

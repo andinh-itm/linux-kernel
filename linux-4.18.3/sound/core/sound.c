@@ -421,3 +421,4 @@ static void __exit alsa_sound_exit(void)
 
 subsys_initcall(alsa_sound_init);
 module_exit(alsa_sound_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

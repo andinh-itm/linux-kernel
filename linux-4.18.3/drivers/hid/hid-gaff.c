@@ -177,3 +177,4 @@ static struct hid_driver ga_driver = {
 module_hid_driver(ga_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

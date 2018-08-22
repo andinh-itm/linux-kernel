@@ -502,3 +502,4 @@ islpci_eth_tx_timeout(struct net_device *ndev)
 			"%s: tx_timeout, waiting for reset", ndev->name);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -501,3 +501,4 @@ int sec_irq_init(struct sec_pmic_dev *sec_pmic)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

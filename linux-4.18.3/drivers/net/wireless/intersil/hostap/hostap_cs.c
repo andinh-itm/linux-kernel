@@ -708,3 +708,4 @@ static struct pcmcia_driver hostap_driver = {
 	.resume		= hostap_cs_resume,
 };
 module_pcmcia_driver(hostap_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

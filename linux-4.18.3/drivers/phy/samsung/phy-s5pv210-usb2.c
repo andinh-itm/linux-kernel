@@ -185,3 +185,4 @@ const struct samsung_usb2_phy_config s5pv210_usb2_phy_config = {
 	.phys		= s5pv210_phys,
 	.rate_to_clk	= s5pv210_rate_to_clk,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

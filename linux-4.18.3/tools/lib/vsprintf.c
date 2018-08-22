@@ -23,3 +23,4 @@ int scnprintf(char * buf, size_t size, const char * fmt, ...)
 
        return (i >= ssize) ? (ssize - 1) : i;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -526,3 +526,4 @@ MODULE_AUTHOR("Kravchenko Oleksandr <o.v.kravchenko@globallogic.com>");
 MODULE_AUTHOR("GlobalLogic inc.");
 MODULE_DESCRIPTION("APDS9300 ambient light photo sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

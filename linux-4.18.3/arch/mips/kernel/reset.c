@@ -123,3 +123,4 @@ void machine_power_off(void)
 #endif
 	machine_hang();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

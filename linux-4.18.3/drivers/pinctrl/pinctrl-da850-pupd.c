@@ -207,3 +207,4 @@ module_platform_driver(da850_pupd_driver);
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_DESCRIPTION("TI DA850/OMAP-L138/AM18XX pullup/pulldown configuration");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

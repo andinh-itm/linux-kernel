@@ -204,3 +204,4 @@ STATIC int INIT __decompress(unsigned char *buf, long len,
 	return __gunzip(buf, len, fill, flush, out_buf, out_len, pos, error);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

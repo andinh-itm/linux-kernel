@@ -1302,3 +1302,4 @@ int vnic_dev_capable_rss_hash_type(struct vnic_dev *vdev, u8 *rss_hash_type)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

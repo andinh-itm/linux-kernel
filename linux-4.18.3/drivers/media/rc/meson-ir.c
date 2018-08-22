@@ -251,3 +251,4 @@ module_platform_driver(meson_ir_driver);
 MODULE_DESCRIPTION("Amlogic Meson IR remote receiver driver");
 MODULE_AUTHOR("Beniamino Galvani <b.galvani@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

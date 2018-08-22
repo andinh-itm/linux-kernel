@@ -322,3 +322,4 @@ do_notify_resume(struct pt_regs *regs, unsigned int thread_flags)
 		tracehook_notify_resume(regs);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

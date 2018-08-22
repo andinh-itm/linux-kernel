@@ -297,3 +297,4 @@ module_platform_driver(cros_ec_sensors_platform_driver);
 
 MODULE_DESCRIPTION("ChromeOS EC 3-axis sensors driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

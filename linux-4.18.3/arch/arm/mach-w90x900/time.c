@@ -171,3 +171,4 @@ void __init nuc900_timer_init(void)
 	nuc900_clocksource_init();
 	nuc900_clockevents_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

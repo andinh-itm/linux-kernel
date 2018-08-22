@@ -722,3 +722,4 @@ MACHINE_START(DNS323, "D-Link DNS-323")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

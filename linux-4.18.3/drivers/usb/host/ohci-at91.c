@@ -694,3 +694,4 @@ module_exit(ohci_at91_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:at91_ohci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

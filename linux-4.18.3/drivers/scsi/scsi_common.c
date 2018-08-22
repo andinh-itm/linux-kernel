@@ -347,3 +347,4 @@ int scsi_set_sense_field_pointer(u8 *buf, int buf_len, u16 fp, u8 bp, bool cd)
 	return 0;
 }
 EXPORT_SYMBOL(scsi_set_sense_field_pointer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

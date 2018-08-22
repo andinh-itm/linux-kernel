@@ -419,3 +419,4 @@ void rga_hw_start(struct rockchip_rga *rga)
 
 	rga_write(rga, RGA_CMD_CTRL, 0x1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

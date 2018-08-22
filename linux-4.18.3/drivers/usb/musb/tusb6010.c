@@ -1273,3 +1273,4 @@ MODULE_DESCRIPTION("TUSB6010 MUSB Glue Layer");
 MODULE_AUTHOR("Felipe Balbi <balbi@ti.com>");
 MODULE_LICENSE("GPL v2");
 module_platform_driver(tusb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

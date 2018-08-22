@@ -210,3 +210,4 @@ static struct platform_driver exynos_srom_driver = {
 	},
 };
 builtin_platform_driver(exynos_srom_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

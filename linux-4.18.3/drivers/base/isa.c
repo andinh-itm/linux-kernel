@@ -182,3 +182,4 @@ static int __init isa_bus_init(void)
 }
 
 postcore_initcall(isa_bus_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

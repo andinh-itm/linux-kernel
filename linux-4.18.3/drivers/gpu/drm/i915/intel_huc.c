@@ -117,3 +117,4 @@ int intel_huc_check_status(struct intel_huc *huc)
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

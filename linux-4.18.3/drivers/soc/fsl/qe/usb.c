@@ -54,3 +54,4 @@ int qe_usb_clock_set(enum qe_clock clk, int rate)
 	return 0;
 }
 EXPORT_SYMBOL(qe_usb_clock_set);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

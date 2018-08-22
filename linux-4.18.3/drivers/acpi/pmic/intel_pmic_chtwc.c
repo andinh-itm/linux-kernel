@@ -273,3 +273,4 @@ static struct platform_driver intel_cht_wc_pmic_opregion_driver = {
 	.id_table = cht_wc_opregion_id_table,
 };
 builtin_platform_driver(intel_cht_wc_pmic_opregion_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

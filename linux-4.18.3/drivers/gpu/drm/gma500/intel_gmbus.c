@@ -498,3 +498,4 @@ void gma_intel_teardown_gmbus(struct drm_device *dev)
 	kfree(dev_priv->gmbus);
 	dev_priv->gmbus = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1515,3 +1515,4 @@ module_i2c_driver(cyapa_driver);
 MODULE_DESCRIPTION("Cypress APA I2C Trackpad Driver");
 MODULE_AUTHOR("Dudley Du <dudl@cypress.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

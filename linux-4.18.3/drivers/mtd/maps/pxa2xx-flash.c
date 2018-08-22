@@ -142,3 +142,4 @@ module_platform_driver(pxa2xx_flash_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Nicolas Pitre <nico@fluxnic.net>");
 MODULE_DESCRIPTION("MTD map driver for Intel XScale PXA2xx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

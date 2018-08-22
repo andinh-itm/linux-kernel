@@ -721,3 +721,4 @@ void dasd_eer_exit(void)
 		dasd_eer_dev = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

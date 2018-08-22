@@ -212,3 +212,4 @@ int ima_restore_measurement_entry(struct ima_template_entry *entry)
 	mutex_unlock(&ima_extend_list_mutex);
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

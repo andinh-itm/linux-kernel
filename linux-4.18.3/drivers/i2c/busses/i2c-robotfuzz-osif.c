@@ -197,3 +197,4 @@ MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch>");
 MODULE_AUTHOR("Barry Carter <barry.carter@robotfuzz.com>");
 MODULE_DESCRIPTION("RobotFuzz OSIF driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

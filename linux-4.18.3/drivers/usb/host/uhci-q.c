@@ -1791,3 +1791,4 @@ rescan:
 	else
 		uhci_set_next_interrupt(uhci);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

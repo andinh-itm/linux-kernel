@@ -337,3 +337,4 @@ module_platform_driver(pmic_keys_pdrv);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Chen Zhong <chen.zhong@mediatek.com>");
 MODULE_DESCRIPTION("MTK pmic-keys driver v0.1");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

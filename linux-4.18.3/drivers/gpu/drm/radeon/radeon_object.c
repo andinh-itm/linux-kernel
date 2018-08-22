@@ -875,3 +875,4 @@ void radeon_bo_fence(struct radeon_bo *bo, struct radeon_fence *fence,
 	else
 		reservation_object_add_excl_fence(resv, &fence->base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

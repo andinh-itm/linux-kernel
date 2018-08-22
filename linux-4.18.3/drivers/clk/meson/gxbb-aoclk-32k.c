@@ -191,3 +191,4 @@ const struct clk_ops meson_aoclk_cec_32k_ops = {
 	.round_rate = aoclk_cec_32k_round_rate,
 	.set_rate = aoclk_cec_32k_set_rate,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

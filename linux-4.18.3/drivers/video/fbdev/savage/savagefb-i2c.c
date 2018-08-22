@@ -239,3 +239,4 @@ int savagefb_probe_i2c_connector(struct fb_info *info, u8 **out_edid)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

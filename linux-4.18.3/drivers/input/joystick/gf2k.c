@@ -373,3 +373,4 @@ static struct gameport_driver gf2k_drv = {
 };
 
 module_gameport_driver(gf2k_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

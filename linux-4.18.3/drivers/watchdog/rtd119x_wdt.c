@@ -166,3 +166,4 @@ static struct platform_driver rtd119x_wdt_driver = {
 	},
 };
 builtin_platform_driver(rtd119x_wdt_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

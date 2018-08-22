@@ -664,3 +664,4 @@ int diva_card_read_xlog(diva_os_xdi_adapter_t *a)
 void xdiFreeFile(void *handle)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

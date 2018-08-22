@@ -2592,3 +2592,4 @@ static int __init gemini_pmx_init(void)
 	return platform_driver_register(&gemini_pmx_driver);
 }
 arch_initcall(gemini_pmx_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

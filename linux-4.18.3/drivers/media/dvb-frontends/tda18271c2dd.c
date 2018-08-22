@@ -1249,3 +1249,4 @@ EXPORT_SYMBOL_GPL(tda18271c2dd_attach);
 MODULE_DESCRIPTION("TDA18271C2 driver");
 MODULE_AUTHOR("DD");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

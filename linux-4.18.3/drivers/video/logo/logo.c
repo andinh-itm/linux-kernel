@@ -103,3 +103,4 @@ const struct linux_logo * __ref fb_find_logo(int depth)
 	return logo;
 }
 EXPORT_SYMBOL_GPL(fb_find_logo);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

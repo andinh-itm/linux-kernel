@@ -1461,3 +1461,4 @@ module_platform_driver(rockchip_usb2phy_driver);
 MODULE_AUTHOR("Frank Wang <frank.wang@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip USB2.0 PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

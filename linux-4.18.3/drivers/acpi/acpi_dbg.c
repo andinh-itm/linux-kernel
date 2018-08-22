@@ -802,3 +802,4 @@ module_exit(acpi_aml_exit);
 MODULE_AUTHOR("Lv Zheng");
 MODULE_DESCRIPTION("ACPI debugger userspace IO driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

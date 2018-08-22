@@ -1629,3 +1629,4 @@ fw_failed:
 }
 
 MODULE_FIRMWARE(GO7007_FW_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

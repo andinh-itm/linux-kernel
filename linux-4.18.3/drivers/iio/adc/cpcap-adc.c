@@ -1048,3 +1048,4 @@ MODULE_ALIAS("platform:cpcap_adc");
 MODULE_DESCRIPTION("CPCAP ADC driver");
 MODULE_AUTHOR("Tony Lindgren <tony@atomide.com");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

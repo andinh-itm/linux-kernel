@@ -500,3 +500,4 @@ module_platform_driver(lpddr2_nvm_drv);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vincenzo Aliberti <vincenzo.aliberti@gmail.com>");
 MODULE_DESCRIPTION("MTD driver for LPDDR2-NVM PCM memories");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

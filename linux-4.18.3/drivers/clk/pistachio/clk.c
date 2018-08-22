@@ -139,3 +139,4 @@ void pistachio_clk_force_enable(struct pistachio_clk_provider *p,
 			       __clk_get_name(clk), err);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

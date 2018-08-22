@@ -594,3 +594,4 @@ module_platform_driver(max8925_power_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Power supply driver for MAX8925");
 MODULE_ALIAS("platform:max8925-power");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -646,3 +646,4 @@ MODULE_AUTHOR("Joe Thornber <dm-devel@redhat.com>");
 MODULE_DESCRIPTION("Immutable metadata library for dm");
 
 /*----------------------------------------------------------------*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

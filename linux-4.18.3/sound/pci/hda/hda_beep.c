@@ -333,3 +333,4 @@ int snd_hda_mixer_amp_switch_put_beep(struct snd_kcontrol *kcontrol,
 	return snd_hda_mixer_amp_switch_put(kcontrol, ucontrol);
 }
 EXPORT_SYMBOL_GPL(snd_hda_mixer_amp_switch_put_beep);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

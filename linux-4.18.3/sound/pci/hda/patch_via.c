@@ -1264,3 +1264,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("VIA HD-audio codec");
 
 module_hda_codec_driver(via_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

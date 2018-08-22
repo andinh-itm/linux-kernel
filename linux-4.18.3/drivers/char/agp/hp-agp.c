@@ -551,3 +551,4 @@ module_init(agp_hp_init);
 module_exit(agp_hp_cleanup);
 
 MODULE_LICENSE("GPL and additional rights");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -583,3 +583,4 @@ static struct serio_driver hil_serio_drv = {
 };
 
 module_serio_driver(hil_serio_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

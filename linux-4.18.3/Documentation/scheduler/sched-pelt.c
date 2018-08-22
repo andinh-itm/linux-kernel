@@ -106,3 +106,4 @@ void main(void)
 	calc_converged_max();
 //	calc_accumulated_sum_32();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

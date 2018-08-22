@@ -1125,3 +1125,4 @@ u64 dmi_memdev_size(u16 handle)
 	return ~0ull;
 }
 EXPORT_SYMBOL_GPL(dmi_memdev_size);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

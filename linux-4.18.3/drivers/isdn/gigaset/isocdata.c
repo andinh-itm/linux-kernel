@@ -1007,3 +1007,4 @@ int gigaset_isoc_send_skb(struct bc_state *bcs, struct sk_buff *skb)
 
 	return len;	/* ok so far */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -115,3 +115,4 @@ void cx18_init_scb(struct cx18 *cx)
 
 	cx18_writel(cx, 1, &cx->scb->epu_state);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -62,3 +62,4 @@ void sha1_mb_mgr_init_avx2(struct sha1_mb_mgr *state)
 		state->ldata[j].job_in_lane = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

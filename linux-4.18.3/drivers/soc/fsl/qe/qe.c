@@ -734,3 +734,4 @@ static struct platform_driver qe_driver = {
 
 builtin_platform_driver(qe_driver);
 #endif /* defined(CONFIG_SUSPEND) && defined(CONFIG_PPC_85xx) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

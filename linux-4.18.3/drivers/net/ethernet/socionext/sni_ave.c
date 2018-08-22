@@ -1928,3 +1928,4 @@ module_platform_driver(ave_driver);
 
 MODULE_DESCRIPTION("Socionext UniPhier AVE ethernet driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

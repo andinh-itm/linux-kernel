@@ -1059,3 +1059,4 @@ module_exit(phy_core_exit);
 MODULE_DESCRIPTION("Generic PHY Framework");
 MODULE_AUTHOR("Kishon Vijay Abraham I <kishon@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

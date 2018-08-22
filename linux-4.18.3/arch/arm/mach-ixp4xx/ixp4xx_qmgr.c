@@ -370,3 +370,4 @@ EXPORT_SYMBOL(qmgr_request_queue);
 EXPORT_SYMBOL(__qmgr_request_queue);
 #endif
 EXPORT_SYMBOL(qmgr_release_queue);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

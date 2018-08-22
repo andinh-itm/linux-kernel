@@ -442,3 +442,4 @@ void solo_g723_exit(struct solo_dev *solo_dev)
 	snd_card_free(solo_dev->snd_card);
 	solo_dev->snd_card = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

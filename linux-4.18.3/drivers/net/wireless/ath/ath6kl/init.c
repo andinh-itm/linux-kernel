@@ -1941,3 +1941,4 @@ void ath6kl_stop_txrx(struct ath6kl *ar)
 	up(&ar->sem);
 }
 EXPORT_SYMBOL(ath6kl_stop_txrx);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

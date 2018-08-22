@@ -370,3 +370,4 @@ simscsi_init(void)
 	return error;
 }
 device_initcall(simscsi_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

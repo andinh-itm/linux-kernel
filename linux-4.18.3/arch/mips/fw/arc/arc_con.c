@@ -49,3 +49,4 @@ static int __init arc_console_init(void)
 	return 0;
 }
 console_initcall(arc_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

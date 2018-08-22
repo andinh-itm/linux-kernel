@@ -492,3 +492,4 @@ void snd_tscm_stream_lock_release(struct snd_tscm *tscm)
 end:
 	spin_unlock_irq(&tscm->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

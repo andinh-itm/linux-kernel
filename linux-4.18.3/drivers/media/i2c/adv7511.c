@@ -1989,3 +1989,4 @@ static struct i2c_driver adv7511_driver = {
 };
 
 module_i2c_driver(adv7511_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -32,3 +32,4 @@ asmlinkage long sys32_fanotify_mark(compat_int_t fanotify_fd, compat_uint_t flag
 			((__u64)mask1 << 32) | mask0,
 			 dfd, pathname);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

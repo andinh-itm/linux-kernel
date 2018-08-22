@@ -27,3 +27,4 @@ long long __ashldi3(long long u, word_type b)
 	return w.ll;
 }
 EXPORT_SYMBOL(__ashldi3);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

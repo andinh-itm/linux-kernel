@@ -52,3 +52,4 @@ module_i2c_driver(cs4271_i2c_driver);
 MODULE_DESCRIPTION("ASoC CS4271 I2C Driver");
 MODULE_AUTHOR("Alexander Sverdlin <subaparts@yandex.ru>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

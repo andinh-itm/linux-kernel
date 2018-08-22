@@ -737,3 +737,4 @@ module_i2c_driver(ov9640_i2c_driver);
 MODULE_DESCRIPTION("SoC Camera driver for OmniVision OV96xx");
 MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

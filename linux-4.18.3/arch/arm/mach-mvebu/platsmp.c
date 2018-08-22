@@ -259,3 +259,4 @@ static const struct smp_operations mv98dx3236_smp_ops __initconst = {
 
 CPU_METHOD_OF_DECLARE(mv98dx3236_smp, "marvell,98dx3236-smp",
 		      &mv98dx3236_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

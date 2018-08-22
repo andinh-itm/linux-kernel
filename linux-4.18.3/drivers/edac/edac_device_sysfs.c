@@ -868,3 +868,4 @@ void edac_device_remove_sysfs(struct edac_device_ctl_info *edac_dev)
 	/* walk the instance/block kobject tree, deconstructing it */
 	edac_device_delete_instances(edac_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

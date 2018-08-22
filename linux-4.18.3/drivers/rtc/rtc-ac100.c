@@ -659,3 +659,4 @@ module_platform_driver(ac100_rtc_driver);
 MODULE_DESCRIPTION("X-Powers AC100 RTC driver");
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

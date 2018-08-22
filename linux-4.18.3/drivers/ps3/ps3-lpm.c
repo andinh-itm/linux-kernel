@@ -1251,3 +1251,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PS3 Logical Performance Monitor Driver");
 MODULE_AUTHOR("Sony Corporation");
 MODULE_ALIAS(PS3_MODULE_ALIAS_LPM);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

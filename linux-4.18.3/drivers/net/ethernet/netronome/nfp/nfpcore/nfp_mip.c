@@ -179,3 +179,4 @@ void nfp_mip_strtab(const struct nfp_mip *mip, u32 *addr, u32 *size)
 	*addr = le32_to_cpu(mip->strtab_addr);
 	*size = le32_to_cpu(mip->strtab_size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

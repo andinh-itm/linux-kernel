@@ -682,3 +682,4 @@ void amdgpu_dm_hpd_fini(struct amdgpu_device *adev)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

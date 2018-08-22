@@ -116,3 +116,4 @@ module_exit(stm_heartbeat_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("stm_heartbeat driver");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

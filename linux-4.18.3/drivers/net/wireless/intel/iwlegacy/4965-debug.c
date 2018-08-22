@@ -750,3 +750,4 @@ const struct il_debugfs_ops il4965_debugfs_ops = {
 	.tx_stats_read = il4965_ucode_tx_stats_read,
 	.general_stats_read = il4965_ucode_general_stats_read,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

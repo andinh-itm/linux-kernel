@@ -719,3 +719,4 @@ static void __exit hp_sdc_rtc_exit(void)
 
 module_init(hp_sdc_rtc_init);
 module_exit(hp_sdc_rtc_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

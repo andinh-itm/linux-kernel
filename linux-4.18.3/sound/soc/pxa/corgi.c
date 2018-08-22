@@ -317,3 +317,4 @@ MODULE_AUTHOR("Richard Purdie");
 MODULE_DESCRIPTION("ALSA SoC Corgi");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:corgi-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

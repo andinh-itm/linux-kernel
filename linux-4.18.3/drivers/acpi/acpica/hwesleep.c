@@ -204,3 +204,4 @@ acpi_status acpi_hw_extended_wake(u8 sleep_state)
 	acpi_hw_execute_sleep_method(METHOD_PATHNAME__SST, ACPI_SST_WORKING);
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

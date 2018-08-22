@@ -787,3 +787,4 @@ static void __exit via_core_exit(void)
 
 module_init(via_core_init);
 module_exit(via_core_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

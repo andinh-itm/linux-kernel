@@ -989,3 +989,4 @@ MODULE_DESCRIPTION("Driver for AzureWave 6007 DVB-C/T USB2.0 and clones");
 MODULE_VERSION("2.0");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(AZ6007_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

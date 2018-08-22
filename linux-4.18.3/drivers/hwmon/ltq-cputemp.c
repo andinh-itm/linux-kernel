@@ -161,3 +161,4 @@ module_platform_driver(ltq_cputemp_driver);
 MODULE_AUTHOR("Florian Eckert <fe@dev.tdt.de>");
 MODULE_DESCRIPTION("Lantiq cpu temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

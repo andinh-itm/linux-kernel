@@ -124,3 +124,4 @@ MODULE_AUTHOR("Alexander Sverdlin <subaparts@yandex.ru>");
 MODULE_DESCRIPTION("ALSA SoC EDB93xx");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:edb93xx-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

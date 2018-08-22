@@ -677,3 +677,4 @@ const struct venc_common_if *get_h264_enc_comm_if(void)
 {
 	return &venc_h264_if;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

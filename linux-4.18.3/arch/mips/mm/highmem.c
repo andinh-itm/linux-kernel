@@ -128,3 +128,4 @@ void __init kmap_init(void)
 	kmap_vstart = __fix_to_virt(FIX_KMAP_BEGIN);
 	kmap_pte = kmap_get_fixmap_pte(kmap_vstart);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -145,3 +145,4 @@ static int __init opal_mem_err_init(void)
 	return 0;
 }
 machine_device_initcall(powernv, opal_mem_err_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

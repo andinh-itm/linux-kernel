@@ -877,3 +877,4 @@ perf_mmap_to_page(struct ring_buffer *rb, unsigned long pgoff)
 
 	return __perf_mmap_to_page(rb, pgoff);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

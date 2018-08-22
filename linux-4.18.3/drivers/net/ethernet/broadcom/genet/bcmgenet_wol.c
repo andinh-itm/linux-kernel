@@ -195,3 +195,4 @@ void bcmgenet_wol_power_up_cfg(struct bcmgenet_priv *priv,
 	bcmgenet_umac_writel(priv, reg, UMAC_CMD);
 	priv->crc_fwd_en = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

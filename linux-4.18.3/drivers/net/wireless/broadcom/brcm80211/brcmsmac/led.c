@@ -125,3 +125,4 @@ int brcms_led_register(struct brcms_info *wl)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

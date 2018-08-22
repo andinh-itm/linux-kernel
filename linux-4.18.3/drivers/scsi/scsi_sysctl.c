@@ -49,3 +49,4 @@ void scsi_exit_sysctl(void)
 {
 	unregister_sysctl_table(scsi_table_header);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

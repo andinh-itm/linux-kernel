@@ -263,3 +263,4 @@ static __init int uPD98402_module_init(void)
 }
 module_init(uPD98402_module_init);
 /* module_exit not defined so not unloadable */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

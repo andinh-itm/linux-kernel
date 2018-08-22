@@ -146,3 +146,4 @@ void crash_free_reserved_phys_range(unsigned long begin, unsigned long end)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

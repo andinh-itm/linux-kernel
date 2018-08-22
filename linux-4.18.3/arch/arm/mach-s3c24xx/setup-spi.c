@@ -25,3 +25,4 @@ int s3c64xx_spi0_cfg_gpio(void)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

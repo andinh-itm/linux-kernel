@@ -1218,3 +1218,4 @@ u32 RTL8192CEAGCTAB_1TARRAY[AGCTAB_1TARRAYLENGTH] = {
 	0xc78, 0x621e001e,
 	0xc78, 0x621f001e,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

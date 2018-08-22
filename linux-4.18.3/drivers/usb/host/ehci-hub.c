@@ -1340,3 +1340,4 @@ static int ehci_port_power(struct ehci_hcd *ehci, int portnum, bool enable)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

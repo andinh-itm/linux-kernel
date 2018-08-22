@@ -82,3 +82,4 @@ void mantis_input_exit(struct mantis_pci *mantis)
 	rc_unregister_device(mantis->rc);
 }
 EXPORT_SYMBOL_GPL(mantis_input_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

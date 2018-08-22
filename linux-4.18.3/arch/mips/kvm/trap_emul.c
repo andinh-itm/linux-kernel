@@ -1327,3 +1327,4 @@ int kvm_mips_emulation_init(struct kvm_mips_callbacks **install_callbacks)
 	*install_callbacks = &kvm_trap_emul_callbacks;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

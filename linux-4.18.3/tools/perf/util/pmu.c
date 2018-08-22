@@ -1539,3 +1539,4 @@ int perf_pmu__scan_file(struct perf_pmu *pmu, const char *name, const char *fmt,
 	va_end(args);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

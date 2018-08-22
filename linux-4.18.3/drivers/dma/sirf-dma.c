@@ -1169,3 +1169,4 @@ MODULE_AUTHOR("Rongjun Ying <rongjun.ying@csr.com>");
 MODULE_AUTHOR("Barry Song <baohua.song@csr.com>");
 MODULE_DESCRIPTION("SIRFSOC DMA control driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

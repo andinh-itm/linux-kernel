@@ -287,3 +287,4 @@ module_platform_driver(pistachio_internal_dac_plat_driver);
 MODULE_DESCRIPTION("Pistachio Internal DAC driver");
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

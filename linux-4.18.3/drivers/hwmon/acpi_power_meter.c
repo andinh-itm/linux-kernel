@@ -1014,3 +1014,4 @@ MODULE_PARM_DESC(force_cap_on, "Enable power cap even it is unsafe to do so.");
 
 module_init(acpi_power_meter_init);
 module_exit(acpi_power_meter_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

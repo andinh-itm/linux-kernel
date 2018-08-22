@@ -78,3 +78,4 @@ dma_addr_t hinic_sge_to_dma(struct hinic_sge *sge)
 {
 	return (dma_addr_t)((((u64)sge->hi_addr) << 32) | sge->lo_addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

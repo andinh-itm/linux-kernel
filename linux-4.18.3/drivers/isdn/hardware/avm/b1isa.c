@@ -241,3 +241,4 @@ static void __exit b1isa_exit(void)
 
 module_init(b1isa_init);
 module_exit(b1isa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

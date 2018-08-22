@@ -97,3 +97,4 @@ void __init idprom_init(void)
 
 	printk(KERN_WARNING "Ethernet address: %pM\n", idprom->id_ethaddr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

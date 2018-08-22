@@ -385,3 +385,4 @@ void orinoco_uncache_fw(struct orinoco_private *priv)
 	priv->cached_fw = NULL;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

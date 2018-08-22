@@ -765,3 +765,4 @@ MODULE_AUTHOR("Ralph Metzler, Holger Waechtler, Peter Schildmann, Felix Domke, A
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(stv0299_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2288,3 +2288,4 @@ void fc_rport_terminate_io(struct fc_rport *rport)
 	lport->tt.exch_mgr_reset(lport, rport->port_id, 0);
 }
 EXPORT_SYMBOL(fc_rport_terminate_io);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

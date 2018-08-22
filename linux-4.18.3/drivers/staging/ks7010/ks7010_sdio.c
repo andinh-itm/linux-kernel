@@ -1140,3 +1140,4 @@ MODULE_AUTHOR("Sang Engineering, Qi-Hardware, KeyStream");
 MODULE_DESCRIPTION("Driver for KeyStream KS7010 based SDIO cards");
 MODULE_LICENSE("GPL v2");
 MODULE_FIRMWARE(ROM_FILE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

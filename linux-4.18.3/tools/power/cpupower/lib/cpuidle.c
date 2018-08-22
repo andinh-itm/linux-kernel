@@ -378,3 +378,4 @@ char *cpuidle_get_driver(void)
 	return sysfs_cpuidle_get_one_string(CPUIDLE_DRIVER);
 }
 /* CPUidle idlestate specific /sys/devices/system/cpu/cpuX/cpuidle/ access */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

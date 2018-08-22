@@ -458,3 +458,4 @@ static struct usb_driver hanwang_driver = {
 };
 
 module_usb_driver(hanwang_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

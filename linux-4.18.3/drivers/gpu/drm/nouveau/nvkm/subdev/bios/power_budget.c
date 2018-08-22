@@ -124,3 +124,4 @@ nvbios_power_budget_entry(struct nvkm_bios *bios,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

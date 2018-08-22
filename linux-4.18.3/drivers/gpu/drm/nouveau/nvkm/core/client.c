@@ -305,3 +305,4 @@ nvkm_client_new(const char *name, u64 device, const char *cfg,
 	spin_lock_init(&client->lock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

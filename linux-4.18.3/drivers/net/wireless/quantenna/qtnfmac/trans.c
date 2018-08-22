@@ -224,3 +224,4 @@ int qtnf_trans_handle_rx_ctl_packet(struct qtnf_bus *bus, struct sk_buff *skb)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(qtnf_trans_handle_rx_ctl_packet);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

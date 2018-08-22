@@ -216,3 +216,4 @@ MODULE_ALIAS("platform:arizona-haptics");
 MODULE_DESCRIPTION("Arizona haptics driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

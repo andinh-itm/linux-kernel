@@ -207,3 +207,4 @@ static int cpu_pm_init(void)
 }
 core_initcall(cpu_pm_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -247,3 +247,4 @@ char *nsinfo__realpath(const char *path, struct nsinfo *nsi)
 
 	return rpath;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

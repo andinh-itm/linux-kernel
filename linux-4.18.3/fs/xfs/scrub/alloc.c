@@ -167,3 +167,4 @@ xfs_scrub_xref_is_used_space(
 	if (is_freesp)
 		xfs_scrub_btree_xref_set_corrupt(sc, sc->sa.bno_cur, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

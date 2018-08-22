@@ -381,3 +381,4 @@ const struct fb_videomode *viafb_get_best_rb_mode(int hres, int vres,
 	return get_best_mode(viafb_rb_modes, ARRAY_SIZE(viafb_rb_modes),
 		hres, vres, refresh);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

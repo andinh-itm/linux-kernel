@@ -30,3 +30,4 @@ void pwc_dec1_init(struct pwc_device *pdev, const unsigned char *cmd)
 
 	pdec->version = pdev->release;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

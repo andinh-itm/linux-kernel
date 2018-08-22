@@ -1200,3 +1200,4 @@ MODULE_DESCRIPTION("DM Multipath ALUA support");
 MODULE_AUTHOR("Hannes Reinecke <hare@suse.de>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(ALUA_DH_VER);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

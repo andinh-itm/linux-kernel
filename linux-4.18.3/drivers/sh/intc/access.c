@@ -244,3 +244,4 @@ unsigned long (*intc_enable_noprio_fns[])(unsigned long addr,
 	[MODE_PRIO_REG] = intc_mode_field,
 	[MODE_PCLR_REG] = intc_mode_field,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

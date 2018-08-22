@@ -97,3 +97,4 @@ static int __init mips_pm_init(void)
 	return cpu_pm_register_notifier(&mips_pm_notifier_block);
 }
 arch_initcall(mips_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

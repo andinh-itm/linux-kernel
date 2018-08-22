@@ -80,3 +80,4 @@ static struct platform_driver hisi_reboot_driver = {
 	},
 };
 module_platform_driver(hisi_reboot_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -394,3 +394,4 @@ static struct pci_driver kvaser_pci_driver = {
 };
 
 module_pci_driver(kvaser_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

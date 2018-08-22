@@ -2689,3 +2689,4 @@ const struct pp_smumgr_func iceland_smu_funcs = {
 	.is_dpm_running = iceland_is_dpm_running,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

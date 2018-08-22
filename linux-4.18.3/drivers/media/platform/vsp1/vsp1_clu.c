@@ -282,3 +282,4 @@ struct vsp1_clu *vsp1_clu_create(struct vsp1_device *vsp1)
 
 	return clu;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

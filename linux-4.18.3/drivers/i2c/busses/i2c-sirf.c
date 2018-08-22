@@ -477,3 +477,4 @@ MODULE_DESCRIPTION("SiRF SoC I2C master controller driver");
 MODULE_AUTHOR("Zhiwu Song <Zhiwu.Song@csr.com>, "
 	"Xiangzhen Ye <Xiangzhen.Ye@csr.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

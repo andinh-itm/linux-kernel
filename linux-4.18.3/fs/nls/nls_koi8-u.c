@@ -328,3 +328,4 @@ module_init(init_nls_koi8_u)
 module_exit(exit_nls_koi8_u)
 
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

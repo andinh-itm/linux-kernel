@@ -163,3 +163,4 @@ const struct file_operations jfs_file_operations = {
 	.compat_ioctl	= jfs_compat_ioctl,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

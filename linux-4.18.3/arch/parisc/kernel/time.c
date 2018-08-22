@@ -280,3 +280,4 @@ static int __init init_cr16_clocksource(void)
 }
 
 device_initcall(init_cr16_clocksource);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

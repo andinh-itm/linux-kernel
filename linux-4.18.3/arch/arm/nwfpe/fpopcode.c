@@ -61,3 +61,4 @@ const float32 float32Constant[] = {
 	0x41200000		/* single 10.0 */
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

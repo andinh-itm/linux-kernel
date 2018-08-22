@@ -205,3 +205,4 @@ module_param_hw(port, ushort, ioport, 0);
 MODULE_PARM_DESC(port, "#ENUM signal I/O port");
 module_param(enum_bit, uint, 0);
 MODULE_PARM_DESC(enum_bit, "#ENUM signal bit (0-7)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

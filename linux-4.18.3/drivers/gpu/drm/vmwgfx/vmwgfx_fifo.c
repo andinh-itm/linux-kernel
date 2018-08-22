@@ -704,3 +704,4 @@ void *vmw_fifo_reserve(struct vmw_private *dev_priv, uint32_t bytes)
 {
 	return vmw_fifo_reserve_dx(dev_priv, bytes, SVGA3D_INVALID_ID);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

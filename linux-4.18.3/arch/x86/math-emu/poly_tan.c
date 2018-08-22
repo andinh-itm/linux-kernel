@@ -211,3 +211,4 @@ void poly_tan(FPU_REG *st0_ptr)
 	setexponent16(st0_ptr, exponent + EXTENDED_Ebias);	/* Result is positive. */
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

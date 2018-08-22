@@ -2301,3 +2301,4 @@ struct iscsi_transport bnx2i_iscsi_transport = {
 	.session_recovery_timedout = iscsi_session_recovery_timedout,
 	.cleanup_task		= bnx2i_cleanup_task,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1323,3 +1323,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("TX39/49 serial driver");
 
 MODULE_ALIAS_CHARDEV_MAJOR(TXX9_TTY_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

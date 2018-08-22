@@ -397,3 +397,4 @@ MODULE_LICENSE("GPL");
 
 module_init(speedstep_init);
 module_exit(speedstep_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

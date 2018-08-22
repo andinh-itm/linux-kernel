@@ -3268,3 +3268,4 @@ void notify_wx_assoc_event(struct rtllib_device *ieee)
 	wireless_send_event(ieee->dev, SIOCGIWAP, &wrqu, NULL);
 }
 EXPORT_SYMBOL(notify_wx_assoc_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

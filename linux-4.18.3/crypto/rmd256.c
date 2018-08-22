@@ -345,3 +345,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Adrian-Ken Rueegsegger <ken@codelabs.ch>");
 MODULE_DESCRIPTION("RIPEMD-256 Message Digest");
 MODULE_ALIAS_CRYPTO("rmd256");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

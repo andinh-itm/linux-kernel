@@ -353,3 +353,4 @@ static int __init arc_of_timer_init(struct device_node *np)
 	return ret;
 }
 TIMER_OF_DECLARE(arc_clkevt, "snps,arc-timer", arc_of_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

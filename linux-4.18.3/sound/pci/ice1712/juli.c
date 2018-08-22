@@ -697,3 +697,4 @@ struct snd_ice1712_card_info snd_vt1724_juli_cards[] = {
 	},
 	{ } /* terminator */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

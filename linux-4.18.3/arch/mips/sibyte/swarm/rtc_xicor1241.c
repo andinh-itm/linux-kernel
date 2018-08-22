@@ -208,3 +208,4 @@ int xicor_probe(void)
 {
 	return xicor_read(X1241REG_SC) != -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

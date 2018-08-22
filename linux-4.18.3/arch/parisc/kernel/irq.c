@@ -609,3 +609,4 @@ void __init init_IRQ(void)
 #endif
         set_eiem(cpu_eiem);	/* EIEM : enable all external intr */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

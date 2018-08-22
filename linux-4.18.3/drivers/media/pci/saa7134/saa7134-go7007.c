@@ -530,3 +530,4 @@ module_init(saa7134_go7007_mod_init);
 module_exit(saa7134_go7007_mod_cleanup);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

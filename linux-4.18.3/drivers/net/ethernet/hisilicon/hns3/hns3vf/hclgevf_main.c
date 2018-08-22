@@ -1986,3 +1986,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Huawei Tech. Co., Ltd.");
 MODULE_DESCRIPTION("HCLGEVF Driver");
 MODULE_VERSION(HCLGEVF_MOD_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

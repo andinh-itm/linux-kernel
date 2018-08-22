@@ -415,3 +415,4 @@ module_i2c_driver(adm1029_driver);
 MODULE_AUTHOR("Corentin LABBE <clabbe.montjoie@gmail.com>");
 MODULE_DESCRIPTION("adm1029 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

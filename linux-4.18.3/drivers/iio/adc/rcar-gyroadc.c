@@ -629,3 +629,4 @@ module_platform_driver(rcar_gyroadc_driver);
 MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("Renesas R-Car GyroADC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -42,3 +42,4 @@ void ODM_InitDebugSetting(PDM_ODM_T pDM_Odm)
 /* 		ODM_COMP_PSD					| */
 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

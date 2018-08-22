@@ -1280,3 +1280,4 @@ ready:
 
 	return setup_diva_common(card->cs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

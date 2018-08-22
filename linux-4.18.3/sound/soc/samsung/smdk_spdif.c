@@ -221,3 +221,4 @@ module_exit(smdk_exit);
 MODULE_AUTHOR("Seungwhan Youn, <sw.youn@samsung.com>");
 MODULE_DESCRIPTION("ALSA SoC SMDK+S/PDIF");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

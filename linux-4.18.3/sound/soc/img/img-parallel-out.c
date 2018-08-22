@@ -329,3 +329,4 @@ module_platform_driver(img_prl_out_driver);
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_DESCRIPTION("IMG Parallel Output Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

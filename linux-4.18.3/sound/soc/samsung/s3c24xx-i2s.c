@@ -474,3 +474,4 @@ MODULE_AUTHOR("Ben Dooks, <ben@simtec.co.uk>");
 MODULE_DESCRIPTION("s3c24xx I2S SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:s3c24xx-iis");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

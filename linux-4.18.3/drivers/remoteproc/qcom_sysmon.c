@@ -577,3 +577,4 @@ module_rpmsg_driver(sysmon_driver);
 
 MODULE_DESCRIPTION("Qualcomm sysmon driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

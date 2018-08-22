@@ -178,3 +178,4 @@ MODULE_AUTHOR("Paul Parsons <lost.distance@yahoo.com>");
 MODULE_DESCRIPTION("HTC ASIC3 LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:leds-asic3");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -643,3 +643,4 @@ module_i2c_driver(smsc47m192_driver);
 MODULE_AUTHOR("Hartmut Rick <linux@rick.claranet.de>");
 MODULE_DESCRIPTION("SMSC47M192 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

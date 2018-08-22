@@ -1275,3 +1275,4 @@ bool __init kona_ccu_init(struct ccu_data *ccu)
 	ccu_unlock(ccu, flags);
 	return success;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

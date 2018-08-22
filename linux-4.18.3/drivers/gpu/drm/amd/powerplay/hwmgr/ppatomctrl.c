@@ -1560,3 +1560,4 @@ void atomctrl_get_voltage_range(struct pp_hwmgr *hwmgr, uint32_t *max_vddc,
 	*max_vddc = 0;
 	*min_vddc = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

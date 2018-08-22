@@ -285,3 +285,4 @@ module_platform_driver(lpc18xx_eeprom_driver);
 MODULE_AUTHOR("Ariel D'Alessandro <ariel@vanguardiasur.com.ar>");
 MODULE_DESCRIPTION("NXP LPC18xx EEPROM memory Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

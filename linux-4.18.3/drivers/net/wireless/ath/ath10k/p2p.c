@@ -154,3 +154,4 @@ void ath10k_p2p_noa_update_by_vdev_id(struct ath10k *ar, u32 vdev_id,
 						   ath10k_p2p_noa_update_vdev_iter,
 						   &arg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

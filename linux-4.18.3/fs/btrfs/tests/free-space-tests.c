@@ -877,3 +877,4 @@ out:
 	test_msg("free space cache tests finished");
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

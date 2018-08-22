@@ -470,3 +470,4 @@ static void ov7660_dump_registers(struct sd *sd)
 		m5602_write_sensor(sd, address, &old_value, 1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

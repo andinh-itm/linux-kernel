@@ -304,3 +304,4 @@ out_free:
 }
 
 IRQCHIP_DECLARE(mtk_cirq, "mediatek,mtk-cirq", mtk_cirq_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

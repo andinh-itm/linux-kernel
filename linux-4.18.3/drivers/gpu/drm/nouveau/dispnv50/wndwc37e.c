@@ -276,3 +276,4 @@ wndwc37e_new(struct nouveau_drm *drm, enum drm_plane_type type, int index,
 	return wndwc37e_new_(&wndwc37e, drm, type, index, oclass,
 			     BIT(index >> 1), pwndw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -298,3 +298,4 @@ MODULE_DESCRIPTION("rx4581 spi RTC driver");
 MODULE_AUTHOR("Torben Hohn");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rtc-rx4581");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

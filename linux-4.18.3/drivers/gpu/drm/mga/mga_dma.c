@@ -1164,3 +1164,4 @@ int mga_driver_dma_quiescent(struct drm_device *dev)
 	drm_mga_private_t *dev_priv = dev->dev_private;
 	return mga_do_wait_for_idle(dev_priv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

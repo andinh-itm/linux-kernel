@@ -52,3 +52,4 @@ gf119_hda_hpd(struct nvkm_ior *ior, int head, bool present)
 	}
 	nvkm_mask(device, 0x10ec10 + ior->id * 0x030, mask, data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

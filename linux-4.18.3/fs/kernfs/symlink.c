@@ -140,3 +140,4 @@ const struct inode_operations kernfs_symlink_iops = {
 	.getattr	= kernfs_iop_getattr,
 	.permission	= kernfs_iop_permission,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

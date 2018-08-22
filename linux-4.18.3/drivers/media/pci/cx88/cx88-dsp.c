@@ -330,3 +330,4 @@ s32 cx88_dsp_detect_stereo_sap(struct cx88_core *core)
 }
 EXPORT_SYMBOL(cx88_dsp_detect_stereo_sap);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

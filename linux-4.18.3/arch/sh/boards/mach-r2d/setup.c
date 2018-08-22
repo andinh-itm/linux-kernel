@@ -306,3 +306,4 @@ static struct sh_machine_vector mv_rts7751r2d __initmv = {
 	.mv_init_irq		= init_rts7751r2d_IRQ,
 	.mv_irq_demux		= rts7751r2d_irq_demux,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

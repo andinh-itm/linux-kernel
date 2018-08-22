@@ -3876,3 +3876,4 @@ const struct nphy_rf_control_override_rev7 *b43_nphy_get_rf_ctl_over_rev7(
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

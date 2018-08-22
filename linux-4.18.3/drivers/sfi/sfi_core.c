@@ -520,3 +520,4 @@ void __init sfi_init_late(void)
  * is setup, then our interface can be registered in /sys/firmware/sfi
  */
 core_initcall(sfi_sysfs_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

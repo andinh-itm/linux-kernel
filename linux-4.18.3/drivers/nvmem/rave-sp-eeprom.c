@@ -355,3 +355,4 @@ MODULE_AUTHOR("Andrey Vostrikov <andrey.vostrikov@cogentembedded.com>");
 MODULE_AUTHOR("Nikita Yushchenko <nikita.yoush@cogentembedded.com>");
 MODULE_AUTHOR("Andrey Smirnov <andrew.smirnov@gmail.com>");
 MODULE_DESCRIPTION("RAVE SP EEPROM driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

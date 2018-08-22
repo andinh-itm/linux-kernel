@@ -1313,3 +1313,4 @@ MODULE_DESCRIPTION("Silicon Labs Si2165 DVB-C/-T Demodulator driver");
 MODULE_AUTHOR("Matthias Schwarzott <zzam@gentoo.org>");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(SI2165_FIRMWARE_REV_D);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

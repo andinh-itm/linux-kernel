@@ -1219,3 +1219,4 @@ void intel_psr_init(struct drm_i915_private *dev_priv)
 		dev_priv->psr.setup_vsc = hsw_psr_setup_vsc;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1017,3 +1017,4 @@ module_i2c_driver(lp872x_driver);
 MODULE_DESCRIPTION("TI/National Semiconductor LP872x PMU Regulator Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

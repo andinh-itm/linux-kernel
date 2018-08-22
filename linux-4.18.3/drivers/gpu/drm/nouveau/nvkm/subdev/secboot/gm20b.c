@@ -144,3 +144,4 @@ MODULE_FIRMWARE("nvidia/gm20b/gr/sw_method_init.bin");
 MODULE_FIRMWARE("nvidia/gm20b/pmu/desc.bin");
 MODULE_FIRMWARE("nvidia/gm20b/pmu/image.bin");
 MODULE_FIRMWARE("nvidia/gm20b/pmu/sig.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

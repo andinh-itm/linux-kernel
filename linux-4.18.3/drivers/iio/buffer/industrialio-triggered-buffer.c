@@ -143,3 +143,4 @@ EXPORT_SYMBOL_GPL(devm_iio_triggered_buffer_cleanup);
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("IIO helper functions for setting up triggered buffers");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

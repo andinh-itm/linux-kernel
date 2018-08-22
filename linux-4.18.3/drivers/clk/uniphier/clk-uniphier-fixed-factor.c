@@ -46,3 +46,4 @@ struct clk_hw *uniphier_clk_register_fixed_factor(struct device *dev,
 
 	return &fix->hw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

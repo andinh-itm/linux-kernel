@@ -102,3 +102,4 @@ MACHINE_START(NEC_MP900, "MobilePro900/C")
 	.restart	= pxa_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

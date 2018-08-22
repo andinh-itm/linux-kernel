@@ -345,3 +345,4 @@ module_platform_driver(ahci_qoriq_driver);
 MODULE_DESCRIPTION("Freescale QorIQ AHCI SATA platform driver");
 MODULE_AUTHOR("Tang Yuantian <Yuantian.Tang@freescale.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

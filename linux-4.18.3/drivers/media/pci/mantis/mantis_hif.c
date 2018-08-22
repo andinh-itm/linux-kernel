@@ -237,3 +237,4 @@ void mantis_hif_exit(struct mantis_ca *ca)
 	mmwrite(irqcfg, MANTIS_GPIF_IRQCFG);
 	mutex_unlock(&ca->ca_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

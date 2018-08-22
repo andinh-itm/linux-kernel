@@ -243,3 +243,4 @@ cont_nmi_dump(void)
 	nmi_eframes_save();
 	LOCAL_HUB_S(NI_PORT_RESET, NPR_PORTRESET | NPR_LOCALRESET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

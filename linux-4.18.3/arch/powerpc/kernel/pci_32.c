@@ -310,3 +310,4 @@ SYSCALL_DEFINE3(pciconfig_iobase, long, which,
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

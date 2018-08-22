@@ -150,3 +150,4 @@ struct ieee802154_mlme_ops mac802154_mlme_wpan = {
 	.set_mac_params = mac802154_set_mac_params,
 	.get_mac_params = mac802154_get_mac_params,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

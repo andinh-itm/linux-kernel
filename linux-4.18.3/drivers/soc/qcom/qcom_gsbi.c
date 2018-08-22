@@ -254,3 +254,4 @@ module_platform_driver(gsbi_driver);
 MODULE_AUTHOR("Andy Gross <agross@codeaurora.org>");
 MODULE_DESCRIPTION("QCOM GSBI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

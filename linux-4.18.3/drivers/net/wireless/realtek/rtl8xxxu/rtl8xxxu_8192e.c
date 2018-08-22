@@ -1669,3 +1669,4 @@ struct rtl8xxxu_fileops rtl8192eu_fops = {
 	.page_num_lo = TX_PAGE_NUM_LO_PQ_8192E,
 	.page_num_norm = TX_PAGE_NUM_NORM_PQ_8192E,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

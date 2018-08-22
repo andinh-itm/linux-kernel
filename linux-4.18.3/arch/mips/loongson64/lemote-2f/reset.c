@@ -157,3 +157,4 @@ void mach_prepare_shutdown(void)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

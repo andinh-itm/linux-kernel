@@ -202,3 +202,4 @@ const struct dma_map_ops nios2_dma_ops = {
 	.sync_sg_for_device	= nios2_dma_sync_sg_for_device,
 };
 EXPORT_SYMBOL(nios2_dma_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

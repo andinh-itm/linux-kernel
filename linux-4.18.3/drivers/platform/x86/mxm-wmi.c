@@ -109,3 +109,4 @@ static void __exit mxm_wmi_exit(void)
 
 module_init(mxm_wmi_init);
 module_exit(mxm_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

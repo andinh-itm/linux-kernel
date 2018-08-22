@@ -288,3 +288,4 @@ int ccu_mux_notifier_register(struct clk *clk, struct ccu_mux_nb *mux_nb)
 
 	return clk_notifier_register(clk, &mux_nb->clk_nb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

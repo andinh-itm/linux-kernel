@@ -72,3 +72,4 @@ module_platform_driver(ics43432_driver);
 MODULE_DESCRIPTION("ASoC ICS43432 driver");
 MODULE_AUTHOR("Ricard Wanderlof <ricardw@axis.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1379,3 +1379,4 @@ void omap4iss_csi2_cleanup(struct iss_device *iss)
 	omap4iss_video_cleanup(&csi2b->video_out);
 	media_entity_cleanup(&csi2b->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

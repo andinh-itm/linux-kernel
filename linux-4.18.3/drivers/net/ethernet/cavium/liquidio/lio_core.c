@@ -1677,3 +1677,4 @@ int liquidio_get_speed(struct lio *lio)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

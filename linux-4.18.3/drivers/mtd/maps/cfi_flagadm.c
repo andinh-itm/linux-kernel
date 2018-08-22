@@ -135,3 +135,4 @@ module_exit(cleanup_flagadm);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kári Davíðsson <kd@flaga.is>");
 MODULE_DESCRIPTION("MTD map driver for Flaga digital module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -118,3 +118,4 @@ void __init colibri_evalboard_init(void)
 	colibri_uhc_init();
 	colibri_rtc_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

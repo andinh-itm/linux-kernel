@@ -427,3 +427,4 @@ module_spi_driver(ad5761_driver);
 MODULE_AUTHOR("Ricardo Ribalda <ricardo.ribalda@gmail.com>");
 MODULE_DESCRIPTION("Analog Devices AD5721, AD5721R, AD5761, AD5761R driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

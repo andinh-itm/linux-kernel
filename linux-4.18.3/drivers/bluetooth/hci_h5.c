@@ -759,3 +759,4 @@ int __exit h5_deinit(void)
 {
 	return hci_uart_unregister_proto(&h5p);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

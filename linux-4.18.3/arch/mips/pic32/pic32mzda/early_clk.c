@@ -104,3 +104,4 @@ u32 pic32_get_pbclk(int bus)
 
 	return clk_freq / pbdiv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

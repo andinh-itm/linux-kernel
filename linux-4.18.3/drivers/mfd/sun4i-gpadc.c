@@ -179,3 +179,4 @@ module_platform_driver(sun4i_gpadc_driver);
 MODULE_DESCRIPTION("Allwinner sunxi platforms' GPADC MFD core driver");
 MODULE_AUTHOR("Quentin Schulz <quentin.schulz@free-electrons.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

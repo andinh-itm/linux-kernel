@@ -769,3 +769,4 @@ void mmhub_v1_0_get_clockgating(struct amdgpu_device *adev, u32 *flags)
 	if (data & ATC_L2_MISC_CG__MEM_LS_ENABLE_MASK)
 		*flags |= AMD_CG_SUPPORT_MC_LS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

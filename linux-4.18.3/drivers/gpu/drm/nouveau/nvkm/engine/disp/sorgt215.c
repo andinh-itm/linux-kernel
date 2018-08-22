@@ -67,3 +67,4 @@ gt215_sor_new(struct nvkm_disp *disp, int id)
 {
 	return nvkm_ior_new_(&gt215_sor, disp, SOR, id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

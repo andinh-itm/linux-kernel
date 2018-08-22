@@ -47,3 +47,4 @@ static const struct smp_operations alpine_smp_ops __initconst = {
 	.smp_boot_secondary	= alpine_boot_secondary,
 };
 CPU_METHOD_OF_DECLARE(alpine_smp, "al,alpine-smp", &alpine_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

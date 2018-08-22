@@ -275,3 +275,4 @@ static struct platform_driver jazz_sonic_driver = {
 };
 
 module_platform_driver(jazz_sonic_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

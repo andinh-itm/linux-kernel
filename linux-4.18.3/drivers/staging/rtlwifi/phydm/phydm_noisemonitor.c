@@ -317,3 +317,4 @@ s16 odm_inband_noise_monitor(void *dm_void, u8 is_pause_dig, u8 igi_value,
 		return odm_inband_noise_monitor_n_series(dm, is_pause_dig,
 							 igi_value, max_time);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

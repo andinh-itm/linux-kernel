@@ -596,3 +596,4 @@ module_platform_driver(mtk_crypto_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ryder Lee <ryder.lee@mediatek.com>");
 MODULE_DESCRIPTION("Cryptographic accelerator driver for EIP97");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

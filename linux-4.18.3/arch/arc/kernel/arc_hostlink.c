@@ -56,3 +56,4 @@ static int __init arc_hl_init(void)
 	return misc_register(&arc_hl_dev);
 }
 module_init(arc_hl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -934,3 +934,4 @@ ssize_t iio_write_channel_ext_info(struct iio_channel *chan, const char *attr,
 			       chan->channel, buf, len);
 }
 EXPORT_SYMBOL_GPL(iio_write_channel_ext_info);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

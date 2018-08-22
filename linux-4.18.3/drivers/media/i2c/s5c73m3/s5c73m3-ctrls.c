@@ -561,3 +561,4 @@ int s5c73m3_init_controls(struct s5c73m3 *state)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

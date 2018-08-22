@@ -213,3 +213,4 @@ void *memmove(void *v_dst, const void *v_src, __kernel_size_t c)
 #endif /* CONFIG_OPT_LIB_FUNCTION */
 EXPORT_SYMBOL(memmove);
 #endif /* __HAVE_ARCH_MEMMOVE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

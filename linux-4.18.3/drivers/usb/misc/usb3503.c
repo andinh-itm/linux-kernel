@@ -447,3 +447,4 @@ module_exit(usb3503_exit);
 MODULE_AUTHOR("Dongjin Kim <tobetter@gmail.com>");
 MODULE_DESCRIPTION("USB3503 USB HUB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

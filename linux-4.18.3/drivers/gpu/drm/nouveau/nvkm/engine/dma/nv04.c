@@ -34,3 +34,4 @@ nv04_dma_new(struct nvkm_device *device, int index, struct nvkm_dma **pdma)
 {
 	return nvkm_dma_new_(&nv04_dma, device, index, pdma);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

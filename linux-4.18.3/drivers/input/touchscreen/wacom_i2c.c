@@ -283,3 +283,4 @@ module_i2c_driver(wacom_i2c_driver);
 MODULE_AUTHOR("Tatsunosuke Tobita <tobita.tatsunosuke@wacom.co.jp>");
 MODULE_DESCRIPTION("WACOM EMR I2C Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

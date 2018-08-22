@@ -43,3 +43,4 @@ static __init int rng_init(void)
 	return 0;
 }
 machine_subsys_initcall(pseries, rng_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

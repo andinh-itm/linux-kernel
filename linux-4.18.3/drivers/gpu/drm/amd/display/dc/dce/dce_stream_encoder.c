@@ -1613,3 +1613,4 @@ void dce110_stream_encoder_construct(
 	enc110->se_shift = se_shift;
 	enc110->se_mask = se_mask;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

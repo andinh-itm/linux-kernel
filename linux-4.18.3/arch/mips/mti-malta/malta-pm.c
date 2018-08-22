@@ -94,3 +94,4 @@ static int __init malta_pm_setup(void)
 }
 
 late_initcall(malta_pm_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

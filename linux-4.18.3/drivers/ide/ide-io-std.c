@@ -259,3 +259,4 @@ const struct ide_tp_ops default_tp_ops = {
 	.input_data		= ide_input_data,
 	.output_data		= ide_output_data,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

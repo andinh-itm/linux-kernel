@@ -163,3 +163,4 @@ module_spi_driver(max31722_driver);
 MODULE_AUTHOR("Tiberiu Breana <tiberiu.a.breana@intel.com>");
 MODULE_DESCRIPTION("max31722 sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

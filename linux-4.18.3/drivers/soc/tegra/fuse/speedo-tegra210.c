@@ -182,3 +182,4 @@ void __init tegra210_init_speedo_data(struct tegra_sku_info *sku_info)
 	pr_debug("Tegra GPU Speedo ID=%d, Speedo Value=%d\n",
 		 sku_info->gpu_speedo_id, sku_info->gpu_speedo_value);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

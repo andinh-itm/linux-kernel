@@ -128,3 +128,4 @@ EXPORT_SYMBOL(cypress_load_firmware);
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("Cypress firmware download");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

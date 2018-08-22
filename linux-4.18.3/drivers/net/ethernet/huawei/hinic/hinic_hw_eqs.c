@@ -884,3 +884,4 @@ void hinic_ceqs_free(struct hinic_ceqs *ceqs)
 	for (q_id = 0; q_id < ceqs->num_ceqs; q_id++)
 		remove_eq(&ceqs->ceq[q_id]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

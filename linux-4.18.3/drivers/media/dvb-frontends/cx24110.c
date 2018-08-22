@@ -667,3 +667,4 @@ MODULE_AUTHOR("Peter Hettkamp");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(cx24110_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

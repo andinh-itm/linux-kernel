@@ -40,3 +40,4 @@ nv44_ram_new(struct nvkm_fb *fb, struct nvkm_ram **pram)
 
 	return nv40_ram_new_(fb, type, size, pram);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

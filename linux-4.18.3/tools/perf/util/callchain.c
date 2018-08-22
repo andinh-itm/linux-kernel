@@ -1569,3 +1569,4 @@ int callchain_cursor__copy(struct callchain_cursor *dst,
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

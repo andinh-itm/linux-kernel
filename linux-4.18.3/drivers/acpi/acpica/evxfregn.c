@@ -227,3 +227,4 @@ unlock_and_exit:
 }
 
 ACPI_EXPORT_SYMBOL(acpi_remove_address_space_handler)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

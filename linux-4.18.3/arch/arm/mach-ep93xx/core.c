@@ -1002,3 +1002,4 @@ void __init ep93xx_init_late(void)
 {
 	crunch_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

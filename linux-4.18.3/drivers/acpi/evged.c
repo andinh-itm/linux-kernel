@@ -187,3 +187,4 @@ static struct platform_driver ged_driver = {
 	},
 };
 builtin_platform_driver(ged_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

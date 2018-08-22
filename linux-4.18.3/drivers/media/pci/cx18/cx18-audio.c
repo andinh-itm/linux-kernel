@@ -85,3 +85,4 @@ int cx18_audio_set_io(struct cx18 *cx)
 			      v, CX18_AI1_MUX_MASK);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

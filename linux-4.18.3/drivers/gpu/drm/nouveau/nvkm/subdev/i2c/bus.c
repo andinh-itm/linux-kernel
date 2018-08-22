@@ -243,3 +243,4 @@ nvkm_i2c_bus_new_(const struct nvkm_i2c_bus_func *func,
 		return -ENOMEM;
 	return nvkm_i2c_bus_ctor(func, pad, id, *pbus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

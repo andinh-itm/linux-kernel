@@ -577,3 +577,4 @@ module_platform_driver(lcc_msm8960_driver);
 MODULE_DESCRIPTION("QCOM LCC MSM8960 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:lcc-msm8960");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

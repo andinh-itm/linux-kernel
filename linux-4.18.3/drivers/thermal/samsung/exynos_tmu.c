@@ -1206,3 +1206,4 @@ MODULE_DESCRIPTION("EXYNOS TMU Driver");
 MODULE_AUTHOR("Donggeun Kim <dg77.kim@samsung.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:exynos-tmu");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -483,3 +483,4 @@ void __init yama_add_hooks(void)
 	security_add_hooks(yama_hooks, ARRAY_SIZE(yama_hooks), "yama");
 	yama_init_sysctl();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

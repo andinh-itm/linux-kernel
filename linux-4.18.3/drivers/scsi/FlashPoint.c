@@ -7586,3 +7586,4 @@ extern int FlashPoint_HandleInterrupt(void *);
 extern void FlashPoint_ReleaseHostAdapter(void *);
 
 #endif				/* CONFIG_SCSI_FLASHPOINT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

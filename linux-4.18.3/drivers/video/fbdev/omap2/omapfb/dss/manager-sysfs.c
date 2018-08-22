@@ -523,3 +523,4 @@ void dss_manager_kobj_uninit(struct omap_overlay_manager *mgr)
 
 	memset(&mgr->kobj, 0, sizeof(mgr->kobj));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

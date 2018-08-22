@@ -1501,3 +1501,4 @@ module_exit(sirfsoc_uart_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Bin Shi <Bin.Shi@csr.com>, Rong Wang<Rong.Wang@csr.com>");
 MODULE_DESCRIPTION("CSR SiRFprimaII Uart Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

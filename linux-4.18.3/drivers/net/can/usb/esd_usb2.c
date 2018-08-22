@@ -1151,3 +1151,4 @@ static struct usb_driver esd_usb2_driver = {
 };
 
 module_usb_driver(esd_usb2_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

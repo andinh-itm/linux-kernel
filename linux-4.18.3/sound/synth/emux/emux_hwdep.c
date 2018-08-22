@@ -151,3 +151,4 @@ snd_emux_delete_hwdep(struct snd_emux *emu)
 		emu->hwdep = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

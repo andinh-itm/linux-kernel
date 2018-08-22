@@ -193,3 +193,4 @@ module_amba_driver(arm_mhu_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ARM MHU Driver");
 MODULE_AUTHOR("Jassi Brar <jassisinghbrar@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

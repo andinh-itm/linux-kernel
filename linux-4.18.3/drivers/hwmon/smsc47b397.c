@@ -372,3 +372,4 @@ MODULE_LICENSE("GPL");
 
 module_init(smsc47b397_init);
 module_exit(smsc47b397_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

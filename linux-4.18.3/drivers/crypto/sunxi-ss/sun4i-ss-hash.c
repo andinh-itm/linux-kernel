@@ -521,3 +521,4 @@ int sun4i_hash_digest(struct ahash_request *areq)
 	op->flags = SS_HASH_UPDATE | SS_HASH_FINAL;
 	return sun4i_hash(areq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

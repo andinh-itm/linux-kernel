@@ -6515,3 +6515,4 @@ void intel_dp_mst_resume(struct drm_device *dev)
 			intel_dp_check_mst_status(&intel_dig_port->dp);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -348,3 +348,4 @@ struct platform_device pxa168_device_u2ootg = {
 #endif /* CONFIG_USB_MV_OTG */
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

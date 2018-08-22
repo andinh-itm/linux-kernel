@@ -598,3 +598,4 @@ MODULE_AUTHOR("Benjamin Herrenschmidt <benh@kernel.crashing.org>");
 MODULE_DESCRIPTION("FCU control objects for PowerMacs thermal control");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

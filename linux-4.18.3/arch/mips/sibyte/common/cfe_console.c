@@ -79,3 +79,4 @@ static int __init sb1250_cfe_console_init(void)
 }
 
 console_initcall(sb1250_cfe_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -921,3 +921,4 @@ const struct drm_ioctl_desc radeon_ioctls_kms[] = {
 	DRM_IOCTL_DEF_DRV(RADEON_GEM_USERPTR, radeon_gem_userptr_ioctl, DRM_AUTH|DRM_RENDER_ALLOW),
 };
 int radeon_max_kms_ioctl = ARRAY_SIZE(radeon_ioctls_kms);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

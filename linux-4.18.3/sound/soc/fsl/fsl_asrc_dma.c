@@ -391,3 +391,4 @@ struct snd_soc_component_driver fsl_asrc_component = {
 	.pcm_free	= fsl_asrc_dma_pcm_free,
 };
 EXPORT_SYMBOL_GPL(fsl_asrc_component);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

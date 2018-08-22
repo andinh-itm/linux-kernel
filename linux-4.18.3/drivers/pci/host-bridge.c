@@ -98,3 +98,4 @@ void pcibios_bus_to_resource(struct pci_bus *bus, struct resource *res,
 	res->end = region->end + offset;
 }
 EXPORT_SYMBOL(pcibios_bus_to_resource);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

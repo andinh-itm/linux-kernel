@@ -828,3 +828,4 @@ static int __init sh_pfc_init(void)
 	return platform_driver_register(&sh_pfc_driver);
 }
 postcore_initcall(sh_pfc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

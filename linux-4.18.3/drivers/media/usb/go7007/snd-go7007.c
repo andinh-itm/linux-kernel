@@ -296,3 +296,4 @@ int go7007_snd_remove(struct go7007 *go)
 EXPORT_SYMBOL(go7007_snd_remove);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

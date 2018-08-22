@@ -222,3 +222,4 @@ define_machine(mpc885_ads) {
 	.calibrate_decr		= mpc8xx_calibrate_decr,
 	.progress		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

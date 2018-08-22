@@ -2974,3 +2974,4 @@ struct irq_domain *octeon_irq_get_block_domain(int node, uint8_t block)
 	return ciu3_info->domain[block];
 }
 EXPORT_SYMBOL(octeon_irq_get_block_domain);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

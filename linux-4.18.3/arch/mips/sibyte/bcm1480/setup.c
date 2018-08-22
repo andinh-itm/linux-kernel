@@ -139,3 +139,4 @@ void __init bcm1480_setup(void)
 		    soc_str, pass_str, zbbus_mhz * 2, sb1_pass);
 	printk("Board type: %s\n", get_system_type());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

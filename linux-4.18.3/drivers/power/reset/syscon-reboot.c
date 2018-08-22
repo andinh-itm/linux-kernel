@@ -89,3 +89,4 @@ static struct platform_driver syscon_reboot_driver = {
 	},
 };
 builtin_platform_driver(syscon_reboot_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

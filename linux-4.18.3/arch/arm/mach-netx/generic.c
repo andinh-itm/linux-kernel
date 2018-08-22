@@ -192,3 +192,4 @@ void netx_restart(enum reboot_mode mode, const char *cmd)
 	writel(NETX_SYSTEM_RES_CR_FIRMW_RES_EN | NETX_SYSTEM_RES_CR_FIRMW_RES,
 	       NETX_SYSTEM_RES_CR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

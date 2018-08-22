@@ -185,3 +185,4 @@ void __init prom_identify_arch(u32 magic)
 	else
 		printk("This is a %s\n", dec_system_strings[mips_machtype]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

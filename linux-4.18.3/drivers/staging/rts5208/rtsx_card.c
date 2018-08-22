@@ -1213,3 +1213,4 @@ void eject_card(struct rtsx_chip *chip, unsigned int lun)
 		chip->capacity[lun] = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -382,3 +382,4 @@ const char *scsi_dh_attached_handler_name(struct request_queue *q, gfp_t gfp)
 	return handler_name;
 }
 EXPORT_SYMBOL_GPL(scsi_dh_attached_handler_name);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

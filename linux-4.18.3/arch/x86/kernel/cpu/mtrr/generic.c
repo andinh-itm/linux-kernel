@@ -911,3 +911,4 @@ const struct mtrr_ops generic_mtrr_ops = {
 	.validate_add_page	= generic_validate_add_page,
 	.have_wrcomb		= generic_have_wrcomb,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

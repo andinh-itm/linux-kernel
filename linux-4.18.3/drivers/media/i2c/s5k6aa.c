@@ -1651,3 +1651,4 @@ module_i2c_driver(s5k6aa_i2c_driver);
 MODULE_DESCRIPTION("Samsung S5K6AA(FX) SXGA camera driver");
 MODULE_AUTHOR("Sylwester Nawrocki <s.nawrocki@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

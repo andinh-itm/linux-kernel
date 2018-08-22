@@ -317,3 +317,4 @@ static struct platform_driver stmpe_pwm_driver = {
 	},
 };
 builtin_platform_driver_probe(stmpe_pwm_driver, stmpe_pwm_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

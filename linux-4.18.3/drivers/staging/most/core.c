@@ -1626,3 +1626,4 @@ module_exit(most_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Christian Gromm <christian.gromm@microchip.com>");
 MODULE_DESCRIPTION("Core module of stacked MOST Linux driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

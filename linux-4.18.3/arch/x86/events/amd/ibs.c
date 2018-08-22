@@ -1026,3 +1026,4 @@ static __init int amd_ibs_init(void)
 
 /* Since we need the pci subsystem to init ibs we can't do this earlier: */
 device_initcall(amd_ibs_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

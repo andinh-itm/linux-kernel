@@ -329,3 +329,4 @@ int is_swap_enabled(void)
 
 	return cnt > 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -212,3 +212,4 @@ module_platform_driver(hi6421v530_regulator_driver);
 MODULE_AUTHOR("Wang Xiaoyin <hw.wangxiaoyin@hisilicon.com>");
 MODULE_DESCRIPTION("Hi6421v530 regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

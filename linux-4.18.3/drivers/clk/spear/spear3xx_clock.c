@@ -665,3 +665,4 @@ void __init spear3xx_clk_init(void __iomem *misc_base, void __iomem *soc_config_
 	else if (of_machine_is_compatible("st,spear320"))
 		spear320_clk_init(soc_config_base, ras_apb_clk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

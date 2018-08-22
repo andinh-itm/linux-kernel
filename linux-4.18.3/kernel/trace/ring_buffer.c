@@ -5170,3 +5170,4 @@ static __init int test_ringbuffer(void)
 
 late_initcall(test_ringbuffer);
 #endif /* CONFIG_RING_BUFFER_STARTUP_TEST */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

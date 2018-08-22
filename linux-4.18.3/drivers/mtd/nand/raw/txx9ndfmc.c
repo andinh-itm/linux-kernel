@@ -421,3 +421,4 @@ module_platform_driver_probe(txx9ndfmc_driver, txx9ndfmc_probe);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("TXx9 SoC NAND flash controller driver");
 MODULE_ALIAS("platform:txx9ndfmc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -38,3 +38,4 @@ static int __init casio_e55_setup(void)
 }
 
 arch_initcall(casio_e55_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

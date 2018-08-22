@@ -38,3 +38,4 @@ struct platform_device *__init imx_add_mx2_emmaprp(
 	return imx_add_platform_device_dmamask("m2m-emmaprp", 0,
 			res, 2, NULL, 0, DMA_BIT_MASK(32));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

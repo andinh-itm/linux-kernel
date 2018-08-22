@@ -719,3 +719,4 @@ module_platform_driver(cpm_i2c_driver);
 MODULE_AUTHOR("Jochen Friedrich <jochen@scram.de>");
 MODULE_DESCRIPTION("I2C-Bus adapter routines for CPM boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

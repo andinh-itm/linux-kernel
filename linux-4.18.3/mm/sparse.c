@@ -871,3 +871,4 @@ void sparse_remove_one_section(struct zone *zone, struct mem_section *ms,
 }
 #endif /* CONFIG_MEMORY_HOTREMOVE */
 #endif /* CONFIG_MEMORY_HOTPLUG */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

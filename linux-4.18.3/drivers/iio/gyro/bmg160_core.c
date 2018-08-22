@@ -1267,3 +1267,4 @@ EXPORT_SYMBOL_GPL(bmg160_pm_ops);
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("BMG160 Gyro driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

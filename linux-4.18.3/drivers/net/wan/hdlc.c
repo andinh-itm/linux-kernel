@@ -391,3 +391,4 @@ static void __exit hdlc_module_exit(void)
 
 module_init(hdlc_module_init);
 module_exit(hdlc_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

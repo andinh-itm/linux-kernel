@@ -614,3 +614,4 @@ module_comedi_driver(dmm32at_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi: Diamond Systems Diamond-MM-32-AT");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

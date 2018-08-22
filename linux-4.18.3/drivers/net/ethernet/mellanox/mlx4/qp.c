@@ -963,3 +963,4 @@ u16 mlx4_qp_roce_entropy(struct mlx4_dev *dev, u32 qpn)
 	}
 	return 0xdead;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

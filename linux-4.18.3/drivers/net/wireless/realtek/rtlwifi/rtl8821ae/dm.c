@@ -2987,3 +2987,4 @@ void rtl8821ae_dm_set_tx_ant_by_tx_info(struct ieee80211_hw *hw,
 	if (rtlefuse->antenna_div_type == CG_TRX_HW_ANTDIV)
 		SET_TX_DESC_TX_ANT(pdesc, pfat_table->antsel_a[mac_id]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

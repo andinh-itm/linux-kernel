@@ -306,3 +306,4 @@ int __init omap4_pm_init(void)
 err2:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -143,3 +143,4 @@ void __init set_cpuinfo_static(struct cpuinfo *ci, struct device_node *cpu)
 		/* Hardware Multiplier in use */
 		ci->use_mult = 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

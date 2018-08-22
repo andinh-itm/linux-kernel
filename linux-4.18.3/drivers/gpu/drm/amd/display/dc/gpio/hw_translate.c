@@ -89,3 +89,4 @@ bool dal_hw_translate_init(
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

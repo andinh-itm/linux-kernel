@@ -133,3 +133,4 @@ intel_attach_aspect_ratio_property(struct drm_connector *connector)
 			connector->dev->mode_config.aspect_ratio_property,
 			DRM_MODE_PICTURE_ASPECT_NONE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

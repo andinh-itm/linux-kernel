@@ -423,3 +423,4 @@ static void __exit snd_efw_exit(void)
 
 module_init(snd_efw_init);
 module_exit(snd_efw_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

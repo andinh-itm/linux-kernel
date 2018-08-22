@@ -75,3 +75,4 @@ const struct nand_manufacturer_ops toshiba_nand_manuf_ops = {
 	.detect = toshiba_nand_decode_id,
 	.init = toshiba_nand_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

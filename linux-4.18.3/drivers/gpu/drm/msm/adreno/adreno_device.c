@@ -338,3 +338,4 @@ void __exit adreno_unregister(void)
 {
 	platform_driver_unregister(&adreno_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

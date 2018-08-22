@@ -923,3 +923,4 @@ static void __exit alsa_akm4xxx_module_exit(void)
         
 module_init(alsa_akm4xxx_module_init)
 module_exit(alsa_akm4xxx_module_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

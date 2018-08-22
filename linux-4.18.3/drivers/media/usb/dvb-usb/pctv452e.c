@@ -1100,3 +1100,4 @@ MODULE_AUTHOR("Andre Weidemann <Andre.Weidemann@web.de>");
 MODULE_AUTHOR("Michael H. Schimek <mschimek@gmx.at>");
 MODULE_DESCRIPTION("Pinnacle PCTV HDTV USB DVB / TT connect S2-3600 Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

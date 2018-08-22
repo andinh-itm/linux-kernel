@@ -789,3 +789,4 @@ MODULE_PARM_DESC(txcrc, "Transmit CRC with every BCSP packet");
 
 module_param(hciextn, bool, 0644);
 MODULE_PARM_DESC(hciextn, "Convert HCI Extensions into BCSP packets");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

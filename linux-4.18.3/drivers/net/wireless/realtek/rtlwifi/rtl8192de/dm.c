@@ -1310,3 +1310,4 @@ void rtl92d_dm_watchdog(struct ieee80211_hw *hw)
 		rtl92d_dm_check_edca_turbo(hw);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

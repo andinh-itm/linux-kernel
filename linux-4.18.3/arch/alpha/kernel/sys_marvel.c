@@ -469,3 +469,4 @@ struct alpha_machine_vector marvel_ev7_mv __initmv = {
 	.node_mem_size		= marvel_node_mem_size,
 };
 ALIAS_MV(marvel_ev7)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

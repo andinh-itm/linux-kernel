@@ -105,3 +105,4 @@ int __init ativic32_init_irq(struct device_node *node, struct device_node *paren
 	return 0;
 }
 IRQCHIP_DECLARE(ativic32, "andestech,ativic32", ativic32_init_irq);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

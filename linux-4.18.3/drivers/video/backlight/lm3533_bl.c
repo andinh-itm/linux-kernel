@@ -409,3 +409,4 @@ MODULE_AUTHOR("Johan Hovold <jhovold@gmail.com>");
 MODULE_DESCRIPTION("LM3533 Backlight driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lm3533-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

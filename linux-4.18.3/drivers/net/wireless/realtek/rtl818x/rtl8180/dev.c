@@ -1997,3 +1997,4 @@ static struct pci_driver rtl8180_driver = {
 };
 
 module_pci_driver(rtl8180_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

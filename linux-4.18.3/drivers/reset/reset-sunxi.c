@@ -85,3 +85,4 @@ void __init sun6i_reset_init(void)
 	for_each_matching_node(np, sunxi_early_reset_dt_ids)
 		sunxi_reset_init(np);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

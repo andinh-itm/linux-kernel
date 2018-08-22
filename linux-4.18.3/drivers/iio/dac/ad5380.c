@@ -649,3 +649,4 @@ module_exit(ad5380_spi_exit);
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("Analog Devices AD5380/81/82/83/84/90/91/92 DAC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

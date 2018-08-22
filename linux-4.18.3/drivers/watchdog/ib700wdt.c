@@ -380,3 +380,4 @@ MODULE_DESCRIPTION("IB700 SBC watchdog driver");
 MODULE_LICENSE("GPL");
 
 /* end of ib700wdt.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

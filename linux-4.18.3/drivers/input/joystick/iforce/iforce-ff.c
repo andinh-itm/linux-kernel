@@ -541,3 +541,4 @@ int iforce_upload_condition(struct iforce *iforce, struct ff_effect *effect, str
 	 */
 	return core_err < 0 ? core_err : param_err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -13,3 +13,4 @@ int main(int argc, char *argv[])
 	} while (!__sync_bool_compare_and_swap(&x, old, new));
 	return old == new;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

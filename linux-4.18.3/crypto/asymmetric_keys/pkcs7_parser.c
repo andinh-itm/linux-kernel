@@ -683,3 +683,4 @@ int pkcs7_note_signed_info(void *context, size_t hdrlen,
 		return -ENOMEM;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

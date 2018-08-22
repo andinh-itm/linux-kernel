@@ -671,3 +671,4 @@ module_i2c_driver(ak4671_i2c_driver);
 MODULE_DESCRIPTION("ASoC AK4671 codec driver");
 MODULE_AUTHOR("Joonyoung Shim <jy0922.shim@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

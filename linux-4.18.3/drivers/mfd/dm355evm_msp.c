@@ -433,3 +433,4 @@ module_exit(dm355evm_msp_exit);
 
 MODULE_DESCRIPTION("Interface to MSP430 firmware on DM355EVM");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

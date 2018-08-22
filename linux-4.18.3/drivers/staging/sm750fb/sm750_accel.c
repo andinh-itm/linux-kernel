@@ -393,3 +393,4 @@ int sm750_hw_imageblit(struct lynx_accel *accel,
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

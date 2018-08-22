@@ -433,3 +433,4 @@ static int subcore_init(void)
 				  &dev_attr_subcores_per_core);
 }
 machine_device_initcall(powernv, subcore_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

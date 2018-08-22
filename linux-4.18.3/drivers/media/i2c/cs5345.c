@@ -215,3 +215,4 @@ static struct i2c_driver cs5345_driver = {
 };
 
 module_i2c_driver(cs5345_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

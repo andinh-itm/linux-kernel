@@ -126,3 +126,4 @@ SYSCALL_DEFINE2(s390_guarded_storage, int, command,
 		return -EINVAL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

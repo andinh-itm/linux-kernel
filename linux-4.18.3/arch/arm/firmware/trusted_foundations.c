@@ -97,3 +97,4 @@ void of_register_trusted_foundations(void)
 		panic("Trusted Foundation: missing version-minor property\n");
 	register_trusted_foundations(&pdata);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

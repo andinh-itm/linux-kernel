@@ -42,3 +42,4 @@ int smt_on(void)
 	}
 	return cached_result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

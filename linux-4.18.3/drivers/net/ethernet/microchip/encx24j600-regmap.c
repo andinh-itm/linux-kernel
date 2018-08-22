@@ -516,3 +516,4 @@ void devm_regmap_init_encx24j600(struct device *dev,
 EXPORT_SYMBOL_GPL(devm_regmap_init_encx24j600);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

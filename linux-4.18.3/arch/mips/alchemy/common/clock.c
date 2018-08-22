@@ -1108,3 +1108,4 @@ out:
 	return ret;
 }
 postcore_initcall(alchemy_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

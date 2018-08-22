@@ -323,3 +323,4 @@ void snd_efw_transaction_unregister(void)
 	WARN_ON(!list_empty(&transaction_queues));
 	fw_core_remove_address_handler(&resp_register_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -512,3 +512,4 @@ module_i2c_driver(is31fl32xx_driver);
 MODULE_AUTHOR("David Rivshin <drivshin@allworx.com>");
 MODULE_DESCRIPTION("ISSI IS31FL32xx LED driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

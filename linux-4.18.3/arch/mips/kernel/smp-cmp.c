@@ -157,3 +157,4 @@ const struct plat_smp_ops cmp_smp_ops = {
 	.smp_setup		= cmp_smp_setup,
 	.prepare_cpus		= cmp_prepare_cpus,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

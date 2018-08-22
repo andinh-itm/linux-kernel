@@ -648,3 +648,4 @@ static struct platform_driver hisi_lpc_driver = {
 	.probe = hisi_lpc_probe,
 };
 builtin_platform_driver(hisi_lpc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

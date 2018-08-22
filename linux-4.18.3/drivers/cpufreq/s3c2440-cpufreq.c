@@ -307,3 +307,4 @@ static int s3c2442_cpufreq_init(void)
 	return subsys_interface_register(&s3c2442_cpufreq_interface);
 }
 subsys_initcall(s3c2442_cpufreq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

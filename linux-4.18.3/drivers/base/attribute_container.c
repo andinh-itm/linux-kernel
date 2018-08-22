@@ -439,3 +439,4 @@ attribute_container_find_class_device(struct attribute_container *cont,
 	return cdev;
 }
 EXPORT_SYMBOL_GPL(attribute_container_find_class_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

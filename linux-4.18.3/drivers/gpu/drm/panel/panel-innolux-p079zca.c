@@ -320,3 +320,4 @@ module_mipi_dsi_driver(innolux_panel_driver);
 MODULE_AUTHOR("Chris Zhong <zyw@rock-chips.com>");
 MODULE_DESCRIPTION("Innolux P079ZCA panel driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

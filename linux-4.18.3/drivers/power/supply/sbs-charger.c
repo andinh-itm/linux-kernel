@@ -269,3 +269,4 @@ module_i2c_driver(sbs_driver);
 MODULE_AUTHOR("Nicolas Saenz Julienne <nicolassaenzj@gmail.com>");
 MODULE_DESCRIPTION("SBS smart charger driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

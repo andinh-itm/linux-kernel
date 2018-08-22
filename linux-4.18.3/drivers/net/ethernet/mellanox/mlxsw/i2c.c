@@ -581,3 +581,4 @@ EXPORT_SYMBOL(mlxsw_i2c_driver_unregister);
 MODULE_AUTHOR("Vadim Pasternak <vadimp@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox switch I2C interface driver");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

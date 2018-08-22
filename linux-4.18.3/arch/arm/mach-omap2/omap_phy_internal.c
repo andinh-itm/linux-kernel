@@ -152,3 +152,4 @@ void am35x_set_mode(u8 musb_mode)
 
 	omap_ctrl_writel(devconf2, AM35XX_CONTROL_DEVCONF2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

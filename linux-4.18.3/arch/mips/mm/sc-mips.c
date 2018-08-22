@@ -247,3 +247,4 @@ int mips_sc_init(void)
 	}
 	return found;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

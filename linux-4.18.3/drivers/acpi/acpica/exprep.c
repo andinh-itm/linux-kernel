@@ -601,3 +601,4 @@ acpi_status acpi_ex_prep_field_value(struct acpi_create_field_info *info)
 	acpi_ut_remove_reference(obj_desc);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

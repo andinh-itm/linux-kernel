@@ -711,3 +711,4 @@ int host1x_client_unregister(struct host1x_client *client)
 	return 0;
 }
 EXPORT_SYMBOL(host1x_client_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

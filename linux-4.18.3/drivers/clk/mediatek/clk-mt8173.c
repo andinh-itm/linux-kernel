@@ -1219,3 +1219,4 @@ static void __init mtk_vencltsys_init(struct device_node *node)
 			__func__, r);
 }
 CLK_OF_DECLARE(mtk_vencltsys, "mediatek,mt8173-vencltsys", mtk_vencltsys_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

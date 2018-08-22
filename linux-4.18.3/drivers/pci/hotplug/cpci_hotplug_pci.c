@@ -314,3 +314,4 @@ int cpci_unconfigure_slot(struct slot *slot)
 	dbg("%s - exit", __func__);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

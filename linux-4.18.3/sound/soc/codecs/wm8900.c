@@ -1354,3 +1354,4 @@ module_exit(wm8900_exit);
 MODULE_DESCRIPTION("ASoC WM8900 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -517,3 +517,4 @@ static void __init of_sama5d4_sckc_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(sama5d4_clk_sckc, "atmel,sama5d4-sckc",
 	       of_sama5d4_sckc_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

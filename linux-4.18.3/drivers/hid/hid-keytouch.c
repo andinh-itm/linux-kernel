@@ -53,3 +53,4 @@ module_hid_driver(keytouch_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jiri Kosina");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

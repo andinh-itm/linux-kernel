@@ -385,3 +385,4 @@ MODULE_AUTHOR("NeilBrown <neilb@suse.de>");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("OMAP PWM Driver using Dual-mode Timers");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

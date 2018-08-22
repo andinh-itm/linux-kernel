@@ -1143,3 +1143,4 @@ MODULE_AUTHOR("Luca Olivetti <luca@ventoso.org>");
 MODULE_DESCRIPTION("Driver for Afatech 9005 DVB-T USB1.1 stick");
 MODULE_VERSION("1.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

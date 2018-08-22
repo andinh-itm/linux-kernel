@@ -527,3 +527,4 @@ int phy_modify_paged(struct phy_device *phydev, int page, u32 regnum,
 	return phy_restore_page(phydev, oldpage, ret);
 }
 EXPORT_SYMBOL(phy_modify_paged);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

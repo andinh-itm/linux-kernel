@@ -498,3 +498,4 @@ module_exit(ohci_s3c2410_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:s3c2410-ohci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

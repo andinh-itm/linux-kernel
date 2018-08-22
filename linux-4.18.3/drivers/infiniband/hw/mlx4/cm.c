@@ -478,3 +478,4 @@ void mlx4_ib_cm_paravirt_clean(struct mlx4_ib_dev *dev, int slave)
 		kfree(map);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

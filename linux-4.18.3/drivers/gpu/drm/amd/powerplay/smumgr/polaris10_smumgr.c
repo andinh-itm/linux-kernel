@@ -2593,3 +2593,4 @@ const struct pp_smumgr_func polaris10_smu_funcs = {
 	.is_hw_avfs_present = polaris10_is_hw_avfs_present,
 	.update_dpm_settings = polaris10_update_dpm_settings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

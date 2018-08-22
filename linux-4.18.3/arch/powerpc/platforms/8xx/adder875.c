@@ -113,3 +113,4 @@ define_machine(adder875) {
 	.calibrate_decr = generic_calibrate_decr,
 	.progress = udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

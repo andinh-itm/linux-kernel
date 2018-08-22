@@ -402,3 +402,4 @@ void __init davinci_timer_init(void)
 	for (i=0; i< ARRAY_SIZE(timers); i++)
 		timer32_config(&timers[i]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

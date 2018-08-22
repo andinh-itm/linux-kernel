@@ -180,3 +180,4 @@ unsigned bcm_kona_smc(unsigned service_id, unsigned arg0, unsigned arg1,
 
 	return data.result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

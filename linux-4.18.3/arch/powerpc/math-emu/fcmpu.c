@@ -43,3 +43,4 @@ fcmpu(u32 *ccr, int crfD, void *frA, void *frB)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

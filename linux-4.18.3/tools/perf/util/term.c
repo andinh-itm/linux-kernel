@@ -38,3 +38,4 @@ void set_term_quiet_input(struct termios *old)
 	tc.c_cc[VTIME] = 0;
 	tcsetattr(0, TCSANOW, &tc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

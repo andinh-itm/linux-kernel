@@ -97,3 +97,4 @@ const char *ath_bus_type_strings[] = {
 	[ATH_USB] = "usb",
 };
 EXPORT_SYMBOL(ath_bus_type_strings);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

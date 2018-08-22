@@ -589,3 +589,4 @@ const struct amdgpu_ip_block_version psp_v10_0_ip_block =
 	.rev = 0,
 	.funcs = &psp_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

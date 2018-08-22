@@ -1168,3 +1168,4 @@ investigate_write_descriptor(struct net_device *dev,
 }
 
 module_pci_driver(xircom_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

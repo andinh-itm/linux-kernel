@@ -776,3 +776,4 @@ MODULE_DESCRIPTION("EP93xx SPI Controller driver");
 MODULE_AUTHOR("Mika Westerberg <mika.westerberg@iki.fi>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ep93xx-spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

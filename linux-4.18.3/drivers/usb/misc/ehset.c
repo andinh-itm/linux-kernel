@@ -142,3 +142,4 @@ module_usb_driver(ehset_driver);
 
 MODULE_DESCRIPTION("USB Driver for EHSET Test Fixture");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

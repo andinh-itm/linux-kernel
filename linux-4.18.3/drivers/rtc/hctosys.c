@@ -73,3 +73,4 @@ err_open:
 }
 
 late_initcall(rtc_hctosys);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

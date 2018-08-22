@@ -126,3 +126,4 @@ int uvc_mc_register_entities(struct uvc_video_chain *chain)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

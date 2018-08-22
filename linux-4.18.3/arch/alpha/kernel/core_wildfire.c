@@ -656,3 +656,4 @@ wildfire_dump_hardware_config(void)
 	printk("\n");
 }
 #endif /* DUMP_CONFIG */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -81,3 +81,4 @@ static struct platform_driver calxeda_cpuidle_plat_driver = {
         .probe = calxeda_cpuidle_probe,
 };
 builtin_platform_driver(calxeda_cpuidle_plat_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

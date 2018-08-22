@@ -157,3 +157,4 @@ void ath6kl_recovery_resume(struct ath6kl *ar)
 	mod_timer(&ar->fw_recovery.hb_timer,
 		  jiffies + msecs_to_jiffies(ar->fw_recovery.hb_poll));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

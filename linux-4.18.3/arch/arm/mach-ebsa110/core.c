@@ -327,3 +327,4 @@ MACHINE_START(EBSA110, "EBSA110")
 	.init_time	= ebsa110_timer_init,
 	.restart	= ebsa110_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

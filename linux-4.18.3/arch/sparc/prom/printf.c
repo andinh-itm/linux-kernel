@@ -68,3 +68,4 @@ void notrace prom_printf(const char *fmt, ...)
 
 	prom_write(ppbuf, i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

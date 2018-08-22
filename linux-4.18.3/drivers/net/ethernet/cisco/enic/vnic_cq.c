@@ -90,3 +90,4 @@ void vnic_cq_clean(struct vnic_cq *cq)
 
 	vnic_dev_clear_desc_ring(&cq->ring);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -341,3 +341,4 @@ MODULE_AUTHOR("Richard Purdie");
 MODULE_DESCRIPTION("ALSA SoC Spitz");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:spitz-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

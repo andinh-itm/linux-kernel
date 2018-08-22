@@ -145,3 +145,4 @@ const struct kexec_file_ops s390_kexec_elf_ops = {
 	.probe = s390_elf_probe,
 	.load = s390_elf_load,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

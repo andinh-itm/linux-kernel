@@ -9943,3 +9943,4 @@ MODULE_AUTHOR("QLogic Corporation");
 MODULE_DESCRIPTION("QLogic iSCSI HBA Driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(QLA4XXX_DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

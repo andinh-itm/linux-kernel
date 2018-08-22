@@ -39,3 +39,4 @@ void prom_putchar(char c)
 
 	serial_out(uart_base, UART_TX, c);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

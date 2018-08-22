@@ -318,3 +318,4 @@ module_platform_driver(ast_kcs_bmc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Haiyue Wang <haiyue.wang@linux.intel.com>");
 MODULE_DESCRIPTION("Aspeed device interface to the KCS BMC device");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1185,3 +1185,4 @@ module_exit(sdio_uart_exit);
 
 MODULE_AUTHOR("Nicolas Pitre");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

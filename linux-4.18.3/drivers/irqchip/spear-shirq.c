@@ -286,3 +286,4 @@ static int __init spear320_shirq_of_init(struct device_node *np,
 			ARRAY_SIZE(spear320_shirq_blocks), np);
 }
 IRQCHIP_DECLARE(spear320_shirq, "st,spear320-shirq", spear320_shirq_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

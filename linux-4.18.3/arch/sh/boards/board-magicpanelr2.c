@@ -391,3 +391,4 @@ static struct sh_machine_vector mv_mpr2 __initmv = {
 	.mv_setup		= mpr2_setup,
 	.mv_init_irq		= init_mpr2_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

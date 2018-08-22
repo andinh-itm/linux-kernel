@@ -205,3 +205,4 @@ void b43_sdio_exit(void)
 {
 	sdio_unregister_driver(&b43_sdio_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

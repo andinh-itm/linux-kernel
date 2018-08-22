@@ -958,3 +958,4 @@ size_t HUF_decompress1X_DCtx_wksp(HUF_DTable *dctx, void *dst, size_t dstSize, c
 			      : HUF_decompress1X2_DCtx_wksp(dctx, dst, dstSize, cSrc, cSrcSize, workspace, workspaceSize);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

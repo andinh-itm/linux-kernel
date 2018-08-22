@@ -787,3 +787,4 @@ MODULE_AUTHOR("David Herrmann <dh.herrmann@gmail.com>");
 MODULE_DESCRIPTION("User-space I/O driver support for HID subsystem");
 MODULE_ALIAS_MISCDEV(UHID_MINOR);
 MODULE_ALIAS("devname:" UHID_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

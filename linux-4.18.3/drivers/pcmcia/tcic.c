@@ -803,3 +803,4 @@ static struct pccard_operations tcic_operations = {
 
 module_init(init_tcic);
 module_exit(exit_tcic);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

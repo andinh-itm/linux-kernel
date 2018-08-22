@@ -1911,3 +1911,4 @@ void __ref remove_memory(int nid, u64 start, u64 size)
 }
 EXPORT_SYMBOL_GPL(remove_memory);
 #endif /* CONFIG_MEMORY_HOTREMOVE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

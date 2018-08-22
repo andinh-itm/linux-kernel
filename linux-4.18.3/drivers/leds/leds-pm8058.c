@@ -189,3 +189,4 @@ module_platform_driver(pm8058_led_driver);
 MODULE_DESCRIPTION("PM8058 LEDs driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:pm8058-leds");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

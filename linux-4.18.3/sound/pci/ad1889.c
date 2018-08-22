@@ -1049,3 +1049,4 @@ static struct pci_driver ad1889_pci_driver = {
 };
 
 module_pci_driver(ad1889_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

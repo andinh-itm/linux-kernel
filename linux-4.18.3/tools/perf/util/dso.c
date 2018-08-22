@@ -1526,3 +1526,4 @@ int dso__strerror_load(struct dso *dso, char *buf, size_t buflen)
 	scnprintf(buf, buflen, "%s", dso_load__error_str[idx]);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

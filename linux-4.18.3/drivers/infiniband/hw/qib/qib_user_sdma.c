@@ -1463,3 +1463,4 @@ u32 qib_user_sdma_inflight_counter(struct qib_user_sdma_queue *pq)
 {
 	return pq ? pq->counter : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

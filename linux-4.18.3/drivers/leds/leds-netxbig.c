@@ -594,3 +594,4 @@ MODULE_AUTHOR("Simon Guinot <sguinot@lacie.com>");
 MODULE_DESCRIPTION("LED driver for LaCie xBig Network boards");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:leds-netxbig");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

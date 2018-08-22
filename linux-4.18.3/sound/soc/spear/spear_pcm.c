@@ -53,3 +53,4 @@ EXPORT_SYMBOL_GPL(devm_spear_pcm_platform_register);
 MODULE_AUTHOR("Rajeev Kumar <rajeevkumar.linux@gmail.com>");
 MODULE_DESCRIPTION("SPEAr PCM DMA module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

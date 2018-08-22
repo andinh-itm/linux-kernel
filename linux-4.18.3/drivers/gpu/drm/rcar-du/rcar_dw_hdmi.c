@@ -108,3 +108,4 @@ module_platform_driver(rcar_dw_hdmi_platform_driver);
 MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_DESCRIPTION("Renesas R-Car Gen3 HDMI Encoder Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

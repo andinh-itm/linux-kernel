@@ -55,3 +55,4 @@ MODULE_DESCRIPTION("Intel PCH/PCU SPI flash platform driver");
 MODULE_AUTHOR("Mika Westerberg <mika.westerberg@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:intel-spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

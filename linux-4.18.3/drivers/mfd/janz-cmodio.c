@@ -285,3 +285,4 @@ module_pci_driver(cmodio_pci_driver);
 MODULE_AUTHOR("Ira W. Snyder <iws@ovro.caltech.edu>");
 MODULE_DESCRIPTION("Janz CMOD-IO PCI MODULbus Carrier Board Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

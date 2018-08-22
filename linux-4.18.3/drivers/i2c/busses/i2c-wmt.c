@@ -472,3 +472,4 @@ MODULE_DESCRIPTION("Wondermedia I2C master-mode bus adapter");
 MODULE_AUTHOR("Tony Prisk <linux@prisktech.co.nz>");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(of, wmt_i2c_dt_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

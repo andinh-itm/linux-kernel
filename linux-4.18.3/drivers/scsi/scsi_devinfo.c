@@ -876,3 +876,4 @@ int __init scsi_init_devinfo(void)
 		scsi_exit_devinfo();
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

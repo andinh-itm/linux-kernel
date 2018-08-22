@@ -475,3 +475,4 @@ void disable_mmiotrace(void)
 out:
 	mutex_unlock(&mmiotrace_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

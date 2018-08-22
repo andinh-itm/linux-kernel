@@ -27,3 +27,4 @@ void *memset(void *s, int c, size_t n)
 		ss[i] = c;
 	return s;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -450,3 +450,4 @@ static int __init au1xxx_platform_init(void)
 }
 
 arch_initcall(au1xxx_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

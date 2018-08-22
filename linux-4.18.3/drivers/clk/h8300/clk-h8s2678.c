@@ -142,3 +142,4 @@ free_clock:
 
 CLK_OF_DECLARE(h8s2678_div_clk, "renesas,h8s2678-pll-clock",
 	       h8s2678_pll_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

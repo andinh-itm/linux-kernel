@@ -129,3 +129,4 @@ void hpi_init_message_responseV1(struct hpi_message_header *phm, u16 msg_size,
 	hpi_init_messageV1(phm, msg_size, object, function);
 	hpi_init_responseV1(phr, res_size, object, function);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

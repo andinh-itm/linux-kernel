@@ -361,3 +361,4 @@ void hclge_dcb_ops_set(struct hclge_dev *hdev)
 	kinfo->dcb_ops = &hns3_dcb_ops;
 	hdev->dcbx_cap = DCB_CAP_DCBX_VER_IEEE | DCB_CAP_DCBX_HOST;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

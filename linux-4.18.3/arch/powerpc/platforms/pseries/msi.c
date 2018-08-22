@@ -529,3 +529,4 @@ static int rtas_msi_init(void)
 	return 0;
 }
 machine_arch_initcall(pseries, rtas_msi_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

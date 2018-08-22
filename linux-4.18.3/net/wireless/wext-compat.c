@@ -1507,3 +1507,4 @@ const struct iw_handler_def cfg80211_wext_handler = {
 	.standard		= cfg80211_handlers,
 	.get_wireless_stats = cfg80211_wireless_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

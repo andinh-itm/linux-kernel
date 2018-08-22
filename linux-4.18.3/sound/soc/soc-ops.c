@@ -978,3 +978,4 @@ int snd_soc_put_strobe(struct snd_kcontrol *kcontrol,
 	return snd_soc_component_update_bits(component, reg, mask, val2);
 }
 EXPORT_SYMBOL_GPL(snd_soc_put_strobe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

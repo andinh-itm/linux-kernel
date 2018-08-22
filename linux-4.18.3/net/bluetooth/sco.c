@@ -1267,3 +1267,4 @@ void sco_exit(void)
 
 module_param(disable_esco, bool, 0644);
 MODULE_PARM_DESC(disable_esco, "Disable eSCO connection creation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

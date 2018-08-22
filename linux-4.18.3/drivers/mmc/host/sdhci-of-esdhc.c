@@ -925,3 +925,4 @@ MODULE_DESCRIPTION("SDHCI OF driver for Freescale MPC eSDHC");
 MODULE_AUTHOR("Xiaobo Xie <X.Xie@freescale.com>, "
 	      "Anton Vorontsov <avorontsov@ru.mvista.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

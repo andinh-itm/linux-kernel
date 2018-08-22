@@ -145,3 +145,4 @@ COMPAT_SYSCALL_DEFINE5(keyctl, u32, option,
 		return -EOPNOTSUPP;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

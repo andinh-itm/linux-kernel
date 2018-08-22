@@ -2487,3 +2487,4 @@ map_smb2_to_linux_error(char *buf, bool log_err)
 			le64_to_cpu(shdr->MessageId), le32_to_cpu(smb2err), rc);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

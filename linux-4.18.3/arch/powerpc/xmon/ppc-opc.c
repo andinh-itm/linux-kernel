@@ -7290,3 +7290,4 @@ const struct powerpc_macro powerpc_macros[] = {
 
 const int powerpc_num_macros =
   sizeof (powerpc_macros) / sizeof (powerpc_macros[0]);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

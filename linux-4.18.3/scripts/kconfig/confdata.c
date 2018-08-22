@@ -1222,3 +1222,4 @@ bool conf_set_all_new_symbols(enum conf_def_mode mode)
 
 	return has_changed;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

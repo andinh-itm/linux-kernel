@@ -362,3 +362,4 @@ const struct v4l2_file_operations uvc_v4l2_fops = {
 #endif
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -268,3 +268,4 @@ const struct clk_ops ccu_mp_mmc_ops = {
 	.recalc_rate	= ccu_mp_mmc_recalc_rate,
 	.set_rate	= ccu_mp_mmc_set_rate,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

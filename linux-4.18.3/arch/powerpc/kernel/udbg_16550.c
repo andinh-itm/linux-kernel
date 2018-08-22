@@ -300,3 +300,4 @@ void __init udbg_init_40x_realmode(void)
 }
 
 #endif /* CONFIG_PPC_EARLY_DEBUG_40x */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

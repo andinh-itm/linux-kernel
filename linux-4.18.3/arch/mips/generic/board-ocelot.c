@@ -76,3 +76,4 @@ MIPS_MACHINE(ocelot) = {
 	.fixup_fdt = ocelot_fixup_fdt,
 	.detect = ocelot_detect,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

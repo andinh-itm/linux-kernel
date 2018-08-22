@@ -70,3 +70,4 @@ module_init(ebt_802_3_init);
 module_exit(ebt_802_3_fini);
 MODULE_DESCRIPTION("Ebtables: DSAP/SSAP field and SNAP type matching");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

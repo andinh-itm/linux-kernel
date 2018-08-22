@@ -378,3 +378,4 @@ static void chrp_pci_fixup_vt8231_ata(struct pci_dev *viaide)
 	pci_dev_put(viaisa);
 }
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_VIA, PCI_DEVICE_ID_VIA_82C586_1, chrp_pci_fixup_vt8231_ata);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

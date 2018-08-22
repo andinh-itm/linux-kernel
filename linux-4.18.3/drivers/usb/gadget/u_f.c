@@ -28,3 +28,4 @@ struct usb_request *alloc_ep_req(struct usb_ep *ep, size_t len)
 	return req;
 }
 EXPORT_SYMBOL_GPL(alloc_ep_req);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

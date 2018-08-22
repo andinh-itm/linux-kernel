@@ -320,3 +320,4 @@ void asm_offsets(void)
 	 */
 	DEFINE(PT_SIZE_ON_STACK, ALIGN(sizeof(struct pt_regs), STACK_ALIGN));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

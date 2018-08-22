@@ -138,3 +138,4 @@ void __init auxio_power_probe(void)
 	if (auxio_power_register)
 		printk(KERN_INFO "Power off control detected.\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1108,3 +1108,4 @@ module_platform_driver(davinci_spi_driver);
 
 MODULE_DESCRIPTION("TI DaVinci SPI Master Controller Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

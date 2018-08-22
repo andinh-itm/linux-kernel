@@ -1432,3 +1432,4 @@ SYSCALL_DEFINE1(sethae, unsigned long, val)
 	current_pt_regs()->hae = val;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

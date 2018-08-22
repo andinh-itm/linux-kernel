@@ -168,3 +168,4 @@ too_good_connection:
 		iowrite32(tulip_tbl[tp->chip_id].valid_intrs, ioaddr + CSR7);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

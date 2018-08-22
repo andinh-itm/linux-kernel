@@ -60,3 +60,4 @@ void mxs_ssp_set_clk_rate(struct mxs_ssp *ssp, unsigned int rate)
 		__func__, clock_divide, clock_rate, ssp_clk, ssp_sck, rate);
 }
 EXPORT_SYMBOL_GPL(mxs_ssp_set_clk_rate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

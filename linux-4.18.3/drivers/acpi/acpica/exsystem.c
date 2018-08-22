@@ -272,3 +272,4 @@ acpi_status acpi_ex_system_reset_event(union acpi_operand_object *obj_desc)
 
 	return (status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

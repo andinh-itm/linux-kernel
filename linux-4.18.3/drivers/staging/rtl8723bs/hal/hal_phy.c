@@ -214,3 +214,4 @@ void PHY_RFShadowRefresh(IN PADAPTER Adapter)
 	}
 
 }	/* PHY_RFShadowRead */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -261,3 +261,4 @@ module_usb_composite_driver(acm_ms_driver);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("Klaus Schwarzkopf <schwarzkopf@sensortherm.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

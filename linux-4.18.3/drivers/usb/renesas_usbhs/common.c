@@ -813,3 +813,4 @@ module_platform_driver(renesas_usbhs_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Renesas USB driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

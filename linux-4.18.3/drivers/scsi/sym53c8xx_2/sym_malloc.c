@@ -376,3 +376,4 @@ dma_addr_t __vtobus(m_pool_ident_t dev_dmat, void *m)
 	spin_unlock_irqrestore(&sym53c8xx_lock, flags);
 	return b;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

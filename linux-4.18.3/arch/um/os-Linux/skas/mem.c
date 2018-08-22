@@ -205,3 +205,4 @@ int protect(struct mm_id * mm_idp, unsigned long addr, unsigned long len,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

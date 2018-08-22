@@ -816,3 +816,4 @@ void rtl92c_translate_rx_signal_stuff(struct ieee80211_hw *hw,
 				   packet_beacon);
 	rtl_process_phyinfo(hw, tmp_buf, pstats);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

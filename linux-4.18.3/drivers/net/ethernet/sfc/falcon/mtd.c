@@ -122,3 +122,4 @@ void ef4_mtd_rename(struct ef4_nic *efx)
 	list_for_each_entry(part, &efx->mtd_list, node)
 		efx->type->mtd_rename(part);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

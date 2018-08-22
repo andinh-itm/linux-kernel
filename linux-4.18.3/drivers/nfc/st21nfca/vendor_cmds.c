@@ -373,3 +373,4 @@ int st21nfca_vendor_cmds_init(struct nfc_hci_dev *hdev)
 				   sizeof(st21nfca_vendor_cmds));
 }
 EXPORT_SYMBOL(st21nfca_vendor_cmds_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

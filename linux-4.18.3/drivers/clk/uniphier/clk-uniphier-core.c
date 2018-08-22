@@ -220,3 +220,4 @@ static struct platform_driver uniphier_clk_driver = {
 	},
 };
 builtin_platform_driver(uniphier_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

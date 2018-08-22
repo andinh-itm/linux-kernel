@@ -355,3 +355,4 @@ acpi_cpufreq_exit (void)
 late_initcall(acpi_cpufreq_init);
 module_exit(acpi_cpufreq_exit);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

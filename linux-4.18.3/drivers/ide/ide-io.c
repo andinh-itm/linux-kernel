@@ -891,3 +891,4 @@ void ide_pad_transfer(ide_drive_t *drive, int write, int len)
 	}
 }
 EXPORT_SYMBOL_GPL(ide_pad_transfer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

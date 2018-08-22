@@ -173,3 +173,4 @@ void ishtp_cl_release_dma_acked_mem(struct ishtp_device *dev,
 	}
 	spin_unlock_irqrestore(&dev->ishtp_dma_tx_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

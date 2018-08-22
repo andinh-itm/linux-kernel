@@ -1388,3 +1388,4 @@ nouveau_connector_create(struct drm_device *dev, int index)
 	drm_connector_register(connector);
 	return connector;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

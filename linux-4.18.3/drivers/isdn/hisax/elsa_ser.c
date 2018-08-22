@@ -657,3 +657,4 @@ release_modem(struct IsdnCardState *cs) {
 		cs->hw.elsa.transbuf = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

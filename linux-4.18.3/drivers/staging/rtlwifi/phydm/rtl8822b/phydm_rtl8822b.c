@@ -212,3 +212,4 @@ void phydm_hwsetting_8822b(struct phy_dm_struct *dm)
 {
 	phydm_dynamic_switch_htstf_mumimo_8822b(dm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

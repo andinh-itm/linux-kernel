@@ -197,3 +197,4 @@ module_i2c_driver(mxc6255_driver);
 MODULE_AUTHOR("Teodora Baluta <teodora.baluta@intel.com>");
 MODULE_DESCRIPTION("MEMSIC MXC6255 orientation sensing accelerometer driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

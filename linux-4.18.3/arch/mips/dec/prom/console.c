@@ -43,3 +43,4 @@ void __init register_prom_console(void)
 {
 	register_console(&promcons);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

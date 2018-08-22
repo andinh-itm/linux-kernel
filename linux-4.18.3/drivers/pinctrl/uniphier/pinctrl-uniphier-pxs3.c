@@ -990,3 +990,4 @@ static struct platform_driver uniphier_pxs3_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(uniphier_pxs3_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

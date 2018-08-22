@@ -472,3 +472,4 @@ int trackpoint_detect(struct psmouse *psmouse, bool set_properties)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

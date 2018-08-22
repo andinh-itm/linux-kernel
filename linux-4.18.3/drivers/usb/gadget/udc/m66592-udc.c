@@ -1696,3 +1696,4 @@ static struct platform_driver m66592_driver = {
 };
 
 module_platform_driver_probe(m66592_driver, m66592_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

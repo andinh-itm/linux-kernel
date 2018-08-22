@@ -691,3 +691,4 @@ module_exit(wm8741_exit);
 MODULE_DESCRIPTION("ASoC WM8741 driver");
 MODULE_AUTHOR("Ian Lartey <ian@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

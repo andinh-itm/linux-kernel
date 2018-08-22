@@ -1244,3 +1244,4 @@ MODULE_DESCRIPTION("Andigilog aSC7621 and aSC7621a driver");
 
 module_init(sm_asc7621_init);
 module_exit(sm_asc7621_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

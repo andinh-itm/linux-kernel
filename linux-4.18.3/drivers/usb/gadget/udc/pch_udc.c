@@ -3183,3 +3183,4 @@ module_pci_driver(pch_udc_driver);
 MODULE_DESCRIPTION("Intel EG20T USB Device Controller");
 MODULE_AUTHOR("LAPIS Semiconductor, <tomoya-linux@dsn.lapis-semi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1018,3 +1018,4 @@ static const struct cpu_dev intel_cpu_dev = {
 
 cpu_dev_register(intel_cpu_dev);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

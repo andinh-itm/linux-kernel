@@ -555,3 +555,4 @@ const struct spu_management_ops spu_management_of_ops = {
 	.disable_spu = disable_spu_by_master_run,
 	.init_affinity = init_affinity,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

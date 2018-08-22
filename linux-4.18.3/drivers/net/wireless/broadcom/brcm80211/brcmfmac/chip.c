@@ -1368,3 +1368,4 @@ bool brcmf_chip_sr_capable(struct brcmf_chip *pub)
 			       PMU_RCTL_LOGIC_DISABLE_MASK)) == 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -576,3 +576,4 @@ void radeon_irq_kms_set_irq_n_enabled(struct radeon_device *rdev,
 		WREG32(reg, tmp & ~mask);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

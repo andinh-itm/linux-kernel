@@ -342,3 +342,4 @@ MODULE_DESCRIPTION("DMA-capable driver for PATA on PXA CPU");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

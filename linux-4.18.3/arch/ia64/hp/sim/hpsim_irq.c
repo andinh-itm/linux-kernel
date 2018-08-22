@@ -74,3 +74,4 @@ hpsim_irq_init (void)
 	for_each_active_irq(i)
 		hpsim_irq_set_chip(i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

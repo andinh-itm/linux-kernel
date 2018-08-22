@@ -122,3 +122,4 @@ static int __init db1xxx_dev_init(void)
 	return 0;
 }
 device_initcall(db1xxx_dev_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

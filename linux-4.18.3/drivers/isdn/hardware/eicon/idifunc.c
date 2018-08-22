@@ -266,3 +266,4 @@ void __exit idifunc_finit(void)
 	disconnect_didd();
 	remove_all_idi_proc();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

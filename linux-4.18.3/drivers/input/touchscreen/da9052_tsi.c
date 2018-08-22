@@ -345,3 +345,4 @@ MODULE_DESCRIPTION("Touchscreen driver for Dialog Semiconductor DA9052");
 MODULE_AUTHOR("Anthony Olech <Anthony.Olech@diasemi.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9052-tsi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

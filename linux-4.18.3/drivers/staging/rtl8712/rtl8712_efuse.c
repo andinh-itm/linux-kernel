@@ -576,3 +576,4 @@ u8 r8712_efuse_map_write(struct _adapter *padapter, u16 addr, u16 cnts,
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

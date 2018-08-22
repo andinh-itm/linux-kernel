@@ -934,3 +934,4 @@ static long autofs_root_compat_ioctl(struct file *filp,
 	return ret;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

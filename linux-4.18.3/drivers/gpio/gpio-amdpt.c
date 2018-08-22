@@ -164,3 +164,4 @@ module_platform_driver(pt_gpio_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("YD Tseng <yd_tseng@asmedia.com.tw>");
 MODULE_DESCRIPTION("AMD Promontory GPIO Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

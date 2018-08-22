@@ -60,3 +60,4 @@ module_i2c_driver(pcm1789_i2c_driver);
 MODULE_DESCRIPTION("ASoC PCM1789 I2C driver");
 MODULE_AUTHOR("Mylène Josserand <mylene.josserand@bootlin.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -307,3 +307,4 @@ static int __init setup_ohci1394_dma(char *opt)
 
 /* passing ohci1394_dma=early on boot causes early OHCI1394 DMA initialization */
 early_param("ohci1394_dma", setup_ohci1394_dma);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

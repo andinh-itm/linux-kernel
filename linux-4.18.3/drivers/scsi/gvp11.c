@@ -413,3 +413,4 @@ module_exit(gvp11_exit);
 
 MODULE_DESCRIPTION("GVP Series II SCSI");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

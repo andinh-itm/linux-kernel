@@ -89,3 +89,4 @@ void odm_dynamic_tx_power_ap(void *dm_void
 }
 
 void odm_dynamic_tx_power_8821(void *dm_void, u8 *desc, u8 mac_id) {}
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

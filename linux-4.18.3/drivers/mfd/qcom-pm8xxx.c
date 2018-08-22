@@ -638,3 +638,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PMIC 8xxx core driver");
 MODULE_VERSION("1.0");
 MODULE_ALIAS("platform:pm8xxx-core");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

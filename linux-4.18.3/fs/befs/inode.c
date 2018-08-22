@@ -53,3 +53,4 @@ befs_check_inode(struct super_block *sb, befs_inode *raw_inode,
 
 	return BEFS_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

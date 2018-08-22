@@ -38,3 +38,4 @@ core917d_new(struct nouveau_drm *drm, s32 oclass, struct nv50_core **pcore)
 {
 	return core507d_new_(&core917d, drm, oclass, pcore);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

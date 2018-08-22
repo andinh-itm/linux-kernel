@@ -155,3 +155,4 @@ msm_fence_alloc(struct msm_fence_context *fctx)
 
 	return &f->base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -63,3 +63,4 @@ int mpc5200_psc_console_init(void *devp, struct serial_console_data *scdp)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

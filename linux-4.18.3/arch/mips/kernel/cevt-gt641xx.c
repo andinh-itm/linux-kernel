@@ -162,3 +162,4 @@ static int __init gt641xx_timer0_clockevent_init(void)
 	return setup_irq(GT641XX_TIMER0_IRQ, &gt641xx_timer0_irqaction);
 }
 arch_initcall(gt641xx_timer0_clockevent_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

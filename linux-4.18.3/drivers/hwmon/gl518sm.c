@@ -681,3 +681,4 @@ MODULE_AUTHOR("Frodo Looijaard <frodol@dds.nl>, "
 	"Hong-Gunn Chew <hglinux@gunnet.org>");
 MODULE_DESCRIPTION("GL518SM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

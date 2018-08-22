@@ -339,3 +339,4 @@ void rtl_rate_control_unregister(void)
 {
 	ieee80211_rate_control_unregister(&rtl_rate_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

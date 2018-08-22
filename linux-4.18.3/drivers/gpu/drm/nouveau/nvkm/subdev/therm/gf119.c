@@ -151,3 +151,4 @@ gf119_therm_new(struct nvkm_device *device, int index,
 {
 	return nvkm_therm_new_(&gf119_therm, device, index, ptherm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

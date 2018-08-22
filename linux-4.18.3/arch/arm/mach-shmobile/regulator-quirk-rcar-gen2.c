@@ -149,3 +149,4 @@ static int __init rcar_gen2_regulator_quirk(void)
 }
 
 arch_initcall(rcar_gen2_regulator_quirk);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

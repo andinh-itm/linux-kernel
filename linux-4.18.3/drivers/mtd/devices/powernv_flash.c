@@ -298,3 +298,4 @@ MODULE_DEVICE_TABLE(of, powernv_flash_match);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Cyril Bur <cyril.bur@au1.ibm.com>");
 MODULE_DESCRIPTION("MTD abstraction for OPAL flash");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

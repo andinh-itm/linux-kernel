@@ -707,3 +707,4 @@ cleanup:
 	walk_state->num_operands = 0;
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

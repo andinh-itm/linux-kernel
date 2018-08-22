@@ -278,3 +278,4 @@ static void __init mv88f6183_clk_init(struct device_node *np)
 }
 
 CLK_OF_DECLARE(mv88f6183_clk, "marvell,mv88f6183-core-clock", mv88f6183_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

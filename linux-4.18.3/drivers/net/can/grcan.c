@@ -1745,3 +1745,4 @@ module_platform_driver(grcan_driver);
 MODULE_AUTHOR("Aeroflex Gaisler AB.");
 MODULE_DESCRIPTION("Socket CAN driver for Aeroflex Gaisler GRCAN");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -224,3 +224,4 @@ int tzic_enable_wake(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -279,3 +279,4 @@ void __init zylonite_pxa300_init(void)
 	gpio_debug_led1 = EXT_GPIO(25);
 	gpio_debug_led2 = EXT_GPIO(26);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

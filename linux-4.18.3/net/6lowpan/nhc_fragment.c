@@ -25,3 +25,4 @@ LOWPAN_NHC(nhc_fragment, "RFC6282 Fragment", NEXTHDR_FRAGMENT, 0,
 module_lowpan_nhc(nhc_fragment);
 MODULE_DESCRIPTION("6LoWPAN next header RFC6282 Fragment compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

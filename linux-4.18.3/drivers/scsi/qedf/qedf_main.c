@@ -3690,3 +3690,4 @@ MODULE_AUTHOR("QLogic Corporation");
 MODULE_VERSION(QEDF_VERSION);
 module_init(qedf_init);
 module_exit(qedf_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -196,3 +196,4 @@ void bochs_fbdev_fini(struct bochs_device *bochs)
 
 	bochs->fb.initialized = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

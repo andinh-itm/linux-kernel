@@ -157,3 +157,4 @@ void setup_initial_memory_limit(phys_addr_t first_memblock_base,
 	/* 40x can only access 16MB at the moment (see head_40x.S) */
 	memblock_set_current_limit(min_t(u64, first_memblock_size, 0x00800000));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

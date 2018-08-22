@@ -231,3 +231,4 @@ MACHINE_START(ANW6410, "A&W6410")
 	.init_time	= samsung_timer_init,
 	.restart	= s3c64xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

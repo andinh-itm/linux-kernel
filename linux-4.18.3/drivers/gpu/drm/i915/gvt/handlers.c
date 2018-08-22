@@ -3171,3 +3171,4 @@ default_rw:
 		intel_vgpu_default_mmio_read(vgpu, offset, pdata, bytes) :
 		intel_vgpu_default_mmio_write(vgpu, offset, pdata, bytes);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

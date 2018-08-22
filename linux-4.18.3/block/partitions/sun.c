@@ -121,3 +121,4 @@ int sun_partition(struct parsed_partitions *state)
 	put_dev_sector(sect);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

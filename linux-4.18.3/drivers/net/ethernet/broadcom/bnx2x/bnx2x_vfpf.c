@@ -2306,3 +2306,4 @@ int bnx2x_post_vf_bulletin(struct bnx2x *bp, int vf)
 				  U64_LO(vf_addr), bulletin->length / 4);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

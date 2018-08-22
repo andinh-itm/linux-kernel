@@ -958,3 +958,4 @@ void rtl8822be_c2h_packet_handler(struct ieee80211_hw *hw, u8 *buffer, u8 len)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

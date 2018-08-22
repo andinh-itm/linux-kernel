@@ -287,3 +287,4 @@ void acpi_ut_subsystem_shutdown(void)
 	(void)acpi_ut_delete_caches();
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

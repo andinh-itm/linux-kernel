@@ -116,3 +116,4 @@ module_exit(mtk_efuse_exit);
 MODULE_AUTHOR("Andrew-CT Chen <andrew-ct.chen@mediatek.com>");
 MODULE_DESCRIPTION("Mediatek EFUSE driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

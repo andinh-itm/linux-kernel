@@ -202,3 +202,4 @@ void __init acpi_early_processor_set_pdc(void)
 			    early_init_pdc, NULL, NULL, NULL);
 	acpi_get_devices(ACPI_PROCESSOR_DEVICE_HID, early_init_pdc, NULL, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

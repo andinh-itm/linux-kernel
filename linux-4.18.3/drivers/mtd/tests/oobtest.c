@@ -748,3 +748,4 @@ module_exit(mtd_oobtest_exit);
 MODULE_DESCRIPTION("Out-of-band test module");
 MODULE_AUTHOR("Adrian Hunter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

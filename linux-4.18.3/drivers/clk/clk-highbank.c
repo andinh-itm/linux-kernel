@@ -340,3 +340,4 @@ static void __init hb_emmc_init(struct device_node *node)
 	hb_clk_init(node, &periclk_ops);
 }
 CLK_OF_DECLARE(hb_emmc, "calxeda,hb-emmc-clock", hb_emmc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1004,3 +1004,4 @@ EXPORT_SYMBOL_GPL(tegra_xusb_padctl_usb3_set_lfps_detect);
 MODULE_AUTHOR("Thierry Reding <treding@nvidia.com>");
 MODULE_DESCRIPTION("Tegra XUSB Pad Controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

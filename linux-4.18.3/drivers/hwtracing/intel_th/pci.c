@@ -177,3 +177,4 @@ module_pci_driver(intel_th_pci_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel(R) Trace Hub PCI controller driver");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

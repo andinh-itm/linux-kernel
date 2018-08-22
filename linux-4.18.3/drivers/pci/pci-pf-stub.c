@@ -52,3 +52,4 @@ module_init(pci_pf_stub_init);
 module_exit(pci_pf_stub_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

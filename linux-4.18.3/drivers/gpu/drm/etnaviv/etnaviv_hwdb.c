@@ -52,3 +52,4 @@ bool etnaviv_fill_identity_from_hwdb(struct etnaviv_gpu *gpu)
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

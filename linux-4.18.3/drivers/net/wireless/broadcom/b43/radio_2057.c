@@ -635,3 +635,4 @@ void r2057_get_chantabent_rev7(struct b43_wldev *dev, u16 freq,
 		B43_WARN_ON(1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

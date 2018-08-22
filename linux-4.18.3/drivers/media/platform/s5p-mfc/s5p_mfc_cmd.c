@@ -27,3 +27,4 @@ void s5p_mfc_init_hw_cmds(struct s5p_mfc_dev *dev)
 
 	dev->mfc_cmds = s5p_mfc_cmds;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -287,3 +287,4 @@ void exynos_drm_fbdev_resume(struct drm_device *dev)
 	drm_fb_helper_set_suspend(private->fb_helper, 0);
 	console_unlock();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

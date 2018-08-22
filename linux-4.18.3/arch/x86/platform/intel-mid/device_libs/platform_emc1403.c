@@ -41,3 +41,4 @@ static const struct devs_id emc1403_dev_id __initconst = {
 };
 
 sfi_device(emc1403_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

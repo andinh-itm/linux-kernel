@@ -50,3 +50,4 @@ int of_get_videomode(struct device_node *np, struct videomode *vm,
 	return ret;
 }
 EXPORT_SYMBOL_GPL(of_get_videomode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

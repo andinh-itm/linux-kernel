@@ -1096,3 +1096,4 @@ void hns_rcb_get_ring_regs(struct hnae_queue *queue, void *data)
 	for (i = 35; i < 40; i++)
 		regs[i] = 0xcccccc00 + ring_pair->index;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -476,3 +476,4 @@ int module_finalize(const Elf_Ehdr *hdr,
 	jump_label_apply_nops(me);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -392,3 +392,4 @@ void dw_pcie_setup(struct dw_pcie *pci)
 	}
 	dw_pcie_writel_dbi(pci, PCIE_LINK_WIDTH_SPEED_CONTROL, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

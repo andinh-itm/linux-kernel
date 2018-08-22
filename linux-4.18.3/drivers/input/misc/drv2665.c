@@ -319,3 +319,4 @@ module_i2c_driver(drv2665_driver);
 MODULE_DESCRIPTION("TI DRV2665 haptics driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dan Murphy <dmurphy@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

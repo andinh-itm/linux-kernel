@@ -511,3 +511,4 @@ static int __init adc_init(void)
 }
 
 module_init(adc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

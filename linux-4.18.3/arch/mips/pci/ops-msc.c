@@ -145,3 +145,4 @@ struct pci_ops msc_pci_ops = {
 	.read = msc_pcibios_read,
 	.write = msc_pcibios_write
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

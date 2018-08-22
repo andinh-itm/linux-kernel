@@ -48,3 +48,4 @@ static int __init cnmips_cu2_setup(void)
 	return cu2_notifier(cnmips_cu2_call, 0);
 }
 early_initcall(cnmips_cu2_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

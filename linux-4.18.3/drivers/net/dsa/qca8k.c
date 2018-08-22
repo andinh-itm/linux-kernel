@@ -999,3 +999,4 @@ MODULE_AUTHOR("Mathieu Olivari, John Crispin <john@phrozen.org>");
 MODULE_DESCRIPTION("Driver for QCA8K ethernet switch family");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:qca8k");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

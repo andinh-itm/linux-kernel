@@ -782,3 +782,4 @@ module_exit(sunxi_rsb_exit);
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_DESCRIPTION("Allwinner sunXi Reduced Serial Bus controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

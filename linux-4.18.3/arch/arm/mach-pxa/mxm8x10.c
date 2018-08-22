@@ -471,3 +471,4 @@ void __init mxm_8x10_barebones_init(void)
 	mxm_8x10_i2c_init();
 	mxm_8x10_ethernet_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

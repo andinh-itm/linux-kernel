@@ -324,3 +324,4 @@ int seq_buf_to_user(struct seq_buf *s, char __user *ubuf, int cnt)
 	s->readpos += cnt;
 	return cnt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

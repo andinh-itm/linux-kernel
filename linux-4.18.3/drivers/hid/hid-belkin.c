@@ -89,3 +89,4 @@ static struct hid_driver belkin_driver = {
 module_hid_driver(belkin_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

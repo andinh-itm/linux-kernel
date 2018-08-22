@@ -184,3 +184,4 @@ MODULE_AUTHOR("Mocean Laboratories <info@mocean-labs.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION("0.0.2");
 MODULE_ALIAS("platform:"DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

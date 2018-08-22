@@ -958,3 +958,4 @@ subsys_initcall(max77843_muic_init);
 MODULE_DESCRIPTION("Maxim MAX77843 Extcon driver");
 MODULE_AUTHOR("Jaewon Kim <jaewon02.kim@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

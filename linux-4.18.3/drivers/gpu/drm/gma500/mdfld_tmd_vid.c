@@ -199,3 +199,4 @@ const struct panel_funcs mdfld_tmd_vid_funcs = {
 	.reset = mdfld_dsi_panel_reset,
 	.drv_ic_init = mdfld_dsi_tmd_drv_ic_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -5595,3 +5595,4 @@ il_tx_cmd_protection(struct il_priv *il, struct ieee80211_tx_info *info,
 	}
 }
 EXPORT_SYMBOL(il_tx_cmd_protection);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -942,3 +942,4 @@ struct platform_driver inno_hdmi_driver = {
 		.of_match_table = inno_hdmi_dt_ids,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

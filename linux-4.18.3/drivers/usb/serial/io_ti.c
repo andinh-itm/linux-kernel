@@ -2816,3 +2816,4 @@ MODULE_PARM_DESC(ignore_cpu_rev,
 
 module_param(default_uart_mode, int, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(default_uart_mode, "Default uart_mode, 0=RS232, ...");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

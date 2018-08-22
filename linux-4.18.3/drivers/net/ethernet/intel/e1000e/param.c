@@ -527,3 +527,4 @@ void e1000e_check_options(struct e1000_adapter *adapter)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

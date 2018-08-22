@@ -454,3 +454,4 @@ void dss_overlay_kobj_uninit(struct omap_overlay *ovl)
 	kobject_del(&ovl->kobj);
 	kobject_put(&ovl->kobj);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1117,3 +1117,4 @@ i40e_status i40e_set_lan_rx_queue_context(struct i40e_hw *hw,
 	return i40e_set_hmc_context(context_bytes,
 				    i40e_hmc_rxq_ce_info, (u8 *)s);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

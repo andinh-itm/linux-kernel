@@ -118,3 +118,4 @@ module_exit(exit_rc_map_rc6_mce)
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jarod Wilson <jarod@redhat.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1167,3 +1167,4 @@ static void __exit nj_cleanup(void)
 
 module_init(nj_init);
 module_exit(nj_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

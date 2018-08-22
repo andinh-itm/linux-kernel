@@ -438,3 +438,4 @@ module_platform_driver(opal_prd_driver);
 MODULE_DEVICE_TABLE(of, opal_prd_match);
 MODULE_DESCRIPTION("PowerNV OPAL runtime diagnostic driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -971,3 +971,4 @@ struct board_ops jsm_cls_ops = {
 	.send_immediate_char =		cls_send_immediate_char
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

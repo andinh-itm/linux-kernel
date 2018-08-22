@@ -976,3 +976,4 @@ void dm_persistent_snapshot_exit(void)
 	dm_exception_store_type_unregister(&_persistent_type);
 	dm_exception_store_type_unregister(&_persistent_compat_type);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

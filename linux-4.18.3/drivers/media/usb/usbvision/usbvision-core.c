@@ -2436,3 +2436,4 @@ int usbvision_muxsel(struct usb_usbvision *usbvision, int channel)
 	usbvision_set_audio(usbvision, audio[channel]);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -351,3 +351,4 @@ void kvm_pmu_destroy(struct kvm_vcpu *vcpu)
 {
 	kvm_pmu_reset(vcpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

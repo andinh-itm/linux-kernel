@@ -589,3 +589,4 @@ int qed_sp_pf_update_stag(struct qed_hwfn *p_hwfn)
 
 	return qed_spq_post(p_hwfn, p_ent, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

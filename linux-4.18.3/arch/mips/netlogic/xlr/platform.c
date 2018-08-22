@@ -248,3 +248,4 @@ static int __init nlm_i2c_init(void)
 
 arch_initcall(nlm_i2c_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -252,3 +252,4 @@ int __init omap3_twl_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -609,3 +609,4 @@ jit_add_debug_info(Elf *e, uint64_t code_addr, void *debug, int nr_debug_entries
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

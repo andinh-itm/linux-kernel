@@ -2792,3 +2792,4 @@ static struct pci_driver m3_driver = {
 };
 	
 module_pci_driver(m3_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

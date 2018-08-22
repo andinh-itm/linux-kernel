@@ -26,3 +26,4 @@ long old_mmap(unsigned long addr, unsigned long len,
  out:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -222,3 +222,4 @@ acpi_rs_convert_resources_to_aml(struct acpi_resource *resource,
 
 	return_ACPI_STATUS(AE_AML_NO_RESOURCE_END_TAG);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -844,3 +844,4 @@ MODULE_DESCRIPTION("PXA27x Keypad Controller Driver");
 MODULE_LICENSE("GPL");
 /* work with hotplug and coldplug */
 MODULE_ALIAS("platform:pxa27x-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

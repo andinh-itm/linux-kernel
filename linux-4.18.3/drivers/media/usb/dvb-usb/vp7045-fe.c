@@ -189,3 +189,4 @@ static const struct dvb_frontend_ops vp7045_fe_ops = {
 	.read_snr = vp7045_fe_read_snr,
 	.read_ucblocks = vp7045_fe_read_unc_blocks,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

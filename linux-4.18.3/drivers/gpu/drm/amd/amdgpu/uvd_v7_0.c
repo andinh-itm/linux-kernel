@@ -1820,3 +1820,4 @@ const struct amdgpu_ip_block_version uvd_v7_0_ip_block =
 		.rev = 0,
 		.funcs = &uvd_v7_0_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

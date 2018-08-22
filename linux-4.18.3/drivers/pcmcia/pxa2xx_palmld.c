@@ -112,3 +112,4 @@ MODULE_AUTHOR("Alex Osborne <ato@meshy.org>,"
 MODULE_DESCRIPTION("PCMCIA support for Palm LifeDrive");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

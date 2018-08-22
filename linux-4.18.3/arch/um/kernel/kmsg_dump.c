@@ -42,3 +42,4 @@ int __init kmsg_dumper_stdout_init(void)
 }
 
 __uml_postsetup(kmsg_dumper_stdout_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

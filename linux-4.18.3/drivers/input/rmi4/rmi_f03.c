@@ -329,3 +329,4 @@ struct rmi_function_handler rmi_f03_handler = {
 MODULE_AUTHOR("Lyude Paul <thatslyude@gmail.com>");
 MODULE_DESCRIPTION("RMI F03 module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

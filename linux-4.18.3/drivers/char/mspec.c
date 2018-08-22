@@ -433,3 +433,4 @@ module_exit(mspec_exit);
 MODULE_AUTHOR("Silicon Graphics, Inc. <linux-altix@sgi.com>");
 MODULE_DESCRIPTION("Driver for SGI SN special memory operations");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

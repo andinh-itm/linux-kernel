@@ -926,3 +926,4 @@ MODULE_AUTHOR("Cogent Embedded, Inc.");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("CAN driver for Renesas R-Car SoC");
 MODULE_ALIAS("platform:" RCAR_CAN_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

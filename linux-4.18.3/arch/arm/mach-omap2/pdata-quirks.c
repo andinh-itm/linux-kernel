@@ -657,3 +657,4 @@ void __init pdata_quirks_init(const struct of_device_id *omap_dt_match_table)
 			     omap_auxdata_lookup, NULL);
 	pdata_quirks_check(pdata_quirks);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

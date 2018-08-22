@@ -187,3 +187,4 @@ int snd_tscm_create_hwdep_device(struct snd_tscm *tscm)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

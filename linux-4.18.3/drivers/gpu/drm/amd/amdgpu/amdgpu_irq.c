@@ -572,3 +572,4 @@ unsigned amdgpu_irq_create_mapping(struct amdgpu_device *adev, unsigned src_id)
 
 	return adev->irq.virq[src_id];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

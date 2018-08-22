@@ -688,3 +688,4 @@ module_platform_driver(tango_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sigma Designs");
 MODULE_DESCRIPTION("Tango4 NAND Flash controller driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

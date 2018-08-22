@@ -130,3 +130,4 @@ int test_fence_one_timeline_merge(void)
 	sw_sync_timeline_destroy(timeline);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

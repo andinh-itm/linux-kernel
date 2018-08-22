@@ -1075,3 +1075,4 @@ static int __init boot_override_clock(char* str)
 }
 
 __setup("clock=", boot_override_clock);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

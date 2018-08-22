@@ -238,3 +238,4 @@ MODULE_DESCRIPTION("GPIO-based I2C Arbitration");
 MODULE_AUTHOR("Doug Anderson <dianders@chromium.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:i2c-arb-gpio-challenge");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

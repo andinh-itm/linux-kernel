@@ -417,3 +417,4 @@ module_i2c_driver(arcxcnn_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Brian Dodge <bdodge@arcticsand.com>");
 MODULE_DESCRIPTION("ARCXCNN Backlight driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

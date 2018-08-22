@@ -3040,3 +3040,4 @@ int pmac_get_uninorth_variant(void)
 {
 	return uninorth_maj;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

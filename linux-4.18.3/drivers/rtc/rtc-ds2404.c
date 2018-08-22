@@ -282,3 +282,4 @@ MODULE_DESCRIPTION("DS2404 RTC");
 MODULE_AUTHOR("Sven Schnelle");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ds2404");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

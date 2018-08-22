@@ -2101,3 +2101,4 @@ static struct i2c_driver tvaudio_driver = {
 };
 
 module_i2c_driver(tvaudio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -794,3 +794,4 @@ devm_reset_control_array_get(struct device *dev, bool shared, bool optional)
 	return rstc;
 }
 EXPORT_SYMBOL_GPL(devm_reset_control_array_get);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

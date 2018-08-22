@@ -65,3 +65,4 @@ static int __init sdk7786_pci_init(void)
 	return 0;
 }
 postcore_initcall(sdk7786_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

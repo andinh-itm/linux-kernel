@@ -85,3 +85,4 @@ static struct i2c_driver smsc_i2c_driver = {
 	.id_table = smsc_i2c_id,
 };
 builtin_i2c_driver(smsc_i2c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

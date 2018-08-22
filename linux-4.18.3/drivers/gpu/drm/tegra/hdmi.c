@@ -1833,3 +1833,4 @@ struct platform_driver tegra_hdmi_driver = {
 	.probe = tegra_hdmi_probe,
 	.remove = tegra_hdmi_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

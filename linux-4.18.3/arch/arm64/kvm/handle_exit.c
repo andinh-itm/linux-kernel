@@ -313,3 +313,4 @@ void handle_exit_early(struct kvm_vcpu *vcpu, struct kvm_run *run,
 	if (exception_index == ARM_EXCEPTION_EL1_SERROR)
 		kvm_handle_guest_serror(vcpu, kvm_vcpu_get_hsr(vcpu));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1173,3 +1173,4 @@ static int tegra_emc_init(void)
 	return platform_driver_register(&tegra_emc_driver);
 }
 subsys_initcall(tegra_emc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

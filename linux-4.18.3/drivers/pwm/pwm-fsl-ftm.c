@@ -545,3 +545,4 @@ MODULE_DESCRIPTION("Freescale FlexTimer Module PWM Driver");
 MODULE_AUTHOR("Xiubo Li <Li.Xiubo@freescale.com>");
 MODULE_ALIAS("platform:fsl-ftm-pwm");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

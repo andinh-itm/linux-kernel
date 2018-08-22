@@ -1610,3 +1610,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Renesas R-Car audio driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
 MODULE_ALIAS("platform:rcar-pcm-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

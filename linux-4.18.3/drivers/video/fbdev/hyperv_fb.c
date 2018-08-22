@@ -959,3 +959,4 @@ module_exit(hvfb_drv_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Microsoft Hyper-V Synthetic Video Frame Buffer Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

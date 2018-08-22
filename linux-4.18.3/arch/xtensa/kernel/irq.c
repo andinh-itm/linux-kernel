@@ -195,3 +195,4 @@ void migrate_irqs(void)
 	}
 }
 #endif /* CONFIG_HOTPLUG_CPU */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

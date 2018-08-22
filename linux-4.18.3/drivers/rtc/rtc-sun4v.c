@@ -101,3 +101,4 @@ static struct platform_driver sun4v_rtc_driver = {
 };
 
 builtin_platform_driver_probe(sun4v_rtc_driver, sun4v_rtc_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

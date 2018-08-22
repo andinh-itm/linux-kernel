@@ -2083,3 +2083,4 @@ module_usb_driver(kvaser_usb_driver);
 MODULE_AUTHOR("Olivier Sobrie <olivier@sobrie.be>");
 MODULE_DESCRIPTION("CAN driver for Kvaser CAN/USB devices");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

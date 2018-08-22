@@ -115,3 +115,4 @@ MODULE_ALIAS("platform:cpcap-pwrbutton");
 MODULE_DESCRIPTION("CPCAP Power Button");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sebastian Reichel <sre@kernel.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

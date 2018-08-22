@@ -622,3 +622,4 @@ module_i2c_driver(act8865_pmic_driver);
 MODULE_DESCRIPTION("active-semi act88xx voltage regulator driver");
 MODULE_AUTHOR("Wenyou Yang <wenyou.yang@atmel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

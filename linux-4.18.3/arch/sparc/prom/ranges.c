@@ -112,3 +112,4 @@ void prom_apply_generic_ranges(phandle node, phandle parent,
 		prom_adjust_regs(regs, nregs, ranges, num_ranges);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

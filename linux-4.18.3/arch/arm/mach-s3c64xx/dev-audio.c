@@ -211,3 +211,4 @@ void __init s3c64xx_ac97_setup_gpio(int num)
 	else
 		s3c_ac97_pdata.cfg_gpio = s3c64xx_ac97_cfg_gpe;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

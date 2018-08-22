@@ -401,3 +401,4 @@ MODULE_DESCRIPTION("MT2701 CS42448 ALSA SoC machine driver");
 MODULE_AUTHOR("Ir Lian <ir.lian@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("mt2701 cs42448 soc card");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

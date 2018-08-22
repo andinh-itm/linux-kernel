@@ -169,3 +169,4 @@ const struct ttm_mem_type_manager_func vmw_gmrid_manager_func = {
 	.put_node = vmw_gmrid_man_put_node,
 	.debug = vmw_gmrid_man_debug
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

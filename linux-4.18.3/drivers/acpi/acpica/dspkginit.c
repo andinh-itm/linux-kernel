@@ -503,3 +503,4 @@ acpi_ds_resolve_package_element(union acpi_operand_object **element_ptr)
 
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -223,3 +223,4 @@ MODULE_LICENSE("GPL");
 module_init(qlogicfas_init);
 module_exit(qlogicfas_exit);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

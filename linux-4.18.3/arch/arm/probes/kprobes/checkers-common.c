@@ -99,3 +99,4 @@ const union decode_action stack_check_actions[] = {
 	[STACK_USE_FIXED_XXX] = {.decoder = checker_stack_use_imm_xxx},
 	[STACK_USE_STMDX] = {.decoder = checker_stack_use_stmdx},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

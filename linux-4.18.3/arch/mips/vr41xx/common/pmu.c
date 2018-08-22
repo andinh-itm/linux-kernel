@@ -133,3 +133,4 @@ static int __init vr41xx_pmu_init(void)
 }
 
 core_initcall(vr41xx_pmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

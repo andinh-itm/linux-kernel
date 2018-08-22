@@ -872,3 +872,4 @@ module_comedi_usb_driver(dt9812_driver, dt9812_usb_driver);
 MODULE_AUTHOR("Anders Blomdell <anders.blomdell@control.lth.se>");
 MODULE_DESCRIPTION("Comedi DT9812 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -957,3 +957,4 @@ module_pci_driver(ismt_driver);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Bill E. Brown <bill.e.brown@intel.com>");
 MODULE_DESCRIPTION("Intel SMBus Message Transport (iSMT) driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

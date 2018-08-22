@@ -251,3 +251,4 @@ int pxa2xx_spi_set_dma_burst_and_threshold(struct chip_data *chip,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

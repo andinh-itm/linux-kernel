@@ -1573,3 +1573,4 @@ const struct ethtool_ops gfar_ethtool_ops = {
 	.get_link_ksettings = phy_ethtool_get_link_ksettings,
 	.set_link_ksettings = phy_ethtool_set_link_ksettings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

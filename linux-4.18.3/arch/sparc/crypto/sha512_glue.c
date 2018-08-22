@@ -226,3 +226,4 @@ MODULE_ALIAS_CRYPTO("sha384");
 MODULE_ALIAS_CRYPTO("sha512");
 
 #include "crop_devid.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

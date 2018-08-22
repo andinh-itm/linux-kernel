@@ -1078,3 +1078,4 @@ int fsp_init(struct psmouse *psmouse)
 	psmouse->private = NULL;
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

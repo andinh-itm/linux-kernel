@@ -347,3 +347,4 @@ int setup_telespci(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

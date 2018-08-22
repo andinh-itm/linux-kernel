@@ -173,3 +173,4 @@ MODULE_DESCRIPTION("Texas Instruments LP8788 Keyboard LED Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lp8788-keyled");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

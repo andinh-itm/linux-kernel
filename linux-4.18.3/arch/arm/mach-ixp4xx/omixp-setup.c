@@ -277,3 +277,4 @@ MACHINE_START(MIC256, "Omicron MIC256")
 	.restart	= ixp4xx_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

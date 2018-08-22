@@ -186,3 +186,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail Machine driver");
 MODULE_AUTHOR("Omair Md Abdullah, Jarkko Nikula");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:byt-max98090");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

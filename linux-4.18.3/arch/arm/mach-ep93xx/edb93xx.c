@@ -341,3 +341,4 @@ MACHINE_START(EDB9315A, "Cirrus Logic EDB9315A Evaluation Board")
 	.restart	= ep93xx_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -678,3 +678,4 @@ int vfio_pci_set_irqs_ioctl(struct vfio_pci_device *vdev, uint32_t flags,
 
 	return func(vdev, index, start, count, flags, data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -452,3 +452,4 @@ module_param(pci_clock_freq, int, 0444);
 MODULE_PARM_DESC(pci_clock_freq, "System PCI clock frequency in Hz");
 module_init(pci200_init_module);
 module_exit(pci200_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

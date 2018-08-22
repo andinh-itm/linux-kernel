@@ -100,3 +100,4 @@ int snd_gf1_mem_proc_init(struct snd_gus_card * gus)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

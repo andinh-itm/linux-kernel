@@ -186,3 +186,4 @@ out_fail:
 	return ret;
 }
 device_initcall(arm_idle_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

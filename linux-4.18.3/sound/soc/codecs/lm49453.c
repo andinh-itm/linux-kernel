@@ -1468,3 +1468,4 @@ module_i2c_driver(lm49453_i2c_driver);
 MODULE_DESCRIPTION("ASoC LM49453 driver");
 MODULE_AUTHOR("M R Swami Reddy <MR.Swami.Reddy@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

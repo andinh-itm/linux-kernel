@@ -399,3 +399,4 @@ int au0828_rc_resume(struct au0828_dev *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

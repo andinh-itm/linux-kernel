@@ -341,3 +341,4 @@ static __init int q40_add_kbd_device(void)
 	return PTR_ERR_OR_ZERO(pdev);
 }
 arch_initcall(q40_add_kbd_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

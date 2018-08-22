@@ -474,3 +474,4 @@ static struct platform_driver adsp_driver = {
 module_platform_driver(adsp_driver);
 MODULE_DESCRIPTION("Qualcomm MSM8974/MSM8996 ADSP Peripherial Image Loader");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

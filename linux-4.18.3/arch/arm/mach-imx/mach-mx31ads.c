@@ -586,3 +586,4 @@ MACHINE_START(MX31ADS, "Freescale MX31ADS")
 	.init_late	= mx31ads_late,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

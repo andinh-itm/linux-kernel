@@ -425,3 +425,4 @@ int amdtp_motu_init(struct amdtp_stream *s, struct fw_unit *unit,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -341,3 +341,4 @@ int mpc5200_psc_ac97_gpio_reset(int psc_number)
 	return 0;
 }
 EXPORT_SYMBOL(mpc5200_psc_ac97_gpio_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

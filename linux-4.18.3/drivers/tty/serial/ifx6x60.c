@@ -1440,3 +1440,4 @@ MODULE_AUTHOR("Intel");
 MODULE_DESCRIPTION("IFX6x60 spi driver");
 MODULE_LICENSE("GPL");
 MODULE_INFO(Version, "0.1-IFX6x60");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

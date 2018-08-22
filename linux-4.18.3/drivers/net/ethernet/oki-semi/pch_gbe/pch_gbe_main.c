@@ -2814,3 +2814,4 @@ MODULE_PARM_DESC(copybreak,
 	"Maximum size of packet that is copied to a new buffer on receive");
 
 /* pch_gbe_main.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

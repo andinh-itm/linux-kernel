@@ -195,3 +195,4 @@ out0:	kfree(dmabrg_handlers);
 	return ret;
 }
 subsys_initcall(dmabrg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

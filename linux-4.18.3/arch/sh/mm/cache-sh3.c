@@ -103,3 +103,4 @@ void __init sh3_cache_init(void)
 	 */
 	__flush_invalidate_region = sh3__flush_purge_region;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

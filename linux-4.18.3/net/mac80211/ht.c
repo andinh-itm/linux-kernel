@@ -579,3 +579,4 @@ void ieee80211_request_smps(struct ieee80211_vif *vif,
 }
 /* this might change ... don't want non-open drivers using it */
 EXPORT_SYMBOL_GPL(ieee80211_request_smps);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

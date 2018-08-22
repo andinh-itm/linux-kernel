@@ -123,3 +123,4 @@ module_exit(dummy_stm_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("dummy_stm device");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

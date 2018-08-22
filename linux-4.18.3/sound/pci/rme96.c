@@ -2548,3 +2548,4 @@ static struct pci_driver rme96_driver = {
 };
 
 module_pci_driver(rme96_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

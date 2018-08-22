@@ -2535,3 +2535,4 @@ out:
 	return retval;
 }
 EXPORT_SYMBOL(altera_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

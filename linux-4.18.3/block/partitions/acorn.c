@@ -554,3 +554,4 @@ int adfspart_check_EESOX(struct parsed_partitions *state)
 	return i ? 1 : 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

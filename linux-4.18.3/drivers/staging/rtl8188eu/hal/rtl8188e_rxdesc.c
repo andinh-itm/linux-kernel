@@ -197,3 +197,4 @@ void update_recvframe_phyinfo_88e(struct recv_frame *precvframe,
 		rtl8188e_process_phy_info(padapter, precvframe);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

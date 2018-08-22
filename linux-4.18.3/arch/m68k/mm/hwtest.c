@@ -92,3 +92,4 @@ int hwreg_write(volatile void *regp, unsigned short val)
 }
 EXPORT_SYMBOL(hwreg_write);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -262,3 +262,4 @@ struct platform_driver mtk_disp_rdma_driver = {
 		.of_match_table = mtk_disp_rdma_driver_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

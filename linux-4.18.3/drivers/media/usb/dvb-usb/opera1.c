@@ -581,3 +581,4 @@ MODULE_AUTHOR("Marco Gittler (c) g.marco@freenet.de");
 MODULE_DESCRIPTION("Driver for Opera1 DVB-S device");
 MODULE_VERSION("0.1");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

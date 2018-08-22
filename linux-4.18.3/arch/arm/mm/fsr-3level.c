@@ -67,3 +67,4 @@ static struct fsr_info fsr_info[] = {
 };
 
 #define ifsr_info	fsr_info
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

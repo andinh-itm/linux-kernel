@@ -597,3 +597,4 @@ struct cosm_hw_ops cosm_hw_ops = {
 	.stepping = _mic_stepping,
 	.aper = _mic_aper,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

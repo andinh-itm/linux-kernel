@@ -79,3 +79,4 @@ void xge_intr_disable(struct xge_pdata *pdata)
 {
 	xge_wr_csr(pdata, DMAINTRMASK, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

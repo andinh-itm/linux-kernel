@@ -452,3 +452,4 @@ int cx18_firmware_init(struct cx18 *cx)
 
 MODULE_FIRMWARE(CX18_CPU_FIRMWARE);
 MODULE_FIRMWARE(CX18_APU_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -224,3 +224,4 @@ int thermal_zone_get_offset(struct thermal_zone_device *tz)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(thermal_zone_get_offset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

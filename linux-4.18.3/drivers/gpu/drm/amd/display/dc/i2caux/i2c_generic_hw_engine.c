@@ -282,3 +282,4 @@ void dal_i2c_generic_hw_engine_destruct(
 {
 	dal_i2c_hw_engine_destruct(&engine->base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

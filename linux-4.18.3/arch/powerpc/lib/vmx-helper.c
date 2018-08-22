@@ -76,3 +76,4 @@ void *exit_vmx_copy(void *dest)
 	preempt_enable();
 	return dest;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

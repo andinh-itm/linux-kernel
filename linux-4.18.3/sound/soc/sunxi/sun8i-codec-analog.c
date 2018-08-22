@@ -936,3 +936,4 @@ MODULE_DESCRIPTION("Allwinner internal codec analog controls driver");
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sun8i-codec-analog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

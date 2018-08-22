@@ -1237,3 +1237,4 @@ MODULE_AUTHOR("Zhiwu Song <Zhiwu.Song@csr.com>");
 MODULE_AUTHOR("Barry Song <Baohua.Song@csr.com>");
 MODULE_AUTHOR("Qipan Li <Qipan.Li@csr.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1146,3 +1146,4 @@ MODULE_DESCRIPTION("DVB Frontend module for Conexant " \
 MODULE_AUTHOR("Steven Toth");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

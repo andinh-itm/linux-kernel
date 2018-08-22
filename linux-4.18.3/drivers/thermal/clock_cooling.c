@@ -450,3 +450,4 @@ void clock_cooling_unregister(struct thermal_cooling_device *cdev)
 	ida_simple_remove(&clock_ida, ccdev->id);
 }
 EXPORT_SYMBOL_GPL(clock_cooling_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

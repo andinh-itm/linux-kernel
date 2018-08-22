@@ -197,3 +197,4 @@ static void __init r8a7740_cpg_clocks_init(struct device_node *np)
 }
 CLK_OF_DECLARE(r8a7740_cpg_clks, "renesas,r8a7740-cpg-clocks",
 	       r8a7740_cpg_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -190,3 +190,4 @@ nvkm_xtensa_new_(const struct nvkm_xtensa_func *func,
 	return nvkm_engine_ctor(&nvkm_xtensa, device, index,
 				enable, &xtensa->engine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

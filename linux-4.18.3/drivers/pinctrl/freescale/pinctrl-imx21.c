@@ -328,3 +328,4 @@ static struct platform_driver imx21_pinctrl_driver = {
 	},
 };
 builtin_platform_driver_probe(imx21_pinctrl_driver, imx21_pinctrl_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -975,3 +975,4 @@ const struct dentry_operations cifs_ci_dentry_ops = {
 	.d_compare = cifs_ci_compare,
 	.d_automount = cifs_dfs_d_automount,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

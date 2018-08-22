@@ -106,3 +106,4 @@ void vexpress_cpu_die(unsigned int cpu)
 	if (spurious)
 		pr_warn("CPU%u: %u spurious wakeup calls\n", cpu, spurious);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

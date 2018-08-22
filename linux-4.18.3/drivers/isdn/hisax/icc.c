@@ -678,3 +678,4 @@ void setup_icc(struct IsdnCardState *cs)
 	INIT_WORK(&cs->tqueue, icc_bh);
 	timer_setup(&cs->dbusytimer, dbusy_timer_handler, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

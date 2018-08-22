@@ -242,3 +242,4 @@ struct irqaction halt_switch_irqaction = {
 	.handler	= no_action,
 	.name		= "halt-switch"
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

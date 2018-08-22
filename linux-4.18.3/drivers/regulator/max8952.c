@@ -351,3 +351,4 @@ module_exit(max8952_pmic_exit);
 MODULE_DESCRIPTION("MAXIM 8952 voltage regulator driver");
 MODULE_AUTHOR("MyungJoo Ham <myungjoo.ham@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -180,3 +180,4 @@ MODULE_AUTHOR("Jorge Eduardo Candelaria <jedu@slimlogic.co.uk>");
 MODULE_DESCRIPTION("TPS65911 comparator driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:tps65911-comparator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

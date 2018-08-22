@@ -205,3 +205,4 @@ static void __init sun50i_h6_r_ccu_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(sun50i_h6_r_ccu, "allwinner,sun50i-h6-r-ccu",
 	       sun50i_h6_r_ccu_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

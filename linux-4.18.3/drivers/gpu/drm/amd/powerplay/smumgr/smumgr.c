@@ -210,3 +210,4 @@ int smum_smc_table_manager(struct pp_hwmgr *hwmgr, uint8_t *table, uint16_t tabl
 
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

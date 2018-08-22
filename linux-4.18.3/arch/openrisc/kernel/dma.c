@@ -247,3 +247,4 @@ const struct dma_map_ops or1k_dma_map_ops = {
 	.sync_single_for_device = or1k_sync_single_for_device,
 };
 EXPORT_SYMBOL(or1k_dma_map_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

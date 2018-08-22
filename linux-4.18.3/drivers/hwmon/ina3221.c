@@ -443,3 +443,4 @@ module_i2c_driver(ina3221_i2c_driver);
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("Texas Instruments INA3221 HWMon Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -277,3 +277,4 @@ MODULE_AUTHOR("Magnus Damm");
 MODULE_DESCRIPTION("Userspace I/O platform driver with generic IRQ handling");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

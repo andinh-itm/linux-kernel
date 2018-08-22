@@ -1617,3 +1617,4 @@ zr36057_init_vfe (struct zoran *zr)
 		reg |= ZR36057_VDCR_Triton;
 	btwrite(reg, ZR36057_VDCR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

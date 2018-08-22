@@ -692,3 +692,4 @@ MODULE_AUTHOR("Lucas Stach <l.stach@pengutronix.de>");
 MODULE_DESCRIPTION("etnaviv DRM Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:etnaviv");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

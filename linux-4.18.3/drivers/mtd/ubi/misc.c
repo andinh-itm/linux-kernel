@@ -202,3 +202,4 @@ void ubi_err(const struct ubi_device *ubi, const char *fmt, ...)
 	       ubi->ubi_num, __builtin_return_address(0), &vaf);
 	va_end(args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

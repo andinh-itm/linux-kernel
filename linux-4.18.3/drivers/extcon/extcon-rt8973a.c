@@ -717,3 +717,4 @@ subsys_initcall(rt8973a_muic_i2c_init);
 MODULE_DESCRIPTION("Richtek RT8973A Extcon driver");
 MODULE_AUTHOR("Chanwoo Choi <cw00.choi@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3634,3 +3634,4 @@ mpt3sas_ctl_exit(ushort hbas_to_enumerate)
 	if (hbas_to_enumerate != 2)
 		misc_deregister(&gen2_ctl_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

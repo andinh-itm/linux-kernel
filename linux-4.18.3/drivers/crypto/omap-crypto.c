@@ -186,3 +186,4 @@ EXPORT_SYMBOL_GPL(omap_crypto_cleanup);
 MODULE_DESCRIPTION("OMAP crypto support library.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Tero Kristo <t-kristo@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

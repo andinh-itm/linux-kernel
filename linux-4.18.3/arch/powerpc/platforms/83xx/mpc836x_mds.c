@@ -220,3 +220,4 @@ define_machine(mpc836x_mds) {
 	.calibrate_decr	= generic_calibrate_decr,
 	.progress	= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1829,3 +1829,4 @@ void b43_dma_direct_fifo_rx(struct b43_wldev *dev,
 	mmio_base = b43_dmacontroller_base(type, engine_index);
 	direct_fifo_rx(dev, type, mmio_base, enable);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

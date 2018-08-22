@@ -305,3 +305,4 @@ MODULE_ALIAS_CRYPTO("speck128");
 MODULE_ALIAS_CRYPTO("speck128-generic");
 MODULE_ALIAS_CRYPTO("speck64");
 MODULE_ALIAS_CRYPTO("speck64-generic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

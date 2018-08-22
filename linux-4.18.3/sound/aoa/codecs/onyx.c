@@ -1057,3 +1057,4 @@ static struct i2c_driver onyx_driver = {
 };
 
 module_i2c_driver(onyx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

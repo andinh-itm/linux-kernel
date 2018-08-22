@@ -645,3 +645,4 @@ void acpi_device_remove_files(struct acpi_device *dev)
 	if (dev->handle)
 		device_remove_file(&dev->dev, &dev_attr_path);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

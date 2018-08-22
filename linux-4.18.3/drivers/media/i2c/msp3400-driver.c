@@ -905,3 +905,4 @@ static struct i2c_driver msp_driver = {
 };
 
 module_i2c_driver(msp_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

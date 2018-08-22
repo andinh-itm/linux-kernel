@@ -271,3 +271,4 @@ module_exit(err_inject_exit);
 MODULE_AUTHOR("Fenghua Yu <fenghua.yu@intel.com>");
 MODULE_DESCRIPTION("MC error injection kernel sysfs interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

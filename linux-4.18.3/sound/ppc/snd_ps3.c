@@ -1157,3 +1157,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PS3 sound driver");
 MODULE_AUTHOR("Sony Computer Entertainment Inc.");
 MODULE_ALIAS(PS3_MODULE_ALIAS_SOUND);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

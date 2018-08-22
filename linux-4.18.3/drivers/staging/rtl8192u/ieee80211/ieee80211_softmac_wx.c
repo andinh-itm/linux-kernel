@@ -597,3 +597,4 @@ exit:
 
 }
 EXPORT_SYMBOL(ieee80211_wx_get_power);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

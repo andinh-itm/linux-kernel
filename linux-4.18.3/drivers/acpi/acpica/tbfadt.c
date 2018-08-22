@@ -720,3 +720,4 @@ static void acpi_tb_setup_fadt_registers(void)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

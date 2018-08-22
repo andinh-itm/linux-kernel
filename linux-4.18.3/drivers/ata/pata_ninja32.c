@@ -195,3 +195,4 @@ MODULE_DESCRIPTION("low-level driver for Ninja32 ATA");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, ninja32);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

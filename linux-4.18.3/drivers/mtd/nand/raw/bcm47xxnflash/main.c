@@ -79,3 +79,4 @@ static struct platform_driver bcm47xxnflash_driver = {
 };
 
 module_platform_driver(bcm47xxnflash_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

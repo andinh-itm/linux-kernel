@@ -1542,3 +1542,4 @@ void i40iw_hw_stats_stop_timer(struct i40iw_sc_vsi *vsi)
 
 	del_timer_sync(&devstat->stats_timer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

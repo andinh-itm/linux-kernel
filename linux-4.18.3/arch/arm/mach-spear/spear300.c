@@ -215,3 +215,4 @@ DT_MACHINE_START(SPEAR300_DT, "ST SPEAr300 SoC with Flattened Device Tree")
 	.restart	=	spear_restart,
 	.dt_compat	=	spear300_dt_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

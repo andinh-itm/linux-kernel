@@ -124,3 +124,4 @@ module_platform_driver(hisi_rng_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kefeng Wang <wangkefeng.wang@huawei>");
 MODULE_DESCRIPTION("Hisilicon random number generator driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

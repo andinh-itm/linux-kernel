@@ -114,3 +114,4 @@ void xge_mac_disable(struct xge_pdata *pdata)
 	data &= ~(TX_EN | RX_EN);
 	xge_wr_csr(pdata, MAC_CONFIG_1, data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

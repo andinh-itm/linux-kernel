@@ -452,3 +452,4 @@ void ar9002_hw_load_ani_reg(struct ath_hw *ah, struct ath9k_channel *chan)
 
 	REGWRITE_BUFFER_FLUSH(ah);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

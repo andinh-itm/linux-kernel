@@ -1053,3 +1053,4 @@ const struct kirin_dc_ops ade_dc_ops = {
 	.init = ade_drm_init,
 	.cleanup = ade_drm_cleanup
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

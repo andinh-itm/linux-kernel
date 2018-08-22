@@ -653,3 +653,4 @@ exit:
 
 }
 EXPORT_SYMBOL(rtllib_wx_get_power);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

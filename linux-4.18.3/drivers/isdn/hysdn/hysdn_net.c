@@ -324,3 +324,4 @@ hysdn_net_getname(hysdn_card *card)
 
 	return (dev->name);
 }				/* hysdn_net_getname */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

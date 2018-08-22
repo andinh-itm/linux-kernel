@@ -318,3 +318,4 @@ int snd_hdac_ext_bus_link_put(struct hdac_ext_bus *ebus,
 	return ret;
 }
 EXPORT_SYMBOL_GPL(snd_hdac_ext_bus_link_put);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

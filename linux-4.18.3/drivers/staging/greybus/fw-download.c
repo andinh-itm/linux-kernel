@@ -464,3 +464,4 @@ void gb_fw_download_connection_exit(struct gb_connection *connection)
 	ida_destroy(&fw_download->id_map);
 	kfree(fw_download);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

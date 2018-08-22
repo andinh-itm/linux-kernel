@@ -135,3 +135,4 @@ void __init omap243x_powerdomains_init(void)
 	pwrdm_register_pwrdms(powerdomains_omap2430);
 	pwrdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

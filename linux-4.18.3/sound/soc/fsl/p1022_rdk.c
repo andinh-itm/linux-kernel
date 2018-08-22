@@ -389,3 +389,4 @@ module_exit(p1022_rdk_exit);
 MODULE_AUTHOR("Timur Tabi <timur@freescale.com>");
 MODULE_DESCRIPTION("Freescale / iVeia P1022 RDK ALSA SoC machine driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

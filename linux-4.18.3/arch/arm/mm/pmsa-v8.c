@@ -305,3 +305,4 @@ void __init pmsav8_setup(void)
 		pr_info("Using ARM PMSAv8 Compliant MPU. Used %d of %d regions\n",
 			mpu_rgn_info.used, mpu_max_regions);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -151,3 +151,4 @@ static void __init nspire_clk_setup_classic(struct device_node *node)
 CLK_OF_DECLARE(nspire_clk_cx, "lsi,nspire-cx-clock", nspire_clk_setup_cx);
 CLK_OF_DECLARE(nspire_clk_classic, "lsi,nspire-classic-clock",
 		nspire_clk_setup_classic);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

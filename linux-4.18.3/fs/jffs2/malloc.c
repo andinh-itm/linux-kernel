@@ -313,3 +313,4 @@ void jffs2_free_xattr_ref(struct jffs2_xattr_ref *ref)
 	kmem_cache_free(xattr_ref_cache, ref);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

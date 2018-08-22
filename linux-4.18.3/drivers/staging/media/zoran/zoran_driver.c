@@ -2848,3 +2848,4 @@ const struct video_device zoran_template = {
 	.tvnorms = V4L2_STD_NTSC | V4L2_STD_PAL | V4L2_STD_SECAM,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

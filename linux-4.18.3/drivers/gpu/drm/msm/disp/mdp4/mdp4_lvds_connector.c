@@ -133,3 +133,4 @@ struct drm_connector *mdp4_lvds_connector_init(struct drm_device *dev,
 
 	return connector;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

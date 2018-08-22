@@ -88,3 +88,4 @@ const struct vb2_ops au0828_vbi_qops = {
 	.wait_prepare    = vb2_ops_wait_prepare,
 	.wait_finish     = vb2_ops_wait_finish,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

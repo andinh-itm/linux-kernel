@@ -54,3 +54,4 @@ const struct smp_operations emev2_smp_ops __initconst = {
 	.smp_prepare_cpus	= emev2_smp_prepare_cpus,
 	.smp_boot_secondary	= emev2_boot_secondary,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

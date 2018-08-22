@@ -1677,3 +1677,4 @@ const struct file_operations kernfs_dir_fops = {
 	.release	= kernfs_dir_fop_release,
 	.llseek		= generic_file_llseek,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

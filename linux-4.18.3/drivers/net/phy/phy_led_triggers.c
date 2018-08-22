@@ -174,3 +174,4 @@ void phy_led_triggers_unregister(struct phy_device *phy)
 		phy_led_trigger_unregister(phy->led_link_trigger);
 }
 EXPORT_SYMBOL_GPL(phy_led_triggers_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

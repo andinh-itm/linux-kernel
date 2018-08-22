@@ -97,3 +97,4 @@ module_exit(mtdblock_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("Simple read-only block device emulation access to MTD devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

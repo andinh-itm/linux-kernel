@@ -1178,3 +1178,4 @@ int smu7_power_control_set_level(struct pp_hwmgr *hwmgr)
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

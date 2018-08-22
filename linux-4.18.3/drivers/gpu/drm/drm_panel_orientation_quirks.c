@@ -193,3 +193,4 @@ EXPORT_SYMBOL(drm_get_panel_orientation_quirk);
 #endif
 
 MODULE_LICENSE("Dual MIT/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

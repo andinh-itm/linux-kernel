@@ -1351,3 +1351,4 @@ const struct inode_operations udf_dir_inode_operations = {
 	.rename				= udf_rename,
 	.tmpfile			= udf_tmpfile,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

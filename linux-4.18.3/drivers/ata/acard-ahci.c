@@ -510,3 +510,4 @@ MODULE_DESCRIPTION("ACard AHCI SATA low-level driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, acard_ahci_pci_tbl);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

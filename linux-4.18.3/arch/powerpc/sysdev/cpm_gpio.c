@@ -77,3 +77,4 @@ MODULE_AUTHOR("Christophe Leroy <christophe.leroy@c-s.fr>");
 MODULE_DESCRIPTION("Driver for CPM GPIO");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:cpm-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

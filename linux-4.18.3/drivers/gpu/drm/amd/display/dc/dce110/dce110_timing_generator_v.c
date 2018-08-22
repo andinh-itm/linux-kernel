@@ -699,3 +699,4 @@ void dce110_timing_generator_v_construct(
 	tg110->min_h_front_porch = 4;
 	tg110->min_h_back_porch = 4;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

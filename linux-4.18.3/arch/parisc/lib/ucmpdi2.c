@@ -24,3 +24,4 @@ int __ucmpdi2(unsigned long long a, unsigned long long b)
 		return 2;
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

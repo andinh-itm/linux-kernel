@@ -100,3 +100,4 @@ void pstore_unregister_pmsg(void)
 	class_destroy(pmsg_class);
 	unregister_chrdev(pmsg_major, PMSG_NAME);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

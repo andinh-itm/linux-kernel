@@ -629,3 +629,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI message manager driver");
 MODULE_AUTHOR("Nishanth Menon");
 MODULE_ALIAS("platform:ti-msgmgr");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

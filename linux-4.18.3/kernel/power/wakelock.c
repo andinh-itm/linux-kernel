@@ -280,3 +280,4 @@ int pm_wake_unlock(const char *buf)
 	mutex_unlock(&wakelocks_lock);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

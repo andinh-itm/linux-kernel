@@ -146,3 +146,4 @@ lm3533_ctrlbank_get(pwm, PWM);
 MODULE_AUTHOR("Johan Hovold <jhovold@gmail.com>");
 MODULE_DESCRIPTION("LM3533 Control Bank interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

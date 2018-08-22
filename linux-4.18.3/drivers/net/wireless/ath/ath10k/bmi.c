@@ -459,3 +459,4 @@ int ath10k_bmi_fast_download(struct ath10k *ar,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

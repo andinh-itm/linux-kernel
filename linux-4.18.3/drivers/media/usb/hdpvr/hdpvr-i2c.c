@@ -215,3 +215,4 @@ int hdpvr_register_i2c_adapter(struct hdpvr_device *dev)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

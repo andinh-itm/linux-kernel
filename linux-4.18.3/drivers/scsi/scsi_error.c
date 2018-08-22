@@ -2448,3 +2448,4 @@ bool scsi_get_sense_info_fld(const u8 *sense_buffer, int sb_len,
 	}
 }
 EXPORT_SYMBOL(scsi_get_sense_info_fld);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

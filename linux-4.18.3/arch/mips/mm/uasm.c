@@ -631,3 +631,4 @@ void uasm_il_bbit1(u32 **p, struct uasm_reloc **r, unsigned int reg,
 	uasm_i_bbit1(p, reg, bit, 0);
 }
 UASM_EXPORT_SYMBOL(uasm_il_bbit1);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

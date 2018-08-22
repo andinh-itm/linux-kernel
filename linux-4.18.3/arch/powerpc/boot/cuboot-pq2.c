@@ -270,3 +270,4 @@ void platform_init(unsigned long r3, unsigned long r4, unsigned long r5,
 	serial_console_init();
 	platform_ops.fixups = pq2_platform_fixups;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

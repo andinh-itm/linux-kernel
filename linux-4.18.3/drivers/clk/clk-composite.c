@@ -355,3 +355,4 @@ void clk_unregister_composite(struct clk *clk)
 	clk_unregister(clk);
 	kfree(composite);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

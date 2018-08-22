@@ -6013,3 +6013,4 @@ lpfc_debug_dump_all_queues(struct lpfc_hba *phba)
 	for (idx = 0; idx < phba->io_channel_irqs; idx++)
 		lpfc_debug_dump_hba_eq(phba, idx);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

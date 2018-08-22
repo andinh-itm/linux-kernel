@@ -147,3 +147,4 @@ int module_finalize(const Elf32_Ehdr *hdr, const Elf_Shdr *sechdrs,
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

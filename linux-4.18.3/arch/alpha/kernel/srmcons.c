@@ -294,3 +294,4 @@ unregister_srm_console(void)
 		srm_is_registered_console = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

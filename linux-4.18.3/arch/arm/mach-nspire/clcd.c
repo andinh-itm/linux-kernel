@@ -116,3 +116,4 @@ void nspire_clcd_remove(struct clcd_fb *fb)
 	dma_free_wc(&fb->dev->dev, fb->fb.fix.smem_len, fb->fb.screen_base,
 		    fb->fb.fix.smem_start);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

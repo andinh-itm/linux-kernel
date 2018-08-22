@@ -134,3 +134,4 @@ struct regmap *__devm_regmap_init_spi(struct spi_device *spi,
 EXPORT_SYMBOL_GPL(__devm_regmap_init_spi);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

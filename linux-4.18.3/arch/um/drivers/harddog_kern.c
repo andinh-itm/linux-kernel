@@ -176,3 +176,4 @@ static struct miscdevice harddog_miscdev = {
 	.fops		= &harddog_fops,
 };
 module_misc_device(harddog_miscdev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

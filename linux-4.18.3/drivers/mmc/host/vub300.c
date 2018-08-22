@@ -2478,3 +2478,4 @@ module_exit(vub300_exit);
 MODULE_AUTHOR("Tony Olech <tony.olech@elandigitalsystems.com>");
 MODULE_DESCRIPTION("VUB300 USB to SD/MMC/SDIO adapter driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

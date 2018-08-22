@@ -4050,3 +4050,4 @@ int snd_cs46xx_create(struct snd_card *card,
 	*rchip = chip;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

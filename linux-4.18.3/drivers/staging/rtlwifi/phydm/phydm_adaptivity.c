@@ -928,3 +928,4 @@ void phydm_set_edcca_threshold_api(void *dm_void, u8 IGI)
 		phydm_set_edcca_threshold(dm, th_h2l_dmc, th_l2h_dmc);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

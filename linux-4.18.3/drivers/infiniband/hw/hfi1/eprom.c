@@ -489,3 +489,4 @@ done:
 	release_chip_resource(dd, CR_EPROM);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

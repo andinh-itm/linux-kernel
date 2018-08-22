@@ -8352,3 +8352,4 @@ static struct hda_codec_driver realtek_driver = {
 };
 
 module_hda_codec_driver(realtek_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

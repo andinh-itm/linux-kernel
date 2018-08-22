@@ -293,3 +293,4 @@ static int __init pseries_processor_idle_init(void)
 }
 
 device_initcall(pseries_processor_idle_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

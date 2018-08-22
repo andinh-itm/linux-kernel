@@ -89,3 +89,4 @@ memset (void *dstpp, int sc, size_t len)
 
   return dstpp;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

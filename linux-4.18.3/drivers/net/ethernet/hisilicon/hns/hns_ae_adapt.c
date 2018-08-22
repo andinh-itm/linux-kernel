@@ -963,3 +963,4 @@ void hns_dsaf_ae_uninit(struct dsaf_device *dsaf_dev)
 {
 	hnae_ae_unregister(&dsaf_dev->ae_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1070,3 +1070,4 @@ void acpi_tb_notify_table(u32 event, void *table)
 					     acpi_gbl_table_handler_context);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

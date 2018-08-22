@@ -1053,3 +1053,4 @@ hw_autodetect:
 	return 0;
 }
 EXPORT_SYMBOL(cx88_audio_thread);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

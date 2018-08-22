@@ -61,3 +61,4 @@ module_misc_device(bL_switcher_device);
 MODULE_AUTHOR("Nicolas Pitre <nico@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("big.LITTLE switcher dummy user interface");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

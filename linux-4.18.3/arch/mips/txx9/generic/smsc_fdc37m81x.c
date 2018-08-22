@@ -167,3 +167,4 @@ void smsc_fdc37m81x_config_dump(void)
 	smsc_fdc37m81x_config_end();
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

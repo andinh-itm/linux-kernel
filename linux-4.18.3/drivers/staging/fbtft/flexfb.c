@@ -841,3 +841,4 @@ module_exit(flexfb_exit);
 MODULE_DESCRIPTION("Generic FB driver for TFT LCD displays");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

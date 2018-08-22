@@ -1084,3 +1084,4 @@ fail:
 	efi_printk(sys_table, "efi_main() failed!\n");
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

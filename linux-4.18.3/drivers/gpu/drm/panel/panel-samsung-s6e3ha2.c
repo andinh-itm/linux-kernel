@@ -787,3 +787,4 @@ MODULE_AUTHOR("Hyungwon Hwang <human.hwang@samsung.com>");
 MODULE_AUTHOR("Hoegeun Kwon <hoegeun.kwon@samsung.com>");
 MODULE_DESCRIPTION("MIPI-DSI based s6e3ha2 AMOLED Panel Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

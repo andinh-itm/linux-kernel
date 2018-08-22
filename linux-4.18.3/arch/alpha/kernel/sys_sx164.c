@@ -177,3 +177,4 @@ struct alpha_machine_vector sx164_mv __initmv = {
 	.pci_swizzle		= common_swizzle,
 };
 ALIAS_MV(sx164)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

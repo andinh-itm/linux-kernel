@@ -255,3 +255,4 @@ MODULE_DESCRIPTION("Apple Backlight Driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(acpi, apple_bl_ids);
 MODULE_ALIAS("mbp_nvidia_bl");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

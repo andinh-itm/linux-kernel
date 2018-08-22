@@ -368,3 +368,4 @@ void __exit mntfunc_finit(void)
 	memset(&MAdapter, 0, sizeof(MAdapter));
 	dprintf = no_printf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

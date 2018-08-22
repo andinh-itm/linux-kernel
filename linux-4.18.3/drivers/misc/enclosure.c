@@ -694,3 +694,4 @@ module_exit(enclosure_exit);
 MODULE_AUTHOR("James Bottomley");
 MODULE_DESCRIPTION("Enclosure Services");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

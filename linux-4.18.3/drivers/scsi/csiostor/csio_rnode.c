@@ -919,3 +919,4 @@ csio_rnode_exit(struct csio_rnode *rn)
 	list_del_init(&rn->sm.sm_list);
 	CSIO_DB_ASSERT(list_empty(&rn->host_cmpl_q));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

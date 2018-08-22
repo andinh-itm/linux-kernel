@@ -1703,3 +1703,4 @@ module_pci_driver(ips_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jesse Barnes <jbarnes@virtuousgeek.org>");
 MODULE_DESCRIPTION("Intelligent Power Sharing Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

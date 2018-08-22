@@ -77,3 +77,4 @@ void __init msp_vsmp_int_init(void)
 	arch_init_ipiirq(MIPS_CPU_IPI_CALL_IRQ, &irq_call);
 }
 #endif /* CONFIG_MIPS_MT_SMP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

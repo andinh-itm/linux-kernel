@@ -572,3 +572,4 @@ module_platform_driver(evea_codec_driver);
 MODULE_AUTHOR("Katsuhiro Suzuki <suzuki.katsuhiro@socionext.com>");
 MODULE_DESCRIPTION("UniPhier EVEA codec driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

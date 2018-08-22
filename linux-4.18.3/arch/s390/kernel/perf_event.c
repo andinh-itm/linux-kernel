@@ -244,3 +244,4 @@ ssize_t cpumf_events_sysfs_show(struct device *dev,
 	pmu_attr = container_of(attr, struct perf_pmu_events_attr, attr);
 	return sprintf(page, "event=0x%04llx\n", pmu_attr->id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

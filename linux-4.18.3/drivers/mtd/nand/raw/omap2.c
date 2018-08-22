@@ -2317,3 +2317,4 @@ module_platform_driver(omap_nand_driver);
 MODULE_ALIAS("platform:" DRIVER_NAME);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Glue layer for NAND flash on TI OMAP boards");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

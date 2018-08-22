@@ -439,3 +439,4 @@ MODULE_AUTHOR("Wolfram Sang");
 MODULE_DESCRIPTION("Watchdog driver for IMX2 and later");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

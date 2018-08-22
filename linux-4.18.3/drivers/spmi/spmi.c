@@ -601,3 +601,4 @@ postcore_initcall(spmi_init);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("SPMI module");
 MODULE_ALIAS("platform:spmi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

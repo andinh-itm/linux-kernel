@@ -306,3 +306,4 @@ void ath9k_sta_add_debugfs(struct ieee80211_hw *hw,
 	debugfs_create_file("node_recv", 0444, dir, an, &fops_node_recv);
 	debugfs_create_file("airtime", 0444, dir, an, &fops_airtime);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

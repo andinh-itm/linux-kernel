@@ -2079,3 +2079,4 @@ void ast_post_chip_2500(struct drm_device *dev)
 		reg = ast_get_index_reg_mask(ast, AST_IO_CRTC_PORT, 0xd0, 0xff);
 	} while ((reg & 0x40) == 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

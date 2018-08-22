@@ -508,3 +508,4 @@ void prepare_qBri2_functions(PISDN_ADAPTER IoAdapter) {
 }
 
 /* -------------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

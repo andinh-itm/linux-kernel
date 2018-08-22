@@ -269,3 +269,4 @@ MODULE_DESCRIPTION("low-level driver for CMD640 PATA controllers");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, cmd640);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

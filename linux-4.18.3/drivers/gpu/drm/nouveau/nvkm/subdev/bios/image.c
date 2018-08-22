@@ -81,3 +81,4 @@ nvbios_image(struct nvkm_bios *bios, int idx, struct nvbios_image *image)
 	bios->imaged_addr = imaged_addr;
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

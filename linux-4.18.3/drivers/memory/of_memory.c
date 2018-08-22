@@ -152,3 +152,4 @@ default_timings:
 	return lpddr2_jedec_timings;
 }
 EXPORT_SYMBOL(of_get_ddr_timings);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

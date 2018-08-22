@@ -452,3 +452,4 @@ struct page *snd_pcm_lib_get_vmalloc_page(struct snd_pcm_substream *substream,
 	return vmalloc_to_page(substream->runtime->dma_area + offset);
 }
 EXPORT_SYMBOL(snd_pcm_lib_get_vmalloc_page);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -523,3 +523,4 @@ int __init omap1_mux_init(void)
 #define omap_cfg_reg(x)	do {} while(0)
 #endif	/* CONFIG_OMAP_MUX */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

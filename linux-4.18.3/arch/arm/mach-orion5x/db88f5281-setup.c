@@ -377,3 +377,4 @@ MACHINE_START(DB88F5281, "Marvell Orion-2 Development Board")
 	.init_time	= orion5x_timer_init,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1287,3 +1287,4 @@ module_platform_driver(mtk_jpeg_driver);
 
 MODULE_DESCRIPTION("MediaTek JPEG codec driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

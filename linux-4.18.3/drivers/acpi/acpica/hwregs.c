@@ -795,3 +795,4 @@ acpi_hw_write_multiple(u32 value,
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

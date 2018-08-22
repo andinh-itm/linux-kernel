@@ -124,3 +124,4 @@ void amdgpu_dm_crtc_handle_crc_irq(struct drm_crtc *crtc)
 	drm_crtc_add_crc_entry(crtc, true,
 			       drm_crtc_accurate_vblank_count(crtc), crcs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

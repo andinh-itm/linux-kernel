@@ -1703,3 +1703,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("MX3 framebuffer driver");
 MODULE_ALIAS("platform:" MX3FB_NAME);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

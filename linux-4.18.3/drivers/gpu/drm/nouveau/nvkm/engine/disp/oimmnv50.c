@@ -62,3 +62,4 @@ nv50_disp_oimm_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	return nv50_disp_oimm_new_(&nv50_disp_pioc_func, disp, 5, 5,
 				   oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

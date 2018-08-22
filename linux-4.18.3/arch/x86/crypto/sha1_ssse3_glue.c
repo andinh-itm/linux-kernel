@@ -380,3 +380,4 @@ MODULE_ALIAS_CRYPTO("sha1-avx2");
 #ifdef CONFIG_AS_SHA1_NI
 MODULE_ALIAS_CRYPTO("sha1-ni");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

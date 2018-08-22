@@ -299,3 +299,4 @@ mips_pci_controller:
 		return;
 	register_up_smp_ops();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

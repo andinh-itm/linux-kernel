@@ -98,3 +98,4 @@ void foo(void)
 	DEFINE(__NR_syscall_max, sizeof(syscalls) - 1);
 	DEFINE(NR_syscalls, sizeof(syscalls));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

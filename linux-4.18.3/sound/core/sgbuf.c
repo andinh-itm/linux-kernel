@@ -162,3 +162,4 @@ unsigned int snd_sgbuf_get_chunk_size(struct snd_dma_buffer *dmab,
 	return size;
 }
 EXPORT_SYMBOL(snd_sgbuf_get_chunk_size);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

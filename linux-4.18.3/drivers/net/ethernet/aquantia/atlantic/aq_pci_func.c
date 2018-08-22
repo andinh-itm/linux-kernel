@@ -362,3 +362,4 @@ static struct pci_driver aq_pci_ops = {
 };
 
 module_pci_driver(aq_pci_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

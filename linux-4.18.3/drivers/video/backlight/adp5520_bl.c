@@ -395,3 +395,4 @@ MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("ADP5520(01) Backlight Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:adp5520-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

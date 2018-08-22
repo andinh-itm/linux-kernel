@@ -582,3 +582,4 @@ void mac_do_pci_fix(struct s_smc *smc)
 }
 #endif	/* PCI */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

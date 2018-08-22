@@ -369,3 +369,4 @@ MODULE_AUTHOR("Alex Dubov");
 MODULE_DESCRIPTION("TI FlashMedia core driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -232,3 +232,4 @@ struct drm_bridge *devm_drm_panel_bridge_add(struct device *dev,
 	return bridge;
 }
 EXPORT_SYMBOL(devm_drm_panel_bridge_add);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

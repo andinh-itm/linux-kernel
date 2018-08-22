@@ -330,3 +330,4 @@ int slim_writeb(struct slim_device *sdev, u32 addr, u8 value)
 	return slim_write(sdev, addr, 1, &value);
 }
 EXPORT_SYMBOL_GPL(slim_writeb);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

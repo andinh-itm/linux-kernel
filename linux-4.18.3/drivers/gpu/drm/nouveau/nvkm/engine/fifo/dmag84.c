@@ -92,3 +92,4 @@ g84_fifo_dma_oclass = {
 	.base.maxver = 0,
 	.ctor = g84_fifo_dma_new,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

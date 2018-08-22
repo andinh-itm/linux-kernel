@@ -181,3 +181,4 @@ void rockchip_drm_fbdev_fini(struct drm_device *dev)
 
 	drm_fb_helper_fini(helper);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

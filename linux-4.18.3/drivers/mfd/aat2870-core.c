@@ -519,3 +519,4 @@ module_exit(aat2870_exit);
 MODULE_DESCRIPTION("Core support for the AnalogicTech AAT2870");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jin Park <jinyoungp@nvidia.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

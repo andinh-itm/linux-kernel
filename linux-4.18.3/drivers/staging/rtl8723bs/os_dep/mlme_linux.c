@@ -196,3 +196,4 @@ void init_mlme_ext_timer(struct adapter *padapter)
 	timer_setup(&pmlmeext->link_timer, link_timer_hdl, 0);
 	timer_setup(&pmlmeext->sa_query_timer, sa_query_timer_hdl, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

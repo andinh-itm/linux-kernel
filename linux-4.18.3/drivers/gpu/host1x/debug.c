@@ -228,3 +228,4 @@ void host1x_debug_dump_syncpts(struct host1x *host1x)
 
 	show_syncpts(host1x, &o);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

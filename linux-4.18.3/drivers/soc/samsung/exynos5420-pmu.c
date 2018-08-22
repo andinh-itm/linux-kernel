@@ -274,3 +274,4 @@ const struct exynos_pmu_data exynos5420_pmu_data = {
 	.pmu_init	= exynos5420_pmu_init,
 	.powerdown_conf	= exynos5420_powerdown_conf,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

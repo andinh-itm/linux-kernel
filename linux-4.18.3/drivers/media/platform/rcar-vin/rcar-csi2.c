@@ -1082,3 +1082,4 @@ module_platform_driver(rcar_csi2_pdrv);
 MODULE_AUTHOR("Niklas Söderlund <niklas.soderlund@ragnatech.se>");
 MODULE_DESCRIPTION("Renesas R-Car MIPI CSI-2 receiver driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

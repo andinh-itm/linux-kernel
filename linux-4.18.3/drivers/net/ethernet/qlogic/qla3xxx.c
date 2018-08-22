@@ -3947,3 +3947,4 @@ static struct pci_driver ql3xxx_driver = {
 };
 
 module_pci_driver(ql3xxx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

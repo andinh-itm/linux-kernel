@@ -3098,3 +3098,4 @@ int emulate_step(struct pt_regs *regs, unsigned int instr)
 	return 1;
 }
 NOKPROBE_SYMBOL(emulate_step);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

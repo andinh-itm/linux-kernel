@@ -2919,3 +2919,4 @@ module_platform_driver(qcom_nandc_driver);
 MODULE_AUTHOR("Archit Taneja <architt@codeaurora.org>");
 MODULE_DESCRIPTION("Qualcomm NAND Controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

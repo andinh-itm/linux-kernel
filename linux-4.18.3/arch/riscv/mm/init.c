@@ -70,3 +70,4 @@ void free_initrd_mem(unsigned long start, unsigned long end)
 {
 }
 #endif /* CONFIG_BLK_DEV_INITRD */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

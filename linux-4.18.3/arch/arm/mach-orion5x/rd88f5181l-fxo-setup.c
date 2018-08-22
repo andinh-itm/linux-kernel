@@ -173,3 +173,4 @@ MACHINE_START(RD88F5181L_FXO, "Marvell Orion-VoIP FXO Reference Design")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

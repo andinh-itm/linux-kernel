@@ -249,3 +249,4 @@ void rockchip_drm_psr_unregister(struct drm_encoder *encoder)
 	mutex_unlock(&drm_drv->psr_list_lock);
 }
 EXPORT_SYMBOL(rockchip_drm_psr_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

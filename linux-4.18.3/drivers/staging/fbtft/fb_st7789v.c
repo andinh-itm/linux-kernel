@@ -254,3 +254,4 @@ MODULE_ALIAS("platform:st7789v");
 MODULE_DESCRIPTION("FB driver for the ST7789V LCD Controller");
 MODULE_AUTHOR("Dennis Menschel");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

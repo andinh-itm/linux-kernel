@@ -525,3 +525,4 @@ module_spi_driver(ads8688_driver);
 MODULE_AUTHOR("Sean Nyekjaer <sean.nyekjaer@prevas.dk>");
 MODULE_DESCRIPTION("Texas Instruments ADS8688 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

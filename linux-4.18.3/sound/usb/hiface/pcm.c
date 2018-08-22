@@ -626,3 +626,4 @@ int hiface_pcm_init(struct hiface_chip *chip, u8 extra_freq)
 	chip->pcm = rt;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

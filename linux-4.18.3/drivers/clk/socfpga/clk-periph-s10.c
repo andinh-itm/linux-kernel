@@ -147,3 +147,4 @@ struct clk *s10_register_cnt_periph(const char *name, const char *parent_name,
 	}
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

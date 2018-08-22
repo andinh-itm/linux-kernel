@@ -1622,3 +1622,4 @@ MODULE_VERSION(__stringify(VMWGFX_DRIVER_MAJOR) "."
 	       __stringify(VMWGFX_DRIVER_MINOR) "."
 	       __stringify(VMWGFX_DRIVER_PATCHLEVEL) "."
 	       "0");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

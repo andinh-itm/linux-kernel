@@ -212,3 +212,4 @@ void __init prom_init_env(void)
 	}
 	pr_info("CpuClock = %u\n", cpu_clock_freq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

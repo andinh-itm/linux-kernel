@@ -196,3 +196,4 @@ int snd_motu_create_hwdep_device(struct snd_motu *motu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

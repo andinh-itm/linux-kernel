@@ -454,3 +454,4 @@ MODULE_DEVICE_TABLE(platform, vimc_sca_driver_ids);
 MODULE_DESCRIPTION("Virtual Media Controller Driver (VIMC) Scaler");
 MODULE_AUTHOR("Helen Mae Koike Fornazier <helen.fornazier@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

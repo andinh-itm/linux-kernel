@@ -333,3 +333,4 @@ MODULE_FIRMWARE(ADF_C62X_FW);
 MODULE_FIRMWARE(ADF_C62X_MMP);
 MODULE_DESCRIPTION("Intel(R) QuickAssist Technology");
 MODULE_VERSION(ADF_DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

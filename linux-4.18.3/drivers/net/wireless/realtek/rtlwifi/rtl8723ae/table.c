@@ -730,3 +730,4 @@ u32 RTL8723EAGCTAB_1TARRAY[RTL8723E_AGCTAB_1TARRAYLENGTH] = {
 	0xc78, 0x621e001e,
 	0xc78, 0x621f001e,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

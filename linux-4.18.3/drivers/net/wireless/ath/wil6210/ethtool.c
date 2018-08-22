@@ -126,3 +126,4 @@ void wil_set_ethtoolops(struct net_device *ndev)
 {
 	ndev->ethtool_ops = &wil_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -58,3 +58,4 @@ void platform_init(unsigned long r3, unsigned long r4, unsigned long r5,
 	loader_info.cmdline = (char *)bd.bi_cmdline;
 	loader_info.cmdline_len = strlen((char *)bd.bi_cmdline);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

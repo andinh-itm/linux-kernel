@@ -833,3 +833,4 @@ void nouveau_hw_load_state(struct drm_device *dev, int head,
 	nv_load_state_vga(dev, head, state);
 	NVVgaProtect(dev, head, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

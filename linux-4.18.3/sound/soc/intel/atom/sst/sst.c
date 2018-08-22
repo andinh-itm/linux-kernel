@@ -582,3 +582,4 @@ const struct dev_pm_ops intel_sst_pm = {
 	.runtime_suspend = intel_sst_runtime_suspend,
 };
 EXPORT_SYMBOL_GPL(intel_sst_pm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

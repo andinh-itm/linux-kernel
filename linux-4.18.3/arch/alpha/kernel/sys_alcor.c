@@ -307,3 +307,4 @@ struct alpha_machine_vector xlt_mv __initmv = {
 
 /* No alpha_mv alias for XLT, since we compile it in unconditionally
    with ALCOR; setup_arch knows how to cope.  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

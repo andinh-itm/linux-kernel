@@ -1147,3 +1147,4 @@ static struct usb_driver p54u_driver = {
 };
 
 module_usb_driver(p54u_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

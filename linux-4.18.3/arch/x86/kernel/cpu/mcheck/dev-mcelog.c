@@ -361,3 +361,4 @@ static __init int dev_mcelog_init_device(void)
 	return 0;
 }
 device_initcall_sync(dev_mcelog_init_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

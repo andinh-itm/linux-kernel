@@ -97,3 +97,4 @@ static struct i2c_driver ov7640_driver = {
 	.id_table = ov7640_id,
 };
 module_i2c_driver(ov7640_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

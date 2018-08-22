@@ -1038,3 +1038,4 @@ void a2mp_discover_amp(struct l2cap_chan *chan)
 	req.ext_feat = 0;
 	a2mp_send(mgr, A2MP_DISCOVER_REQ, 1, sizeof(req), &req);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

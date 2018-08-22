@@ -256,3 +256,4 @@ void dss_mgr_unregister_framedone_handler(struct omap_dss_device *dssdev,
 						  handler, data);
 }
 EXPORT_SYMBOL(dss_mgr_unregister_framedone_handler);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

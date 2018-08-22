@@ -557,3 +557,4 @@ void dce110_compressor_construct(struct dce110_compressor *compressor,
 #endif
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

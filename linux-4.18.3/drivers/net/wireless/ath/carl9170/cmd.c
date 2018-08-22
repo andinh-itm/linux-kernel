@@ -220,3 +220,4 @@ int carl9170_powersave(struct ar9170 *ar, const bool ps)
 	cmd->psm.state = cpu_to_le32(state);
 	return __carl9170_exec_cmd(ar, cmd, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

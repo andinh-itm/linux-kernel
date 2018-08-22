@@ -818,3 +818,4 @@ void cpufreq_cooling_unregister(struct thermal_cooling_device *cdev)
 	kfree(cpufreq_cdev);
 }
 EXPORT_SYMBOL_GPL(cpufreq_cooling_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

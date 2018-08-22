@@ -340,3 +340,4 @@ void devm_nsio_disable(struct device *dev, struct nd_namespace_io *nsio)
 	devm_release_mem_region(dev, res->start, resource_size(res));
 }
 EXPORT_SYMBOL_GPL(devm_nsio_disable);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

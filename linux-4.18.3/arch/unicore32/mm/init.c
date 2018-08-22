@@ -405,3 +405,4 @@ static int __init keepinitrd_setup(char *__unused)
 
 __setup("keepinitrd", keepinitrd_setup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

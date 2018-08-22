@@ -1377,3 +1377,4 @@ void rtl_efuse_ops_init(struct ieee80211_hw *hw)
 	rtlpriv->efuse.efuse_ops = &efuse_ops;
 }
 EXPORT_SYMBOL_GPL(rtl_efuse_ops_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

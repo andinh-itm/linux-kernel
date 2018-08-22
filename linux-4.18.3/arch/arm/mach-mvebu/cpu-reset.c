@@ -102,3 +102,4 @@ static int __init mvebu_cpu_reset_init(void)
 }
 
 early_initcall(mvebu_cpu_reset_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

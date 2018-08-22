@@ -3326,3 +3326,4 @@ MODULE_AUTHOR("Kevin Wells <kevin.wells@nxp.com>");
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lpc32xx_udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

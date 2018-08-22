@@ -771,3 +771,4 @@ lpfc_rq_buf_free(struct lpfc_hba *phba, struct lpfc_dmabuf *mp)
 
 	spin_unlock_irqrestore(&phba->hbalock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2014,3 +2014,4 @@ int ci_hdrc_gadget_init(struct ci_hdrc *ci)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

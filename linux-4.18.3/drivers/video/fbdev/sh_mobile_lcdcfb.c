@@ -2795,3 +2795,4 @@ module_platform_driver(sh_mobile_lcdc_driver);
 MODULE_DESCRIPTION("SuperH Mobile LCDC Framebuffer driver");
 MODULE_AUTHOR("Magnus Damm <damm@opensource.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -142,3 +142,4 @@ void cvmx_helper_qlm_jtag_update(int qlm)
 		jtgd.u64 = cvmx_read_csr(CVMX_CIU_QLM_JTGD);
 	} while (jtgd.s.update);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

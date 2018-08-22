@@ -2198,3 +2198,4 @@ void pci_assign_unassigned_bus_resources(struct pci_bus *bus)
 	BUG_ON(!list_empty(&add_list));
 }
 EXPORT_SYMBOL_GPL(pci_assign_unassigned_bus_resources);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

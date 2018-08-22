@@ -3862,3 +3862,4 @@ module_pci_driver(net2280_pci_driver);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("David Brownell");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

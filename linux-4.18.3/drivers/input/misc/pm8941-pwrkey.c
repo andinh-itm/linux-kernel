@@ -290,3 +290,4 @@ module_platform_driver(pm8941_pwrkey_driver);
 
 MODULE_DESCRIPTION("PM8941 Power Key driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

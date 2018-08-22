@@ -2622,3 +2622,4 @@ MODULE_AUTHOR("Kevin Cernekee");
 MODULE_AUTHOR("Brian Norris");
 MODULE_DESCRIPTION("NAND driver for Broadcom chips");
 MODULE_ALIAS("platform:brcmnand");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

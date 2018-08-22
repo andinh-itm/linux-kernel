@@ -509,3 +509,4 @@ struct clk *ti_clk_register(struct device *dev, struct clk_hw *hw,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

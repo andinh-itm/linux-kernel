@@ -1228,3 +1228,4 @@ module_i2c_driver(raydium_i2c_driver);
 MODULE_AUTHOR("Raydium");
 MODULE_DESCRIPTION("Raydium I2c Touchscreen driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

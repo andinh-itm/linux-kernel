@@ -275,3 +275,4 @@ inithscxisac(struct IsdnCardState *cs, int part)
 		cs->writeisac(cs, ISAC_CMDR, 0x41);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -642,3 +642,4 @@ DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_CHELSIO, PCI_ANY_ID,
 			quirk_chelsio_extend_vpd);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

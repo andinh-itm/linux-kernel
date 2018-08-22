@@ -57,3 +57,4 @@ nv10_fifo_new(struct nvkm_device *device, int index, struct nvkm_fifo **pfifo)
 	return nv04_fifo_new_(&nv10_fifo, device, index, 32,
 			      nv10_fifo_ramfc, pfifo);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

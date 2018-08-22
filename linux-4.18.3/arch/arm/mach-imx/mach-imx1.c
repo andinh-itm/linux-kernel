@@ -42,3 +42,4 @@ DT_MACHINE_START(IMX1_DT, "Freescale i.MX1 (Device Tree Support)")
 	.dt_compat	= imx1_dt_board_compat,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -97,3 +97,4 @@ int fuse_set_acl(struct inode *inode, struct posix_acl *acl, int type)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

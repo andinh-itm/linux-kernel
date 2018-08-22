@@ -97,3 +97,4 @@ struct concap_proto *isdn_concap_new(int encap)
 	}
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -494,3 +494,4 @@ void snd_seq_info_timer_read(struct snd_info_entry *entry,
 }
 #endif /* CONFIG_SND_PROC_FS */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

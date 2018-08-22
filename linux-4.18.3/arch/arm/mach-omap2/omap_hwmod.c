@@ -3962,3 +3962,4 @@ const char *omap_hwmod_get_main_clk(struct omap_hwmod *oh)
 
 	return oh->main_clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

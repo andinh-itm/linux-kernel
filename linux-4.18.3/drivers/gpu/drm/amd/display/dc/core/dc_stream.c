@@ -355,3 +355,4 @@ void dc_stream_log(
 			"\tlink: %d\n",
 			stream->sink->link->link_index);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -192,3 +192,4 @@ static void __exit alsa_card_pmac_exit(void)
 
 module_init(alsa_card_pmac_init)
 module_exit(alsa_card_pmac_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

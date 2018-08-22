@@ -1671,3 +1671,4 @@ int qat_uclo_wr_all_uimage(struct icp_qat_fw_loader_handle *handle)
 	return (handle->fw_auth) ? qat_uclo_wr_suof_img(handle) :
 				   qat_uclo_wr_uof_img(handle);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

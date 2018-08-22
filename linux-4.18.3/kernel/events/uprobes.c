@@ -2042,3 +2042,4 @@ static int __init init_uprobes(void)
 	return register_die_notifier(&uprobe_exception_nb);
 }
 __initcall(init_uprobes);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

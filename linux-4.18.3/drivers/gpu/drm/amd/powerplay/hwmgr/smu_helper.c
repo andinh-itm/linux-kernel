@@ -706,3 +706,4 @@ int smu_set_watermarks_for_clocks_ranges(void *wt_table,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

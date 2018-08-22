@@ -1349,3 +1349,4 @@ vmcore_find_descriptor_size (unsigned long address)
 	return ret;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

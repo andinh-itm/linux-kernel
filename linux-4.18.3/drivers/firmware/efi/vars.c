@@ -1185,3 +1185,4 @@ out:
 	return rv;
 }
 EXPORT_SYMBOL_GPL(efivars_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

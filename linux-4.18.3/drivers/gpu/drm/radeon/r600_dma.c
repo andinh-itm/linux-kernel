@@ -494,3 +494,4 @@ struct radeon_fence *r600_copy_dma(struct radeon_device *rdev,
 
 	return fence;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

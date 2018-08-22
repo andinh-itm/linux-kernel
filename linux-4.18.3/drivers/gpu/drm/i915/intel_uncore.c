@@ -2333,3 +2333,4 @@ intel_uncore_forcewake_for_reg(struct drm_i915_private *dev_priv,
 #include "selftests/mock_uncore.c"
 #include "selftests/intel_uncore.c"
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

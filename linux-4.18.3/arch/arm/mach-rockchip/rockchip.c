@@ -81,3 +81,4 @@ DT_MACHINE_START(ROCKCHIP_DT, "Rockchip (Device Tree)")
 	.dt_compat	= rockchip_board_dt_compat,
 	.init_machine	= rockchip_dt_init,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

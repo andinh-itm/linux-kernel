@@ -436,3 +436,4 @@ module_i2c_driver(cm3232_driver);
 MODULE_AUTHOR("Kevin Tsai <ktsai@capellamicro.com>");
 MODULE_DESCRIPTION("CM3232 ambient light sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

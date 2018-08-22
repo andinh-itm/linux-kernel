@@ -207,3 +207,4 @@ module_platform_driver(lpc18xx_dac_driver);
 MODULE_DESCRIPTION("LPC18xx DAC driver");
 MODULE_AUTHOR("Joachim Eastwood <manabian@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

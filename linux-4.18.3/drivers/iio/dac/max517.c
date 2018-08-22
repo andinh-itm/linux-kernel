@@ -240,3 +240,4 @@ module_i2c_driver(max517_driver);
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("MAX517/518/519/520/521 8-bit DAC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

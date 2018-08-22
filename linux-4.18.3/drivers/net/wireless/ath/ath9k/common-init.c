@@ -242,3 +242,4 @@ void ath9k_cmn_reload_chainmask(struct ath_hw *ah)
 			&common->sbands[NL80211_BAND_5GHZ].ht_cap);
 }
 EXPORT_SYMBOL(ath9k_cmn_reload_chainmask);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

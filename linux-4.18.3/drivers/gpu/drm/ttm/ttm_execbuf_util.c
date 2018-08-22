@@ -213,3 +213,4 @@ void ttm_eu_fence_buffer_objects(struct ww_acquire_ctx *ticket,
 		ww_acquire_fini(ticket);
 }
 EXPORT_SYMBOL(ttm_eu_fence_buffer_objects);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

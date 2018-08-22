@@ -673,3 +673,4 @@ int stop_machine_from_inactive_cpu(cpu_stop_fn_t fn, void *data,
 	mutex_unlock(&stop_cpus_mutex);
 	return ret ?: done.ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -516,3 +516,4 @@ const struct amdgpu_ip_block_version vega10_ih_ip_block =
 	.rev = 0,
 	.funcs = &vega10_ih_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

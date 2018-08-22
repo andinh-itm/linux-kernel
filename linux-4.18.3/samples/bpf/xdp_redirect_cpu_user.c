@@ -695,3 +695,4 @@ int main(int argc, char **argv)
 	stats_poll(interval, use_separators, prog_num, stress_mode);
 	return EXIT_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

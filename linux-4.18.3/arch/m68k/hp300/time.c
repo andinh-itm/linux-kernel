@@ -76,3 +76,4 @@ void __init hp300_sched_init(irq_handler_t vector)
   out_8(CLOCKBASE + CLKCR2, 0x1);		/* select CR1 */
   out_8(CLOCKBASE + CLKCR1, 0x40);		/* enable irq */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

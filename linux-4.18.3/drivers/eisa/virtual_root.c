@@ -71,3 +71,4 @@ static int __init virtual_eisa_root_init (void)
 module_param (force_probe, int, 0444);
 
 device_initcall (virtual_eisa_root_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

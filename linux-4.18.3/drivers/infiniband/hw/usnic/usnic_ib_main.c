@@ -713,3 +713,4 @@ MODULE_DEVICE_TABLE(pci, usnic_ib_pci_ids);
 module_init(usnic_ib_init);
 module_exit(usnic_ib_destroy);
 /* End of module section */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

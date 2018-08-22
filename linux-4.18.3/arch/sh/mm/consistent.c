@@ -153,3 +153,4 @@ int __init platform_resource_setup_memory(struct platform_device *pdev,
 	r->name = name;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

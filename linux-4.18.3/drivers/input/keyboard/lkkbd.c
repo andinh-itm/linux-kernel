@@ -731,3 +731,4 @@ static struct serio_driver lkkbd_drv = {
 };
 
 module_serio_driver(lkkbd_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

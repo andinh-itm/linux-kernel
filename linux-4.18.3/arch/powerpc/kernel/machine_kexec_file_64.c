@@ -318,3 +318,4 @@ int setup_new_fdt(const struct kimage *image, void *fdt,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

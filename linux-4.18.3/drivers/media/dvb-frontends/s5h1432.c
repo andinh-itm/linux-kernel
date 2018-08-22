@@ -397,3 +397,4 @@ MODULE_PARM_DESC(debug, "Enable verbose debug messages");
 MODULE_DESCRIPTION("Samsung s5h1432 DVB-T Demodulator driver");
 MODULE_AUTHOR("Bill Liu");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

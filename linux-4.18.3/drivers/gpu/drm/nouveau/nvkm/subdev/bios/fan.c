@@ -92,3 +92,4 @@ nvbios_fan_parse(struct nvkm_bios *bios, struct nvbios_therm_fan *fan)
 
 	return data;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

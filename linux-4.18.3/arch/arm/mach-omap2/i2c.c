@@ -91,3 +91,4 @@ int omap_i2c_reset(struct omap_hwmod *oh)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

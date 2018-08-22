@@ -145,3 +145,4 @@ static int __init nvic_of_init(struct device_node *node,
 	return 0;
 }
 IRQCHIP_DECLARE(armv7m_nvic, "arm,armv7m-nvic", nvic_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

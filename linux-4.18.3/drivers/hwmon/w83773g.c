@@ -327,3 +327,4 @@ module_i2c_driver(w83773_driver);
 MODULE_AUTHOR("Lei YU <mine260309@gmail.com>");
 MODULE_DESCRIPTION("W83773G temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

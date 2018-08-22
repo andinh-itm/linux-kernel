@@ -72,3 +72,4 @@ module_exit(ebt_nflog_fini);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Peter Warasin <peter@endian.com>");
 MODULE_DESCRIPTION("ebtables NFLOG netfilter logging module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

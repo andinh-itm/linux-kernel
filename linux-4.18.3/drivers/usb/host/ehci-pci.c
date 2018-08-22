@@ -425,3 +425,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("David Brownell");
 MODULE_AUTHOR("Alan Stern");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

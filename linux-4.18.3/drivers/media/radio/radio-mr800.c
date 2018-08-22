@@ -607,3 +607,4 @@ static struct usb_driver usb_amradio_driver = {
 };
 
 module_usb_driver(usb_amradio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1115,3 +1115,4 @@ static struct pci_driver hinic_driver = {
 };
 
 module_pci_driver(hinic_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

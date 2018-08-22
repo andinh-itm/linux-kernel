@@ -341,3 +341,4 @@ MACHINE_START(NAS100D, "Iomega NAS 100d")
 #endif
 	.restart	= ixp4xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

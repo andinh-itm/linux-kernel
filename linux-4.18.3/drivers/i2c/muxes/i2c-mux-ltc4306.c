@@ -319,3 +319,4 @@ module_i2c_driver(ltc4306_driver);
 MODULE_AUTHOR("Michael Hennerich <michael.hennerich@analog.com>");
 MODULE_DESCRIPTION("Linear Technology LTC4306, LTC4305 I2C mux/switch driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -280,3 +280,4 @@ MODULE_ALIAS("platform:zx-pwm");
 MODULE_AUTHOR("Shawn Guo <shawn.guo@linaro.org>");
 MODULE_DESCRIPTION("ZTE ZX PWM Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

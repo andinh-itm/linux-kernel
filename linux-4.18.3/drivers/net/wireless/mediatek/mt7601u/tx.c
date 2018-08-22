@@ -321,3 +321,4 @@ int mt7601u_conf_tx(struct ieee80211_hw *hw, struct ieee80211_vif *vif,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -304,3 +304,4 @@ unsigned long intc_get_ack_handle(unsigned int irq)
 {
 	return ack_handle[irq];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

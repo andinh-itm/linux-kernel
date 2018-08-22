@@ -197,3 +197,4 @@ module_platform_driver(cz_pcm_driver);
 MODULE_AUTHOR("akshu.agrawal@amd.com");
 MODULE_DESCRIPTION("cz-rt5645 audio support");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

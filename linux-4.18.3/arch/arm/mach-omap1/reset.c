@@ -62,3 +62,4 @@ u32 omap1_get_reset_sources(void)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

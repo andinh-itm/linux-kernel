@@ -206,3 +206,4 @@ module_exit(md5_mod_fini);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("MD5 Message Digest Algorithm (OCTEON)");
 MODULE_AUTHOR("Aaro Koskinen <aaro.koskinen@iki.fi>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

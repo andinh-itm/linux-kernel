@@ -1049,3 +1049,4 @@ EXPORT_SYMBOL(bmc150_magn_pm_ops);
 MODULE_AUTHOR("Irina Tirdea <irina.tirdea@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("BMC150 magnetometer core driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

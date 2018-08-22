@@ -275,3 +275,4 @@ module_platform_driver(iproc_pwmc_driver);
 MODULE_AUTHOR("Yendapally Reddy Dhananjaya Reddy <yendapally.reddy@broadcom.com>");
 MODULE_DESCRIPTION("Broadcom iProc PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

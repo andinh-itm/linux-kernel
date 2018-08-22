@@ -278,3 +278,4 @@ int intel_dp_aux_init_backlight_funcs(struct intel_connector *intel_connector)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

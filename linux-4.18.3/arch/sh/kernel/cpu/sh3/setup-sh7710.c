@@ -189,3 +189,4 @@ void __init plat_irq_setup(void)
 	register_intc_controller(&intc_desc);
 	plat_irq_setup_sh3();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

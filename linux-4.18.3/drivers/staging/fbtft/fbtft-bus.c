@@ -241,3 +241,4 @@ int fbtft_write_vmem16_bus16(struct fbtft_par *par, size_t offset, size_t len)
 	return fbtft_write_buf_dc(par, vmem16, len, 1);
 }
 EXPORT_SYMBOL(fbtft_write_vmem16_bus16);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

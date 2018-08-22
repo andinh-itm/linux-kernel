@@ -1109,3 +1109,4 @@ void __exit rfcomm_cleanup_sockets(void)
 
 	proto_unregister(&rfcomm_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -45,3 +45,4 @@ void of_console_init(void)
 	console_ops.open = of_console_open;
 	console_ops.write = of_console_write;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

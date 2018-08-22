@@ -1408,3 +1408,4 @@ static void set_multicast_list(struct net_device *dev)
 		i596_add_cmd(dev, &cmd->cmd);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

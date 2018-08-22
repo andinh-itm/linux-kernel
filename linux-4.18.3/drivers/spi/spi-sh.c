@@ -525,3 +525,4 @@ MODULE_DESCRIPTION("SH SPI bus driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Yoshihiro Shimoda");
 MODULE_ALIAS("platform:sh_spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

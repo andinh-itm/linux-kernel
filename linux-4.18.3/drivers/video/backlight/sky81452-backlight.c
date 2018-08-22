@@ -351,3 +351,4 @@ module_platform_driver(sky81452_bl_driver);
 MODULE_DESCRIPTION("Skyworks SKY81452 backlight driver");
 MODULE_AUTHOR("Gyungoh Yoo <jack.yoo@skyworksinc.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

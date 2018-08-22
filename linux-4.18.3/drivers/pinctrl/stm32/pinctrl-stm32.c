@@ -1194,3 +1194,4 @@ int stm32_pctl_probe(struct platform_device *pdev)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

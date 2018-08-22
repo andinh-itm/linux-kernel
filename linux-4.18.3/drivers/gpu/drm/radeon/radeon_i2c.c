@@ -1154,3 +1154,4 @@ void radeon_router_select_cd_port(struct radeon_connector *radeon_connector)
 			    0x1, val);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1964,3 +1964,4 @@ void kvmppc_xive_exit_module(void)
 	__xive_vm_h_cppr = NULL;
 	__xive_vm_h_eoi = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

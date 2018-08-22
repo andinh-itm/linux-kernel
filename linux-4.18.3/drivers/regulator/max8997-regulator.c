@@ -1237,3 +1237,4 @@ module_exit(max8997_pmic_cleanup);
 MODULE_DESCRIPTION("MAXIM 8997/8966 Regulator Driver");
 MODULE_AUTHOR("MyungJoo Ham <myungjoo.ham@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

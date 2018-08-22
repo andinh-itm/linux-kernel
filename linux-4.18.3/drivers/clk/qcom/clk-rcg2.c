@@ -929,3 +929,4 @@ const struct clk_ops clk_rcg2_shared_ops = {
 	.set_rate_and_parent = clk_rcg2_shared_set_rate_and_parent,
 };
 EXPORT_SYMBOL_GPL(clk_rcg2_shared_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

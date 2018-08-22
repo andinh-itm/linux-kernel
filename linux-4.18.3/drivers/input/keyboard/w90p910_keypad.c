@@ -266,3 +266,4 @@ MODULE_AUTHOR("Wan ZongShun <mcuos.com@gmail.com>");
 MODULE_DESCRIPTION("w90p910 keypad driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:nuc900-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

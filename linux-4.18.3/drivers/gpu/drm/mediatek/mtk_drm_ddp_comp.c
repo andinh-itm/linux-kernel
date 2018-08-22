@@ -329,3 +329,4 @@ void mtk_ddp_comp_unregister(struct drm_device *drm, struct mtk_ddp_comp *comp)
 
 	private->ddp_comp[comp->id] = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -194,3 +194,4 @@ MODULE_ALIAS("platform:ssd1325");
 MODULE_DESCRIPTION("SSD1325 OLED Driver");
 MODULE_AUTHOR("Alexey Mednyy");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

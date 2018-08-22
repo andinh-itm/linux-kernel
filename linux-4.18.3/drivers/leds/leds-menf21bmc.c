@@ -112,3 +112,4 @@ MODULE_AUTHOR("Andreas Werner <andreas.werner@men.de>");
 MODULE_DESCRIPTION("MEN 14F021P00 BMC led driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:menf21bmc_led");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -408,3 +408,4 @@ MODULE_DESCRIPTION("AMD756/766/768/8111 and nVidia nForce SMBus driver");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(amd756_smbus);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -468,3 +468,4 @@ ahc_pci_map_int(struct ahc_softc *ahc)
 	return (-error);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

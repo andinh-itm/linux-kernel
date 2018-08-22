@@ -1062,3 +1062,4 @@ ulong kvmppc_alignment_dar(struct kvm_vcpu *vcpu, unsigned int inst)
 	return dar;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

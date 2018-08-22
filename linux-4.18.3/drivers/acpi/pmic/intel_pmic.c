@@ -319,3 +319,4 @@ out_error:
 	return ret;
 }
 EXPORT_SYMBOL_GPL(intel_pmic_install_opregion_handler);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

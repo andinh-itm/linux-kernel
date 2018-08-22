@@ -788,3 +788,4 @@ int twl4030_init_chip_irq(const char *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

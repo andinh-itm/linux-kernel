@@ -304,3 +304,4 @@ const struct snd_motu_protocol snd_motu_protocol_v3 = {
 	.switch_fetching_mode	= v3_switch_fetching_mode,
 	.cache_packet_formats	= v3_cache_packet_formats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

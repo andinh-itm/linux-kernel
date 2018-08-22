@@ -182,3 +182,4 @@ static struct sh_machine_vector mv_cayman __initmv = {
 	.mv_ioport_map		= cayman_ioport_map,
 	.mv_init_irq		= init_cayman_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

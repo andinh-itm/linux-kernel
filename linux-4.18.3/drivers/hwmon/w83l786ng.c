@@ -776,3 +776,4 @@ module_i2c_driver(w83l786ng_driver);
 MODULE_AUTHOR("Kevin Lo");
 MODULE_DESCRIPTION("w83l786ng driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

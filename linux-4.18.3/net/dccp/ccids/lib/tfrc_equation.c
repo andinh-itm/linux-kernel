@@ -703,3 +703,4 @@ u32 tfrc_invert_loss_event_rate(u32 loss_event_rate)
 		return 1000000;
 	return max_t(u32, scaled_div(1, loss_event_rate), TFRC_SMALLEST_P);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

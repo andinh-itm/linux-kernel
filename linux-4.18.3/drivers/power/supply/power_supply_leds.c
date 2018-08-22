@@ -168,3 +168,4 @@ void power_supply_remove_triggers(struct power_supply *psy)
 	else
 		power_supply_remove_gen_triggers(psy);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

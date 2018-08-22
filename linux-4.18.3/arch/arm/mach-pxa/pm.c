@@ -115,3 +115,4 @@ static int __init pxa_pm_init(void)
 }
 
 device_initcall(pxa_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -190,3 +190,4 @@ void cpu_topology_release(struct cpupower_topology cpu_top)
 {
 	free(cpu_top.core_info);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

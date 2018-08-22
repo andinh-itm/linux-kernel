@@ -390,3 +390,4 @@ int snd_bebob_create_pcm_devices(struct snd_bebob *bebob)
 end:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

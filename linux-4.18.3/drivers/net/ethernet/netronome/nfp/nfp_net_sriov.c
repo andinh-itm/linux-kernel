@@ -247,3 +247,4 @@ int nfp_app_get_vf_config(struct net_device *netdev, int vf,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

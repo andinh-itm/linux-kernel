@@ -157,3 +157,4 @@ void __init ath79_gpio_init(void)
 
 	platform_device_register(&ath79_gpio_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

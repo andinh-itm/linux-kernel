@@ -280,3 +280,4 @@ MODULE_AUTHOR("Wang, Joseph C <joequant@gmail.com>");
 MODULE_AUTHOR("John Hsu <KCHSU0@nuvoton.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:cht-bsw-nau8824");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

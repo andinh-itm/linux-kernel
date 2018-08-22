@@ -714,3 +714,4 @@ int shpchp_sysfs_disable_slot(struct slot *p_slot)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

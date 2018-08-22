@@ -281,3 +281,4 @@ MACHINE_START(CSB726, "Cogent CSB726")
 	.init_time	= pxa_timer_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

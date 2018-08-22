@@ -1534,3 +1534,4 @@ MODULE_AUTHOR("Timur Tabi <timur@freescale.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS_CHARDEV_MAJOR(SERIAL_QE_MAJOR);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

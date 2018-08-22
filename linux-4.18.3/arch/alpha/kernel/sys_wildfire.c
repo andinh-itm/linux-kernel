@@ -348,3 +348,4 @@ struct alpha_machine_vector wildfire_mv __initmv = {
 	.node_mem_size		= wildfire_node_mem_size,
 };
 ALIAS_MV(wildfire)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

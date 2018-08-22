@@ -1119,3 +1119,4 @@ void ath9k_cmn_spectral_init_debug(struct ath_spec_scan_priv *spec_priv,
 			    &fops_spectral_fft_period);
 }
 EXPORT_SYMBOL(ath9k_cmn_spectral_init_debug);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

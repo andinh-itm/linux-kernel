@@ -824,3 +824,4 @@ void hdmi4_uninit_platform_driver(void)
 {
 	platform_driver_unregister(&omapdss_hdmihw_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

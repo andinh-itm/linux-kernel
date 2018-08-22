@@ -170,3 +170,4 @@ static struct acpi_driver xo15_ebook_driver = {
 	.drv.pm = &ebook_switch_pm,
 };
 module_acpi_driver(xo15_ebook_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

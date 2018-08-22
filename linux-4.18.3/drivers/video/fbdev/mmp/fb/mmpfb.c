@@ -685,3 +685,4 @@ module_init(mmpfb_init);
 MODULE_AUTHOR("Zhou Zhu <zhou.zhu@marvell.com>");
 MODULE_DESCRIPTION("Framebuffer driver for Marvell displays");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

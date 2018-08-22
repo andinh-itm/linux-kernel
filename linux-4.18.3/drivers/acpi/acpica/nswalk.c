@@ -322,3 +322,4 @@ acpi_ns_walk_namespace(acpi_object_type type,
 
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

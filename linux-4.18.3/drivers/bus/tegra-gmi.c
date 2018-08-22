@@ -282,3 +282,4 @@ module_platform_driver(tegra_gmi_driver);
 MODULE_AUTHOR("Mirza Krak <mirza.krak@gmail.com");
 MODULE_DESCRIPTION("NVIDIA Tegra GMI Bus Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

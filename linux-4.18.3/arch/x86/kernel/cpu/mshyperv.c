@@ -312,3 +312,4 @@ const __initconst struct hypervisor_x86 x86_hyper_ms_hyperv = {
 	.type			= X86_HYPER_MS_HYPERV,
 	.init.init_platform	= ms_hyperv_init_platform,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

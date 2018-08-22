@@ -136,3 +136,4 @@ int module_finalize(const Elf_Ehdr *hdr, const Elf_Shdr *sechdrs,
 	flush_cache_all();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

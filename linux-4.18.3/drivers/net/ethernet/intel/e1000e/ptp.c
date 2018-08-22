@@ -340,3 +340,4 @@ void e1000e_ptp_remove(struct e1000_adapter *adapter)
 		e_info("removed PHC\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -90,3 +90,4 @@ MODULE_AUTHOR("Ari Saastamoinen");
 MODULE_AUTHOR("Felipe Balbi");
 MODULE_AUTHOR("Aaro Koskinen <aaro.koskinen@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

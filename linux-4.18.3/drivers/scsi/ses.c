@@ -893,3 +893,4 @@ MODULE_ALIAS_SCSI_DEVICE(TYPE_ENCLOSURE);
 MODULE_AUTHOR("James Bottomley");
 MODULE_DESCRIPTION("SCSI Enclosure Services (ses) driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

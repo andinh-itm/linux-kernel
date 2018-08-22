@@ -295,3 +295,4 @@ module_platform_driver(vf610_dac_driver);
 MODULE_AUTHOR("Sanchayan Maity <sanchayan.maity@toradex.com>");
 MODULE_DESCRIPTION("Freescale VF610 DAC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

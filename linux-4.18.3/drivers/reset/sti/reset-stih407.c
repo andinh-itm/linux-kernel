@@ -161,3 +161,4 @@ static int __init stih407_reset_init(void)
 }
 
 arch_initcall(stih407_reset_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

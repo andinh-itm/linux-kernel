@@ -23,3 +23,4 @@ const char *get_arch_regstr(unsigned int n)
 {
 	return n < XTENSA_MAX_REGS ? xtensa_regs_table[n] : NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

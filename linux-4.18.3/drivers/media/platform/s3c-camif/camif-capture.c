@@ -1657,3 +1657,4 @@ int s3c_camif_set_defaults(struct camif_dev *camif)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

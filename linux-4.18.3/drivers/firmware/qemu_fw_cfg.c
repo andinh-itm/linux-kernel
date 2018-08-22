@@ -937,3 +937,4 @@ static void __exit fw_cfg_sysfs_exit(void)
 
 module_init(fw_cfg_sysfs_init);
 module_exit(fw_cfg_sysfs_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

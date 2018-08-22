@@ -706,3 +706,4 @@ snd_seq_oss_midi_info_read(struct snd_info_buffer *buf)
 	}
 }
 #endif /* CONFIG_SND_PROC_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

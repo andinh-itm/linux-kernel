@@ -308,3 +308,4 @@ void cirrus_fbdev_fini(struct cirrus_device *cdev)
 	kfree(cdev->mode_info.gfbdev);
 	cdev->mode_info.gfbdev = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -420,3 +420,4 @@ MODULE_DESCRIPTION("ATA low-level driver for NS87415 controllers");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, ns87415_pci_tbl);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

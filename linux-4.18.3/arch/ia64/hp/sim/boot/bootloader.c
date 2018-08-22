@@ -173,3 +173,4 @@ start_bootloader (void)
 	cons_write("kernel returned!\n");
 	ssc(-1, 0, 0, 0, SSC_EXIT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

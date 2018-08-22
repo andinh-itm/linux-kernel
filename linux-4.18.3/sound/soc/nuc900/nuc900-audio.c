@@ -73,3 +73,4 @@ module_exit(nuc900evb_audio_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("NUC900 Series ASoC audio support");
 MODULE_AUTHOR("Wan ZongShun");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

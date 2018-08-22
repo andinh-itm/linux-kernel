@@ -364,3 +364,4 @@ module_spi_driver(ltc2632_driver);
 MODULE_AUTHOR("Maxime Roussin-Belanger <maxime.roussinbelanger@gmail.com>");
 MODULE_DESCRIPTION("LTC2632 DAC SPI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

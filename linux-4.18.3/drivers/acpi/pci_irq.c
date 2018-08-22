@@ -537,3 +537,4 @@ void acpi_pci_irq_disable(struct pci_dev *dev)
 		dev->irq_managed = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

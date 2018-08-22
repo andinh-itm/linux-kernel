@@ -258,3 +258,4 @@ module_platform_driver(wkup_m3_rproc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI Wakeup M3 remote processor control driver");
 MODULE_AUTHOR("Dave Gerlach <d-gerlach@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

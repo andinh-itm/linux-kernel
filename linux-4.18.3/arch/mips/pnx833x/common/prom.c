@@ -62,3 +62,4 @@ char __init *prom_getenv(char *envname)
 void __init prom_free_prom_memory(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

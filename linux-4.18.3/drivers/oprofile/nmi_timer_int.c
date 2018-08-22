@@ -155,3 +155,4 @@ int __init op_nmi_timer_init(struct oprofile_operations *ops)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

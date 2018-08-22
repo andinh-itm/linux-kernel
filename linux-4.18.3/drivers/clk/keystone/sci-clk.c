@@ -540,3 +540,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI System Control Interface(SCI) Clock driver");
 MODULE_AUTHOR("Tero Kristo");
 MODULE_ALIAS("platform:ti-sci-clk");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

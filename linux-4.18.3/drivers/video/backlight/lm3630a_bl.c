@@ -487,3 +487,4 @@ MODULE_DESCRIPTION("Texas Instruments Backlight driver for LM3630A");
 MODULE_AUTHOR("Daniel Jeong <gshark.jeong@gmail.com>");
 MODULE_AUTHOR("LDD MLP <ldd-mlp@list.ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

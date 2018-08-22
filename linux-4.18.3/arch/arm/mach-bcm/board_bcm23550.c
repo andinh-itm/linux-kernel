@@ -23,3 +23,4 @@ static const char * const bcm23550_dt_compat[] = {
 DT_MACHINE_START(BCM23550_DT, "BCM23550 Broadcom Application Processor")
 	.dt_compat = bcm23550_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

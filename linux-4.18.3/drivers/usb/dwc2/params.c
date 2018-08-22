@@ -817,3 +817,4 @@ int dwc2_init_params(struct dwc2_hsotg *hsotg)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

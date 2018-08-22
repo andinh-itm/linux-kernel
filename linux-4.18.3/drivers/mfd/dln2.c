@@ -830,3 +830,4 @@ module_usb_driver(dln2_driver);
 MODULE_AUTHOR("Octavian Purdila <octavian.purdila@intel.com>");
 MODULE_DESCRIPTION("Core driver for the Diolan DLN2 interface adapter");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

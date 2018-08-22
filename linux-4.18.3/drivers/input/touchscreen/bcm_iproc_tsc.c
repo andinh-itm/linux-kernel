@@ -529,3 +529,4 @@ module_platform_driver(iproc_ts_driver);
 MODULE_DESCRIPTION("IPROC Touchscreen driver");
 MODULE_AUTHOR("Broadcom");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

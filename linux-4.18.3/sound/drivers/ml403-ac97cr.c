@@ -1333,3 +1333,4 @@ static struct platform_driver snd_ml403_ac97cr_driver = {
 };
 
 module_platform_driver(snd_ml403_ac97cr_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

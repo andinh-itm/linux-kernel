@@ -1265,3 +1265,4 @@ static struct hda_codec_driver cirrus_driver = {
 };
 
 module_hda_codec_driver(cirrus_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

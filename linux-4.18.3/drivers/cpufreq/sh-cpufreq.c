@@ -185,3 +185,4 @@ module_exit(sh_cpufreq_module_exit);
 MODULE_AUTHOR("Paul Mundt <lethal@linux-sh.org>");
 MODULE_DESCRIPTION("cpufreq driver for SuperH");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -231,3 +231,4 @@ module_platform_driver(sharpsl_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Richard Purdie <rpurdie@rpsys.net>");
 MODULE_DESCRIPTION("Device specific logic for NAND flash on Sharp SL-C7xx Series");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

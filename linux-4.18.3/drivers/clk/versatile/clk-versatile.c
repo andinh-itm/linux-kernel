@@ -98,3 +98,4 @@ static void __init of_versatile_cm_osc_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(versatile_cm_auxosc_clk,
 	       "arm,versatile-cm-auxosc", of_versatile_cm_osc_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

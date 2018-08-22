@@ -94,3 +94,4 @@ int ide_scan_pio_blacklist(char *model)
 	}
 	return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

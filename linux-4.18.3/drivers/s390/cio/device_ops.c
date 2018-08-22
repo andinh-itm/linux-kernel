@@ -713,3 +713,4 @@ EXPORT_SYMBOL(ccw_device_get_ciw);
 EXPORT_SYMBOL(ccw_device_get_path_mask);
 EXPORT_SYMBOL_GPL(ccw_device_get_chp_desc);
 EXPORT_SYMBOL_GPL(ccw_device_get_util_str);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

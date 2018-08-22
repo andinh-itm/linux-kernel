@@ -242,3 +242,4 @@ static struct platform_driver ftgpio_gpio_driver = {
 	.probe	= ftgpio_gpio_probe,
 };
 builtin_platform_driver(ftgpio_gpio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2256,3 +2256,4 @@ void uvc_ctrl_cleanup_device(struct uvc_device *dev)
 		kfree(entity->controls);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

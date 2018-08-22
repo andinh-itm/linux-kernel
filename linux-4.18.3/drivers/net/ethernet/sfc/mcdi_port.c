@@ -1364,3 +1364,4 @@ int efx_mcdi_port_get_number(struct efx_nic *efx)
 
 	return MCDI_DWORD(outbuf, GET_PORT_ASSIGNMENT_OUT_PORT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

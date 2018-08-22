@@ -537,3 +537,4 @@ module_exit(ac97_bus_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -741,3 +741,4 @@ __setup("baycom_ser_hdx=", baycom_ser_hdx_setup);
 
 #endif /* MODULE */
 /* --------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

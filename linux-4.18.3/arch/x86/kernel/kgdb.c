@@ -814,3 +814,4 @@ struct kgdb_arch arch_kgdb_ops = {
 	.remove_all_hw_break	= kgdb_remove_all_hw_break,
 	.correct_hw_break	= kgdb_correct_hw_break,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

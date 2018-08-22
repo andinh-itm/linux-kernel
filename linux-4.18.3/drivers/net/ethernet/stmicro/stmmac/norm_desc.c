@@ -335,3 +335,4 @@ const struct stmmac_desc_ops ndesc_ops = {
 	.set_addr = ndesc_set_addr,
 	.clear = ndesc_clear,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

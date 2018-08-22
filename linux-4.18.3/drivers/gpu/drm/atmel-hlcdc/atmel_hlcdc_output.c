@@ -88,3 +88,4 @@ int atmel_hlcdc_create_outputs(struct drm_device *dev)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

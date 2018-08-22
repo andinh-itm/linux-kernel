@@ -666,3 +666,4 @@ MODULE_DESCRIPTION("Pacific Digital Corporation ADMA low-level driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, adma_ata_pci_tbl);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

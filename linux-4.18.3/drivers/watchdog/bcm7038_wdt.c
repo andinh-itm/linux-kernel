@@ -230,3 +230,4 @@ MODULE_PARM_DESC(nowayout, "Watchdog cannot be stopped once started (default="
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Driver for Broadcom 7038 SoCs Watchdog");
 MODULE_AUTHOR("Justin Chen");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

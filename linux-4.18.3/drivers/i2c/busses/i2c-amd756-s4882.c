@@ -252,3 +252,4 @@ MODULE_LICENSE("GPL");
 
 module_init(amd756_s4882_init);
 module_exit(amd756_s4882_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

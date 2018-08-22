@@ -102,3 +102,4 @@ MACHINE_START(DOVE_DB, "Marvell DB-MV88AP510-BP Development Board")
 	.init_time	= dove_timer_init,
 	.restart	= dove_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

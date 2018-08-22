@@ -407,3 +407,4 @@ void dal_hw_translate_dcn10_init(struct hw_translate *tr)
 {
 	tr->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

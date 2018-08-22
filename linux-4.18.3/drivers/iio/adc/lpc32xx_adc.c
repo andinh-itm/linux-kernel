@@ -220,3 +220,4 @@ module_platform_driver(lpc32xx_adc_driver);
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("LPC32XX ADC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

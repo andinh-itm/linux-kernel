@@ -29,3 +29,4 @@ unsigned long mpc5xxx_get_bus_frequency(struct device_node *node)
 	return p_bus_freq ? *p_bus_freq : 0;
 }
 EXPORT_SYMBOL(mpc5xxx_get_bus_frequency);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

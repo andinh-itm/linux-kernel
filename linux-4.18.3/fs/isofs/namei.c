@@ -171,3 +171,4 @@ struct dentry *isofs_lookup(struct inode *dir, struct dentry *dentry, unsigned i
 
 	return d_splice_alias(inode, dentry);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

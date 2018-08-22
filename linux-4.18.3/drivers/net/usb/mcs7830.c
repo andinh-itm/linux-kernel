@@ -641,3 +641,4 @@ module_usb_driver(mcs7830_driver);
 
 MODULE_DESCRIPTION("USB to network adapter MCS7830)");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -50,3 +50,4 @@ void cobalt_machine_restart(char *command)
 	/* we should never get here */
 	cobalt_machine_halt();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

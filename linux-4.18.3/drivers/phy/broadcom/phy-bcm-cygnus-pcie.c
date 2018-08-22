@@ -219,3 +219,4 @@ module_platform_driver(cygnus_pcie_phy_driver);
 MODULE_AUTHOR("Ray Jui <rjui@broadcom.com>");
 MODULE_DESCRIPTION("Broadcom Cygnus PCIe PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

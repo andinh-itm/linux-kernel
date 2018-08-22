@@ -439,3 +439,4 @@ int snd_hdac_i915_exit(struct hdac_bus *bus)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(snd_hdac_i915_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

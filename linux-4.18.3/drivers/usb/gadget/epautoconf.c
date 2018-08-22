@@ -205,3 +205,4 @@ void usb_ep_autoconfig_reset (struct usb_gadget *gadget)
 	gadget->out_epnum = 0;
 }
 EXPORT_SYMBOL_GPL(usb_ep_autoconfig_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

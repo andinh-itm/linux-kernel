@@ -399,3 +399,4 @@ module_spi_driver(st7586_spi_driver);
 MODULE_DESCRIPTION("Sitronix ST7586 DRM driver");
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

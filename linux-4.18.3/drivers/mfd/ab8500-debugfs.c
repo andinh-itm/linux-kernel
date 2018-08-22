@@ -2953,3 +2953,4 @@ static int __init ab8500_debug_init(void)
 	return platform_driver_register(&ab8500_debug_driver);
 }
 subsys_initcall(ab8500_debug_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

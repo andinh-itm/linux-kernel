@@ -194,3 +194,4 @@ module_pci_driver(cs5535_mfd_driver);
 MODULE_AUTHOR("Andres Salomon <dilinger@queued.net>");
 MODULE_DESCRIPTION("MFD driver for CS5535/CS5536 southbridge's ISA PCI device");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

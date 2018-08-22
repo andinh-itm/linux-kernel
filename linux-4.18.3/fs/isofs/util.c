@@ -69,3 +69,4 @@ int iso_date(u8 *p, int flag)
 	}
 	return crtime;
 }		
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

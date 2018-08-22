@@ -146,3 +146,4 @@ MODULE_DESCRIPTION("low-level driver for RZ1000 PCI ATA");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, pata_rz1000);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

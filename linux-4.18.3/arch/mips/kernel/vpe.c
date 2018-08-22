@@ -931,3 +931,4 @@ module_exit(vpe_module_exit);
 MODULE_DESCRIPTION("MIPS VPE Loader");
 MODULE_AUTHOR("Elizabeth Oldham, MIPS Technologies, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

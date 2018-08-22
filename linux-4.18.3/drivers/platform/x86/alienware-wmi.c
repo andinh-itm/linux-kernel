@@ -861,3 +861,4 @@ static void __exit alienware_wmi_exit(void)
 }
 
 module_exit(alienware_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

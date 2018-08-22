@@ -160,3 +160,4 @@ static void __init of_at91rm9200_clk_sys_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(at91rm9200_clk_sys, "atmel,at91rm9200-clk-system",
 	       of_at91rm9200_clk_sys_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

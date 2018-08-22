@@ -60,3 +60,4 @@ g84_bar_new(struct nvkm_device *device, int index, struct nvkm_bar **pbar)
 {
 	return nv50_bar_new_(&g84_bar_func, device, index, 0x200, pbar);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -100,3 +100,4 @@ void cx231xx_ir_exit(struct cx231xx *dev)
 		i2c_unregister_device(dev->ir_i2c_client);
 	dev->ir_i2c_client = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

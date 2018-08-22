@@ -348,3 +348,4 @@ module_init(acpi_processor_driver_init);
 module_exit(acpi_processor_driver_exit);
 
 MODULE_ALIAS("processor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

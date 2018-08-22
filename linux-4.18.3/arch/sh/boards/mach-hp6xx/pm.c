@@ -156,3 +156,4 @@ static int __init hp6x0_pm_init(void)
 }
 
 late_initcall(hp6x0_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

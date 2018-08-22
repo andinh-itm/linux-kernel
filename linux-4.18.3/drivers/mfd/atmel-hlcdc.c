@@ -157,3 +157,4 @@ MODULE_ALIAS("platform:atmel-hlcdc");
 MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("Atmel HLCDC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1439,3 +1439,4 @@ int qat_hal_init_nn(struct icp_qat_fw_loader_handle *handle,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

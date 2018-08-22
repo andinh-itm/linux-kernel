@@ -682,3 +682,4 @@ int __init ima_calc_boot_aggregate(struct ima_digest_data *hash)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

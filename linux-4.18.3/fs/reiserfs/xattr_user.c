@@ -40,3 +40,4 @@ const struct xattr_handler reiserfs_xattr_user_handler = {
 	.set = user_set,
 	.list = user_list,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

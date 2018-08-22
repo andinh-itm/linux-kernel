@@ -111,3 +111,4 @@ int venc_if_deinit(struct mtk_vcodec_ctx *ctx)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

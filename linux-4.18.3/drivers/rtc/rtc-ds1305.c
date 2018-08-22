@@ -757,3 +757,4 @@ module_spi_driver(ds1305_driver);
 MODULE_DESCRIPTION("RTC driver for DS1305 and DS1306 chips");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rtc-ds1305");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

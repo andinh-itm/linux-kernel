@@ -508,3 +508,4 @@ void ath9k_htc_hw_deinit(struct htc_target *target, bool hot_unplug)
 	if (target)
 		ath9k_htc_disconnect_device(target, hot_unplug);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

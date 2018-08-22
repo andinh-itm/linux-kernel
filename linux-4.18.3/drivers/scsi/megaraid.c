@@ -4666,3 +4666,4 @@ module_init(megaraid_init);
 module_exit(megaraid_exit);
 
 /* vi: set ts=8 sw=8 tw=78: */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

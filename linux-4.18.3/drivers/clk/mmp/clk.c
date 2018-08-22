@@ -190,3 +190,4 @@ void mmp_clk_add(struct mmp_clk_unit *unit, unsigned int id,
 
 	unit->clk_table[id] = clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

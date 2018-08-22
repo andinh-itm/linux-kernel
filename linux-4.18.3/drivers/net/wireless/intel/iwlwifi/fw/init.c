@@ -88,3 +88,4 @@ void iwl_fw_runtime_resume(struct iwl_fw_runtime *fwrt)
 	iwl_fw_resume_timestamp(fwrt);
 }
 IWL_EXPORT_SYMBOL(iwl_fw_runtime_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -782,3 +782,4 @@ void choose_random_location(unsigned long input,
 		random_addr = find_random_virt_addr(LOAD_PHYSICAL_ADDR, output_size);
 	*virt_addr = random_addr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -568,3 +568,4 @@ asmlinkage void do_notify_resume(struct pt_regs *regs, unsigned long thread_info
 		tracehook_notify_resume(regs);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

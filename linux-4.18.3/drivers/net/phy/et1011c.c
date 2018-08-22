@@ -105,3 +105,4 @@ static struct mdio_device_id __maybe_unused et1011c_tbl[] = {
 };
 
 MODULE_DEVICE_TABLE(mdio, et1011c_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

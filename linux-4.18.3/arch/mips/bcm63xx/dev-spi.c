@@ -58,3 +58,4 @@ int __init bcm63xx_spi_register(void)
 
 	return platform_device_register(&bcm63xx_spi_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

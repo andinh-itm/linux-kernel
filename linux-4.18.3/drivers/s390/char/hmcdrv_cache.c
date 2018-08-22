@@ -251,3 +251,4 @@ void hmcdrv_cache_shutdown(void)
 	hmcdrv_cache_file.ofs = -1;
 	hmcdrv_cache_file.len = 0; /* no cache */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

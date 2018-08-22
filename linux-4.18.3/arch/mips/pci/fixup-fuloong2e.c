@@ -223,3 +223,4 @@ DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_VIA, PCI_DEVICE_ID_VIA_82C686_5,
 			 loongson2e_686b_func5_fixup);
 DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_NEC, PCI_DEVICE_ID_NEC_USB,
 			 loongson2e_nec_fixup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

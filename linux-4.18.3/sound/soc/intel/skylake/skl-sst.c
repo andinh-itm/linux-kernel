@@ -609,3 +609,4 @@ EXPORT_SYMBOL_GPL(skl_sst_dsp_cleanup);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel Skylake IPC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

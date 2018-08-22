@@ -286,3 +286,4 @@ DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_BROADCOM, PCI_DEVICE_ID_XLP9XX_XHCI,
 		nlm_xlp9xx_usb_fixup_final);
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_NETLOGIC, PCI_DEVICE_ID_NLM_XHCI,
 		nlm_xlp2xx_usb_fixup_final);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

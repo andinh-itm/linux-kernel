@@ -219,3 +219,4 @@ void ppc4xx_reset_system(char *cmd)
 	while (1)
 		;	/* Just in case the reset doesn't work */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

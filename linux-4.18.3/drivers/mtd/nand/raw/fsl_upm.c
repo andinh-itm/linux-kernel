@@ -361,3 +361,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Anton Vorontsov <avorontsov@ru.mvista.com>");
 MODULE_DESCRIPTION("Driver for NAND chips working through Freescale "
 		   "LocalBus User-Programmable Machine");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

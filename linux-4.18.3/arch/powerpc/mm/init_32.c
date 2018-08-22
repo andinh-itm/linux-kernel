@@ -185,3 +185,4 @@ void __init MMU_init(void)
 	/* Shortly after that, the entire linear mapping will be available */
 	memblock_set_current_limit(lowmem_end_addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

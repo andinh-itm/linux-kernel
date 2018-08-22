@@ -901,3 +901,4 @@ MODULE_AUTHOR("Xinliang Liu <z.liuxinliang@hisilicon.com>");
 MODULE_AUTHOR("Xinwei Kong <kong.kongxinwei@hisilicon.com>");
 MODULE_DESCRIPTION("DesignWare MIPI DSI Host Controller v1.02 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

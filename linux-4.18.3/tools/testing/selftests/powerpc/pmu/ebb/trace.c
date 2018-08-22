@@ -298,3 +298,4 @@ void trace_print_location(struct trace_buffer *tb)
 {
 	printf("Trace buffer 0x%llx bytes @ %p\n", tb->size, tb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

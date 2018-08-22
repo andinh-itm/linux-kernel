@@ -176,3 +176,4 @@ EXPORT_SYMBOL_GPL(roccat_common2_sysfs_write);
 MODULE_AUTHOR("Stefan Achatz");
 MODULE_DESCRIPTION("USB Roccat common driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

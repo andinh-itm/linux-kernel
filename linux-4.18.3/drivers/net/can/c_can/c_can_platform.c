@@ -491,3 +491,4 @@ module_platform_driver(c_can_plat_driver);
 MODULE_AUTHOR("Bhupesh Sharma <bhupesh.sharma@st.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Platform CAN bus driver for Bosch C_CAN controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

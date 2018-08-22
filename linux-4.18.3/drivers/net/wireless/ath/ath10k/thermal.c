@@ -219,3 +219,4 @@ void ath10k_thermal_unregister(struct ath10k *ar)
 	sysfs_remove_link(&ar->dev->kobj, "cooling_device");
 	thermal_cooling_device_unregister(ar->thermal.cdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

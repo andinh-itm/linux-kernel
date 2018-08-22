@@ -109,3 +109,4 @@ MACHINE_START(GATEWAY7001, "Gateway 7001 AP")
 	.restart	= ixp4xx_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -208,3 +208,4 @@ static struct serio_driver stinger_drv = {
 };
 
 module_serio_driver(stinger_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

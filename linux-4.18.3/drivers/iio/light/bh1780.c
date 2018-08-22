@@ -296,3 +296,4 @@ module_i2c_driver(bh1780_driver);
 MODULE_DESCRIPTION("ROHM BH1780GLI Ambient Light Sensor Driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Linus Walleij <linus.walleij@linaro.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

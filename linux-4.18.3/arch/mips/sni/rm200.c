@@ -488,3 +488,4 @@ void __init sni_rm200_irq_init(void)
 void __init sni_rm200_init(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

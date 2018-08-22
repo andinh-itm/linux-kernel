@@ -86,3 +86,4 @@ struct mantis_hwconfig vp3028_config = {
 	.power		= GPIF_A00,
 	.reset		= GPIF_A03,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

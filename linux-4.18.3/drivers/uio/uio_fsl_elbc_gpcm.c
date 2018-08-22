@@ -485,3 +485,4 @@ module_platform_driver(uio_fsl_elbc_gpcm_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Ogness <john.ogness@linutronix.de>");
 MODULE_DESCRIPTION("Freescale Enhanced Local Bus Controller GPCM driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

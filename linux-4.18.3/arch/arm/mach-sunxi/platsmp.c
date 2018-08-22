@@ -190,3 +190,4 @@ static const struct smp_operations sun8i_smp_ops __initconst = {
 	.smp_boot_secondary	= sun8i_smp_boot_secondary,
 };
 CPU_METHOD_OF_DECLARE(sun8i_a23_smp, "allwinner,sun8i-a23", &sun8i_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

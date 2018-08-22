@@ -1458,3 +1458,4 @@ void add_moddevtable(struct buffer *buf, struct module *mod)
 	buf_write(buf, mod->dev_table_buf.p, mod->dev_table_buf.pos);
 	free(mod->dev_table_buf.p);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

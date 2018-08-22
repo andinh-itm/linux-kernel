@@ -372,3 +372,4 @@ static int __init maple_cpc925_edac_setup(void)
 }
 machine_device_initcall(maple, maple_cpc925_edac_setup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

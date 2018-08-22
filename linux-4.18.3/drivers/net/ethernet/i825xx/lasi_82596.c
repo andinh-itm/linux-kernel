@@ -233,3 +233,4 @@ static void __exit lasi_82596_exit(void)
 }
 
 module_exit(lasi_82596_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

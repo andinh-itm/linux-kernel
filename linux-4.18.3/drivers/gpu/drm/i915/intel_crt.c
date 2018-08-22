@@ -1037,3 +1037,4 @@ void intel_crt_init(struct drm_i915_private *dev_priv)
 
 	intel_crt_reset(&crt->base.base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

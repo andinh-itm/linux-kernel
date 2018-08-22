@@ -1264,3 +1264,4 @@ int bcm_sf2_cfp_rst(struct bcm_sf2_priv *priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

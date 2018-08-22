@@ -99,3 +99,4 @@ static int __init gamecube_device_probe(void)
 }
 device_initcall(gamecube_device_probe);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

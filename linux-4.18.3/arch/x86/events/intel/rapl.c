@@ -841,3 +841,4 @@ static void __exit intel_rapl_exit(void)
 	cleanup_rapl_pmus();
 }
 module_exit(intel_rapl_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

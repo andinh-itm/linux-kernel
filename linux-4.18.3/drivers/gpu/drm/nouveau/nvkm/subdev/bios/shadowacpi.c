@@ -109,3 +109,4 @@ nvbios_acpi_slow = {
 	.read = acpi_read_slow,
 	.rw = false,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -191,3 +191,4 @@ int special_get_alts(struct elf *elf, struct list_head *alts)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

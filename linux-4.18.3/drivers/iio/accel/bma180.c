@@ -878,3 +878,4 @@ MODULE_AUTHOR("Kravchenko Oleksandr <x0199363@ti.com>");
 MODULE_AUTHOR("Texas Instruments, Inc.");
 MODULE_DESCRIPTION("Bosch BMA180/BMA250 triaxial acceleration sensor");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

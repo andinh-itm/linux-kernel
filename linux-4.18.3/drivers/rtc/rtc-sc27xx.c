@@ -669,3 +669,4 @@ module_platform_driver(sprd_rtc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Spreadtrum RTC Device Driver");
 MODULE_AUTHOR("Baolin Wang <baolin.wang@spreadtrum.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -487,3 +487,4 @@ void ath9k_hw_btcoex_set_concur_txprio(struct ath_hw *ah, u8 *stomp_txprio)
 		btcoex->tx_prio[i] = stomp_txprio[i];
 }
 EXPORT_SYMBOL(ath9k_hw_btcoex_set_concur_txprio);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

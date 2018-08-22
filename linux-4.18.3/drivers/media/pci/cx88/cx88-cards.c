@@ -3820,3 +3820,4 @@ struct cx88_core *cx88_core_create(struct pci_dev *pci, int nr)
 
 	return core;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

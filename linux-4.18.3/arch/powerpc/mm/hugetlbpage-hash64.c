@@ -117,3 +117,4 @@ int __hash_page_huge(unsigned long ea, unsigned long access, unsigned long vsid,
 	*ptep = __pte(new_pte & ~H_PAGE_BUSY);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

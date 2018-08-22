@@ -23,3 +23,4 @@ static const char *const samv7_dt_board_compat[] __initconst = {
 DT_MACHINE_START(samv7_dt, "Atmel SAMV7")
 	.dt_compat	= samv7_dt_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

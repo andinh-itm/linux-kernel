@@ -845,3 +845,4 @@ module_i2c_driver(isl29018_driver);
 
 MODULE_DESCRIPTION("ISL29018 Ambient Light Sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

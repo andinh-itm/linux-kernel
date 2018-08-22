@@ -294,3 +294,4 @@ int rose_process_rx_frame(struct sock *sk, struct sk_buff *skb)
 
 	return queued;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

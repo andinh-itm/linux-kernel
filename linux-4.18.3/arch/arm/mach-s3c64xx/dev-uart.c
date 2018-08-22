@@ -64,3 +64,4 @@ struct s3c24xx_uart_resources s3c64xx_uart_resources[] __initdata = {
 		.nr_resources	= ARRAY_SIZE(s3c64xx_uart3_resource),
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

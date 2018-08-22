@@ -552,3 +552,4 @@ MODULE_AUTHOR("Michael Shych <michaels@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox I2C-CPLD controller driver");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("platform:i2c-mlxcpld");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

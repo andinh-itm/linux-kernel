@@ -306,3 +306,4 @@ builtin_platform_driver(ti_cpufreq_driver);
 MODULE_DESCRIPTION("TI CPUFreq/OPP hw-supported driver");
 MODULE_AUTHOR("Dave Gerlach <d-gerlach@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

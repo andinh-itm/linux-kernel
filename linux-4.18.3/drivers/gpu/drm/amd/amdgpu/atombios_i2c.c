@@ -179,3 +179,4 @@ void amdgpu_atombios_i2c_channel_trans(struct amdgpu_device* adev, u8 slave_addr
 
 	amdgpu_atom_execute_table(adev->mode_info.atom_context, index, (uint32_t *)&args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

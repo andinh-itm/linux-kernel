@@ -185,3 +185,4 @@ void i2c_dw_remove_lock_support(struct dw_i2c_dev *dev)
 	if (dev->acquire_lock)
 		pm_qos_remove_request(&dev->pm_qos);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

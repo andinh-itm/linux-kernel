@@ -3887,3 +3887,4 @@ static struct hda_codec_driver hdmi_driver = {
 };
 
 module_hda_codec_driver(hdmi_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

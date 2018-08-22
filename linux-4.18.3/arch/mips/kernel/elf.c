@@ -341,3 +341,4 @@ int mips_elf_read_implies_exec(void *elf_ex, int exstack)
 	return 0;
 }
 EXPORT_SYMBOL(mips_elf_read_implies_exec);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

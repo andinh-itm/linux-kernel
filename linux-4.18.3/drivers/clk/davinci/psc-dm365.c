@@ -108,3 +108,4 @@ const struct davinci_psc_init_data dm365_psc_init_data = {
 	.num_parent_clks	= ARRAY_SIZE(dm365_psc_parent_clks),
 	.psc_init		= &dm365_psc_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

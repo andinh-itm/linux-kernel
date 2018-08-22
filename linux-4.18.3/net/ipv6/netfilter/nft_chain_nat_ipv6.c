@@ -83,3 +83,4 @@ module_exit(nft_chain_nat_ipv6_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tomasz Bursztyka <tomasz.bursztyka@linux.intel.com>");
 MODULE_ALIAS_NFT_CHAIN(AF_INET6, "nat");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

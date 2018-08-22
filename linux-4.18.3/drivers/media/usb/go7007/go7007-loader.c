@@ -139,3 +139,4 @@ module_usb_driver(go7007_loader_driver);
 MODULE_AUTHOR("");
 MODULE_DESCRIPTION("firmware loader for go7007-usb");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

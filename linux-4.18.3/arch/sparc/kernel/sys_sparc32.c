@@ -236,3 +236,4 @@ COMPAT_SYSCALL_DEFINE6(fallocate, int, fd, int, mode, u32, offhi, u32, offlo,
 	return ksys_fallocate(fd, mode, ((loff_t)offhi << 32) | offlo,
 			      ((loff_t)lenhi << 32) | lenlo);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

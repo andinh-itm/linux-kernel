@@ -1645,3 +1645,4 @@ void mlx4_cleanup_mcg_table(struct mlx4_dev *dev)
 	    MLX4_STEERING_MODE_DEVICE_MANAGED)
 		mlx4_bitmap_cleanup(&mlx4_priv(dev)->mcg_table.bitmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

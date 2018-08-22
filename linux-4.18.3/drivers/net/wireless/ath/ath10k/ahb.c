@@ -899,3 +899,4 @@ void ath10k_ahb_exit(void)
 {
 	platform_driver_unregister(&ath10k_ahb_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -298,3 +298,4 @@ MODULE_DEVICE_TABLE(of, aspeed_lpc_ctrl_match);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Cyril Bur <cyrilbur@gmail.com>");
 MODULE_DESCRIPTION("Control for aspeed 2400/2500 LPC HOST to BMC mappings");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

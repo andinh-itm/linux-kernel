@@ -215,3 +215,4 @@ static int init_mpc8xx_pmu(void)
 }
 
 early_initcall(init_mpc8xx_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

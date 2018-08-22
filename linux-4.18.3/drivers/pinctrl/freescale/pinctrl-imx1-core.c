@@ -647,3 +647,4 @@ int imx1_pinctrl_core_probe(struct platform_device *pdev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

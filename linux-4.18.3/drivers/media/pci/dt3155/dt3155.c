@@ -621,3 +621,4 @@ MODULE_DESCRIPTION("video4linux pci-driver for dt3155 frame grabber");
 MODULE_AUTHOR("Marin Mitov <mitov@issp.bas.bg>");
 MODULE_VERSION(DT3155_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

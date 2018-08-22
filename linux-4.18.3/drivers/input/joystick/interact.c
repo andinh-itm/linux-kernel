@@ -311,3 +311,4 @@ static struct gameport_driver interact_drv = {
 };
 
 module_gameport_driver(interact_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

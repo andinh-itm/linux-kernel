@@ -1083,3 +1083,4 @@ int setup_w6692(struct IsdnCard *card)
 	printk(KERN_INFO "W6692 D_RSTA=0x%X\n", ReadW6692(cs, W_D_RSTA));
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

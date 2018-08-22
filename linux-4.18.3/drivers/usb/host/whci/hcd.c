@@ -354,3 +354,4 @@ MODULE_DEVICE_TABLE(pci, whci_hcd_id_table);
 MODULE_DESCRIPTION("WHCI Wireless USB host controller driver");
 MODULE_AUTHOR("Cambridge Silicon Radio Ltd.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -114,3 +114,4 @@ void bt_sysfs_cleanup(void)
 {
 	class_destroy(bt_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

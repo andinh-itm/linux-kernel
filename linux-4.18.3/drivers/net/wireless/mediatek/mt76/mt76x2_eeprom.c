@@ -658,3 +658,4 @@ int mt76x2_eeprom_init(struct mt76x2_dev *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -72,3 +72,4 @@ void arch_examine_signal(int sig, struct uml_pt_regs *regs)
 		printk(UM_KERN_ERR "Bad value for host_has_cmov (%d)",
 			host_has_cmov);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

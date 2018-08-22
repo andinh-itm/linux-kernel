@@ -1231,3 +1231,4 @@ MODULE_LICENSE("GPL");
 
 module_init(tape_34xx_init);
 module_exit(tape_34xx_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

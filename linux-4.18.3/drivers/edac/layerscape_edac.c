@@ -71,3 +71,4 @@ MODULE_AUTHOR("NXP Semiconductor");
 module_param(edac_op_state, int, 0444);
 MODULE_PARM_DESC(edac_op_state,
 		 "EDAC Error Reporting state: 0=Poll, 2=Interrupt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

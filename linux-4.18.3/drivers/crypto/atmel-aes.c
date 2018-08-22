@@ -2800,3 +2800,4 @@ module_platform_driver(atmel_aes_driver);
 MODULE_DESCRIPTION("Atmel AES hw acceleration support.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Nicolas Royer - Eukréa Electromatique");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

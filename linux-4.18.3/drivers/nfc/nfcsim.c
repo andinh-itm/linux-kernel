@@ -512,3 +512,4 @@ module_exit(nfcsim_exit);
 MODULE_DESCRIPTION("NFCSim driver ver " NFCSIM_VERSION);
 MODULE_VERSION(NFCSIM_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -346,3 +346,4 @@ free_cpuclk:
 	kfree(cpuclk);
 	return ERR_PTR(ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

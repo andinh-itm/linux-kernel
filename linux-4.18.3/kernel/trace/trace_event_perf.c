@@ -511,3 +511,4 @@ int perf_ftrace_event_register(struct trace_event_call *call,
 	return -EINVAL;
 }
 #endif /* CONFIG_FUNCTION_TRACER */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

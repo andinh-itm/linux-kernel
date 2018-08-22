@@ -47,3 +47,4 @@ void dim2_sysfs_destroy(struct device *dev)
 {
 	device_unregister(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

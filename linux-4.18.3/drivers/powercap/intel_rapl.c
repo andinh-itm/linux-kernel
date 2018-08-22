@@ -1677,3 +1677,4 @@ module_exit(rapl_exit);
 MODULE_DESCRIPTION("Driver for Intel RAPL (Running Average Power Limit)");
 MODULE_AUTHOR("Jacob Pan <jacob.jun.pan@intel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

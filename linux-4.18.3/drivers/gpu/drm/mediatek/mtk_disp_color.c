@@ -174,3 +174,4 @@ struct platform_driver mtk_disp_color_driver = {
 		.of_match_table = mtk_disp_color_driver_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

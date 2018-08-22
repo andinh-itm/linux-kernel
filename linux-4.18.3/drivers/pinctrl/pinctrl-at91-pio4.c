@@ -1113,3 +1113,4 @@ static struct platform_driver atmel_pinctrl_driver = {
 	.probe = atmel_pinctrl_probe,
 };
 builtin_platform_driver(atmel_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

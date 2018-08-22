@@ -42,3 +42,4 @@ static int __init register_generic_kexec(void)
 	return 0;
 }
 arch_initcall(register_generic_kexec);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

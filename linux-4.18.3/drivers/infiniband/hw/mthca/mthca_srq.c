@@ -694,3 +694,4 @@ void mthca_cleanup_srq_table(struct mthca_dev *dev)
 	mthca_array_cleanup(&dev->srq_table.srq, dev->limits.num_srqs);
 	mthca_alloc_cleanup(&dev->srq_table.alloc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

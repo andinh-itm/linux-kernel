@@ -101,3 +101,4 @@ struct platform_device iop33x_uart1_device = {
 	.num_resources	= 2,
 	.resource	= iop33x_uart1_resources,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

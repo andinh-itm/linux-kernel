@@ -39,3 +39,4 @@ irqreturn_t dec_intr_halt(int irq, void *dev_id)
 {
 	dec_machine_halt();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

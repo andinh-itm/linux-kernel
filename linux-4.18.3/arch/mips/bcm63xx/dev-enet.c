@@ -317,3 +317,4 @@ bcm63xx_enetsw_register(const struct bcm63xx_enetsw_platform_data *pd)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1056,3 +1056,4 @@ module_platform_driver(sata_rcar_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vladimir Barinov");
 MODULE_DESCRIPTION("Renesas R-Car SATA controller low level driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

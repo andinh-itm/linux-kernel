@@ -5968,3 +5968,4 @@ halmac_txfifo_is_empty_88xx(struct halmac_adapter *halmac_adapter, u32 chk_num)
 
 	return HALMAC_RET_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

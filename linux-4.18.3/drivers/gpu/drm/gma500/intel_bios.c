@@ -595,3 +595,4 @@ void psb_intel_destroy_bios(struct drm_device *dev)
 	kfree(dev_priv->lfp_lvds_vbt_mode);
 	kfree(dev_priv->lvds_bl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

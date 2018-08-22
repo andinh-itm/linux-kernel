@@ -531,3 +531,4 @@ void dmam_pool_destroy(struct dma_pool *pool)
 	WARN_ON(devres_release(dev, dmam_pool_release, dmam_pool_match, pool));
 }
 EXPORT_SYMBOL(dmam_pool_destroy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

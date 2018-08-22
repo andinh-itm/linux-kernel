@@ -2867,3 +2867,4 @@ u16 hpi_vox_get_threshold(u32 h_control, short *an_gain0_01dB)
 
 	return hr.error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

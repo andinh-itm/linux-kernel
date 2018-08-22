@@ -125,3 +125,4 @@ unsigned int arch_freq_get_on_cpu(int cpu)
 
 	return per_cpu(samples.khz, cpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

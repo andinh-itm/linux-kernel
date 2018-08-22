@@ -690,3 +690,4 @@ module_pci_driver(parport_serial_pci_driver);
 MODULE_AUTHOR("Tim Waugh <twaugh@redhat.com>");
 MODULE_DESCRIPTION("Driver for common parallel+serial multi-I/O PCI cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

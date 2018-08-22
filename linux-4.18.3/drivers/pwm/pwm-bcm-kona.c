@@ -342,3 +342,4 @@ MODULE_AUTHOR("Broadcom Corporation <bcm-kernel-feedback-list@broadcom.com>");
 MODULE_AUTHOR("Tim Kryger <tkryger@broadcom.com>");
 MODULE_DESCRIPTION("Broadcom Kona PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

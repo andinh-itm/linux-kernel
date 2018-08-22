@@ -375,3 +375,4 @@ const struct amdgpu_virt_ops xgpu_ai_virt_ops = {
 	.wait_reset = NULL,
 	.trans_msg = xgpu_ai_mailbox_trans_msg,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

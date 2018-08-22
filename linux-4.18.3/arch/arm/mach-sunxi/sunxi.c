@@ -101,3 +101,4 @@ static const char * const sun9i_board_dt_compat[] = {
 DT_MACHINE_START(SUN9I_DT, "Allwinner sun9i Family")
 	.dt_compat	= sun9i_board_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

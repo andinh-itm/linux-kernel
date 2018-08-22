@@ -506,3 +506,4 @@ void rv730_get_odt_values(struct radeon_device *rdev)
 	mc4_io_pad_cntl = RREG32(MC4_IO_QS_PAD_CNTL_D0_I0);
 	pi->odt_value_1[1] = (u8)(mc4_io_pad_cntl & 0xff);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

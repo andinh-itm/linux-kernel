@@ -4738,3 +4738,4 @@ MODULE_AUTHOR("Jiri Pirko <jiri@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox Spectrum driver");
 MODULE_DEVICE_TABLE(pci, mlxsw_sp_pci_id_table);
 MODULE_FIRMWARE(MLXSW_SP_FW_FILENAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

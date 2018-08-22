@@ -1208,3 +1208,4 @@ module_platform_driver_probe(fsmc_nand_driver, fsmc_nand_probe);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vipin Kumar <vipin.kumar@st.com>, Ashish Priyadarshi");
 MODULE_DESCRIPTION("NAND driver for SPEAr Platforms");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -406,3 +406,4 @@ MODULE_LICENSE("GPL");
 MODULE_VERSION("1.01");
 
 /* end of sbc8360.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

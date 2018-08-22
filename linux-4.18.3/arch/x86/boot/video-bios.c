@@ -126,3 +126,4 @@ static __videocard video_bios =
 	.xmode_first	= VIDEO_FIRST_BIOS,
 	.xmode_n	= 0x80,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

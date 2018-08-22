@@ -2076,3 +2076,4 @@ static void __exit sym2_exit(void)
 
 module_init(sym2_init);
 module_exit(sym2_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

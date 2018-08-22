@@ -475,3 +475,4 @@ asmlinkage void do_illegal_instruction(struct pt_regs *regs,
 		die("Die:", regs, address);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

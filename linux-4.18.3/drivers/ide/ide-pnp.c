@@ -98,3 +98,4 @@ static struct pnp_driver idepnp_driver = {
 
 module_pnp_driver(idepnp_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

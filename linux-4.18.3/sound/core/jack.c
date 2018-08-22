@@ -389,3 +389,4 @@ void snd_jack_report(struct snd_jack *jack, int status)
 #endif /* CONFIG_SND_JACK_INPUT_DEV */
 }
 EXPORT_SYMBOL(snd_jack_report);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

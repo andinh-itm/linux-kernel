@@ -411,3 +411,4 @@ void __init sun4d_init_smp(void)
 		ccall_info.processors_out[i] = 1;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

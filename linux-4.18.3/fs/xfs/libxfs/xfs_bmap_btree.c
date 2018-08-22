@@ -657,3 +657,4 @@ xfs_bmbt_calc_size(
 {
 	return xfs_btree_calc_size(mp->m_bmap_dmnr, len);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

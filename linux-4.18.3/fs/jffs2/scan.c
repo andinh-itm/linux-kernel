@@ -1174,3 +1174,4 @@ void jffs2_rotate_lists(struct jffs2_sb_info *c)
 		rotate_list((&c->free_list), rotateby);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

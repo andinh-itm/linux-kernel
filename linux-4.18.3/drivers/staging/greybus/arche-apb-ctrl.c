@@ -520,3 +520,4 @@ void __exit arche_apb_exit(void)
 {
 	platform_driver_unregister(&arche_apb_ctrl_device_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -30,3 +30,4 @@ static const char *tb10x_compat[] __initdata = {
 MACHINE_START(TB10x, "tb10x")
 	.dt_compat	= tb10x_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

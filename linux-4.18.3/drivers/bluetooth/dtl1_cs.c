@@ -612,3 +612,4 @@ static struct pcmcia_driver dtl1_driver = {
 	.id_table	= dtl1_ids,
 };
 module_pcmcia_driver(dtl1_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

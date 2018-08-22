@@ -166,3 +166,4 @@ out_err:
 	perf_evlist__delete(evlist);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

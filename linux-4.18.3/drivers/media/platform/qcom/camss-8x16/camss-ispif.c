@@ -1176,3 +1176,4 @@ void msm_ispif_unregister_entities(struct ispif_device *ispif)
 		media_entity_cleanup(&sd->entity);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

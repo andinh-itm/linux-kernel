@@ -247,3 +247,4 @@ u64 __init of_flat_dt_translate_address(unsigned long node)
 {
 	return fdt_translate_address(initial_boot_params, node);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

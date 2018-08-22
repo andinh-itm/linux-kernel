@@ -1198,3 +1198,4 @@ unsigned long regs_get_kernel_stack_nth(struct pt_regs *regs, unsigned int n)
 	else
 		return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

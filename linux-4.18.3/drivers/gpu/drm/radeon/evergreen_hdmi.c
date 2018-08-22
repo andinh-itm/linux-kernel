@@ -487,3 +487,4 @@ void evergreen_dp_enable(struct drm_encoder *encoder, bool enable)
 
 	dig->afmt->enabled = enable;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

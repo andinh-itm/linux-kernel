@@ -1137,3 +1137,4 @@ int oxygen_mixer_init(struct oxygen *chip)
 	}
 	return chip->model.mixer_init ? chip->model.mixer_init(chip) : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

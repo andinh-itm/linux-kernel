@@ -412,3 +412,4 @@ DT_MACHINE_START(U300_DT, "U300 S335/B335 (Device Tree)")
 	.restart	= u300_restart,
 	.dt_compat      = u300_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

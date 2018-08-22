@@ -169,3 +169,4 @@ hash_mac_fini(void)
 
 module_init(hash_mac_init);
 module_exit(hash_mac_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

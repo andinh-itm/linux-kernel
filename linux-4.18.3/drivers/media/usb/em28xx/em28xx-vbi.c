@@ -97,3 +97,4 @@ const struct vb2_ops em28xx_vbi_qops = {
 	.wait_prepare   = vb2_ops_wait_prepare,
 	.wait_finish    = vb2_ops_wait_finish,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

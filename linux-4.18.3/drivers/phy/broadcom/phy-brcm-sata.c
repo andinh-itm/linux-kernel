@@ -667,3 +667,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Marc Carino");
 MODULE_AUTHOR("Brian Norris");
 MODULE_ALIAS("platform:phy-brcm-sata");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

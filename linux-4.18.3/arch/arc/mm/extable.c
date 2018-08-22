@@ -48,3 +48,4 @@ long arc_strnlen_user_noinline(const char __user *src, long n)
 }
 EXPORT_SYMBOL(arc_strnlen_user_noinline);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

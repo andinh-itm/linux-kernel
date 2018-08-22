@@ -281,3 +281,4 @@ int sha256_final(struct sha256_state *sctx, u8 *out)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

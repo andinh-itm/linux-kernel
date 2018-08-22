@@ -2097,3 +2097,4 @@ int si_set_ip_blocks(struct amdgpu_device *adev)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

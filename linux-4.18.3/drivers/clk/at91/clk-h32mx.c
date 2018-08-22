@@ -123,3 +123,4 @@ static void __init of_sama5d4_clk_h32mx_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(of_sama5d4_clk_h32mx_setup, "atmel,sama5d4-clk-h32mx",
 	       of_sama5d4_clk_h32mx_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

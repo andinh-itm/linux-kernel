@@ -57,3 +57,4 @@ void fmc_dump_eeprom(const struct fmc_device *fmc)
 	for (i = 0; i < fmc->eeprom_len; i += LINELEN, line += LINELEN)
 		prev = dump_line(i, line, prev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

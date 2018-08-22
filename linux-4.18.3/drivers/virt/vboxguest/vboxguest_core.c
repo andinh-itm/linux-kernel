@@ -1576,3 +1576,4 @@ irqreturn_t vbg_core_isr(int irq, void *dev_id)
 
 	return IRQ_HANDLED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

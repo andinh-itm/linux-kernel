@@ -265,3 +265,4 @@ MODULE_DESCRIPTION("BACKPACK Protocol module, compatible with PARIDE");
 module_param(verbose, bool, 0644);
 module_init(bpck6_init)
 module_exit(bpck6_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

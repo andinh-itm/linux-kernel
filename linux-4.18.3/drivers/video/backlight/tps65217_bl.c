@@ -332,3 +332,4 @@ module_platform_driver(tps65217_bl_driver);
 MODULE_DESCRIPTION("TPS65217 Backlight driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Matthias Kaehlcke <matthias@kaehlcke.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

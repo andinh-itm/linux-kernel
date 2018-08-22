@@ -165,3 +165,4 @@ static int __init find_bit_test(void)
 module_init(find_bit_test);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1108,3 +1108,4 @@ const struct file_operations ubi_ctrl_cdev_operations = {
 	.compat_ioctl   = ctrl_cdev_compat_ioctl,
 	.llseek		= no_llseek,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -30,3 +30,4 @@ int up_write(struct rw_semaphore *sem)
 {
 	return perf_singlethreaded ? 0 : pthread_rwlock_unlock(&sem->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

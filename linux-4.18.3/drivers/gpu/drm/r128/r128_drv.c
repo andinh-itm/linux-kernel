@@ -109,3 +109,4 @@ module_exit(r128_exit);
 MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL and additional rights");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

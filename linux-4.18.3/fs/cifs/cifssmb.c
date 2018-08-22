@@ -6510,3 +6510,4 @@ int CIFSSMBNotify(const unsigned int xid, struct cifs_tcon *tcon,
 	return rc;
 }
 #endif /* was needed for dnotify, and will be needed for inotify when VFS fix */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

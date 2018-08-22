@@ -1250,3 +1250,4 @@ module_platform_driver(xemaclite_of_driver);
 MODULE_AUTHOR("Xilinx, Inc.");
 MODULE_DESCRIPTION("Xilinx Ethernet MAC Lite driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -185,3 +185,4 @@ module_amba_driver(pl030_driver);
 MODULE_AUTHOR("Russell King <rmk@arm.linux.org.uk>");
 MODULE_DESCRIPTION("ARM AMBA PL030 RTC Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -420,3 +420,4 @@ module_exit(collie_bat_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Thomas Kunze");
 MODULE_DESCRIPTION("Collie battery driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

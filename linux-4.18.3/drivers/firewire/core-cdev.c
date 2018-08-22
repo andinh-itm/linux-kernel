@@ -1812,3 +1812,4 @@ const struct file_operations fw_device_ops = {
 	.compat_ioctl	= fw_device_op_compat_ioctl,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

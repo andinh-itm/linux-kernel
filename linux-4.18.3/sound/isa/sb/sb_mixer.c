@@ -959,3 +959,4 @@ void snd_sbmixer_resume(struct snd_sb *chip)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

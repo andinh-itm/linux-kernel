@@ -344,3 +344,4 @@ int snd_wm8766_build_controls(struct snd_wm8766 *wm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

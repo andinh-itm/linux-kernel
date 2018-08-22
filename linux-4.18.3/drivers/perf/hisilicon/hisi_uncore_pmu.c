@@ -444,3 +444,4 @@ int hisi_uncore_pmu_offline_cpu(unsigned int cpu, struct hlist_node *node)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

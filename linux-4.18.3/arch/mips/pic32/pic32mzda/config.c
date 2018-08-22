@@ -124,3 +124,4 @@ void __init pic32_config_init(void)
 		pic32_get_device_id(),
 		pic32_get_device_version());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

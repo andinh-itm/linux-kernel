@@ -201,3 +201,4 @@ bool ftrace_event_is_function(struct trace_event_call *call)
 }
 
 #include "trace_entries.h"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

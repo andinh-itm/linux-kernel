@@ -1006,3 +1006,4 @@ module_platform_driver(dw_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Synopsys DesignWare AXI DMA Controller platform driver");
 MODULE_AUTHOR("Eugeniy Paltsev <Eugeniy.Paltsev@synopsys.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -596,3 +596,4 @@ void free_thermal_data(void)
 	free(ptdata.tzi);
 	free(ptdata.cdi);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

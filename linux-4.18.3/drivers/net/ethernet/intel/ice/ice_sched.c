@@ -1657,3 +1657,4 @@ ice_sched_cfg_vsi(struct ice_port_info *pi, u16 vsi_id, u8 tc, u16 maxqs,
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -352,3 +352,4 @@ atmel_hsmc_get_reg_layout(struct device_node *np)
 	return match ? match->data : ERR_PTR(-EINVAL);
 }
 EXPORT_SYMBOL_GPL(atmel_hsmc_get_reg_layout);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

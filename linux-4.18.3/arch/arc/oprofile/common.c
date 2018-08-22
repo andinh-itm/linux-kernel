@@ -24,3 +24,4 @@ void oprofile_arch_exit(void)
 {
 	oprofile_perf_exit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

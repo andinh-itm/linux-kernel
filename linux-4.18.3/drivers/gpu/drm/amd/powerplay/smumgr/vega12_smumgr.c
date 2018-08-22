@@ -539,3 +539,4 @@ const struct pp_smumgr_func vega12_smu_funcs = {
 	.upload_pptable_settings = NULL,
 	.is_dpm_running = vega12_is_dpm_running,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

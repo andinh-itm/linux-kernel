@@ -978,3 +978,4 @@ void mlx4_ib_cq_clean(struct mlx4_ib_cq *cq, u32 qpn, struct mlx4_ib_srq *srq)
 	__mlx4_ib_cq_clean(cq, qpn, srq);
 	spin_unlock_irq(&cq->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

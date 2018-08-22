@@ -883,3 +883,4 @@ static int __init nubus_init(void)
 }
 
 subsys_initcall(nubus_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

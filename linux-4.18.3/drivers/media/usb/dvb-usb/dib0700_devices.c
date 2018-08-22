@@ -5152,3 +5152,4 @@ struct dvb_usb_device_properties dib0700_devices[] = {
 };
 
 int dib0700_device_count = ARRAY_SIZE(dib0700_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

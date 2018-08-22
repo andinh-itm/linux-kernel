@@ -1231,3 +1231,4 @@ void intel_pmu_lbr_init_knl(void)
 	x86_pmu.lbr_sel_mask = LBR_SEL_MASK;
 	x86_pmu.lbr_sel_map  = snb_lbr_sel_map;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

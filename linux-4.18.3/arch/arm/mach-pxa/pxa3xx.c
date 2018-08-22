@@ -472,3 +472,4 @@ static int __init pxa3xx_init(void)
 }
 
 postcore_initcall(pxa3xx_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

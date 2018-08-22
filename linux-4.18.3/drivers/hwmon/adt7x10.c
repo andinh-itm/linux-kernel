@@ -508,3 +508,4 @@ EXPORT_SYMBOL_GPL(adt7x10_dev_pm_ops);
 MODULE_AUTHOR("Hartmut Knaack");
 MODULE_DESCRIPTION("ADT7410/ADT7420, ADT7310/ADT7320 common code");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -265,3 +265,4 @@ u8 *acpi_tb_scan_memory_for_rsdp(u8 *start_address, u32 length)
 			  start_address));
 	return_PTR(NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

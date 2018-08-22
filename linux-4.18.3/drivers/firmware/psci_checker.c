@@ -488,3 +488,4 @@ static int __init psci_checker(void)
 	return ret < 0 ? ret : 0;
 }
 late_initcall(psci_checker);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

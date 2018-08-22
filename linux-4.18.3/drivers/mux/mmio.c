@@ -136,3 +136,4 @@ module_platform_driver(mux_mmio_driver);
 MODULE_DESCRIPTION("MMIO register bitfield-controlled multiplexer driver");
 MODULE_AUTHOR("Philipp Zabel <p.zabel@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

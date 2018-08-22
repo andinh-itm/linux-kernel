@@ -1422,3 +1422,4 @@ int snd_us16x08_controls_create(struct usb_mixer_interface *mixer)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

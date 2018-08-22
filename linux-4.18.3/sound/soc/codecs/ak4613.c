@@ -702,3 +702,4 @@ module_i2c_driver(ak4613_i2c_driver);
 MODULE_DESCRIPTION("Soc AK4613 driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

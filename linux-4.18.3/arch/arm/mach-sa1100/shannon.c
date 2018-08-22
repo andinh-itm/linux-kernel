@@ -146,3 +146,4 @@ MACHINE_START(SHANNON, "Shannon (AKA: Tuxscreen)")
 	.init_late	= sa11x0_init_late,
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

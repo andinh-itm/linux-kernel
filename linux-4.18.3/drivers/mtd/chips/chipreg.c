@@ -102,3 +102,4 @@ EXPORT_SYMBOL(map_destroy);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("Core routines for registering and invoking MTD chip drivers");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

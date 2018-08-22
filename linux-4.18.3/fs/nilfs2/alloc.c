@@ -869,3 +869,4 @@ void nilfs_palloc_destroy_cache(struct inode *inode)
 	nilfs_palloc_clear_cache(inode);
 	NILFS_MDT(inode)->mi_palloc_cache = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

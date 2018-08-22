@@ -1496,3 +1496,4 @@ static void gprinter_cleanup(void)
 	class_destroy(usb_gadget_class);
 	usb_gadget_class = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

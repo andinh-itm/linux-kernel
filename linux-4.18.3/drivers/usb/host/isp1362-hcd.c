@@ -2788,3 +2788,4 @@ static struct platform_driver isp1362_driver = {
 };
 
 module_platform_driver(isp1362_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

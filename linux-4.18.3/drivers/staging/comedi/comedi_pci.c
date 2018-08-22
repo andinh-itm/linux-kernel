@@ -226,3 +226,4 @@ module_exit(comedi_pci_exit);
 MODULE_AUTHOR("http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi PCI interface module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

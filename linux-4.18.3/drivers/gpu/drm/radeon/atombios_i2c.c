@@ -157,3 +157,4 @@ u32 radeon_atom_hw_i2c_func(struct i2c_adapter *adap)
 	return I2C_FUNC_I2C | I2C_FUNC_SMBUS_EMUL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

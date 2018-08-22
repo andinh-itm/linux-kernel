@@ -274,3 +274,4 @@ core_initcall(microchip_pic32mzda_clk_init);
 MODULE_DESCRIPTION("Microchip PIC32MZDA Clock Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:clk-pic32mzda");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

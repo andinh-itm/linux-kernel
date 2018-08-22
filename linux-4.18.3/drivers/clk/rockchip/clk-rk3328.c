@@ -921,3 +921,4 @@ static void __init rk3328_clk_init(struct device_node *np)
 	rockchip_clk_of_add_provider(np, ctx);
 }
 CLK_OF_DECLARE(rk3328_cru, "rockchip,rk3328-cru", rk3328_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

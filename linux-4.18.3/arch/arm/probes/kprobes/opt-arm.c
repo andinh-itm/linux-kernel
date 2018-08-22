@@ -370,3 +370,4 @@ void arch_remove_optimized_kprobe(struct optimized_kprobe *op)
 {
 	__arch_remove_optimized_kprobe(op, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

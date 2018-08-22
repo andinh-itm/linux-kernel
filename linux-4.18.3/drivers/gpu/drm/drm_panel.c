@@ -159,3 +159,4 @@ EXPORT_SYMBOL(of_drm_find_panel);
 MODULE_AUTHOR("Thierry Reding <treding@nvidia.com>");
 MODULE_DESCRIPTION("DRM panel infrastructure");
 MODULE_LICENSE("GPL and additional rights");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

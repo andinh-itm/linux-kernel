@@ -236,3 +236,4 @@ static int __init lpc32xx_of_ic_init(struct device_node *node,
 
 IRQCHIP_DECLARE(nxp_lpc32xx_mic, "nxp,lpc3220-mic", lpc32xx_of_ic_init);
 IRQCHIP_DECLARE(nxp_lpc32xx_sic, "nxp,lpc3220-sic", lpc32xx_of_ic_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

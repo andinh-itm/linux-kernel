@@ -1206,3 +1206,4 @@ void __weak arch_kexec_protect_crashkres(void)
 
 void __weak arch_kexec_unprotect_crashkres(void)
 {}
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

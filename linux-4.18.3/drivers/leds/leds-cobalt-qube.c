@@ -64,3 +64,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Front LED support for Cobalt Server");
 MODULE_AUTHOR("Florian Fainelli <florian@openwrt.org>");
 MODULE_ALIAS("platform:cobalt-qube-leds");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

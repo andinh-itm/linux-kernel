@@ -215,3 +215,4 @@ MODULE_AUTHOR("Philipp Zabel");
 MODULE_DESCRIPTION("ALSA SoC iPAQ hx4700");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:hx4700-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

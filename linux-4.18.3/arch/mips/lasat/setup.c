@@ -151,3 +151,4 @@ void __init plat_mem_setup(void)
 
 	pr_info("Lasat specific initialization complete\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

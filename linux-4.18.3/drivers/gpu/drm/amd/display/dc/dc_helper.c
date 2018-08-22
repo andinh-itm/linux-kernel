@@ -255,3 +255,4 @@ uint32_t generic_reg_wait(const struct dc_context *ctx,
 
 	return reg_val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

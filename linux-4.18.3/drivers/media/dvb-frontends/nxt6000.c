@@ -634,3 +634,4 @@ MODULE_AUTHOR("Florian Schirmer");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(nxt6000_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

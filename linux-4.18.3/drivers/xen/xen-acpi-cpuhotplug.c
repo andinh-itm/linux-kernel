@@ -454,3 +454,4 @@ ACPI_MODULE_NAME("xen-acpi-cpuhotplug");
 MODULE_AUTHOR("Liu Jinsong <jinsong.liu@intel.com>");
 MODULE_DESCRIPTION("Xen Hotplug CPU Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

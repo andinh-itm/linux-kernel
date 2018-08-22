@@ -138,3 +138,4 @@ module_exit(addi_watchdog_module_exit);
 MODULE_DESCRIPTION("ADDI-DATA Watchdog subdevice");
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

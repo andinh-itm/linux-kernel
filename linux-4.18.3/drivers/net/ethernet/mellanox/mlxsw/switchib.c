@@ -602,3 +602,4 @@ MODULE_DESCRIPTION("Mellanox SwitchIB and SwitchIB-2 driver");
 MODULE_ALIAS("mlxsw_switchib2");
 MODULE_DEVICE_TABLE(pci, mlxsw_sib_pci_id_table);
 MODULE_DEVICE_TABLE(pci, mlxsw_sib2_pci_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -353,3 +353,4 @@ void mlx5_fc_update_sampling_interval(struct mlx5_core_dev *dev,
 	fc_stats->sampling_interval = min_t(unsigned long, interval,
 					    fc_stats->sampling_interval);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -37,3 +37,4 @@ int arch_show_interrupts(struct seq_file *p, int prec)
 	seq_printf(p, "%*s: %10u\n", prec, "ERR", atomic_read(&irq_err_count));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

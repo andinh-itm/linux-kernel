@@ -298,3 +298,4 @@ void pm_generic_complete(struct device *dev)
 		drv->pm->complete(dev);
 }
 #endif /* CONFIG_PM_SLEEP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

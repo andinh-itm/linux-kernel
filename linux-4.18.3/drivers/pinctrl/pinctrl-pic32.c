@@ -2311,3 +2311,4 @@ static int __init pic32_pinctrl_register(void)
 	return platform_driver_register(&pic32_pinctrl_driver);
 }
 arch_initcall(pic32_pinctrl_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -78,3 +78,4 @@ bool handle_irq(struct irq_desc *desc, struct pt_regs *regs)
 	generic_handle_irq_desc(desc);
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

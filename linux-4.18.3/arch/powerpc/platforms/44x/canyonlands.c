@@ -131,3 +131,4 @@ define_machine(canyonlands) {
 	.restart = ppc4xx_reset_system,
 	.calibrate_decr = generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

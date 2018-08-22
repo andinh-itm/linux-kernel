@@ -147,3 +147,4 @@ module_platform_driver(lpc18xx_usb_otg_phy_driver);
 MODULE_AUTHOR("Joachim Eastwood <manabian@gmail.com>");
 MODULE_DESCRIPTION("NXP LPC18xx/43xx USB OTG PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

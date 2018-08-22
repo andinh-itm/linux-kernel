@@ -686,3 +686,4 @@ void of_msi_configure(struct device *dev, struct device_node *np)
 			   of_msi_get_domain(dev, np, DOMAIN_BUS_PLATFORM_MSI));
 }
 EXPORT_SYMBOL_GPL(of_msi_configure);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

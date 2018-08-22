@@ -214,3 +214,4 @@ int sdio_reset(struct mmc_host *host)
 	return mmc_io_rw_direct_host(host, 1, 0, SDIO_CCCR_ABORT, abort, NULL);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

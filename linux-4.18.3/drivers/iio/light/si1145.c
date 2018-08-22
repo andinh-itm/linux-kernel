@@ -1399,3 +1399,4 @@ module_i2c_driver(si1145_driver);
 MODULE_AUTHOR("Peter Meerwald-Stadler <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("Silabs SI1132 and SI1141/2/3/5/6/7 proximity, ambient light and UV index sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

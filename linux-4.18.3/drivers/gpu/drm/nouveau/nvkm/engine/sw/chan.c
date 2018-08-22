@@ -109,3 +109,4 @@ nvkm_sw_chan_ctor(const struct nvkm_sw_chan_func *func, struct nvkm_sw *sw,
 
 	return nvkm_event_init(&nvkm_sw_chan_event, 1, 1, &chan->event);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

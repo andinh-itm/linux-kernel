@@ -453,3 +453,4 @@ const struct delta_dec mjpegdec = {
 	.get_frame = delta_mjpeg_get_frame,
 	.recycle = delta_recycle_default,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

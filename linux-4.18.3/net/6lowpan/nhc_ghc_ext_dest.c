@@ -25,3 +25,4 @@ LOWPAN_NHC(ghc_ext_dest, "RFC7400 Destination Extension Header", NEXTHDR_DEST,
 module_lowpan_nhc(ghc_ext_dest);
 MODULE_DESCRIPTION("6LoWPAN generic header destination extension compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

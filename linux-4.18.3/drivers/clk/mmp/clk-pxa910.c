@@ -325,3 +325,4 @@ void __init pxa910_clk_init(phys_addr_t mpmu_phys, phys_addr_t apmu_phys,
 				apmu_base + APMU_CCIC0, 0x300, &clk_lock);
 	clk_register_clkdev(clk, "sphyclk", "mmp-ccic.0");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

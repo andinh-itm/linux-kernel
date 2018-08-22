@@ -162,3 +162,4 @@ MACHINE_START(VSTMS, "VSTMS")
 	.map_io		= vstms_map_io,
 	.init_time	= vstms_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

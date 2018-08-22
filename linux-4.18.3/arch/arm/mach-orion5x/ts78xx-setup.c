@@ -581,3 +581,4 @@ MACHINE_START(TS78XX, "Technologic Systems TS-78xx SBC")
 	.init_time	= orion5x_timer_init,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

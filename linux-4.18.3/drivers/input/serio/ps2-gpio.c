@@ -452,3 +452,4 @@ module_platform_driver(ps2_gpio_driver);
 MODULE_AUTHOR("Danilo Krummrich <danilokrummrich@dk-develop.de>");
 MODULE_DESCRIPTION("GPIO PS2 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

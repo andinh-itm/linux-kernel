@@ -63,3 +63,4 @@ MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch");
 MODULE_DESCRIPTION("restart poweroff driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:poweroff-restart");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

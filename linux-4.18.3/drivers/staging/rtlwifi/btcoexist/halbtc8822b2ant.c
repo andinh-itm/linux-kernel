@@ -5208,3 +5208,4 @@ void ex_btc8822b2ant_antenna_detection(struct btc_coexist *btcoexist,
 }
 
 void ex_btc8822b2ant_display_ant_detection(struct btc_coexist *btcoexist) {}
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -99,3 +99,4 @@ MODULE_AUTHOR("Broadcom");
 MODULE_DESCRIPTION("Broadcom Northstar2 PCI Phy driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:phy-bcm-ns2-pci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

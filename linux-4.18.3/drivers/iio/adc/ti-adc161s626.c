@@ -270,3 +270,4 @@ module_spi_driver(ti_adc_driver);
 MODULE_AUTHOR("Matt Ranostay <matt.ranostay@konsulko.com>");
 MODULE_DESCRIPTION("Texas Instruments ADC1x1S 1-channel differential ADC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1035,3 +1035,4 @@ int spi_write_flash_status(struct scsi_cmnd *srb, struct rtsx_chip *chip)
 
 	return STATUS_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1959,3 +1959,4 @@ MODULE_PARM_DESC(fb_defio, "Enable fb_defio mmap support");
 MODULE_AUTHOR("Steve Glendinning <steve.glendinning@shawell.net>");
 MODULE_DESCRIPTION("SMSC UFX kernel framebuffer driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

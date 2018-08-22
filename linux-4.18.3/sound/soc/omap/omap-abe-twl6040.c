@@ -360,3 +360,4 @@ MODULE_AUTHOR("Misael Lopez Cruz <misael.lopez@ti.com>");
 MODULE_DESCRIPTION("ALSA SoC for OMAP boards with ABE and twl6040 codec");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap-abe-twl6040");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -312,3 +312,4 @@ MACHINE_START(MX31LITE, "LogicPD i.MX31 SOM")
 	.init_late	= mx31lite_late,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -45,3 +45,4 @@ static const struct devs_id msic_gpio_dev_id __initconst = {
 };
 
 sfi_device(msic_gpio_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

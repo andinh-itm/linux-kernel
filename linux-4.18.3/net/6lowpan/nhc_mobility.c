@@ -25,3 +25,4 @@ LOWPAN_NHC(nhc_mobility, "RFC6282 Mobility", NEXTHDR_MOBILITY, 0,
 module_lowpan_nhc(nhc_mobility);
 MODULE_DESCRIPTION("6LoWPAN next header RFC6282 Mobility compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

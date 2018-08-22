@@ -307,3 +307,4 @@ dbl_to_sgl_fcnvff(
         	else Set_inexactflag();
         return(NOEXCEPTION);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

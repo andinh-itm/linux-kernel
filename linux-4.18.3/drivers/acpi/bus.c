@@ -1292,3 +1292,4 @@ static int __init acpi_init(void)
 }
 
 subsys_initcall(acpi_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

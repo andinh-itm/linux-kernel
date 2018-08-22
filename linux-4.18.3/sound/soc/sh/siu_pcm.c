@@ -613,3 +613,4 @@ struct snd_soc_component_driver siu_component = {
 	.pcm_free	= siu_pcm_free,
 };
 EXPORT_SYMBOL_GPL(siu_component);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1293,3 +1293,4 @@ int __init acpi_sleep_init(void)
 	register_reboot_notifier(&tts_notifier);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

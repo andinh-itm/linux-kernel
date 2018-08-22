@@ -2178,3 +2178,4 @@ fail:
 device_initcall(ppc_warn_emulated_init);
 
 #endif /* CONFIG_PPC_EMULATED_STATS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

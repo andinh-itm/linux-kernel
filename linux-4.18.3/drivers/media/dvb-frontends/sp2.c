@@ -437,3 +437,4 @@ module_i2c_driver(sp2_driver);
 MODULE_DESCRIPTION("CIMaX SP2/HF CI driver");
 MODULE_AUTHOR("Olli Salonen <olli.salonen@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

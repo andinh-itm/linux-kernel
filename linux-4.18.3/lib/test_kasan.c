@@ -626,3 +626,4 @@ static int __init kmalloc_tests_init(void)
 
 module_init(kmalloc_tests_init);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -69,3 +69,4 @@ base827c_new(struct nouveau_drm *drm, int head, s32 oclass,
 	return base507c_new_(&base827c, base507c_format, drm, head, oclass,
 			     0x00000002 << (head * 8), pwndw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

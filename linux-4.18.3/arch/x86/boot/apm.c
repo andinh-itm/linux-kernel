@@ -73,3 +73,4 @@ int query_apm_bios(void)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

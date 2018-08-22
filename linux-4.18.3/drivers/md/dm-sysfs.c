@@ -143,3 +143,4 @@ void dm_sysfs_exit(struct mapped_device *md)
 	kobject_put(kobj);
 	wait_for_completion(dm_get_completion_from_kobject(kobj));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

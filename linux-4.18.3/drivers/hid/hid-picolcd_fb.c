@@ -616,3 +616,4 @@ void picolcd_exit_framebuffer(struct picolcd_data *data)
 	data->fb_info = NULL;
 	unregister_framebuffer(info);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

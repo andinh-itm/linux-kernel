@@ -269,3 +269,4 @@ const struct xen_pcibk_backend xen_pcibk_vpci_backend = {
 	.add		= __xen_pcibk_add_pci_dev,
 	.get		= __xen_pcibk_get_pci_dev,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

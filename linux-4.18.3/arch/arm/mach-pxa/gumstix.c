@@ -241,3 +241,4 @@ MACHINE_START(GUMSTIX, "Gumstix")
 	.init_machine	= gumstix_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

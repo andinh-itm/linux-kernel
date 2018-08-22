@@ -3614,3 +3614,4 @@ module_init(adpt_init);
 module_exit(adpt_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

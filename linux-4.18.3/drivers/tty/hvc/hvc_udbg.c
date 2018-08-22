@@ -80,3 +80,4 @@ static int __init hvc_udbg_console_init(void)
 	return 0;
 }
 console_initcall(hvc_udbg_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

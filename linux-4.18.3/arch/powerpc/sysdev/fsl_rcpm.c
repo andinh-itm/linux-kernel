@@ -384,3 +384,4 @@ int __init fsl_rcpm_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

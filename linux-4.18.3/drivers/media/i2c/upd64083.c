@@ -216,3 +216,4 @@ static struct i2c_driver upd64083_driver = {
 };
 
 module_i2c_driver(upd64083_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

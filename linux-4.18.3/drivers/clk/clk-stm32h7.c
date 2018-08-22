@@ -1394,3 +1394,4 @@ err_free_clks:
  * matches the same compatible strings.
  */
 CLK_OF_DECLARE_DRIVER(stm32h7_rcc, "st,stm32h743-rcc", stm32h7_rcc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

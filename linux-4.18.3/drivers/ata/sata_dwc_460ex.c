@@ -1332,3 +1332,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mark Miesfeld <mmiesfeld@amcc.com>");
 MODULE_DESCRIPTION("DesignWare Cores SATA controller low level driver");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

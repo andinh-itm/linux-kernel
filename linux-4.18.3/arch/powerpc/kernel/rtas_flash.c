@@ -779,3 +779,4 @@ static void __exit rtas_flash_cleanup(void)
 module_init(rtas_flash_init);
 module_exit(rtas_flash_cleanup);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -338,3 +338,4 @@ MODULE_AUTHOR("Vishnu Patekar <vishnupatekar0510@gmail.com>");
 MODULE_AUTHOR("Aaron.maoye <leafy.myeh@newbietech.com>");
 MODULE_DESCRIPTION("Allwinner A10/Sun4i PS/2 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

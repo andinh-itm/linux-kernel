@@ -1365,3 +1365,4 @@ unsigned char XGIInitNew(struct pci_dev *pdev)
 
 	return 1;
 } /* end of init */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

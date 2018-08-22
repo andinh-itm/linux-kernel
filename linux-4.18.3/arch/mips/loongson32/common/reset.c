@@ -53,3 +53,4 @@ static int __init ls1x_reboot_setup(void)
 }
 
 arch_initcall(ls1x_reboot_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

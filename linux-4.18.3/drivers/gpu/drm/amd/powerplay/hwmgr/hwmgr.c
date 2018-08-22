@@ -548,3 +548,4 @@ int ci_set_asic_special_caps(struct pp_hwmgr *hwmgr)
 			PHM_PlatformCaps_EngineSpreadSpectrumSupport);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

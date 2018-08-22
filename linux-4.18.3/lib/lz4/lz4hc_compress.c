@@ -767,3 +767,4 @@ EXPORT_SYMBOL(LZ4_saveDictHC);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("LZ4 HC compressor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

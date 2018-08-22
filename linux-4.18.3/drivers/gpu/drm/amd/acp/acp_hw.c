@@ -48,3 +48,4 @@ int amd_acp_hw_init(struct cgs_device *cgs_device,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

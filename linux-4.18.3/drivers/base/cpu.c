@@ -585,3 +585,4 @@ void __init cpu_dev_init(void)
 	cpu_dev_register_generic();
 	cpu_register_vulnerabilities();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

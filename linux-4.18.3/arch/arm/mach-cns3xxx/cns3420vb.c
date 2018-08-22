@@ -253,3 +253,4 @@ MACHINE_START(CNS3420VB, "Cavium Networks CNS3420 Validation Board")
 	.init_late      = cns3xxx_pcie_init_late,
 	.restart	= cns3xxx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -30,3 +30,4 @@ int write_sysfs_attribute(const char *attr_path, const char *new_value,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

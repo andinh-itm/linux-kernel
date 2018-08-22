@@ -12398,3 +12398,4 @@ MODULE_DESCRIPTION("Micronas DRX39xxj Frontend");
 MODULE_AUTHOR("Devin Heitmueller");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(DRX39XX_MAIN_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1812,3 +1812,4 @@ MODULE_AUTHOR("Magnus Damm");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.1.0");
 MODULE_ALIAS("platform:sh_mobile_ceu");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

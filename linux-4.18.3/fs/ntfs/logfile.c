@@ -862,3 +862,4 @@ err:
 }
 
 #endif /* NTFS_RW */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

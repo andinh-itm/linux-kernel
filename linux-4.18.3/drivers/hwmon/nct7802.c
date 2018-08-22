@@ -1151,3 +1151,4 @@ module_i2c_driver(nct7802_driver);
 MODULE_AUTHOR("Guenter Roeck <linux@roeck-us.net>");
 MODULE_DESCRIPTION("NCT7802Y Hardware Monitoring Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

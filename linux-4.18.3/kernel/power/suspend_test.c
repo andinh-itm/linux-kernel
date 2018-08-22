@@ -218,3 +218,4 @@ static int __init test_suspend(void)
 	return 0;
 }
 late_initcall(test_suspend);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

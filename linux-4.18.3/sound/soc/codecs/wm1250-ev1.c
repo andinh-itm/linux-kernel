@@ -262,3 +262,4 @@ module_i2c_driver(wm1250_ev1_i2c_driver);
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("WM1250-EV1 audio I/O module driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

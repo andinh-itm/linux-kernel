@@ -97,3 +97,4 @@ void snd_dg00x_proc_init(struct snd_dg00x *dg00x)
 		snd_info_free_entry(root);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

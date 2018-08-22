@@ -197,3 +197,4 @@ static struct sh_machine_vector mv_sh4202_microdev __initmv = {
 	.mv_ioport_map		= microdev_ioport_map,
 	.mv_init_irq		= init_microdev_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

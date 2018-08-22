@@ -43,3 +43,4 @@ void __init mach_prom_init_machtype(void)
 		strcat(arcs_cmdline, " ");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

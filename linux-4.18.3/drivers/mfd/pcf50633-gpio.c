@@ -94,3 +94,4 @@ int pcf50633_gpio_power_supply_set(struct pcf50633 *pcf,
 EXPORT_SYMBOL_GPL(pcf50633_gpio_power_supply_set);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

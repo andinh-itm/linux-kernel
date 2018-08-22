@@ -688,3 +688,4 @@ static int __init init_power5p_pmu(void)
 }
 
 early_initcall(init_power5p_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

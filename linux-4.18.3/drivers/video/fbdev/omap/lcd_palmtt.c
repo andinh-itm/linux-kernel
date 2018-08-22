@@ -76,3 +76,4 @@ module_platform_driver(palmtt_panel_driver);
 MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("LCD panel support for Palm Tungsten|T");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

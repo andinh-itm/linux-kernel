@@ -413,3 +413,4 @@ MODULE_ALIAS("platform:asoc-audio-graph-scu-card");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ASoC Audio Graph SCU Sound Card");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

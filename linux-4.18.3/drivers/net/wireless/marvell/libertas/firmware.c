@@ -225,3 +225,4 @@ int lbs_get_firmware(struct device *dev, u32 card_model,
 	return -ENOENT;
 }
 EXPORT_SYMBOL_GPL(lbs_get_firmware);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

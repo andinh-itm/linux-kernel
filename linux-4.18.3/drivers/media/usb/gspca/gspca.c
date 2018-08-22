@@ -1717,3 +1717,4 @@ module_exit(gspca_exit);
 module_param_named(debug, gspca_debug, int, 0644);
 MODULE_PARM_DESC(debug,
 		"1:probe 2:config 3:stream 4:frame 5:packet 6:usbi 7:usbo");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

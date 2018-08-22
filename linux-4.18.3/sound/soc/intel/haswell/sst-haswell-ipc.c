@@ -2223,3 +2223,4 @@ void sst_hsw_dsp_free(struct device *dev, struct sst_pdata *pdata)
 	sst_ipc_fini(&hsw->ipc);
 }
 EXPORT_SYMBOL_GPL(sst_hsw_dsp_free);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

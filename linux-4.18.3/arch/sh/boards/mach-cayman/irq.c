@@ -155,3 +155,4 @@ void init_cayman_irq(void)
 	setup_irq(SMSC_IRQ, &cayman_action_smsc);
 	setup_irq(PCI2_IRQ, &cayman_action_pci2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

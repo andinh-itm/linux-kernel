@@ -79,3 +79,4 @@ static __init int bast_ide_init(void)
 }
 
 fs_initcall(bast_ide_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

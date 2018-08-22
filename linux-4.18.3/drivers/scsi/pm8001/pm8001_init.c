@@ -1408,3 +1408,4 @@ MODULE_VERSION(DRV_VERSION);
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, pm8001_pci_table);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

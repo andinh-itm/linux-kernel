@@ -160,3 +160,4 @@ static struct platform_driver cobalt_buttons_driver = {
 	},
 };
 module_platform_driver(cobalt_buttons_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

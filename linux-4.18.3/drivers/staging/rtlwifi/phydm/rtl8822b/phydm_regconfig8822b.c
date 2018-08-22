@@ -155,3 +155,4 @@ void odm_config_bb_txpwr_lmt_8822b(struct phy_dm_struct *dm, u8 *regulation,
 	phy_set_tx_power_limit(dm, regulation, band, bandwidth, rate_section,
 			       rf_path, channel, power_limit);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -633,3 +633,4 @@ void __init of_console_init(void)
 
 	printk(msg, of_console_path);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

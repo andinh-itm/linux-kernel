@@ -536,3 +536,4 @@ void ghes_edac_unregister(struct ghes *ghes)
 	edac_mc_del_mc(mci->pdev);
 	edac_mc_free(mci);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

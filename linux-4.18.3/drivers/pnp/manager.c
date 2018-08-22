@@ -428,3 +428,4 @@ EXPORT_SYMBOL(pnp_start_dev);
 EXPORT_SYMBOL(pnp_stop_dev);
 EXPORT_SYMBOL(pnp_activate_dev);
 EXPORT_SYMBOL(pnp_disable_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

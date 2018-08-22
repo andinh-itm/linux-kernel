@@ -681,3 +681,4 @@ module_exit(sas_class_exit);
 
 EXPORT_SYMBOL_GPL(sas_register_ha);
 EXPORT_SYMBOL_GPL(sas_unregister_ha);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

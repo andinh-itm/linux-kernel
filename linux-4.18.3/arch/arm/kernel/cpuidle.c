@@ -153,3 +153,4 @@ int __init arm_cpuidle_init(int cpu)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -879,3 +879,4 @@ module_platform_driver(pxamci_driver);
 MODULE_DESCRIPTION("PXA Multimedia Card Interface Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa2xx-mci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

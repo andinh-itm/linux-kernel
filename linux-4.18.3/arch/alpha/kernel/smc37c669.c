@@ -2536,3 +2536,4 @@ void __init SMC669_Init ( int index )
 #endif
     }
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

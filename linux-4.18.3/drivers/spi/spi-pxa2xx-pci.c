@@ -298,3 +298,4 @@ module_pci_driver(pxa2xx_spi_pci_driver);
 MODULE_DESCRIPTION("CE4100/LPSS PCI-SPI glue code for PXA's driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Sebastian Andrzej Siewior <bigeasy@linutronix.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

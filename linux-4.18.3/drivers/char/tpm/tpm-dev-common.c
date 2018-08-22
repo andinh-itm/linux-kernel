@@ -147,3 +147,4 @@ void tpm_common_release(struct file *file, struct file_priv *priv)
 	file->private_data = NULL;
 	priv->data_pending = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

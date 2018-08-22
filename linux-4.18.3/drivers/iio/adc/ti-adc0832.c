@@ -354,3 +354,4 @@ module_spi_driver(adc0832_driver);
 MODULE_AUTHOR("Akinobu Mita <akinobu.mita@gmail.com>");
 MODULE_DESCRIPTION("ADC0831/ADC0832/ADC0834/ADC0838 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

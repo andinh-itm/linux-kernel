@@ -317,3 +317,4 @@ const struct attribute_group **rtc_get_dev_attribute_groups(void)
 {
 	return rtc_attr_groups;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

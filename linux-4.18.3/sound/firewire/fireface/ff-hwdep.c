@@ -189,3 +189,4 @@ int snd_ff_create_hwdep_devices(struct snd_ff *ff)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

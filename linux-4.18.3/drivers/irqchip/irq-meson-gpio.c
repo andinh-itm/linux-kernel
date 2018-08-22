@@ -422,3 +422,4 @@ free_ctl:
 
 IRQCHIP_DECLARE(meson_gpio_intc, "amlogic,meson-gpio-intc",
 		meson_gpio_irq_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

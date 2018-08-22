@@ -367,3 +367,4 @@ module_exit(tsi57x_exit);
 MODULE_DESCRIPTION("IDT Tsi57x Serial RapidIO switch family driver");
 MODULE_AUTHOR("Integrated Device Technology, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

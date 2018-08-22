@@ -640,3 +640,4 @@ EXPORT_SYMBOL_GPL(bxt_sst_dsp_cleanup);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel Broxton IPC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

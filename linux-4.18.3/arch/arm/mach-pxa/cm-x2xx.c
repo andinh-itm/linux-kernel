@@ -539,3 +539,4 @@ MACHINE_START(ARMCORE, "Compulab CM-X2XX")
 #endif
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

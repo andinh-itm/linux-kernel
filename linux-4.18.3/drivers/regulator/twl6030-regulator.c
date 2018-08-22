@@ -789,3 +789,4 @@ module_exit(twlreg_exit)
 
 MODULE_DESCRIPTION("TWL6030 regulator driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

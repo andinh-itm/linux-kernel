@@ -243,3 +243,4 @@ struct op_x86_model_spec op_arch_perfmon_spec = {
 	.stop			= &ppro_stop,
 	.shutdown		= &ppro_shutdown
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

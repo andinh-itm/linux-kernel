@@ -616,3 +616,4 @@ bool rtl92d_phy_rf6052_config(struct ieee80211_hw *hw)
 phy_rf_cfg_fail:
 	return rtstatus;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

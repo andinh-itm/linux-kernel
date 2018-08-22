@@ -100,3 +100,4 @@ struct clk *rockchip_clk_register_muxgrf(const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

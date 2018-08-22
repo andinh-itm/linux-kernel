@@ -4408,3 +4408,4 @@ static const char *arcmsr_info(struct Scsi_Host *host)
 		type, raid6 ? "(RAID6 capable)" : "", ARCMSR_DRIVER_VERSION);
 	return buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

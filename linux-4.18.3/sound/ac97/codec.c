@@ -13,3 +13,4 @@
 #include <linux/slab.h>
 #include <sound/soc.h>	/* For compat_ac97_* */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

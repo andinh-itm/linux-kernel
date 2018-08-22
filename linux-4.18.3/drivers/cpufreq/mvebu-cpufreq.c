@@ -107,3 +107,4 @@ opp_register_failed:
 	return ret;
 }
 device_initcall(armada_xp_pmsu_cpufreq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

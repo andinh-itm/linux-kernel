@@ -1033,3 +1033,4 @@ module_platform_driver(pm8xxx_xoadc_driver);
 MODULE_DESCRIPTION("PM8xxx XOADC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:pm8xxx-xoadc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

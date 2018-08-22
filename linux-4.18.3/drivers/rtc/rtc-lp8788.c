@@ -324,3 +324,4 @@ MODULE_DESCRIPTION("Texas Instruments LP8788 RTC Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lp8788-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

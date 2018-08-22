@@ -1207,3 +1207,4 @@ struct fman_mac *memac_config(struct fman_mac_params *params)
 
 	return memac;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

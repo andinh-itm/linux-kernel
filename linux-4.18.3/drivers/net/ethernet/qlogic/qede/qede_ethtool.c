@@ -1856,3 +1856,4 @@ void qede_set_ethtool_ops(struct net_device *dev)
 	else
 		dev->ethtool_ops = &qede_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

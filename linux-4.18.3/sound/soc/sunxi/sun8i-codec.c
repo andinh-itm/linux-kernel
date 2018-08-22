@@ -628,3 +628,4 @@ MODULE_DESCRIPTION("Allwinner A33 (sun8i) codec driver");
 MODULE_AUTHOR("Mylène Josserand <mylene.josserand@free-electrons.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sun8i-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

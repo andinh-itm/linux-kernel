@@ -207,3 +207,4 @@ MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("Driver for Alcor Micro AU6610 DVB-T USB2.0");
 MODULE_VERSION("0.1");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

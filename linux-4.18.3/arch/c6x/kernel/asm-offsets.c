@@ -120,3 +120,4 @@ void foo(void)
 	DEFINE(_TIF_ALLWORK_MASK, TIF_ALLWORK_MASK);
 	DEFINE(_TIF_WORK_MASK, TIF_WORK_MASK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

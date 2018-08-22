@@ -667,3 +667,4 @@ module_comedi_driver(das6402_driver)
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_DESCRIPTION("Comedi driver for DAS6402 compatible boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

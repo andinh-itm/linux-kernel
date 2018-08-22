@@ -352,3 +352,4 @@ static void __exit ghash_ce_mod_exit(void)
 
 module_init(ghash_ce_mod_init);
 module_exit(ghash_ce_mod_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

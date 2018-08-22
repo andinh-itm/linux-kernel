@@ -144,3 +144,4 @@ module_exit(pt_dump_debug_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Arjan van de Ven <arjan@linux.intel.com>");
 MODULE_DESCRIPTION("Kernel debugging helper that dumps pagetables");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

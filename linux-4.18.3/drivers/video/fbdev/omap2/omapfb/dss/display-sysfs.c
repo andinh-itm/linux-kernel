@@ -354,3 +354,4 @@ void display_uninit_sysfs(struct platform_device *pdev)
 		memset(&dssdev->kobj, 0, sizeof(dssdev->kobj));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

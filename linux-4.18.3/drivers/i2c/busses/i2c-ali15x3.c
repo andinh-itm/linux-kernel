@@ -515,3 +515,4 @@ MODULE_AUTHOR ("Frodo Looijaard <frodol@dds.nl>, "
 		"and Mark D. Studebaker <mdsxyz123@yahoo.com>");
 MODULE_DESCRIPTION("ALI15X3 SMBus driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

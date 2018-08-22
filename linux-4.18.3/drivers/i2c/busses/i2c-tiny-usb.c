@@ -305,3 +305,4 @@ module_usb_driver(i2c_tiny_usb_driver);
 MODULE_AUTHOR("Till Harbaum <Till@Harbaum.org>");
 MODULE_DESCRIPTION("i2c-tiny-usb driver v1.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

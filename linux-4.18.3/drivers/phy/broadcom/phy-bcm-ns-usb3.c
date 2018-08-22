@@ -403,3 +403,4 @@ static void __exit bcm_ns_usb3_module_exit(void)
 module_exit(bcm_ns_usb3_module_exit)
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

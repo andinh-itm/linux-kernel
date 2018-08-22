@@ -473,3 +473,4 @@ static int __init crash_save_vmcoreinfo_init(void)
 }
 
 subsys_initcall(crash_save_vmcoreinfo_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

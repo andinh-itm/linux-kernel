@@ -10212,3 +10212,4 @@ static void __exit niu_exit(void)
 
 module_init(niu_init);
 module_exit(niu_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

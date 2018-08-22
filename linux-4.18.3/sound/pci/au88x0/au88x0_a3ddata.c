@@ -89,3 +89,4 @@ static short const GainTCDefault = 0x300;
 static short const ItdTCDefault = 0x0C8;
 static short const HrtfTCDefault = 0x147;
 static short const CoefTCDefault = 0x300;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

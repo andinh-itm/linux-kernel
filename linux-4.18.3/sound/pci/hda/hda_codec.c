@@ -3943,3 +3943,4 @@ EXPORT_SYMBOL_GPL(snd_print_pcm_bits);
 
 MODULE_DESCRIPTION("HDA codec core");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

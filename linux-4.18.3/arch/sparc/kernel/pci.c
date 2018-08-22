@@ -1173,3 +1173,4 @@ static int __init of_pci_slot_init(void)
 }
 device_initcall(of_pci_slot_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

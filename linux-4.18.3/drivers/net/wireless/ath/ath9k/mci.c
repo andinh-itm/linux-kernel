@@ -765,3 +765,4 @@ void ath9k_mci_update_rssi(struct ath_softc *sc)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

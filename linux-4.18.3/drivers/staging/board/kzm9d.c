@@ -24,3 +24,4 @@ static void __init kzm9d_init(void)
 }
 
 board_staging("renesas,kzm9d", kzm9d_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

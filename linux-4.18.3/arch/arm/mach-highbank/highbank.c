@@ -184,3 +184,4 @@ DT_MACHINE_START(HIGHBANK, "Highbank")
 	.dt_compat	= highbank_match,
 	.restart	= highbank_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

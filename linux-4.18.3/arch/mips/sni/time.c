@@ -171,3 +171,4 @@ void __init plat_time_init(void)
 	}
 	setup_pit_timer();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

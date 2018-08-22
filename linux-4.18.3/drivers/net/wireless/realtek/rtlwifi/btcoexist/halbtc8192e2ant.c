@@ -3234,3 +3234,4 @@ void ex_btc8192e2ant_periodical(struct btc_coexist *btcoexist)
 			btc8192e2ant_run_coexist_mechanism(btcoexist);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -280,3 +280,4 @@ void ibmasm_free_remote_input_dev(struct service_processor *sp)
 	input_unregister_device(sp->remote.keybd_dev);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

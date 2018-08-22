@@ -2031,3 +2031,4 @@ static void hwm_conv_can(struct s_smc *smc, char *data, int len)
 
 #endif	/* no SLIM_SMT */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

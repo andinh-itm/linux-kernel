@@ -288,3 +288,4 @@ __initcall(pdc_chassis_create_procfs);
 
 #endif /* CONFIG_PROC_FS */
 #endif /* CONFIG_PDC_CHASSIS_WARN */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

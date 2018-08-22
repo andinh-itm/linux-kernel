@@ -87,3 +87,4 @@ static const struct smp_operations axxia_smp_ops __initconst = {
 	.smp_boot_secondary	= axxia_boot_secondary,
 };
 CPU_METHOD_OF_DECLARE(axxia_smp, "lsi,syscon-release", &axxia_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

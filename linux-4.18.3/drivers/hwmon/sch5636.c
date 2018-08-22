@@ -532,3 +532,4 @@ module_platform_driver(sch5636_driver);
 MODULE_DESCRIPTION("SMSC SCH5636 Hardware Monitoring Driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

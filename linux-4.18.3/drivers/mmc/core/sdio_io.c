@@ -725,3 +725,4 @@ int sdio_set_host_pm_flags(struct sdio_func *func, mmc_pm_flag_t flags)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(sdio_set_host_pm_flags);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

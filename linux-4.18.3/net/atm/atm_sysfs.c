@@ -189,3 +189,4 @@ void __exit atm_sysfs_exit(void)
 {
 	class_unregister(&atm_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

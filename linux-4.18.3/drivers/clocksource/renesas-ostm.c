@@ -263,3 +263,4 @@ err:
 }
 
 TIMER_OF_DECLARE(ostm, "renesas,ostm", ostm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

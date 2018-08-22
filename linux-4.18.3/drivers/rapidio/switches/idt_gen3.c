@@ -380,3 +380,4 @@ module_exit(idtg3_exit);
 MODULE_DESCRIPTION("IDT RXS Gen.3 Serial RapidIO switch family driver");
 MODULE_AUTHOR("Integrated Device Technology, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

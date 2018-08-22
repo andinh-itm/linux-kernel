@@ -31,3 +31,4 @@ int emu_soc_asic_init(struct amdgpu_device *adev)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

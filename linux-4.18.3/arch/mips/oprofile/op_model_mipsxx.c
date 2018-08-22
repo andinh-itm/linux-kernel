@@ -462,3 +462,4 @@ struct op_mips_model op_model_mipsxx_ops = {
 	.cpu_start	= mipsxx_cpu_start,
 	.cpu_stop	= mipsxx_cpu_stop,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

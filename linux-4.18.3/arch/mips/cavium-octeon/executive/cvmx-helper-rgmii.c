@@ -520,3 +520,4 @@ int __cvmx_helper_rgmii_configure_loopback(int ipd_port, int enable_internal,
 	cvmx_write_csr(CVMX_GMXX_PRTX_CFG(index, interface), gmx_cfg.u64);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

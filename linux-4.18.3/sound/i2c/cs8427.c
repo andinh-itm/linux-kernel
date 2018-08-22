@@ -633,3 +633,4 @@ static void __exit alsa_cs8427_module_exit(void)
 
 module_init(alsa_cs8427_module_init)
 module_exit(alsa_cs8427_module_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

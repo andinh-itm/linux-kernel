@@ -123,3 +123,4 @@ int __init amd_init_mtrr(void)
 	set_mtrr_ops(&amd_mtrr_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

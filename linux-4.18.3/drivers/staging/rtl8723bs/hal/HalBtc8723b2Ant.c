@@ -3719,3 +3719,4 @@ void EXhalbtc8723b2ant_Periodical(PBTC_COEXIST pBtCoexist)
 	)
 		halbtc8723b2ant_RunCoexistMechanism(pBtCoexist);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -51,3 +51,4 @@ EXPORT_SYMBOL_GPL(samsung_asoc_dma_platform_register);
 MODULE_AUTHOR("Mark Brown <broonie@linaro.org>");
 MODULE_DESCRIPTION("Samsung dmaengine ASoC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

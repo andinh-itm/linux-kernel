@@ -242,3 +242,4 @@ const struct tsens_data data_8974 = {
 	.num_sensors	= 11,
 	.ops		= &ops_8974,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

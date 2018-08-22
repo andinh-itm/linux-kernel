@@ -2932,3 +2932,4 @@ void ath6kl_htc_mbox_attach(struct ath6kl *ar)
 {
 	ar->htc_ops = &ath6kl_htc_mbox_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

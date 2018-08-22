@@ -206,3 +206,4 @@ union ieee754sp ieee754sp_format(int sn, int xe, unsigned int xm)
 		return buildsp(sn, xe + SP_EBIAS, xm & ~SP_HIDDEN_BIT);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

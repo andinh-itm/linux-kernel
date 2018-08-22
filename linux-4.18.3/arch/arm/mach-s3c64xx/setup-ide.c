@@ -37,3 +37,4 @@ void s3c64xx_ide_setup_gpio(void)
 	s3c_gpio_cfgpin(S3C64XX_GPM(5), S3C_GPIO_SFN(1));
 	s3c_gpio_cfgpin_range(S3C64XX_GPM(0), 5, S3C_GPIO_SFN(6));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

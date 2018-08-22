@@ -2102,3 +2102,4 @@ __acquires(musb->lock)
 	/* start with default limits on VBUS power draw */
 	(void) musb_gadget_vbus_draw(&musb->g, 8);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

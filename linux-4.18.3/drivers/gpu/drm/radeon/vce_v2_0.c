@@ -196,3 +196,4 @@ int vce_v2_0_resume(struct radeon_device *rdev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

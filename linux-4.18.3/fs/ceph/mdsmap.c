@@ -394,3 +394,4 @@ bool ceph_mdsmap_is_cluster_available(struct ceph_mdsmap *m)
 	}
 	return nr_active > 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

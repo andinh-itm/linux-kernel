@@ -336,3 +336,4 @@ struct cpuidle_exynos_data cpuidle_coupled_exynos_data = {
 	.post_enter_aftr		= exynos_post_enter_aftr,
 };
 #endif /* CONFIG_SMP && CONFIG_ARM_EXYNOS_CPUIDLE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

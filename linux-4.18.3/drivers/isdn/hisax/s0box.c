@@ -258,3 +258,4 @@ int setup_s0box(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

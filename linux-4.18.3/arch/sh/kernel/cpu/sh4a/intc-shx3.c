@@ -32,3 +32,4 @@ static int __init shx3_irq_setup(void)
 	return register_intc_userimask(INTC_USERIMASK);
 }
 arch_initcall(shx3_irq_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

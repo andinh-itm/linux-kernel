@@ -1115,3 +1115,4 @@ u16 rtw_mcs_rate(u8 rf_type, u8 bw_40MHz, u8 short_GI_20, u8 short_GI_40, unsign
 	}
 	return max_rate;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

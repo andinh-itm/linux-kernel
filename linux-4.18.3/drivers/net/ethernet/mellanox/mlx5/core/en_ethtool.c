@@ -1698,3 +1698,4 @@ const struct ethtool_ops mlx5e_ethtool_ops = {
 	.set_msglevel      = mlx5e_set_msglevel,
 
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

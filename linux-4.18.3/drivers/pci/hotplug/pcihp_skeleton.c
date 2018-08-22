@@ -346,3 +346,4 @@ static void __exit pcihp_skel_exit(void)
 
 module_init(pcihp_skel_init);
 module_exit(pcihp_skel_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

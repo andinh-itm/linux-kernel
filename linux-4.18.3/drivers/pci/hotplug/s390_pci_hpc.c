@@ -211,3 +211,4 @@ void zpci_exit_slot(struct zpci_dev *zdev)
 		pci_hp_deregister(slot->hotplug_slot);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

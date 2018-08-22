@@ -79,3 +79,4 @@ gv100_disp_curs_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	return nv50_disp_curs_new_(&gv100_disp_curs, disp, 73, 73,
 				   oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

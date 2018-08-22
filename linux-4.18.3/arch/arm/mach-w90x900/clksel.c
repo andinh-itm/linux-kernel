@@ -89,3 +89,4 @@ void nuc900_clock_source(struct device *dev, unsigned char *src)
 }
 EXPORT_SYMBOL(nuc900_clock_source);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

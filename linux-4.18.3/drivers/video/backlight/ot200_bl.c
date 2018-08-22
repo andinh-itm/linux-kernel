@@ -163,3 +163,4 @@ MODULE_DESCRIPTION("backlight driver for ot200 visualisation device");
 MODULE_AUTHOR("Christian Gmeiner <christian.gmeiner@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ot200-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -135,3 +135,4 @@ mxm_ddc_map(struct nvkm_bios *bios, u8 port)
 	/* v2.x: directly write port as dcb i2cidx */
 	return (port << 4) | port;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

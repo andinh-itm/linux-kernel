@@ -1553,3 +1553,4 @@ void mod_freesync_get_settings(struct mod_freesync *mod_freesync,
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

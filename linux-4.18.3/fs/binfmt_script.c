@@ -128,3 +128,4 @@ static void __exit exit_script_binfmt(void)
 core_initcall(init_script_binfmt);
 module_exit(exit_script_binfmt);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

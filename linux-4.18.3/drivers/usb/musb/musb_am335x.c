@@ -42,3 +42,4 @@ module_init(am335x_child_init);
 
 MODULE_DESCRIPTION("AM33xx child devices");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

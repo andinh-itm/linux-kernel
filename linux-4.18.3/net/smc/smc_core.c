@@ -870,3 +870,4 @@ void smc_core_exit(void)
 		smc_lgr_free(lgr); /* free link group */
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

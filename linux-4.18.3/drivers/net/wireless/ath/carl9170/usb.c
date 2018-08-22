@@ -1198,3 +1198,4 @@ static struct usb_driver carl9170_driver = {
 };
 
 module_usb_driver(carl9170_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

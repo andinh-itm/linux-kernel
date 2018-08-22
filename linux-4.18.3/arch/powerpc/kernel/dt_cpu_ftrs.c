@@ -1048,3 +1048,4 @@ void __init dt_cpu_ftrs_scan(void)
 
 	of_scan_flat_dt(dt_cpu_ftrs_scan_callback, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

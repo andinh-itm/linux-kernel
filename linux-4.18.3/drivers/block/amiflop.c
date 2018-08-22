@@ -1885,3 +1885,4 @@ __setup("floppy=", amiga_floppy_setup);
 #endif
 
 MODULE_ALIAS("platform:amiga-floppy");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

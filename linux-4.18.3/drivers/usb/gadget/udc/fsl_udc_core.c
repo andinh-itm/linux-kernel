@@ -2686,3 +2686,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:fsl-usb2-udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1723,3 +1723,4 @@ int main(void)
 	printf("Summary: %d PASSED, %d FAILED\n", pass_cnt, error_cnt);
 	return error_cnt ? EXIT_FAILURE : EXIT_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

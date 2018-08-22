@@ -117,3 +117,4 @@ void platform_init(void)
 
 	serial_console_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

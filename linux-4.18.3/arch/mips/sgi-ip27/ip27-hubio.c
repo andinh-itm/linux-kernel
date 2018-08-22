@@ -183,3 +183,4 @@ void hub_pio_init(cnodeid_t cnode)
 
 	hub_set_piomode(nasid);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

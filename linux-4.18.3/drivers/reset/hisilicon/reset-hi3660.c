@@ -124,3 +124,4 @@ arch_initcall(hi3660_reset_init);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:hi3660-reset");
 MODULE_DESCRIPTION("HiSilicon Hi3660 Reset Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

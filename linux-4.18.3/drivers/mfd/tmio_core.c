@@ -71,3 +71,4 @@ void tmio_core_mmc_clk_div(void __iomem *cnf, int shift, int state)
 }
 EXPORT_SYMBOL(tmio_core_mmc_clk_div);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

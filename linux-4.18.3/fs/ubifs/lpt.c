@@ -2279,3 +2279,4 @@ int dbg_check_lpt_nodes(struct ubifs_info *c, struct ubifs_cnode *cnode,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

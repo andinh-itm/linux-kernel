@@ -443,3 +443,4 @@ MODULE_AUTHOR("Arnaud Patard <arnaud.patard@rtp-net.org>, "
 	      "Simtec Electronics <linux@simtec.co.uk>");
 MODULE_DESCRIPTION("S3C24XX Touchscreen driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

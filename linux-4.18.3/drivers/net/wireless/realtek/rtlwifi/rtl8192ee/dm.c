@@ -1237,3 +1237,4 @@ void rtl92ee_dm_watchdog(struct ieee80211_hw *hw)
 	}
 	spin_unlock(&rtlpriv->locks.rf_ps_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -175,3 +175,4 @@ void pcibr_ate_free(struct pcibus_info *pcibus_info, int index)
 	free_ate_resource(&pcibus_info->pbi_int_ate_resource, index);
 	spin_unlock_irqrestore(&pcibus_info->pbi_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

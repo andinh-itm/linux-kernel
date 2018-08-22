@@ -151,3 +151,4 @@ void fm10k_dcbnl_set_ops(struct net_device *dev)
 	if (hw->mac.type == fm10k_mac_pf)
 		dev->dcbnl_ops = &fm10k_dcbnl_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -159,3 +159,4 @@ const struct inode_operations nilfs_file_inode_operations = {
 };
 
 /* end of file */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

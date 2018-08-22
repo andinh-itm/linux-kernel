@@ -266,3 +266,4 @@ static void __init pxa1928_apbc_clk_init(struct device_node *np)
 	pxa1928_clk_reset_init(np, pxa_unit);
 }
 CLK_OF_DECLARE(pxa1928_apbc_clk, "marvell,pxa1928-apbc", pxa1928_apbc_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

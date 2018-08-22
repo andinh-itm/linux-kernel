@@ -986,3 +986,4 @@ module_i2c_driver(mt9t001_driver);
 MODULE_DESCRIPTION("Aptina (Micron) MT9T001 Camera driver");
 MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

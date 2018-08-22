@@ -1087,3 +1087,4 @@ static int __init alchemy_dbdma_init(void)
 	return 0;
 }
 subsys_initcall(alchemy_dbdma_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

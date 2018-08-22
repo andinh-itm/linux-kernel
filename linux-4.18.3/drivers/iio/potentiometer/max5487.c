@@ -157,3 +157,4 @@ module_spi_driver(max5487_driver);
 MODULE_AUTHOR("Cristina-Gabriela Moraru <cristina.moraru09@gmail.com>");
 MODULE_DESCRIPTION("max5487 SPI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

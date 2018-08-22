@@ -187,3 +187,4 @@ struct serio_driver iforce_serio_drv = {
 	.connect	= iforce_serio_connect,
 	.disconnect	= iforce_serio_disconnect,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

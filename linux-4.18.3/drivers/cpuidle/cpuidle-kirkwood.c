@@ -85,3 +85,4 @@ MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch>");
 MODULE_DESCRIPTION("Kirkwood cpu idle driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:kirkwood-cpuidle");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

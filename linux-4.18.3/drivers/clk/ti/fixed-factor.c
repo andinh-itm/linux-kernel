@@ -67,3 +67,4 @@ static void __init of_ti_fixed_factor_clk_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(ti_fixed_factor_clk, "ti,fixed-factor-clock",
 	       of_ti_fixed_factor_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -4420,3 +4420,4 @@ int mwifiex_register_cfg80211(struct mwifiex_adapter *adapter)
 	adapter->wiphy = wiphy;
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

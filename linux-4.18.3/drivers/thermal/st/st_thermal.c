@@ -313,3 +313,4 @@ EXPORT_SYMBOL_GPL(st_thermal_pm_ops);
 MODULE_AUTHOR("STMicroelectronics (R&D) Limited <ajitpal.singh@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STi SoC Thermal Sensor Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

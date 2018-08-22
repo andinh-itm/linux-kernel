@@ -90,3 +90,4 @@ EXPORT_SYMBOL_GPL(s390_sha_final);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("s390 SHA cipher common functions");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -971,3 +971,4 @@ void __init setup_arch(char **cmdline_p)
 	/* Add system specific data to the random pool */
 	setup_randomness();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

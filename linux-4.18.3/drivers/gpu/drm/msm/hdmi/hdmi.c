@@ -670,3 +670,4 @@ void __exit msm_hdmi_unregister(void)
 	platform_driver_unregister(&msm_hdmi_driver);
 	msm_hdmi_phy_driver_unregister();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

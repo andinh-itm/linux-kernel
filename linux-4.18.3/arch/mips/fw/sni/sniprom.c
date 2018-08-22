@@ -150,3 +150,4 @@ void __init prom_init(void)
 			strcat(arcs_cmdline, " ");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -179,3 +179,4 @@ static int __init or1k_pic_edge_init(struct device_node *node,
 	return or1k_pic_init(node, &or1k_pic_edge);
 }
 IRQCHIP_DECLARE(or1k_pic_edge, "opencores,or1k-pic-edge", or1k_pic_edge_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1449,3 +1449,4 @@ static void __exit acpi_wmi_exit(void)
 
 subsys_initcall_sync(acpi_wmi_init);
 module_exit(acpi_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

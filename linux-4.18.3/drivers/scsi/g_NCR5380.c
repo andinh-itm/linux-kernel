@@ -816,3 +816,4 @@ static void __exit generic_NCR5380_exit(void)
 
 module_init(generic_NCR5380_init);
 module_exit(generic_NCR5380_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -323,3 +323,4 @@ void radeon_mn_unregister(struct radeon_bo *bo)
 	mutex_unlock(&rmn->lock);
 	mutex_unlock(&rdev->mn_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

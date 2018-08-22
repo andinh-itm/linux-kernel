@@ -3042,3 +3042,4 @@ module_exit(gcc_ipq806x_exit);
 MODULE_DESCRIPTION("QCOM GCC IPQ806x Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-ipq806x");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

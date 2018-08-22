@@ -1183,3 +1183,4 @@ module_i2c_driver(wdt87xx_driver);
 MODULE_AUTHOR("HN Chen <hn.chen@weidahitech.com>");
 MODULE_DESCRIPTION("WeidaHiTech WDT87XX Touchscreen driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

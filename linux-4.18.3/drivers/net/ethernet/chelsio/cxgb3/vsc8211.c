@@ -414,3 +414,4 @@ int t3_vsc8211_phy_prep(struct cphy *phy, struct adapter *adapter,
 	udelay(5); /* delay after reset before next SMI */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

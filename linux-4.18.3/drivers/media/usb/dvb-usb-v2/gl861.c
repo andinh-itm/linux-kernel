@@ -189,3 +189,4 @@ MODULE_AUTHOR("Carl Lundqvist <comabug@gmail.com>");
 MODULE_DESCRIPTION("Driver MSI Mega Sky 580 DVB-T USB2.0 / GL861");
 MODULE_VERSION("0.1");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

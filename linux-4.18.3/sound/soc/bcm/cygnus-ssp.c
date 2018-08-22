@@ -1396,3 +1396,4 @@ MODULE_ALIAS("platform:cygnus-ssp");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Broadcom");
 MODULE_DESCRIPTION("Cygnus ASoC SSP Interface");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

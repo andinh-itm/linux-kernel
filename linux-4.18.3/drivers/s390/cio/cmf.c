@@ -1307,3 +1307,4 @@ EXPORT_SYMBOL_GPL(enable_cmf);
 EXPORT_SYMBOL_GPL(disable_cmf);
 EXPORT_SYMBOL_GPL(cmf_read);
 EXPORT_SYMBOL_GPL(cmf_readall);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

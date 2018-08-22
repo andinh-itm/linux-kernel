@@ -127,3 +127,4 @@ int snd_ff_create_midi_devices(struct snd_ff *ff)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

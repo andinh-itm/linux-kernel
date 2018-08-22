@@ -906,3 +906,4 @@ MODULE_PARM_DESC(lg4ff_no_autoswitch, "Do not switch multimode wheels to their n
 #endif
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

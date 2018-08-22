@@ -747,3 +747,4 @@ verify_patch(volatile immap_t *immr)
 	commproc->cp_rccr = 0x0009;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

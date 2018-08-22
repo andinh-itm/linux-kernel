@@ -510,3 +510,4 @@ static struct platform_driver ocelot_pinctrl_driver = {
 	.probe = ocelot_pinctrl_probe,
 };
 builtin_platform_driver(ocelot_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

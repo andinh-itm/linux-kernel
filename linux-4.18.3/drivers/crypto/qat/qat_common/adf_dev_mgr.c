@@ -491,3 +491,4 @@ int adf_dev_started(struct adf_accel_dev *accel_dev)
 	return test_bit(ADF_STATUS_STARTED, &accel_dev->status);
 }
 EXPORT_SYMBOL_GPL(adf_dev_started);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

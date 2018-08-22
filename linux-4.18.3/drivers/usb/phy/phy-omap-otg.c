@@ -148,3 +148,4 @@ module_platform_driver(omap_otg_driver);
 MODULE_DESCRIPTION("OMAP USB OTG controller driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Aaro Koskinen <aaro.koskinen@iki.fi>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

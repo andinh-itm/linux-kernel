@@ -1076,3 +1076,4 @@ int atmel_hlcdc_create_planes(struct drm_device *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

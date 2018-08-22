@@ -154,3 +154,4 @@ u32 bcma_core_dma_translation(struct bcma_device *core)
 	return BCMA_DMA_TRANSLATION_NONE;
 }
 EXPORT_SYMBOL(bcma_core_dma_translation);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

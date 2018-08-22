@@ -1950,3 +1950,4 @@ static struct i2c_driver saa711x_driver = {
 };
 
 module_i2c_driver(saa711x_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

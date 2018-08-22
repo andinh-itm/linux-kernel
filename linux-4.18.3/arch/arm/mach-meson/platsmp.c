@@ -438,3 +438,4 @@ static struct smp_operations meson8b_smp_ops __initdata = {
 
 CPU_METHOD_OF_DECLARE(meson8_smp, "amlogic,meson8-smp", &meson8_smp_ops);
 CPU_METHOD_OF_DECLARE(meson8b_smp, "amlogic,meson8b-smp", &meson8b_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

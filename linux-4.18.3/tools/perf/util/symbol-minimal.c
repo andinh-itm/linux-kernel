@@ -381,3 +381,4 @@ char *dso__demangle_sym(struct dso *dso __maybe_unused,
 {
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

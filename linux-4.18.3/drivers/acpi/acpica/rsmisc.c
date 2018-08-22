@@ -783,3 +783,4 @@ if (resource->data.dma.transfer == 0x03) {
 	return_ACPI_STATUS(AE_BAD_DATA);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

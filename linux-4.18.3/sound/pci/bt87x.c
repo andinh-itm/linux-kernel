@@ -992,3 +992,4 @@ static void __exit alsa_card_bt87x_exit(void)
 
 module_init(alsa_card_bt87x_init)
 module_exit(alsa_card_bt87x_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

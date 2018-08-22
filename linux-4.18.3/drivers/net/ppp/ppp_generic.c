@@ -3287,3 +3287,4 @@ MODULE_LICENSE("GPL");
 MODULE_ALIAS_CHARDEV(PPP_MAJOR, 0);
 MODULE_ALIAS_RTNL_LINK("ppp");
 MODULE_ALIAS("devname:ppp");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

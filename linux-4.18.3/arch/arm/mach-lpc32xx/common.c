@@ -116,3 +116,4 @@ static int __init lpc32xx_check_uid(void)
 	return 1;
 }
 arch_initcall(lpc32xx_check_uid);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

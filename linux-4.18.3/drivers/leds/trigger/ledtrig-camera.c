@@ -55,3 +55,4 @@ module_exit(ledtrig_camera_exit);
 MODULE_DESCRIPTION("LED Trigger for Camera Flash/Torch Control");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

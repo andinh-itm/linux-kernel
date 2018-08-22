@@ -439,3 +439,4 @@ module_exit(p1022_ds_exit);
 MODULE_AUTHOR("Timur Tabi <timur@freescale.com>");
 MODULE_DESCRIPTION("Freescale P1022 DS ALSA SoC machine driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

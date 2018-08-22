@@ -427,3 +427,4 @@ MODULE_AUTHOR("Jaikrishna Nemallapudi <jaikrishnax.nemallapudi@intel.com>");
 MODULE_AUTHOR("Subhransu S. Prusty <subhransu.s.prusty@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:skl-ssp-clk");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

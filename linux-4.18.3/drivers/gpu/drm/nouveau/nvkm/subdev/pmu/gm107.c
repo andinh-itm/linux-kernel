@@ -46,3 +46,4 @@ gm107_pmu_new(struct nvkm_device *device, int index, struct nvkm_pmu **ppmu)
 {
 	return nvkm_pmu_new_(&gm107_pmu, device, index, ppmu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -235,3 +235,4 @@ int qxl_image_init(struct qxl_device *qdev,
 	return qxl_image_init_helper(qdev, release, dimage, data,
 				       width, height, depth, 0, stride);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

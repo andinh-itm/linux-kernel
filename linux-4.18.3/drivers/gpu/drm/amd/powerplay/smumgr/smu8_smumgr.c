@@ -889,3 +889,4 @@ const struct pp_smumgr_func smu8_smu_funcs = {
 	.is_dpm_running = smu8_is_dpm_running,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

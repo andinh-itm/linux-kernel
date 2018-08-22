@@ -677,3 +677,4 @@ module_platform_driver(sprd_eic_driver);
 
 MODULE_DESCRIPTION("Spreadtrum EIC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

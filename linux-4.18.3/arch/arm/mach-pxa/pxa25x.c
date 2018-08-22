@@ -226,3 +226,4 @@ static int __init pxa25x_init(void)
 }
 
 postcore_initcall(pxa25x_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

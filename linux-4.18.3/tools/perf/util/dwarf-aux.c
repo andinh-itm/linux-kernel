@@ -1291,3 +1291,4 @@ void die_skip_prologue(Dwarf_Die *sp_die, Dwarf_Die *cu_die,
 
 	*entrypc = postprologue_addr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

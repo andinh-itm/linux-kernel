@@ -637,3 +637,4 @@ module_i2c_driver(max44000_driver);
 MODULE_AUTHOR("Crestez Dan Leonard <leonard.crestez@intel.com>");
 MODULE_DESCRIPTION("MAX44000 Ambient and Infrared Proximity Sensor");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

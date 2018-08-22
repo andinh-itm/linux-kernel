@@ -3414,3 +3414,4 @@ module_platform_driver(mmcc_apq8084_driver);
 MODULE_DESCRIPTION("QCOM MMCC APQ8084 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mmcc-apq8084");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

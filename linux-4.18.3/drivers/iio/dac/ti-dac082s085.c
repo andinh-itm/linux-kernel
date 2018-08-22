@@ -366,3 +366,4 @@ module_spi_driver(ti_dac_driver);
 MODULE_AUTHOR("Lukas Wunner <lukas@wunner.de>");
 MODULE_DESCRIPTION("Texas Instruments 8/10/12-bit 2/4-channel DAC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

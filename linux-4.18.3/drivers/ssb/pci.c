@@ -1188,3 +1188,4 @@ int ssb_pci_init(struct ssb_bus *bus)
 out:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

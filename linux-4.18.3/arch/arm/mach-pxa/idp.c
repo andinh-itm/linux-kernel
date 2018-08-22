@@ -292,3 +292,4 @@ MACHINE_START(PXA_IDP, "Vibren PXA255 IDP")
 	.init_machine	= idp_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

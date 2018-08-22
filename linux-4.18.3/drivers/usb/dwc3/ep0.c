@@ -1126,3 +1126,4 @@ void dwc3_ep0_interrupt(struct dwc3 *dwc,
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

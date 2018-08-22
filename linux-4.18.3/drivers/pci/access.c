@@ -588,3 +588,4 @@ int pci_write_config_dword(const struct pci_dev *dev, int where,
 	return pci_bus_write_config_dword(dev->bus, dev->devfn, where, val);
 }
 EXPORT_SYMBOL(pci_write_config_dword);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -398,3 +398,4 @@ module_i2c_driver(ts3a227e_driver);
 MODULE_DESCRIPTION("ASoC ts3a227e driver");
 MODULE_AUTHOR("Dylan Reid <dgreid@chromium.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

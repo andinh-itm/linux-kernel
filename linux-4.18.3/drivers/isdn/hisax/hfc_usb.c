@@ -1610,3 +1610,4 @@ MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(usb, hfcusb_idtab);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

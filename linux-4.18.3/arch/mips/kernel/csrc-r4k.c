@@ -88,3 +88,4 @@ int __init init_r4k_clocksource(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

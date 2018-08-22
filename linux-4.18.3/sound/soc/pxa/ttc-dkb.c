@@ -151,3 +151,4 @@ MODULE_AUTHOR("Qiao Zhou, <zhouqiao@marvell.com>");
 MODULE_DESCRIPTION("ALSA SoC TTC DKB");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ttc-dkb-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

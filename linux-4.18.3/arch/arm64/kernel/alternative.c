@@ -238,3 +238,4 @@ void apply_alternatives_module(void *start, size_t length)
 	__apply_alternatives(&region, true);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

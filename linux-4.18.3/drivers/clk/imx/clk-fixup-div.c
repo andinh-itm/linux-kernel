@@ -126,3 +126,4 @@ struct clk *imx_clk_fixup_divider(const char *name, const char *parent,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

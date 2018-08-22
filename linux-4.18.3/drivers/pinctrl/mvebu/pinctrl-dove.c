@@ -862,3 +862,4 @@ static struct platform_driver dove_pinctrl_driver = {
 	.probe = dove_pinctrl_probe,
 };
 builtin_platform_driver(dove_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

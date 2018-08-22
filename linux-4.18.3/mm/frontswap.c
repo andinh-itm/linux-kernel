@@ -496,3 +496,4 @@ static int __init init_frontswap(void)
 }
 
 module_init(init_frontswap);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

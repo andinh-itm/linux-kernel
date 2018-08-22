@@ -403,3 +403,4 @@ cleanup:
 	acpi_ut_remove_reference(obj_desc);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

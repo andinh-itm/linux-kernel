@@ -200,3 +200,4 @@ bool dss_ovl_use_replication(struct dss_lcd_mgr_config config,
 
 	return config.video_port_width > 16;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

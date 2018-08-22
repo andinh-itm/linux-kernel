@@ -75,3 +75,4 @@ struct platform_device *__init imx_add_imx_i2c(
 			res, ARRAY_SIZE(res),
 			pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

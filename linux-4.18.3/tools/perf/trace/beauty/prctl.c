@@ -80,3 +80,4 @@ size_t syscall_arg__scnprintf_prctl_option(char *bf, size_t size, struct syscall
 
 	return prctl__scnprintf_option(option, bf, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

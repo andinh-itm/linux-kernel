@@ -969,3 +969,4 @@ void sun8i_vi_scaler_setup(struct sun8i_mixer *mixer, int layer,
 	sun8i_vi_scaler_set_coeff(mixer->engine.regs, layer,
 				  hscale, vscale, format);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

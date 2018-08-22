@@ -167,3 +167,4 @@ MODULE_AUTHOR("Jonas Aaberg <jonas.aberg@stericsson.com>");
 MODULE_DESCRIPTION("Ux500 Watchdog Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ux500_wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

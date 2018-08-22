@@ -61,3 +61,4 @@ void __init shmobile_init_delay(void)
 	if (!preset_lpj)
 		preset_lpj = max_freq / HZ;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

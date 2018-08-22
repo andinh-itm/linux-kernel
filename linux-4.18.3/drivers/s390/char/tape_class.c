@@ -130,3 +130,4 @@ static void __exit tape_exit(void)
 
 postcore_initcall(tape_init);
 module_exit(tape_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -617,3 +617,4 @@ MODULE_AUTHOR("Trent Piepho");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(or51132_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

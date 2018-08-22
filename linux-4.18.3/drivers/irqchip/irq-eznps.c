@@ -163,3 +163,4 @@ static int __init nps400_of_init(struct device_node *node,
 	return 0;
 }
 IRQCHIP_DECLARE(ezchip_nps400_ic, "ezchip,nps400-ic", nps400_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

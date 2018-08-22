@@ -93,3 +93,4 @@ __le64 *squashfs_read_xattr_id_table(struct super_block *sb, u64 start,
 
 	return squashfs_read_table(sb, start + sizeof(*id_table), len);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

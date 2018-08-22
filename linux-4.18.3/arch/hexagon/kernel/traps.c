@@ -451,3 +451,4 @@ void do_debug_exception(struct pt_regs *regs)
 	regs->hvmer.vmest |= (TRAP_DEBUG << HVM_VMEST_CAUSE_SFT);
 	do_trap0(regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

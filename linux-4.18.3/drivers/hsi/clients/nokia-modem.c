@@ -311,3 +311,4 @@ MODULE_ALIAS("hsi:nokia-modem");
 MODULE_AUTHOR("Sebastian Reichel <sre@kernel.org>");
 MODULE_DESCRIPTION("HSI driver module for Nokia N900 Modem");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

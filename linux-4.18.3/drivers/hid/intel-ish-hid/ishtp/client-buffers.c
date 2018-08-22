@@ -255,3 +255,4 @@ int ishtp_cl_io_rb_recycle(struct ishtp_cl_rb *rb)
 	return	rets;
 }
 EXPORT_SYMBOL(ishtp_cl_io_rb_recycle);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

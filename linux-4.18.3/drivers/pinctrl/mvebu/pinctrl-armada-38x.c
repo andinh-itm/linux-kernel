@@ -435,3 +435,4 @@ static struct platform_driver armada_38x_pinctrl_driver = {
 	.probe = armada_38x_pinctrl_probe,
 };
 builtin_platform_driver(armada_38x_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

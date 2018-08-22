@@ -334,3 +334,4 @@ nvkm_object_new(const struct nvkm_oclass *oclass, void *data, u32 size,
 		oclass->base.func ? oclass->base.func : &nvkm_object_func;
 	return nvkm_object_new_(func, oclass, data, size, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

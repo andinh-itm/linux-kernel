@@ -558,3 +558,4 @@ nouveau_fbcon_fini(struct drm_device *dev)
 	kfree(drm->fbcon);
 	drm->fbcon = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

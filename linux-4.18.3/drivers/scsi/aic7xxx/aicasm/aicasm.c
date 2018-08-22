@@ -841,3 +841,4 @@ process_scope(scope_t *scope)
 		cur_scope = TAILQ_PREV(cur_scope, scope_tailq, scope_links);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

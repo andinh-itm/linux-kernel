@@ -386,3 +386,4 @@ void vsp1_pipeline_propagate_partition(struct vsp1_pipeline *pipe,
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

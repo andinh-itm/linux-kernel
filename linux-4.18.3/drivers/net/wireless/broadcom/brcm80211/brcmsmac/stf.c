@@ -438,3 +438,4 @@ u16 brcms_c_stf_d11hdrs_phyctl_txant(struct brcms_c_info *wlc, u32 rspec)
 	phytxant |= phytxant & mask;
 	return phytxant;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1059,3 +1059,4 @@ MODULE_DESCRIPTION("Legend Silicon LGS8913/LGS8GXX DMB-TH demodulator driver");
 MODULE_AUTHOR("David T. L. Wong <davidtlwong@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(LGS8GXX_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

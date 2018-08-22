@@ -96,3 +96,4 @@ void __init zorro_name_device(struct zorro_dev *dev)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

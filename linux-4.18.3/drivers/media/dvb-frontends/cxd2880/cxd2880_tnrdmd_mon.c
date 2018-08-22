@@ -148,3 +148,4 @@ int cxd2880_tnrdmd_mon_internal_cpu_status_sub(struct
 	return cxd2880_tnrdmd_mon_internal_cpu_status(tnr_dmd->diver_sub,
 						      status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

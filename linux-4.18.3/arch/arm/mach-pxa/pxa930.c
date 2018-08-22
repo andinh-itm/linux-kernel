@@ -217,3 +217,4 @@ static int __init pxa930_init(void)
 }
 
 core_initcall(pxa930_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

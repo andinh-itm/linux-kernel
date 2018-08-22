@@ -938,3 +938,4 @@ static struct hid_driver lenovo_driver = {
 module_hid_driver(lenovo_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

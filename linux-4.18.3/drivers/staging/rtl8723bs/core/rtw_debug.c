@@ -1439,3 +1439,4 @@ int proc_get_btcoex_info(struct seq_file *m, void *v)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2148,3 +2148,4 @@ static struct pci_driver rt2500pci_driver = {
 };
 
 module_pci_driver(rt2500pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

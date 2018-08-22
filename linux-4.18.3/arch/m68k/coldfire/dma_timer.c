@@ -80,3 +80,4 @@ unsigned long long sched_clock(void)
 
 	return cycles2ns(cycl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

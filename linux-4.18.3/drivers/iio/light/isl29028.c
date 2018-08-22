@@ -726,3 +726,4 @@ module_i2c_driver(isl29028_driver);
 MODULE_DESCRIPTION("ISL29028 Ambient Light and Proximity Sensor driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

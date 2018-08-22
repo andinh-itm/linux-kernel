@@ -739,3 +739,4 @@ int s3c_i2sv2_register_component(struct device *dev, int id,
 EXPORT_SYMBOL_GPL(s3c_i2sv2_register_component);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

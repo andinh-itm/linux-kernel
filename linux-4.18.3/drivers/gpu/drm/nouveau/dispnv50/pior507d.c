@@ -42,3 +42,4 @@ const struct nv50_outp_func
 pior507d = {
 	.ctrl = pior507d_ctrl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

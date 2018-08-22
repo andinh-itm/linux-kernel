@@ -1054,3 +1054,4 @@ module_platform_driver(mtk_hsdma_driver);
 MODULE_DESCRIPTION("MediaTek High-Speed DMA Controller Driver");
 MODULE_AUTHOR("Sean Wang <sean.wang@mediatek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

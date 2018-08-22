@@ -47,3 +47,4 @@ static int __init usrgpir_gpio_setup(void)
 	return gpiochip_add_data(&usrgpir_gpio_chip, NULL);
 }
 device_initcall(usrgpir_gpio_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

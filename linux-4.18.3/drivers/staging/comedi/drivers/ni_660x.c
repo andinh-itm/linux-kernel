@@ -933,3 +933,4 @@ module_comedi_pci_driver(ni_660x_driver, ni_660x_pci_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for NI 660x counter/timer boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1313,3 +1313,4 @@ static void __init exynos7_clk_aud_init(struct device_node *np)
 
 CLK_OF_DECLARE(exynos7_clk_aud, "samsung,exynos7-clock-aud",
 		exynos7_clk_aud_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

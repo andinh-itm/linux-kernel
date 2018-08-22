@@ -166,3 +166,4 @@ void __init trap_init(void)
 	/* Enable all interrupts */
 	csr_write(sie, -1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

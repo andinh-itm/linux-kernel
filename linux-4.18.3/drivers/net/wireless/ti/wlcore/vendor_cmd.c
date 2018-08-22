@@ -195,3 +195,4 @@ void wlcore_set_vendor_commands(struct wiphy *wiphy)
 	wiphy->vendor_events = wlcore_vendor_events;
 	wiphy->n_vendor_events = ARRAY_SIZE(wlcore_vendor_events);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

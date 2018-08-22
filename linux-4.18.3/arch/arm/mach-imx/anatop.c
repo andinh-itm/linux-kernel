@@ -164,3 +164,4 @@ void __init imx_anatop_init(void)
 
 	imx_anatop_usb_chrg_detect_disable();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

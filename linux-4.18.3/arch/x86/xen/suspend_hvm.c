@@ -16,3 +16,4 @@ void xen_hvm_post_suspend(int suspend_cancelled)
 	xen_callback_vector();
 	xen_unplug_emulated_devices();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

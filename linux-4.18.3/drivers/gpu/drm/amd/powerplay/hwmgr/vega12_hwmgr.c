@@ -2144,3 +2144,4 @@ int vega12_hwmgr_init(struct pp_hwmgr *hwmgr)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

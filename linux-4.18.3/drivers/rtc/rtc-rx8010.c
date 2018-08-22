@@ -503,3 +503,4 @@ module_i2c_driver(rx8010_driver);
 MODULE_AUTHOR("Akshay Bhat <akshay.bhat@timesys.com>");
 MODULE_DESCRIPTION("Epson RX8010SJ RTC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

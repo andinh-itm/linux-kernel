@@ -426,3 +426,4 @@ void ODM_PhyStatusQuery(struct odm_dm_struct *dm_odm,
 {
 	ODM_PhyStatusQuery_92CSeries(dm_odm, pPhyInfo, pPhyStatus, pPktinfo);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

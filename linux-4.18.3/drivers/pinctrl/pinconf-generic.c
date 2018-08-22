@@ -410,3 +410,4 @@ void pinconf_generic_dt_free_map(struct pinctrl_dev *pctldev,
 EXPORT_SYMBOL_GPL(pinconf_generic_dt_free_map);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

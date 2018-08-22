@@ -77,3 +77,4 @@ const struct plat_smp_ops up_smp_ops = {
 	.cpu_die		= up_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

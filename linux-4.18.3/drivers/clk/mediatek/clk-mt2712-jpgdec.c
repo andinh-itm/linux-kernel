@@ -74,3 +74,4 @@ static struct platform_driver clk_mt2712_jpgdec_drv = {
 };
 
 builtin_platform_driver(clk_mt2712_jpgdec_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

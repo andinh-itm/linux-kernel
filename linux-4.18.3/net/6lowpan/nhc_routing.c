@@ -25,3 +25,4 @@ LOWPAN_NHC(nhc_routing, "RFC6282 Routing", NEXTHDR_ROUTING, 0,
 module_lowpan_nhc(nhc_routing);
 MODULE_DESCRIPTION("6LoWPAN next header RFC6282 Routing compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

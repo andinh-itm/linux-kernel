@@ -235,3 +235,4 @@ void gb_module_put(struct gb_module *module)
 
 	put_device(&module->dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

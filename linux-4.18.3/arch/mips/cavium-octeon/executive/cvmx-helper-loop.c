@@ -83,3 +83,4 @@ int __cvmx_helper_loop_enable(int interface)
 	/* Do nothing. */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

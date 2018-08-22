@@ -5112,3 +5112,4 @@ static int pvr2_hdw_get_eeprom_addr(struct pvr2_hdw *hdw)
 	} while(0); LOCK_GIVE(hdw->ctl_lock);
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1076,3 +1076,4 @@ set_cs_func(struct IsdnCardState *cs)
 	timer_setup(&cs->dbusytimer, hfc_dbusy_timer, 0);
 	INIT_WORK(&cs->tqueue, hfcd_bh);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

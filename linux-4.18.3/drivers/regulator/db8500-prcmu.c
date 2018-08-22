@@ -555,3 +555,4 @@ module_exit(db8500_regulator_exit);
 MODULE_AUTHOR("STMicroelectronics/ST-Ericsson");
 MODULE_DESCRIPTION("DB8500 regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

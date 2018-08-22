@@ -132,3 +132,4 @@ const struct renesas_usbhs_platform_callback usbhs_rcar3_with_pll_ops = {
 	.get_id = usbhs_rcar3_get_id,
 	.notifier = usbhs_rcar3_notifier,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

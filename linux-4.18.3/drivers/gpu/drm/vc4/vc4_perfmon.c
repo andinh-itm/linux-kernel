@@ -186,3 +186,4 @@ int vc4_perfmon_get_values_ioctl(struct drm_device *dev, void *data,
 	vc4_perfmon_put(perfmon);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

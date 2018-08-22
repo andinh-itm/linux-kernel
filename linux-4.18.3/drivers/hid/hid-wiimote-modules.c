@@ -2202,3 +2202,4 @@ const struct wiimod_ops *wiimod_ext_table[WIIMOTE_EXT_NUM] = {
 	[WIIMOTE_EXT_BALANCE_BOARD] = &wiimod_bboard,
 	[WIIMOTE_EXT_PRO_CONTROLLER] = &wiimod_pro,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

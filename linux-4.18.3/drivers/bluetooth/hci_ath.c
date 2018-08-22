@@ -277,3 +277,4 @@ int __exit ath_deinit(void)
 {
 	return hci_uart_unregister_proto(&athp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

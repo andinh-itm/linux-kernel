@@ -561,3 +561,4 @@ MODULE_AUTHOR("Lars-Peter Clausen, <lars@metafoo.de>");
 MODULE_DESCRIPTION("Ingenic JZ4740 SoC I2S driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:jz4740-i2s");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

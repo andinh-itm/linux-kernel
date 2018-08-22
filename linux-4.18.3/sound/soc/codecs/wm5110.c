@@ -2515,3 +2515,4 @@ MODULE_DESCRIPTION("ASoC WM5110 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm5110-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -4758,3 +4758,4 @@ const struct hid_device_id wacom_ids[] = {
 	{ }
 };
 MODULE_DEVICE_TABLE(hid, wacom_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

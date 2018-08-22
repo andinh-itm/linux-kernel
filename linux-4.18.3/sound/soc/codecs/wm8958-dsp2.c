@@ -1033,3 +1033,4 @@ void wm8958_dsp2_init(struct snd_soc_component *component)
 				ret);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -252,3 +252,4 @@ bool lspcon_init(struct intel_digital_port *intel_dig_port)
 	DRM_DEBUG_KMS("Success: LSPCON init\n");
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -870,3 +870,4 @@ EXPORT_SYMBOL(mtd_concat_destroy);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Robert Kaiser <rkaiser@sysgo.de>");
 MODULE_DESCRIPTION("Generic support for concatenating of MTD devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

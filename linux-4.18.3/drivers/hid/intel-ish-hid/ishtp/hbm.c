@@ -1024,3 +1024,4 @@ void ishtp_query_subscribers(struct ishtp_device *dev)
 	ishtp_write_message(dev, &ishtp_hdr,
 		(unsigned char *)&query_subscribers_msg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

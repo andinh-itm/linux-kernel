@@ -1418,3 +1418,4 @@ struct platform_driver fimc_driver = {
 		.pm	= &fimc_pm_ops,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

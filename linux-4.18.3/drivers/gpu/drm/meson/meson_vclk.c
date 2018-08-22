@@ -982,3 +982,4 @@ void meson_vclk_setup(struct meson_drm *priv, unsigned int target,
 	regmap_update_bits(priv->hhi, HHI_VID_CLK_CNTL, VCLK_EN, VCLK_EN);
 }
 EXPORT_SYMBOL_GPL(meson_vclk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

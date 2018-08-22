@@ -122,3 +122,4 @@ long compat_arm_syscall(struct pt_regs *regs)
 	arm64_notify_die("Oops - bad compat syscall(2)", regs, &info, no);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

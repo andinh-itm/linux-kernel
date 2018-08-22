@@ -478,3 +478,4 @@ const struct raid6_calls raid6_avx2x4 = {
 #endif
 
 #endif /* CONFIG_AS_AVX2 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

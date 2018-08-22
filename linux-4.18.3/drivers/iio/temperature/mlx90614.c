@@ -663,3 +663,4 @@ MODULE_AUTHOR("Vianney le Clément de Saint-Marcq <vianney.leclement@essensium.c
 MODULE_AUTHOR("Crt Mori <cmo@melexis.com>");
 MODULE_DESCRIPTION("Melexis MLX90614 contactless IR temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

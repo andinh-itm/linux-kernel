@@ -96,3 +96,4 @@ void default_machine_crash_shutdown(struct pt_regs *regs)
 	crash_kexec_prepare_cpus();
 	cpumask_set_cpu(crashing_cpu, &cpus_in_crash);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

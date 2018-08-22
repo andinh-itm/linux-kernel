@@ -1175,3 +1175,4 @@ static void __exit ath9k_exit(void)
 	pr_info("%s: Driver unloaded\n", dev_info);
 }
 module_exit(ath9k_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

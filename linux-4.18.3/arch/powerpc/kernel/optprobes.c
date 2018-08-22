@@ -349,3 +349,4 @@ int arch_within_optimized_kprobe(struct optimized_kprobe *op,
 	return ((unsigned long)op->kp.addr <= addr &&
 		(unsigned long)op->kp.addr + RELATIVEJUMP_SIZE > addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

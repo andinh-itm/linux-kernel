@@ -247,3 +247,4 @@ module_platform_driver_probe(ab3100_otp_driver, ab3100_otp_probe);
 MODULE_AUTHOR("Linus Walleij <linus.walleij@stericsson.com>");
 MODULE_DESCRIPTION("AB3100 OTP Readout Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

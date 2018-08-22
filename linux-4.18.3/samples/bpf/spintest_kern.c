@@ -66,3 +66,4 @@ SEC("kprobe/htab_map_alloc")PROG(p17)
 
 char _license[] SEC("license") = "GPL";
 u32 _version SEC("version") = LINUX_VERSION_CODE;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -375,3 +375,4 @@ const char *spk_ttyio_synth_immediate(struct spk_synth *synth, const char *buff)
 	return NULL;
 }
 EXPORT_SYMBOL_GPL(spk_ttyio_synth_immediate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

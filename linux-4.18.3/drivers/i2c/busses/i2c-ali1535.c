@@ -534,3 +534,4 @@ MODULE_AUTHOR("Frodo Looijaard <frodol@dds.nl>, "
 	      "and Dan Eaton <dan.eaton@rocketlogix.com>");
 MODULE_DESCRIPTION("ALI1535 SMBus driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

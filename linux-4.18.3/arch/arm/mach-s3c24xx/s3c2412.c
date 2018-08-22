@@ -175,3 +175,4 @@ int __init s3c2412_init(void)
 
 	return device_register(&s3c2412_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

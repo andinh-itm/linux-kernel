@@ -1675,3 +1675,4 @@ static struct i2c_driver si4713_i2c_driver = {
 };
 
 module_i2c_driver(si4713_i2c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

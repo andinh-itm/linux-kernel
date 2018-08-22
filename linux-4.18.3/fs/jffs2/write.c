@@ -721,3 +721,4 @@ int jffs2_do_link (struct jffs2_sb_info *c, struct jffs2_inode_info *dir_f, uint
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

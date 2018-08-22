@@ -310,3 +310,4 @@ static struct platform_driver sunxi_de2_clk_driver = {
 	},
 };
 builtin_platform_driver(sunxi_de2_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

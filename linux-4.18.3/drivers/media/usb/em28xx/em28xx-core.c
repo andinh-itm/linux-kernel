@@ -1180,3 +1180,4 @@ int em28xx_resume_extension(struct em28xx *dev)
 	mutex_unlock(&em28xx_devlist_mutex);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

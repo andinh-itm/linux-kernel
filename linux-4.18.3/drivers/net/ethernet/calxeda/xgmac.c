@@ -1935,3 +1935,4 @@ module_platform_driver(xgmac_driver);
 MODULE_AUTHOR("Calxeda, Inc.");
 MODULE_DESCRIPTION("Calxeda 10G XGMAC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

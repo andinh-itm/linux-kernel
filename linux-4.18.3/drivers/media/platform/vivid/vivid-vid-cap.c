@@ -1864,3 +1864,4 @@ int vivid_vid_cap_s_parm(struct file *file, void *priv,
 	parm->parm.capture.readbuffers  = 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

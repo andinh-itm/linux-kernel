@@ -1345,3 +1345,4 @@ module_i2c_driver(wm8991_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8991 driver");
 MODULE_AUTHOR("Graeme Gregory");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

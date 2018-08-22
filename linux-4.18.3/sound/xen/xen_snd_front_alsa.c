@@ -820,3 +820,4 @@ void xen_snd_front_alsa_fini(struct xen_snd_front_info *front_info)
 	/* Card_info will be freed when destroying front_info->xb_dev->dev. */
 	card_info->card = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

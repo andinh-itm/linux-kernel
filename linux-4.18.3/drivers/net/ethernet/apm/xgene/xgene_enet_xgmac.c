@@ -542,3 +542,4 @@ const struct xgene_port_ops xgene_xgport_ops = {
 	.cle_bypass = xgene_enet_xgcle_bypass,
 	.shutdown = xgene_enet_shutdown,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

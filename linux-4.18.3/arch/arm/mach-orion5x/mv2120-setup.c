@@ -241,3 +241,4 @@ MACHINE_START(MV2120, "HP Media Vault mv2120")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

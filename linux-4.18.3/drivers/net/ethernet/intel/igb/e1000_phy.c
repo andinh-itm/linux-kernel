@@ -2627,3 +2627,4 @@ static s32 igb_set_master_slave_mode(struct e1000_hw *hw)
 
 	return hw->phy.ops.write_reg(hw, PHY_1000T_CTRL, phy_data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

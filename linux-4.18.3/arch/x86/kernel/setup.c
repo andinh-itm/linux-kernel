@@ -1318,3 +1318,4 @@ static int __init register_kernel_offset_dumper(void)
 	return 0;
 }
 __initcall(register_kernel_offset_dumper);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

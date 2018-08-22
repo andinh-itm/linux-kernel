@@ -743,3 +743,4 @@ MODULE_AUTHOR("Mattias Wallin <mattias.wallin@stericsson.com>");
 MODULE_DESCRIPTION("AB3100 Regulator driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ab3100-regulators");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

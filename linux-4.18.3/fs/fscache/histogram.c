@@ -89,3 +89,4 @@ const struct seq_operations fscache_histogram_ops = {
 	.next		= fscache_histogram_next,
 	.show		= fscache_histogram_show,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

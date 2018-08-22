@@ -141,3 +141,4 @@ const struct dsa_device_ops lan9303_netdev_ops = {
 	.xmit = lan9303_xmit,
 	.rcv = lan9303_rcv,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

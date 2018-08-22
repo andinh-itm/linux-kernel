@@ -100,3 +100,4 @@ static int __init davinci_cpuidle_init(void)
 }
 device_initcall(davinci_cpuidle_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -16,3 +16,4 @@ word_type __ucmpdi2(DWtype a, DWtype b)
 		return 2;
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

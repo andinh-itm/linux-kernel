@@ -849,3 +849,4 @@ void dump_truncate(struct coredump_params *cprm)
 	}
 }
 EXPORT_SYMBOL(dump_truncate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

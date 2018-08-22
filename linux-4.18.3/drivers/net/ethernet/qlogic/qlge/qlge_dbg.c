@@ -2022,3 +2022,4 @@ void ql_dump_all(struct ql_adapter *qdev)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -551,3 +551,4 @@ int nfp_nsp_read_sensors(struct nfp_nsp *state, unsigned int sensor_mask,
 	return nfp_nsp_command_buf(state, SPCODE_NSP_SENSORS, sensor_mask,
 				   NULL, 0, buf, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

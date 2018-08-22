@@ -1936,3 +1936,4 @@ module_exit(omapfb_cleanup);
 MODULE_DESCRIPTION("TI OMAP framebuffer driver");
 MODULE_AUTHOR("Imre Deak <imre.deak@nokia.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

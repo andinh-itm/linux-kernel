@@ -30,3 +30,4 @@ void cuboot_init(unsigned long r4, unsigned long r5,
 
 	simple_alloc_init(_end, avail_ram - 1024*1024, 32, 64);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

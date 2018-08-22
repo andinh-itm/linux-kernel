@@ -294,3 +294,4 @@ void __init prom_init_numa_memory(void)
 	prom_meminit();
 }
 EXPORT_SYMBOL(prom_init_numa_memory);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

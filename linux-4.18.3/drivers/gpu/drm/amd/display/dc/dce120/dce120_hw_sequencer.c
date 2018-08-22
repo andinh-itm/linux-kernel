@@ -256,3 +256,4 @@ void dce120_hw_sequencer_construct(struct dc *dc)
 	dc->hwss.update_dchub = dce120_update_dchub;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

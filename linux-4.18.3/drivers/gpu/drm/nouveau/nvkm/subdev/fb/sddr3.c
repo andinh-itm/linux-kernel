@@ -118,3 +118,4 @@ nvkm_sddr3_calc(struct nvkm_ram *ram)
 	ram->mr[2] |= (CWL & 0x07) << 3;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

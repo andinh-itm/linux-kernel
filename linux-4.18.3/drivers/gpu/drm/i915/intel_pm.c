@@ -9744,3 +9744,4 @@ u32 intel_get_cagf(struct drm_i915_private *dev_priv, u32 rpstat)
 
 	return  cagf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

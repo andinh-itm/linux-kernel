@@ -1269,3 +1269,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Darius Augulis");
 MODULE_DESCRIPTION("I2C adapter driver for IMX I2C bus");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -238,3 +238,4 @@ static struct platform_driver ehci_hcd_ppc_of_driver = {
 		.of_match_table = ehci_hcd_ppc_of_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -793,3 +793,4 @@ size_t FSE_compress_usingCTable(void *dst, size_t dstSize, const void *src, size
 }
 
 size_t FSE_compressBound(size_t size) { return FSE_COMPRESSBOUND(size); }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

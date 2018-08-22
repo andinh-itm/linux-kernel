@@ -446,3 +446,4 @@ module_platform_driver(crypto_driver);
 MODULE_AUTHOR("Zain Wang <zain.wang@rock-chips.com>");
 MODULE_DESCRIPTION("Support for Rockchip's cryptographic engine");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

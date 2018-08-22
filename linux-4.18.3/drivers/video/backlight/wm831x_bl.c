@@ -228,3 +228,4 @@ MODULE_DESCRIPTION("Backlight Driver for WM831x PMICs");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

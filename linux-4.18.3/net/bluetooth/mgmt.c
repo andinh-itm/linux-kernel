@@ -7582,3 +7582,4 @@ void mgmt_exit(void)
 {
 	hci_mgmt_chan_unregister(&chan);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

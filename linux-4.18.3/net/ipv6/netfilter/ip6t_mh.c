@@ -92,3 +92,4 @@ static void __exit mh_mt6_exit(void)
 
 module_init(mh_mt6_init);
 module_exit(mh_mt6_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

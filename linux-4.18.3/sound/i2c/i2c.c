@@ -351,3 +351,4 @@ static void __exit alsa_i2c_exit(void)
 
 module_init(alsa_i2c_init)
 module_exit(alsa_i2c_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

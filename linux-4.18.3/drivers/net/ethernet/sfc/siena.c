@@ -1088,3 +1088,4 @@ const struct efx_nic_type siena_a0_nic_type = {
 			     1 << HWTSTAMP_FILTER_PTP_V2_L4_EVENT),
 	.rx_hash_key_size = 16,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -796,3 +796,4 @@ MODULE_DESCRIPTION("Maxim 14577/77836 Extcon driver");
 MODULE_AUTHOR("Chanwoo Choi <cw00.choi@samsung.com>, Krzysztof Kozlowski <krzk@kernel.org>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:extcon-max14577");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

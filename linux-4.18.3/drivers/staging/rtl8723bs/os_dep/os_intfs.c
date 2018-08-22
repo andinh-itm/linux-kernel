@@ -1869,3 +1869,4 @@ int rtw_resume_common(struct adapter *padapter)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

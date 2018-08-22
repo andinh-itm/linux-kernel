@@ -1345,3 +1345,4 @@ void jffs2_release_xattr_ref(struct jffs2_sb_info *c, struct jffs2_xattr_ref *re
 	}
 	jffs2_free_xattr_ref(ref);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

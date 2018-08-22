@@ -103,3 +103,4 @@ struct mantis_hwconfig vp3030_config = {
 
 	.i2c_mode	= MANTIS_BYTE_MODE
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

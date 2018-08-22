@@ -440,3 +440,4 @@ struct op_powerpc_model op_model_power4 = {
 	.stop			= power4_stop,
 	.handle_interrupt	= power4_handle_interrupt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

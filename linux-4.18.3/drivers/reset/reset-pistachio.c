@@ -137,3 +137,4 @@ static struct platform_driver pistachio_reset_driver = {
 	},
 };
 builtin_platform_driver(pistachio_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

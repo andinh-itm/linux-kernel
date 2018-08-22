@@ -302,3 +302,4 @@ static int __init olpc_create_platform_devices(void)
 		return 0;
 }
 device_initcall(olpc_create_platform_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

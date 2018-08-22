@@ -932,3 +932,4 @@ MODULE_ALIAS("platform:altera-msgdma");
 MODULE_DESCRIPTION("Altera mSGDMA driver");
 MODULE_AUTHOR("Stefan Roese <sr@denx.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

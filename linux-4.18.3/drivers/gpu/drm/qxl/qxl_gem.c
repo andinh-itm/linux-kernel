@@ -121,3 +121,4 @@ void qxl_gem_fini(struct qxl_device *qdev)
 {
 	qxl_bo_force_delete(qdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

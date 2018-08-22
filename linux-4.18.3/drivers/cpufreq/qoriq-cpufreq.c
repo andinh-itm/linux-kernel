@@ -337,3 +337,4 @@ module_exit(qoriq_cpufreq_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tang Yuantian <Yuantian.Tang@freescale.com>");
 MODULE_DESCRIPTION("cpufreq driver for Freescale QorIQ series SoCs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

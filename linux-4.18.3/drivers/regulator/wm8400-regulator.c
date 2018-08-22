@@ -280,3 +280,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("WM8400 regulator driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8400-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

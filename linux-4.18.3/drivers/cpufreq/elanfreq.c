@@ -231,3 +231,4 @@ MODULE_DESCRIPTION("cpufreq driver for AMD's Elan CPUs");
 
 module_init(elanfreq_init);
 module_exit(elanfreq_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

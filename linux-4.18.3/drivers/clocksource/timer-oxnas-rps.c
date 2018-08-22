@@ -297,3 +297,4 @@ TIMER_OF_DECLARE(ox810se_rps,
 		       "oxsemi,ox810se-rps-timer", oxnas_rps_timer_init);
 TIMER_OF_DECLARE(ox820_rps,
 		       "oxsemi,ox820se-rps-timer", oxnas_rps_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

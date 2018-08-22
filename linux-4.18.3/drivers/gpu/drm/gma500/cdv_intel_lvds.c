@@ -770,3 +770,4 @@ failed_lvds_priv:
 failed_connector:
 	kfree(gma_encoder);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -202,3 +202,4 @@ nvkm_bios_new(struct nvkm_device *device, int index, struct nvkm_bios **pbios)
 		  bios->version.minor, bios->version.micro, bios->version.patch);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -79,3 +79,4 @@ module_exit(stm_ftrace_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("stm_ftrace driver");
 MODULE_AUTHOR("Chunyan Zhang <zhang.chunyan@linaro.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

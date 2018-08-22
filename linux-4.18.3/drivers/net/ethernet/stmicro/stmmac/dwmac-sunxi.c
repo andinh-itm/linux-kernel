@@ -192,3 +192,4 @@ module_platform_driver(sun7i_dwmac_driver);
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_DESCRIPTION("Allwinner sunxi DWMAC specific glue layer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

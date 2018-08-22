@@ -2880,3 +2880,4 @@ static struct pci_driver vt1724_driver = {
 };
 
 module_pci_driver(vt1724_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

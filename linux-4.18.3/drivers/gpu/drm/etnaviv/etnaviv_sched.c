@@ -181,3 +181,4 @@ void etnaviv_sched_fini(struct etnaviv_gpu *gpu)
 {
 	drm_sched_fini(&gpu->sched);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -46,3 +46,4 @@ DT_MACHINE_START(S3C2416_DT, "Samsung S3C2416 (Flattened Device Tree)")
 	.init_irq	= irqchip_init,
 	.init_machine	= s3c2416_dt_machine_init,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

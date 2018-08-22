@@ -171,3 +171,4 @@ static int __init msp_usb_setup(void)
 
 subsys_initcall(msp_usb_setup);
 #endif /* CONFIG_USB_EHCI_HCD || CONFIG_USB_GADGET */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

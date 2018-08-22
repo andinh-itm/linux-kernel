@@ -617,3 +617,4 @@ MODULE_AUTHOR("Simon Guinot <sguinot@lacie.com>");
 MODULE_DESCRIPTION("GPIO FAN driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:gpio-fan");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

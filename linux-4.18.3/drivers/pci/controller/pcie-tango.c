@@ -339,3 +339,4 @@ static void tango_fixup_bar(struct pci_dev *dev)
 }
 DECLARE_PCI_FIXUP_EARLY(PCI_VENDOR_ID_SIGMA, 0x0024, tango_fixup_bar);
 DECLARE_PCI_FIXUP_EARLY(PCI_VENDOR_ID_SIGMA, 0x0028, tango_fixup_bar);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -68,3 +68,4 @@ int apply_relocate_add(Elf32_Shdr *sechdrs,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

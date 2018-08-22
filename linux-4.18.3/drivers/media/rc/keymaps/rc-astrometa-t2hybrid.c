@@ -68,3 +68,4 @@ module_exit(exit_rc_map_t2hybrid)
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Oleh Kravchenko <oleg@kaa.org.ua>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

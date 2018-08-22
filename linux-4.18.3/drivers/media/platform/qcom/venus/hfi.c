@@ -515,3 +515,4 @@ void hfi_destroy(struct venus_core *core)
 {
 	venus_hfi_destroy(core);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

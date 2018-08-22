@@ -374,3 +374,4 @@ MODULE_PARM_DESC(pretimeout, "Watchdog pretimeout enabled");
 #endif
 
 module_pci_driver(hpwdt_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

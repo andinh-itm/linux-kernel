@@ -179,3 +179,4 @@ void __init bcm47xx_prom_highmem_init(void)
 }
 
 #endif /* defined(CONFIG_BCM47XX_BCMA) && defined(CONFIG_HIGHMEM) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

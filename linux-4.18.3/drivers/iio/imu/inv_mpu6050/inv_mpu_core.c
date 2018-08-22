@@ -1063,3 +1063,4 @@ EXPORT_SYMBOL_GPL(inv_mpu_pmops);
 MODULE_AUTHOR("Invensense Corporation");
 MODULE_DESCRIPTION("Invensense device MPU6050 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

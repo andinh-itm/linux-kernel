@@ -260,3 +260,4 @@ void __init dove_divider_clk_init(struct device_node *np)
 
 	of_clk_add_provider(np, of_clk_src_onecell_get, &dove_divider_data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

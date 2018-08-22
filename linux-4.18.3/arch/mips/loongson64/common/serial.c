@@ -115,3 +115,4 @@ static void __init serial_exit(void)
 	platform_device_unregister(&uart8250_device);
 }
 module_exit(serial_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

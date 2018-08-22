@@ -4606,3 +4606,4 @@ module_exit(kvmppc_book3s_exit_hv);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_MISCDEV(KVM_MINOR);
 MODULE_ALIAS("devname:kvm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

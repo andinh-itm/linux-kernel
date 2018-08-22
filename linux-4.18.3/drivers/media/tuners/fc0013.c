@@ -625,3 +625,4 @@ MODULE_DESCRIPTION("Fitipower FC0013 silicon tuner driver");
 MODULE_AUTHOR("Hans-Frieder Vogt <hfvogt@gmx.net>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -644,3 +644,4 @@ int bcma_sprom_get(struct bcma_bus *bus)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

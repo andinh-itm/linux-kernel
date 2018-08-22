@@ -354,3 +354,4 @@ int acpi_get_ioapic_id(acpi_handle handle, u32 gsi_base, u64 *phys_addr)
 	return apic_id;
 }
 #endif /* CONFIG_ACPI_HOTPLUG_IOAPIC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

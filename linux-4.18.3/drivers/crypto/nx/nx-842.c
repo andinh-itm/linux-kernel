@@ -529,3 +529,4 @@ EXPORT_SYMBOL_GPL(nx842_crypto_decompress);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("IBM PowerPC Nest (NX) 842 Hardware Compression Driver");
 MODULE_AUTHOR("Dan Streetman <ddstreet@ieee.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

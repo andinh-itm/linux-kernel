@@ -269,3 +269,4 @@ static struct platform_driver gpio_clk_driver = {
 	},
 };
 builtin_platform_driver(gpio_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1582,3 +1582,4 @@ void brcmf_proto_msgbuf_detach(struct brcmf_pub *drvr)
 		drvr->proto->pd = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

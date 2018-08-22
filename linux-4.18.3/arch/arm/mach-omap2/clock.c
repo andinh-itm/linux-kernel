@@ -139,3 +139,4 @@ void __init ti_clk_init_features(void)
 
 	ti_clk_setup_features(&features);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

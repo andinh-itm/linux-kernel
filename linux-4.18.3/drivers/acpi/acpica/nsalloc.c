@@ -488,3 +488,4 @@ void acpi_ns_delete_namespace_by_owner(acpi_owner_id owner_id)
 	(void)acpi_ut_release_mutex(ACPI_MTX_NAMESPACE);
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

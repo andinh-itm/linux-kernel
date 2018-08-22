@@ -304,3 +304,4 @@ module_i2c_driver(s3fwrn5_i2c_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("I2C driver for Samsung S3FWRN5");
 MODULE_AUTHOR("Robert Baldyga <r.baldyga@samsung.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

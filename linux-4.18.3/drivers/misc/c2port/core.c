@@ -1001,3 +1001,4 @@ module_exit(c2port_exit);
 MODULE_AUTHOR("Rodolfo Giometti <giometti@linux.it>");
 MODULE_DESCRIPTION("Silicon Labs C2 port support v. " DRIVER_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

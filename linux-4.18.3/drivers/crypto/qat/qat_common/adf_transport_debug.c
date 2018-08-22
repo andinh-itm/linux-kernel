@@ -292,3 +292,4 @@ void adf_bank_debugfs_rm(struct adf_etr_bank_data *bank)
 	debugfs_remove(bank->bank_debug_cfg);
 	debugfs_remove(bank->bank_debug_dir);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

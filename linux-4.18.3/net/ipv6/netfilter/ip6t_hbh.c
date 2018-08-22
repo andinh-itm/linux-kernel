@@ -213,3 +213,4 @@ static void __exit hbh_mt6_exit(void)
 
 module_init(hbh_mt6_init);
 module_exit(hbh_mt6_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

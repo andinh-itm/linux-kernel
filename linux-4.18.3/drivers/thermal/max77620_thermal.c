@@ -169,3 +169,4 @@ MODULE_DESCRIPTION("Max77620 Junction temperature Thermal driver");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_AUTHOR("Mallikarjun Kasoju <mkasoju@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -111,3 +111,4 @@ u8 rtl88eu_pwrseqcmdparsing(struct adapter *padapter, u8 cut_vers,
 	} while (1);
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

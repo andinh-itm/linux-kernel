@@ -60,3 +60,4 @@ void cpufreq_remove_update_util_hook(int cpu)
 	rcu_assign_pointer(per_cpu(cpufreq_update_util_data, cpu), NULL);
 }
 EXPORT_SYMBOL_GPL(cpufreq_remove_update_util_hook);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

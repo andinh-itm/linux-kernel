@@ -301,3 +301,4 @@ static void __exit stnic_cleanup(void)
 module_init(stnic_probe);
 module_exit(stnic_cleanup);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

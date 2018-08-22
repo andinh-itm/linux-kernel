@@ -75,3 +75,4 @@ void __init orion_mpp_conf(unsigned int *mpp_list, unsigned int variant_mask,
 	}
 	printk("\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

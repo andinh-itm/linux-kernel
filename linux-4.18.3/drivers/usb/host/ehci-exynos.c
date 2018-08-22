@@ -346,3 +346,4 @@ MODULE_ALIAS("platform:exynos-ehci");
 MODULE_AUTHOR("Jingoo Han");
 MODULE_AUTHOR("Joonyoung Shim");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

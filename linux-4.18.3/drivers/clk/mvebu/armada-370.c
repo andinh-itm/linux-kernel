@@ -182,3 +182,4 @@ static void __init a370_clk_init(struct device_node *np)
 }
 CLK_OF_DECLARE(a370_clk, "marvell,armada-370-core-clock", a370_clk_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

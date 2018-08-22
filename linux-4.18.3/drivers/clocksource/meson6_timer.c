@@ -176,3 +176,4 @@ static int __init meson6_timer_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(meson6, "amlogic,meson6-timer",
 		       meson6_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

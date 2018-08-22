@@ -1230,3 +1230,4 @@ __setup("hibernate=", hibernate_setup);
 __setup("resumewait", resumewait_setup);
 __setup("resumedelay=", resumedelay_setup);
 __setup("nohibernate", nohibernate_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

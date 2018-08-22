@@ -86,3 +86,4 @@ module_i2c_driver(tsc2004_driver);
 MODULE_AUTHOR("Michael Welling <mwelling@ieee.org>");
 MODULE_DESCRIPTION("TSC2004 Touchscreen Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -214,3 +214,4 @@ MODULE_LICENSE("Dual MPL/GPL");
 
 fs_initcall(sa11x0_pcmcia_init);
 module_exit(sa11x0_pcmcia_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

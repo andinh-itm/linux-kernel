@@ -42,3 +42,4 @@ static int __init init_pit_clocksource(void)
 }
 arch_initcall(init_pit_clocksource);
 #endif /* !CONFIG_X86_64 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

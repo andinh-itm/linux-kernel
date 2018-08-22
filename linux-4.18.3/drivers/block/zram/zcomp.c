@@ -240,3 +240,4 @@ struct zcomp *zcomp_create(const char *compress)
 	}
 	return comp;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

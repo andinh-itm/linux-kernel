@@ -24,3 +24,4 @@ int __init firmware_init(void)
 		return -ENOMEM;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

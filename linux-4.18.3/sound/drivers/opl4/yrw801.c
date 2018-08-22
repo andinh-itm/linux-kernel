@@ -959,3 +959,4 @@ const struct opl4_region_ptr snd_yrw801_regions[0x81] = {
 	REGION(_7c), REGION(_7d), REGION(_7e), REGION(_7f),
 	REGION(_drums)
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -227,3 +227,4 @@ int dt_init_idle_driver(struct cpuidle_driver *drv,
 	return i;
 }
 EXPORT_SYMBOL_GPL(dt_init_idle_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

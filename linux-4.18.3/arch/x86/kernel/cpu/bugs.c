@@ -819,3 +819,4 @@ ssize_t cpu_show_l1tf(struct device *dev, struct device_attribute *attr, char *b
 	return cpu_show_common(dev, attr, buf, X86_BUG_L1TF);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

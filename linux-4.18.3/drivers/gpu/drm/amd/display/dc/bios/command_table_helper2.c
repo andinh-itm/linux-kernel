@@ -264,3 +264,4 @@ uint8_t dal_cmd_table_helper_encoder_id_to_atom2(
 		return ENCODER_OBJECT_ID_NONE;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -241,3 +241,4 @@ const struct ethtool_ops ieee80211_ethtool_ops = {
 	.get_ethtool_stats = ieee80211_get_stats,
 	.get_sset_count = ieee80211_get_sset_count,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

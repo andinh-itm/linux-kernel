@@ -177,3 +177,4 @@ module_pci_driver(netx_pci_driver);
 MODULE_DEVICE_TABLE(pci, netx_pci_ids);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Hans J. Koch, Manuel Traut");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

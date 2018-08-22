@@ -3061,3 +3061,4 @@ void usb_mon_deregister (void)
 EXPORT_SYMBOL_GPL (usb_mon_deregister);
 
 #endif /* CONFIG_USB_MON || CONFIG_USB_MON_MODULE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

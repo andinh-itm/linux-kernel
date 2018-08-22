@@ -283,3 +283,4 @@ void snd_pmac_detach_beep(struct snd_pmac *chip)
 		chip->beep = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

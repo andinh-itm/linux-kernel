@@ -120,3 +120,4 @@ void pcmcia_write_disable(void)
 }
 EXPORT_SYMBOL(pcmcia_write_disable);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

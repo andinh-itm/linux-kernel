@@ -1881,3 +1881,4 @@ void ice_remove_vsi_fltr(struct ice_hw *hw, u16 vsi_id)
 	ice_remove_vsi_lkup_fltr(hw, vsi_id, ICE_SW_LKUP_ETHERTYPE_MAC);
 	ice_remove_vsi_lkup_fltr(hw, vsi_id, ICE_SW_LKUP_PROMISC_VLAN);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

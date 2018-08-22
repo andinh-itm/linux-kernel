@@ -150,3 +150,4 @@ void itg3200_remove_trigger(struct iio_dev *indio_dev)
 	free_irq(st->i2c->irq, st->trig);
 	iio_trigger_free(st->trig);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

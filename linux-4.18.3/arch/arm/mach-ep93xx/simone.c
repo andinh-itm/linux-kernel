@@ -120,3 +120,4 @@ MACHINE_START(SIM_ONE, "Simplemachines Sim.One Board")
 	.init_late	= ep93xx_init_late,
 	.restart	= ep93xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

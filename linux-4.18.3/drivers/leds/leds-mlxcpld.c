@@ -433,3 +433,4 @@ MODULE_AUTHOR("Vadim Pasternak <vadimp@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox board LED driver");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("platform:leds_mlxcpld");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

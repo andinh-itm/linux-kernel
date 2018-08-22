@@ -41,3 +41,4 @@ stfs(void *frS, void *ea)
 
 	return FP_CUR_EXCEPTIONS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -107,3 +107,4 @@ EXPORT_SYMBOL_GPL(mdio_i2c_alloc);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("MDIO I2C bridge library");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

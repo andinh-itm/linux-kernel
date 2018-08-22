@@ -98,3 +98,4 @@ struct pci_ops mace_pci_ops = {
 	.read = mace_pci_read_config,
 	.write = mace_pci_write_config,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

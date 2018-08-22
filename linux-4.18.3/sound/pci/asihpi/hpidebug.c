@@ -76,3 +76,4 @@ void hpi_debug_data(u16 *pdata, u32 len)
 		printk(KERN_CONT "\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

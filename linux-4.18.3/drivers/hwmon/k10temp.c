@@ -381,3 +381,4 @@ static struct pci_driver k10temp_driver = {
 };
 
 module_pci_driver(k10temp_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

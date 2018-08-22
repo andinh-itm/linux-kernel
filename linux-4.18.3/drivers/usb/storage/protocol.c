@@ -179,3 +179,4 @@ void usb_stor_set_xfer_buf(unsigned char *buffer,
 		scsi_set_resid(srb, scsi_bufflen(srb) - buflen);
 }
 EXPORT_SYMBOL_GPL(usb_stor_set_xfer_buf);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -196,3 +196,4 @@ module_hid_driver(ax_driver);
 MODULE_AUTHOR("Sergei Kolzun");
 MODULE_DESCRIPTION("Force feedback support for ACRUX game controllers");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

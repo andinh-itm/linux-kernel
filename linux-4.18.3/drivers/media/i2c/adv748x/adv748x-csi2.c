@@ -325,3 +325,4 @@ void adv748x_csi2_cleanup(struct adv748x_csi2 *tx)
 	media_entity_cleanup(&tx->sd.entity);
 	v4l2_ctrl_handler_free(&tx->ctrl_hdl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -661,3 +661,4 @@ int rtw_pm_set_ips(struct adapter *padapter, u8 mode)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

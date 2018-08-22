@@ -542,3 +542,4 @@ int ath_update_survey_stats(struct ath_softc *sc)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

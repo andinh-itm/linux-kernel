@@ -346,3 +346,4 @@ MODULE_LICENSE("GPL v2");
 
 module_cpu_feature_match(MIPS_CRC32, crc32_mod_init);
 module_exit(crc32_mod_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

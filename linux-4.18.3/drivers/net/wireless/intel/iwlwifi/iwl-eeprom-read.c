@@ -464,3 +464,4 @@ int iwl_read_eeprom(struct iwl_trans *trans, u8 **eeprom, size_t *eeprom_size)
 	return ret;
 }
 IWL_EXPORT_SYMBOL(iwl_read_eeprom);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

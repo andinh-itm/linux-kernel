@@ -911,3 +911,4 @@ static struct usb_driver iowarrior_driver = {
 };
 
 module_usb_driver(iowarrior_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

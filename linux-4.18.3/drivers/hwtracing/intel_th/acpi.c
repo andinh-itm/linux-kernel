@@ -77,3 +77,4 @@ module_platform_driver(intel_th_acpi_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel(R) Trace Hub ACPI controller driver");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

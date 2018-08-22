@@ -900,3 +900,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Dave DNET Ethernet driver");
 MODULE_AUTHOR("Ilya Yanok <yanok@emcraft.com>, "
 	      "Matteo Vit <matteo.vit@dave.eu>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

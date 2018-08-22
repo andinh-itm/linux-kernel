@@ -658,3 +658,4 @@ module_platform_driver(tm2_driver);
 MODULE_AUTHOR("Inha Song <ideal.song@samsung.com>");
 MODULE_DESCRIPTION("ALSA SoC Exynos TM2 Audio Support");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -123,3 +123,4 @@ module_platform_driver(octeon_mdiobus_driver);
 MODULE_DESCRIPTION("Cavium OCTEON MDIO bus driver");
 MODULE_AUTHOR("David Daney");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

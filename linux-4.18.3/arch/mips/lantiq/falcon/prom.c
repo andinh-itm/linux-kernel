@@ -90,3 +90,4 @@ void __init ltq_soc_detect(struct ltq_soc_info *i)
 	board_nmi_handler_setup = ltq_soc_nmi_setup;
 	board_ejtag_handler_setup = ltq_soc_ejtag_setup;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

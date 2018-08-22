@@ -111,3 +111,4 @@ bool nmi_cpu_backtrace(struct pt_regs *regs)
 }
 NOKPROBE_SYMBOL(nmi_cpu_backtrace);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

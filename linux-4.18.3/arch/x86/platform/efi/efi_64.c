@@ -915,3 +915,4 @@ void efi_thunk_runtime_setup(void)
 	efi.query_capsule_caps = efi_thunk_query_capsule_caps;
 }
 #endif /* CONFIG_EFI_MIXED */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

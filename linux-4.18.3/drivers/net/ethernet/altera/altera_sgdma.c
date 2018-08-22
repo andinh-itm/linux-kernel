@@ -536,3 +536,4 @@ static int sgdma_txbusy(struct altera_tse_private *priv)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

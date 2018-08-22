@@ -4,3 +4,4 @@ int d(void)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

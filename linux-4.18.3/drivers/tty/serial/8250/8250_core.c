@@ -1229,3 +1229,4 @@ static void __used s8250_options(void)
 MODULE_ALIAS("8250_core");
 #endif
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

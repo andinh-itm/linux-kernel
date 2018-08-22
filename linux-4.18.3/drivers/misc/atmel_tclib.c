@@ -196,3 +196,4 @@ static int __init tc_init(void)
 	return platform_driver_probe(&tc_driver, tc_probe);
 }
 arch_initcall(tc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -508,3 +508,4 @@ static void __exit exit_hfs_fs(void)
 
 module_init(init_hfs_fs)
 module_exit(exit_hfs_fs)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -242,3 +242,4 @@ void kvmppc_remove_vcpu_debugfs(struct kvm_vcpu *vcpu)
 		vcpu->arch.debugfs_exit_timing = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

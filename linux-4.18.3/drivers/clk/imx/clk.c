@@ -112,3 +112,4 @@ static int __init imx_clk_disable_uart(void)
 	return 0;
 }
 late_initcall_sync(imx_clk_disable_uart);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -215,3 +215,4 @@ MODULE_AUTHOR("Damien Riegel <damien.riegel@savoirfairelinux.com>");
 MODULE_DESCRIPTION("TS-4800 Touchscreen Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:ts4800_ts");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

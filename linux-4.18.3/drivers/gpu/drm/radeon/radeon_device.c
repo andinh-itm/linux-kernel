@@ -1922,3 +1922,4 @@ int radeon_debugfs_add_files(struct radeon_device *rdev,
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

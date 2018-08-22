@@ -830,3 +830,4 @@ const struct aq_fw_ops aq_fw_1x_ops = {
 	.update_link_status = hw_atl_utils_mpi_get_link_status,
 	.update_stats = hw_atl_utils_update_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -255,3 +255,4 @@ IRQCHIP_DECLARE(bcm2835_armctrl_ic, "brcm,bcm2835-armctrl-ic",
 		bcm2835_armctrl_of_init);
 IRQCHIP_DECLARE(bcm2836_armctrl_ic, "brcm,bcm2836-armctrl-ic",
 		bcm2836_armctrl_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

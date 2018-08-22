@@ -368,3 +368,4 @@ int mmc_app_sd_status(struct mmc_card *card, void *ssr)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

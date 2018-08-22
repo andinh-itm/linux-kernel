@@ -1967,3 +1967,4 @@ const struct qed_rdma_ops *qed_get_rdma_ops(void)
 	return &qed_rdma_ops_pass;
 }
 EXPORT_SYMBOL(qed_get_rdma_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

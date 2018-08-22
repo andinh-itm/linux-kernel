@@ -312,3 +312,4 @@ module_exit(elo_driver_exit);
 
 MODULE_AUTHOR("Jiri Slaby <jslaby@suse.cz>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

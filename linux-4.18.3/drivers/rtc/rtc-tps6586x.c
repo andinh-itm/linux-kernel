@@ -339,3 +339,4 @@ MODULE_ALIAS("platform:tps6586x-rtc");
 MODULE_DESCRIPTION("TI TPS6586x RTC driver");
 MODULE_AUTHOR("Laxman dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

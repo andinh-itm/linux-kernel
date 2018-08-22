@@ -638,3 +638,4 @@ MODULE_DESCRIPTION("TPS6524X PMIC Driver");
 MODULE_AUTHOR("Cyril Chemparathy");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:tps6524x");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -336,3 +336,4 @@ static const struct apic apic_numachip2 __refconst = {
 };
 
 apic_driver(apic_numachip2);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

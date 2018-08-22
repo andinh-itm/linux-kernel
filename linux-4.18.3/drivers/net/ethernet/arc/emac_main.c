@@ -1045,3 +1045,4 @@ EXPORT_SYMBOL_GPL(arc_emac_remove);
 MODULE_AUTHOR("Alexey Brodkin <abrodkin@synopsys.com>");
 MODULE_DESCRIPTION("ARC EMAC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

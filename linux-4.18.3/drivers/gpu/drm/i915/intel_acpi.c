@@ -159,3 +159,4 @@ void intel_register_dsm_handler(void)
 void intel_unregister_dsm_handler(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

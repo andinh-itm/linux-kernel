@@ -269,3 +269,4 @@ module_platform_driver(hibvt_pwm_driver);
 MODULE_AUTHOR("Jian Yuan");
 MODULE_DESCRIPTION("HiSilicon BVT SoCs PWM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

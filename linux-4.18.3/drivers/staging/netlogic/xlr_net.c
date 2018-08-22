@@ -1118,3 +1118,4 @@ MODULE_AUTHOR("Ganesan Ramalingam <ganesanr@broadcom.com>");
 MODULE_DESCRIPTION("Ethernet driver for Netlogic XLR/XLS");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("platform:xlr-net");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

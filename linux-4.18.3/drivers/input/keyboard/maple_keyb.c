@@ -257,3 +257,4 @@ static void __exit dc_kbd_exit(void)
 
 module_init(dc_kbd_init);
 module_exit(dc_kbd_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

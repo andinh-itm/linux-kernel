@@ -185,3 +185,4 @@ void opa_vnic_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &opa_vnic_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

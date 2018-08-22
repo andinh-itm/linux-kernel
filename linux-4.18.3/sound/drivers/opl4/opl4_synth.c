@@ -629,3 +629,4 @@ void snd_opl4_sysex(void *private_data, unsigned char *buf, int len,
 	if (parsed == SNDRV_MIDI_SYSEX_GS_MASTER_VOLUME)
 		snd_opl4_do_for_all(opl4, snd_opl4_update_volume);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

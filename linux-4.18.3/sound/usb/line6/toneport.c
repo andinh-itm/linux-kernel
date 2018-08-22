@@ -577,3 +577,4 @@ module_usb_driver(toneport_driver);
 
 MODULE_DESCRIPTION("TonePort USB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

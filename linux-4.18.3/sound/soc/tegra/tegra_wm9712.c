@@ -173,3 +173,4 @@ MODULE_DESCRIPTION("Tegra+WM9712 machine ASoC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, tegra_wm9712_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

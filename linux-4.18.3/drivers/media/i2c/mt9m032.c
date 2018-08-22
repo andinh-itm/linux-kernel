@@ -894,3 +894,4 @@ module_i2c_driver(mt9m032_i2c_driver);
 MODULE_AUTHOR("Martin Hostettler <martin@neutronstar.dyndns.org>");
 MODULE_DESCRIPTION("MT9M032 camera sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

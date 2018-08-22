@@ -202,3 +202,4 @@ static struct serio_driver mtouch_drv = {
 };
 
 module_serio_driver(mtouch_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

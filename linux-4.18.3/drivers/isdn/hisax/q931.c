@@ -1511,3 +1511,4 @@ dlogframe(struct IsdnCardState *cs, struct sk_buff *skb, int dir)
 	*dp = 0;
 	HiSax_putstatus(cs, NULL, cs->dlog);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

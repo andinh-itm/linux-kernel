@@ -55,3 +55,4 @@ const struct uniphier_clk_data uniphier_pro4_peri_clk_data[] = {
 	UNIPHIER_PERI_CLK_FI2C(10, 6),
 	{ /* sentinel */ }
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

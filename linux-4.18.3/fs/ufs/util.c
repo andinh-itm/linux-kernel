@@ -280,3 +280,4 @@ struct page *ufs_get_locked_page(struct address_space *mapping,
 		create_empty_buffers(page, 1 << inode->i_blkbits, 0);
 	return page;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

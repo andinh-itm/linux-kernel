@@ -406,3 +406,4 @@ static acpi_status acpi_ut_strtoul_add64(u64 addend1, u32 digit, u64 *out_sum)
 	*out_sum = sum;
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

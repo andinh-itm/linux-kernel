@@ -1177,3 +1177,4 @@ int wilc_netdev_init(struct wilc **wilc, struct device *dev, int io_type,
 EXPORT_SYMBOL_GPL(wilc_netdev_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

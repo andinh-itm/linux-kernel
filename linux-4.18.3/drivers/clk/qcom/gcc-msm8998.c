@@ -2832,3 +2832,4 @@ module_exit(gcc_msm8998_exit);
 MODULE_DESCRIPTION("QCOM GCC msm8998 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-msm8998");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

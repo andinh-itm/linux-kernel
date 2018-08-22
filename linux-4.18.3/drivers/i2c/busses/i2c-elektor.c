@@ -329,3 +329,4 @@ module_param(clock, int, 0);
 module_param(own, int, 0);
 module_param_hw(mmapped, int, other, 0);
 module_isa_driver(i2c_elektor_driver, 1);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

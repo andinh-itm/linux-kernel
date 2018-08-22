@@ -57,3 +57,4 @@ void machine_kexec(struct kimage *image)
 						 image->start,
 						 cpu_mmu_flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

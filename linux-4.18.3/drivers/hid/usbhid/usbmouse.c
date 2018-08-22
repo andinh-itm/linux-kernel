@@ -242,3 +242,4 @@ static struct usb_driver usb_mouse_driver = {
 };
 
 module_usb_driver(usb_mouse_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

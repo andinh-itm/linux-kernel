@@ -3709,3 +3709,4 @@ non_fips_alg:
 #endif /* CONFIG_CRYPTO_MANAGER_DISABLE_TESTS */
 
 EXPORT_SYMBOL_GPL(alg_test);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

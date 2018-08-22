@@ -504,3 +504,4 @@ MACHINE_START(GORAMO_MLR, "MultiLink")
 #endif
 	.restart	= ixp4xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

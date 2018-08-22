@@ -1004,3 +1004,4 @@ EXPORT_SYMBOL_GPL(adau1977_regmap_config);
 MODULE_DESCRIPTION("ASoC ADAU1977/ADAU1978/ADAU1979 driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

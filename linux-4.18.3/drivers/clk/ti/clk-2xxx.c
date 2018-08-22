@@ -256,3 +256,4 @@ int __init omap2430_dt_clk_init(void)
 {
 	return omap2xxx_dt_clk_init(OMAP2_SOC_OMAP2430);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

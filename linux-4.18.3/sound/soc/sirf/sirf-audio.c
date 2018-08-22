@@ -154,3 +154,4 @@ module_platform_driver(sirf_audio_driver);
 MODULE_AUTHOR("RongJun Ying <RongJun.Ying@csr.com>");
 MODULE_DESCRIPTION("ALSA SoC SIRF audio card driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -356,3 +356,4 @@ bool dso__is_vdso(struct dso *dso)
 	       !strcmp(dso->short_name, DSO__NAME_VDSO32) ||
 	       !strcmp(dso->short_name, DSO__NAME_VDSOX32);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

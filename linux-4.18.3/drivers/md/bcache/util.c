@@ -410,3 +410,4 @@ uint64_t bch_crc64(const void *data, size_t len)
 
 	return crc ^ 0xffffffffffffffffULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

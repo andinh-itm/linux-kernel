@@ -430,3 +430,4 @@ module_amba_driver(pl111_amba_driver);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("ARM Ltd.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

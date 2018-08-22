@@ -100,3 +100,4 @@ static const struct smp_operations ox820_smp_ops __initconst = {
 };
 
 CPU_METHOD_OF_DECLARE(ox820_smp, "oxsemi,ox820-smp", &ox820_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1041,3 +1041,4 @@ MODULE_VERSION(SNIC_DRV_VERSION);
 MODULE_DEVICE_TABLE(pci, snic_id_table);
 MODULE_AUTHOR("Narsimhulu Musini <nmusini@cisco.com>, "
 	      "Sesidhar Baddela <sebaddel@cisco.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

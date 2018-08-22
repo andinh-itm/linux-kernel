@@ -924,3 +924,4 @@ struct fc_seq *bnx2fc_elsct_send(struct fc_lport *lport, u32 did,
 	}
 	return fc_elsct_send(lport, did, fp, op, resp, arg, timeout);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

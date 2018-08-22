@@ -994,3 +994,4 @@ const struct gma_clock_funcs cdv_clock_funcs = {
 	.limit = cdv_intel_limit,
 	.pll_is_valid = gma_pll_is_valid,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

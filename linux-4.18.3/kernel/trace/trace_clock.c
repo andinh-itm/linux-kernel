@@ -139,3 +139,4 @@ u64 notrace trace_clock_counter(void)
 {
 	return atomic64_add_return(1, &trace_counter);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -532,3 +532,4 @@ MODULE_AUTHOR("Christopher Heiny <cheiny@synaptics.com>");
 MODULE_AUTHOR("Andrew Duggan <aduggan@synaptics.com>");
 MODULE_DESCRIPTION("RMI SPI driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

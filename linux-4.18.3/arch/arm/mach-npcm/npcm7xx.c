@@ -20,3 +20,4 @@ DT_MACHINE_START(NPCM7XX_DT, "NPCM7XX Chip family")
 	.l2c_aux_val	= 0x0,
 	.l2c_aux_mask	= ~0x0,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

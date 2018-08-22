@@ -875,3 +875,4 @@ static int vbox_cursor_move(struct drm_crtc *crtc, int x, int y)
 			hot_x, hot_y, vbox->cursor_width, vbox->cursor_height,
 			vbox->cursor_data, vbox->cursor_data_size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

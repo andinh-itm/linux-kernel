@@ -230,3 +230,4 @@ void amdgpu_benchmark(struct amdgpu_device *adev, int test_number)
 		DRM_ERROR("Unknown benchmark\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

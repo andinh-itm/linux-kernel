@@ -295,3 +295,4 @@ smb2_set_file_info(struct inode *inode, const char *full_path,
 	cifs_put_tlink(tlink);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

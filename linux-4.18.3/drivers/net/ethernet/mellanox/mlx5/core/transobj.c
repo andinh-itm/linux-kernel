@@ -616,3 +616,4 @@ void mlx5_core_hairpin_destroy(struct mlx5_hairpin *hp)
 	mlx5_hairpin_destroy_queues(hp);
 	kfree(hp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

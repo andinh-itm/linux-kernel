@@ -385,3 +385,4 @@ int aq_vec_get_sw_stats(struct aq_vec_s *self, u64 *data, unsigned int *p_count)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -26,3 +26,4 @@ static int __init ls1c_platform_init(void)
 }
 
 arch_initcall(ls1c_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -457,3 +457,4 @@ static int __init init_power7_pmu(void)
 }
 
 early_initcall(init_power7_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

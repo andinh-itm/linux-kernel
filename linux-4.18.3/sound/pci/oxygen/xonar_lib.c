@@ -132,3 +132,4 @@ int xonar_gpio_bit_switch_put(struct snd_kcontrol *ctl,
 	spin_unlock_irq(&chip->reg_lock);
 	return changed;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

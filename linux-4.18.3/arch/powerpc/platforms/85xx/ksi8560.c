@@ -189,3 +189,4 @@ define_machine(ksi8560) {
 	.restart		= machine_restart,
 	.calibrate_decr		= generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

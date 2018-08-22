@@ -183,3 +183,4 @@ const struct ethtool_ops spider_net_ethtool_ops = {
 	.get_link_ksettings	= spider_net_ethtool_get_link_ksettings,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

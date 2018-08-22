@@ -109,3 +109,4 @@ init_pyxis_irqs(unsigned long ignore_mask)
 
 	setup_irq(16+7, &isa_cascade_irqaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

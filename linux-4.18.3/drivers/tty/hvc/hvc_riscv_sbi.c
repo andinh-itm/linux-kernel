@@ -58,3 +58,4 @@ static int __init hvc_sbi_console_init(void)
 	return 0;
 }
 console_initcall(hvc_sbi_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

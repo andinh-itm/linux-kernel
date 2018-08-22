@@ -19,3 +19,4 @@ static const char *const mps2_compat[] __initconst = {
 DT_MACHINE_START(MPS2DT, "MPS2 (Device Tree Support)")
 	.dt_compat = mps2_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

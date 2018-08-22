@@ -211,3 +211,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("GPIO interface for Arizona devices");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:arizona-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

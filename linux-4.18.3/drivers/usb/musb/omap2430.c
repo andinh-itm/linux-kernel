@@ -587,3 +587,4 @@ module_platform_driver(omap2430_driver);
 MODULE_DESCRIPTION("OMAP2PLUS MUSB Glue Layer");
 MODULE_AUTHOR("Felipe Balbi <balbi@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

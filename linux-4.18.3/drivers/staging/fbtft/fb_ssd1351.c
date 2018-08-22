@@ -237,3 +237,4 @@ MODULE_ALIAS("platform:ssd1351");
 MODULE_DESCRIPTION("SSD1351 OLED Driver");
 MODULE_AUTHOR("James Davies");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

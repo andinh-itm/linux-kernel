@@ -1275,3 +1275,4 @@ const struct peak_usb_adapter pcan_usb_x6 = {
 
 	.do_get_berr_counter = pcan_usb_fd_get_berr_counter,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

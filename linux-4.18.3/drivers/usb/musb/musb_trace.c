@@ -23,3 +23,4 @@ void musb_dbg(struct musb *musb, const char *fmt, ...)
 
 	va_end(args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

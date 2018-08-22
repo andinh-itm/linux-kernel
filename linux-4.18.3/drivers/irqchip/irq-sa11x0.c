@@ -172,3 +172,4 @@ void __init sa11x0_init_irq_nodt(int irq_start, resource_size_t io_start)
 
 	set_handle_irq(sa1100_handle_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

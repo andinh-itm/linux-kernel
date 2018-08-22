@@ -994,3 +994,4 @@ define_machine(pseries) {
 	.memory_block_size	= pseries_memory_block_size,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

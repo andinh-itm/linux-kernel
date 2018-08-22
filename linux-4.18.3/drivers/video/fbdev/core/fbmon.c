@@ -1612,3 +1612,4 @@ EXPORT_SYMBOL(fb_edid_add_monspecs);
 EXPORT_SYMBOL(fb_get_mode);
 EXPORT_SYMBOL(fb_validate_mode);
 EXPORT_SYMBOL(fb_destroy_modedb);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

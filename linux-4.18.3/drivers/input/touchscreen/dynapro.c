@@ -188,3 +188,4 @@ static struct serio_driver dynapro_drv = {
 };
 
 module_serio_driver(dynapro_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

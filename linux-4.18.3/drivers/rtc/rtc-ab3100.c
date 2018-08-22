@@ -250,3 +250,4 @@ module_platform_driver_probe(ab3100_rtc_driver, ab3100_rtc_probe);
 MODULE_AUTHOR("Linus Walleij <linus.walleij@stericsson.com>");
 MODULE_DESCRIPTION("AB3100 RTC Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

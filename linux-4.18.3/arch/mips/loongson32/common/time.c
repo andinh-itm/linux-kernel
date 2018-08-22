@@ -238,3 +238,4 @@ void __init plat_time_init(void)
 	mips_hpt_frequency = clk_get_rate(clk) / 2;
 #endif /* CONFIG_CEVT_CSRC_LS1X */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

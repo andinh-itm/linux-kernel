@@ -196,3 +196,4 @@ void r8712_usb_set_intf_ops(struct _io_ops	*pops)
 	pops->_write_mem = r8712_usb_write_mem;
 	pops->_write_port = r8712_usb_write_port;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

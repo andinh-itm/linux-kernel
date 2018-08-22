@@ -517,3 +517,4 @@ static const struct file_operations yurex_fops = {
 module_usb_driver(yurex_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

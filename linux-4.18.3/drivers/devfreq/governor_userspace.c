@@ -165,3 +165,4 @@ static void __exit devfreq_userspace_exit(void)
 }
 module_exit(devfreq_userspace_exit);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

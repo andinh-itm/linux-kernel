@@ -171,3 +171,4 @@ void isp1760_unregister(struct device *dev)
 MODULE_DESCRIPTION("Driver for the ISP1760 USB-controller from NXP");
 MODULE_AUTHOR("Sebastian Siewior <bigeasy@linuxtronix.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

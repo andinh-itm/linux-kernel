@@ -1003,3 +1003,4 @@ iosapic_prt_isi(struct iosapic_info *isi)
 	printk(KERN_DEBUG "\t\tisi_vector:    %p\n", isi->isi_vector);
 }
 #endif /* DEBUG_IOSAPIC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -552,3 +552,4 @@ void intel_dvo_init(struct drm_i915_private *dev_priv)
 	kfree(intel_dvo);
 	kfree(intel_connector);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

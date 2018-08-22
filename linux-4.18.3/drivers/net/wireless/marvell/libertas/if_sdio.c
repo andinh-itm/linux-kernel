@@ -1391,3 +1391,4 @@ module_exit(if_sdio_exit_module);
 MODULE_DESCRIPTION("Libertas SDIO WLAN Driver");
 MODULE_AUTHOR("Pierre Ossman");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

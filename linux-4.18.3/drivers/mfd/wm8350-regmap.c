@@ -337,3 +337,4 @@ const struct regmap_config wm8350_regmap = {
 	.volatile_reg = wm8350_volatile,
 	.precious_reg = wm8350_precious,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

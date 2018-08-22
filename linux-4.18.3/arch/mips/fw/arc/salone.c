@@ -23,3 +23,4 @@ LONG __init ArcExecute(CHAR *Path, LONG Argc, CHAR *Argv[], CHAR *Envp[])
 {
 	return ARC_CALL4(exec, Path, Argc, Argv, Envp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

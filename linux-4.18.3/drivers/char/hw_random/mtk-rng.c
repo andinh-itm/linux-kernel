@@ -209,3 +209,4 @@ module_platform_driver(mtk_rng_driver);
 MODULE_DESCRIPTION("Mediatek Random Number Generator Driver");
 MODULE_AUTHOR("Sean Wang <sean.wang@mediatek.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

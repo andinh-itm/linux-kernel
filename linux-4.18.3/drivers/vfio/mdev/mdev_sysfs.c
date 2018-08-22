@@ -284,3 +284,4 @@ void mdev_remove_sysfs_files(struct device *dev, struct mdev_type *type)
 	sysfs_remove_link(type->devices_kobj, dev_name(dev));
 	sysfs_remove_files(&dev->kobj, mdev_device_attrs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

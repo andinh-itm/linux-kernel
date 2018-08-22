@@ -415,3 +415,4 @@ cleanup:
 }
 CLK_OF_DECLARE(omap2_apll_clock, "ti,omap2-apll-clock",
 	       of_omap2_apll_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

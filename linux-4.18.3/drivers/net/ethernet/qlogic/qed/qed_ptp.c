@@ -450,3 +450,4 @@ const struct qed_eth_ptp_ops qed_ptp_ops_pass = {
 	.disable = qed_ptp_hw_disable,
 	.enable = qed_ptp_hw_enable,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

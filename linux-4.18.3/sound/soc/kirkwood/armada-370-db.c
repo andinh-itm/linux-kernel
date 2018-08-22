@@ -146,3 +146,4 @@ MODULE_AUTHOR("Thomas Petazzoni <thomas.petazzoni@free-electrons.com>");
 MODULE_DESCRIPTION("ALSA SoC a370db audio client");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:a370db-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1612,3 +1612,4 @@ MODULE_AUTHOR("Eddie C. Dost, Peter Zaitcev, and David S. Miller");
 MODULE_DESCRIPTION("Sun SU serial port driver");
 MODULE_VERSION("2.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

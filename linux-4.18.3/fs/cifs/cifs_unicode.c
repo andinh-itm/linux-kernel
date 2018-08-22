@@ -646,3 +646,4 @@ cifs_strndup_to_utf16(const char *src, const int maxlen, int *utf16_len,
 	*utf16_len = len;
 	return dst;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

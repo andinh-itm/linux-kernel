@@ -189,3 +189,4 @@ device_initcall(init_edosk7760_devices);
 struct sh_machine_vector mv_edosk7760 __initmv = {
 	.mv_name	= "EDOSK7760",
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

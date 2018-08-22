@@ -768,3 +768,4 @@ MODULE_AUTHOR("Andreas Dannenberg <dannenberg@ti.com>");
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("TAS6424 Audio amplifier driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

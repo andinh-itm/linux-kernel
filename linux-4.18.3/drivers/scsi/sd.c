@@ -3713,3 +3713,4 @@ static void sd_print_result(const struct scsi_disk *sdkp, const char *msg,
 			  msg, host_byte(result), driver_byte(result));
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

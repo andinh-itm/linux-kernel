@@ -617,3 +617,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, tegra_ehci_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

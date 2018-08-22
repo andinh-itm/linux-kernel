@@ -1504,3 +1504,4 @@ module_platform_driver(mt2701_afe_pcm_driver);
 MODULE_DESCRIPTION("Mediatek ALSA SoC AFE platform driver for 2701");
 MODULE_AUTHOR("Garlic Tseng <garlic.tseng@mediatek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

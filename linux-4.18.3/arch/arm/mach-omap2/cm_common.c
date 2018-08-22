@@ -389,3 +389,4 @@ int __init omap_cm_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

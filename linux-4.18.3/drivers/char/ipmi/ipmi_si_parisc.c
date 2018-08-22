@@ -59,3 +59,4 @@ void ipmi_si_parisc_shutdown(void)
 	if (parisc_registered)
 		unregister_parisc_driver(&ipmi_parisc_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

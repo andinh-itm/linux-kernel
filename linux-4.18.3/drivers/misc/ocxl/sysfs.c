@@ -140,3 +140,4 @@ void ocxl_sysfs_remove_afu(struct ocxl_afu *afu)
 		device_remove_file(&afu->dev, &afu_attrs[i]);
 	device_remove_bin_file(&afu->dev, &afu->attr_global_mmio);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

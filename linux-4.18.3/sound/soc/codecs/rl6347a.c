@@ -109,3 +109,4 @@ EXPORT_SYMBOL_GPL(rl6347a_hw_read);
 MODULE_DESCRIPTION("RL6347A class device shared support");
 MODULE_AUTHOR("Oder Chiou <oder_chiou@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

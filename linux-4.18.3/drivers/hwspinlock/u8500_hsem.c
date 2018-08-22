@@ -186,3 +186,4 @@ module_exit(u8500_hsem_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Hardware Spinlock driver for u8500");
 MODULE_AUTHOR("Mathieu Poirier <mathieu.poirier@linaro.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1152,3 +1152,4 @@ MODULE_AUTHOR("Jarod Wilson <jarod@redhat.com>");
 MODULE_LICENSE("GPL");
 
 module_pnp_driver(nvt_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

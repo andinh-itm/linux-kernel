@@ -247,3 +247,4 @@ efi_status_t handle_kernel_image(efi_system_table_t *sys_table,
 	}
 	return EFI_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

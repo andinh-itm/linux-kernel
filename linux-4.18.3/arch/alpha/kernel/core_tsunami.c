@@ -480,3 +480,4 @@ tsunami_machine_check(unsigned long vector, unsigned long la_ptr)
 	process_mcheck_info(vector, la_ptr, "TSUNAMI",
 			    mcheck_expected(smp_processor_id()));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

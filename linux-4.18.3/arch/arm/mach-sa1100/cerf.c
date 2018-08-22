@@ -191,3 +191,4 @@ MACHINE_START(CERF, "Intrinsyc CerfBoard/CerfCube")
 	.init_late	= sa11x0_init_late,
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

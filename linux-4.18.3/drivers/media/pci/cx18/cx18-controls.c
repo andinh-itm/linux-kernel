@@ -124,3 +124,4 @@ const struct cx2341x_handler_ops cx18_cxhdl_ops = {
 	.s_video_encoding = cx18_s_video_encoding,
 	.s_stream_vbi_fmt = cx18_s_stream_vbi_fmt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -624,3 +624,4 @@ module_exit(wcnss_exit);
 
 MODULE_DESCRIPTION("Qualcomm Peripherial Image Loader for Wireless Subsystem");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

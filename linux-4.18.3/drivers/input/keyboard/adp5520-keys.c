@@ -192,3 +192,4 @@ MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("Keys ADP5520 Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:adp5520-keys");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3682,3 +3682,4 @@ int qla25xx_request_irq(struct qla_hw_data *ha, struct qla_qpair *qpair,
 	msix->handle = qpair;
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

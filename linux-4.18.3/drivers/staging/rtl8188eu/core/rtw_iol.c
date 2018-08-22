@@ -26,3 +26,4 @@ bool rtw_IOL_applied(struct adapter *adapter)
 		return true;
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -311,3 +311,4 @@ void fjes_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &fjes_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

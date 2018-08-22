@@ -397,3 +397,4 @@ module_platform_driver(stih_cec_pdrv);
 MODULE_AUTHOR("Benjamin Gaignard <benjamin.gaignard@linaro.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("STIH4xx CEC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

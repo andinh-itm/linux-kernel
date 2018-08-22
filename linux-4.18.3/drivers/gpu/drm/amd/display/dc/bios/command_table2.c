@@ -829,3 +829,4 @@ static unsigned int get_smu_clock_info_v3_1(struct bios_parser *bp, uint8_t id)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

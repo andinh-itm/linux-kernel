@@ -808,3 +808,4 @@ MODULE_DESCRIPTION("ASoC MC13783 driver");
 MODULE_AUTHOR("Sascha Hauer, Pengutronix <s.hauer@pengutronix.de>");
 MODULE_AUTHOR("Philippe Retornaz <philippe.retornaz@epfl.ch>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

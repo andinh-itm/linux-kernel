@@ -273,3 +273,4 @@ const struct ethtool_ops *xlgmac_get_ethtool_ops(void)
 {
 	return &xlgmac_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

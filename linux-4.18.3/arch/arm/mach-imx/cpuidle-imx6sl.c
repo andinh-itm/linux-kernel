@@ -56,3 +56,4 @@ int __init imx6sl_cpuidle_init(void)
 {
 	return cpuidle_register(&imx6sl_cpuidle_driver, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

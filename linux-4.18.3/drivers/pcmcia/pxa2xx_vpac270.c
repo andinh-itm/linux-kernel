@@ -139,3 +139,4 @@ MODULE_AUTHOR("Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("PCMCIA support for Voipac PXA270");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1066,3 +1066,4 @@ static int __init register_l2_cache_pmu_driver(void)
 	return platform_driver_register(&l2_cache_pmu_driver);
 }
 device_initcall(register_l2_cache_pmu_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

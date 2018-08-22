@@ -400,3 +400,4 @@ int ivtv_firmware_check(struct ivtv *itv, char *where)
 MODULE_FIRMWARE(CX2341X_FIRM_ENC_FILENAME);
 MODULE_FIRMWARE(CX2341X_FIRM_DEC_FILENAME);
 MODULE_FIRMWARE(IVTV_DECODE_INIT_MPEG_FILENAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

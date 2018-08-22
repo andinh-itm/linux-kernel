@@ -1524,3 +1524,4 @@ module_platform_driver(omap8250_platform_driver);
 MODULE_AUTHOR("Sebastian Andrzej Siewior");
 MODULE_DESCRIPTION("OMAP 8250 Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

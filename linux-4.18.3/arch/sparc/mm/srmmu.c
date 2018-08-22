@@ -1841,3 +1841,4 @@ void __init load_mmu(void)
 		sun4m_init_smp();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

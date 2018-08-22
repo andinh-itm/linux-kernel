@@ -114,3 +114,4 @@ int __init dm814x_dt_clk_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

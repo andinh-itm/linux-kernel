@@ -647,3 +647,4 @@ void __hyp_text __noreturn hyp_panic(struct kvm_cpu_context *host_ctxt)
 
 	unreachable();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

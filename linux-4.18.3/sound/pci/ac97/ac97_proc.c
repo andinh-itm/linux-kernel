@@ -488,3 +488,4 @@ void snd_ac97_bus_proc_done(struct snd_ac97_bus * bus)
 	snd_info_free_entry(bus->proc);
 	bus->proc = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

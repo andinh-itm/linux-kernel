@@ -730,3 +730,4 @@ int snd_pmac_burgundy_init(struct snd_pmac *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

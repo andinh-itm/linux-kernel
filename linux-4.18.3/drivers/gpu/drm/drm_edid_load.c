@@ -322,3 +322,4 @@ struct edid *drm_load_edid_firmware(struct drm_connector *connector)
 
 	return edid;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

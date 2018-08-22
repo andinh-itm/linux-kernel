@@ -1470,3 +1470,4 @@ MODULE_DESCRIPTION("Bluetooth HIDP ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("bt-proto-6");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

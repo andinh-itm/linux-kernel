@@ -172,3 +172,4 @@ int f300_set_voltage(struct dvb_frontend *fe, enum fe_sec_voltage voltage)
 
 	return f300_xfer(fe, buf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

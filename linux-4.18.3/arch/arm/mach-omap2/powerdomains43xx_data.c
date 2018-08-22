@@ -134,3 +134,4 @@ void __init am43xx_powerdomains_init(void)
 	pwrdm_register_pwrdms(powerdomains_am43xx);
 	pwrdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

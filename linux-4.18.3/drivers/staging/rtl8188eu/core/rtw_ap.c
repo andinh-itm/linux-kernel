@@ -1887,3 +1887,4 @@ void stop_ap_mode(struct adapter *padapter)
 }
 
 #endif /* CONFIG_88EU_AP_MODE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

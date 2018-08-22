@@ -158,3 +158,4 @@ bool mtk_jpeg_parse(struct mtk_jpeg_dec_param *param, u8 *src_addr_va,
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

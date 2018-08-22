@@ -480,3 +480,4 @@ static int assign_addrs(struct parport *port)
 	kfree(deviceid);
 	return detected;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

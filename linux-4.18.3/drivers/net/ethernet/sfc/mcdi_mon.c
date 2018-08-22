@@ -532,3 +532,4 @@ void efx_mcdi_mon_remove(struct efx_nic *efx)
 }
 
 #endif /* CONFIG_SFC_MCDI_MON */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

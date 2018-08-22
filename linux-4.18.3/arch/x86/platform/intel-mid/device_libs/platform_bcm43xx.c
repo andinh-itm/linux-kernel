@@ -93,3 +93,4 @@ static const struct devs_id bcm43xx_clk_vmmc_dev_id __initconst = {
 };
 
 sfi_device(bcm43xx_clk_vmmc_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

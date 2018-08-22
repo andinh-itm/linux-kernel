@@ -3836,3 +3836,4 @@ static int __init rockchip_pinctrl_drv_register(void)
 	return platform_driver_register(&rockchip_pinctrl_driver);
 }
 postcore_initcall(rockchip_pinctrl_drv_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

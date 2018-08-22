@@ -126,3 +126,4 @@ static struct platform_driver sun50i_h6_r_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(sun50i_h6_r_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

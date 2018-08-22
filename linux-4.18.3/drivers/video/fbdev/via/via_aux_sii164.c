@@ -52,3 +52,4 @@ void via_aux_sii164_probe(struct via_aux_bus *bus)
 	for (i = 0x38; i <= 0x3F; i++)
 		probe(bus, i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

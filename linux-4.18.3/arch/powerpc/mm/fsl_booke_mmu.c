@@ -324,3 +324,4 @@ notrace void __init relocate_init(u64 dt_ptr, phys_addr_t start)
 }
 #endif
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

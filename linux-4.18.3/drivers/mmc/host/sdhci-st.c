@@ -541,3 +541,4 @@ MODULE_DESCRIPTION("SDHCI driver for STMicroelectronics SoCs");
 MODULE_AUTHOR("Giuseppe Cavallaro <peppe.cavallaro@st.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sdhci-st");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

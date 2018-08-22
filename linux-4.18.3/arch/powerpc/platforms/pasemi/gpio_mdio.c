@@ -337,3 +337,4 @@ module_exit(gpio_mdio_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Olof Johansson <olof@lixom.net>");
 MODULE_DESCRIPTION("Driver for MDIO over GPIO on PA Semi PWRficient-based boards");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

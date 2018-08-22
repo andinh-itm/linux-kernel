@@ -251,3 +251,4 @@ module_exit(mtd_stresstest_exit);
 MODULE_DESCRIPTION("Stress test module");
 MODULE_AUTHOR("Adrian Hunter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

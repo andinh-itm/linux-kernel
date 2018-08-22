@@ -76,3 +76,4 @@ static void nsp_message_out(struct scsi_cmnd *SCpnt)
 }
 
 /* end */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

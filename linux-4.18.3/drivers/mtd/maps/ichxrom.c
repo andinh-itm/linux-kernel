@@ -380,3 +380,4 @@ module_exit(cleanup_ichxrom);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Eric Biederman <ebiederman@lnxi.com>");
 MODULE_DESCRIPTION("MTD map driver for BIOS chips on the ICHX southbridge");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

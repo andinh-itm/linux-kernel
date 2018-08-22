@@ -2313,3 +2313,4 @@ module_exit(jedec_probe_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Erwin Authried <eauth@softsys.co.at> et al.");
 MODULE_DESCRIPTION("Probe code for JEDEC-compliant flash chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

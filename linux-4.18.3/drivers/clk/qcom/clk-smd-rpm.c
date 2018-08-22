@@ -720,3 +720,4 @@ module_exit(rpm_smd_clk_exit);
 MODULE_DESCRIPTION("Qualcomm RPM over SMD Clock Controller Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:qcom-clk-smd-rpm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

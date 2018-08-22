@@ -1051,3 +1051,4 @@ static dword diva_pri_detect_dsps(diva_os_xdi_adapter_t *a)
 
 		return (ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

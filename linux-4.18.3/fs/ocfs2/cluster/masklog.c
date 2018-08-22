@@ -187,3 +187,4 @@ void mlog_sys_shutdown(void)
 {
 	kset_unregister(&mlog_kset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

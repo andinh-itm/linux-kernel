@@ -758,3 +758,4 @@ module_exit(lbtf_exit_module);
 MODULE_DESCRIPTION("Libertas WLAN Thinfirm Driver Library");
 MODULE_AUTHOR("Cozybit Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

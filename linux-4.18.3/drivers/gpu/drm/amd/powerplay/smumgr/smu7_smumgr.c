@@ -638,3 +638,4 @@ int smu7_smu_fini(struct pp_hwmgr *hwmgr)
 	hwmgr->smu_backend = NULL;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

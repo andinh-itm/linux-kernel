@@ -33,3 +33,4 @@ static const struct devs_id msic_power_btn_dev_id __initconst = {
 };
 
 sfi_device(msic_power_btn_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

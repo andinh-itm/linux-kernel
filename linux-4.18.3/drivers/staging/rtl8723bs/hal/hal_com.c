@@ -1742,3 +1742,4 @@ void rtw_bb_rf_gain_offset(struct adapter *padapter)
 	} else
 		DBG_871X("Using the default RF gain.\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

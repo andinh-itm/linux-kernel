@@ -785,3 +785,4 @@ int jent_entropy_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

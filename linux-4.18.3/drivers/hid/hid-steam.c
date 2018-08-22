@@ -1113,3 +1113,4 @@ static struct hid_driver steam_controller_driver = {
 };
 
 module_hid_driver(steam_controller_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

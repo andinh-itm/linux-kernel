@@ -359,3 +359,4 @@ const char *bcm47xx_board_get_name(void)
 	return bcm47xx_board.name;
 }
 EXPORT_SYMBOL(bcm47xx_board_get_name);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

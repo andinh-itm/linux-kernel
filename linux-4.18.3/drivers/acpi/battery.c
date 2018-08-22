@@ -1526,3 +1526,4 @@ static void __exit acpi_battery_exit(void)
 
 module_init(acpi_battery_init);
 module_exit(acpi_battery_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

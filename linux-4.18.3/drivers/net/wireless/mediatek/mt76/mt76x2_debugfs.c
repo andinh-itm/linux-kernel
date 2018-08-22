@@ -131,3 +131,4 @@ void mt76x2_init_debugfs(struct mt76x2_dev *dev)
 	debugfs_create_devm_seqfile(dev->mt76.dev, "txpower", dir,
 				    read_txpower);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

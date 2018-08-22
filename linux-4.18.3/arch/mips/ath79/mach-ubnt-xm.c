@@ -124,3 +124,4 @@ MIPS_MACHINE(ATH79_MACH_UBNT_XM,
 	     "UBNT-XM",
 	     "Ubiquiti Networks XM (rev 1.0) board",
 	     ubnt_xm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

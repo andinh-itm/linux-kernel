@@ -543,3 +543,4 @@ struct dpaa2_dq *dpaa2_io_store_next(struct dpaa2_io_store *s, int *is_last)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(dpaa2_io_store_next);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -180,3 +180,4 @@ MODULE_AUTHOR("Daniel Mack <daniel@caiaq.de>");
 MODULE_DESCRIPTION("LED driver for LT3593 controllers");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:leds-lt3593");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

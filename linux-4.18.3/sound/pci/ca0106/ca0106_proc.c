@@ -451,3 +451,4 @@ int snd_ca0106_proc_init(struct snd_ca0106 *emu)
 		snd_info_set_text_ops(entry, emu, snd_ca0106_proc_reg_read2);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

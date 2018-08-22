@@ -271,3 +271,4 @@ module_comedi_pci_driver(dyna_pci10xx_driver, dyna_pci10xx_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Prashant Shah <pshah.mumbai@gmail.com>");
 MODULE_DESCRIPTION("Comedi based drivers for Dynalog PCI DAQ cards");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

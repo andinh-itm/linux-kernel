@@ -1014,3 +1014,4 @@ struct mdfld_dsi_encoder *mdfld_dsi_dpi_init(struct drm_device *dev,
 
 	return &dpi_output->base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

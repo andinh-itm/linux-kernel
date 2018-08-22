@@ -947,3 +947,4 @@ int iwl_nvm_check_version(struct iwl_nvm_data *data,
 	return -EINVAL;
 }
 IWL_EXPORT_SYMBOL(iwl_nvm_check_version);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

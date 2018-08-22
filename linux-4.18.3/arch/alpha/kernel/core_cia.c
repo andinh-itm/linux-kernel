@@ -1211,3 +1211,4 @@ cia_machine_check(unsigned long vector, unsigned long la_ptr)
 		expected = cia_decode_mchk(la_ptr);
 	process_mcheck_info(vector, la_ptr, "CIA", expected);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

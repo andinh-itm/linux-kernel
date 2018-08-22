@@ -165,3 +165,4 @@ void fortify_panic(const char *name)
 {
 	error("detected buffer overflow");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

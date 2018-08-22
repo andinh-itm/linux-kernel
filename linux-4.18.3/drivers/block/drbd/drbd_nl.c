@@ -4967,3 +4967,4 @@ int drbd_adm_get_initial_state(struct sk_buff *skb, struct netlink_callback *cb)
 	cb->args[2] = cb->nlh->nlmsg_seq;
 	return get_initial_state(skb, cb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -683,3 +683,4 @@ u16 rtw_get_cur_max_rate(struct adapter *adapter)
 
 	return max_rate;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

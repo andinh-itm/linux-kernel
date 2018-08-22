@@ -106,3 +106,4 @@ void machine_power_off(void)
 	while (1)
 		;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

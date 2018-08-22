@@ -185,3 +185,4 @@ EXPORT_SYMBOL(nxp_nci_remove);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("NXP NCI NFC driver");
 MODULE_AUTHOR("Clément Perrochaud <clement.perrochaud@nxp.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

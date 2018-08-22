@@ -1447,3 +1447,4 @@ MODULE_AUTHOR("Kamal Dasu");
 MODULE_DESCRIPTION("Broadcom QSPI driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

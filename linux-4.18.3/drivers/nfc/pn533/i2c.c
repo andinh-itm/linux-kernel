@@ -287,3 +287,4 @@ MODULE_AUTHOR("Michael Thalmeier <michael.thalmeier@hale.at>");
 MODULE_DESCRIPTION("PN533 I2C driver ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

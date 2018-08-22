@@ -168,3 +168,4 @@ module_platform_driver(qcom_usb_extcon_driver);
 MODULE_DESCRIPTION("QCOM USB ID extcon driver");
 MODULE_AUTHOR("Stephen Boyd <stephen.boyd@linaro.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

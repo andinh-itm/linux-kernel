@@ -983,3 +983,4 @@ MODULE_DESCRIPTION("Clock driver for dm814x ADPLL");
 MODULE_ALIAS("platform:dm814-adpll-clock");
 MODULE_AUTHOR("Tony LIndgren <tony@atomide.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -871,3 +871,4 @@ int vmbus_recvpacket_raw(struct vmbus_channel *channel, void *buffer,
 				  buffer_actual_len, requestid, true);
 }
 EXPORT_SYMBOL_GPL(vmbus_recvpacket_raw);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

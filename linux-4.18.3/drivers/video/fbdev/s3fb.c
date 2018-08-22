@@ -1573,3 +1573,4 @@ static int __init s3fb_init(void)
 
 module_init(s3fb_init);
 module_exit(s3fb_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

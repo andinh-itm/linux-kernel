@@ -2618,3 +2618,4 @@ MODULE_AUTHOR("Kalle Valo <kalle.valo@iki.fi>");
 MODULE_AUTHOR("Sebastian Smolorz <sesmo@gmx.net>");
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

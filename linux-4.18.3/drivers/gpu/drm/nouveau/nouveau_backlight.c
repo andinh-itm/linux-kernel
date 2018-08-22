@@ -327,3 +327,4 @@ nouveau_backlight_dtor(void)
 {
 	ida_destroy(&bl_ida);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

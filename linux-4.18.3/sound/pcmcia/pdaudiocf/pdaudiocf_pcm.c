@@ -306,3 +306,4 @@ int snd_pdacf_pcm_new(struct snd_pdacf *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

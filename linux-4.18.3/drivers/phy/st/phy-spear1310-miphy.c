@@ -259,3 +259,4 @@ module_platform_driver(spear1310_miphy_driver);
 MODULE_DESCRIPTION("ST SPEAR1310-MIPHY driver");
 MODULE_AUTHOR("Pratyush Anand <pratyush.anand@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

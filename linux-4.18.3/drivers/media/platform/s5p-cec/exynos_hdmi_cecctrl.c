@@ -207,3 +207,4 @@ void s5p_cec_get_rx_buf(struct s5p_cec_dev *cec, u32 size, u8 *buffer)
 	}
 	dev_dbg(cec->dev, "cec-rx: cec size(%d): %s", size, debug);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

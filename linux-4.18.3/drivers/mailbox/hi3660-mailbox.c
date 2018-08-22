@@ -310,3 +310,4 @@ module_exit(hi3660_mbox_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Hisilicon Hi3660 Mailbox Controller");
 MODULE_AUTHOR("Leo Yan <leo.yan@linaro.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -188,3 +188,4 @@ void ds1603_enable(void)
 {
 	ds1603_set_trimmer(TRIMMER_DEFAULT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

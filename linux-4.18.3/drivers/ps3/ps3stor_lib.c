@@ -360,3 +360,4 @@ EXPORT_SYMBOL_GPL(ps3stor_send_command);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("PS3 Storage Bus Library");
 MODULE_AUTHOR("Sony Corporation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -100,3 +100,4 @@ int main(void)
 {
 	return test_harness(lost_exception, "lost_exception");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

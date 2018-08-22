@@ -627,3 +627,4 @@ np_err:
 	of_node_put(np);
 	BUG();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

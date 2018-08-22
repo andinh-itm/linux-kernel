@@ -225,3 +225,4 @@ int bench_futex_hash(int argc, const char **argv)
 errmem:
 	err(EXIT_FAILURE, "calloc");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

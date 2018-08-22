@@ -457,3 +457,4 @@ static int __init omap_init_wdt(void)
 }
 subsys_initcall(omap_init_wdt);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

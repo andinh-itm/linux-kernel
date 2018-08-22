@@ -85,3 +85,4 @@ module_platform_driver(ltq_fpi_driver);
 
 MODULE_DESCRIPTION("Lantiq FPI bus driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

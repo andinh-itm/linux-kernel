@@ -595,3 +595,4 @@ module_platform_driver(gpio_rcar_device_driver);
 MODULE_AUTHOR("Magnus Damm");
 MODULE_DESCRIPTION("Renesas R-Car GPIO Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

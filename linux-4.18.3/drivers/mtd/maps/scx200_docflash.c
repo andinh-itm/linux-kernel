@@ -223,3 +223,4 @@ module_exit(cleanup_scx200_docflash);
         c-basic-offset: 8
     End:
 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

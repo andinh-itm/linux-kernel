@@ -95,3 +95,4 @@ int squashfs_max_decompressors(void)
 {
 	return num_possible_cpus();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -236,3 +236,4 @@ MODULE_AUTHOR("Geert Uytterhoeven <geert@linux-m68k.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Oki MSM6242 RTC driver");
 MODULE_ALIAS("platform:rtc-msm6242");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

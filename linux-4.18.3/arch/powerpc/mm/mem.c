@@ -595,3 +595,4 @@ int devmem_is_allowed(unsigned long pfn)
 	return 0;
 }
 #endif /* CONFIG_STRICT_DEVMEM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

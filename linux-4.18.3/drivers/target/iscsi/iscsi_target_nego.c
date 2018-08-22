@@ -1340,3 +1340,4 @@ void iscsi_target_nego_release(struct iscsi_conn *conn)
 
 	conn->conn_login = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

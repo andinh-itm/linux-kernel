@@ -291,3 +291,4 @@ MODULE_AUTHOR("Federico Vaga <federico.vaga@gmail.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PCI CAN bus driver for Bosch C_CAN/D_CAN controller");
 MODULE_DEVICE_TABLE(pci, c_can_pci_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

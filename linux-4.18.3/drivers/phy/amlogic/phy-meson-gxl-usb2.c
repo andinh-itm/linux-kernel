@@ -307,3 +307,4 @@ module_platform_driver(phy_meson_gxl_usb2_driver);
 MODULE_AUTHOR("Martin Blumenstingl <martin.blumenstingl@googlemail.com>");
 MODULE_DESCRIPTION("Meson GXL and GXM USB2 PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

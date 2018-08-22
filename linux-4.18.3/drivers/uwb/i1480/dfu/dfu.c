@@ -210,3 +210,4 @@ error:
 	return result;
 }
 EXPORT_SYMBOL_GPL(i1480_fw_upload);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

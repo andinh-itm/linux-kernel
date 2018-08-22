@@ -647,3 +647,4 @@ EXPORT_SYMBOL_GPL(microtune_attach);
 MODULE_DESCRIPTION("Microtune tuner driver");
 MODULE_AUTHOR("Ralph Metzler, Gerd Knorr, Gunther Mayer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

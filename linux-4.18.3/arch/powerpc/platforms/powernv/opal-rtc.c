@@ -85,3 +85,4 @@ static __init int opal_time_init(void)
 	return PTR_ERR_OR_ZERO(pdev);
 }
 machine_subsys_initcall(powernv, opal_time_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

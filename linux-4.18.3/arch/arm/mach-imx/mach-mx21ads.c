@@ -336,3 +336,4 @@ MACHINE_START(MX21ADS, "Freescale i.MX21ADS")
 	.init_late	= mx21ads_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

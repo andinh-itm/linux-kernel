@@ -336,3 +336,4 @@ void perf_mmap__read_done(struct perf_mmap *map)
 
 	map->prev = perf_mmap__read_head(map);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

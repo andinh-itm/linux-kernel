@@ -267,3 +267,4 @@ module_platform_driver(ti_sci_reset_driver);
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("TI System Control Interface (TI SCI) Reset driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

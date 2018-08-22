@@ -898,3 +898,4 @@ int rf69_write_fifo(struct spi_device *spi, u8 *buffer, unsigned int size)
 	return spi_write(spi, local_buffer, size + 1);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

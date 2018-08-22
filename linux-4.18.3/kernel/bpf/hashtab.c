@@ -1409,3 +1409,4 @@ const struct bpf_map_ops htab_of_maps_map_ops = {
 	.map_fd_sys_lookup_elem = bpf_map_fd_sys_lookup_elem,
 	.map_gen_lookup = htab_of_map_gen_lookup,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

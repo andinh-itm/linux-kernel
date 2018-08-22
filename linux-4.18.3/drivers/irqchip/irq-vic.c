@@ -544,3 +544,4 @@ IRQCHIP_DECLARE(arm_pl190_vic, "arm,pl190-vic", vic_of_init);
 IRQCHIP_DECLARE(arm_pl192_vic, "arm,pl192-vic", vic_of_init);
 IRQCHIP_DECLARE(arm_versatile_vic, "arm,versatile-vic", vic_of_init);
 #endif /* CONFIG OF */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

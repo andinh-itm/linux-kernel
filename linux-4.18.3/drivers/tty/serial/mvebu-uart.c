@@ -973,3 +973,4 @@ static int __init mvebu_uart_init(void)
 	return ret;
 }
 arch_initcall(mvebu_uart_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

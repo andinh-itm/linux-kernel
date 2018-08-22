@@ -210,3 +210,4 @@ void wl1271_io_init(struct wl1271 *wl)
 	if (wl->if_ops->init)
 		wl->if_ops->init(wl->dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

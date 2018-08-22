@@ -984,3 +984,4 @@ const struct eeprom_ops eep_ar9287_ops = {
 	.get_spur_channel	= ath9k_hw_ar9287_get_spur_channel,
 	.get_eepmisc		= ath9k_hw_ar9287_get_eepmisc
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

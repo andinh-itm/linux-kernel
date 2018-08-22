@@ -872,3 +872,4 @@ int jffs2_sum_write_sumnode(struct jffs2_sb_info *c)
 	spin_lock(&c->erase_completion_lock);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

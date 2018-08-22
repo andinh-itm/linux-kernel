@@ -765,3 +765,4 @@ module_platform_driver(mxc_scc_driver);
 MODULE_AUTHOR("Steffen Trumtrar <kernel@pengutronix.de>");
 MODULE_DESCRIPTION("Freescale i.MX25 SCC Crypto driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

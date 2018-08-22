@@ -41,3 +41,4 @@ void simple_map_init(struct map_info *map)
 
 EXPORT_SYMBOL(simple_map_init);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

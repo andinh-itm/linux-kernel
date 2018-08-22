@@ -166,3 +166,4 @@ int snd_emu10k1_voice_free(struct snd_emu10k1 *emu,
 }
 
 EXPORT_SYMBOL(snd_emu10k1_voice_free);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -154,3 +154,4 @@ module_w1_family(w1_family_12);
 MODULE_AUTHOR("Scott Alfter <scott@alfter.us>");
 MODULE_DESCRIPTION("w1 family 12 driver for DS2406 2 Pin IO");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

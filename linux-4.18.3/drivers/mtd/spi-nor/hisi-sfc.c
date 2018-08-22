@@ -505,3 +505,4 @@ module_platform_driver(hisi_spi_nor_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("HiSilicon SPI Nor Flash Controller Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

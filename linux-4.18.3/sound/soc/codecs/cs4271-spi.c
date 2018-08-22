@@ -45,3 +45,4 @@ module_spi_driver(cs4271_spi_driver);
 MODULE_DESCRIPTION("ASoC CS4271 SPI Driver");
 MODULE_AUTHOR("Alexander Sverdlin <subaparts@yandex.ru>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

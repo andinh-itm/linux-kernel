@@ -328,3 +328,4 @@ static void cs5536_isa_mmio_always_on(struct pci_dev *dev)
 }
 DECLARE_PCI_FIXUP_CLASS_EARLY(PCI_VENDOR_ID_AMD, PCI_DEVICE_ID_AMD_CS5536_ISA,
 	PCI_CLASS_BRIDGE_ISA, 8, cs5536_isa_mmio_always_on);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

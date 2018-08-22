@@ -184,3 +184,4 @@ module_comedi_pci_driver(adv_pci1720_driver, adv_pci1720_pci_driver);
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_DESCRIPTION("Comedi driver for Advantech PCI-1720 Analog Output board");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

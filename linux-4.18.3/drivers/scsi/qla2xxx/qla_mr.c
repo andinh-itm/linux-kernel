@@ -3464,3 +3464,4 @@ qlafx00_fxdisc_iocb(srb_t *sp, struct fxdisc_entry_fx00 *pfxiocb)
 	    sizeof(struct fxdisc_entry_fx00));
 	wmb();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

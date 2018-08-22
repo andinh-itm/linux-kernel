@@ -111,3 +111,4 @@ MODULE_ALIAS("platform:tc-dwc-g210-pltfm");
 MODULE_DESCRIPTION("Synopsys Test Chip G210 platform glue driver");
 MODULE_AUTHOR("Joao Pinto <Joao.Pinto@synopsys.com>");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

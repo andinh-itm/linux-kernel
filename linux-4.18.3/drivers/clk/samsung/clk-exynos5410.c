@@ -278,3 +278,4 @@ static void __init exynos5410_clk_init(struct device_node *np)
 	pr_debug("Exynos5410: clock setup completed.\n");
 }
 CLK_OF_DECLARE(exynos5410_clk, "samsung,exynos5410-clock", exynos5410_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

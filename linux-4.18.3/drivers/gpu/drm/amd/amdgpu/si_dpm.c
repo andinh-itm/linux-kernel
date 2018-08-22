@@ -8078,3 +8078,4 @@ static void si_dpm_set_irq_funcs(struct amdgpu_device *adev)
 	adev->pm.dpm.thermal.irq.funcs = &si_dpm_irq_funcs;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

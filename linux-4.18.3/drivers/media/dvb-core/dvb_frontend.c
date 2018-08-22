@@ -2985,3 +2985,4 @@ void dvb_frontend_detach(struct dvb_frontend *fe)
 	dvb_frontend_put(fe);
 }
 EXPORT_SYMBOL(dvb_frontend_detach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

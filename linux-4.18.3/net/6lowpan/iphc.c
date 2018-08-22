@@ -1310,3 +1310,4 @@ int lowpan_header_compress(struct sk_buff *skb, const struct net_device *dev,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(lowpan_header_compress);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

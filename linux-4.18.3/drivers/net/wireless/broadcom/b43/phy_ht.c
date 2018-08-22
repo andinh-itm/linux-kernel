@@ -1151,3 +1151,4 @@ const struct b43_phy_operations b43_phyops_ht = {
 	.recalc_txpower		= b43_phy_ht_op_recalc_txpower,
 	.adjust_txpower		= b43_phy_ht_op_adjust_txpower,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

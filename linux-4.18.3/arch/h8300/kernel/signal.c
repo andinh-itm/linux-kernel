@@ -288,3 +288,4 @@ asmlinkage void do_notify_resume(struct pt_regs *regs, u32 thread_info_flags)
 		tracehook_notify_resume(regs);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

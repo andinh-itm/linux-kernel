@@ -113,3 +113,4 @@ void r128_driver_irq_uninstall(struct drm_device *dev)
 	/* Disable *all* interrupts */
 	R128_WRITE(R128_GEN_INT_CNTL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

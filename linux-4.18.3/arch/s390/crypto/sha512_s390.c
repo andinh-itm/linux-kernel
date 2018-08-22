@@ -149,3 +149,4 @@ module_exit(fini);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA512 and SHA-384 Secure Hash Algorithm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

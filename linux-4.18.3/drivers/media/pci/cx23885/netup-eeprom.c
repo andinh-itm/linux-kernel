@@ -101,3 +101,4 @@ void netup_get_card_info(struct i2c_adapter *i2c_adap,
 	for (i = 70, j = 0; i < 76; i++, j++)
 		cinfo->port[1].mac[j] =  netup_eeprom_read(i2c_adap, i);
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

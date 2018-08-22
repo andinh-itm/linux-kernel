@@ -1175,3 +1175,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Logitech");
 MODULE_AUTHOR("Nestor Lopez Casado");
 MODULE_AUTHOR("nlopezcasad@logitech.com");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

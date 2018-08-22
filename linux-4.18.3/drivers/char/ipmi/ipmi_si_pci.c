@@ -177,3 +177,4 @@ void ipmi_si_pci_shutdown(void)
 	if (pci_registered)
 		pci_unregister_driver(&ipmi_pci_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

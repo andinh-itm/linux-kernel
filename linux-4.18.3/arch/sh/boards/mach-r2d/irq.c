@@ -154,3 +154,4 @@ void __init init_rts7751r2d_IRQ(void)
 
 	register_intc_controller(d);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

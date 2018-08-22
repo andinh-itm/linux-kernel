@@ -3669,3 +3669,4 @@ EXPORT_SYMBOL_GPL(iscsi_host_set_param);
 MODULE_AUTHOR("Mike Christie");
 MODULE_DESCRIPTION("iSCSI library functions");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

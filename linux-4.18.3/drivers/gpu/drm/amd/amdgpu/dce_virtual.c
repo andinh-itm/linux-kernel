@@ -780,3 +780,4 @@ const struct amdgpu_ip_block_version dce_virtual_ip_block =
 	.rev = 0,
 	.funcs = &dce_virtual_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

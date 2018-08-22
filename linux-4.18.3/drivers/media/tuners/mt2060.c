@@ -547,3 +547,4 @@ module_i2c_driver(mt2060_driver);
 MODULE_AUTHOR("Olivier DANET");
 MODULE_DESCRIPTION("Microtune MT2060 silicon tuner driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

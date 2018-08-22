@@ -1293,3 +1293,4 @@ module_platform_driver(s3c24xx_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>");
 MODULE_DESCRIPTION("S3C24XX MTD NAND driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

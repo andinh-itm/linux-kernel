@@ -215,3 +215,4 @@ MACHINE_START(AT2440EVB, "AT2440EVB")
 	.init_irq	= s3c2440_init_irq,
 	.init_time	= at2440evb_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1139,3 +1139,4 @@ module_init(acornfb_init);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("VIDC 1/1a/20 framebuffer driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

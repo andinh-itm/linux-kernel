@@ -190,3 +190,4 @@ module_platform_driver(mxc_w1_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Freescale Semiconductors Inc");
 MODULE_DESCRIPTION("Driver for One-Wire on MXC");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

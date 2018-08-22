@@ -2118,3 +2118,4 @@ static struct platform_driver cs4231_driver = {
 };
 
 module_platform_driver(cs4231_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

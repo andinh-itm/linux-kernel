@@ -1718,3 +1718,4 @@ static const struct iwl_op_mode_ops iwl_mvm_ops_mq = {
 	.rx = iwl_mvm_rx_mq,
 	.rx_rss = iwl_mvm_rx_mq_rss,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

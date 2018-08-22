@@ -11,3 +11,4 @@ fres(void *frD, void *frB)
 #endif
 	return -ENOSYS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

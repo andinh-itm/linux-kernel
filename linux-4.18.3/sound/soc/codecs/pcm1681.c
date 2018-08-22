@@ -345,3 +345,4 @@ module_i2c_driver(pcm1681_i2c_driver);
 MODULE_DESCRIPTION("Texas Instruments PCM1681 ALSA SoC Codec Driver");
 MODULE_AUTHOR("Marek Belisko <marek.belisko@streamunlimited.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

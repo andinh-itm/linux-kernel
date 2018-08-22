@@ -808,3 +808,4 @@ int pnpbios_write_resources_to_node(struct pnp_dev *dev,
 		return -EIO;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

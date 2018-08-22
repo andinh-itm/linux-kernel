@@ -1684,3 +1684,4 @@ u32 rtl8192de_agctab_2garray[AGCTAB_2G_ARRAYLENGTH] = {
 	0xc78, 0x621f0002,
 	0xc78, 0x6e1f0000,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

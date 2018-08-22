@@ -94,3 +94,4 @@ int pci_mmap_resource_range(struct pci_dev *pdev, int bar,
 	return pci_mmap_page_range(pdev, bar, vma, mmap_state, write_combine);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

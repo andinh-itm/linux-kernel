@@ -315,3 +315,4 @@ MACHINE_START(KIXRP435, "Intel KIXRP435 Reference Platform")
 #endif
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

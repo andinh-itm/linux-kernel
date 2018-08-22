@@ -82,3 +82,4 @@ void __hyp_text __sysreg_restore_state(struct kvm_cpu_context *ctxt)
 	write_sysreg(ctxt->cp15[c13_TID_PRIV],	TID_PRIV);
 	write_sysreg(ctxt->cp15[c14_CNTKCTL],	CNTKCTL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -555,3 +555,4 @@ enum sctp_scope sctp_scope(const union sctp_addr *addr)
 
 	return af->scope((union sctp_addr *)addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

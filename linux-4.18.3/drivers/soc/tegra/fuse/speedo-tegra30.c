@@ -286,3 +286,4 @@ void __init tegra30_init_speedo_data(struct tegra_sku_info *sku_info)
 		sku_info->soc_speedo_id = 1;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

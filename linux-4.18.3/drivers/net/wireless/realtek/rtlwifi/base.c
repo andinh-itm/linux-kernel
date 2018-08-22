@@ -2785,3 +2785,4 @@ static void __exit rtl_core_module_exit(void)
 
 module_init(rtl_core_module_init);
 module_exit(rtl_core_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

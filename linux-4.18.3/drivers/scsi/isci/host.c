@@ -2805,3 +2805,4 @@ int isci_gpio_write(struct sas_ha_struct *sas_ha, u8 reg_type, u8 reg_index,
 
 	return written;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

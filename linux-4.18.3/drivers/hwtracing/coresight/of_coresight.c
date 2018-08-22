@@ -193,3 +193,4 @@ of_get_coresight_platform_data(struct device *dev,
 	return pdata;
 }
 EXPORT_SYMBOL_GPL(of_get_coresight_platform_data);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

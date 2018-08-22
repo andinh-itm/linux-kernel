@@ -207,3 +207,4 @@ module_platform_driver_probe(tx4938ide_driver, tx4938ide_probe);
 MODULE_DESCRIPTION("TX4938 internal IDE driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:tx4938ide");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

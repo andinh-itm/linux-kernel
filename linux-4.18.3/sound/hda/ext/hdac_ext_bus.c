@@ -267,3 +267,4 @@ void snd_hda_ext_driver_unregister(struct hdac_ext_driver *drv)
 	driver_unregister(&drv->hdac.driver);
 }
 EXPORT_SYMBOL_GPL(snd_hda_ext_driver_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

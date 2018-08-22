@@ -1633,3 +1633,4 @@ static void __exit i8042_exit(void)
 
 module_init(i8042_init);
 module_exit(i8042_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

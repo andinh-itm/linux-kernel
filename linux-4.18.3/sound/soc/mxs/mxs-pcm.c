@@ -57,3 +57,4 @@ int mxs_pcm_platform_register(struct device *dev)
 EXPORT_SYMBOL_GPL(mxs_pcm_platform_register);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

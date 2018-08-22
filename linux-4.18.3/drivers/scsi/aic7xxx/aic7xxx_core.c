@@ -7968,3 +7968,4 @@ ahc_handle_target_cmd(struct ahc_softc *ahc, struct target_cmd *cmd)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

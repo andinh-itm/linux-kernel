@@ -150,3 +150,4 @@ struct pci_ops gt64xxx_pci0_ops = {
 	.read	= gt64xxx_pci0_pcibios_read,
 	.write	= gt64xxx_pci0_pcibios_write
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

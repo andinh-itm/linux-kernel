@@ -180,3 +180,4 @@ module_platform_driver(sun4i_mdio_driver);
 MODULE_DESCRIPTION("Allwinner EMAC MDIO interface driver");
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

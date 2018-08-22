@@ -851,3 +851,4 @@ void xgbe_init_function_ptrs_phy_v1(struct xgbe_phy_if *phy_if)
 	phy_impl->kr_training_pre	= xgbe_phy_kr_training_pre;
 	phy_impl->kr_training_post	= xgbe_phy_kr_training_post;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

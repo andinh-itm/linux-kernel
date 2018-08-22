@@ -90,3 +90,4 @@ void __init omap54xx_voltagedomains_init(void)
 
 	voltdm_init(voltagedomains_omap5);
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

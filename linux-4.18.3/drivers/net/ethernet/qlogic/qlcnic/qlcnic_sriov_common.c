@@ -2230,3 +2230,4 @@ bool qlcnic_sriov_check_any_vlan(struct qlcnic_vf_info *vf)
 	spin_unlock_bh(&vf->vlan_list_lock);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

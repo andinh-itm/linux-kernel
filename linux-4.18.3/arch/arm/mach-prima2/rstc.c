@@ -106,3 +106,4 @@ static int __init sirfsoc_rstc_init(void)
 	return platform_driver_register(&sirfsoc_rstc_driver);
 }
 subsys_initcall(sirfsoc_rstc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

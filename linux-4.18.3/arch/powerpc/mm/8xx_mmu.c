@@ -203,3 +203,4 @@ void flush_instruction_cache(void)
 	mtspr(SPRN_IC_CST, IDC_INVALL);
 	isync();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

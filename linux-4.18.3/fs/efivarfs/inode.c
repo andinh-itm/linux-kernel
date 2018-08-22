@@ -137,3 +137,4 @@ const struct inode_operations efivarfs_dir_inode_operations = {
 	.unlink = efivarfs_unlink,
 	.create = efivarfs_create,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

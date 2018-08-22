@@ -214,3 +214,4 @@ module_platform_driver(cros_ec_baro_platform_driver);
 
 MODULE_DESCRIPTION("ChromeOS EC barometer sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

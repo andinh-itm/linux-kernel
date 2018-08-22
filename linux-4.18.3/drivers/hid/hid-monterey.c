@@ -66,3 +66,4 @@ static struct hid_driver mr_driver = {
 module_hid_driver(mr_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

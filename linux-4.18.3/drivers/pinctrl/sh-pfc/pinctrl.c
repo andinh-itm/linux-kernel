@@ -829,3 +829,4 @@ int sh_pfc_register_pinctrl(struct sh_pfc *pfc)
 
 	return pinctrl_enable(pmx->pctl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

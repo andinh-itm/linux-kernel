@@ -2358,3 +2358,4 @@ u32 btf_id(const struct btf *btf)
 {
 	return btf->id;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

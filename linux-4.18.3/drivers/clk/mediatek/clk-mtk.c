@@ -284,3 +284,4 @@ void mtk_clk_register_dividers(const struct mtk_clk_divider *mcds,
 			clk_data->clks[mcd->id] = clk;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

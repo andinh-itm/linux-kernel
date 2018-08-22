@@ -8579,3 +8579,4 @@ static void s2io_io_resume(struct pci_dev *pdev)
 	netif_device_attach(netdev);
 	netif_tx_wake_all_queues(netdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

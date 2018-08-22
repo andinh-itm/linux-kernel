@@ -52,3 +52,4 @@ void machine_restart(char *cmd)
 	panic("Reboot failed!");
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

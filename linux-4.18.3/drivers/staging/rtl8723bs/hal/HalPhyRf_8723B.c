@@ -2081,3 +2081,4 @@ void PHY_LCCalibrate_8723B(PDM_ODM_T pDM_Odm)
 	ProgressingTime = jiffies_to_msecs(jiffies - StartTime);
 	ODM_RT_TRACE(pDM_Odm, ODM_COMP_CALIBRATION, ODM_DBG_LOUD,  ("LCK ProgressingTime = %d\n", ProgressingTime));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

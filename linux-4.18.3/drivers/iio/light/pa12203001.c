@@ -486,3 +486,4 @@ module_i2c_driver(pa12203001_driver);
 MODULE_AUTHOR("Adriana Reus <adriana.reus@intel.com>");
 MODULE_DESCRIPTION("Driver for TXC PA12203001 Proximity and Light Sensor");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

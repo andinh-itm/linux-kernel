@@ -1794,3 +1794,4 @@ ath5k_eeprom_mode_from_channel(struct ath5k_hw *ah,
 		return AR5K_EEPROM_MODE_11A;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

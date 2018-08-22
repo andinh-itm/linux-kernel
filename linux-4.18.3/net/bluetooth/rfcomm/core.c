@@ -2257,3 +2257,4 @@ MODULE_DESCRIPTION("Bluetooth RFCOMM ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("bt-proto-3");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

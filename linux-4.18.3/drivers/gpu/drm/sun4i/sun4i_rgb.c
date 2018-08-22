@@ -241,3 +241,4 @@ err_out:
 	return ret;
 }
 EXPORT_SYMBOL(sun4i_rgb_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -185,3 +185,4 @@ EXPORT_SYMBOL_GPL(st_nci_remove);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

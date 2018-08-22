@@ -80,3 +80,4 @@ int main(int argc, char **argv)
 		printf("Media device model %s driver %s\n",
 			mdi.model, mdi.driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1084,3 +1084,4 @@ int snd_cs4236_mixer(struct snd_wss *chip)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

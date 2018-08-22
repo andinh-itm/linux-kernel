@@ -300,3 +300,4 @@ MODULE_AUTHOR("Nicolas Pitre");
 MODULE_DESCRIPTION("SA1100 CFI map driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sa1100-mtd");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

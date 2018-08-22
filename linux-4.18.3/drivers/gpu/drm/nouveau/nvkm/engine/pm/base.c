@@ -865,3 +865,4 @@ nvkm_pm_ctor(const struct nvkm_pm_func *func, struct nvkm_device *device,
 	INIT_LIST_HEAD(&pm->sources);
 	return nvkm_engine_ctor(&nvkm_pm, device, index, true, &pm->engine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

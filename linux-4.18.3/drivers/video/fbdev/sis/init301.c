@@ -11380,3 +11380,4 @@ SiS_OEM300Setting(struct SiS_Private *SiS_Pr, unsigned short ModeNo, unsigned sh
 }
 #endif
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

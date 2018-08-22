@@ -938,3 +938,4 @@ const struct ath10k_hw_ops qca6174_ops = {
 };
 
 const struct ath10k_hw_ops wcn3990_ops = {};
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

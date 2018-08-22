@@ -407,3 +407,4 @@ void dal_hw_translate_dce120_init(struct hw_translate *tr)
 {
 	tr->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

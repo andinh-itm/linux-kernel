@@ -638,3 +638,4 @@ postcore_initcall(serdev_init);
 MODULE_AUTHOR("Rob Herring <robh@kernel.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Serial attached device bus");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

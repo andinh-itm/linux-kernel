@@ -395,3 +395,4 @@ module_i2c_driver(pcf85363_driver);
 MODULE_AUTHOR("Eric Nelson");
 MODULE_DESCRIPTION("pcf85363 I2C RTC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

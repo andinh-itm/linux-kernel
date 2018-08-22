@@ -190,3 +190,4 @@ void nfp_hwmon_unregister(struct nfp_pf *pf)
 
 	hwmon_device_unregister(pf->hwmon_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

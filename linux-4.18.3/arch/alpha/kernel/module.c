@@ -283,3 +283,4 @@ apply_relocate_add(Elf64_Shdr *sechdrs, const char *strtab,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

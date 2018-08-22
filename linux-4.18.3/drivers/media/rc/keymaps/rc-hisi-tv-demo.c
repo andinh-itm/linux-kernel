@@ -79,3 +79,4 @@ module_init(init_rc_map_hisi_tv_demo)
 module_exit(exit_rc_map_hisi_tv_demo)
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

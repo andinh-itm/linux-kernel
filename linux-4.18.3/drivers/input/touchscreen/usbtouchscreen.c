@@ -1867,3 +1867,4 @@ MODULE_LICENSE("GPL");
 MODULE_ALIAS("touchkitusb");
 MODULE_ALIAS("itmtouch");
 MODULE_ALIAS("mtouchusb");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

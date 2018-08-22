@@ -1067,3 +1067,4 @@ static void __exit serio_exit(void)
 
 subsys_initcall(serio_init);
 module_exit(serio_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

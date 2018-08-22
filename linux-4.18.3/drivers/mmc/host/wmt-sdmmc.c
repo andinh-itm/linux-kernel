@@ -1005,3 +1005,4 @@ MODULE_DESCRIPTION("Wondermedia MMC/SD Driver");
 MODULE_AUTHOR("Tony Prisk");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, wmt_mci_dt_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -271,3 +271,4 @@ acpi_ns_check_argument_count(char *pathname,
 				      user_param_count, required_param_count));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -519,3 +519,4 @@ static struct usb_driver rtl8188e_usb_drv = {
 };
 
 module_usb_driver(rtl8188e_usb_drv)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

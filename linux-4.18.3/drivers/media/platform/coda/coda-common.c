@@ -2742,3 +2742,4 @@ module_platform_driver(coda_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Javier Martin <javier.martin@vista-silicon.com>");
 MODULE_DESCRIPTION("Coda multi-standard codec V4L2 driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

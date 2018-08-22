@@ -1905,3 +1905,4 @@ static int radeon_debugfs_pm_init(struct radeon_device *rdev)
 	return 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

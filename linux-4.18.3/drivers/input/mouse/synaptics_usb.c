@@ -567,3 +567,4 @@ MODULE_AUTHOR("Rob Miller <rob@inpharmatica.co.uk>, "
               "Jan Steinhoff <cpad@jan-steinhoff.de>");
 MODULE_DESCRIPTION("Synaptics USB device driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

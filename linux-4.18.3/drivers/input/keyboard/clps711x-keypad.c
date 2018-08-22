@@ -199,3 +199,4 @@ module_platform_driver(clps711x_keypad_driver);
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("Cirrus Logic CLPS711X Keypad driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

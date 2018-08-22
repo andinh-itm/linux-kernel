@@ -403,3 +403,4 @@ module_i2c_driver(max5821_driver);
 MODULE_AUTHOR("Philippe Reynes <tremyfr@yahoo.fr>");
 MODULE_DESCRIPTION("MAX5821 DAC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

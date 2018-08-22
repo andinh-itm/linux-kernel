@@ -3324,3 +3324,4 @@ module_i2c_driver(da7218_i2c_driver);
 MODULE_DESCRIPTION("ASoC DA7218 Codec driver");
 MODULE_AUTHOR("Adam Thomson <Adam.Thomson.Opensource@diasemi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

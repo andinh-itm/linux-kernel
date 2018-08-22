@@ -423,3 +423,4 @@ const struct snd_compr_ops uniphier_aio_compr_ops = {
 	.get_caps       = uniphier_aio_compr_get_caps,
 	.get_codec_caps = uniphier_aio_compr_get_codec_caps,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

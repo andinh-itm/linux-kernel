@@ -418,3 +418,4 @@ static void __exit am33xx_cm_exit(void)
 	cm_unregister(&am33xx_cm_ll_data);
 }
 __exitcall(am33xx_cm_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

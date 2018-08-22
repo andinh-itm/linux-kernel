@@ -1320,3 +1320,4 @@ const struct eeprom_ops eep_def_ops = {
 	.get_spur_channel	= ath9k_hw_def_get_spur_channel,
 	.get_eepmisc		= ath9k_hw_def_get_eepmisc
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

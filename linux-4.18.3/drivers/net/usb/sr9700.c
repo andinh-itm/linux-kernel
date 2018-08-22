@@ -553,3 +553,4 @@ module_usb_driver(sr9700_usb_driver);
 MODULE_AUTHOR("liujl <liujunliang_ljl@163.com>");
 MODULE_DESCRIPTION("SR9700 one chip USB 1.1 USB to Ethernet device from http://www.corechip-sz.com/");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

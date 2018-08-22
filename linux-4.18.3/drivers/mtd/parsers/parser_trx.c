@@ -124,3 +124,4 @@ module_mtd_part_parser(mtd_parser_trx);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Parser for TRX format partitions");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

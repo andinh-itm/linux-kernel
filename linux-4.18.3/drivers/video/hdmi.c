@@ -1260,3 +1260,4 @@ int hdmi_infoframe_unpack(union hdmi_infoframe *frame, void *buffer)
 	return ret;
 }
 EXPORT_SYMBOL(hdmi_infoframe_unpack);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

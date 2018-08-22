@@ -5092,3 +5092,4 @@ int smu7_init_function_pointers(struct pp_hwmgr *hwmgr)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

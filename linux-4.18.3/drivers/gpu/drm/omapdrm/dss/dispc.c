@@ -4964,3 +4964,4 @@ struct platform_driver omap_dispchw_driver = {
 		.suppress_bind_attrs = true,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -438,3 +438,4 @@ void __init opal_platform_dump_init(void)
 	if (opal_check_token(OPAL_DUMP_RESEND))
 		opal_dump_resend_notification();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

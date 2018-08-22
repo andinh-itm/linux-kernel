@@ -1084,3 +1084,4 @@ static void NS8390_trigger_send(struct net_device *dev, unsigned int length,
 	ei_outb_p(start_page, e8390_base + EN0_TPSR);
 	ei_outb_p(E8390_NODMA+E8390_TRANS+E8390_START, e8390_base+E8390_CMD);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

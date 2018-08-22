@@ -138,3 +138,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Nick Bane <nick@cecomputing.co.uk>");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
 MODULE_DESCRIPTION("Balloon3 board CF/PCMCIA driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -194,3 +194,4 @@ const struct bpf_func_proto bpf_get_current_cgroup_id_proto = {
 	.ret_type	= RET_INTEGER,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

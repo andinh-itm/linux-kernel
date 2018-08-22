@@ -930,3 +930,4 @@ void snd_ca0106_mixer_resume(struct snd_ca0106  *chip)
 		ca0106_set_capture_mic_line_in(chip);
 }
 #endif /* CONFIG_PM_SLEEP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

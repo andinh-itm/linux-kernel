@@ -89,3 +89,4 @@ static struct platform_driver clk_mt2701_vdec_drv = {
 };
 
 builtin_platform_driver(clk_mt2701_vdec_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

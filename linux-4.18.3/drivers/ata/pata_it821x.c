@@ -981,3 +981,4 @@ MODULE_VERSION(DRV_VERSION);
 
 module_param_named(noraid, it8212_noraid, int, S_IRUGO);
 MODULE_PARM_DESC(noraid, "Force card into bypass mode");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

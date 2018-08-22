@@ -1809,3 +1809,4 @@ module_platform_driver(m_can_plat_driver);
 MODULE_AUTHOR("Dong Aisheng <b29396@freescale.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("CAN bus driver for Bosch M_CAN controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

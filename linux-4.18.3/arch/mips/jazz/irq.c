@@ -153,3 +153,4 @@ void __init plat_time_init(void)
 	r4030_write_reg32(JAZZ_TIMER_INTERVAL, 9);
 	setup_pit_timer();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

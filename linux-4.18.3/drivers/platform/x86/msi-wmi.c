@@ -356,3 +356,4 @@ static void __exit msi_wmi_exit(void)
 
 module_init(msi_wmi_init);
 module_exit(msi_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

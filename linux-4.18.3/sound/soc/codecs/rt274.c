@@ -1225,3 +1225,4 @@ module_i2c_driver(rt274_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT274 driver");
 MODULE_AUTHOR("Bard Liao <bardliao@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

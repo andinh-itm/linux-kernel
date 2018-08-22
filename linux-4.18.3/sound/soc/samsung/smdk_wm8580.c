@@ -212,3 +212,4 @@ module_exit(smdk_audio_exit);
 MODULE_AUTHOR("Jaswinder Singh, jassisinghbrar@gmail.com");
 MODULE_DESCRIPTION("ALSA SoC SMDK WM8580");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

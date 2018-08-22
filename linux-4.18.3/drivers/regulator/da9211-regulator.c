@@ -533,3 +533,4 @@ module_i2c_driver(da9211_regulator_driver);
 MODULE_AUTHOR("James Ban <James.Ban.opensource@diasemi.com>");
 MODULE_DESCRIPTION("DA9211/DA9212/DA9213/DA9223/DA9214/DA9224/DA9215/DA9225 regulator driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

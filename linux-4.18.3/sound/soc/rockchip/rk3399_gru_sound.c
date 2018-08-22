@@ -574,3 +574,4 @@ MODULE_DESCRIPTION("Rockchip ASoC Machine Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, rockchip_sound_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

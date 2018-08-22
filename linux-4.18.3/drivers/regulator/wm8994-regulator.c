@@ -197,3 +197,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("WM8994 LDO driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8994-ldo");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

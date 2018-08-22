@@ -1581,3 +1581,4 @@ module_i2c_driver(da732x_i2c_driver);
 MODULE_DESCRIPTION("ASoC DA732X driver");
 MODULE_AUTHOR("Michal Hajduk <michal.hajduk@diasemi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

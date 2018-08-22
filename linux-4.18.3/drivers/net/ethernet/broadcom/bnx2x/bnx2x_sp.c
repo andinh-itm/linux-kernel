@@ -6559,3 +6559,4 @@ int bnx2x_func_state_change(struct bnx2x *bp,
 
 	return !!test_bit(cmd, pending);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

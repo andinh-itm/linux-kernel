@@ -1095,3 +1095,4 @@ static int __init dm355_init_devices(void)
 	return ret;
 }
 postcore_initcall(dm355_init_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

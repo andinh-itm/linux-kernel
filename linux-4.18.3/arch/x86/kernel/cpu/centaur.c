@@ -286,3 +286,4 @@ static const struct cpu_dev centaur_cpu_dev = {
 };
 
 cpu_dev_register(centaur_cpu_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

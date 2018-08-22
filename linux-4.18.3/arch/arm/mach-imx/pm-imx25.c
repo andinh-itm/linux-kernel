@@ -35,3 +35,4 @@ void __init imx25_pm_init(void)
 {
 	suspend_set_ops(&imx25_suspend_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

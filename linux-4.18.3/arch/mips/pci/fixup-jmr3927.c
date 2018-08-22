@@ -77,3 +77,4 @@ int jmr3927_pci_map_irq(const struct pci_dev *dev, u8 slot, u8 pin)
 		irq = JMR3927_IRQ_ETHER0;
 	return irq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

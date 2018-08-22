@@ -501,3 +501,4 @@ int acpi_get_node(acpi_handle handle)
 	return acpi_map_pxm_to_node(pxm);
 }
 EXPORT_SYMBOL(acpi_get_node);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

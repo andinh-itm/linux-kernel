@@ -554,3 +554,4 @@ static void __exit rtl_btcoexist_module_exit(void)
 
 module_init(rtl_btcoexist_module_init);
 module_exit(rtl_btcoexist_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

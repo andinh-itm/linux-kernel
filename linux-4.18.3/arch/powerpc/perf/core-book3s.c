@@ -2301,3 +2301,4 @@ int register_power_pmu(struct power_pmu *pmu)
 			  power_pmu_prepare_cpu, NULL);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

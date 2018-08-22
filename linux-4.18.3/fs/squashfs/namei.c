@@ -249,3 +249,4 @@ const struct inode_operations squashfs_dir_inode_ops = {
 	.lookup = squashfs_lookup,
 	.listxattr = squashfs_listxattr
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -262,3 +262,4 @@ MODULE_DESCRIPTION("Samsung S5P/EXYNOS SoC USB PHY driver");
 MODULE_AUTHOR("Kamil Debski <k.debski@samsung.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:samsung-usb2-phy");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

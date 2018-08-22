@@ -69,3 +69,4 @@ int tegra_bpmp_init_resets(struct tegra_bpmp *bpmp)
 
 	return devm_reset_controller_register(bpmp->dev, &bpmp->rstc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

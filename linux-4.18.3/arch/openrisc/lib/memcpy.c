@@ -123,3 +123,4 @@ void *memcpy(void *dest, __const void *src, __kernel_size_t n)
 #endif
 
 EXPORT_SYMBOL(memcpy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

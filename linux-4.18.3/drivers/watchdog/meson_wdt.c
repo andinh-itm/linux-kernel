@@ -235,3 +235,4 @@ MODULE_PARM_DESC(nowayout,
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Carlo Caione <carlo@caione.org>");
 MODULE_DESCRIPTION("Meson Watchdog Timer Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -681,3 +681,4 @@ acpi_ut_get_object_size(union acpi_operand_object *internal_object,
 
 	return (status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

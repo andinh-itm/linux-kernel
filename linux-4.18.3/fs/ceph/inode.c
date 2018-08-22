@@ -2289,3 +2289,4 @@ int ceph_getattr(const struct path *path, struct kstat *stat,
 	}
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

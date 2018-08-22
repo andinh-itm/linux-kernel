@@ -1482,3 +1482,4 @@ static const struct dvb_frontend_ops af9005_fe_ops = {
 	.read_snr = af9005_fe_read_snr,
 	.read_ucblocks = af9005_fe_read_unc_blocks,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

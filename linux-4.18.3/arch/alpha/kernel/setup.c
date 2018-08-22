@@ -1532,3 +1532,4 @@ static __init int add_pcspkr(void)
 	return ret;
 }
 device_initcall(add_pcspkr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

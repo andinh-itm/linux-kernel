@@ -299,3 +299,4 @@ void __init plat_mem_setup(void)
 	screen_info_setup();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

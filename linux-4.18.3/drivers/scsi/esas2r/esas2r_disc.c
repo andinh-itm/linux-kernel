@@ -1182,3 +1182,4 @@ static void esas2r_disc_fix_curr_requests(struct esas2r_adapter *a)
 
 	spin_unlock_irqrestore(&a->queue_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -409,3 +409,4 @@ void __init printk_safe_init(void)
 	/* Flush pending messages that did not have scheduled IRQ works. */
 	printk_safe_flush();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

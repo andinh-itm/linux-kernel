@@ -437,3 +437,4 @@ module_platform_driver(sirf_usp_pcm_driver);
 MODULE_DESCRIPTION("SiRF SoC USP PCM bus driver");
 MODULE_AUTHOR("RongJun Ying <Rongjun.Ying@csr.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

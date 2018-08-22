@@ -305,3 +305,4 @@ static void __init lpc18xx_ccu_init(struct device_node *np)
 	of_clk_add_provider(np, lpc18xx_ccu_branch_clk_get, clk_data);
 }
 CLK_OF_DECLARE(lpc18xx_ccu, "nxp,lpc1850-ccu", lpc18xx_ccu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

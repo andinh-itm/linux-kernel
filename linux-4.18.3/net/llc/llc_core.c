@@ -166,3 +166,4 @@ EXPORT_SYMBOL(llc_sap_close);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Procom 1997, Jay Schullist 2001, Arnaldo C. Melo 2001-2003");
 MODULE_DESCRIPTION("LLC IEEE 802.2 core support");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

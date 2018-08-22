@@ -79,3 +79,4 @@ MODULE_AUTHOR("Kristoffer Ericson <kristoffer.ericson@gmail.com>");
 MODULE_DESCRIPTION("HP Jornada 6xx LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:hp6xx-led");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

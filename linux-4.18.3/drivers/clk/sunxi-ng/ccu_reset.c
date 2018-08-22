@@ -79,3 +79,4 @@ const struct reset_control_ops ccu_reset_ops = {
 	.reset		= ccu_reset_reset,
 	.status		= ccu_reset_status,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -127,3 +127,4 @@ static struct snd_seq_driver emu8000_driver = {
 };
 
 module_snd_seq_driver(emu8000_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

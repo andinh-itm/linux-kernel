@@ -95,3 +95,4 @@ module_platform_driver(dwmac_generic_driver);
 
 MODULE_DESCRIPTION("Generic dwmac driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

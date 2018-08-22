@@ -339,3 +339,4 @@ module_i2c_driver(tmp102_driver);
 MODULE_AUTHOR("Steven King <sfking@fdwdc.com>");
 MODULE_DESCRIPTION("Texas Instruments TMP102 temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

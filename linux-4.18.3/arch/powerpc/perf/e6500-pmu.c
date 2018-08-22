@@ -119,3 +119,4 @@ static int init_e6500_pmu(void)
 }
 
 early_initcall(init_e6500_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

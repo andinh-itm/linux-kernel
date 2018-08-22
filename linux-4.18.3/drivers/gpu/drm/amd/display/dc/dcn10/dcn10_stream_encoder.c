@@ -1492,3 +1492,4 @@ void dcn10_stream_encoder_construct(
 	enc1->se_mask = se_mask;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

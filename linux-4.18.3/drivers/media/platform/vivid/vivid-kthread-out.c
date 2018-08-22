@@ -291,3 +291,4 @@ void vivid_stop_generating_vid_out(struct vivid_dev *dev, bool *pstreaming)
 	dev->kthread_vid_out = NULL;
 	mutex_lock(&dev->mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -820,3 +820,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(dib3000mb_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

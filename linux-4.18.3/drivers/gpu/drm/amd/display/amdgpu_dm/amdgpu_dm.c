@@ -5232,3 +5232,4 @@ void amdgpu_dm_remove_sink_from_freesync_module(struct drm_connector *connector)
 	 * an upstreamable fashion
 	 */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -42,3 +42,4 @@ void pnx833x_machine_power_off(void)
 {
 	pnx833x_machine_halt();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

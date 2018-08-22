@@ -424,3 +424,4 @@ void st21nfca_se_deinit(struct nfc_hci_dev *hdev)
 	info->se_info.se_active = false;
 }
 EXPORT_SYMBOL(st21nfca_se_deinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

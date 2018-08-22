@@ -2337,3 +2337,4 @@ MODULE_DESCRIPTION("Atmel USBA UDC driver");
 MODULE_AUTHOR("Haavard Skinnemoen (Atmel)");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:atmel_usba_udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

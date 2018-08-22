@@ -732,3 +732,4 @@ EXPORT_SYMBOL(microread_remove);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

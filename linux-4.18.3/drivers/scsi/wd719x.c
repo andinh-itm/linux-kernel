@@ -985,3 +985,4 @@ MODULE_AUTHOR("Ondrej Zary, Aaron Dewell, Juergen Gaertner");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE("wd719x-wcs.bin");
 MODULE_FIRMWARE("wd719x-risc.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

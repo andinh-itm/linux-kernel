@@ -128,3 +128,4 @@ void mic_exit_card_debugfs(void)
 {
 	debugfs_remove(mic_dbg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

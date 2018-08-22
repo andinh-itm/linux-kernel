@@ -1001,3 +1001,4 @@ compr_err:
 	return ret;
 }
 EXPORT_SYMBOL_GPL(snd_soc_new_compress);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

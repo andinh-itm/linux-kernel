@@ -543,3 +543,4 @@ MODULE_AUTHOR("Ondrej Mosnacek <omosnacek@gmail.com>");
 MODULE_DESCRIPTION("MORUS-640 AEAD algorithm");
 MODULE_ALIAS_CRYPTO("morus640");
 MODULE_ALIAS_CRYPTO("morus640-generic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

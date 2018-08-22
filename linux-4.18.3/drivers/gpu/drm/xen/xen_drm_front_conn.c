@@ -113,3 +113,4 @@ int xen_drm_front_conn_init(struct xen_drm_front_drm_info *drm_info,
 	return drm_connector_init(drm_info->drm_dev, connector,
 				  &connector_funcs, DRM_MODE_CONNECTOR_VIRTUAL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

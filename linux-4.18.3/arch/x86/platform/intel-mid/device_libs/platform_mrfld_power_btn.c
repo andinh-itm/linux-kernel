@@ -80,3 +80,4 @@ static const struct devs_id mrfld_power_btn_dev_id __initconst = {
 };
 
 sfi_device(mrfld_power_btn_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

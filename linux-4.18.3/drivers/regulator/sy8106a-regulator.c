@@ -165,3 +165,4 @@ MODULE_AUTHOR("Ondřej Jirman <megous@megous.com>");
 MODULE_AUTHOR("Icenowy Zheng <icenowy@aosc.io>");
 MODULE_DESCRIPTION("Regulator device driver for Silergy SY8106A");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

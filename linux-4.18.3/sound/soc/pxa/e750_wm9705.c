@@ -148,3 +148,4 @@ MODULE_AUTHOR("Ian Molton <spyro@f2s.com>");
 MODULE_DESCRIPTION("ALSA SoC driver for e750");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:e750-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -385,3 +385,4 @@ void __init cpuinfo_store_boot_cpu(void)
 }
 
 device_initcall(cpuinfo_regs_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

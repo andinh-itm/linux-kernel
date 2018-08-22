@@ -165,3 +165,4 @@ union ieee754sp ieee754sp_mul(union ieee754sp x, union ieee754sp y)
 
 	return ieee754sp_format(rs, re, rm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

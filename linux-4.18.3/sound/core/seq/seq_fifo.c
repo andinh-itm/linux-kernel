@@ -280,3 +280,4 @@ int snd_seq_fifo_resize(struct snd_seq_fifo *f, int poolsize)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

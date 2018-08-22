@@ -113,3 +113,4 @@ MODULE_AUTHOR("Guennadi Liakhovetski <lg@denx.de>");
 MODULE_DESCRIPTION("DAC124S085 LED driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("spi:dac124s085");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

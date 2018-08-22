@@ -1149,3 +1149,4 @@ module_platform_driver(mmp_pdma_driver);
 MODULE_DESCRIPTION("MARVELL MMP Peripheral DMA Driver");
 MODULE_AUTHOR("Marvell International Ltd.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

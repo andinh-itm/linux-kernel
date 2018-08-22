@@ -906,3 +906,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail CR Machine driver for RT5651");
 MODULE_AUTHOR("Pierre-Louis Bossart <pierre-louis.bossart@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bytcr_rt5651");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

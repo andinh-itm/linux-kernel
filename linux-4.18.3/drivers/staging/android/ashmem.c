@@ -897,3 +897,4 @@ out:
 	return ret;
 }
 device_initcall(ashmem_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -770,3 +770,4 @@ MACHINE_START(NETWINDER, "Rebel-NetWinder")
 	.init_time	= isa_timer_init,
 	.restart	= netwinder_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

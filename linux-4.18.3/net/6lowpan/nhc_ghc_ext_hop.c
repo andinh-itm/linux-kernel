@@ -25,3 +25,4 @@ LOWPAN_NHC(ghc_ext_hop, "RFC7400 Hop-by-Hop Extension Header", NEXTHDR_HOP, 0,
 module_lowpan_nhc(ghc_ext_hop);
 MODULE_DESCRIPTION("6LoWPAN generic header hop-by-hop extension compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

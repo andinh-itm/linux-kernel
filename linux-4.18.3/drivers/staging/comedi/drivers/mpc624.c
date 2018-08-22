@@ -309,3 +309,4 @@ module_comedi_driver(mpc624_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for Micro/sys MPC-624 PC/104 board");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

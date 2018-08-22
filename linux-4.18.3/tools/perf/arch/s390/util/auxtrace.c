@@ -117,3 +117,4 @@ struct auxtrace_record *auxtrace_record__init(struct perf_evlist *evlist,
 
 	return aux;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2940,3 +2940,4 @@ const struct e1000_info e1000_82575_info = {
 	.nvm_ops = &e1000_nvm_ops_82575,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

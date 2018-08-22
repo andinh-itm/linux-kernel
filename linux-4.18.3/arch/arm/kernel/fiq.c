@@ -163,3 +163,4 @@ void __init init_FIQ(int start)
 	get_fiq_regs(&dfl_fiq_regs);
 	fiq_start = start;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

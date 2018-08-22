@@ -129,3 +129,4 @@ module_platform_driver(hi6421_pmic_driver);
 MODULE_AUTHOR("Guodong Xu <guodong.xu@linaro.org>");
 MODULE_DESCRIPTION("Hi6421 PMIC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

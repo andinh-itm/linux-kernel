@@ -660,3 +660,4 @@ MODULE_AUTHOR("TPM support (TPMsupport@list.st.com)");
 MODULE_DESCRIPTION("ST33ZP24 TPM 1.2 driver");
 MODULE_VERSION("1.3.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

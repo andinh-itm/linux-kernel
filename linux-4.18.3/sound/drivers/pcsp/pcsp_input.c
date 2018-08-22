@@ -115,3 +115,4 @@ int pcspkr_input_remove(struct input_dev *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

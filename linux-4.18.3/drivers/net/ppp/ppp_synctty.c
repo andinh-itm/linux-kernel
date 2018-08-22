@@ -739,3 +739,4 @@ module_init(ppp_sync_init);
 module_exit(ppp_sync_cleanup);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_LDISC(N_SYNC_PPP);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -53,3 +53,4 @@ struct platform_device *__init imx_add_imx2_wdt(
 	return imx_add_platform_device("imx2-wdt", data->id,
 			res, ARRAY_SIZE(res), NULL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -62,3 +62,4 @@ void __init sgihpc_init(void)
 	sgioc->reset = sgi_ioc_reset;
 	sgioc->write = sgi_ioc_write;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

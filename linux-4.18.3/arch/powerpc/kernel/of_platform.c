@@ -117,3 +117,4 @@ static struct platform_driver of_pci_phb_driver = {
 builtin_platform_driver(of_pci_phb_driver);
 
 #endif /* CONFIG_PPC_OF_PLATFORM_PCI */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

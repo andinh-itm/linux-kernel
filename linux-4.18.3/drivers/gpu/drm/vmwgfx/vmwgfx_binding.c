@@ -1296,3 +1296,4 @@ static void vmw_binding_build_asserts(void)
 	BUILD_BUG_ON(SVGA3D_DX_MAX_VERTEXBUFFERS*sizeof(SVGA3dVertexBuffer) >
 		     VMW_MAX_VIEW_BINDINGS*sizeof(u32));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

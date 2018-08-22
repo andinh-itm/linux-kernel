@@ -448,3 +448,4 @@ bool radeon_encoder_is_digital(struct drm_encoder *encoder)
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -234,3 +234,4 @@ module_i2c_driver(mma8450_driver);
 MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("MMA8450 3-Axis Accelerometer Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

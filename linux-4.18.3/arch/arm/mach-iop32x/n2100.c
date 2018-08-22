@@ -367,3 +367,4 @@ MACHINE_START(N2100, "Thecus N2100")
 	.init_machine	= n2100_init_machine,
 	.restart	= n2100_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

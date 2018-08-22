@@ -69,3 +69,4 @@ DT_MACHINE_START(NSPIRE, "TI-NSPIRE")
 	.init_machine	= nspire_init,
 	.restart	= nspire_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

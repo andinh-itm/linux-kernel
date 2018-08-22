@@ -654,3 +654,4 @@ int efi_capsule_setup_info(struct capsule_info *cap_info, void *kbuff,
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

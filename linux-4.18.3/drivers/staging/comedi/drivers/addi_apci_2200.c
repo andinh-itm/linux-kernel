@@ -141,3 +141,4 @@ module_comedi_pci_driver(apci2200_driver, apci2200_pci_driver);
 MODULE_DESCRIPTION("ADDI-DATA APCI-2200 Relay board, optically isolated");
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

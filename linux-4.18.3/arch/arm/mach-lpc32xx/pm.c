@@ -143,3 +143,4 @@ static int __init lpc32xx_pm_init(void)
 	return 0;
 }
 arch_initcall(lpc32xx_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

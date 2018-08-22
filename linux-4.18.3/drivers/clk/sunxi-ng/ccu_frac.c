@@ -110,3 +110,4 @@ int ccu_frac_helper_set_rate(struct ccu_common *common,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

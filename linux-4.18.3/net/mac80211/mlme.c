@@ -5137,3 +5137,4 @@ void ieee80211_cqm_beacon_loss_notify(struct ieee80211_vif *vif, gfp_t gfp)
 	cfg80211_cqm_beacon_loss_notify(sdata->dev, gfp);
 }
 EXPORT_SYMBOL(ieee80211_cqm_beacon_loss_notify);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

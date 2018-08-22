@@ -1620,3 +1620,4 @@ void qla4xxx_free_irqs(struct scsi_qla_host *ha)
 	free_irq(pci_irq_vector(ha->pdev, 0), ha);
 	pci_free_irq_vectors(ha->pdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

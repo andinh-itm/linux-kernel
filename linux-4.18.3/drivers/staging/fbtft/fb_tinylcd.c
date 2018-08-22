@@ -101,3 +101,4 @@ MODULE_ALIAS("spi:tinylcd");
 MODULE_DESCRIPTION("Custom FB driver for tinylcd.com display");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

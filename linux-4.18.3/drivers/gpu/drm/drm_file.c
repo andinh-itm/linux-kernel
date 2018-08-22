@@ -748,3 +748,4 @@ void drm_send_event(struct drm_device *dev, struct drm_pending_event *e)
 	spin_unlock_irqrestore(&dev->event_lock, irqflags);
 }
 EXPORT_SYMBOL(drm_send_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -31,3 +31,4 @@ DECLARE_EXPORT(__udivsi3);
 DECLARE_EXPORT(__umoddi3);
 DECLARE_EXPORT(__umodsi3);
 DECLARE_EXPORT(__muldi3);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1979,3 +1979,4 @@ int snd_ctl_enum_info(struct snd_ctl_elem_info *info, unsigned int channels,
 	return 0;
 }
 EXPORT_SYMBOL(snd_ctl_enum_info);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

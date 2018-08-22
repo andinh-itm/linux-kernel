@@ -269,3 +269,4 @@ static struct platform_driver d7s_driver = {
 };
 
 module_platform_driver(d7s_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

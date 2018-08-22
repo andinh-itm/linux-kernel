@@ -97,3 +97,4 @@ static struct usb_device_id __used i1480_est_id_table[] = {
 	{ },
 };
 MODULE_DEVICE_TABLE(usb, i1480_est_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

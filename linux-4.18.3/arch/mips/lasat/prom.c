@@ -123,3 +123,4 @@ const char *get_system_type(void)
 {
 	return lasat_board_info.li_bmstr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

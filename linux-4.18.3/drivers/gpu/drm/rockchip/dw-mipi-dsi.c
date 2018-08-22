@@ -1347,3 +1347,4 @@ struct platform_driver dw_mipi_dsi_driver = {
 		.name	= DRIVER_NAME,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

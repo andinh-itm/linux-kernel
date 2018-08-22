@@ -278,3 +278,4 @@ MODULE_PARM_DESC(debug, "Enable debug messages");
 MODULE_DESCRIPTION("Loopback device for rc-core debugging");
 MODULE_AUTHOR("David Härdeman <david@hardeman.nu>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

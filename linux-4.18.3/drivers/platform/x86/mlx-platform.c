@@ -1286,3 +1286,4 @@ module_exit(mlxplat_exit);
 MODULE_AUTHOR("Vadim Pasternak (vadimp@mellanox.com)");
 MODULE_DESCRIPTION("Mellanox platform driver");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

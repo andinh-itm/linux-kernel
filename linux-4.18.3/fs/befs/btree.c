@@ -782,3 +782,4 @@ btree_compare_double(cont void *key1, int keylen1,
 	return (result < 0.0) ? -1 : 1;
 }
 #endif				//0
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1219,3 +1219,4 @@ int __init mpc5121_clk_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

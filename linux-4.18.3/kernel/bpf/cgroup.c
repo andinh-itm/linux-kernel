@@ -700,3 +700,4 @@ const struct bpf_verifier_ops cg_dev_verifier_ops = {
 	.get_func_proto		= cgroup_dev_func_proto,
 	.is_valid_access	= cgroup_dev_is_valid_access,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

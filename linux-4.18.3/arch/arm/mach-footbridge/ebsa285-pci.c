@@ -46,3 +46,4 @@ static int __init ebsa285_init_pci(void)
 }
 
 subsys_initcall(ebsa285_init_pci);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

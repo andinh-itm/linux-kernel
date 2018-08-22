@@ -600,3 +600,4 @@ MODULE_DEVICE_TABLE(platform, vimc_deb_driver_ids);
 MODULE_DESCRIPTION("Virtual Media Controller Driver (VIMC) Debayer");
 MODULE_AUTHOR("Helen Mae Koike Fornazier <helen.fornazier@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -204,3 +204,4 @@ module_platform_driver(thc63_driver);
 MODULE_AUTHOR("Jacopo Mondi <jacopo@jmondi.org>");
 MODULE_DESCRIPTION("Thine THC63LVD1024 LVDS decoder DRM bridge driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

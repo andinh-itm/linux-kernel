@@ -945,3 +945,4 @@ void hinic_free_cmdqs(struct hinic_cmdqs *cmdqs)
 
 	dma_pool_destroy(cmdqs->cmdq_buf_pool);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

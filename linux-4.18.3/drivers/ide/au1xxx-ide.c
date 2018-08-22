@@ -595,3 +595,4 @@ module_platform_driver(au1200_ide_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("AU1200 IDE driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

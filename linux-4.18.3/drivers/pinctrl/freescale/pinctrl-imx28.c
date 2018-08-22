@@ -402,3 +402,4 @@ static int __init imx28_pinctrl_init(void)
 	return platform_driver_register(&imx28_pinctrl_driver);
 }
 postcore_initcall(imx28_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

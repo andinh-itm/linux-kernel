@@ -369,3 +369,4 @@ MODULE_AUTHOR("J Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("TPS65218 voltage regulator driver");
 MODULE_ALIAS("platform:tps65218-pmic");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

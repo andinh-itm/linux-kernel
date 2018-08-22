@@ -440,3 +440,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Haojian Zhuang <haojian.zhuang@marvell.com>");
 MODULE_DESCRIPTION("Regulator Driver for Marvell 88PM8607 PMIC");
 MODULE_ALIAS("platform:88pm8607-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

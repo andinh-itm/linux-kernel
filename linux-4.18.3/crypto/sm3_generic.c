@@ -208,3 +208,4 @@ MODULE_DESCRIPTION("SM3 Secure Hash Algorithm");
 
 MODULE_ALIAS_CRYPTO("sm3");
 MODULE_ALIAS_CRYPTO("sm3-generic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

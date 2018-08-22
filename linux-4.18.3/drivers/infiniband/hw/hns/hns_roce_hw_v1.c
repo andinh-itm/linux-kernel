@@ -4987,3 +4987,4 @@ MODULE_AUTHOR("Wei Hu <xavier.huwei@huawei.com>");
 MODULE_AUTHOR("Nenglong Zhao <zhaonenglong@hisilicon.com>");
 MODULE_AUTHOR("Lijun Ou <oulijun@huawei.com>");
 MODULE_DESCRIPTION("Hisilicon Hip06 Family RoCE Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

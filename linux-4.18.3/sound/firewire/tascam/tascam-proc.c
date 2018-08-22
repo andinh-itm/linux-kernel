@@ -86,3 +86,4 @@ void snd_tscm_proc_init(struct snd_tscm *tscm)
 
 	add_node(tscm, root, "firmware", proc_read_firmware);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

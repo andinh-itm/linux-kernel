@@ -108,3 +108,4 @@ static enum probes_insn __kprobes t16_check_stack(probes_opcode_t insn,
 const struct decode_checker t16_stack_checker[NUM_PROBES_T16_ACTIONS] = {
 	[PROBES_T16_PUSH] = {.checker = t16_check_stack},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

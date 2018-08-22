@@ -73,3 +73,4 @@ int wl18xx_top_reg_read(struct wl1271 *wl, int addr, u16 *out)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -109,3 +109,4 @@ static void __exit kmemleak_test_exit(void)
 module_exit(kmemleak_test_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

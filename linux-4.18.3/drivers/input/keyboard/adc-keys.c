@@ -206,3 +206,4 @@ module_platform_driver(adc_keys_driver);
 MODULE_AUTHOR("Alexandre Belloni <alexandre.belloni@free-electrons.com>");
 MODULE_DESCRIPTION("Input driver for resistor ladder connected on ADC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

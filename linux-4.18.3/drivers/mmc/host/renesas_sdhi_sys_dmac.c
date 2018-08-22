@@ -516,3 +516,4 @@ MODULE_DESCRIPTION("Renesas SDHI driver");
 MODULE_AUTHOR("Magnus Damm");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sh_mobile_sdhi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

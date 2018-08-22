@@ -155,3 +155,4 @@ MODULE_ALIAS("platform:ili9341");
 MODULE_DESCRIPTION("FB driver for the ILI9341 LCD display controller");
 MODULE_AUTHOR("Christian Vogelgsang");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -603,3 +603,4 @@ void omapfb_remove_sysfs(struct omapfb2_device *fbdev)
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

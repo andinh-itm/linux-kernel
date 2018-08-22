@@ -368,3 +368,4 @@ free:
 	kfree(powergates);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

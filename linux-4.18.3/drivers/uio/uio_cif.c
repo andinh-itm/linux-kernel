@@ -138,3 +138,4 @@ module_pci_driver(hilscher_pci_driver);
 MODULE_DEVICE_TABLE(pci, hilscher_pci_ids);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Hans J. Koch, Benedikt Spranger");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

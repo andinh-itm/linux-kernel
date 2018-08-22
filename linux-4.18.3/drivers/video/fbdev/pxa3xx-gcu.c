@@ -719,3 +719,4 @@ MODULE_ALIAS_MISCDEV(MISCDEV_MINOR);
 MODULE_AUTHOR("Janine Kropp <nin@directfb.org>, "
 		"Denis Oliver Kropp <dok@directfb.org>, "
 		"Daniel Mack <daniel@caiaq.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

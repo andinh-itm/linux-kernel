@@ -236,3 +236,4 @@ MODULE_DESCRIPTION("Dallas/Maxim DS1390/93/94 SPI RTC driver");
 MODULE_AUTHOR("Mark Jackson <mpfj@mimc.co.uk>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rtc-ds1390");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

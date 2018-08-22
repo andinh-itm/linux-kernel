@@ -796,3 +796,4 @@ void snd_hda_sysfs_clear(struct hda_codec *codec)
 	snd_array_free(&codec->user_pins);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -303,3 +303,4 @@ static int __init ks8695_gpio_debugfs_init(void)
 postcore_initcall(ks8695_gpio_debugfs_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

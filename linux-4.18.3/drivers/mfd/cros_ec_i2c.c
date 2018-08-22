@@ -384,3 +384,4 @@ module_i2c_driver(cros_ec_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("ChromeOS EC multi function device");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

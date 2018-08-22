@@ -95,3 +95,4 @@ void __init ls1x_clk_init(void)
 	clk_hw_register_clkdev(hw, "ls1x-wdt", NULL);
 	clk_hw_register_clkdev(hw, "serial8250", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

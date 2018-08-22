@@ -257,3 +257,4 @@ MODULE_AUTHOR("Pawel Moll <pawel.moll@arm.com>");
 MODULE_DESCRIPTION("Versatile Express hwmon sensors driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:vexpress-hwmon");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

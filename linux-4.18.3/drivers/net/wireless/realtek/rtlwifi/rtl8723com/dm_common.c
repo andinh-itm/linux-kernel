@@ -63,3 +63,4 @@ void rtl8723_dm_init_dynamic_bb_powersaving(struct ieee80211_hw *hw)
 	dm_pstable->initialize = 0;
 }
 EXPORT_SYMBOL_GPL(rtl8723_dm_init_dynamic_bb_powersaving);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -202,3 +202,4 @@ static struct platform_driver intel_crc_pmic_opregion_driver = {
 	},
 };
 builtin_platform_driver(intel_crc_pmic_opregion_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

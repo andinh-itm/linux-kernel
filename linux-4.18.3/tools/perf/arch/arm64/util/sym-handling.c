@@ -20,3 +20,4 @@ bool elf__needs_adjust_symbols(GElf_Ehdr ehdr)
 	       ehdr.e_type == ET_DYN;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

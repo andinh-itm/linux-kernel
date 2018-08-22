@@ -52,3 +52,4 @@ void __init orion5x_init_irq(void)
 	orion_gpio_init(NULL, 0, 32, GPIO_VIRT_BASE, 0,
 			IRQ_ORION5X_GPIO_START, gpio0_irqs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

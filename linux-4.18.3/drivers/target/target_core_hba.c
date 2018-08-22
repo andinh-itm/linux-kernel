@@ -189,3 +189,4 @@ bool target_sense_desc_format(struct se_device *dev)
 {
 	return (dev) ? dev->transport->get_blocks(dev) > U32_MAX : false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

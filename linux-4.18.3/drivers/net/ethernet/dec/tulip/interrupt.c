@@ -812,3 +812,4 @@ irqreturn_t tulip_interrupt(int irq, void *dev_instance)
 
 	return IRQ_HANDLED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

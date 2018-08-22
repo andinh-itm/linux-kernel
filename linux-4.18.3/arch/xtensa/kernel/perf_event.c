@@ -444,3 +444,4 @@ static int __init xtensa_pmu_init(void)
 	return ret;
 }
 early_initcall(xtensa_pmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

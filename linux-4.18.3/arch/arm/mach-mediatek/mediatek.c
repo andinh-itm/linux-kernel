@@ -60,3 +60,4 @@ DT_MACHINE_START(MEDIATEK_DT, "Mediatek Cortex-A7 (Device Tree)")
 	.dt_compat	= mediatek_board_dt_compat,
 	.init_time	= mediatek_timer_init,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -201,3 +201,4 @@ void post_write_mst_fixup(NTFS_RECORD *b)
 		data_pos += NTFS_BLOCK_SIZE/sizeof(le16);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

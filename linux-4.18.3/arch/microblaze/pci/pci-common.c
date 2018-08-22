@@ -1139,3 +1139,4 @@ int early_find_capability(struct pci_controller *hose, int bus, int devfn,
 	return pci_bus_find_capability(fake_pci_bus(hose, bus), devfn, cap);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

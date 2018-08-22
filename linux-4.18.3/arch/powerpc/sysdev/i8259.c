@@ -284,3 +284,4 @@ void i8259_init(struct device_node *node, unsigned long intack_addr)
 
 	printk(KERN_INFO "i8259 legacy interrupt controller initialized\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

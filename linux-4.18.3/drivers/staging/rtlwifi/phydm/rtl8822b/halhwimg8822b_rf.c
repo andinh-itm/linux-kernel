@@ -4728,3 +4728,4 @@ void odm_read_and_config_mp_8822b_txpwr_lmt_type5(struct phy_dm_struct *dm)
 					      rate, rf_path, chnl, val);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

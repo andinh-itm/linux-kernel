@@ -206,3 +206,4 @@ void ieee80211_report_wowlan_wakeup(struct ieee80211_vif *vif,
 	cfg80211_report_wowlan_wakeup(&sdata->wdev, wakeup, gfp);
 }
 EXPORT_SYMBOL(ieee80211_report_wowlan_wakeup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

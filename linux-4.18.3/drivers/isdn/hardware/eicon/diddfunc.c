@@ -113,3 +113,4 @@ void __exit diddfunc_finit(void)
 	disconnect_didd();
 	diva_didd_load_time_finit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

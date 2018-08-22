@@ -922,3 +922,4 @@ void __init omap1_clk_late_init(void)
 	omap1_show_rates();
 	loops_per_jiffy = cpufreq_scale(loops_per_jiffy, rate, ck_dpll1.rate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

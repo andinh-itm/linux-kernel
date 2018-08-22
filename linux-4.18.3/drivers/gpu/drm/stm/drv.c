@@ -198,3 +198,4 @@ MODULE_AUTHOR("Fabien Dessenne <fabien.dessenne@st.com>");
 MODULE_AUTHOR("Mickael Reulier <mickael.reulier@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics ST DRM LTDC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

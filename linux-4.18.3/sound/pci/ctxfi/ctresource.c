@@ -292,3 +292,4 @@ int rsc_mgr_uninit(struct rsc_mgr *mgr)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -503,3 +503,4 @@ error:
 	clear_bit(AFS_VNODE_DIR_VALID, &vnode->flags);
 	goto out_unmap;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

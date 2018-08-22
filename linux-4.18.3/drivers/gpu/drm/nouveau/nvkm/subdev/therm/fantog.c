@@ -114,3 +114,4 @@ nvkm_fantog_create(struct nvkm_therm *therm, struct dcb_gpio_func *func)
 	spin_lock_init(&fan->lock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

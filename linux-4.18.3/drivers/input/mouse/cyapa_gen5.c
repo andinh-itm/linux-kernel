@@ -2906,3 +2906,4 @@ const struct cyapa_dev_ops cyapa_gen5_ops = {
 
 	.set_proximity = cyapa_pip_set_proximity,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

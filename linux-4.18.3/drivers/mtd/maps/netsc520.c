@@ -138,3 +138,4 @@ module_exit(cleanup_netsc520);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mark Langsdorf <mark.langsdorf@amd.com>");
 MODULE_DESCRIPTION("MTD map driver for AMD NetSc520 Demonstration Board");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

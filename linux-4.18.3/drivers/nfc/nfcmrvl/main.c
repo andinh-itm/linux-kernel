@@ -285,3 +285,4 @@ EXPORT_SYMBOL_GPL(nfcmrvl_parse_dt);
 MODULE_AUTHOR("Marvell International Ltd.");
 MODULE_DESCRIPTION("Marvell NFC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

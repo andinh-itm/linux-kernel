@@ -377,3 +377,4 @@ do {									\
 	return 0;
 }
 arch_initcall(debugfs_fpuemu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -320,3 +320,4 @@ struct pci_ops bridge_pci_ops = {
 	.read	= pci_read_config,
 	.write	= pci_write_config,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

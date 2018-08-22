@@ -889,3 +889,4 @@ xfs_nondir_get_ops(
 		return &xfs_dir3_nondir_ops;
 	return &xfs_dir2_nondir_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

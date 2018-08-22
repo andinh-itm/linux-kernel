@@ -80,3 +80,4 @@ nv40_mpeg_new(struct nvkm_device *device, int index, struct nvkm_engine **pmpeg)
 {
 	return nv31_mpeg_new_(&nv40_mpeg, device, index, pmpeg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -627,3 +627,4 @@ module_platform_driver(qcom_smsm_driver);
 
 MODULE_DESCRIPTION("Qualcomm Shared Memory State Machine driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

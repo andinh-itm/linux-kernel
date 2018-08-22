@@ -590,3 +590,4 @@ void nv17_ctv_update_rescaler(struct drm_encoder *encoder)
 		      regs->fp_vert_regs[FP_VALID_END]);
 	NVWriteRAMDAC(dev, head, NV_PRAMDAC_FP_DEBUG_1, regs->fp_debug_1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

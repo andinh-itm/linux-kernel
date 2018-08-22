@@ -366,3 +366,4 @@ void alloc_intr_gate(unsigned int n, const void *addr)
 	if (!test_and_set_bit(n, system_vectors))
 		set_intr_gate(n, addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

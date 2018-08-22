@@ -253,3 +253,4 @@ int cmdline_parts_set(struct cmdline_parts *parts, sector_t disk_size,
 	return slot;
 }
 EXPORT_SYMBOL(cmdline_parts_set);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

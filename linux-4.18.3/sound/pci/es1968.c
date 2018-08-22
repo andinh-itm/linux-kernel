@@ -2932,3 +2932,4 @@ static struct pci_driver es1968_driver = {
 };
 
 module_pci_driver(es1968_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

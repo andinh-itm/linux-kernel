@@ -152,3 +152,4 @@ static struct pci_driver ce4100_i2c_driver = {
 	.probe          = ce4100_i2c_probe,
 };
 builtin_pci_driver(ce4100_i2c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

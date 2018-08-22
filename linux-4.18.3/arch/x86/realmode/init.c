@@ -160,3 +160,4 @@ static int __init init_real_mode(void)
 	return 0;
 }
 early_initcall(init_real_mode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

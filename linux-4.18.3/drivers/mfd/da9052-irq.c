@@ -288,3 +288,4 @@ int da9052_irq_exit(struct da9052 *da9052)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

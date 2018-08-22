@@ -160,3 +160,4 @@ int atm_get_addr(struct atm_dev *dev, struct sockaddr_atmsvc __user * buf,
 	kfree(tmp_buf);
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -288,3 +288,4 @@ int generic_ide_ioctl(ide_drive_t *drive, struct block_device *bdev,
 	}
 }
 EXPORT_SYMBOL(generic_ide_ioctl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

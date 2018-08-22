@@ -113,3 +113,4 @@ int __init omap_init_fb(void)
 #else
 int __init omap_init_fb(void) { return 0; }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

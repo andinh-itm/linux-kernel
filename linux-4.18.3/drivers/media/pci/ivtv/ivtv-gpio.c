@@ -365,3 +365,4 @@ int ivtv_gpio_init(struct ivtv *itv)
 	v4l2_ctrl_handler_setup(&itv->hdl_gpio);
 	return v4l2_device_register_subdev(&itv->v4l2_dev, &itv->sd_gpio);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

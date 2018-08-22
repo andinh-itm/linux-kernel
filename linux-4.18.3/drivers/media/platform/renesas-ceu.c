@@ -1686,3 +1686,4 @@ module_platform_driver(ceu_driver);
 MODULE_DESCRIPTION("Renesas CEU camera driver");
 MODULE_AUTHOR("Jacopo Mondi <jacopo+renesas@jmondi.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

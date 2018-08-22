@@ -57,3 +57,4 @@ static struct hid_driver nti_driver = {
 module_hid_driver(nti_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

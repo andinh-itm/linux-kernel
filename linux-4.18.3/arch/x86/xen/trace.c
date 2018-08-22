@@ -19,3 +19,4 @@ static const char *xen_hypercall_name(unsigned op)
 
 #define CREATE_TRACE_POINTS
 #include <trace/events/xen.h>
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

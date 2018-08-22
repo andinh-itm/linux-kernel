@@ -243,3 +243,4 @@ static void __init mx31_clocks_init_dt(struct device_node *np)
 }
 
 CLK_OF_DECLARE(imx31_ccm, "fsl,imx31-ccm", mx31_clocks_init_dt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

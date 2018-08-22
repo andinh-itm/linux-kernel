@@ -404,3 +404,4 @@ module_platform_driver(da9150_gpadc_driver);
 MODULE_DESCRIPTION("GPADC Driver for DA9150");
 MODULE_AUTHOR("Adam Thomson <Adam.Thomson.Opensource@diasemi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

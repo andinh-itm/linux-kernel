@@ -398,3 +398,4 @@ static int __init palm_bk3710_init(void)
 
 module_init(palm_bk3710_init);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

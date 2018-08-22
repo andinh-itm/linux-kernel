@@ -2320,3 +2320,4 @@ module_exit(gcc_msm8994_exit);
 MODULE_DESCRIPTION("Qualcomm GCC MSM8994 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-msm8994");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

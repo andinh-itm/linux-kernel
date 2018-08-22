@@ -586,3 +586,4 @@ struct rtl8xxxu_fileops rtl8192cu_fops = {
 	.page_num_norm = TX_PAGE_NUM_NORM_PQ,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

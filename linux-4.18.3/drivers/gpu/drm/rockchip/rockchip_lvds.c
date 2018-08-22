@@ -585,3 +585,4 @@ struct platform_driver rockchip_lvds_driver = {
 		   .of_match_table = of_match_ptr(rockchip_lvds_dt_ids),
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

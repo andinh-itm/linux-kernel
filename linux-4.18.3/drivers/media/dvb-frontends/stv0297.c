@@ -723,3 +723,4 @@ MODULE_AUTHOR("Dennis Noermann and Andrew de Quincey");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(stv0297_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

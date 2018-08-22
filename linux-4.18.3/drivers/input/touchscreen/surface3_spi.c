@@ -425,3 +425,4 @@ module_spi_driver(surface3_spi_driver);
 MODULE_AUTHOR("Benjamin Tissoires <benjamin.tissoires@gmail.com>");
 MODULE_DESCRIPTION("Surface 3 SPI touchscreen driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

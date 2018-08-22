@@ -577,3 +577,4 @@ static struct hid_driver apple_driver = {
 module_hid_driver(apple_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

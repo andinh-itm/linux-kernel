@@ -527,3 +527,4 @@ int tpm2_commit_space(struct tpm_chip *chip, struct tpm_space *space,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -248,3 +248,4 @@ MODULE_AUTHOR("Michael Stickel, Florian Fainelli");
 MODULE_DESCRIPTION("Driver for the MTX-1 watchdog");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mtx1-wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -46,3 +46,4 @@ void __init sdk7786_init_irq(void)
 	plat_irq_setup_pins(IRQ_MODE_IRL7654_MASK);
 	plat_irq_setup_pins(IRQ_MODE_IRL3210_MASK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

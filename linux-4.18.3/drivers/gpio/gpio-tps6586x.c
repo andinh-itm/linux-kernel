@@ -139,3 +139,4 @@ static int __init tps6586x_gpio_init(void)
 	return platform_driver_register(&tps6586x_gpio_driver);
 }
 subsys_initcall(tps6586x_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -961,3 +961,4 @@ MODULE_DESCRIPTION("Freescale Soc SAI Interface");
 MODULE_AUTHOR("Xiubo Li, <Li.Xiubo@freescale.com>");
 MODULE_ALIAS("platform:fsl-sai");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

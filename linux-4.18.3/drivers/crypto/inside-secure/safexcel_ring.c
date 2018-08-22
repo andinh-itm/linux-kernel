@@ -155,3 +155,4 @@ struct safexcel_result_desc *safexcel_add_rdesc(struct safexcel_crypto_priv *pri
 
 	return rdesc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -343,3 +343,4 @@ int notify_change(struct dentry * dentry, struct iattr * attr, struct inode **de
 	return error;
 }
 EXPORT_SYMBOL(notify_change);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -472,3 +472,4 @@ MODULE_PARM_DESC(panel, "size of attached flat panel (<x>x<y>)");
 
 MODULE_DESCRIPTION("framebuffer driver for the AMD Geode GX1");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

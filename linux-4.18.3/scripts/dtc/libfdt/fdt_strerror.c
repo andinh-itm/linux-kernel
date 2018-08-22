@@ -100,3 +100,4 @@ const char *fdt_strerror(int errval)
 
 	return "<unknown error>";
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

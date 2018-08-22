@@ -457,3 +457,4 @@ const char *scsi_mlreturn_string(int result)
 	return NULL;
 }
 EXPORT_SYMBOL(scsi_mlreturn_string);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

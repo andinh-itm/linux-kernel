@@ -27,3 +27,4 @@ struct task_struct *__curr(void)
 
 	return &current_obj;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -312,3 +312,4 @@ MIPS_MACHINE(ATH79_MACH_GENERIC_OF,
 	     "DTB",
 	     "Generic AR71XX/AR724X/AR913X based board (DT)",
 	     NULL);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

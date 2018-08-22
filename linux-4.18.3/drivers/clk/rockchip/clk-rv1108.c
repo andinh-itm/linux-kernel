@@ -829,3 +829,4 @@ static void __init rv1108_clk_init(struct device_node *np)
 	rockchip_clk_of_add_provider(np, ctx);
 }
 CLK_OF_DECLARE(rv1108_cru, "rockchip,rv1108-cru", rv1108_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -113,3 +113,4 @@ struct clk *mxs_clk_pll(const char *name, const char *parent_name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

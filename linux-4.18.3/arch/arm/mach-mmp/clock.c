@@ -106,3 +106,4 @@ int clk_set_rate(struct clk *clk, unsigned long rate)
 	return ret;
 }
 EXPORT_SYMBOL(clk_set_rate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

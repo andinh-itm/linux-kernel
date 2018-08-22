@@ -4189,3 +4189,4 @@ static void ata_eh_handle_port_resume(struct ata_port *ap)
 	spin_unlock_irqrestore(ap->lock, flags);
 }
 #endif /* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

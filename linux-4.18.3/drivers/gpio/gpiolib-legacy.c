@@ -110,3 +110,4 @@ void gpio_free_array(const struct gpio *array, size_t num)
 		gpio_free((array++)->gpio);
 }
 EXPORT_SYMBOL_GPL(gpio_free_array);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

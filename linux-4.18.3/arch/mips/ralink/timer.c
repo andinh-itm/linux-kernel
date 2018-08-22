@@ -154,3 +154,4 @@ static struct platform_driver rt_timer_driver = {
 	},
 };
 builtin_platform_driver(rt_timer_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

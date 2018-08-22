@@ -46,3 +46,4 @@ struct platform_device *__init imx_add_flexcan(
 	return imx_add_platform_device("flexcan", data->id,
 			res, ARRAY_SIZE(res), NULL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

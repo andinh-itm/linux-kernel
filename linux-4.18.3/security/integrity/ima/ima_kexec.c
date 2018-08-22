@@ -168,3 +168,4 @@ void ima_load_kexec_buffer(void)
 		pr_debug("Error restoring the measurement list: %d\n", rc);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

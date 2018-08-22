@@ -158,3 +158,4 @@ struct i2c_engine *dal_i2c_sw_engine_dce110_create(
 	construct(engine_dce110, arg);
 	return &engine_dce110->base.base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

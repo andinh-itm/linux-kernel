@@ -1337,3 +1337,4 @@ module_init(ipmi_wdog_init);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Corey Minyard <minyard@mvista.com>");
 MODULE_DESCRIPTION("watchdog timer based upon the IPMI interface.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

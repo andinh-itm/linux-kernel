@@ -303,3 +303,4 @@ module_platform_driver(ir_rx51_platform_driver);
 MODULE_DESCRIPTION("IR TX driver for Nokia RX51");
 MODULE_AUTHOR("Nokia Corporation");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

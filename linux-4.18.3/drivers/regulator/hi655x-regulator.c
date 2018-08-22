@@ -232,3 +232,4 @@ module_platform_driver(hi655x_regulator_driver);
 MODULE_AUTHOR("Chen Feng <puck.chen@hisilicon.com>");
 MODULE_DESCRIPTION("Hisilicon Hi655x regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -413,3 +413,4 @@ module_exit(sq_api_exit);
 MODULE_AUTHOR("Paul Mundt <lethal@linux-sh.org>, M. R. Brown <mrbrown@0xd6.org>");
 MODULE_DESCRIPTION("Simple API for SH-4 integrated Store Queues");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

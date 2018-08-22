@@ -45,3 +45,4 @@ struct key *request_trusted_key(const char *trusted_desc,
 error:
 	return tkey;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

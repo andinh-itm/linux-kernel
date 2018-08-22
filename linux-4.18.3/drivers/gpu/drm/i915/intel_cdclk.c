@@ -2801,3 +2801,4 @@ void intel_init_cdclk_hooks(struct drm_i915_private *dev_priv)
 		dev_priv->display.get_cdclk = fixed_133mhz_get_cdclk;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -120,3 +120,4 @@ void vdec_if_deinit(struct mtk_vcodec_ctx *ctx)
 
 	ctx->drv_handle = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

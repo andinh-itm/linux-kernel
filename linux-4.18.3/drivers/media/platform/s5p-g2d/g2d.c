@@ -793,3 +793,4 @@ module_platform_driver(g2d_pdrv);
 MODULE_AUTHOR("Kamil Debski <k.debski@samsung.com>");
 MODULE_DESCRIPTION("S5P G2D 2d graphics accelerator driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

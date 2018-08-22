@@ -42,3 +42,4 @@ static int __init dec_add_devices(void)
 }
 
 device_initcall(dec_add_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

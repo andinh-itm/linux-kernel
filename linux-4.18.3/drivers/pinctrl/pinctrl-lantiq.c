@@ -345,3 +345,4 @@ int ltq_pinctrl_register(struct platform_device *pdev,
 	platform_set_drvdata(pdev, info);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

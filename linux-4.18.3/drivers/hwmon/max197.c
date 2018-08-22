@@ -344,3 +344,4 @@ module_platform_driver(max197_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Savoir-faire Linux Inc. <kernel@savoirfairelinux.com>");
 MODULE_DESCRIPTION("Maxim MAX197 A/D Converter driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

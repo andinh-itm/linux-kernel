@@ -49,3 +49,4 @@ module_i2c_driver(cs42l51_i2c_driver);
 MODULE_DESCRIPTION("ASoC CS42L51 I2C Driver");
 MODULE_AUTHOR("Brian Austin, Cirrus Logic Inc, <brian.austin@cirrus.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -119,3 +119,4 @@ module_platform_driver(sun6i_drc_platform_driver);
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
 MODULE_DESCRIPTION("Allwinner A31 Dynamic Range Control (DRC) Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

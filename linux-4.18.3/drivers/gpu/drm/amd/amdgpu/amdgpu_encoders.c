@@ -243,3 +243,4 @@ bool amdgpu_dig_monitor_is_duallink(struct drm_encoder *encoder,
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -575,3 +575,4 @@ static int __init init_menu(void)
 }
 
 postcore_initcall(init_menu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

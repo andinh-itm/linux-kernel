@@ -542,3 +542,4 @@ MODULE_DESCRIPTION("DVB Frontend module for Sharp S921 hardware");
 MODULE_AUTHOR("Mauro Carvalho Chehab");
 MODULE_AUTHOR("Douglas Landgraf <dougsland@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

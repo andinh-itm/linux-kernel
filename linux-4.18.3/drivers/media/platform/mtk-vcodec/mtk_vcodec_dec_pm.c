@@ -200,3 +200,4 @@ void mtk_vcodec_dec_clock_off(struct mtk_vcodec_pm *pm)
 	clk_disable_unprepare(pm->vencpll);
 	clk_disable_unprepare(pm->vcodecpll);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -123,3 +123,4 @@ void mips_cpc_unlock_other(void)
 			       per_cpu(cpc_core_lock_flags, curr_core));
 	preempt_enable();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -118,3 +118,4 @@ free_mux:
 }
 CLK_OF_DECLARE(sun7i_a20_gmac, "allwinner,sun7i-a20-gmac-clk",
 		sun7i_a20_gmac_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

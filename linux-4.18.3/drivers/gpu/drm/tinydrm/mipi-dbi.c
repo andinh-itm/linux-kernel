@@ -1069,3 +1069,4 @@ EXPORT_SYMBOL(mipi_dbi_debugfs_init);
 #endif
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

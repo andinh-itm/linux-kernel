@@ -408,3 +408,4 @@ void __init udbg_init_debug_opal_hvsi(void)
 	hvsilib_establish(&hvc_opal_boot_priv.hvsi);
 }
 #endif /* CONFIG_PPC_EARLY_DEBUG_OPAL_HVSI */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

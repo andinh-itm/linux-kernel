@@ -128,3 +128,4 @@ asm(
 	".word 12b,13b\n"
 	".previous\n");
 EXPORT_SYMBOL(raw_copy_to_user);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

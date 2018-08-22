@@ -11,3 +11,4 @@ void syscall_defines(void)
 	SYSNR(__NR_read);
 	SYSNR(__NR_mmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

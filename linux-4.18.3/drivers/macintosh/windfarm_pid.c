@@ -147,3 +147,4 @@ EXPORT_SYMBOL_GPL(wf_cpu_pid_run);
 MODULE_AUTHOR("Benjamin Herrenschmidt <benh@kernel.crashing.org>");
 MODULE_DESCRIPTION("PID algorithm for PowerMacs thermal control");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

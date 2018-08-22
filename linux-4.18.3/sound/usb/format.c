@@ -583,3 +583,4 @@ int snd_usb_parse_audio_format_v3(struct snd_usb_audio *chip,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

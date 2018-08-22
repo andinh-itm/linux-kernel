@@ -237,3 +237,4 @@ const struct ndisc_ops lowpan_ndisc_ops = {
 	.prefix_rcv_add_addr	= lowpan_ndisc_prefix_rcv_add_addr,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

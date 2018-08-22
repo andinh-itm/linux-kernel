@@ -56,3 +56,4 @@ module_i2c_driver(ssm2602_i2c_driver);
 MODULE_DESCRIPTION("ASoC SSM2602/SSM2603/SSM2604 I2C driver");
 MODULE_AUTHOR("Cliff Cai");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

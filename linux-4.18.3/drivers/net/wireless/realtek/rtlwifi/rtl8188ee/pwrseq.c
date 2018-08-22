@@ -103,3 +103,4 @@ struct wlan_pwr_cfg rtl8188ee_leave_lps_flow[RTL8188EE_TRANS_LPS_TO_ACT_STEPS
 	RTL8188EE_TRANS_LPS_TO_ACT
 	RTL8188EE_TRANS_END
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

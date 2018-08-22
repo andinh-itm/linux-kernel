@@ -897,3 +897,4 @@ module_platform_driver(fsl_re_driver);
 MODULE_AUTHOR("Harninder Rai <harninder.rai@freescale.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Freescale RAID Engine Device Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

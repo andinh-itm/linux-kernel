@@ -403,3 +403,4 @@ const struct export_operations ntfs_export_ops = {
 	.fh_to_dentry	= ntfs_fh_to_dentry,
 	.fh_to_parent	= ntfs_fh_to_parent,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

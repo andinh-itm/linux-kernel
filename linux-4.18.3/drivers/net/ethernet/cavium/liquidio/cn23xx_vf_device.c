@@ -709,3 +709,4 @@ void cn23xx_dump_vf_iq_regs(struct octeon_device *oct)
 	dev_dbg(&oct->pci_dev->dev, "Config DevCtl [0x%x]: 0x%08x\n",
 		CN23XX_CONFIG_PCIE_DEVCTL, regval);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

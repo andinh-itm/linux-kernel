@@ -1081,3 +1081,4 @@ void __init print_parisc_devices(void)
 		qemu_footer();
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

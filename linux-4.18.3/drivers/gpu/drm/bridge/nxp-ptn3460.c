@@ -373,3 +373,4 @@ module_i2c_driver(ptn3460_driver);
 MODULE_AUTHOR("Sean Paul <seanpaul@chromium.org>");
 MODULE_DESCRIPTION("NXP ptn3460 eDP-LVDS converter driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

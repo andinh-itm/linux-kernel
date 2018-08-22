@@ -389,3 +389,4 @@ ahc_aic7770_setup(struct ahc_softc *ahc)
 	ahc->instruction_ram_size = 448;
 	return (0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

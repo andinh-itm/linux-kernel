@@ -345,3 +345,4 @@ struct clk *clk_reg_prcmu_opp_volt_scalable(const char *name,
 	return clk_reg_prcmu(name, parent_name, cg_sel, rate, flags,
 			&clk_prcmu_opp_volt_scalable_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

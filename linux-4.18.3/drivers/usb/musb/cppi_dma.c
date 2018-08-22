@@ -1545,3 +1545,4 @@ static int cppi_channel_abort(struct dma_channel *channel)
  * Power Management ... probably turn off cppi during suspend, restart;
  * check state ram?  Clocking is presumably shared with usb core.
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

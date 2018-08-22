@@ -136,3 +136,4 @@ module_platform_driver(a10sr_reset_driver);
 MODULE_AUTHOR("Thor Thayer <thor.thayer@linux.intel.com>");
 MODULE_DESCRIPTION("Altera Arria10 System Resource Reset Controller Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

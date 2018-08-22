@@ -1259,3 +1259,4 @@ void __exit fimc_unregister_driver(void)
 {
 	platform_driver_unregister(&fimc_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

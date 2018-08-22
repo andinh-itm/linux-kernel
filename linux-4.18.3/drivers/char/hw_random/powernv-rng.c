@@ -79,3 +79,4 @@ module_platform_driver(powernv_rng_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Bare metal HWRNG driver for POWER7+ and above");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

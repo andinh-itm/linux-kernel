@@ -139,3 +139,4 @@ MODULE_DESCRIPTION("EP93xx Backlight Driver");
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ep93xx-bl");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

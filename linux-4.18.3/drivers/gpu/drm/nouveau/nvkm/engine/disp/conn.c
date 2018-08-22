@@ -130,3 +130,4 @@ nvkm_conn_new(struct nvkm_disp *disp, int index, struct nvbios_connE *info,
 	nvkm_conn_ctor(disp, index, info, *pconn);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

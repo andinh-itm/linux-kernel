@@ -391,3 +391,4 @@ amdgpu_i2c_router_select_cd_port(const struct amdgpu_connector *amdgpu_connector
 			    amdgpu_connector->router.i2c_addr,
 			    0x1, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

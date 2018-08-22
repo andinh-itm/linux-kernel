@@ -65,3 +65,4 @@ void s3c_camif_gpio_put(void)
 			gpio_free(gpio);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

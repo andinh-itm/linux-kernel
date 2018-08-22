@@ -3179,3 +3179,4 @@ MODULE_FIRMWARE("pca200e_ecd.bin2");
 #ifdef CONFIG_SBUS
 MODULE_FIRMWARE("sba200e_ecd.bin2");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

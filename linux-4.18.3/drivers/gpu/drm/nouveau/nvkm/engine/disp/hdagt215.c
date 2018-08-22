@@ -49,3 +49,4 @@ gt215_hda_hpd(struct nvkm_ior *ior, int head, bool present)
 		mask |= 0x00000002;
 	nvkm_mask(device, 0x61c448 + ior->id * 0x800, mask, data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

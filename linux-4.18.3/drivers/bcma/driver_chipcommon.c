@@ -419,3 +419,4 @@ void bcma_chipco_serial_init(struct bcma_drv_cc *cc)
 	}
 }
 #endif /* CONFIG_BCMA_DRIVER_MIPS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

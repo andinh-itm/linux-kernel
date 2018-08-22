@@ -1087,3 +1087,4 @@ xfs_trans_roll(
 	tres.tr_logflags = XFS_TRANS_PERM_LOG_RES;
 	return xfs_trans_reserve(*tpp, &tres, 0, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

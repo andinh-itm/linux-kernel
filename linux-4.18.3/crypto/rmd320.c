@@ -394,3 +394,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Adrian-Ken Rueegsegger <ken@codelabs.ch>");
 MODULE_DESCRIPTION("RIPEMD-320 Message Digest");
 MODULE_ALIAS_CRYPTO("rmd320");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

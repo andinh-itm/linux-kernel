@@ -2225,3 +2225,4 @@ void symbol__elf_init(void)
 {
 	elf_version(EV_CURRENT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

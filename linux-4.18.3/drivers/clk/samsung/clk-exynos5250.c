@@ -891,3 +891,4 @@ static void __init exynos5250_clk_init(struct device_node *np)
 			_get_rate("div_arm2"));
 }
 CLK_OF_DECLARE_DRIVER(exynos5250_clk, "samsung,exynos5250-clock", exynos5250_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

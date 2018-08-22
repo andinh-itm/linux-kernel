@@ -189,3 +189,4 @@ EXPORT_SYMBOL(touchscreen_report_pos);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Device-tree helpers functions for touchscreen devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -587,3 +587,4 @@ void bdc_udc_exit(struct bdc *bdc)
 	usb_del_gadget_udc(&bdc->gadget);
 	bdc_free_ep(bdc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

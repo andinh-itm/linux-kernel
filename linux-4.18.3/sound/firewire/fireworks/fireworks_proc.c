@@ -230,3 +230,4 @@ void snd_efw_proc_init(struct snd_efw *efw)
 	add_node(efw, root, "meters", proc_read_phys_meters);
 	add_node(efw, root, "queues", proc_read_queues_state);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -333,3 +333,4 @@ dnode_secno hpfs_fnode_dno(struct super_block *s, ino_t ino)
 	brelse(bh);
 	return dno;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

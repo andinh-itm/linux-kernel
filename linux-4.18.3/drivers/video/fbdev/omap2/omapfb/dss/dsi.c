@@ -5593,3 +5593,4 @@ void dsi_uninit_platform_driver(void)
 {
 	platform_driver_unregister(&omap_dsihw_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

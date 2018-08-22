@@ -385,3 +385,4 @@ static struct i2c_driver ths7303_driver = {
 };
 
 module_i2c_driver(ths7303_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

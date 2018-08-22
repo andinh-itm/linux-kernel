@@ -3113,3 +3113,4 @@ int cx231xx_gpio_i2c_write(struct cx231xx *dev, u8 dev_addr, u8 *buf, u8 len)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

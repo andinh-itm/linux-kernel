@@ -245,3 +245,4 @@ void hns_roce_cleanup_bitmap(struct hns_roce_dev *hr_dev)
 	hns_roce_cleanup_pd_table(hr_dev);
 	hns_roce_cleanup_uar_table(hr_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

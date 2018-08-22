@@ -252,3 +252,4 @@ void ci_hdrc_otg_destroy(struct ci_hdrc *ci)
 	if (ci_otg_is_fsm_mode(ci))
 		ci_hdrc_otg_fsm_remove(ci);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

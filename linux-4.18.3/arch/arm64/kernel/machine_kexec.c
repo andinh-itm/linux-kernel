@@ -362,3 +362,4 @@ void arch_crash_save_vmcoreinfo(void)
 	vmcoreinfo_append_str("NUMBER(PHYS_OFFSET)=0x%llx\n",
 						PHYS_OFFSET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

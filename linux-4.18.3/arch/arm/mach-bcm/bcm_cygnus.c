@@ -23,3 +23,4 @@ DT_MACHINE_START(BCM_CYGNUS_DT, "Broadcom Cygnus SoC")
 	.l2c_aux_mask	= ~0,
 	.dt_compat = bcm_cygnus_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

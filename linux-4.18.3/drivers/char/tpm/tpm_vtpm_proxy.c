@@ -749,3 +749,4 @@ MODULE_AUTHOR("Stefan Berger (stefanb@us.ibm.com)");
 MODULE_DESCRIPTION("vTPM Driver");
 MODULE_VERSION("0.1");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

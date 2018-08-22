@@ -108,3 +108,4 @@ void tomoyo_load_policy(const char *filename)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

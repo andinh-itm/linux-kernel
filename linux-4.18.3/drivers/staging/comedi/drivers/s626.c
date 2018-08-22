@@ -2604,3 +2604,4 @@ module_comedi_pci_driver(s626_driver, s626_pci_driver);
 MODULE_AUTHOR("Gianluca Palli <gpalli@deis.unibo.it>");
 MODULE_DESCRIPTION("Sensoray 626 Comedi driver module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

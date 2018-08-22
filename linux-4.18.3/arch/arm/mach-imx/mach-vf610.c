@@ -26,3 +26,4 @@ DT_MACHINE_START(VYBRID_VF610, "Freescale Vybrid VF5xx/VF6xx (Device Tree)")
 	.l2c_aux_mask	= ~0,
 	.dt_compat	= vf610_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

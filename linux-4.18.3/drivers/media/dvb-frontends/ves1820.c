@@ -447,3 +447,4 @@ MODULE_AUTHOR("Ralph Metzler, Holger Waechtler");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(ves1820_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

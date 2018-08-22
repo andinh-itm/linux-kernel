@@ -1702,3 +1702,4 @@ int qlcnic_82xx_resume(struct qlcnic_adapter *adapter)
 	qlcnic_schedule_work(adapter, qlcnic_fw_poll_work, FW_POLL_DELAY);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

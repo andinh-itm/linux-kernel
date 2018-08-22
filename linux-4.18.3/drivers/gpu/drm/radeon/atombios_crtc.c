@@ -2246,3 +2246,4 @@ void radeon_atombios_init_crtc(struct drm_device *dev,
 	radeon_crtc->connector = NULL;
 	drm_crtc_helper_add(&radeon_crtc->base, &atombios_helper_funcs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

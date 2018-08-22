@@ -2105,3 +2105,4 @@ struct platform_driver hdmi_driver = {
 		.of_match_table = hdmi_match_types,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

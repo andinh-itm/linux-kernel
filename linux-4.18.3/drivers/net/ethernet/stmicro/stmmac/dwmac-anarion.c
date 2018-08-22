@@ -150,3 +150,4 @@ module_platform_driver(anarion_dwmac_driver);
 MODULE_DESCRIPTION("Adaptrum Anarion DWMAC specific glue layer");
 MODULE_AUTHOR("Alexandru Gagniuc <mr.nuke.me@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

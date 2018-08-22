@@ -196,3 +196,4 @@ void snd_bebob_proc_init(struct snd_bebob *bebob)
 	if (bebob->spec->meter != NULL)
 		add_node(bebob, root, "meter", proc_read_meters);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

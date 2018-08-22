@@ -202,3 +202,4 @@ MODULE_DEVICE_TABLE(mdio, aquantia_tbl);
 MODULE_DESCRIPTION("Aquantia PHY driver");
 MODULE_AUTHOR("Shaohui Xie <Shaohui.Xie@freescale.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

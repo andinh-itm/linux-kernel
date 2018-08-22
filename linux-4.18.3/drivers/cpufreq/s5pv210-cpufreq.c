@@ -658,3 +658,4 @@ static struct platform_driver s5pv210_cpufreq_platdrv = {
 	.probe = s5pv210_cpufreq_probe,
 };
 builtin_platform_driver(s5pv210_cpufreq_platdrv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

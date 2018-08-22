@@ -8556,3 +8556,4 @@ void ath10k_mac_unregister(struct ath10k *ar)
 
 	SET_IEEE80211_DEV(ar->hw, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

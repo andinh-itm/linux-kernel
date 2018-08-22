@@ -14072,3 +14072,4 @@ void bnx2x_init_mod_abs_int(struct bnx2x *bp, struct link_vars *vars,
 	val |= 1 << (gpio_num + (gpio_port << 2));
 	REG_WR(bp, MISC_REG_GPIO_EVENT_EN, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

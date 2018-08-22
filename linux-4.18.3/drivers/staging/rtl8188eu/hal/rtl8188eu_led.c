@@ -76,3 +76,4 @@ void rtw_hal_sw_led_deinit(struct adapter *padapter)
 
 	DeInitLed871x(&(ledpriv->SwLed0));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

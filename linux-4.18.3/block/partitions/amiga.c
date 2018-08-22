@@ -140,3 +140,4 @@ int amiga_partition(struct parsed_partitions *state)
 rdb_done:
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

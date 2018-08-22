@@ -1945,3 +1945,4 @@ int fb_new_modelist(struct fb_info *info)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

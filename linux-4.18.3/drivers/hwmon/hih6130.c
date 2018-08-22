@@ -265,3 +265,4 @@ module_i2c_driver(hih6130_driver);
 MODULE_AUTHOR("Iain Paton <ipaton0@gmail.com>");
 MODULE_DESCRIPTION("Honeywell HIH-6130 humidity and temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

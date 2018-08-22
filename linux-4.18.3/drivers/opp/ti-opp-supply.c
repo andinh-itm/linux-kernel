@@ -423,3 +423,4 @@ module_platform_driver(ti_opp_supply_driver);
 MODULE_DESCRIPTION("Texas Instruments OMAP OPP Supply driver");
 MODULE_AUTHOR("Texas Instruments Inc.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

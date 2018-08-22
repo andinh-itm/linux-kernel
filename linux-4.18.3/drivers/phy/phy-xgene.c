@@ -1733,3 +1733,4 @@ MODULE_DESCRIPTION("APM X-Gene Multi-Purpose PHY driver");
 MODULE_AUTHOR("Loc Ho <lho@apm.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION("0.1");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

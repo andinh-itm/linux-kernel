@@ -379,3 +379,4 @@ bg2q_fail:
 }
 CLK_OF_DECLARE(berlin2q_clk, "marvell,berlin2q-clk",
 	       berlin2q_clock_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

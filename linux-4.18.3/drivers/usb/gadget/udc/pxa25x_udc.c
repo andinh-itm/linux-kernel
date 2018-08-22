@@ -2546,3 +2546,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("Frank Becker, Robert Schwebel, David Brownell");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa25x-udc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

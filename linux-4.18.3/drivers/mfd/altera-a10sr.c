@@ -169,3 +169,4 @@ static struct spi_driver altr_a10sr_spi_driver = {
 	},
 };
 builtin_driver(altr_a10sr_spi_driver, spi_register_driver)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

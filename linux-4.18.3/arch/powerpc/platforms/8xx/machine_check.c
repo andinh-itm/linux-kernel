@@ -35,3 +35,4 @@ int machine_check_8xx(struct pt_regs *regs)
 	return 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

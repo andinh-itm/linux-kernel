@@ -22,3 +22,4 @@ DWtype __lshrdi3(DWtype u, word_type b)
 
 	return w.ll;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

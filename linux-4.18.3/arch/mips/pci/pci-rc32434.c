@@ -229,3 +229,4 @@ static int __init rc32434_pci_init(void)
 }
 
 arch_initcall(rc32434_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2526,3 +2526,4 @@ csio_scsim_exit(struct csio_scsim *scm)
 
 	csio_scsi_free_ddp_bufs(scm, scm->hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

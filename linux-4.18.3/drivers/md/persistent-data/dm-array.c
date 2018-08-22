@@ -1004,3 +1004,4 @@ void dm_array_cursor_get_value(struct dm_array_cursor *c, void **value_le)
 EXPORT_SYMBOL_GPL(dm_array_cursor_get_value);
 
 /*----------------------------------------------------------------*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

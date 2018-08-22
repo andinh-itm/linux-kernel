@@ -130,3 +130,4 @@ void __init idprom_init(void)
 
 	pr_info("Ethernet address: %pM\n", idprom->id_ethaddr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

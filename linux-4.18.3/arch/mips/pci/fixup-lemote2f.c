@@ -158,3 +158,4 @@ DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_AMD, PCI_DEVICE_ID_AMD_CS5536_IDE,
 			 loongson_cs5536_ide_fixup);
 DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_NEC, PCI_DEVICE_ID_NEC_USB,
 			 loongson_nec_fixup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

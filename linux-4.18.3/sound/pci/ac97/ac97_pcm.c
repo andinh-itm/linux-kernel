@@ -750,3 +750,4 @@ int snd_ac97_pcm_double_rate_rules(struct snd_pcm_runtime *runtime)
 }
 
 EXPORT_SYMBOL(snd_ac97_pcm_double_rate_rules);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

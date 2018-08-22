@@ -176,3 +176,4 @@ void snd_usb_proc_pcm_format_add(struct snd_usb_stream *stream)
 		snd_info_set_text_ops(entry, stream, proc_pcm_format_read);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -147,3 +147,4 @@ module_pci_driver(dw_pci_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Synopsys DesignWare DMA Controller PCI driver");
 MODULE_AUTHOR("Andy Shevchenko <andriy.shevchenko@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -414,3 +414,4 @@ static int __init armada_370_timer_init(struct device_node *np)
 }
 TIMER_OF_DECLARE(armada_370, "marvell,armada-370-timer",
 		       armada_370_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

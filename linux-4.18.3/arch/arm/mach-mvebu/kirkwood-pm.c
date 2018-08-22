@@ -74,3 +74,4 @@ void __init kirkwood_pm_init(void)
 
 	suspend_set_ops(&kirkwood_suspend_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

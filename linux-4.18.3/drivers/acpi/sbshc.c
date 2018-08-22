@@ -302,3 +302,4 @@ module_acpi_driver(acpi_smb_hc_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexey Starikovskiy");
 MODULE_DESCRIPTION("ACPI SMBus HC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

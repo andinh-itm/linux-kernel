@@ -80,3 +80,4 @@ void brcmf_proto_detach(struct brcmf_pub *drvr)
 		drvr->proto = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

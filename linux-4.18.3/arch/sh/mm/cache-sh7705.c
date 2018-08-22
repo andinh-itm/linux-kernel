@@ -193,3 +193,4 @@ void __init sh7705_cache_init(void)
 	local_flush_cache_page		= sh7705_flush_cache_page;
 	local_flush_icache_page		= sh7705_flush_icache_page;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

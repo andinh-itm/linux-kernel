@@ -1088,3 +1088,4 @@ module_exit(mpc52xx_fec_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dale Farnsworth");
 MODULE_DESCRIPTION("Ethernet driver for the Freescale MPC52xx FEC");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -305,3 +305,4 @@ static struct platform_driver xtsonic_driver = {
 };
 
 module_platform_driver(xtsonic_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

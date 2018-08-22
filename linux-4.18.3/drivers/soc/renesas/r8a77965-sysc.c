@@ -35,3 +35,4 @@ const struct rcar_sysc_info r8a77965_sysc_info __initconst = {
 	.areas = r8a77965_areas,
 	.num_areas = ARRAY_SIZE(r8a77965_areas),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

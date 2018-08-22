@@ -216,3 +216,4 @@ static struct platform_driver ftrtc010_rtc_driver = {
 };
 
 module_platform_driver_probe(ftrtc010_rtc_driver, ftrtc010_rtc_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

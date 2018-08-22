@@ -983,3 +983,4 @@ release_io_netjet(struct IsdnCardState *cs)
 	releasetiger(cs);
 	release_region(cs->hw.njet.base, 256);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

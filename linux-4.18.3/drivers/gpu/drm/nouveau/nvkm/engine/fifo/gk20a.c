@@ -41,3 +41,4 @@ gk20a_fifo_new(struct nvkm_device *device, int index, struct nvkm_fifo **pfifo)
 {
 	return gk104_fifo_new_(&gk20a_fifo, device, index, 128, pfifo);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

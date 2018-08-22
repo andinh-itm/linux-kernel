@@ -342,3 +342,4 @@ MODULE_DESCRIPTION(DRV_NAME);
 MODULE_AUTHOR("Cavium Networks <support@cavium.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(pci, cavium_ptp_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

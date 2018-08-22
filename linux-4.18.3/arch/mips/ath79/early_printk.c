@@ -99,3 +99,4 @@ void prom_putchar(unsigned char ch)
 
 	_prom_putchar(ch);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

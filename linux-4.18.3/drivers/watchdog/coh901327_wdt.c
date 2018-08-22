@@ -423,3 +423,4 @@ MODULE_PARM_DESC(margin, "Watchdog margin in seconds (default 60s)");
 
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:coh901327-watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

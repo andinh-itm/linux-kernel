@@ -321,3 +321,4 @@ int lola_set_sample_rate(struct lola *chip, int rate)
 	return lola_set_clock(chip, i);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

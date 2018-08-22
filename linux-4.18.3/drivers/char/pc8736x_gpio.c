@@ -350,3 +350,4 @@ static void __exit pc8736x_gpio_cleanup(void)
 
 module_init(pc8736x_gpio_init);
 module_exit(pc8736x_gpio_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

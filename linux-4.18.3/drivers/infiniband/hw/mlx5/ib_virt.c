@@ -201,3 +201,4 @@ int mlx5_ib_set_vf_guid(struct ib_device *device, int vf, u8 port,
 
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

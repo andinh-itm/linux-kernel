@@ -375,3 +375,4 @@ void kernel_set_cachemode(void *addr, unsigned long size, int cmode)
 	flush_tlb_all();
 }
 EXPORT_SYMBOL(kernel_set_cachemode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

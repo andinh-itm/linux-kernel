@@ -124,3 +124,4 @@ void go_to_protected_mode(void)
 	protected_mode_jump(boot_params.hdr.code32_start,
 			    (u32)&boot_params + (ds() << 4));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

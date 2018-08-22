@@ -1138,3 +1138,4 @@ module_i2c_driver(mt9t112_i2c_driver);
 MODULE_DESCRIPTION("V4L2 driver for MT9T111/MT9T112 camera sensor");
 MODULE_AUTHOR("Kuninori Morimoto");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

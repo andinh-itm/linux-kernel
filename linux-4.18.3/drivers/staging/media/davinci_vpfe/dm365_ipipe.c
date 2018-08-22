@@ -1852,3 +1852,4 @@ void vpfe_ipipe_cleanup(struct vpfe_ipipe_device *ipipe,
 	if (res)
 		release_mem_region(res->start, resource_size(res));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -88,3 +88,4 @@ struct pnp_dev *pnp_find_dev(struct pnp_card *card, unsigned short vendor,
 
 EXPORT_SYMBOL(pnp_find_card);
 EXPORT_SYMBOL(pnp_find_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

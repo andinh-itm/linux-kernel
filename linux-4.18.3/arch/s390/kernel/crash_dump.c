@@ -619,3 +619,4 @@ ssize_t elfcorehdr_read_notes(char *buf, size_t count, u64 *ppos)
 	*ppos += count;
 	return count;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

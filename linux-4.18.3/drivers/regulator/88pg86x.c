@@ -112,3 +112,4 @@ module_i2c_driver(pg86x_regulator_driver);
 MODULE_DESCRIPTION("Marvell 88PG86X voltage regulator");
 MODULE_AUTHOR("Alexander Monakov <amonakov@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -890,3 +890,4 @@ MODULE_DESCRIPTION("MAX77620/MAX20024 regulator driver");
 MODULE_AUTHOR("Mallikarjun Kasoju <mkasoju@nvidia.com>");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

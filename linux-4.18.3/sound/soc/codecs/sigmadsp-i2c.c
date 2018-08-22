@@ -95,3 +95,4 @@ EXPORT_SYMBOL_GPL(devm_sigmadsp_init_i2c);
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("SigmaDSP I2C firmware loader");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

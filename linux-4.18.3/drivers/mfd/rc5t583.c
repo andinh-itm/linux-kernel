@@ -324,3 +324,4 @@ module_exit(rc5t583_i2c_exit);
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_DESCRIPTION("RICOH RC5T583 power management system device driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

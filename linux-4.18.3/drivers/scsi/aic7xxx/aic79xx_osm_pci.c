@@ -395,3 +395,4 @@ ahd_power_state_change(struct ahd_softc *ahd, ahd_power_state new_state)
 {
 	pci_set_power_state(ahd->dev_softc, new_state);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

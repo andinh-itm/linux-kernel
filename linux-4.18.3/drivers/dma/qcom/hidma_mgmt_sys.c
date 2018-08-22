@@ -291,3 +291,4 @@ int hidma_mgmt_init_sys(struct hidma_mgmt_dev *mdev)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(hidma_mgmt_init_sys);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1110,3 +1110,4 @@ static struct platform_driver meson8_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(meson8_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

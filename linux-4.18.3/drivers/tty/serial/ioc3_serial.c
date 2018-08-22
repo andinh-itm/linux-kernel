@@ -2193,3 +2193,4 @@ module_exit(ioc3uart_exit);
 MODULE_AUTHOR("Pat Gefre - Silicon Graphics Inc. (SGI) <pfg@sgi.com>");
 MODULE_DESCRIPTION("Serial PCI driver module for SGI IOC3 card");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

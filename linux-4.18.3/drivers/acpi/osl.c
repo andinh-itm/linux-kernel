@@ -1825,3 +1825,4 @@ acpi_status acpi_os_enter_sleep(u8 sleep_state,
 					       reg_a_value, reg_b_value);
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

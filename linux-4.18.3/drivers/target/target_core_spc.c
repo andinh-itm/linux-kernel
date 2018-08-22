@@ -1425,3 +1425,4 @@ spc_parse_cdb(struct se_cmd *cmd, unsigned int *size)
 	return 0;
 }
 EXPORT_SYMBOL(spc_parse_cdb);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

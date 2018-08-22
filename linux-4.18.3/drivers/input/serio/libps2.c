@@ -492,3 +492,4 @@ void ps2_cmd_aborted(struct ps2dev *ps2dev)
 	ps2dev->flags &= PS2_FLAG_NAK;
 }
 EXPORT_SYMBOL(ps2_cmd_aborted);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

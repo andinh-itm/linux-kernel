@@ -123,3 +123,4 @@ MODULE_ALIAS("wmi:" WMI_BMOF_GUID);
 MODULE_AUTHOR("Andrew Lutomirski <luto@kernel.org>");
 MODULE_DESCRIPTION("WMI embedded Binary MOF driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

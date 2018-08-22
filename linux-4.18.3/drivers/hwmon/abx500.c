@@ -489,3 +489,4 @@ module_platform_driver(abx500_temp_driver);
 MODULE_AUTHOR("Martin Persson <martin.persson@stericsson.com>");
 MODULE_DESCRIPTION("ABX500 temperature driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -129,3 +129,4 @@ init_arcofi(struct IsdnCardState *cs) {
 	init_waitqueue_head(&cs->dc.isac.arcofi_wait);
 	test_and_set_bit(HW_ARCOFI, &cs->HW_Flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

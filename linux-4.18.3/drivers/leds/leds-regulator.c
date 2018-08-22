@@ -202,3 +202,4 @@ MODULE_AUTHOR("Antonio Ospite <ospite@studenti.unina.it>");
 MODULE_DESCRIPTION("Regulator driven LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:leds-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

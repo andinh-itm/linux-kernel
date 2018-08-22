@@ -2054,3 +2054,4 @@ static struct pcmcia_driver smc91c92_cs_driver = {
 	.resume		= smc91c92_resume,
 };
 module_pcmcia_driver(smc91c92_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

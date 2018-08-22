@@ -1266,3 +1266,4 @@ module_i2c_driver(ov2640_i2c_driver);
 MODULE_DESCRIPTION("Driver for Omni Vision 2640 sensor");
 MODULE_AUTHOR("Alberto Panizzo");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

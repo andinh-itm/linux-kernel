@@ -832,3 +832,4 @@ module_platform_driver(jz4780_i2c_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("ztyan<ztyan@ingenic.cn>");
 MODULE_DESCRIPTION("i2c driver for JZ4780 SoCs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

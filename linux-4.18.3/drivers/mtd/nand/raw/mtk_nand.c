@@ -1589,3 +1589,4 @@ module_platform_driver(mtk_nfc_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Xiaolei Li <xiaolei.li@mediatek.com>");
 MODULE_DESCRIPTION("MTK Nand Flash Controller Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

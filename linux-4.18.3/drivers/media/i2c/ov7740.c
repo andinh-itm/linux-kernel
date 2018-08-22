@@ -1211,3 +1211,4 @@ module_i2c_driver(ov7740_i2c_driver);
 MODULE_DESCRIPTION("The V4L2 driver for Omnivision 7740 sensor");
 MODULE_AUTHOR("Songjun Wu <songjun.wu@atmel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

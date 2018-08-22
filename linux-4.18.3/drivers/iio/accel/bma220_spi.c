@@ -335,3 +335,4 @@ module_spi_driver(bma220_driver);
 MODULE_AUTHOR("Tiberiu Breana <tiberiu.a.breana@intel.com>");
 MODULE_DESCRIPTION("BMA220 acceleration sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1440,3 +1440,4 @@ const struct consw vga_con = {
 EXPORT_SYMBOL(vga_con);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

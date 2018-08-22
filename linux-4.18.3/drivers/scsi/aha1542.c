@@ -1073,3 +1073,4 @@ static void __exit aha1542_exit(void)
 
 module_init(aha1542_init);
 module_exit(aha1542_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

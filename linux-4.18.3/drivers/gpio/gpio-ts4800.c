@@ -81,3 +81,4 @@ module_platform_driver_probe(ts4800_gpio_driver, ts4800_gpio_probe);
 MODULE_AUTHOR("Julien Grossholtz <julien.grossholtz@savoirfairelinux.com>");
 MODULE_DESCRIPTION("TS4800 FPGA GPIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

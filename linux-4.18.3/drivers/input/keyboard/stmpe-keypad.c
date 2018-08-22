@@ -423,3 +423,4 @@ module_platform_driver(stmpe_keypad_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("STMPExxxx keypad driver");
 MODULE_AUTHOR("Rabin Vincent <rabin.vincent@stericsson.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

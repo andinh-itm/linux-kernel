@@ -729,3 +729,4 @@ const struct seq_operations cpuinfo_op =
 };
 
 #endif /* CONFIG_PROC_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

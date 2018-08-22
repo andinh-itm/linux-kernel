@@ -587,3 +587,4 @@ void snd_tea575x_exit(struct snd_tea575x *tea)
 	v4l2_ctrl_handler_free(tea->vd.ctrl_handler);
 }
 EXPORT_SYMBOL(snd_tea575x_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1125,3 +1125,4 @@ module_exit(af_ieee802154_remove);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_NETPROTO(PF_IEEE802154);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

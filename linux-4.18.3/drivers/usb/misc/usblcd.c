@@ -443,3 +443,4 @@ module_usb_driver(lcd_driver);
 MODULE_AUTHOR("Georges Toth <g.toth@e-biz.lu>");
 MODULE_DESCRIPTION(DRIVER_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

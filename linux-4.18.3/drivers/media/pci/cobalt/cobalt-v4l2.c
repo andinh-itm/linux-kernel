@@ -1285,3 +1285,4 @@ void cobalt_nodes_unregister(struct cobalt *cobalt)
 			cobalt_alsa_exit(s);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -8572,3 +8572,4 @@ int qla2xxx_delete_qpair(struct scsi_qla_host *vha, struct qla_qpair *qpair)
 fail:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

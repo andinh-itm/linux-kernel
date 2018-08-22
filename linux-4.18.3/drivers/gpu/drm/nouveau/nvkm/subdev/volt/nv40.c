@@ -42,3 +42,4 @@ nv40_volt_new(struct nvkm_device *device, int index, struct nvkm_volt **pvolt)
 
 	return nvkm_voltgpio_init(volt);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

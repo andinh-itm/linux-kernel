@@ -809,3 +809,4 @@ void __exit libata_transport_exit(void)
 	transport_class_unregister(&ata_port_class);
 	transport_class_unregister(&ata_dev_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

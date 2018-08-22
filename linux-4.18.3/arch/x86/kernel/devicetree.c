@@ -321,3 +321,4 @@ void __init x86_dtb_init(void)
 	dtb_setup_hpet();
 	dtb_apic_setup();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -129,3 +129,4 @@ void __irq_entry indy_8254timer_irq(void)
 	ArcEnterInteractiveMode();
 	irq_exit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

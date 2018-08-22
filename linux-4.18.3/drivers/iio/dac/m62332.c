@@ -269,3 +269,4 @@ module_i2c_driver(m62332_driver);
 MODULE_AUTHOR("Dmitry Eremin-Solenikov");
 MODULE_DESCRIPTION("M62332 8-bit DAC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

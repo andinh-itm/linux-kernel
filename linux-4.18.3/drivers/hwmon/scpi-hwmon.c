@@ -307,3 +307,4 @@ module_platform_driver(scpi_hwmon_platdrv);
 MODULE_AUTHOR("Punit Agrawal <punit.agrawal@arm.com>");
 MODULE_DESCRIPTION("ARM SCPI HWMON interface driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

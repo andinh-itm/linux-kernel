@@ -2542,3 +2542,4 @@ void rtl92se_resume(struct ieee80211_hw *hw)
 		pci_write_config_dword(rtlpci->pdev, 0x40,
 			val & 0xffff00ff);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

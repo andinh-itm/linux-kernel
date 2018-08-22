@@ -1603,3 +1603,4 @@ ath5k_hw_write_initvals(struct ath5k_hw *ah, u8 mode, bool skip_pcu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

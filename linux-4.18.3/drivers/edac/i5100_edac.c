@@ -1240,3 +1240,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR
     ("Arthur Jones <ajones@riverbed.com>");
 MODULE_DESCRIPTION("MC Driver for Intel I5100 memory controllers");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

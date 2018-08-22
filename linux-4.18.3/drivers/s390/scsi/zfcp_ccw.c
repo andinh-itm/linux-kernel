@@ -339,3 +339,4 @@ struct ccw_driver zfcp_ccw_driver = {
 	.thaw	     = zfcp_ccw_thaw,
 	.restore     = zfcp_ccw_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

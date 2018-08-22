@@ -494,3 +494,4 @@ void tpm_chip_unregister(struct tpm_chip *chip)
 	tpm_del_char_device(chip);
 }
 EXPORT_SYMBOL_GPL(tpm_chip_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

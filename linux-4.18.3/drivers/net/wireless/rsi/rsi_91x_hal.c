@@ -1014,3 +1014,4 @@ int rsi_hal_device_init(struct rsi_hw *adapter)
 }
 EXPORT_SYMBOL_GPL(rsi_hal_device_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

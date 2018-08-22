@@ -369,3 +369,4 @@ struct csio_hw_chip_ops t5_ops = {
 	.chip_memory_rw			= csio_t5_memory_rw,
 	.chip_dfs_create_ext_mem	= csio_t5_dfs_create_ext_mem,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

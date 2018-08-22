@@ -2049,3 +2049,4 @@ void hfi1_cnp_rcv(struct hfi1_packet *packet)
 
 	process_becn(ppd, sl, rlid, lqpn, rqpn, svc_type);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

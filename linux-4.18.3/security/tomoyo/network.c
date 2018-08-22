@@ -771,3 +771,4 @@ int tomoyo_socket_sendmsg_permission(struct socket *sock, struct msghdr *msg,
 					 msg->msg_namelen,
 					 sock->sk->sk_protocol, &address);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -834,3 +834,4 @@ void vlan_setup(struct net_device *dev)
 
 	eth_zero_addr(dev->broadcast);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

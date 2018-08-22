@@ -470,3 +470,4 @@ int s3c2410_iotiming_get(struct s3c_cpufreq_config *cfg,
 	s3c2410_print_timing("get", timings);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

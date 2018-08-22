@@ -396,3 +396,4 @@ out:
 	kfree(eeprom);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

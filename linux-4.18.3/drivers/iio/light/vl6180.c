@@ -552,3 +552,4 @@ MODULE_AUTHOR("Peter Meerwald-Stadler <pmeerw@pmeerw.net>");
 MODULE_AUTHOR("Manivannan Sadhasivam <manivannanece23@gmail.com>");
 MODULE_DESCRIPTION("STMicro VL6180 ALS, range and proximity sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

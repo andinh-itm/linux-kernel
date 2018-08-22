@@ -371,3 +371,4 @@ module_exit(scr24x_exit);
 MODULE_AUTHOR("Lubomir Rintel");
 MODULE_DESCRIPTION("SCR24x PCMCIA Smart Card Reader Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

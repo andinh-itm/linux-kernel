@@ -985,3 +985,4 @@ bool of_dma_is_coherent(struct device_node *np)
 	return false;
 }
 EXPORT_SYMBOL_GPL(of_dma_is_coherent);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

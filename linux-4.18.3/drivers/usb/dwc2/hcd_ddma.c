@@ -1375,3 +1375,4 @@ void dwc2_hcd_complete_xfer_ddma(struct dwc2_hsotg *hsotg,
 		dwc2_hcd_queue_transactions(hsotg, tr_type);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

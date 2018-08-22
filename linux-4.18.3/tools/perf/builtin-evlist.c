@@ -79,3 +79,4 @@ int cmd_evlist(int argc, const char **argv)
 
 	return __cmd_evlist(input_name, &details);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

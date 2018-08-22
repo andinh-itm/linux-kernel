@@ -159,3 +159,4 @@ const struct of_device_id of_mtk_match[] = {
 };
 
 MODULE_DEVICE_TABLE(of, of_mtk_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -440,3 +440,4 @@ int line6_create_audio_out_urbs(struct snd_line6_pcm *line6pcm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

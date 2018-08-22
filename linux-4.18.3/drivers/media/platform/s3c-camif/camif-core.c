@@ -651,3 +651,4 @@ MODULE_AUTHOR("Sylwester Nawrocki <sylvester.nawrocki@gmail.com>");
 MODULE_AUTHOR("Tomasz Figa <tomasz.figa@gmail.com>");
 MODULE_DESCRIPTION("S3C24XX/S3C64XX SoC camera interface driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

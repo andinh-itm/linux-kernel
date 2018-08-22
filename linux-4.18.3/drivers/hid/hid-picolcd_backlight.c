@@ -117,3 +117,4 @@ void picolcd_suspend_backlight(struct picolcd_data *data)
 }
 #endif /* CONFIG_PM */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

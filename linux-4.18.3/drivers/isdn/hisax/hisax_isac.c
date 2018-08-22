@@ -893,3 +893,4 @@ EXPORT_SYMBOL(isac_irq);
 
 module_init(hisax_isac_init);
 module_exit(hisax_isac_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

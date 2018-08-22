@@ -30,3 +30,4 @@ gp102_disp_base_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	return nv50_disp_base_new_(&gp102_disp_dmac_func, &gf119_disp_base_mthd,
 				   disp, 1, oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

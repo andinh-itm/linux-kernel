@@ -360,3 +360,4 @@ const struct psb_ops psb_chip_ops = {
 	.power_up = psb_power_up,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -615,3 +615,4 @@ void ath9k_hw_setup_statusring(struct ath_hw *ah, void *ts_start,
 	ath9k_hw_reset_txstatus_ring(ah);
 }
 EXPORT_SYMBOL(ath9k_hw_setup_statusring);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

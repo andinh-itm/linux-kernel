@@ -274,3 +274,4 @@ static void __exit friq_exit(void)
 MODULE_LICENSE("GPL");
 module_init(friq_init)
 module_exit(friq_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

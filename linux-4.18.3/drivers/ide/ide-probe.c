@@ -1631,3 +1631,4 @@ void ide_port_scan(ide_hwif_t *hwif)
 	ide_proc_port_register_devices(hwif);
 }
 EXPORT_SYMBOL_GPL(ide_port_scan);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -531,3 +531,4 @@ bochs_user_framebuffer_create(struct drm_device *dev,
 const struct drm_mode_config_funcs bochs_mode_funcs = {
 	.fb_create = bochs_user_framebuffer_create,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

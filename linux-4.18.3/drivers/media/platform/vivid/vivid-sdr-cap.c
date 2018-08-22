@@ -552,3 +552,4 @@ void vivid_sdr_cap_process(struct vivid_dev *dev, struct vivid_buffer *buf)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

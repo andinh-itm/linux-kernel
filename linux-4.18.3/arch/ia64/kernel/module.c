@@ -930,3 +930,4 @@ void *dereference_module_function_descriptor(struct module *mod, void *ptr)
 
 	return dereference_function_descriptor(ptr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

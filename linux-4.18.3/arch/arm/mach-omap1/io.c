@@ -180,3 +180,4 @@ void omap_writel(u32 v, u32 pa)
 	__raw_writel(v, OMAP1_IO_ADDRESS(pa));
 }
 EXPORT_SYMBOL(omap_writel);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

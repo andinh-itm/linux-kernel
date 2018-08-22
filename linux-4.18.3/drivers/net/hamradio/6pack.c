@@ -1007,3 +1007,4 @@ MODULE_ALIAS_LDISC(N_6PACK);
 
 module_init(sixpack_init_driver);
 module_exit(sixpack_exit_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

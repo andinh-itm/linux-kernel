@@ -528,3 +528,4 @@ MODULE_ALIAS("platform:omap-dmic");
 MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_DESCRIPTION("OMAP DMIC ASoC Interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

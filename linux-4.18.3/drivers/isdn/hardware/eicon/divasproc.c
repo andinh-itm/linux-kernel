@@ -410,3 +410,4 @@ void remove_adapter_proc(diva_os_xdi_adapter_t *a)
 			 a->controller));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

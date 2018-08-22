@@ -1003,3 +1003,4 @@ bool viafb_lcd_get_mobile_state(bool *mobile)
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

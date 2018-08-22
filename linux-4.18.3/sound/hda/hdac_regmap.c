@@ -529,3 +529,4 @@ int snd_hdac_regmap_update_raw(struct hdac_device *codec, unsigned int reg,
 	return 1;
 }
 EXPORT_SYMBOL_GPL(snd_hdac_regmap_update_raw);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

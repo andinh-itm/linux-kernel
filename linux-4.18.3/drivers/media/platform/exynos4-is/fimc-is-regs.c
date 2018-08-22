@@ -231,3 +231,4 @@ int fimc_is_itf_mode_change(struct fimc_is *is)
 			__func__, is->config_index);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

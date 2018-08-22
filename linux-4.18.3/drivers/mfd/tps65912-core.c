@@ -126,3 +126,4 @@ EXPORT_SYMBOL_GPL(tps65912_device_exit);
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("TPS65912x MFD Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

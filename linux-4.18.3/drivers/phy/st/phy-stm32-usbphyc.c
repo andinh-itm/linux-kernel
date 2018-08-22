@@ -458,3 +458,4 @@ module_platform_driver(stm32_usbphyc_driver);
 MODULE_DESCRIPTION("STMicroelectronics STM32 USBPHYC driver");
 MODULE_AUTHOR("Amelie Delaunay <amelie.delaunay@st.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

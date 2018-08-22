@@ -369,3 +369,4 @@ void __cvmx_interrupt_stxx_int_msk_enable(int index)
 	}
 	cvmx_write_csr(CVMX_STXX_INT_MSK(index), stx_int_msk.u64);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

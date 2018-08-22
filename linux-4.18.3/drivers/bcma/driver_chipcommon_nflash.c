@@ -42,3 +42,4 @@ int bcma_nflash_init(struct bcma_drv_cc *cc)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

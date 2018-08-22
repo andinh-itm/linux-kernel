@@ -1109,3 +1109,4 @@ module_amba_driver(aaci_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("ARM PrimeCell PL041 Advanced Audio CODEC Interface driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

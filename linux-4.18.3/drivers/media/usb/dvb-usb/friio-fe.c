@@ -439,3 +439,4 @@ static const struct dvb_frontend_ops jdvbt90502_ops = {
 	.read_status = jdvbt90502_read_status,
 	.read_signal_strength = jdvbt90502_read_signal_strength,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

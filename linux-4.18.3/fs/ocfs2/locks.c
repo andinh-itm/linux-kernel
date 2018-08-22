@@ -142,3 +142,4 @@ int ocfs2_lock(struct file *file, int cmd, struct file_lock *fl)
 
 	return ocfs2_plock(osb->cconn, OCFS2_I(inode)->ip_blkno, file, cmd, fl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -191,3 +191,4 @@ const struct geode_vid_ops cs5530_vid_ops = {
 	.configure_display = cs5530_configure_display,
 	.blank_display     = cs5530_blank_display,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

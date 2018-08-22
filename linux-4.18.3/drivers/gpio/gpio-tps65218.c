@@ -244,3 +244,4 @@ MODULE_AUTHOR("Nicolas Saenz Julienne <nicolassaenzj@gmail.com>");
 MODULE_DESCRIPTION("GPO interface for TPS65218 PMICs");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:tps65218-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

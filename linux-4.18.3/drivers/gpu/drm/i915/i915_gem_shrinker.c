@@ -526,3 +526,4 @@ void i915_gem_shrinker_unregister(struct drm_i915_private *i915)
 	WARN_ON(unregister_oom_notifier(&i915->mm.oom_notifier));
 	unregister_shrinker(&i915->mm.shrinker);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

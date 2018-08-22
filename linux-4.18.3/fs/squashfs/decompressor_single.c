@@ -83,3 +83,4 @@ int squashfs_max_decompressors(void)
 {
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

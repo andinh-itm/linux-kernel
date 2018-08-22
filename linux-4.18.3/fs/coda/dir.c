@@ -589,3 +589,4 @@ const struct file_operations coda_dir_operations = {
 	.release	= coda_release,
 	.fsync		= coda_fsync,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

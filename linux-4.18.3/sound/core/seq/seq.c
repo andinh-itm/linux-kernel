@@ -134,3 +134,4 @@ static void __exit alsa_seq_exit(void)
 
 module_init(alsa_seq_init)
 module_exit(alsa_seq_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

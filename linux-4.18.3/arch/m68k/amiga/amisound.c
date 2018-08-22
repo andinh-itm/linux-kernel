@@ -114,3 +114,4 @@ static void nosound(struct timer_list *unused)
 	/* restore period to previous value after beeping */
 	custom.aud[2].audper = amiga_audio_period;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

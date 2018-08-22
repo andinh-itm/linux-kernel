@@ -2429,3 +2429,4 @@ int cpia2_remap_buffer(struct camera_data *cam, struct vm_area_struct *vma)
 	cam->mmapped = true;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

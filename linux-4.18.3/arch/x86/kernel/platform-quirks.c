@@ -44,3 +44,4 @@ bool __init arch_pnpbios_disabled(void)
 	return x86_pnpbios_disabled();
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1815,3 +1815,4 @@ radeon_add_legacy_encoder(struct drm_device *dev, uint32_t encoder_enum, uint32_
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

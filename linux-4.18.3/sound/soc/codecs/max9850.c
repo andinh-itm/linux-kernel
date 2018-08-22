@@ -358,3 +358,4 @@ module_i2c_driver(max9850_i2c_driver);
 MODULE_AUTHOR("Christian Glindkamp <christian.glindkamp@taskit.de>");
 MODULE_DESCRIPTION("ASoC MAX9850 codec driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

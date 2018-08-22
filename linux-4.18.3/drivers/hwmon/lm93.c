@@ -2779,3 +2779,4 @@ MODULE_AUTHOR("Mark M. Hoffman <mhoffman@lightlink.com>, "
 		"Hans J. Koch <hjk@hansjkoch.de>");
 MODULE_DESCRIPTION("LM93 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

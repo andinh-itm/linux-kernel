@@ -156,3 +156,4 @@ static void __exception_irq_entry sun4i_handle_irq(struct pt_regs *regs)
 		hwirq = readl(sun4i_irq_base + SUN4I_IRQ_VECTOR_REG) >> 2;
 	} while (hwirq != 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

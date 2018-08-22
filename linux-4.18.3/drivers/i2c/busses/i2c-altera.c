@@ -509,3 +509,4 @@ module_platform_driver(altr_i2c_driver);
 MODULE_DESCRIPTION("Altera Soft IP I2C bus driver");
 MODULE_AUTHOR("Thor Thayer <thor.thayer@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -850,3 +850,4 @@ module_platform_driver(orion_spi_driver);
 MODULE_DESCRIPTION("Orion SPI driver");
 MODULE_AUTHOR("Shadi Ammouri <shadi@marvell.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

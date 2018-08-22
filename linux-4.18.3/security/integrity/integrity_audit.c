@@ -63,3 +63,4 @@ void integrity_audit_msg(int audit_msgno, struct inode *inode,
 	audit_log_format(ab, " res=%d", !result);
 	audit_log_end(ab);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

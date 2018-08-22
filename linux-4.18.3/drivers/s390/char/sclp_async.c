@@ -211,3 +211,4 @@ MODULE_AUTHOR("Copyright IBM Corp. 2009");
 MODULE_AUTHOR("Hans-Joachim Picht <hans@linux.vnet.ibm.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SCLP Asynchronous Notification Records");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

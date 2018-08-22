@@ -190,3 +190,4 @@ void xmon_puts(const char *str)
 {
 	xmon_write(str, strlen(str));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

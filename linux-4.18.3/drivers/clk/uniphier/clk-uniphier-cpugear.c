@@ -112,3 +112,4 @@ struct clk_hw *uniphier_clk_register_cpugear(struct device *dev,
 
 	return &gear->hw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

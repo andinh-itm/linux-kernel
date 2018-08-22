@@ -80,3 +80,4 @@ static struct platform_driver clk_mt2701_eth_drv = {
 };
 
 builtin_platform_driver(clk_mt2701_eth_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

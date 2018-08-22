@@ -889,3 +889,4 @@ const struct xattr_handler hfsplus_xattr_osx_handler = {
 	.get	= hfsplus_osx_getxattr,
 	.set	= hfsplus_osx_setxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

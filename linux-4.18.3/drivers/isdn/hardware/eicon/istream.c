@@ -224,3 +224,4 @@ int diva_istream_read(void *context,
 void pr_stream(ADAPTER *a) {
 }
 #endif /* } */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

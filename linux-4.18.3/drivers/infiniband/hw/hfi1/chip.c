@@ -15469,3 +15469,4 @@ static void handle_temp_err(struct hfi1_devdata *dd)
 	 */
 	dc_shutdown(dd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

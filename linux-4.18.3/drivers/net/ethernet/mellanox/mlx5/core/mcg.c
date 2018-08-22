@@ -64,3 +64,4 @@ int mlx5_core_detach_mcg(struct mlx5_core_dev *dev, union ib_gid *mgid, u32 qpn)
 	return mlx5_cmd_exec(dev, in, sizeof(in), out, sizeof(out));
 }
 EXPORT_SYMBOL(mlx5_core_detach_mcg);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

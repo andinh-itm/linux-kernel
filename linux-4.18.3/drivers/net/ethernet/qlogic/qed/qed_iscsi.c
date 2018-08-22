@@ -1458,3 +1458,4 @@ void qed_put_iscsi_ops(void)
 {
 }
 EXPORT_SYMBOL(qed_put_iscsi_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

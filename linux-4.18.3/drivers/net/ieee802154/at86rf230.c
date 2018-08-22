@@ -1834,3 +1834,4 @@ module_spi_driver(at86rf230_driver);
 
 MODULE_DESCRIPTION("AT86RF230 Transceiver Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

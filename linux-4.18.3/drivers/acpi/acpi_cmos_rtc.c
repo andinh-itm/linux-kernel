@@ -88,3 +88,4 @@ void __init acpi_cmos_rtc_init(void)
 {
 	acpi_scan_add_handler(&cmos_rtc_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

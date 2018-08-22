@@ -56,3 +56,4 @@ int arch_gnttab_init(unsigned long nr_shared, unsigned long nr_status)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

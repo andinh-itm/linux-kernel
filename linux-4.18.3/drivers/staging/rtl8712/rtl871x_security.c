@@ -1411,3 +1411,4 @@ void r8712_use_tkipkey_handler(struct timer_list *t)
 
 	padapter->securitypriv.busetkipkey = true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

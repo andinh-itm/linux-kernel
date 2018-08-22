@@ -3281,3 +3281,4 @@ void fcoe_ctlr_set_fip_mode(struct fcoe_ctlr_device *ctlr_dev)
 	fcoe_ctlr_mode_set(lport, ctlr, ctlr->mode);
 }
 EXPORT_SYMBOL(fcoe_ctlr_set_fip_mode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

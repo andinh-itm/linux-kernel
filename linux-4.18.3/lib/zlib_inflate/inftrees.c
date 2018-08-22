@@ -313,3 +313,4 @@ int zlib_inflate_table(codetype type, unsigned short *lens, unsigned codes,
     *bits = root;
     return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

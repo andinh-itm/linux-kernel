@@ -481,3 +481,4 @@ struct drm_connector *msm_hdmi_connector_init(struct hdmi *hdmi)
 
 	return connector;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

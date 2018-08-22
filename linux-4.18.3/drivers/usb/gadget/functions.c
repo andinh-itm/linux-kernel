@@ -115,3 +115,4 @@ void usb_function_unregister(struct usb_function_driver *fd)
 	mutex_unlock(&func_lock);
 }
 EXPORT_SYMBOL_GPL(usb_function_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

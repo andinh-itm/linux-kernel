@@ -111,3 +111,4 @@ static int __init pnp_system_init(void)
  * but before PCI assign resources for uninitialized PCI devices
  */
 fs_initcall(pnp_system_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

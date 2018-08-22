@@ -196,3 +196,4 @@ void mips_probe_watch_registers(struct cpuinfo_mips *c)
 
 	c->watch_reg_count = 8;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

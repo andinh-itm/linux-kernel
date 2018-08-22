@@ -281,3 +281,4 @@ define_machine(ps3) {
 	.kexec_cpu_down			= ps3_kexec_cpu_down,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -194,3 +194,4 @@ module_exit(alsa_ice1712_akm4xxx_module_exit)
 EXPORT_SYMBOL(snd_ice1712_akm4xxx_init);
 EXPORT_SYMBOL(snd_ice1712_akm4xxx_free);
 EXPORT_SYMBOL(snd_ice1712_akm4xxx_build_controls);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

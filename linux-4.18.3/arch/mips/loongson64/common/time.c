@@ -34,3 +34,4 @@ void read_persistent_clock64(struct timespec64 *ts)
 	ts->tv_sec = mc146818_get_cmos_time();
 	ts->tv_nsec = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

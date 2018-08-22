@@ -953,3 +953,4 @@ module_platform_driver(msm8916_wcd_digital_driver);
 MODULE_AUTHOR("Srinivas Kandagatla <srinivas.kandagatla@linaro.org>");
 MODULE_DESCRIPTION("MSM8916 WCD Digital Codec driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

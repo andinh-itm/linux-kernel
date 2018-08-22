@@ -201,3 +201,4 @@ polaris_machine_check(unsigned long vector, unsigned long la_ptr)
 	process_mcheck_info(vector, la_ptr, "POLARIS",
 			    mcheck_expected(0));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

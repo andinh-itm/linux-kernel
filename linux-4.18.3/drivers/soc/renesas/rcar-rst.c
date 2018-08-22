@@ -119,3 +119,4 @@ int __init rcar_rst_read_mode_pins(u32 *mode)
 	*mode = saved_mode;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

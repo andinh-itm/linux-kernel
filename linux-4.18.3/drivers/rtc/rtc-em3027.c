@@ -160,3 +160,4 @@ module_i2c_driver(em3027_driver);
 MODULE_AUTHOR("Mike Rapoport <mike@compulab.co.il>");
 MODULE_DESCRIPTION("EM Microelectronic EM3027 RTC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

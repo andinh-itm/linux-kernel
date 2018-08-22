@@ -98,3 +98,4 @@ int platform_specific_init(void)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

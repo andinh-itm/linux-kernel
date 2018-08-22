@@ -69,3 +69,4 @@ static int __init gemini_soc_init(void)
 	return 0;
 }
 subsys_initcall(gemini_soc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

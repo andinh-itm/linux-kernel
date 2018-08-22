@@ -343,3 +343,4 @@ int of_device_uevent_modalias(struct device *dev, struct kobj_uevent_env *env)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(of_device_uevent_modalias);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

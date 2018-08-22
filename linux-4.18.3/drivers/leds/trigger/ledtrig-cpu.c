@@ -167,3 +167,4 @@ static int __init ledtrig_cpu_init(void)
 	return 0;
 }
 device_initcall(ledtrig_cpu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

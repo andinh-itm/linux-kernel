@@ -795,3 +795,4 @@ module_pci_driver(pluto2_driver);
 MODULE_AUTHOR("Andreas Oberritter <obi@linuxtv.org>");
 MODULE_DESCRIPTION("Pluto2 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

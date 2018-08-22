@@ -2625,3 +2625,4 @@ module_platform_driver(vpe_pdrv);
 MODULE_DESCRIPTION("TI VPE driver");
 MODULE_AUTHOR("Dale Farnsworth, <dale@farnsworth.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

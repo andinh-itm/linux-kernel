@@ -126,3 +126,4 @@ void michael_mic_function(struct michael_mic *mic, u8 *key,
 	michael_append(mic, data + 12, len - 12);	/* |Data| */
 	michael_get_mic(mic, result);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

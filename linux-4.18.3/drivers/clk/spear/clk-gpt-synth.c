@@ -150,3 +150,4 @@ struct clk *clk_register_gpt(const char *name, const char *parent_name, unsigned
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

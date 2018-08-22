@@ -118,3 +118,4 @@ module_platform_driver(dio2125_driver);
 MODULE_DESCRIPTION("ASoC DIO2125 output driver");
 MODULE_AUTHOR("Jerome Brunet <jbrunet@baylibre.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

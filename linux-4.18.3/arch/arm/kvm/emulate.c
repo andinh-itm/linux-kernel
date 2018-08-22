@@ -176,3 +176,4 @@ void kvm_inject_vabt(struct kvm_vcpu *vcpu)
 {
 	*vcpu_hcr(vcpu) |= HCR_VA;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

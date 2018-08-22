@@ -41,3 +41,4 @@ char prom_getchar(void)
 
 	return c;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

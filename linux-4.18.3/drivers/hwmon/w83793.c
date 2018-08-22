@@ -2176,3 +2176,4 @@ module_i2c_driver(w83793_driver);
 MODULE_AUTHOR("Yuan Mu, Sven Anders");
 MODULE_DESCRIPTION("w83793 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

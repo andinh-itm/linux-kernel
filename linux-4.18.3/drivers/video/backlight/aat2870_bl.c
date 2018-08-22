@@ -231,3 +231,4 @@ module_exit(aat2870_bl_exit);
 MODULE_DESCRIPTION("AnalogicTech AAT2870 Backlight");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jin Park <jinyoungp@nvidia.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

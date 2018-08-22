@@ -1521,3 +1521,4 @@ module_i2c_driver(ov2659_i2c_driver);
 MODULE_AUTHOR("Benoit Parrot <bparrot@ti.com>");
 MODULE_DESCRIPTION("OV2659 CMOS Image Sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

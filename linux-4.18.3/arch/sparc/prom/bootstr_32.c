@@ -61,3 +61,4 @@ prom_getbootargs(void)
 	fetched = 1;
 	return barg_buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

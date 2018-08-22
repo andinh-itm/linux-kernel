@@ -179,3 +179,4 @@ static int __init zx296718_pd_init(void)
 	return platform_driver_register(&zx296718_pd_driver);
 }
 subsys_initcall(zx296718_pd_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

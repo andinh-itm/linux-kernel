@@ -116,3 +116,4 @@ void rtc_nvmem_unregister(struct rtc_device *rtc)
 
 	nvmem_unregister(rtc->nvmem);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

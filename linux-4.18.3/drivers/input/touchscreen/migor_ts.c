@@ -247,3 +247,4 @@ module_i2c_driver(migor_ts_driver);
 MODULE_DESCRIPTION("MigoR Touchscreen driver");
 MODULE_AUTHOR("Magnus Damm <damm@opensource.se>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

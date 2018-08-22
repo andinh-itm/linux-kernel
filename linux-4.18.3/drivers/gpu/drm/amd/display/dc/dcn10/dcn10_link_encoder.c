@@ -1360,3 +1360,4 @@ static void aux_initialize(
 	AUX_REG_UPDATE(AUX_DPHY_RX_CONTROL0,
 			AUX_RX_RECEIVE_WINDOW, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

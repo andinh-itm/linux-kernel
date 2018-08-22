@@ -412,3 +412,4 @@ const struct intel_dvo_dev_ops ch7017_ops = {
 	.dump_regs = ch7017_dump_regs,
 	.destroy = ch7017_destroy,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

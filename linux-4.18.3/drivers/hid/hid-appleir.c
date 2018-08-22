@@ -354,3 +354,4 @@ static struct hid_driver appleir_driver = {
 	.input_mapping = appleir_input_mapping,
 };
 module_hid_driver(appleir_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

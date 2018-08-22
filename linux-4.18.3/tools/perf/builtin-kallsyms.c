@@ -66,3 +66,4 @@ int cmd_kallsyms(int argc, const char **argv)
 
 	return __cmd_kallsyms(argc, argv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -207,3 +207,4 @@ MODULE_AUTHOR("Nikolaus Voss <n.voss@weinmann.de>");
 MODULE_DESCRIPTION("Driver for ST M41T93 SPI RTC");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rtc-m41t93");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

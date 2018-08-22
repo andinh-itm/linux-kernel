@@ -246,3 +246,4 @@ static void __exit htcpen_isa_exit(void)
 
 module_init(htcpen_isa_init);
 module_exit(htcpen_isa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

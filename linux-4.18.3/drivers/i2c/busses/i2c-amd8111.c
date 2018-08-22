@@ -490,3 +490,4 @@ static struct pci_driver amd8111_driver = {
 };
 
 module_pci_driver(amd8111_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

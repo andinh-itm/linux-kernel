@@ -307,3 +307,4 @@ unregister_proc(void)
 	info_entry = NULL;
 }
 #endif /* CONFIG_SND_PROC_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

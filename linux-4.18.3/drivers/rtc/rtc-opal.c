@@ -308,3 +308,4 @@ MODULE_LICENSE("GPL");
 
 module_init(opal_rtc_init);
 module_exit(opal_rtc_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

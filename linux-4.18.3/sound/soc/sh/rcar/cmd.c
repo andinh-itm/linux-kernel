@@ -182,3 +182,4 @@ void rsnd_cmd_remove(struct rsnd_priv *priv)
 		rsnd_mod_quit(rsnd_mod_get(cmd));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

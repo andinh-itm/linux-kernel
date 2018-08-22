@@ -140,3 +140,4 @@ short hpi_dsp_code_read_block(size_t words_requested,
 	dsp_code->word_count += words_requested;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

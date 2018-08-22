@@ -3974,3 +3974,4 @@ MODULE_DESCRIPTION("Solarflare network driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, efx_pci_table);
 MODULE_VERSION(EFX_DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

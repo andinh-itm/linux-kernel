@@ -85,3 +85,4 @@ MODULE_DESCRIPTION("ALSA SoC Simplemachines Sim.One");
 MODULE_AUTHOR("Mika Westerberg <mika.westerberg@iki.fi>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:simone-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

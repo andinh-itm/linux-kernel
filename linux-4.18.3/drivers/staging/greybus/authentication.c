@@ -425,3 +425,4 @@ void cap_exit(void)
 	class_destroy(cap_class);
 	ida_destroy(&cap_minors_map);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

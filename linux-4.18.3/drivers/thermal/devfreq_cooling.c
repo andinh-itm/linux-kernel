@@ -606,3 +606,4 @@ void devfreq_cooling_unregister(struct thermal_cooling_device *cdev)
 	kfree(dfc);
 }
 EXPORT_SYMBOL_GPL(devfreq_cooling_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

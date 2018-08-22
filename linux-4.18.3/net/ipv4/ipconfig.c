@@ -1789,3 +1789,4 @@ static int __init vendor_class_identifier_setup(char *addrs)
 	return 1;
 }
 __setup("dhcpclass=", vendor_class_identifier_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

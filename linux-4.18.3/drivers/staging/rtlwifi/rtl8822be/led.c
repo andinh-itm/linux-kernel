@@ -114,3 +114,4 @@ void rtl8822be_led_control(struct ieee80211_hw *hw, enum led_ctl_mode ledaction)
 	RT_TRACE(rtlpriv, COMP_LED, DBG_TRACE, "ledaction %d,\n", ledaction);
 	_rtl8822be_sw_led_control(hw, ledaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

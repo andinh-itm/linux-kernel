@@ -500,3 +500,4 @@ module_i2c_driver(lm3530_i2c_driver);
 MODULE_DESCRIPTION("Back Light driver for LM3530");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Shreshtha Kumar SAHU <shreshthakumar.sahu@stericsson.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

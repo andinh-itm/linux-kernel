@@ -463,3 +463,4 @@ void pnp_fixup_device(struct pnp_dev *dev)
 		f->quirk_function(dev);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -290,3 +290,4 @@ module_exit(wm1133_ev1_audio_exit);
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("Audio for WM1133-EV1 on i.MX31ADS");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

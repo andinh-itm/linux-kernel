@@ -1812,3 +1812,4 @@ mpt3sas_config_get_volume_wwid(struct MPT3SAS_ADAPTER *ioc, u16 volume_handle,
 	} else
 		return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

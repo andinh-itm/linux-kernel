@@ -313,3 +313,4 @@ module_exit(omap3pandora_soc_exit);
 MODULE_AUTHOR("Grazvydas Ignotas <notasas@gmail.com>");
 MODULE_DESCRIPTION("ALSA SoC OMAP3 Pandora");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -137,3 +137,4 @@ module_exit(switch_exit);
 MODULE_VERSION(DRV_VERSION);
 MODULE_AUTHOR("Paul Mundt");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

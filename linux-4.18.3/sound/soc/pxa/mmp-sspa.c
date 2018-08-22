@@ -481,3 +481,4 @@ MODULE_AUTHOR("Leo Yan <leoy@marvell.com>");
 MODULE_DESCRIPTION("MMP SSPA SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mmp-sspa-dai");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

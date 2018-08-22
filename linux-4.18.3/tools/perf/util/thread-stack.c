@@ -624,3 +624,4 @@ size_t thread_stack__depth(struct thread *thread)
 		return 0;
 	return thread->ts->cnt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1251,3 +1251,4 @@ struct safexcel_alg_template safexcel_alg_hmac_sha256 = {
 		},
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1123,3 +1123,4 @@ void qtnf_band_init_rates(struct ieee80211_supported_band *band)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

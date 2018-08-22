@@ -1369,3 +1369,4 @@ void mtk_vcodec_enc_release(struct mtk_vcodec_ctx *ctx)
 
 	ctx->state = MTK_STATE_FREE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

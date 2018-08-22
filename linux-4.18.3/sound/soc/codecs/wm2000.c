@@ -947,3 +947,4 @@ module_i2c_driver(wm2000_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM2000 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

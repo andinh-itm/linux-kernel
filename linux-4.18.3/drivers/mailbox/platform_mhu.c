@@ -203,3 +203,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:platform-mhu");
 MODULE_DESCRIPTION("Platform MHU Driver");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

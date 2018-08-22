@@ -36,3 +36,4 @@ DT_MACHINE_START(BCM2835, "BCM2835")
 	.dt_compat = bcm2835_compat,
 	.smp = smp_ops(bcm2836_smp_ops),
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -526,3 +526,4 @@ static struct i2c_driver saa6588_driver = {
 };
 
 module_i2c_driver(saa6588_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

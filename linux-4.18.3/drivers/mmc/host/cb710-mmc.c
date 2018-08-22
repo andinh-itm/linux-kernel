@@ -778,3 +778,4 @@ MODULE_AUTHOR("Michał Mirosław <mirq-linux@rere.qmqm.pl>");
 MODULE_DESCRIPTION("ENE CB710 memory card reader driver - MMC/SD part");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:cb710-mmc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

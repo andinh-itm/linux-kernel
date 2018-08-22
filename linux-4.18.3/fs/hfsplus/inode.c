@@ -615,3 +615,4 @@ out:
 	hfs_find_exit(&fd);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

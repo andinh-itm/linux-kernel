@@ -71,3 +71,4 @@ void __init ks8695_map_io(void)
 	ks8695_processor_info();
 	ks8695_clock_info();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

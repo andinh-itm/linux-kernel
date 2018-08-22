@@ -471,3 +471,4 @@ MODULE_AUTHOR("Lars Poeschel <poeschel@lemonage.de>");
 MODULE_DESCRIPTION("I2C master driver for Nano River Techs Viperboard");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:viperboard-i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

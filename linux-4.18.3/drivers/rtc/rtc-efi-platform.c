@@ -33,3 +33,4 @@ static int __init rtc_init(void)
 	return 0;
 }
 module_init(rtc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

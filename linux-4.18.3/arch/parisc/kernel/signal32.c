@@ -260,3 +260,4 @@ setup_sigcontext32(struct compat_sigcontext __user *sc, struct compat_regfile __
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

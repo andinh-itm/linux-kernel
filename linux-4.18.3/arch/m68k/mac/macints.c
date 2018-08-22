@@ -269,3 +269,4 @@ irqreturn_t mac_nmi_handler(int irq, void *dev_id)
 	in_nmi = 0;
 	return IRQ_HANDLED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

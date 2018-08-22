@@ -582,3 +582,4 @@ void adreno_gpu_cleanup(struct adreno_gpu *adreno_gpu)
 
 	msm_gpu_cleanup(&adreno_gpu->base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

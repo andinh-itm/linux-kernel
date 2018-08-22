@@ -249,3 +249,4 @@ const struct plat_smp_ops vsmp_smp_ops = {
 	.prepare_cpus		= vsmp_prepare_cpus,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

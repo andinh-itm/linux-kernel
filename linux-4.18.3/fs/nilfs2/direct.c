@@ -383,3 +383,4 @@ int nilfs_direct_init(struct nilfs_bmap *bmap)
 	bmap->b_ops = &nilfs_direct_ops;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

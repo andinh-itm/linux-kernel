@@ -176,3 +176,4 @@ void ui__exit(bool wait_for_ok)
 
 	perf_error__unregister(&perf_tui_eops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

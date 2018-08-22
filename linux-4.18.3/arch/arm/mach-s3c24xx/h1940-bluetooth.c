@@ -139,3 +139,4 @@ module_platform_driver(h1940bt_driver);
 MODULE_AUTHOR("Arnaud Patard <arnaud.patard@rtp-net.org>");
 MODULE_DESCRIPTION("Driver for the iPAQ H1940 bluetooth chip");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

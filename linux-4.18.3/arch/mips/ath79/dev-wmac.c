@@ -153,3 +153,4 @@ void __init ath79_register_wmac(u8 *cal_data)
 
 	platform_device_register(&ath79_wmac_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

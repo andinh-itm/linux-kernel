@@ -567,3 +567,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Bruce Losure <blosure@sgi.com>");
 MODULE_DESCRIPTION("TIOCX module");
 MODULE_SUPPORTED_DEVICE(DEVICE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -80,3 +80,4 @@ nv04_disp_new(struct nvkm_device *device, int index, struct nvkm_disp **pdisp)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

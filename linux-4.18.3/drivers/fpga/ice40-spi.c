@@ -218,3 +218,4 @@ module_spi_driver(ice40_fpga_driver);
 MODULE_AUTHOR("Joel Holdsworth <joel@airwebreathe.org.uk>");
 MODULE_DESCRIPTION("Lattice iCE40 FPGA Manager");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

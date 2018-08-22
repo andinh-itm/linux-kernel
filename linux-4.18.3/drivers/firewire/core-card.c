@@ -704,3 +704,4 @@ void fw_core_remove_card(struct fw_card *card)
 	WARN_ON(!list_empty(&card->transaction_list));
 }
 EXPORT_SYMBOL(fw_core_remove_card);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

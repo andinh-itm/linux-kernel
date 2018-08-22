@@ -197,3 +197,4 @@ struct clk *tegra_clk_register_mc(const char *name, const char *parent_name,
 	return clk_register_divider_table(NULL, name, parent_name, 0, reg,
 					  16, 1, 0, mc_div_table, lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

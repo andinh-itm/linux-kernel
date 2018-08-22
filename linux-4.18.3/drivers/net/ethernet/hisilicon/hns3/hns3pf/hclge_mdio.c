@@ -235,3 +235,4 @@ void hclge_mac_stop_phy(struct hclge_dev *hdev)
 	phy_stop(phydev);
 	phy_disconnect(phydev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

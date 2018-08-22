@@ -119,3 +119,4 @@ void rtc_proc_del_device(struct rtc_device *rtc)
 	if (is_rtc_hctosys(rtc))
 		remove_proc_entry("driver/rtc", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

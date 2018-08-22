@@ -217,3 +217,4 @@ u8 rtw_hal_antdiv_before_linked(struct adapter *Adapter)
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

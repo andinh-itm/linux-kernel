@@ -894,3 +894,4 @@ adbdev_init(void)
 	platform_device_register(&adb_pfdev);
 	platform_driver_probe(&adb_pfdrv, adb_dummy_probe);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1337,3 +1337,4 @@ int __init s3c2416_init_intc_of(struct device_node *np,
 }
 IRQCHIP_DECLARE(s3c2416_irq, "samsung,s3c2416-irq", s3c2416_init_intc_of);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

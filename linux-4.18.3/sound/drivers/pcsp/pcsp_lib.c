@@ -358,3 +358,4 @@ int snd_pcsp_new_pcm(struct snd_pcsp *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

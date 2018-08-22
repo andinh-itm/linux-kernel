@@ -153,3 +153,4 @@ module_i2c_driver(dir685_tk_i2c_driver);
 MODULE_AUTHOR("Linus Walleij <linus.walleij@linaro.org>");
 MODULE_DESCRIPTION("D-Link DIR-685 touchkeys driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -12,3 +12,4 @@ void main(void)
 	pthread_rwlock_rdlock(&b);
 	pthread_rwlock_wrlock(&a);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

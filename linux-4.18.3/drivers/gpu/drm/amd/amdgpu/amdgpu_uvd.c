@@ -1265,3 +1265,4 @@ uint32_t amdgpu_uvd_used_handles(struct amdgpu_device *adev)
 
 	return used_handles;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

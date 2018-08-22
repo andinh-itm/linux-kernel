@@ -344,3 +344,4 @@ module_platform_driver(sh7760_pcm_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SH7760 Audio DMA (DMABRG) driver");
 MODULE_AUTHOR("Manuel Lauss <mano@roarinelk.homelinux.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

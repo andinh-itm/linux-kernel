@@ -1308,3 +1308,4 @@ const struct amdgpu_ip_block_version vcn_v1_0_ip_block =
 		.rev = 0,
 		.funcs = &vcn_v1_0_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

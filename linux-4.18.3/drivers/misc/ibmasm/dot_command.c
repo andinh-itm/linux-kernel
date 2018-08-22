@@ -150,3 +150,4 @@ int ibmasm_send_os_state(struct service_processor *sp, int os_state)
 	command_put(cmd);
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

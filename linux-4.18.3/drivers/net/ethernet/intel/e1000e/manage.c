@@ -327,3 +327,4 @@ bool e1000e_enable_mng_pass_thru(struct e1000_hw *hw)
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

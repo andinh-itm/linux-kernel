@@ -334,3 +334,4 @@ module_i2c_driver(ektf2127_driver);
 MODULE_DESCRIPTION("ELAN eKTF2127 I2C Touchscreen Driver");
 MODULE_AUTHOR("Michel Verlaan, Siebren Vroegindeweij");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

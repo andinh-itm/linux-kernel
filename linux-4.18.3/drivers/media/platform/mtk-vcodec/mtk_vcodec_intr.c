@@ -51,3 +51,4 @@ int mtk_vcodec_wait_for_done_ctx(struct mtk_vcodec_ctx  *ctx, int command,
 	return status;
 }
 EXPORT_SYMBOL(mtk_vcodec_wait_for_done_ctx);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

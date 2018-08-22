@@ -56,3 +56,4 @@ EXPORT_SYMBOL(strchr);
 EXPORT_SYMBOL(strcpy);
 EXPORT_SYMBOL(strcmp);
 EXPORT_SYMBOL(strlen);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

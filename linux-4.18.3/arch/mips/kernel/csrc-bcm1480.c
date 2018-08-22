@@ -55,3 +55,4 @@ void __init sb1480_clocksource_init(void)
 
 	sched_clock_register(sb1480_read_sched_clock, 64, zbbus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -27,3 +27,4 @@ void prom_putchar(char c)
 	bcm_uart0_writel(c, UART_FIFO_REG);
 	wait_xfered();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

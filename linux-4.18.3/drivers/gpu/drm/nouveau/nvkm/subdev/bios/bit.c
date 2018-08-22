@@ -47,3 +47,4 @@ bit_entry(struct nvkm_bios *bios, u8 id, struct bit_entry *bit)
 
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1099,3 +1099,4 @@ static int __init exynos3250_cmu_platform_init(void)
 }
 subsys_initcall(exynos3250_cmu_platform_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

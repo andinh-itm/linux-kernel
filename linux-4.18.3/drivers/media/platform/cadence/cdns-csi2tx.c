@@ -561,3 +561,4 @@ module_platform_driver(csi2tx_driver);
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@bootlin.com>");
 MODULE_DESCRIPTION("Cadence CSI2-TX controller");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

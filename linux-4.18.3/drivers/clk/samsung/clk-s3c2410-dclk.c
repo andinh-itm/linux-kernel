@@ -439,3 +439,4 @@ module_platform_driver(s3c24xx_dclk_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Heiko Stuebner <heiko@sntech.de>");
 MODULE_DESCRIPTION("Driver for the S3C24XX external clock outputs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

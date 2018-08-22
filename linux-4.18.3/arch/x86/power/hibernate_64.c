@@ -357,3 +357,4 @@ int arch_hibernation_header_restore(void *addr)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

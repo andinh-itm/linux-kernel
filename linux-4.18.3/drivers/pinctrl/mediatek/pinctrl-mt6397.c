@@ -65,3 +65,4 @@ static struct platform_driver mtk_pinctrl_driver = {
 };
 
 builtin_platform_driver(mtk_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

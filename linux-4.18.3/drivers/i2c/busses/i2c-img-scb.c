@@ -1520,3 +1520,4 @@ module_platform_driver(img_scb_i2c_driver);
 MODULE_AUTHOR("James Hogan <jhogan@kernel.org>");
 MODULE_DESCRIPTION("IMG host I2C driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

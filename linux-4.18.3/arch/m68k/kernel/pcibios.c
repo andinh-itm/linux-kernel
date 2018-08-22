@@ -102,3 +102,4 @@ char *pcibios_setup(char *str)
 	return str;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

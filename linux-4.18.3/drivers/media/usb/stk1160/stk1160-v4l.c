@@ -856,3 +856,4 @@ int stk1160_video_register(struct stk1160 *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

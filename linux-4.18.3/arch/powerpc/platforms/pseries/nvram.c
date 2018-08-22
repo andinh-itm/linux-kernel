@@ -245,3 +245,4 @@ int __init pSeries_nvram_init(void)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

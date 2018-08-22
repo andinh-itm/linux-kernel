@@ -289,3 +289,4 @@ MODULE_AUTHOR("Richard Purdie");
 MODULE_DESCRIPTION("ALSA SoC Poodle");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:poodle-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -214,3 +214,4 @@ static int __init s5pv210_audss_clk_init(void)
 	return platform_driver_register(&s5pv210_audss_clk_driver);
 }
 core_initcall(s5pv210_audss_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

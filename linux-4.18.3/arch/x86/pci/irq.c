@@ -1280,3 +1280,4 @@ static void pirq_disable_irq(struct pci_dev *dev)
 		dev->irq_managed = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

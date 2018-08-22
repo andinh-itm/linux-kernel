@@ -278,3 +278,4 @@ void flexcop_i2c_exit(struct flexcop_device *fc)
 	}
 	fc->init_state &= ~FC_STATE_I2C_INIT;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

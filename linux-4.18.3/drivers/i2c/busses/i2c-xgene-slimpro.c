@@ -625,3 +625,4 @@ MODULE_DESCRIPTION("APM X-Gene SLIMpro I2C driver");
 MODULE_AUTHOR("Feng Kan <fkan@apm.com>");
 MODULE_AUTHOR("Hieu Le <hnle@apm.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

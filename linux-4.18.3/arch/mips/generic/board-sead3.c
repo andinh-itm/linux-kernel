@@ -222,3 +222,4 @@ MIPS_MACHINE(sead3) = {
 	.fixup_fdt = sead3_fixup_fdt,
 	.measure_hpt_freq = sead3_measure_hpt_freq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

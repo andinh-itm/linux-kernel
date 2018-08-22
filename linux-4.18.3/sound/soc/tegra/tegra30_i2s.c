@@ -582,3 +582,4 @@ MODULE_DESCRIPTION("Tegra30 I2S ASoC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, tegra30_i2s_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

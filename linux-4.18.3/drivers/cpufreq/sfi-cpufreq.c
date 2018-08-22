@@ -133,3 +133,4 @@ module_exit(sfi_cpufreq_exit);
 MODULE_AUTHOR("Vishwesh M Rudramuni <vishwesh.m.rudramuni@intel.com>");
 MODULE_DESCRIPTION("SFI Performance-States Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

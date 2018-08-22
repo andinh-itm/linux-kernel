@@ -230,3 +230,4 @@ void hpfs_mark_4buffers_dirty(struct quad_buffer_head *qbh)
 	mark_buffer_dirty(qbh->bh[2]);
 	mark_buffer_dirty(qbh->bh[3]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

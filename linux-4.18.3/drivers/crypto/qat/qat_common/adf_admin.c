@@ -294,3 +294,4 @@ void adf_exit_admin_comms(struct adf_accel_dev *accel_dev)
 	accel_dev->admin = NULL;
 }
 EXPORT_SYMBOL_GPL(adf_exit_admin_comms);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

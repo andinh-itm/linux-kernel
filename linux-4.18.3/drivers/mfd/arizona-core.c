@@ -1449,3 +1449,4 @@ int arizona_dev_exit(struct arizona *arizona)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(arizona_dev_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

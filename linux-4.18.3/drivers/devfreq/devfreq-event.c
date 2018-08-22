@@ -481,3 +481,4 @@ static int __init devfreq_event_init(void)
 	return 0;
 }
 subsys_initcall(devfreq_event_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

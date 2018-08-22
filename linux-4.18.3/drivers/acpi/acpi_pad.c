@@ -503,3 +503,4 @@ module_exit(acpi_pad_exit);
 MODULE_AUTHOR("Shaohua Li<shaohua.li@intel.com>");
 MODULE_DESCRIPTION("ACPI Processor Aggregator Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

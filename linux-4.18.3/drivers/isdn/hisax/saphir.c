@@ -294,3 +294,4 @@ int setup_saphir(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

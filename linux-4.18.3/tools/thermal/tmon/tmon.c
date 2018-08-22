@@ -383,3 +383,4 @@ static void start_daemon_mode()
 	close(STDERR_FILENO);
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

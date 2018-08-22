@@ -407,3 +407,4 @@ int omap_aes_4106gcm_setkey(struct crypto_aead *tfm, const u8 *key,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

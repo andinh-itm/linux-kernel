@@ -211,3 +211,4 @@ void i915_params_dump(const struct i915_params *params, struct drm_printer *p)
 	I915_PARAMS_FOR_EACH(PRINT);
 #undef PRINT
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

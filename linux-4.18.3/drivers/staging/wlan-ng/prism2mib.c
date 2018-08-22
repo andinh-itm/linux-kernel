@@ -799,3 +799,4 @@ void prism2mgmt_bytearea2pstr(u8 *bytearea, struct p80211pstrd *pstr, int len)
 	pstr->len = (u8)len;
 	memcpy(pstr->data, bytearea, len);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

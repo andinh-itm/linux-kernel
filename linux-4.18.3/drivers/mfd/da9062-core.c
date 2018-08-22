@@ -705,3 +705,4 @@ module_i2c_driver(da9062_i2c_driver);
 MODULE_DESCRIPTION("Core device driver for Dialog DA9061 and DA9062");
 MODULE_AUTHOR("Steve Twiss <stwiss.opensource@diasemi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

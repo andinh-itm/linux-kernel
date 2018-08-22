@@ -1009,3 +1009,4 @@ module_i2c_driver(lm87_driver);
 MODULE_AUTHOR("Jean Delvare <jdelvare@suse.de> and others");
 MODULE_DESCRIPTION("LM87 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

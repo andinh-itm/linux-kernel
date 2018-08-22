@@ -640,3 +640,4 @@ err_free_dma:
 	nvm_dev_dma_free(dev->parent, rqd.meta_list, rqd.dma_meta_list);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

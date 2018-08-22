@@ -365,3 +365,4 @@ module_spi_driver(wl1251_spi_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kalle Valo <kvalo@adurom.com>");
 MODULE_ALIAS("spi:wl1251");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

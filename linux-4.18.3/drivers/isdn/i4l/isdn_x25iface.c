@@ -330,3 +330,4 @@ static int isdn_x25iface_xmit(struct concap_proto *cprot, struct sk_buff *skb)
 	dev_kfree_skb(skb);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -909,3 +909,4 @@ module_platform_driver(lpc32xx_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("NAND driver for the NXP LPC32XX MLC controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

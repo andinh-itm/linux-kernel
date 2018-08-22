@@ -300,3 +300,4 @@ MODULE_DESCRIPTION("Clock driver for Palmas Series Devices");
 MODULE_ALIAS("platform:palmas-clk");
 MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

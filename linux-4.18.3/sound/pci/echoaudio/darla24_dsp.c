@@ -161,3 +161,4 @@ static int set_input_clock(struct echoaudio *chip, u16 clock)
 	return set_sample_rate(chip, chip->sample_rate);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

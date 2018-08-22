@@ -604,3 +604,4 @@ int kvm_arm_pmu_v3_has_attr(struct kvm_vcpu *vcpu, struct kvm_device_attr *attr)
 
 	return -ENXIO;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1791,3 +1791,4 @@ module_exit(z85230_cleanup_driver);
 MODULE_AUTHOR("Red Hat Inc.");
 MODULE_DESCRIPTION("Z85x30 synchronous driver core");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

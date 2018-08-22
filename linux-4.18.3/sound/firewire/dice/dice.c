@@ -414,3 +414,4 @@ static void __exit alsa_dice_exit(void)
 
 module_init(alsa_dice_init);
 module_exit(alsa_dice_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

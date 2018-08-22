@@ -57,3 +57,4 @@ int ceph_decode_buffer(struct ceph_buffer **b, void **p, void *end)
 bad:
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

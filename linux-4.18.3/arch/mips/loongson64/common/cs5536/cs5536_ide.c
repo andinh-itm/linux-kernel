@@ -190,3 +190,4 @@ u32 pci_ide_read_reg(int reg)
 
 	return conf_data;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

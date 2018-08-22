@@ -693,3 +693,4 @@ void b43legacy_pio_thaw_txqueues(struct b43legacy_wldev *dev)
 	if (!list_empty(&pio->queue3->txqueue))
 		tasklet_schedule(&pio->queue3->txtask);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

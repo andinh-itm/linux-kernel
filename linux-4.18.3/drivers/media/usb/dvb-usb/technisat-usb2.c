@@ -805,3 +805,4 @@ MODULE_AUTHOR("Patrick Boettcher <pboettcher@kernellabs.com>");
 MODULE_DESCRIPTION("Driver for Technisat DVB-S/S2 USB 2.0 device");
 MODULE_VERSION("1.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

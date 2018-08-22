@@ -1300,3 +1300,4 @@ MACHINE_START(EXEDA, "Compulab eXeda")
 	.init_machine	= em_x270_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

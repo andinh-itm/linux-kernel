@@ -228,3 +228,4 @@ static struct usb_driver karma_driver = {
 };
 
 module_usb_stor_driver(karma_driver, karma_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

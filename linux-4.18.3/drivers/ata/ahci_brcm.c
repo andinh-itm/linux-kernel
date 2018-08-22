@@ -484,3 +484,4 @@ MODULE_DESCRIPTION("Broadcom SATA3 AHCI Controller Driver");
 MODULE_AUTHOR("Brian Norris");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sata-brcmstb");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

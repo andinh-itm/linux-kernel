@@ -1436,3 +1436,4 @@ MODULE_DESCRIPTION("SuperH MSIOF SPI Master Interface Driver");
 MODULE_AUTHOR("Magnus Damm");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:spi_sh_msiof");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

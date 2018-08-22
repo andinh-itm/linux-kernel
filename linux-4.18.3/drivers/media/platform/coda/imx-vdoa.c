@@ -355,3 +355,4 @@ MODULE_DESCRIPTION("Video Data Order Adapter");
 MODULE_AUTHOR("Philipp Zabel <philipp.zabel@gmail.com>");
 MODULE_ALIAS("platform:imx-vdoa");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -487,3 +487,4 @@ MODULE_AUTHOR("Daniel Jeong <gshark.jeong@gmail.com>");
 MODULE_AUTHOR("Ldd Mlp <ldd-mlp@list.ti.com>");
 MODULE_DESCRIPTION("Texas Instruments LM3560 LED flash driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

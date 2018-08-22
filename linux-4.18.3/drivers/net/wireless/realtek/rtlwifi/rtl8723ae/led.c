@@ -154,3 +154,4 @@ void rtl8723e_led_control(struct ieee80211_hw *hw,
 		 ledaction);
 	_rtl8723e_sw_led_control(hw, ledaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

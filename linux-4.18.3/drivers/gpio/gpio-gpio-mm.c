@@ -352,3 +352,4 @@ module_isa_driver(gpiomm_driver, num_gpiomm);
 MODULE_AUTHOR("William Breathitt Gray <vilhelm.gray@gmail.com>");
 MODULE_DESCRIPTION("Diamond Systems GPIO-MM GPIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

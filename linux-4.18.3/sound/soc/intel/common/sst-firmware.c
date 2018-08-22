@@ -1278,3 +1278,4 @@ EXPORT_SYMBOL_GPL(sst_dsp_free);
 
 MODULE_DESCRIPTION("Intel SST Firmware Loader");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

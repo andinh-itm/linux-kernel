@@ -236,3 +236,4 @@ void __ref check_enable_amd_mmconf_dmi(void)
 {
 	dmi_check_system(mmconf_dmi_table);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

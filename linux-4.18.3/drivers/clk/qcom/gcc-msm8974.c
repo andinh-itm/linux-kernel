@@ -2763,3 +2763,4 @@ module_exit(gcc_msm8974_exit);
 MODULE_DESCRIPTION("QCOM GCC MSM8974 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-msm8974");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

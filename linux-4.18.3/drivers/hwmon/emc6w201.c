@@ -527,3 +527,4 @@ module_i2c_driver(emc6w201_driver);
 MODULE_AUTHOR("Jean Delvare <jdelvare@suse.de>");
 MODULE_DESCRIPTION("SMSC EMC6W201 hardware monitoring driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

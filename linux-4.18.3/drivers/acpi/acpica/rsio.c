@@ -252,3 +252,4 @@ struct acpi_rsconvert_info acpi_rs_set_start_dpf[10] = {
 	{ACPI_RSC_LENGTH, 0, 0,
 	 sizeof(struct aml_resource_start_dependent_noprio)}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

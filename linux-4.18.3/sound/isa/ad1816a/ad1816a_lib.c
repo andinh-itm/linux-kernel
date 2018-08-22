@@ -978,3 +978,4 @@ int snd_ad1816a_mixer(struct snd_ad1816a *chip)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

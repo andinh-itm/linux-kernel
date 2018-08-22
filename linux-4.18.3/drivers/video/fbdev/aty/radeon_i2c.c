@@ -166,3 +166,4 @@ int radeon_probe_i2c_connector(struct radeonfb_info *rinfo, int conn,
 	return MT_CRT;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -906,3 +906,4 @@ const struct aq_hw_ops hw_atl_ops_a0 = {
 	.hw_get_hw_stats             = hw_atl_utils_get_hw_stats,
 	.hw_get_fw_version           = hw_atl_utils_get_fw_version,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

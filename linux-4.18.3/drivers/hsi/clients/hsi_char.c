@@ -799,3 +799,4 @@ MODULE_AUTHOR("Andras Domokos <andras.domokos@nokia.com>");
 MODULE_ALIAS("hsi:hsi_char");
 MODULE_DESCRIPTION("HSI character device");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

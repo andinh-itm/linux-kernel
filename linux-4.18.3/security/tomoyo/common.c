@@ -2788,3 +2788,4 @@ void __init tomoyo_load_builtin_policy(void)
 	tomoyo_check_profile();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

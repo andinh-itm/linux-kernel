@@ -781,3 +781,4 @@ static int svia_pci_device_resume(struct pci_dev *pdev)
 #endif
 
 module_pci_driver(svia_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

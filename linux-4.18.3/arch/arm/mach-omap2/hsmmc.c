@@ -174,3 +174,4 @@ void __init omap_hsmmc_init(struct omap2_hsmmc_info *controllers)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

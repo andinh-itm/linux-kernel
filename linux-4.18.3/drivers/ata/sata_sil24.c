@@ -1389,3 +1389,4 @@ MODULE_AUTHOR("Tejun Heo");
 MODULE_DESCRIPTION("Silicon Image 3124/3132 SATA low-level driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, sil24_pci_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

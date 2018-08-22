@@ -192,3 +192,4 @@ module_init(example_init);
 module_exit(example_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Stefani Seibold <stefani@seibold.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -127,3 +127,4 @@ void __kprobes patch_text(void *addr, unsigned int insn)
 
 	stop_machine_cpuslocked(patch_text_stop_machine, &patch, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

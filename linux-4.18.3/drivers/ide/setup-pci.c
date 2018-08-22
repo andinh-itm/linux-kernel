@@ -680,3 +680,4 @@ int ide_pci_resume(struct pci_dev *dev)
 }
 EXPORT_SYMBOL_GPL(ide_pci_resume);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

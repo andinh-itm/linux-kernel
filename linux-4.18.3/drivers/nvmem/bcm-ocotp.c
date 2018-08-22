@@ -321,3 +321,4 @@ module_platform_driver(bcm_otpc_driver);
 
 MODULE_DESCRIPTION("Broadcom OTPC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

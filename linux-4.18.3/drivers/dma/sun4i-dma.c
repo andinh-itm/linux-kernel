@@ -1287,3 +1287,4 @@ module_platform_driver(sun4i_dma_driver);
 MODULE_DESCRIPTION("Allwinner A10 Dedicated DMA Controller Driver");
 MODULE_AUTHOR("Emilio López <emilio@elopez.com.ar>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

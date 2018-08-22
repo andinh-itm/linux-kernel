@@ -8523,3 +8523,4 @@ fusion_exit(void)
 
 module_init(fusion_init);
 module_exit(fusion_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

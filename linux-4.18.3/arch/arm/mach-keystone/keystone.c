@@ -108,3 +108,4 @@ DT_MACHINE_START(KEYSTONE, "Keystone")
 	.dt_compat	= keystone_match,
 	.pv_fixup	= keystone_pv_fixup,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

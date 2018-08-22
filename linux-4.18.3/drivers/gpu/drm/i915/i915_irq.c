@@ -4635,3 +4635,4 @@ void intel_runtime_pm_enable_interrupts(struct drm_i915_private *dev_priv)
 	dev_priv->drm.driver->irq_preinstall(&dev_priv->drm);
 	dev_priv->drm.driver->irq_postinstall(&dev_priv->drm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

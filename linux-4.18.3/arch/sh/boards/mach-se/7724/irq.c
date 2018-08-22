@@ -144,3 +144,4 @@ void __init init_se7724_IRQ(void)
 	irq_set_chained_handler(IRQ2_IRQ, se7724_irq_demux);
 	irq_set_irq_type(IRQ2_IRQ, IRQ_TYPE_LEVEL_LOW);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

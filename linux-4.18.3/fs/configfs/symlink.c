@@ -307,3 +307,4 @@ const struct inode_operations configfs_symlink_inode_operations = {
 	.setattr = configfs_setattr,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -589,3 +589,4 @@ s32 sd_write(struct intf_hdl *pintfhdl, u32 addr, u32 cnt, void *pdata)
 		sdio_release_host(func);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

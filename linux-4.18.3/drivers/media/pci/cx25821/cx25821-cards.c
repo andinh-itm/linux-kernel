@@ -41,3 +41,4 @@ struct cx25821_board cx25821_boards[] = {
 	},
 
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

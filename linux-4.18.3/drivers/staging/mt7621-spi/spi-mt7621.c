@@ -483,3 +483,4 @@ module_platform_driver(mt7621_spi_driver);
 MODULE_DESCRIPTION("MT7621 SPI driver");
 MODULE_AUTHOR("Felix Fietkau <nbd@nbd.name>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

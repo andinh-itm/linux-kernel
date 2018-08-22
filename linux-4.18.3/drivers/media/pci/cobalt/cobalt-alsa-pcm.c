@@ -589,3 +589,4 @@ int snd_cobalt_pcm_create(struct snd_cobalt_card *cobsc)
 err_exit:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

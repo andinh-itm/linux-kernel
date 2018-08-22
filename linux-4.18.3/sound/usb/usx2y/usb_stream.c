@@ -766,3 +766,4 @@ void usb_stream_stop(struct usb_stream_kernel *sk)
 	sk->s->state = usb_stream_stopped;
 	msleep(400);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

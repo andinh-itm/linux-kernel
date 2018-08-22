@@ -190,3 +190,4 @@ nvkm_umem_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	args->v0.size = nvkm_memory_size(umem->memory);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

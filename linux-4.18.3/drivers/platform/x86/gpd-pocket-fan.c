@@ -214,3 +214,4 @@ module_platform_driver(gpd_pocket_fan_driver);
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com");
 MODULE_DESCRIPTION("GPD pocket fan driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -69,3 +69,4 @@ int __init simtec_audio_add(const char *name, bool has_lr_routing,
 	platform_device_register(&simtec_audio_dev);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

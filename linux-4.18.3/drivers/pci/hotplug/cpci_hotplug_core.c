@@ -706,3 +706,4 @@ cpci_hotplug_init(int debug)
 	cpci_debug = debug;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

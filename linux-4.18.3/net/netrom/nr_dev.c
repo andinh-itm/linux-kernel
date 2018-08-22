@@ -179,3 +179,4 @@ void nr_setup(struct net_device *dev)
 	/* New-style flags. */
 	dev->flags		= IFF_NOARP;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

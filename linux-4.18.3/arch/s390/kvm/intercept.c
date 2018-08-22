@@ -490,3 +490,4 @@ int kvm_handle_sie_intercept(struct kvm_vcpu *vcpu)
 		per_rc = kvm_s390_handle_per_ifetch_icpt(vcpu);
 	return per_rc ? per_rc : rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

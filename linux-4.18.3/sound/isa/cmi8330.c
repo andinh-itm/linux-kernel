@@ -778,3 +778,4 @@ static void __exit alsa_card_cmi8330_exit(void)
 
 module_init(alsa_card_cmi8330_init)
 module_exit(alsa_card_cmi8330_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

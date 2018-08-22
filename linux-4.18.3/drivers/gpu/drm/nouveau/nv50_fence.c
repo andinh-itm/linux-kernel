@@ -101,3 +101,4 @@ nv50_fence_create(struct nouveau_drm *drm)
 	nouveau_bo_wr32(priv->bo, 0x000, 0x00000000);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

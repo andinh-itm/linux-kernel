@@ -325,3 +325,4 @@ module_i2c_driver(max14656_i2c_driver);
 
 MODULE_DESCRIPTION("MAX14656 USB charger detector");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

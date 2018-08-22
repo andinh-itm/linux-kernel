@@ -820,3 +820,4 @@ module_comedi_pci_driver(ni_65xx_driver, ni_65xx_pci_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for NI PCI-65xx static dio boards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

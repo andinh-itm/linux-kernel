@@ -697,3 +697,4 @@ int ath6kl_hif_setup(struct ath6kl_device *dev)
 fail_setup:
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

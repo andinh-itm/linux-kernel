@@ -340,3 +340,4 @@ MACHINE_START(OMAPL138_HAWKBOARD, "AM18x/OMAP-L138 Hawkboard")
 	.dma_zone_size	= SZ_128M,
 	.reserve	= da8xx_rproc_reserve_cma,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

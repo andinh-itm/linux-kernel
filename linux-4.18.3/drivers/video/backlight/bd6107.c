@@ -205,3 +205,4 @@ module_i2c_driver(bd6107_driver);
 MODULE_DESCRIPTION("Rohm BD6107 Backlight Driver");
 MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

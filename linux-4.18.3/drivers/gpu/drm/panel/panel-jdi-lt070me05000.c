@@ -528,3 +528,4 @@ MODULE_AUTHOR("Sumit Semwal <sumit.semwal@linaro.org>");
 MODULE_AUTHOR("Vinay Simha BN <simhavcs@gmail.com>");
 MODULE_DESCRIPTION("JDI LT070ME05000 WUXGA");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

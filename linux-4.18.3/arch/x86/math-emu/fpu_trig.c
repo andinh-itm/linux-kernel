@@ -1642,3 +1642,4 @@ void FPU_trigb(void)
 {
 	(trig_table_b[FPU_rm]) (&st(0), FPU_gettag0());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

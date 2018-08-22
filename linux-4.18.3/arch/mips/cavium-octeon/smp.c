@@ -514,3 +514,4 @@ void __init octeon_setup_smp(void)
 
 	register_smp_ops(ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -111,3 +111,4 @@ nv10_devinit_new(struct nvkm_device *device, int index,
 {
 	return nv04_devinit_new_(&nv10_devinit, device, index, pinit);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

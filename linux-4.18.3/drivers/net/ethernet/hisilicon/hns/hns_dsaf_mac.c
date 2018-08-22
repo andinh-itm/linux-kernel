@@ -1171,3 +1171,4 @@ int hns_cpld_led_set_id(struct hns_mac_cb *mac_cb,
 
 	return mac_cb->dsaf_dev->misc_op->cpld_set_led_id(mac_cb, status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -733,3 +733,4 @@ const struct ethtool_ops qlge_ethtool_ops = {
 	.get_link_ksettings = ql_get_link_ksettings,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -777,3 +777,4 @@ static const struct dma_map_ops sun4u_dma_ops = {
 
 const struct dma_map_ops *dma_ops = &sun4u_dma_ops;
 EXPORT_SYMBOL(dma_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1640,3 +1640,4 @@ MODULE_LICENSE("GPL");
 
 module_init(spi_transport_init);
 module_exit(spi_transport_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

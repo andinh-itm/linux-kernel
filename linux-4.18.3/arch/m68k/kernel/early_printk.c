@@ -65,3 +65,4 @@ static int __init unregister_early_console(void)
 late_initcall(unregister_early_console);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

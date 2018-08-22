@@ -154,3 +154,4 @@ void gic_cpu_config(void __iomem *base, void (*sync_access)(void))
 	if (sync_access)
 		sync_access();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

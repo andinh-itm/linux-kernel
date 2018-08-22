@@ -213,3 +213,4 @@ void __init zylonite_pxa320_init(void)
 		wm9713_irq = mfp_to_gpio(MFP_PIN_GPIO15);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

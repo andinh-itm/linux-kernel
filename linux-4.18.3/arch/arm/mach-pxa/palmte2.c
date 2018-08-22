@@ -373,3 +373,4 @@ MACHINE_START(PALMTE2, "Palm Tungsten|E2")
 	.init_machine	= palmte2_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

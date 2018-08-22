@@ -445,3 +445,4 @@ void __init c6x_cache_init(void)
 	/* Enable L1 */
 	L1_cache_on();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

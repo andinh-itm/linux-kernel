@@ -1189,3 +1189,4 @@ module_i2c_driver(rt1305_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT1305 amplifier driver");
 MODULE_AUTHOR("Shuming Fan <shumingf@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

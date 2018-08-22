@@ -2040,3 +2040,4 @@ static int amdgpu_debugfs_pm_init(struct amdgpu_device *adev)
 	return 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

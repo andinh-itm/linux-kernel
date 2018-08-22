@@ -3047,3 +3047,4 @@ static void __exit hp100_module_exit(void)
 
 module_init(hp100_module_init)
 module_exit(hp100_module_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

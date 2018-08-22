@@ -760,3 +760,4 @@ void nhm_uncore_cpu_init(void)
 }
 
 /* end of Nehalem uncore support */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

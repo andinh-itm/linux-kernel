@@ -586,3 +586,4 @@ MACHINE_START(NEO1973_GTA02, "GTA02")
 	.init_machine	= gta02_machine_init,
 	.init_time	= gta02_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

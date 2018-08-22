@@ -102,3 +102,4 @@ struct omap_vp_param omap4_core_vp_data = {
 	.vddmin			= OMAP4_VP_CORE_VLIMITTO_VDDMIN,
 	.vddmax			= OMAP4_VP_CORE_VLIMITTO_VDDMAX,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -339,3 +339,4 @@ module_platform_driver(ti_edac_driver);
 MODULE_AUTHOR("Texas Instruments Inc.");
 MODULE_DESCRIPTION("EDAC Driver for Texas Instruments DDR3 MC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -562,3 +562,4 @@ int unregister_die_notifier(struct notifier_block *nb)
 	return atomic_notifier_chain_unregister(&die_chain, nb);
 }
 EXPORT_SYMBOL_GPL(unregister_die_notifier);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

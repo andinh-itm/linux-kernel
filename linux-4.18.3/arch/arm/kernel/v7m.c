@@ -17,3 +17,4 @@ void armv7m_restart(enum reboot_mode mode, const char *cmd)
 			BASEADDR_V7M_SCB + V7M_SCB_AIRCR);
 	dsb();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

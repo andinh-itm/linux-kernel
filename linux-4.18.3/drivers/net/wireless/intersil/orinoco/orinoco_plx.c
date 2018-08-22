@@ -369,3 +369,4 @@ module_exit(orinoco_plx_exit);
  *  tab-width: 8
  * End:
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

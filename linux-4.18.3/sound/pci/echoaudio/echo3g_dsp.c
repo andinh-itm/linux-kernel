@@ -129,3 +129,4 @@ static int set_phantom_power(struct echoaudio *chip, char on)
 				 le32_to_cpu(chip->comm_page->e3g_frq_register),
 				 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

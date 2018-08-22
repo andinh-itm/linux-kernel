@@ -62,3 +62,4 @@ nvif_user_init(struct nvif_device *device)
 	device->user.func = users[cid].func;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

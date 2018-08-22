@@ -79,3 +79,4 @@ static const struct devs_id max7315_2_dev_id __initconst = {
 
 sfi_device(max7315_dev_id);
 sfi_device(max7315_2_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

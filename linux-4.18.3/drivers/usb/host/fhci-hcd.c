@@ -828,3 +828,4 @@ MODULE_AUTHOR("Shlomi Gridish <gridish@freescale.com>, "
 	      "Jerry Huang <Chang-Ming.Huang@freescale.com>, "
 	      "Anton Vorontsov <avorontsov@ru.mvista.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

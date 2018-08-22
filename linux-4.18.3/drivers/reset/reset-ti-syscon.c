@@ -236,3 +236,4 @@ MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_AUTHOR("Suman Anna <s-anna@ti.com>");
 MODULE_DESCRIPTION("TI SYSCON Regmap Reset Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

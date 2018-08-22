@@ -257,3 +257,4 @@ MODULE_PARM_DESC(nowayout,
 MODULE_AUTHOR("Keiji Hayashibara <hayashibara.keiji@socionext.com>");
 MODULE_DESCRIPTION("UniPhier Watchdog Device Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

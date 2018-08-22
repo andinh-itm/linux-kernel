@@ -42,3 +42,4 @@ void prom_putchar(unsigned char ch)
 	while ((prom_uart_rr(base, UART_LSR) & UART_LSR_THRE) == 0)
 		;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2364,3 +2364,4 @@ s32 ixgbe_set_copper_phy_power(struct ixgbe_hw *hw, bool on)
 	status = hw->phy.ops.write_reg(hw, MDIO_CTRL1, MDIO_MMD_VEND1, reg);
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

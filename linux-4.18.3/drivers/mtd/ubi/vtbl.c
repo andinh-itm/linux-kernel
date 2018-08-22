@@ -883,3 +883,4 @@ static void self_vtbl_check(const struct ubi_device *ubi)
 		BUG();
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

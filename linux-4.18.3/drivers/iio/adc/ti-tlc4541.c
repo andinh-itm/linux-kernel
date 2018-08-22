@@ -268,3 +268,4 @@ module_spi_driver(tlc4541_driver);
 MODULE_AUTHOR("Phil Reid <preid@electromag.com.au>");
 MODULE_DESCRIPTION("Texas Instruments TLC4541 ADC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

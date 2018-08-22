@@ -117,3 +117,4 @@ int test__perf_evsel__roundtrip_name_test(struct test *test __maybe_unused, int 
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

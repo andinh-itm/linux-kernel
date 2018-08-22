@@ -737,3 +737,4 @@ MODULE_AUTHOR("Benjamin Herrenschmidt <benh@kernel.crashing.org>");
 MODULE_DESCRIPTION("Thermal control for Xserve G5");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:windfarm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

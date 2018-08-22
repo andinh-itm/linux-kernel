@@ -175,3 +175,4 @@ const char *perf_env__arch(struct perf_env *env)
 
 	return normalize_arch(arch_name);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

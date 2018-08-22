@@ -114,3 +114,4 @@ struct regmap *ocelot_io_platform_init(struct ocelot *ocelot,
 				     &ocelot_regmap_config);
 }
 EXPORT_SYMBOL(ocelot_io_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

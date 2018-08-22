@@ -130,3 +130,4 @@ module_comedi_pci_driver(labpc_pci_comedi_driver, labpc_pci_driver);
 MODULE_DESCRIPTION("Comedi: National Instruments Lab-PC PCI-1200 driver");
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

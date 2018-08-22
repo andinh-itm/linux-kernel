@@ -2435,3 +2435,4 @@ EXPORT_SYMBOL_GPL(usb_composite_overwrite_options);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Brownell");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -940,3 +940,4 @@ MODULE_ALIAS("platform:bcm2835-i2s");
 MODULE_DESCRIPTION("BCM2835 I2S interface");
 MODULE_AUTHOR("Florian Meier <florian.meier@koalo.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

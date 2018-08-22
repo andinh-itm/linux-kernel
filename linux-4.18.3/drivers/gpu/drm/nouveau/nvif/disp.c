@@ -58,3 +58,4 @@ nvif_disp_ctor(struct nvif_device *device, s32 oclass, struct nvif_disp *disp)
 	return nvif_object_init(&device->object, 0, disps[cid].oclass,
 				NULL, 0, &disp->object);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

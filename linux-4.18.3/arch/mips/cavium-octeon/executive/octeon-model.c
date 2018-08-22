@@ -509,3 +509,4 @@ const char *__init octeon_model_get_string(uint32_t chip_id)
 	static char buffer[32];
 	return octeon_model_get_string_buffer(chip_id, buffer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

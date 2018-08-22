@@ -1570,3 +1570,4 @@ static struct usb_driver isd200_driver = {
 };
 
 module_usb_stor_driver(isd200_driver, isd200_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

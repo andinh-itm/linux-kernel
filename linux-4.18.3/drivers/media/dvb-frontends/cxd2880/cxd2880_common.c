@@ -19,3 +19,4 @@ int cxd2880_convert2s_complement(u32 value, u32 bitlen)
 	else
 		return (int)(GENMASK(bitlen - 1, 0) & value);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

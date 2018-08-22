@@ -44,3 +44,4 @@ const struct xattr_handler jffs2_trusted_xattr_handler = {
 	.set = jffs2_trusted_setxattr,
 	.get = jffs2_trusted_getxattr
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -621,3 +621,4 @@ static void po1030_dump_registers(struct sd *sd)
 		m5602_write_sensor(sd, address, &old_value, 1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

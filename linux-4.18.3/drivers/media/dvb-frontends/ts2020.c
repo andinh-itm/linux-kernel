@@ -741,3 +741,4 @@ module_i2c_driver(ts2020_driver);
 MODULE_AUTHOR("Konstantin Dimitrov <kosio.dimitrov@gmail.com>");
 MODULE_DESCRIPTION("Montage Technology TS2020 - Silicon tuner driver module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

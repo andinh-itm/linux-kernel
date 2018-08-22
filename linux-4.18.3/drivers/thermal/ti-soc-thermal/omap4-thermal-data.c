@@ -259,3 +259,4 @@ const struct ti_bandgap_data omap4470_data = {
 	},
 	.sensor_count = 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

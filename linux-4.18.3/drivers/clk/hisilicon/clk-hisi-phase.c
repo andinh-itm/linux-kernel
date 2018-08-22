@@ -119,3 +119,4 @@ struct clk *clk_register_hisi_phase(struct device *dev,
 	return devm_clk_register(dev, &phase->hw);
 }
 EXPORT_SYMBOL_GPL(clk_register_hisi_phase);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

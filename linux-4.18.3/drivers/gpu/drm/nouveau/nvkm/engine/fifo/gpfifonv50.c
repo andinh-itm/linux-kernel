@@ -91,3 +91,4 @@ nv50_fifo_gpfifo_oclass = {
 	.base.maxver = 0,
 	.ctor = nv50_fifo_gpfifo_new,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -86,3 +86,4 @@ module_init(coreboot_table_acpi_init);
 
 MODULE_AUTHOR("Google, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

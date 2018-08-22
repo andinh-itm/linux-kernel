@@ -285,3 +285,4 @@ struct cec_adapter *vivid_cec_alloc_adap(struct vivid_dev *dev,
 	return cec_allocate_adapter(&vivid_cec_adap_ops, dev,
 		name, caps, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

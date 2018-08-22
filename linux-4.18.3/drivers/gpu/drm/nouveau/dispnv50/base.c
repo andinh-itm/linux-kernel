@@ -51,3 +51,4 @@ nv50_base_new(struct nouveau_drm *drm, int head, struct nv50_wndw **pwndw)
 
 	return bases[cid].new(drm, head, bases[cid].oclass, pwndw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

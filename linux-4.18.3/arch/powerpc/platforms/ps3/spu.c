@@ -634,3 +634,4 @@ void ps3_spu_set_platform(void)
 	spu_priv1_ops = &spu_priv1_ps3_ops;
 	spu_management_ops = &spu_management_ps3_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

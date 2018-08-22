@@ -95,3 +95,4 @@ MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Vadim Pasternak <vadimp@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox minimal driver");
 MODULE_DEVICE_TABLE(i2c, mlxsw_minimal_i2c_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

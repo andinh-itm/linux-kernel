@@ -129,3 +129,4 @@ const char *ceph_str_hash_name(int type)
 	}
 }
 EXPORT_SYMBOL(ceph_str_hash_name);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

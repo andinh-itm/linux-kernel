@@ -41,3 +41,4 @@ void __init plat_time_init(void)
 
 	mips_hpt_frequency = clk_get_rate(cpu_clk) / 2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -389,3 +389,4 @@ void input_ff_destroy(struct input_dev *dev)
 	}
 }
 EXPORT_SYMBOL_GPL(input_ff_destroy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -232,3 +232,4 @@ xfs_symlink_shortform_verify(
 		return __this_address;
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

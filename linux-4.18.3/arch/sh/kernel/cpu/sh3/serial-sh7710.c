@@ -19,3 +19,4 @@ static void sh7710_sci_init_pins(struct uart_port *port, unsigned int cflag)
 struct plat_sci_port_ops sh7710_sci_port_ops = {
 	.init_pins	= sh7710_sci_init_pins,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

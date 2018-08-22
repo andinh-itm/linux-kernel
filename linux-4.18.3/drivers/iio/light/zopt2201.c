@@ -566,3 +566,4 @@ module_i2c_driver(zopt2201_driver);
 MODULE_AUTHOR("Peter Meerwald-Stadler <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("IDT ZOPT2201 ambient light and UV B sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

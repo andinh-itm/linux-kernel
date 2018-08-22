@@ -346,3 +346,4 @@ void ath9k_deinit_wow(struct ieee80211_hw *hw)
 	if ((sc->driver_data & ATH9K_PCI_WOW) || sc->force_wow)
 		device_init_wakeup(sc->dev, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

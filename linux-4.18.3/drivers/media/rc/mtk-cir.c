@@ -461,3 +461,4 @@ module_platform_driver(mtk_ir_driver);
 MODULE_DESCRIPTION("Mediatek IR Receiver Controller Driver");
 MODULE_AUTHOR("Sean Wang <sean.wang@mediatek.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -166,3 +166,4 @@ MODULE_DESCRIPTION("Clkout driver for the rk808 series PMICs");
 MODULE_AUTHOR("Chris Zhong <zyw@rock-chips.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rk808-clkout");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

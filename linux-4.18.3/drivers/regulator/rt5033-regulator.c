@@ -127,3 +127,4 @@ module_platform_driver(rt5033_regulator_driver);
 MODULE_DESCRIPTION("Richtek RT5033 Regulator driver");
 MODULE_AUTHOR("Beomho Seo <beomho.seo@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

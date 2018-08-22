@@ -292,3 +292,4 @@ void snd_dma_free_pages(struct snd_dma_buffer *dmab)
 	}
 }
 EXPORT_SYMBOL(snd_dma_free_pages);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

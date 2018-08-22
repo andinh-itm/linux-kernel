@@ -2388,3 +2388,4 @@ static struct i2c_driver sii8620_driver = {
 
 module_i2c_driver(sii8620_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

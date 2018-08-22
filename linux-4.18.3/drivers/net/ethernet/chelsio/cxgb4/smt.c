@@ -245,3 +245,4 @@ struct smt_entry *cxgb4_smt_alloc_switching(struct net_device *dev, u8 *smac)
 	return t4_smt_alloc_switching(adap, 0x0, smac);
 }
 EXPORT_SYMBOL(cxgb4_smt_alloc_switching);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

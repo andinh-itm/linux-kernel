@@ -270,3 +270,4 @@ void dal_gpio_destroy(
 
 	*gpio = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

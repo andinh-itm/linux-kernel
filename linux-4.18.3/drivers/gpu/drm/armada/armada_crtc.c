@@ -1588,3 +1588,4 @@ struct platform_driver armada_lcd_platform_driver = {
 	},
 	.id_table = armada_lcd_platform_ids,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

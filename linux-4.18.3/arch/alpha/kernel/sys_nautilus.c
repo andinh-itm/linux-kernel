@@ -308,3 +308,4 @@ struct alpha_machine_vector nautilus_mv __initmv = {
 	.pci_swizzle		= common_swizzle,
 };
 ALIAS_MV(nautilus)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

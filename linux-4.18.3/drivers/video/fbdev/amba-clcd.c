@@ -1079,3 +1079,4 @@ module_exit(amba_clcdfb_exit);
 
 MODULE_DESCRIPTION("ARM PrimeCell PL110 CLCD core driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

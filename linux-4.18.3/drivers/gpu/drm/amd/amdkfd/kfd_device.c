@@ -857,3 +857,4 @@ int kfd_gtt_sa_free(struct kfd_dev *kfd, struct kfd_mem_obj *mem_obj)
 	kfree(mem_obj);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

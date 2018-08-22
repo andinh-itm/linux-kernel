@@ -124,3 +124,4 @@ int __init sa11x0_pm_init(void)
 	suspend_set_ops(&sa11x0_pm_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

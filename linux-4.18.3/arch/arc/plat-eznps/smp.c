@@ -147,3 +147,4 @@ struct plat_smp_ops plat_smp_ops = {
 	.ipi_send	= eznps_ipi_send,
 	.init_per_cpu	= eznps_init_per_cpu,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

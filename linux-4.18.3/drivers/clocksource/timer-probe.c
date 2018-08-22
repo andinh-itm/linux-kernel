@@ -52,3 +52,4 @@ void __init timer_probe(void)
 	if (!timers)
 		pr_crit("%s: no matching timers found\n", __func__);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

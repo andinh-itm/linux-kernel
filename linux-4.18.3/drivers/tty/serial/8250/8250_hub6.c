@@ -51,3 +51,4 @@ module_init(hub6_init);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("8250 serial probe module for Hub6 cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

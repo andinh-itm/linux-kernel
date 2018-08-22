@@ -1109,3 +1109,4 @@ const struct tegra_mc_soc tegra132_mc_soc = {
 	.num_resets = ARRAY_SIZE(tegra124_mc_resets),
 };
 #endif /* CONFIG_ARCH_TEGRA_132_SOC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

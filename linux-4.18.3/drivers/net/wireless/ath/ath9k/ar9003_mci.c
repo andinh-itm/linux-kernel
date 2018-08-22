@@ -1584,3 +1584,4 @@ u16 ar9003_mci_get_max_txpower(struct ath_hw *ah, u8 ctlmode)
 out:
 	return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

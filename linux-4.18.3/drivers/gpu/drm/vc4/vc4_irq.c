@@ -288,3 +288,4 @@ void vc4_irq_reset(struct drm_device *dev)
 	vc4_irq_finish_render_job(dev);
 	spin_unlock_irqrestore(&vc4->job_lock, irqflags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

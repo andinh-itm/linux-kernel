@@ -147,3 +147,4 @@ int main(int argc, char *argv[])
 	fclose(fout);
 	exit(0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

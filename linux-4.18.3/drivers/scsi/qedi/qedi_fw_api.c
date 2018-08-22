@@ -801,3 +801,4 @@ int init_cleanup_task(struct iscsi_task_params *task_params)
 		 true);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

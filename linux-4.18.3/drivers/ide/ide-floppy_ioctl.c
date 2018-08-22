@@ -302,3 +302,4 @@ out:
 	mutex_unlock(&ide_floppy_ioctl_mutex);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -397,3 +397,4 @@ int snd_emu10k1_audigy_midi(struct snd_emu10k1 *emu)
 	midi->interrupt = snd_emu10k1_midi_interrupt2;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -246,3 +246,4 @@ int xhci_rcar_resume_quirk(struct usb_hcd *hcd)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

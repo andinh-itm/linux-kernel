@@ -645,3 +645,4 @@ static void acpi_button_unregister_driver(struct acpi_driver *driver)
 
 module_driver(acpi_button_driver, acpi_button_register_driver,
 	       acpi_button_unregister_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -503,3 +503,4 @@ acpi_ex_data_table_space_handler(u32 function,
 
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

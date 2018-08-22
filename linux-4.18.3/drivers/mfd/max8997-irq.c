@@ -381,3 +381,4 @@ void max8997_irq_exit(struct max8997_dev *max8997)
 	if (max8997->irq)
 		free_irq(max8997->irq, max8997);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

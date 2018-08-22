@@ -189,3 +189,4 @@ MODULE_DESCRIPTION("SoC Camera Platform driver");
 MODULE_AUTHOR("Magnus Damm");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:soc_camera_platform");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

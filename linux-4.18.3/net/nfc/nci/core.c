@@ -1543,3 +1543,4 @@ static void nci_cmd_work(struct work_struct *work)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

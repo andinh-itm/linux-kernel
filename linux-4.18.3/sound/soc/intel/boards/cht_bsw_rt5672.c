@@ -455,3 +455,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail CR Machine driver");
 MODULE_AUTHOR("Subhransu S. Prusty, Mengdong Lin");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:cht-bsw-rt5672");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

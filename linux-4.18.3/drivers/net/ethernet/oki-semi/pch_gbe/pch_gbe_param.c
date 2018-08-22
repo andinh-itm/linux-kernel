@@ -519,3 +519,4 @@ void pch_gbe_check_options(struct pch_gbe_adapter *adapter)
 
 	pch_gbe_check_copper_options(adapter);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

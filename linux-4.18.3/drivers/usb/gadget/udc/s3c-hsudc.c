@@ -1367,3 +1367,4 @@ MODULE_DESCRIPTION("Samsung S3C24XX USB high-speed controller driver");
 MODULE_AUTHOR("Thomas Abraham <thomas.ab@samsung.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:s3c-hsudc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -300,3 +300,4 @@ EXPORT_SYMBOL_GPL(cryptd_morus1280_glue_exit_tfm);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ondrej Mosnacek <omosnacek@gmail.com>");
 MODULE_DESCRIPTION("MORUS-1280 AEAD mode -- glue for x86 optimizations");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

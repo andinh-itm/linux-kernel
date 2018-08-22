@@ -122,3 +122,4 @@ nvkm_therm_ic_ctor(struct nvkm_therm *therm)
 	nvkm_i2c_bus_probe(bus, "monitoring device", nv_board_infos,
 			   probe_monitoring_device, therm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

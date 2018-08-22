@@ -318,3 +318,4 @@ MODULE_ALIAS("platform:stm32-dac");
 MODULE_AUTHOR("Amelie Delaunay <amelie.delaunay@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 DAC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -591,3 +591,4 @@ MODULE_AUTHOR("Andrea Venturi <be17068@iperbole.bo.it>");
 MODULE_DESCRIPTION("Allwinner sun4i SPDIF SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sun4i-spdif");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

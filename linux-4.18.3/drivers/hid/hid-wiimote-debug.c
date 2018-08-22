@@ -223,3 +223,4 @@ void wiidebug_deinit(struct wiimote_data *wdata)
 	debugfs_remove(dbg->eeprom);
 	kfree(dbg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

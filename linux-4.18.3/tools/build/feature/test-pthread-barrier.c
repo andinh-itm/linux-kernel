@@ -10,3 +10,4 @@ int main(void)
 	pthread_barrier_wait(&barrier);
 	return pthread_barrier_destroy(&barrier);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -93,3 +93,4 @@ static void __exit sha512_mod_fini(void)
 
 module_init(sha512_mod_init);
 module_exit(sha512_mod_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

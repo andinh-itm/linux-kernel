@@ -1597,3 +1597,4 @@ const struct cxl_backend_ops cxl_native_ops = {
 	.afu_cr_write32 = native_afu_cr_write32,
 	.read_adapter_vpd = cxl_pci_read_adapter_vpd,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

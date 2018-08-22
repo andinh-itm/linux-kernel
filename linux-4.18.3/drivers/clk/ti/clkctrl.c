@@ -574,3 +574,4 @@ cleanup:
 }
 CLK_OF_DECLARE(ti_omap4_clkctrl_clock, "ti,clkctrl",
 	       _ti_omap4_clkctrl_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

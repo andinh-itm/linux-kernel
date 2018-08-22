@@ -250,3 +250,4 @@ int __init am43xx_dt_clk_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

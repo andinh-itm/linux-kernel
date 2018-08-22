@@ -108,3 +108,4 @@ static void __init emev2_smu_gclk_init(struct device_node *np)
 	pr_debug("## %s %s %p\n", __func__, np->name, clk);
 }
 CLK_OF_DECLARE(emev2_smu_gclk, "renesas,emev2-smu-gclk", emev2_smu_gclk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

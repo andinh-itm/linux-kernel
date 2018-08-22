@@ -1400,3 +1400,4 @@ u32 spu2_wordalign_padlen(u32 data_size)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

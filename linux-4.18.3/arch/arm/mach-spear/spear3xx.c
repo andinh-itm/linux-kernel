@@ -108,3 +108,4 @@ void __init spear3xx_timer_init(void)
 
 	spear_setup_of_timer();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

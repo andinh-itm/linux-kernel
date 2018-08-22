@@ -1180,3 +1180,4 @@ MACHINE_START(RAUMFELD_SPEAKER, "Raumfeld Speaker")
 	.restart	= pxa_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

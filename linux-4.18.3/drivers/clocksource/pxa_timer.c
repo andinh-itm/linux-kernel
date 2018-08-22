@@ -234,3 +234,4 @@ void __init pxa_timer_nodt_init(int irq, void __iomem *base)
 		pr_crit("%s: unable to get clk\n", __func__);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

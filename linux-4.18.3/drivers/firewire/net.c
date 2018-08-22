@@ -1712,3 +1712,4 @@ MODULE_AUTHOR("Jay Fenlason <fenlason@redhat.com>");
 MODULE_DESCRIPTION("IP over IEEE1394 as per RFC 2734/3146");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(ieee1394, fwnet_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -635,3 +635,4 @@ int rcar_du_modeset_init(struct rcar_du_device *rcdu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

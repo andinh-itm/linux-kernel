@@ -196,3 +196,4 @@ static int __init register_xen_amba_notifier(void)
 
 arch_initcall(register_xen_amba_notifier);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

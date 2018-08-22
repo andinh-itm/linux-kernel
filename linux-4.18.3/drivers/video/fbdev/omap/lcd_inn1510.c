@@ -77,3 +77,4 @@ module_platform_driver(innovator1510_panel_driver);
 MODULE_AUTHOR("Imre Deak");
 MODULE_DESCRIPTION("LCD panel support for the TI OMAP1510 Innovator board");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

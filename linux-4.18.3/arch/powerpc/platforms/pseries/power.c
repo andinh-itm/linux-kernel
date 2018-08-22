@@ -82,3 +82,4 @@ static int __init apo_pm_init(void)
 }
 machine_device_initcall(pseries, apo_pm_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1761,3 +1761,4 @@ MODULE_FIRMWARE("mrvl/sd8797_uapsta.bin");
 MODULE_FIRMWARE("mrvl/sd8887_uapsta.bin");
 MODULE_FIRMWARE("mrvl/sd8897_uapsta.bin");
 MODULE_FIRMWARE("mrvl/sd8997_uapsta.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

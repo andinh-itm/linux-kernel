@@ -322,3 +322,4 @@ static int __init renesas_soc_init(void)
 	return 0;
 }
 early_initcall(renesas_soc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -942,3 +942,4 @@ v4l2_hdmi_rx_colorimetry(const struct hdmi_avi_infoframe *avi,
 	return c;
 }
 EXPORT_SYMBOL_GPL(v4l2_hdmi_rx_colorimetry);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -253,3 +253,4 @@ MODULE_DESCRIPTION("ASoC WM8524 driver");
 MODULE_AUTHOR("Mihai Serban <mihai.serban@nxp.com>");
 MODULE_ALIAS("platform:wm8524-codec");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

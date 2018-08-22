@@ -3236,3 +3236,4 @@ struct platform_driver tegra_sor_driver = {
 	.probe = tegra_sor_probe,
 	.remove = tegra_sor_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

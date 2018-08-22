@@ -197,3 +197,4 @@ const struct clk_ops owl_comp_pass_ops = {
 	.enable		= owl_comp_enable,
 	.is_enabled	= owl_comp_is_enabled,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

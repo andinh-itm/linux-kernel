@@ -77,3 +77,4 @@ double dml_socbb_return_bw_mhz(soc_bounding_box_st *box, enum voltage_state volt
 
 	return return_bw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

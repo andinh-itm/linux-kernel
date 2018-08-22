@@ -474,3 +474,4 @@ void cxgb4_ptp_stop(struct adapter *adapter)
 		adapter->ptp_clock = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

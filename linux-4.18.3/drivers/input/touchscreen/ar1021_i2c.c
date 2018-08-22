@@ -194,3 +194,4 @@ module_i2c_driver(ar1021_i2c_driver);
 MODULE_AUTHOR("Christian Gmeiner <christian.gmeiner@gmail.com>");
 MODULE_DESCRIPTION("Microchip AR1020 and AR1021 I2C Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

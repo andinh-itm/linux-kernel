@@ -385,3 +385,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("DesignWare USB3 PCI Glue Layer");
 
 module_pci_driver(dwc3_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

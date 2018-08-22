@@ -236,3 +236,4 @@ void b43legacy_sysfs_unregister(struct b43legacy_wldev *wldev)
 	device_remove_file(dev, &dev_attr_shortpreamble);
 	device_remove_file(dev, &dev_attr_interference);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

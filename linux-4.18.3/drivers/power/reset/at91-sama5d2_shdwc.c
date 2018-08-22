@@ -327,3 +327,4 @@ module_platform_driver_probe(at91_shdwc_driver, at91_shdwc_probe);
 MODULE_AUTHOR("Nicolas Ferre <nicolas.ferre@atmel.com>");
 MODULE_DESCRIPTION("Atmel shutdown controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

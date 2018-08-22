@@ -597,3 +597,4 @@ MACHINE_START(MX31MOBOARD, "EPFL Mobots mx31moboard")
 	.init_late	= mx31moboard_late,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

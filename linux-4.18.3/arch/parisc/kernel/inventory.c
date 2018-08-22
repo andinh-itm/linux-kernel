@@ -629,3 +629,4 @@ void __init do_device_inventory(void)
 	printk(KERN_INFO "Found devices:\n");
 	print_parisc_devices();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

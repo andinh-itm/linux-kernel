@@ -299,3 +299,4 @@ void usb_serial_console_exit(void)
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

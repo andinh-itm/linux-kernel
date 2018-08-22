@@ -983,3 +983,4 @@ static void __exit cleanup_netconsole(void)
  */
 late_initcall(init_netconsole);
 module_exit(cleanup_netconsole);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

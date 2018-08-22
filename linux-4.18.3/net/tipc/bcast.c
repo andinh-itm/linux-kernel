@@ -576,3 +576,4 @@ void tipc_nlist_purge(struct tipc_nlist *nl)
 	nl->remote = 0;
 	nl->local = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

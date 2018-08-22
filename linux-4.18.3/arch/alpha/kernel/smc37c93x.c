@@ -273,3 +273,4 @@ int __init SMC93x_Init(void)
 		return 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

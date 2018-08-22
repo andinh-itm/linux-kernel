@@ -1191,3 +1191,4 @@ MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_AUTHOR(DRIVER_AUTHOR2);
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(usb, redrat3_dev_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

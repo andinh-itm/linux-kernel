@@ -155,3 +155,4 @@ void mtk_mdp_comp_deinit(struct device *dev, struct mtk_mdp_comp *comp)
 {
 	of_node_put(comp->dev_node);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

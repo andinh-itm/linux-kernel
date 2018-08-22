@@ -36,3 +36,4 @@ int squashfs_readpage_block(struct page *page, u64 block, int bsize, int expecte
 	squashfs_cache_put(buffer);
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

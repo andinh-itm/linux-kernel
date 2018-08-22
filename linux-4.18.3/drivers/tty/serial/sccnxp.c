@@ -1031,3 +1031,4 @@ module_platform_driver(sccnxp_uart_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("SCCNXP serial driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

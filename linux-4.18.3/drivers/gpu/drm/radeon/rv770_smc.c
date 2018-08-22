@@ -629,3 +629,4 @@ int rv770_write_smc_sram_dword(struct radeon_device *rdev,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

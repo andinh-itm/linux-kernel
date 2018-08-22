@@ -124,3 +124,4 @@ int snd_pcm_create_iec958_consumer_hw_params(struct snd_pcm_hw_params *params,
 				      cs, len);
 }
 EXPORT_SYMBOL(snd_pcm_create_iec958_consumer_hw_params);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

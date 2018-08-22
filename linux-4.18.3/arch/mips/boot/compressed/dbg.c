@@ -35,3 +35,4 @@ void puthex(unsigned long long val)
 	buf[8] = '\0';
 	puts(buf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

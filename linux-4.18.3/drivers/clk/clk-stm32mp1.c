@@ -2100,3 +2100,4 @@ static void stm32mp1_rcc_init(struct device_node *np)
 }
 
 CLK_OF_DECLARE_DRIVER(stm32mp1_rcc, "st,stm32mp1-rcc", stm32mp1_rcc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

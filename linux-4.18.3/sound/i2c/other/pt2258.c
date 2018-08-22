@@ -225,3 +225,4 @@ int snd_pt2258_build_controls(struct snd_pt2258 *pt)
 
 EXPORT_SYMBOL(snd_pt2258_reset);
 EXPORT_SYMBOL(snd_pt2258_build_controls);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

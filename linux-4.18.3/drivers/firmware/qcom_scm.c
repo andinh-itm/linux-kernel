@@ -628,3 +628,4 @@ static int __init qcom_scm_init(void)
 	return platform_driver_register(&qcom_scm_driver);
 }
 subsys_initcall(qcom_scm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

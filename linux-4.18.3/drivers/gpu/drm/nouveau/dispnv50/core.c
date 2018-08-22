@@ -68,3 +68,4 @@ nv50_core_new(struct nouveau_drm *drm, struct nv50_core **pcore)
 
 	return cores[cid].new(drm, cores[cid].oclass, pcore);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

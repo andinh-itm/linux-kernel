@@ -95,3 +95,4 @@ void intc_set_dist_handle(unsigned int irq, struct intc_desc *desc,
 	dist_handle[irq] = intc_dist_data(desc, d, id);
 	raw_spin_unlock_irqrestore(&intc_big_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

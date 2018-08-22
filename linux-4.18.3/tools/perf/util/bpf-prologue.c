@@ -500,3 +500,4 @@ int bpf__gen_prologue(struct probe_trace_arg *args, int nargs,
 errout:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

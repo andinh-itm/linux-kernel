@@ -654,3 +654,4 @@ void nilfs_mdt_clear_shadow_map(struct inode *inode)
 	truncate_inode_pages(&shadow->frozen_btnodes, 0);
 	up_write(&mi->mi_sem);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

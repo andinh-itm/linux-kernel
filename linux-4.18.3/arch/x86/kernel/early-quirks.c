@@ -774,3 +774,4 @@ void __init early_quirks(void)
 
 	early_pci_scan_bus(0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

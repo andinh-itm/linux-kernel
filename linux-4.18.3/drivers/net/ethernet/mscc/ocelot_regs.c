@@ -495,3 +495,4 @@ int ocelot_chip_init(struct ocelot *ocelot)
 	return 0;
 }
 EXPORT_SYMBOL(ocelot_chip_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -350,3 +350,4 @@ module_platform_driver(mt6380_regulator_driver);
 MODULE_AUTHOR("Chenglin Xu <chenglin.xu@mediatek.com>");
 MODULE_DESCRIPTION("Regulator Driver for MediaTek MT6380 PMIC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

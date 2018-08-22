@@ -1541,3 +1541,4 @@ static void __exit eeepc_laptop_exit(void)
 
 module_init(eeepc_laptop_init);
 module_exit(eeepc_laptop_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

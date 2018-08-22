@@ -476,3 +476,4 @@ void viafb_dvi_enable(void)
 		viafb_write_reg_mask(CR79, VIACR, 0x00, BIT0);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -430,3 +430,4 @@ module_pci_driver(intel_pch_thermal_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel PCH Thermal driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

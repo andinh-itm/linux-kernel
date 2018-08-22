@@ -755,3 +755,4 @@ static struct serio_driver pulse8_drv = {
 };
 
 module_serio_driver(pulse8_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

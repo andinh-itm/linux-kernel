@@ -248,3 +248,4 @@ MODULE_AUTHOR("Ard Biesheuvel <ard.biesheuvel@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS_CRYPTO("crc32");
 MODULE_ALIAS_CRYPTO("crc32c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

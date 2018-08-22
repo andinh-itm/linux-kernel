@@ -167,3 +167,4 @@ void psb_intel_i2c_destroy(struct psb_intel_i2c_chan *chan)
 	i2c_del_adapter(&chan->adapter);
 	kfree(chan);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

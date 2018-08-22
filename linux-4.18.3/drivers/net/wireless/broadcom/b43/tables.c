@@ -464,3 +464,4 @@ void b43_gtab_write(struct b43_wldev *dev, u16 table, u16 offset, u16 value)
 	b43_phy_write(dev, B43_PHY_GTABCTL, table + offset);
 	b43_phy_write(dev, B43_PHY_GTABDATA, value);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

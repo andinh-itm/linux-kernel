@@ -470,3 +470,4 @@ const struct stmmac_dma_ops dwmac410_dma_ops = {
 	.enable_tso = dwmac4_enable_tso,
 	.set_bfsize = dwmac4_set_bfsize,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -277,3 +277,4 @@ int snd_sb8dsp_midi(struct snd_sb *chip, int device)
 	chip->rmidi = rmidi;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

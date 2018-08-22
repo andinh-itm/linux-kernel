@@ -137,3 +137,4 @@ static int __init ide_generic_init(void)
 module_init(ide_generic_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

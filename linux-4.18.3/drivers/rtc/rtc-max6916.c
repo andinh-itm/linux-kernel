@@ -162,3 +162,4 @@ module_spi_driver(max6916_driver);
 MODULE_DESCRIPTION("MAX6916 SPI RTC DRIVER");
 MODULE_AUTHOR("Venkat Prashanth B U <venkat.prashanth2498@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

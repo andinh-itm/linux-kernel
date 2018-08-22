@@ -51,3 +51,4 @@ int in_gate_area(struct mm_struct *mm, unsigned long addr)
 
 	return (addr >= vma->vm_start) && (addr < vma->vm_end);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

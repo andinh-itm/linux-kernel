@@ -294,3 +294,4 @@ module_i2c_driver(tps65218_driver);
 MODULE_AUTHOR("J Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("TPS65218 chip family multi-function driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

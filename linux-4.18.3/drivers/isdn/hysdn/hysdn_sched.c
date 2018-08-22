@@ -195,3 +195,4 @@ hysdn_tx_cfgline(hysdn_card *card, unsigned char *line, unsigned short chan)
 
 	return (0);		/* line send correctly */
 }				/* hysdn_tx_cfgline */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

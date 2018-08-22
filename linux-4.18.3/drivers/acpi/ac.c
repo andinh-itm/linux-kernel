@@ -486,3 +486,4 @@ static void __exit acpi_ac_exit(void)
 }
 module_init(acpi_ac_init);
 module_exit(acpi_ac_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

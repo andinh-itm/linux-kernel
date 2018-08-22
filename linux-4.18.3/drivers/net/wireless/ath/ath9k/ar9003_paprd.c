@@ -1011,3 +1011,4 @@ bool ar9003_is_paprd_enabled(struct ath_hw *ah)
 	return false;
 }
 EXPORT_SYMBOL(ar9003_is_paprd_enabled);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1659,3 +1659,4 @@ static void __exit alsa_card_miro_exit(void)
 
 module_init(alsa_card_miro_init)
 module_exit(alsa_card_miro_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

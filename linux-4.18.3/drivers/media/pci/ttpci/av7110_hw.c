@@ -1214,3 +1214,4 @@ int av7110_osd_capability(struct av7110 *av7110, osd_cap_t *cap)
 	}
 }
 #endif /* CONFIG_DVB_AV7110_OSD */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

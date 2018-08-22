@@ -278,3 +278,4 @@ MODULE_AUTHOR("Fred Brooks <nsaspook@nsaspook.com>");
 MODULE_DESCRIPTION(
 	"Comedi driver for National Instruments PCMCIA DAQCard-700 DIO/AI");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -126,3 +126,4 @@ MODULE_ALIAS("platform:omap-ocp2scp");
 MODULE_AUTHOR("Texas Instruments Inc.");
 MODULE_DESCRIPTION("OMAP OCP2SCP driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

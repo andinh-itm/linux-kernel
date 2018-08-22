@@ -141,3 +141,4 @@ void SROMvReadEtherAddress(void __iomem *iobase,
 		pbyEtherAddress++;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

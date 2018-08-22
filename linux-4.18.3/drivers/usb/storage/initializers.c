@@ -92,3 +92,4 @@ int usb_stor_huawei_e220_init(struct us_data *us)
 	usb_stor_dbg(us, "Huawei mode set result is %d\n", result);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

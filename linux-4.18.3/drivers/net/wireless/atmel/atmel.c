@@ -4527,3 +4527,4 @@ _local6:
 	ldmia	sp!, {r4, r5, r6, lr}
 	bx	lr
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

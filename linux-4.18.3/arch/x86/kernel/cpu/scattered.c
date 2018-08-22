@@ -80,3 +80,4 @@ u32 get_scattered_cpuid_leaf(unsigned int level, unsigned int sub_leaf,
 	return cpuid_val;
 }
 EXPORT_SYMBOL_GPL(get_scattered_cpuid_leaf);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

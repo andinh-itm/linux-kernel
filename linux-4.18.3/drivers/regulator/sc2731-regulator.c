@@ -254,3 +254,4 @@ module_platform_driver(sc2731_regulator_driver);
 MODULE_AUTHOR("Chen Junhui <erick.chen@spreadtrum.com>");
 MODULE_DESCRIPTION("Spreadtrum SC2731 regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2246,3 +2246,4 @@ void vt_clr_kbd_mode_bit(int console, int bit)
 	clr_vc_kbd_mode(kb, bit);
 	spin_unlock_irqrestore(&kbd_event_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

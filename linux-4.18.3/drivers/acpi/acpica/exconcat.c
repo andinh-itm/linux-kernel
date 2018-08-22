@@ -403,3 +403,4 @@ acpi_ex_concat_template(union acpi_operand_object *operand0,
 	*actual_return_desc = return_desc;
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

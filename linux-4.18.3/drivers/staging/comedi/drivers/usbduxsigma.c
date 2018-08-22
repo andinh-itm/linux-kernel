@@ -1612,3 +1612,4 @@ MODULE_AUTHOR("Bernd Porr, mail@berndporr.me.uk");
 MODULE_DESCRIPTION("Stirling/ITL USB-DUX SIGMA -- mail@berndporr.me.uk");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

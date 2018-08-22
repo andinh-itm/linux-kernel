@@ -159,3 +159,4 @@ module_exit(test_async_probe_exit);
 MODULE_DESCRIPTION("Test module for asynchronous driver probing");
 MODULE_AUTHOR("Dmitry Torokhov <dtor@chromium.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

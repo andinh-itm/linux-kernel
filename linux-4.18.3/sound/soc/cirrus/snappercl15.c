@@ -134,3 +134,4 @@ MODULE_AUTHOR("Ryan Mallon");
 MODULE_DESCRIPTION("ALSA SoC Snapper CL15");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:snappercl15-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

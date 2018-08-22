@@ -3329,3 +3329,4 @@ const struct pp_smumgr_func tonga_smu_funcs = {
 	.is_dpm_running = tonga_is_dpm_running,
 	.update_dpm_settings = tonga_update_dpm_settings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -668,3 +668,4 @@ int ubi_dbg_power_cut(struct ubi_device *ubi, int caller)
 	ubi_ro_mode(ubi);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

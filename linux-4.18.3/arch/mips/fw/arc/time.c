@@ -23,3 +23,4 @@ ArcGetRelativeTime(VOID)
 {
 	return ARC_CALL0(get_rtime);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

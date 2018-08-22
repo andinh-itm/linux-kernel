@@ -858,3 +858,4 @@ void * __init __alloc_bootmem_low_node(pg_data_t *pgdat, unsigned long size,
 	return ___alloc_bootmem_node(pgdat, size, align,
 				     goal, ARCH_LOW_ADDRESS_LIMIT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

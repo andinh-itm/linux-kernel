@@ -375,3 +375,4 @@ static struct platform_driver imx_gpc_driver = {
 	.probe = imx_gpcv2_probe,
 };
 builtin_platform_driver(imx_gpc_driver)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

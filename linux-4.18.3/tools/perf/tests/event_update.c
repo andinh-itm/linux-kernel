@@ -116,3 +116,4 @@ int test__event_update(struct test *test __maybe_unused, int subtest __maybe_unu
 	cpu_map__put(evsel->own_cpus);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

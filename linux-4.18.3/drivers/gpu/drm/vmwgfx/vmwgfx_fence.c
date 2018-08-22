@@ -1165,3 +1165,4 @@ out_no_ref_obj:
 	vmw_fence_obj_unreference(&fence);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1576,3 +1576,4 @@ void ath10k_htt_set_tx_ops(struct ath10k_htt *htt)
 	else
 		htt->tx_ops = &htt_tx_ops_32;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

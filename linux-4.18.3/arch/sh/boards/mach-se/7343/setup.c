@@ -180,3 +180,4 @@ static struct sh_machine_vector mv_7343se __initmv = {
 	.mv_setup = sh7343se_setup,
 	.mv_init_irq = init_7343se_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

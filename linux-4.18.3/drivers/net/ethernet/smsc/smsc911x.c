@@ -2695,3 +2695,4 @@ static void __exit smsc911x_cleanup_module(void)
 
 module_init(smsc911x_init_module);
 module_exit(smsc911x_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

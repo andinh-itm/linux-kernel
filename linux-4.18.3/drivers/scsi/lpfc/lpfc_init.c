@@ -12708,3 +12708,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(LPFC_MODULE_DESC);
 MODULE_AUTHOR("Broadcom");
 MODULE_VERSION("0:" LPFC_DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

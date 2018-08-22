@@ -366,3 +366,4 @@ void via_clock_init(struct via_clock *clock, int gfx_chip)
 		clock->set_secondary_clock_state = noop_set_clock_state;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

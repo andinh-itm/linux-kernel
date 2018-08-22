@@ -686,3 +686,4 @@ const struct file_operations nilfs_dir_operations = {
 	.fsync		= nilfs_sync_file,
 
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

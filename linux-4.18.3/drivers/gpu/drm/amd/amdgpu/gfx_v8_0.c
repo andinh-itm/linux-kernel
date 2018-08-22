@@ -7246,3 +7246,4 @@ static void gfx_v8_0_ring_emit_de_meta(struct amdgpu_ring *ring)
 	amdgpu_ring_write(ring, upper_32_bits(de_payload_addr));
 	amdgpu_ring_write_multiple(ring, (void *)&de_payload, cnt_de - 2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1328,3 +1328,4 @@ void sctp_stream_interleave_init(struct sctp_stream *stream)
 	stream->si = asoc->intl_enable ? &sctp_stream_interleave_1
 				       : &sctp_stream_interleave_0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

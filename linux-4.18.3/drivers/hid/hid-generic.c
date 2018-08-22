@@ -87,3 +87,4 @@ module_hid_driver(hid_generic);
 MODULE_AUTHOR("Henrik Rydberg");
 MODULE_DESCRIPTION("HID generic driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

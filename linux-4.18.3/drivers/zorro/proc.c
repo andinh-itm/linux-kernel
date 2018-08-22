@@ -128,3 +128,4 @@ static int __init zorro_proc_init(void)
 }
 
 device_initcall(zorro_proc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

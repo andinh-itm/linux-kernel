@@ -144,3 +144,4 @@ static struct platform_driver ath79_reset_driver = {
 	},
 };
 builtin_platform_driver(ath79_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

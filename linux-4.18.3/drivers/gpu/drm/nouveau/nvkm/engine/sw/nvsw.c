@@ -83,3 +83,4 @@ nvkm_nvsw_new(struct nvkm_sw_chan *chan, const struct nvkm_oclass *oclass,
 {
 	return nvkm_nvsw_new_(&nvkm_nvsw, chan, oclass, data, size, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

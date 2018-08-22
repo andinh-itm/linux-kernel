@@ -478,3 +478,4 @@ MODULE_PARM_DESC(relaxed_check,
 MODULE_AUTHOR("Dominik Brodowski <linux@brodo.de>");
 MODULE_DESCRIPTION("Library for Intel SpeedStep 1 or 2 cpufreq drivers.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

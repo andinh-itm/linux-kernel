@@ -134,3 +134,4 @@ static struct platform_driver clk_mt6797_mm_drv = {
 };
 
 builtin_platform_driver(clk_mt6797_mm_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

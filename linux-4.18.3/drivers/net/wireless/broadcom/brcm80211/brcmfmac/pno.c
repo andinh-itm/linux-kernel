@@ -589,3 +589,4 @@ u32 brcmf_pno_get_bucket_map(struct brcmf_pno_info *pi,
 	mutex_unlock(&pi->req_lock);
 	return bucket_map;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

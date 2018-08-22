@@ -28,3 +28,4 @@ EXPORT_SYMBOL_GPL(kvmppc_hv_entry_trampoline);
 EXPORT_SYMBOL_GPL(kvmppc_entry_trampoline);
 #endif
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

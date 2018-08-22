@@ -798,3 +798,4 @@ static void __init clkgen_c28_plla9_setup(struct device_node *np)
 			(struct clkgen_pll_data *) &st_pll4600c28_418_a9);
 }
 CLK_OF_DECLARE(c28_plla9, "st,stih418-clkgen-plla9", clkgen_c28_plla9_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

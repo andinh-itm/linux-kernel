@@ -514,3 +514,4 @@ module_platform_driver(atmel_tcb_pwm_driver);
 MODULE_AUTHOR("Boris BREZILLON <b.brezillon@overkiz.com>");
 MODULE_DESCRIPTION("Atmel Timer Counter Pulse Width Modulation Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

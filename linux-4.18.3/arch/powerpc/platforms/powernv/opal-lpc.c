@@ -419,3 +419,4 @@ void __init opal_lpc_init(void)
 		isa_io_special = true;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

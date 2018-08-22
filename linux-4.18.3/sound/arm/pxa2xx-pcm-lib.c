@@ -184,3 +184,4 @@ EXPORT_SYMBOL(pxa2xx_pcm_free_dma_buffers);
 MODULE_AUTHOR("Nicolas Pitre");
 MODULE_DESCRIPTION("Intel PXA2xx sound library");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

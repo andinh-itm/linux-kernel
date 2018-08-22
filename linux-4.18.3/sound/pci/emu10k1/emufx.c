@@ -2787,3 +2787,4 @@ void snd_emu10k1_efx_resume(struct snd_emu10k1 *emu)
 		snd_emu10k1_ptr_write(emu, DBG, 0, emu->fx8010.dbg);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

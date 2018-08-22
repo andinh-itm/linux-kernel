@@ -659,3 +659,4 @@ const struct file_operations exofs_dir_operations = {
 	.read		= generic_read_dir,
 	.iterate_shared	= exofs_readdir,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

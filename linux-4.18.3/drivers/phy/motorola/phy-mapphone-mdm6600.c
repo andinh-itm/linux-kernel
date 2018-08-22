@@ -625,3 +625,4 @@ MODULE_ALIAS("platform:gpio_usb");
 MODULE_AUTHOR("Tony Lindgren <tony@atomide.com>");
 MODULE_DESCRIPTION("mdm6600 gpio usb phy driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -235,3 +235,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, ibmasm_pci_table);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

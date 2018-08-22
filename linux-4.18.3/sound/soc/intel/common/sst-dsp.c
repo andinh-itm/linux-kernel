@@ -422,3 +422,4 @@ EXPORT_SYMBOL_GPL(sst_dsp_inbox_read);
 MODULE_AUTHOR("Liam Girdwood");
 MODULE_DESCRIPTION("Intel SST Core");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

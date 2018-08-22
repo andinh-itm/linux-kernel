@@ -853,3 +853,4 @@ void oaktrail_hdmi_restore(struct drm_device *dev)
 	for (i = 0; i < 256; i++)
 		PSB_WVDC32(pipeb->palette[i], PALETTE_B + (i << 2));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

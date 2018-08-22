@@ -2074,3 +2074,4 @@ intel_bios_is_lspcon_present(struct drm_i915_private *dev_priv,
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

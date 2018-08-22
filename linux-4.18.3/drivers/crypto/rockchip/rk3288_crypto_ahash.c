@@ -403,3 +403,4 @@ struct rk_crypto_tmp rk_ahash_md5 = {
 			}
 	}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1297,3 +1297,4 @@ int get_xonar_pcm179x_model(struct oxygen *chip,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

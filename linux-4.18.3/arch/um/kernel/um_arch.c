@@ -361,3 +361,4 @@ void __init check_bugs(void)
 void apply_alternatives(struct alt_instr *start, struct alt_instr *end)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

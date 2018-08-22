@@ -284,3 +284,4 @@ MODULE_AUTHOR("Sedji Gaouaou <sedji.gaouaou@atmel.com>");
 MODULE_DESCRIPTION("ALSA SoC AT91SAM9G20EK_WM8731");
 MODULE_ALIAS("platform:at91sam9g20ek-audio");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

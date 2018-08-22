@@ -123,3 +123,4 @@ const struct ide_proc_devset ide_disk_settings[] = {
 	IDE_PROC_DEVSET(wcache,		0,     1),
 	{ NULL },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

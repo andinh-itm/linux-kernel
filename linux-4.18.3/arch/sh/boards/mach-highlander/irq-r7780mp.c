@@ -72,3 +72,4 @@ unsigned char * __init highlander_plat_irq_setup(void)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

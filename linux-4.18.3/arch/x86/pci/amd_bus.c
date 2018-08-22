@@ -400,3 +400,4 @@ static int __init amd_postcore_init(void)
 }
 
 postcore_initcall(amd_postcore_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

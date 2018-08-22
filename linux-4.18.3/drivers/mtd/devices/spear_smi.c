@@ -1088,3 +1088,4 @@ module_platform_driver(spear_smi_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ashish Priyadarshi, Shiraz Hashim <shiraz.linux.kernel@gmail.com>");
 MODULE_DESCRIPTION("MTD SMI driver for serial nor flash chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

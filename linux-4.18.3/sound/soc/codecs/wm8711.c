@@ -508,3 +508,4 @@ module_exit(wm8711_exit);
 MODULE_DESCRIPTION("ASoC WM8711 driver");
 MODULE_AUTHOR("Mike Arthur");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -114,3 +114,4 @@ unsigned long long msr_intel_get_turbo_ratio(unsigned int cpu)
 	return val;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

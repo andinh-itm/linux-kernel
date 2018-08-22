@@ -458,3 +458,4 @@ const struct file_operations omfs_dir_operations = {
 	.iterate_shared = omfs_readdir,
 	.llseek = generic_file_llseek,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

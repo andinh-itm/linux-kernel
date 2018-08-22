@@ -1920,3 +1920,4 @@ static const struct field_t _RasMessage[] = {	/* CHOICE */
 	 NULL},
 	{FNAME("serviceControlResponse") SEQ, 7, 8, 8, STOP | EXT, 0, NULL},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

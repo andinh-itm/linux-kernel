@@ -1161,3 +1161,4 @@ module_i2c_driver(mt9t112_i2c_driver);
 MODULE_DESCRIPTION("SoC Camera driver for mt9t112");
 MODULE_AUTHOR("Kuninori Morimoto");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -65,3 +65,4 @@ module_i2c_driver(pcm179x_i2c_driver);
 MODULE_DESCRIPTION("ASoC PCM179X I2C driver");
 MODULE_AUTHOR("Jacob Siverskog <jacob@teenage.engineering>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

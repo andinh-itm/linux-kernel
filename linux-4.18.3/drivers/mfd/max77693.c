@@ -390,3 +390,4 @@ module_i2c_driver(max77693_i2c_driver);
 MODULE_DESCRIPTION("MAXIM 77693 multi-function core driver");
 MODULE_AUTHOR("SangYoung, Son <hello.son@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

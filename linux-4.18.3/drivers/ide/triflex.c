@@ -153,3 +153,4 @@ MODULE_DESCRIPTION("PCI driver module for Compaq Triflex IDE");
 MODULE_LICENSE("GPL");
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -43,3 +43,4 @@ int sparc32_classify_syscall(unsigned int syscall)
 		return 1;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

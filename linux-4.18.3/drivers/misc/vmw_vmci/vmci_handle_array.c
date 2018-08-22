@@ -140,3 +140,4 @@ struct vmci_handle *vmci_handle_arr_get_handles(struct vmci_handle_arr *array)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

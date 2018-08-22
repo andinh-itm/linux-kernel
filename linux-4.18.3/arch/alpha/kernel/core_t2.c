@@ -622,3 +622,4 @@ t2_machine_check(unsigned long vector, unsigned long la_ptr)
 
 	process_mcheck_info(vector, la_ptr, "T2", mcheck_expected(cpu));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

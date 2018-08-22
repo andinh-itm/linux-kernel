@@ -316,3 +316,4 @@ acpi_ex_stop_trace_opcode(union acpi_parse_object *op,
 				 op->common.aml, op->common.aml_op_name);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

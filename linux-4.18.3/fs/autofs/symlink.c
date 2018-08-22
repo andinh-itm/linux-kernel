@@ -27,3 +27,4 @@ static const char *autofs_get_link(struct dentry *dentry,
 const struct inode_operations autofs_symlink_inode_operations = {
 	.get_link	= autofs_get_link
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

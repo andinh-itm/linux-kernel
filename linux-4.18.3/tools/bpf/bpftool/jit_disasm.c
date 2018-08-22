@@ -181,3 +181,4 @@ void disasm_print_insn(unsigned char *image, ssize_t len, int opcodes,
 
 	bfd_close(bfdf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

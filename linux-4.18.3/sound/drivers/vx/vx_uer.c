@@ -307,3 +307,4 @@ int vx_change_frequency(struct vx_core *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

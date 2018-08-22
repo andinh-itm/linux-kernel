@@ -125,3 +125,4 @@ const struct wiphy_vendor_command brcmf_vendor_cmds[] = {
 		.doit = brcmf_cfg80211_vndr_cmds_dcmd_handler
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

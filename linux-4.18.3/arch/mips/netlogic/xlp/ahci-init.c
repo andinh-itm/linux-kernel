@@ -207,3 +207,4 @@ DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_NETLOGIC, PCI_DEVICE_ID_NLM_SATA,
 		nlm_sata_fixup_bar);
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_NETLOGIC, PCI_DEVICE_ID_NLM_SATA,
 		nlm_sata_fixup_final);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -124,3 +124,4 @@ void via_driver_unload(struct drm_device *dev)
 
 	kfree(dev_priv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

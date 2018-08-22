@@ -634,3 +634,4 @@ int snd_emu10k1_synth_copy_from_user(struct snd_emu10k1 *emu, struct snd_util_me
 }
 
 EXPORT_SYMBOL(snd_emu10k1_synth_copy_from_user);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

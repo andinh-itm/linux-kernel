@@ -46,3 +46,4 @@ void __init dn_init_IRQ(void)
 	m68k_setup_irq_controller(&apollo_irq_chip, handle_fasteoi_irq,
 				  IRQ_APOLLO, 16);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

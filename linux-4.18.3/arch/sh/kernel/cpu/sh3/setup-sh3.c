@@ -69,3 +69,4 @@ void __init plat_irq_setup_sh3(void)
 {
 	register_intc_controller(&intc_desc_irq45);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

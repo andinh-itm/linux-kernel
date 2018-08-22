@@ -55,3 +55,4 @@ struct platform_device *__init imx_add_imx_keypad(
 	return imx_add_platform_device("imx-keypad", -1,
 			res, ARRAY_SIZE(res), pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

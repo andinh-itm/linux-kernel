@@ -135,3 +135,4 @@ module_platform_driver(atmel_flexcom_driver);
 MODULE_AUTHOR("Cyrille Pitchen <cyrille.pitchen@atmel.com>");
 MODULE_DESCRIPTION("Atmel Flexcom MFD driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

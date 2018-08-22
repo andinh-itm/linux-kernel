@@ -176,3 +176,4 @@ static struct serio_driver tr_drv = {
 };
 
 module_serio_driver(tr_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

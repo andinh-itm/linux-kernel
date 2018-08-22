@@ -473,3 +473,4 @@ module_platform_driver(tps65910_rtc_driver);
 MODULE_ALIAS("platform:rtc-tps65910");
 MODULE_AUTHOR("Venu Byravarasu <vbyravarasu@nvidia.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

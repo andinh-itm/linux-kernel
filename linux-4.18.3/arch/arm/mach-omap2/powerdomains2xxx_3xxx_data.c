@@ -63,3 +63,4 @@ struct powerdomain wkup_omap2_pwrdm = {
 	.pwrsts		= PWRSTS_ON,
 	.voltdm		= { .name = "wakeup" },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

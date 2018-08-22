@@ -88,3 +88,4 @@ int soc_mac_addr(unsigned int index, u8 *addr)
 	return 1;
 }
 EXPORT_SYMBOL_GPL(soc_mac_addr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -622,3 +622,4 @@ static int __init init_oss_soundcore(void)
 }
 
 #endif /* CONFIG_SOUND_OSS_CORE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

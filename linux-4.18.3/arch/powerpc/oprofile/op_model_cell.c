@@ -1711,3 +1711,4 @@ struct op_powerpc_model op_model_cell = {
 	.sync_stop = cell_sync_stop,
 	.handle_interrupt = cell_handle_interrupt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

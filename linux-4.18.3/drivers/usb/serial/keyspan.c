@@ -3121,3 +3121,4 @@ MODULE_FIRMWARE("keyspan/usa18x.fw");
 MODULE_FIRMWARE("keyspan/usa19w.fw");
 MODULE_FIRMWARE("keyspan/usa49w.fw");
 MODULE_FIRMWARE("keyspan/usa49wlc.fw");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

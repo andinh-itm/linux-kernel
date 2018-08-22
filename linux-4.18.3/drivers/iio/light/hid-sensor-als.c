@@ -401,3 +401,4 @@ module_platform_driver(hid_als_platform_driver);
 MODULE_DESCRIPTION("HID Sensor ALS");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@intel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

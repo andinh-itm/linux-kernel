@@ -54,3 +54,4 @@ module_exit(trace_printk_exit);
 MODULE_AUTHOR("Steven Rostedt");
 MODULE_DESCRIPTION("trace-printk");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

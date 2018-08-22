@@ -352,3 +352,4 @@ int t3_aq100x_phy_prep(struct cphy *phy, struct adapter *adapter, int phy_addr,
 done:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

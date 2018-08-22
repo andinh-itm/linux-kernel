@@ -15546,3 +15546,4 @@ void bnx2x_init_ptp(struct bnx2x *bp)
 
 	DP(BNX2X_MSG_PTP, "PTP initialization ended successfully\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

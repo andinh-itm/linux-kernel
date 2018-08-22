@@ -373,3 +373,4 @@ MODULE_ALIAS("platform:ts_nbus");
 MODULE_AUTHOR("Sebastien Bourdelin <sebastien.bourdelin@savoirfairelinux.com>");
 MODULE_DESCRIPTION("Technologic Systems NBUS");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

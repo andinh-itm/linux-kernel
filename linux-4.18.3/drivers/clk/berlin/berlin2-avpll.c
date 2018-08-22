@@ -380,3 +380,4 @@ int __init berlin2_avpll_channel_register(void __iomem *base,
 
 	return clk_hw_register(NULL, &ch->hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

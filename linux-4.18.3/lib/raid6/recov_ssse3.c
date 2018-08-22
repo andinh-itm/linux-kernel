@@ -336,3 +336,4 @@ const struct raid6_recov_calls raid6_recov_ssse3 = {
 #else
 #warning "your version of binutils lacks SSSE3 support"
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

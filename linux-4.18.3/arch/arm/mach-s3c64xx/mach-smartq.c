@@ -423,3 +423,4 @@ void __init smartq_machine_init(void)
 	gpiod_add_lookup_table(&smartq_audio_gpios);
 	platform_device_register_simple("smartq-audio", -1, NULL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

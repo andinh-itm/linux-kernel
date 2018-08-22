@@ -881,3 +881,4 @@ void rtl8723e_dm_bt_coexist(struct ieee80211_hw *hw)
 		 "[DM][BT], bt_dm_coexist start\n");
 	rtl8723e_dm_bt_coexist_8723(hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

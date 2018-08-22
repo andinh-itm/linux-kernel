@@ -423,3 +423,4 @@ MODULE_ALIAS("platform:jz4740-battery");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("JZ4740 SoC battery driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

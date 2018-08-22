@@ -284,3 +284,4 @@ static int __init sirfsoc_of_timer_init(struct device_node *np)
 	return sirfsoc_atlas7_timer_init(np);
 }
 TIMER_OF_DECLARE(sirfsoc_atlas7_timer, "sirf,atlas7-tick", sirfsoc_of_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -386,3 +386,4 @@ struct vsp1_sru *vsp1_sru_create(struct vsp1_device *vsp1)
 
 	return sru;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

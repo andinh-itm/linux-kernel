@@ -1695,3 +1695,4 @@ void thread__resolve(struct thread *thread, struct addr_location *al,
 	if (al->map)
 		al->sym = map__find_symbol(al->map, al->addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

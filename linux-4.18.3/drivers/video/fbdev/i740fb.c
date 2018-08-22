@@ -1306,3 +1306,4 @@ MODULE_PARM_DESC(mode_option, "Default video mode ('640x480-8@60', etc)");
 
 module_param(mtrr, int, 0444);
 MODULE_PARM_DESC(mtrr, "Enable write-combining with MTRR (1=enable, 0=disable, default=1)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

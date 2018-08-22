@@ -4849,3 +4849,4 @@ const struct amdgpu_ip_block_version gfx_v9_0_ip_block =
 	.rev = 0,
 	.funcs = &gfx_v9_0_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

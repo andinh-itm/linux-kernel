@@ -257,3 +257,4 @@ module_platform_driver(s3c24xx_uda134x_driver);
 MODULE_AUTHOR("Zoltan Devai, Christian Pellegrin <chripell@evolware.org>");
 MODULE_DESCRIPTION("S3C24XX_UDA134X ALSA SoC audio driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -445,3 +445,4 @@ void rtl8723_phy_pi_mode_switch(struct ieee80211_hw *hw, bool pi_mode)
 	rtl_set_bbreg(hw, 0x828, MASKDWORD, mode);
 }
 EXPORT_SYMBOL_GPL(rtl8723_phy_pi_mode_switch);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

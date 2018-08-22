@@ -1939,3 +1939,4 @@ static struct platform_driver xgene_pmu_driver = {
 };
 
 builtin_platform_driver(xgene_pmu_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

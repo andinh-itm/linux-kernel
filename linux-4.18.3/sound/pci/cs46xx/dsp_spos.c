@@ -2051,3 +2051,4 @@ int cs46xx_dsp_resume(struct snd_cs46xx * chip)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

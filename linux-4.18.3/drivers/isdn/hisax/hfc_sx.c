@@ -1515,3 +1515,4 @@ int setup_hfcsx(struct IsdnCard *card)
 	cs->auxcmd = &hfcsx_auxcmd;
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

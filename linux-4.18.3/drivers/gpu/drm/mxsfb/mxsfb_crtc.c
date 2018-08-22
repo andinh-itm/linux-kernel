@@ -318,3 +318,4 @@ void mxsfb_plane_atomic_update(struct mxsfb_drm_private *mxsfb,
 	writel(gem->paddr, mxsfb->base + mxsfb->devdata->next_buf);
 	mxsfb_disable_axi_clk(mxsfb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

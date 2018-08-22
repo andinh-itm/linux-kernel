@@ -86,3 +86,4 @@ GtkWidget *perf_gtk__setup_statusbar(void)
 
 	return stbar;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

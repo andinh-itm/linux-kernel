@@ -402,3 +402,4 @@ int __init omap3_idle_init(void)
 	else
 		return cpuidle_register(&omap3_idle_driver, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

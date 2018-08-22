@@ -266,3 +266,4 @@ int amdgpu_dm_set_degamma_lut(struct drm_crtc_state *crtc_state,
 	return -EINVAL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

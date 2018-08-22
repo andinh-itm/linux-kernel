@@ -263,3 +263,4 @@ struct platform_driver mtk_cec_driver = {
 		.of_match_table = mtk_cec_of_ids,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

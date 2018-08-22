@@ -250,3 +250,4 @@ void nvme_mpath_remove_disk(struct nvme_ns_head *head)
 	blk_cleanup_queue(head->disk->queue);
 	put_disk(head->disk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

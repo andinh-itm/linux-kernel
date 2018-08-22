@@ -1162,3 +1162,4 @@ static struct hda_codec_driver conexant_driver = {
 };
 
 module_hda_codec_driver(conexant_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -411,3 +411,4 @@ struct spu_context_ops spu_backing_ops = {
 	.send_mfc_command = spu_backing_send_mfc_command,
 	.restart_dma = spu_backing_restart_dma,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

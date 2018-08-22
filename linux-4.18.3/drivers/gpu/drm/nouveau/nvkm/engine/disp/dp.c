@@ -650,3 +650,4 @@ nvkm_dp_new(struct nvkm_disp *disp, int index, struct dcb_output *dcbE,
 
 	return nvkm_dp_ctor(disp, index, dcbE, aux, dp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

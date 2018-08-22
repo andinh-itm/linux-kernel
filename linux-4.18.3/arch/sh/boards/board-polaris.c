@@ -154,3 +154,4 @@ static struct sh_machine_vector mv_polaris __initmv = {
 	.mv_name		= "Polaris",
 	.mv_init_irq		= init_polaris_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

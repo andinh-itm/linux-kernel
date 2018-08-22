@@ -70,3 +70,4 @@ static enum fscache_checkaux afs_vnode_cache_check_aux(void *cookie_netfs_data,
 	_leave(" = SUCCESS");
 	return FSCACHE_CHECKAUX_OKAY;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

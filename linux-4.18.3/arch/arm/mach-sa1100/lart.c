@@ -175,3 +175,4 @@ MACHINE_START(LART, "LART")
 	.init_time	= sa1100_timer_init,
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

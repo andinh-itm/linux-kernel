@@ -1004,3 +1004,4 @@ MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@skynet.be>");
 MODULE_DESCRIPTION("Driver module for ZR36060 jpeg processors "
 		   ZR060_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

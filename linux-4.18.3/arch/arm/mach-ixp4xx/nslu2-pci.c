@@ -69,3 +69,4 @@ int __init nslu2_pci_init(void) /* monkey see, monkey do */
 }
 
 subsys_initcall(nslu2_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

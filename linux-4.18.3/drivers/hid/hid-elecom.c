@@ -101,3 +101,4 @@ static struct hid_driver elecom_driver = {
 module_hid_driver(elecom_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -234,3 +234,4 @@ const struct seq_operations cpuinfo_op = {
 	.show	= show_cpuinfo,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

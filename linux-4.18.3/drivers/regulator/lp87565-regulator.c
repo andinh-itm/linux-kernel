@@ -239,3 +239,4 @@ module_platform_driver(lp87565_regulator_driver);
 MODULE_AUTHOR("J Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("LP87565 voltage regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

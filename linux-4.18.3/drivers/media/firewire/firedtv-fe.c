@@ -252,3 +252,4 @@ void fdtv_frontend_init(struct firedtv *fdtv, const char *name)
 	fdtv->fe.dvb = &fdtv->adapter;
 	fdtv->fe.sec_priv = fdtv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -127,3 +127,4 @@ struct img_ir_decoder img_ir_sanyo = {
 	.scancode = img_ir_sanyo_scancode,
 	.filter = img_ir_sanyo_filter,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

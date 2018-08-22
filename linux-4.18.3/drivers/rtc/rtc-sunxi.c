@@ -511,3 +511,4 @@ module_platform_driver(sunxi_rtc_driver);
 MODULE_DESCRIPTION("sunxi RTC driver");
 MODULE_AUTHOR("Carlo Caione <carlo.caione@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

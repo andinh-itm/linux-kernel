@@ -368,3 +368,4 @@ module_exit(caam_rng_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("FSL CAAM support for hw_random API");
 MODULE_AUTHOR("Freescale Semiconductor - NMG");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

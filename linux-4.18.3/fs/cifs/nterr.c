@@ -685,3 +685,4 @@ const struct nt_err_code_struct nt_errs[] = {
 	{"NT_STATUS_SOME_UNMAPPED", NT_STATUS_SOME_UNMAPPED},
 	{NULL, 0}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

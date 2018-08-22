@@ -357,3 +357,4 @@ void __init time_init(void)
 }
 
 TIMER_OF_DECLARE(nios2_timer, ALTR_TIMER_COMPATIBLE, nios2_time_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

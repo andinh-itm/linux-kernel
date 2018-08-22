@@ -575,3 +575,4 @@ static void __init of_nomadik_src_clk_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(nomadik_src_clk,
 	"st,nomadik-src-clock", of_nomadik_src_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

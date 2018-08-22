@@ -212,3 +212,4 @@ static int __init palmas_gpio_init(void)
 	return platform_driver_register(&palmas_gpio_driver);
 }
 subsys_initcall(palmas_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

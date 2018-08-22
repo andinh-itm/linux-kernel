@@ -219,3 +219,4 @@ module_spi_driver(max5481_driver);
 MODULE_AUTHOR("Maury Anderson <maury.anderson@rockwellcollins.com>");
 MODULE_DESCRIPTION("max5481 SPI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

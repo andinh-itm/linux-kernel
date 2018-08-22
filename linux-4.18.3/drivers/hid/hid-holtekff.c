@@ -223,3 +223,4 @@ module_hid_driver(holtek_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Anssi Hannula <anssi.hannula@iki.fi>");
 MODULE_DESCRIPTION("Force feedback support for Holtek On Line Grip based devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

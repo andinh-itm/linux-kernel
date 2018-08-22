@@ -96,3 +96,4 @@ MACHINE_START(CM_A510, "Compulab CM-A510 Board")
 	.init_time	= dove_timer_init,
 	.restart	= dove_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

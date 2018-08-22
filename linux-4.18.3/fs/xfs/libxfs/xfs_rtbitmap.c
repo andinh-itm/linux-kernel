@@ -1100,3 +1100,4 @@ xfs_rtalloc_extent_is_free(
 	*is_free = matches;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

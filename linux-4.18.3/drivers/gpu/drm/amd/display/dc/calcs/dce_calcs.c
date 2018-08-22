@@ -3560,3 +3560,4 @@ bool bw_calcs(struct dc_context *ctx,
 
 	return is_display_configuration_supported(vbios, calcs_output);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

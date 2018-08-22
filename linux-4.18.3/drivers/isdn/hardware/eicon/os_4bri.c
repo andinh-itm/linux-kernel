@@ -1130,3 +1130,4 @@ static int diva_4bri_stop_adapter(diva_os_xdi_adapter_t *a)
 
 	return (0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

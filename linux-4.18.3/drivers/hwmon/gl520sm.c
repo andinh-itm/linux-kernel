@@ -937,3 +937,4 @@ MODULE_AUTHOR("Frodo Looijaard <frodol@dds.nl>, "
 	"Maarten Deprez <maartendeprez@users.sourceforge.net>");
 MODULE_DESCRIPTION("GL520SM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

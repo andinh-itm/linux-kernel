@@ -934,3 +934,4 @@ struct drm_plane *vc4_plane_init(struct drm_device *dev,
 
 	return plane;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

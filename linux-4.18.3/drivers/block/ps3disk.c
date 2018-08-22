@@ -588,3 +588,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("PS3 Disk Storage Driver");
 MODULE_AUTHOR("Sony Corporation");
 MODULE_ALIAS(PS3_MODULE_ALIAS_STOR_DISK);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

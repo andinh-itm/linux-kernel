@@ -296,3 +296,4 @@ module_platform_driver(gsw_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Crispin <blogic@openwrt.org>");
 MODULE_DESCRIPTION("GBit switch driver for Mediatek MT7621 SoC");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

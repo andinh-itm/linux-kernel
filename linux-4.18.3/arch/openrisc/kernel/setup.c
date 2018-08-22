@@ -411,3 +411,4 @@ const struct seq_operations cpuinfo_op = {
 	.stop = c_stop,
 	.show = show_cpuinfo,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

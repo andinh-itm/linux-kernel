@@ -3550,3 +3550,4 @@ void i915_perf_fini(struct drm_i915_private *dev_priv)
 
 	dev_priv->perf.initialized = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

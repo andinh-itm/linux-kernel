@@ -729,3 +729,4 @@ void kvmhv_p9_restore_lpcr(struct kvm_split_mode *sip)
 	smp_mb();
 	local_paca->kvm_hstate.kvm_split_mode = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

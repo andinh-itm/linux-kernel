@@ -1103,3 +1103,4 @@ struct snd_ice1712_card_info snd_vt1724_qtet_cards[] = {
 	},
 	{ } /* terminator */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

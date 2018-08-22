@@ -263,3 +263,4 @@ void qxl_device_fini(struct qxl_device *qdev)
 	iounmap(qdev->rom);
 	qdev->rom = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

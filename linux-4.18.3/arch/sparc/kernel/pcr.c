@@ -370,3 +370,4 @@ out_unregister:
 	unregister_perf_hsvc();
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

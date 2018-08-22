@@ -353,3 +353,4 @@ void ssb_mipscore_init(struct ssb_mipscore *mcore)
 	ssb_mips_serial_init(mcore);
 	ssb_mips_flash_detect(mcore);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

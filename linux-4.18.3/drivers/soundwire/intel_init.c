@@ -199,3 +199,4 @@ EXPORT_SYMBOL(sdw_intel_exit);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("Intel Soundwire Init Library");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

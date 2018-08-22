@@ -33,3 +33,4 @@ static int __init swarm_i2c_init(void)
 }
 
 arch_initcall(swarm_i2c_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

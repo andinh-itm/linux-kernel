@@ -450,3 +450,4 @@ int get_xonar_cs43xx_model(struct oxygen *chip,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

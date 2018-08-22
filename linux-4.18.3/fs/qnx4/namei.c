@@ -120,3 +120,4 @@ struct dentry * qnx4_lookup(struct inode *dir, struct dentry *dentry, unsigned i
 out:
 	return d_splice_alias(foundinode, dentry);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

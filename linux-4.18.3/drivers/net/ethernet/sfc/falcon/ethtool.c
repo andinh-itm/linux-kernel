@@ -1344,3 +1344,4 @@ const struct ethtool_ops ef4_ethtool_ops = {
 	.get_link_ksettings	= ef4_ethtool_get_link_ksettings,
 	.set_link_ksettings	= ef4_ethtool_set_link_ksettings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -44,3 +44,4 @@ int snd_dice_detect_mytek_formats(struct snd_dice *dice)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

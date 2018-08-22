@@ -321,3 +321,4 @@ const struct inode_operations hfs_dir_inode_operations = {
 	.rename		= hfs_rename,
 	.setattr	= hfs_inode_setattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

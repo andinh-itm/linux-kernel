@@ -53,3 +53,4 @@ void hal8822b_wifi_only_switch_antenna(struct wifi_only_cfg *wifionlycfg,
 	else
 		halwifionly_phy_set_bb_reg(wifionlycfg, 0xcbc, 0x300, 0x2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

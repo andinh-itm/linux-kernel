@@ -198,3 +198,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail/Cherrytrail Nocodec Machine driver");
 MODULE_AUTHOR("Pierre-Louis Bossart <pierre-louis.bossart at linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bytcht_nocodec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

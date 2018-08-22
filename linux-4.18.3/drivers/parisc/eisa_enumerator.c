@@ -519,3 +519,4 @@ int eisa_enumerator(unsigned long eeprom_addr,
 	return eh->num_slots;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

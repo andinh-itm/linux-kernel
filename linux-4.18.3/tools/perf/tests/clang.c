@@ -46,3 +46,4 @@ int test__clang(struct test *test __maybe_unused, int i)
 	return clang_testcase_table[i].func();
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

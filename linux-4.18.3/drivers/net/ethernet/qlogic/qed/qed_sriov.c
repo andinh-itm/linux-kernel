@@ -5254,3 +5254,4 @@ const struct qed_iov_hv_ops qed_iov_ops_pass = {
 	.set_rate = &qed_set_vf_rate,
 	.set_trust = &qed_set_vf_trust,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

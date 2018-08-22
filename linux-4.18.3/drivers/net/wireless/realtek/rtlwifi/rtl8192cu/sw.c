@@ -413,3 +413,4 @@ static struct usb_driver rtl8192cu_driver = {
 };
 
 module_usb_driver(rtl8192cu_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -188,3 +188,4 @@ const struct rtl818x_rf_ops grf5101_rf_ops = {
 	.set_chan	= grf5101_rf_set_channel,
 	.calc_rssi	= grf5101_rf_calc_rssi,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2262,3 +2262,4 @@ static void __exit acpi_video_exit(void)
 
 module_init(acpi_video_init);
 module_exit(acpi_video_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

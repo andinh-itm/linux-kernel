@@ -897,3 +897,4 @@ const struct usb_ep_ops mtu3_ep0_ops = {
 	.dequeue = mtu3_ep0_dequeue,
 	.set_halt = mtu3_ep0_halt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

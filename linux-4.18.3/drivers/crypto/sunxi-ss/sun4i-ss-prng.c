@@ -54,3 +54,4 @@ int sun4i_ss_prng_generate(struct crypto_rng *tfm, const u8 *src,
 	spin_unlock_bh(&ss->slock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

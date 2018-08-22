@@ -469,3 +469,4 @@ static struct spi_driver spi_driver = {
 };
 
 module_spi_driver(spi_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

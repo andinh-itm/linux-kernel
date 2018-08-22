@@ -97,3 +97,4 @@ static int __init proc_consoles_init(void)
 	return 0;
 }
 fs_initcall(proc_consoles_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1443,3 +1443,4 @@ const struct k_clock clock_thread = {
 	.clock_get	= thread_cpu_clock_get,
 	.timer_create	= thread_cpu_timer_create,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

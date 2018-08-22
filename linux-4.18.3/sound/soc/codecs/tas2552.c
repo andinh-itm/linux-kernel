@@ -778,3 +778,4 @@ module_i2c_driver(tas2552_i2c_driver);
 MODULE_AUTHOR("Dan Muprhy <dmurphy@ti.com>");
 MODULE_DESCRIPTION("TAS2552 Audio amplifier driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

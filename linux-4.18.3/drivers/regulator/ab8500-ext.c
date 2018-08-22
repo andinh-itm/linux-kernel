@@ -895,3 +895,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Bengt Jonsson <bengt.g.jonsson@stericsson.com>");
 MODULE_DESCRIPTION("AB8500 external regulator driver");
 MODULE_ALIAS("platform:ab8500-ext-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

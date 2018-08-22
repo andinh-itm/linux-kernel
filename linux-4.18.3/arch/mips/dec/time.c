@@ -170,3 +170,4 @@ void __init plat_time_init(void)
 
 	ds1287_clockevent_init(dec_interrupt[DEC_IRQ_RTC]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

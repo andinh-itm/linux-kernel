@@ -201,3 +201,4 @@ void snd_gf1_timers_done(struct snd_gus_card * gus)
 		gus->gf1.timer2 = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

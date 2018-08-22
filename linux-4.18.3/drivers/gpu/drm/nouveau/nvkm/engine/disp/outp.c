@@ -274,3 +274,4 @@ nvkm_outp_new(struct nvkm_disp *disp, int index, struct dcb_output *dcbE,
 		return -ENOMEM;
 	return nvkm_outp_ctor(&nvkm_outp, disp, index, dcbE, *poutp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

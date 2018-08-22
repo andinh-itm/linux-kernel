@@ -52,3 +52,4 @@ module_spi_driver(ad193x_spi_driver);
 MODULE_DESCRIPTION("ASoC AD1938/AD1939 audio CODEC driver");
 MODULE_AUTHOR("Barry Song <21cnbao@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

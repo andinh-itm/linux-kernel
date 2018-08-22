@@ -508,3 +508,4 @@ void hinic_clean_rxq(struct hinic_rxq *rxq)
 	free_all_rx_skbs(rxq);
 	devm_kfree(&netdev->dev, rxq->irq_name);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -468,3 +468,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dmitry Baryshkov");
 MODULE_DESCRIPTION("Tosa battery driver");
 MODULE_ALIAS("platform:wm97xx-battery");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

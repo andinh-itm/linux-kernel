@@ -371,3 +371,4 @@ int bench_mem_memset(int argc, const char **argv)
 
 	return bench_mem_common(argc, argv, &info);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -106,3 +106,4 @@ int ci_ulpi_resume(struct ci_hdrc *ci)
 
 	return -ETIMEDOUT;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

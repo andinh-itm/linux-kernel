@@ -1027,3 +1027,4 @@ module_exit(s1d13xxxfb_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Framebuffer driver for S1D13xxx devices");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>, Thibaut VARENE <varenet@parisc-linux.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

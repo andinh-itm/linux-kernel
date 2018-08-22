@@ -35,3 +35,4 @@ s8 odm_CCKRSSI_8723B(u8 LNA_idx, u8 VGA_idx)
 	}
 	return rx_pwr_all;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -559,3 +559,4 @@ int ad1843_init(struct snd_ad1843 *ad1843)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

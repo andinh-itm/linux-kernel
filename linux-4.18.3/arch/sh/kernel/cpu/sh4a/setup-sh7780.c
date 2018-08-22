@@ -505,3 +505,4 @@ void __init plat_irq_setup_pins(int mode)
 		BUG();
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

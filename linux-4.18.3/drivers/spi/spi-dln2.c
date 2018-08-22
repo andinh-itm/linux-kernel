@@ -881,3 +881,4 @@ MODULE_DESCRIPTION("Driver for the Diolan DLN2 SPI master interface");
 MODULE_AUTHOR("Laurentiu Palcu <laurentiu.palcu@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:dln2-spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -140,3 +140,4 @@ void *memset(void *s, int c, size_t count)
 		*xs++ = c;
 	return s;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

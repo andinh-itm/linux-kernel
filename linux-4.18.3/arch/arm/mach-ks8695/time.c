@@ -170,3 +170,4 @@ void ks8695_restart(enum reboot_mode reboot_mode, const char *cmd)
 	/* re-enable timer0 */
 	writel_relaxed(reg | TMCON_T0EN, KS8695_TMR_VA + KS8695_TMCON);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

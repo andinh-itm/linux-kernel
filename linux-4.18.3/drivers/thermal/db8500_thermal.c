@@ -531,3 +531,4 @@ module_platform_driver(db8500_thermal_driver);
 MODULE_AUTHOR("Hongbo Zhang <hongbo.zhang@stericsson.com>");
 MODULE_DESCRIPTION("DB8500 thermal driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

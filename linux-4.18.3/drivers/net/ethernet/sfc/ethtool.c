@@ -1577,3 +1577,4 @@ const struct ethtool_ops efx_ethtool_ops = {
 	.get_fecparam		= efx_ethtool_get_fecparam,
 	.set_fecparam		= efx_ethtool_set_fecparam,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

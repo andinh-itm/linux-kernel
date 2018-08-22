@@ -417,3 +417,4 @@ apecs_machine_check(unsigned long vector, unsigned long la_ptr)
 			    (mcheck_expected(0)
 			     && (mchk_sysdata->epic_dcsr & 0x0c00UL)));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

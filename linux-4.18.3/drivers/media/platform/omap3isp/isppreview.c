@@ -2350,3 +2350,4 @@ void omap3isp_preview_cleanup(struct isp_device *isp)
 	omap3isp_video_cleanup(&prev->video_out);
 	media_entity_cleanup(&prev->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

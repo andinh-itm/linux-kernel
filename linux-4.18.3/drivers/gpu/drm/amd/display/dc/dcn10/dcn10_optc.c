@@ -1343,3 +1343,4 @@ void dcn10_timing_generator_init(struct optc *optc1)
 	optc1->min_h_sync_width = 8;
 	optc1->min_v_sync_width = 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

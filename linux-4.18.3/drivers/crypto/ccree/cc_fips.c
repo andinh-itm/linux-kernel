@@ -118,3 +118,4 @@ int cc_fips_init(struct cc_drvdata *p_drvdata)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

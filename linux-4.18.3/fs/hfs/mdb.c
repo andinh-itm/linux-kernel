@@ -364,3 +364,4 @@ void hfs_mdb_put(struct super_block *sb)
 	kfree(HFS_SB(sb));
 	sb->s_fs_info = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

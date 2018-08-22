@@ -532,3 +532,4 @@ MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("Analog Devices AD5421 DAC");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("spi:ad5421");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -278,3 +278,4 @@ MODULE_DESCRIPTION("Generic configurable MTD map driver");
 /* work with hotplug and coldplug */
 MODULE_ALIAS("platform:physmap-flash");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

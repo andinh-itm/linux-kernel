@@ -476,3 +476,4 @@ int phm_disable_smc_firmware_ctf(struct pp_hwmgr *hwmgr)
 
 	return hwmgr->hwmgr_func->disable_smc_firmware_ctf(hwmgr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -103,3 +103,4 @@ static void __init st_of_clkgen_a9_mux_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(clkgen_a9mux, "st,stih407-clkgen-a9-mux",
 		st_of_clkgen_a9_mux_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

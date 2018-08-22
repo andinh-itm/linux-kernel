@@ -238,3 +238,4 @@ void diag_ftp_shutdown(void)
 	irq_subclass_unregister(IRQ_SUBCLASS_SERVICE_SIGNAL);
 	unregister_external_irq(EXT_IRQ_CP_SERVICE, diag_ftp_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -65,3 +65,4 @@ void __init prom_init_machtype(void)
 			break;
 		}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

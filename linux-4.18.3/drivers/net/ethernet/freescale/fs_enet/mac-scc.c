@@ -477,3 +477,4 @@ const struct fs_ops fs_scc_ops = {
 	.allocate_bd		= allocate_bd,
 	.free_bd		= free_bd,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

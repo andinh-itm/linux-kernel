@@ -1054,3 +1054,4 @@ void genwqe_start_traps(struct genwqe_dev *cd)
 	if (genwqe_need_err_masking(cd))
 		__genwqe_writeq(cd, IO_SLC_MISC_DEBUG, 0x0aull);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

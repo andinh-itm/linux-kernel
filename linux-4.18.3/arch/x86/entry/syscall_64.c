@@ -23,3 +23,4 @@ asmlinkage const sys_call_ptr_t sys_call_table[__NR_syscall_max+1] = {
 	[0 ... __NR_syscall_max] = &sys_ni_syscall,
 #include <asm/syscalls_64.h>
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

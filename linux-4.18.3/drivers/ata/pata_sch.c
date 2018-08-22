@@ -178,3 +178,4 @@ static int sch_init_one(struct pci_dev *pdev, const struct pci_device_id *ent)
 }
 
 module_pci_driver(sch_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

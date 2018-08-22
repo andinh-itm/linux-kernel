@@ -124,3 +124,4 @@ module_platform_driver(opencores_kbd_device_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Javier Herrero <jherrero@hvsistemas.es>");
 MODULE_DESCRIPTION("Keyboard driver for OpenCores Keyboard Controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

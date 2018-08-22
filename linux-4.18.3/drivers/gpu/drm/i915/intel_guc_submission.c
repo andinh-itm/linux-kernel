@@ -1292,3 +1292,4 @@ void intel_guc_submission_disable(struct intel_guc *guc)
 #if IS_ENABLED(CONFIG_DRM_I915_SELFTEST)
 #include "selftests/intel_guc.c"
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

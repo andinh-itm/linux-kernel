@@ -1115,3 +1115,4 @@ void mv88e6xxx_g2_irq_mdio_free(struct mv88e6xxx_chip *chip,
 	for (phy = 0; phy < chip->info->num_internal_phys; phy++)
 		irq_dispose_mapping(bus->irq[phy]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

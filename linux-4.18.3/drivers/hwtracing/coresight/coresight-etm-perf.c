@@ -494,3 +494,4 @@ static int __init etm_perf_init(void)
 	return ret;
 }
 device_initcall(etm_perf_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

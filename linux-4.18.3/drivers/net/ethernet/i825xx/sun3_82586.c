@@ -1185,3 +1185,4 @@ void sun3_82586_dump(struct net_device *dev,void *ptr)
 	printk("\n");
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

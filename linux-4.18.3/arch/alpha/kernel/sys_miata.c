@@ -291,3 +291,4 @@ struct alpha_machine_vector miata_mv __initmv = {
 	.pci_swizzle		= miata_swizzle,
 };
 ALIAS_MV(miata)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -68,3 +68,4 @@ int brcmf_debugfs_add_entry(struct brcmf_pub *drvr, const char *fn,
 					drvr->wiphy->debugfsdir, read_fn);
 	return PTR_ERR_OR_ZERO(e);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

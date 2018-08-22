@@ -25,3 +25,4 @@ void __init plat_time_init(void)
 	sb1250_clocksource_init();
 	sb1250_clockevent_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

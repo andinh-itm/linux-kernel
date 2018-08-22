@@ -615,3 +615,4 @@ module_i2c_driver(lp5562_driver);
 MODULE_DESCRIPTION("Texas Instruments LP5562 LED Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

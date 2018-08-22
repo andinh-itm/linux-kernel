@@ -979,3 +979,4 @@ const struct tegra_mc_soc tegra114_mc_soc = {
 	.resets = tegra114_mc_resets,
 	.num_resets = ARRAY_SIZE(tegra114_mc_resets),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

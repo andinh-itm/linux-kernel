@@ -104,3 +104,4 @@ struct clk *imx_clk_fixup_mux(const char *name, void __iomem *reg,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

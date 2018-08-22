@@ -244,3 +244,4 @@ int drm_mode_getencoder(struct drm_device *dev, void *data,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

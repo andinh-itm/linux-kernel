@@ -184,3 +184,4 @@ sys_pciconfig_write (unsigned long bus, unsigned long dfn, unsigned long off, un
 }
 
 #endif /* CONFIG_PCI */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

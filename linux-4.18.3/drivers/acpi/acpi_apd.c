@@ -247,3 +247,4 @@ void __init acpi_apd_init(void)
 {
 	acpi_scan_add_handler(&apd_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

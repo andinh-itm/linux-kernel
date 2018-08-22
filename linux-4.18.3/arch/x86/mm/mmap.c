@@ -261,3 +261,4 @@ bool pfn_modify_allowed(unsigned long pfn, pgprot_t prot)
 		return false;
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

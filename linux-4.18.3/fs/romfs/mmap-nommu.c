@@ -87,3 +87,4 @@ const struct file_operations romfs_ro_fops = {
 	.get_unmapped_area	= romfs_get_unmapped_area,
 	.mmap_capabilities	= romfs_mmap_capabilities,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

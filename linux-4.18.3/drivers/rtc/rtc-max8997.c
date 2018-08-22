@@ -537,3 +537,4 @@ module_platform_driver(max8997_rtc_driver);
 MODULE_DESCRIPTION("Maxim MAX8997 RTC driver");
 MODULE_AUTHOR("<ms925.kim@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

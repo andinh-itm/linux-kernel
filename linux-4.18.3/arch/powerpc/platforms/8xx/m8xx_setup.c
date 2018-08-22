@@ -236,3 +236,4 @@ void __init mpc8xx_pics_init(void)
 	if (irq)
 		irq_set_chained_handler(irq, cpm_cascade);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

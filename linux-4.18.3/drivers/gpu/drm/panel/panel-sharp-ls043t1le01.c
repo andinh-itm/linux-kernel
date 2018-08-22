@@ -360,3 +360,4 @@ module_mipi_dsi_driver(sharp_nt_panel_driver);
 MODULE_AUTHOR("Werner Johansson <werner.johansson@sonymobile.com>");
 MODULE_DESCRIPTION("Sharp LS043T1LE01 NT35565-based qHD (540x960) video mode panel driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

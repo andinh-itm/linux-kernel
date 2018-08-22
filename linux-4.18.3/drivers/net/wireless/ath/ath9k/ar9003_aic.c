@@ -598,3 +598,4 @@ void ar9003_hw_attach_aic_ops(struct ath_hw *ah)
 
 	priv_ops->is_aic_enabled = ar9003_hw_is_aic_enabled;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

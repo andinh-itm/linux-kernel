@@ -445,3 +445,4 @@ void mop500_ab8500_remove(struct snd_soc_card *card)
 
 	snd_soc_card_set_drvdata(card, drvdata);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

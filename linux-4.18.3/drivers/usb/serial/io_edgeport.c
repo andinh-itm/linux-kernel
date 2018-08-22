@@ -3251,3 +3251,4 @@ MODULE_FIRMWARE("edgeport/boot.fw");
 MODULE_FIRMWARE("edgeport/boot2.fw");
 MODULE_FIRMWARE("edgeport/down.fw");
 MODULE_FIRMWARE("edgeport/down2.fw");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

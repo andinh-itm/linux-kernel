@@ -622,3 +622,4 @@ long hmi_exception_realmode(struct pt_regs *regs)
 
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

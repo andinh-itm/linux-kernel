@@ -16,3 +16,4 @@ static const struct pci_device_id snd_vortex_ids[] = {
 #include "au88x0_a3d.c"
 #include "au88x0_xtalk.c"
 #include "au88x0.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

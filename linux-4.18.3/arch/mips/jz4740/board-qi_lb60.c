@@ -521,3 +521,4 @@ static int __init qi_lb60_board_setup(void)
 	return 0;
 }
 arch_initcall(qi_lb60_board_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

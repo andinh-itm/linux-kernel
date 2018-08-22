@@ -136,3 +136,4 @@ EXPORT_SYMBOL_GPL(l3_set_gpio_ops);
 MODULE_DESCRIPTION("L3 bit-banging driver");
 MODULE_AUTHOR("Christian Pellegrin <chripell@evolware.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

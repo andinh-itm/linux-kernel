@@ -1996,3 +1996,4 @@ vpfe_resizer_cleanup(struct vpfe_resizer_device *vpfe_rsz,
 		release_mem_region(res->start,
 					resource_size(res));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

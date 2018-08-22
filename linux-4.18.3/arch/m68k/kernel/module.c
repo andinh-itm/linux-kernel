@@ -127,3 +127,4 @@ void module_fixup(struct module *mod, struct m68k_fixup_info *start,
 	}
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

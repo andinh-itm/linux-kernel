@@ -360,3 +360,4 @@ int mmio_trace_printk(const char *fmt, va_list args)
 {
 	return trace_vprintk(0, fmt, args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -49,3 +49,4 @@ void __init iop_init_cp6_handler(void)
 {
 	register_undef_hook(&cp6_hook);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

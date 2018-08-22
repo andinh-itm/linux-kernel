@@ -1054,3 +1054,4 @@ MODULE_AUTHOR("Alex Dubov");
 MODULE_DESCRIPTION("JMicron jmb38x MemoryStick driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, jmb38x_ms_id_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

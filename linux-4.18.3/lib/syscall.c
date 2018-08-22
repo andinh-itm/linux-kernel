@@ -86,3 +86,4 @@ int task_current_syscall(struct task_struct *target, long *callno,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

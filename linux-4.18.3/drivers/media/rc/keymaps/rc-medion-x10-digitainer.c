@@ -121,3 +121,4 @@ module_exit(exit_rc_map_medion_x10_digitainer)
 MODULE_DESCRIPTION("Medion X10 RF remote keytable (Digitainer variant)");
 MODULE_AUTHOR("Anssi Hannula <anssi.hannula@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

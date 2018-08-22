@@ -369,3 +369,4 @@ int snd_dg00x_create_pcm_devices(struct snd_dg00x *dg00x)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

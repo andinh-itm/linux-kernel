@@ -284,3 +284,4 @@ no_src:
 subsys_initcall(test_size_treshold);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

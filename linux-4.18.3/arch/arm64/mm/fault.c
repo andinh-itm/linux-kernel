@@ -883,3 +883,4 @@ void cpu_enable_pan(const struct arm64_cpu_capabilities *__unused)
 	asm(SET_PSTATE_PAN(1));
 }
 #endif /* CONFIG_ARM64_PAN */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

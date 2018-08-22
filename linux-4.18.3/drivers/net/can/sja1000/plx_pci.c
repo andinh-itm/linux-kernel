@@ -714,3 +714,4 @@ static struct pci_driver plx_pci_driver = {
 };
 
 module_pci_driver(plx_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -120,3 +120,4 @@ static int load_asic(struct echoaudio *chip)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

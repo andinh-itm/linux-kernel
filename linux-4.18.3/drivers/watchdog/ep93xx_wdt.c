@@ -145,3 +145,4 @@ MODULE_AUTHOR("Alessandro Zummo <a.zummo@towertech.it>");
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_DESCRIPTION("EP93xx Watchdog");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

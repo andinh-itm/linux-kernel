@@ -293,3 +293,4 @@ cleanup:
 }
 CLK_OF_DECLARE(ti_composite_mux_clk_setup, "ti,composite-mux-clock",
 	       of_ti_composite_mux_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

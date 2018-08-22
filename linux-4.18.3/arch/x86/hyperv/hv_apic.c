@@ -259,3 +259,4 @@ void __init hv_apic_init(void)
 		apic->icr_read  = hv_apic_icr_read;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

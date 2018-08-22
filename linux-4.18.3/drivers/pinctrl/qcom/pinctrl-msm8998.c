@@ -1587,3 +1587,4 @@ module_exit(msm8998_pinctrl_exit);
 MODULE_DESCRIPTION("QTI msm8998 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, msm8998_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

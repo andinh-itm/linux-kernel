@@ -536,3 +536,4 @@ module_hid_driver(hidled_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Heiner Kallweit <hkallweit1@gmail.com>");
 MODULE_DESCRIPTION("Simple USB RGB LED driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

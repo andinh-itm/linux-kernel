@@ -2381,3 +2381,4 @@ const struct pp_smumgr_func vegam_smu_funcs = {
 	.thermal_avfs_enable = vegam_thermal_avfs_enable,
 	.thermal_setup_fan_table = vegam_thermal_setup_fan_table,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

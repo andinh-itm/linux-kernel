@@ -72,3 +72,4 @@ int psb_intel_ddc_get_modes(struct drm_connector *connector,
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

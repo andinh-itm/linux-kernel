@@ -995,3 +995,4 @@ module_i2c_driver(ov9740_i2c_driver);
 MODULE_DESCRIPTION("SoC Camera driver for OmniVision OV9740");
 MODULE_AUTHOR("Andrew Chew <achew@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

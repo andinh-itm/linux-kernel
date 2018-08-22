@@ -439,3 +439,4 @@ module_platform_driver(armada_thermal_driver);
 MODULE_AUTHOR("Ezequiel Garcia <ezequiel.garcia@free-electrons.com>");
 MODULE_DESCRIPTION("Marvell EBU Armada SoCs thermal driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -664,3 +664,4 @@ static void __exit r8712u_drv_halt(void)
 
 module_init(r8712u_drv_entry);
 module_exit(r8712u_drv_halt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

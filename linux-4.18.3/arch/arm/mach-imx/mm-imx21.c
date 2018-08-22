@@ -97,3 +97,4 @@ void __init imx21_soc_init(void)
 	platform_device_register_simple("imx21-audmux", 0, imx21_audmux_res,
 					ARRAY_SIZE(imx21_audmux_res));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

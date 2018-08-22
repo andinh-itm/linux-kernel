@@ -99,3 +99,4 @@ irqreturn_t adis16400_trigger_handler(int irq, void *p)
 
 	return IRQ_HANDLED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

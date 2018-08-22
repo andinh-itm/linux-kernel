@@ -637,3 +637,4 @@ static struct i2c_driver s2250_driver = {
 };
 
 module_i2c_driver(s2250_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

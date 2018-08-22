@@ -317,3 +317,4 @@ static struct platform_driver ar7_wdt_driver = {
 };
 
 module_platform_driver(ar7_wdt_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

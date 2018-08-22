@@ -139,3 +139,4 @@ struct clk *imx_clk_pllv1(enum imx_pllv1_type type, const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

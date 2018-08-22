@@ -97,3 +97,4 @@ void __init mcpm_smp_set_ops(void)
 {
 	smp_set_ops(&mcpm_smp_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

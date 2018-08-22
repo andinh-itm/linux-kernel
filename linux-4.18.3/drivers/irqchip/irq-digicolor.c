@@ -117,3 +117,4 @@ static int __init digicolor_of_init(struct device_node *node,
 	return 0;
 }
 IRQCHIP_DECLARE(conexant_digicolor_ic, "cnxt,cx92755-ic", digicolor_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

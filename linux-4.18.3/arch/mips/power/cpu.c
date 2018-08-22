@@ -41,3 +41,4 @@ int pfn_is_nosave(unsigned long pfn)
 
 	return	(pfn >= nosave_begin_pfn) && (pfn < nosave_end_pfn);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

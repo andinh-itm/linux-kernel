@@ -443,3 +443,4 @@ module_i2c_driver(tw2804_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TW2804/TW2802 V4L2 i2c driver");
 MODULE_AUTHOR("Micronas USA Inc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

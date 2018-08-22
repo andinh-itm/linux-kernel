@@ -154,3 +154,4 @@ static struct platform_driver replicator_driver = {
 	},
 };
 builtin_platform_driver(replicator_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

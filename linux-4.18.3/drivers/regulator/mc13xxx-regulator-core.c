@@ -218,3 +218,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Yong Shen <yong.shen@linaro.org>");
 MODULE_DESCRIPTION("Regulator Driver for Freescale MC13xxx PMIC");
 MODULE_ALIAS("mc13xxx-regulator-core");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

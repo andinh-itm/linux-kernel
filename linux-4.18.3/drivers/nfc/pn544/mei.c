@@ -86,3 +86,4 @@ module_mei_cl_driver(pn544_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

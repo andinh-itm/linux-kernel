@@ -79,3 +79,4 @@ static struct hid_driver ez_driver = {
 module_hid_driver(ez_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

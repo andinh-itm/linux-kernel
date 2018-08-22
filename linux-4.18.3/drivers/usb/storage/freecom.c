@@ -576,3 +576,4 @@ static struct usb_driver freecom_driver = {
 };
 
 module_usb_stor_driver(freecom_driver, freecom_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

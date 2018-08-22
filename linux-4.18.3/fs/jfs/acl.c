@@ -159,3 +159,4 @@ int jfs_init_acl(tid_t tid, struct inode *inode, struct inode *dir)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

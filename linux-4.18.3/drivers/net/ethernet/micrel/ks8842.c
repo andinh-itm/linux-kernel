@@ -1268,3 +1268,4 @@ MODULE_AUTHOR("Mocean Laboratories <info@mocean-labs.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:ks8842");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -811,3 +811,4 @@ MODULE_ALIAS("dmi:*:*Acer*:pnExtensa 5420*:");
 
 module_init(acerhdf_init);
 module_exit(acerhdf_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

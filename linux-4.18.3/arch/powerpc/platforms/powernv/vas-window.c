@@ -1295,3 +1295,4 @@ u32 vas_win_id(struct vas_window *win)
 	return encode_pswid(win->vinst->vas_id, win->winid);
 }
 EXPORT_SYMBOL_GPL(vas_win_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

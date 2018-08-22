@@ -1354,3 +1354,4 @@ int orinoco_hw_get_current_bssid(struct orinoco_private *priv,
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

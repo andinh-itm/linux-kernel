@@ -1450,3 +1450,4 @@ module_platform_driver(rtsx_usb_sdmmc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Roger Tseng <rogerable@realtek.com>");
 MODULE_DESCRIPTION("Realtek USB SD/MMC Card Host Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

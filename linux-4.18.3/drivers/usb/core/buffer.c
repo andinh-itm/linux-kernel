@@ -171,3 +171,4 @@ void hcd_buffer_free(
 	}
 	dma_free_coherent(hcd->self.sysdev, size, addr, dma);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

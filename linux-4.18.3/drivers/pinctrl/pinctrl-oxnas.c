@@ -1303,3 +1303,4 @@ static int __init oxnas_pinctrl_register(void)
 	return platform_driver_register(&oxnas_pinctrl_driver);
 }
 arch_initcall(oxnas_pinctrl_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

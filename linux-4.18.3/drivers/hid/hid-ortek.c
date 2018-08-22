@@ -55,3 +55,4 @@ static struct hid_driver ortek_driver = {
 module_hid_driver(ortek_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

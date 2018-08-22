@@ -32,3 +32,4 @@ void show_regs(struct pt_regs *regs)
 	       0xffff & PT_REGS_DS(regs), 
 	       0xffff & PT_REGS_ES(regs));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

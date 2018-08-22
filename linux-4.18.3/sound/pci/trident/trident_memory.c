@@ -312,3 +312,4 @@ int snd_trident_free_pages(struct snd_trident *trident,
 	mutex_unlock(&hdr->block_mutex);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

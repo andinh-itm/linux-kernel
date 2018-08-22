@@ -272,3 +272,4 @@ module_usb_driver(cinergyt2_driver);
 MODULE_DESCRIPTION("Terratec Cinergy T2 DVB-T driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tomi Orava");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

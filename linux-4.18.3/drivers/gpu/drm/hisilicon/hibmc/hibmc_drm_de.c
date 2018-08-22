@@ -497,3 +497,4 @@ int hibmc_de_init(struct hibmc_drm_private *priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

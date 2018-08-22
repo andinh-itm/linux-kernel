@@ -266,3 +266,4 @@ int restrict_link_by_key_or_keyring_chain(struct key *dest_keyring,
 	return key_or_keyring_common(dest_keyring, type, payload, trusted,
 				     true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

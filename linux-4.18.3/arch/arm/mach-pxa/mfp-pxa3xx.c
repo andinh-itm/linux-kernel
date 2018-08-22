@@ -57,3 +57,4 @@ struct syscore_ops pxa3xx_mfp_syscore_ops = {
 	.suspend	= pxa3xx_mfp_suspend,
 	.resume		= pxa3xx_mfp_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

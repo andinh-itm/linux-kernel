@@ -1629,3 +1629,4 @@ int vmw_kms_stdu_init_display(struct vmw_private *dev_priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -284,3 +284,4 @@ asmlinkage void sys32_sigreturn(nabi_no_regargs struct pt_regs regs)
 badframe:
 	force_sig(SIGSEGV, current);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

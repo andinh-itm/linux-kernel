@@ -827,3 +827,4 @@ int fm_rx_get_af_switch(struct fmdev *fmdev, u8 *af_mode)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

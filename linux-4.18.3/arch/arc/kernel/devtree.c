@@ -78,3 +78,4 @@ const struct machine_desc * __init setup_machine_fdt(void *dt)
 
 	return mdesc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -625,3 +625,4 @@ void hidraw_exit(void)
 	unregister_chrdev_region(dev_id, HIDRAW_MAX_DEVICES);
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -187,3 +187,4 @@ static const struct smp_operations zx_smp_ops __initconst = {
 };
 
 CPU_METHOD_OF_DECLARE(zx_smp, "zte,zx296702-smp", &zx_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

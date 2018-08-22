@@ -178,3 +178,4 @@ void integrator_impd1_clk_exit(unsigned int id)
 	kfree(imc->pclkname);
 }
 EXPORT_SYMBOL_GPL(integrator_impd1_clk_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -198,3 +198,4 @@ void __init dec_kn01_be_init(void)
 	/* Clear any leftover errors from the firmware. */
 	dec_kn01_be_ack();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

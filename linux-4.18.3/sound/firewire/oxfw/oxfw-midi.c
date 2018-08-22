@@ -185,3 +185,4 @@ int snd_oxfw_create_midi(struct snd_oxfw *oxfw)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

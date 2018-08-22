@@ -1296,3 +1296,4 @@ static int __init samsung_pinctrl_drv_register(void)
 	return platform_driver_register(&samsung_pinctrl_driver);
 }
 postcore_initcall(samsung_pinctrl_drv_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -211,3 +211,4 @@ irqreturn_t snd_emu10k1_interrupt(int irq, void *dev_id)
 
 	return IRQ_RETVAL(handled);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

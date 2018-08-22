@@ -84,3 +84,4 @@ unsigned char * __init highlander_plat_irq_setup(void)
 	register_intc_controller(&intc_desc);
 	return irl2irq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -291,3 +291,4 @@ u8 dfont_unicount[%d] = \n\
 
   exit(EX_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

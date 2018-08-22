@@ -1681,3 +1681,4 @@ static void __init atlas7_clk_init(struct device_node *np)
 	reset_controller_register(&atlas7_rst_ctlr);
 }
 CLK_OF_DECLARE(atlas7_clk, "sirf,atlas7-car", atlas7_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

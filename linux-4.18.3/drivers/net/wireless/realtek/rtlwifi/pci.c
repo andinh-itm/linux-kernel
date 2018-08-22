@@ -2468,3 +2468,4 @@ const struct rtl_intf_ops rtl_pci_ops = {
 	.disable_aspm = rtl_pci_disable_aspm,
 	.enable_aspm = rtl_pci_enable_aspm,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

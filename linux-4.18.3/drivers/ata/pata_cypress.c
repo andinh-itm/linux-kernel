@@ -164,3 +164,4 @@ MODULE_DESCRIPTION("low-level driver for the CY82C693 PATA controller");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, cy82c693);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

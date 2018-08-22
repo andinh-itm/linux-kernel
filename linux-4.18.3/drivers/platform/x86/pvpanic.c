@@ -122,3 +122,4 @@ static int pvpanic_remove(struct acpi_device *device)
 }
 
 module_acpi_driver(pvpanic_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

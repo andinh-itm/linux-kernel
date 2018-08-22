@@ -987,3 +987,4 @@ u8 r8712_disconnectCtrlEx_cmd(struct _adapter *adapter, u32 enableDrvCtrl,
 	r8712_enqueue_cmd(pcmdpriv, ph2c);
 	return _SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

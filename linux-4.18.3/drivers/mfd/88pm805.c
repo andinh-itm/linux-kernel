@@ -289,3 +289,4 @@ module_exit(pm805_i2c_exit);
 MODULE_DESCRIPTION("PMIC Driver for Marvell 88PM805");
 MODULE_AUTHOR("Qiao Zhou <zhouqiao@marvell.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

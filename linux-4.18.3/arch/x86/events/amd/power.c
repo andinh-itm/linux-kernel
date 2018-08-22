@@ -315,3 +315,4 @@ module_exit(amd_power_pmu_exit);
 MODULE_AUTHOR("Huang Rui <ray.huang@amd.com>");
 MODULE_DESCRIPTION("AMD Processor Power Reporting Mechanism");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

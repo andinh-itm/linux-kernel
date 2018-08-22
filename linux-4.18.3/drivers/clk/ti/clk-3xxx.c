@@ -359,3 +359,4 @@ int __init am35xx_dt_clk_init(void)
 {
 	return omap3xxx_dt_clk_init(OMAP3_SOC_AM35XX);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

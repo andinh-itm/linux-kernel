@@ -1067,3 +1067,4 @@ void i915_pmu_unregister(struct drm_i915_private *i915)
 	i915->pmu.base.event_init = NULL;
 	free_event_attributes(i915);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

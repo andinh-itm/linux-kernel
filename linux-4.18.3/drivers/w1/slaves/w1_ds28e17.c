@@ -769,3 +769,4 @@ static void __exit w1_f19_fini(void)
 module_init(w1_f19_init);
 module_exit(w1_f19_fini);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

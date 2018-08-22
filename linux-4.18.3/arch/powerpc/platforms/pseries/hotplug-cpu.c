@@ -957,3 +957,4 @@ static int __init pseries_cpu_hotplug_init(void)
 	return 0;
 }
 machine_arch_initcall(pseries, pseries_cpu_hotplug_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

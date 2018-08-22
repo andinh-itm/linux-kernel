@@ -221,3 +221,4 @@ void vr41xx_calculate_clock_frequency(void)
 }
 
 EXPORT_SYMBOL_GPL(vr41xx_calculate_clock_frequency);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

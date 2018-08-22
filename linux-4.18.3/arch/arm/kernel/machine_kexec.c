@@ -202,3 +202,4 @@ void arch_crash_save_vmcoreinfo(void)
 	VMCOREINFO_CONFIG(ARM_LPAE);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

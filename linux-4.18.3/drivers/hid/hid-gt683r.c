@@ -317,3 +317,4 @@ module_hid_driver(gt683r_led_driver);
 MODULE_AUTHOR("Janne Kanniainen");
 MODULE_DESCRIPTION("MSI GT683R led driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

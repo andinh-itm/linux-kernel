@@ -575,3 +575,4 @@ static const struct rpc_program nsm_program = {
 	.version	= nsm_version,
 	.stats		= &nsm_stats
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

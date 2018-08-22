@@ -2800,3 +2800,4 @@ module_exit(coh901318_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Per Friden");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

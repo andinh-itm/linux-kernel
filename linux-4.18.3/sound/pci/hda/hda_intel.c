@@ -2687,3 +2687,4 @@ static struct pci_driver azx_driver = {
 };
 
 module_pci_driver(azx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

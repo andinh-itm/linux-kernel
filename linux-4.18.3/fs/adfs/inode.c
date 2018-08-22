@@ -372,3 +372,4 @@ int adfs_write_inode(struct inode *inode, struct writeback_control *wbc)
 	ret = adfs_dir_update(sb, &obj, wbc->sync_mode == WB_SYNC_ALL);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -956,3 +956,4 @@ module_exit(pic32_uart_exit);
 MODULE_AUTHOR("Sorin-Andrei Pistirica <andrei.pistirica@microchip.com>");
 MODULE_DESCRIPTION("Microchip PIC32 integrated serial port driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

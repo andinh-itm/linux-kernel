@@ -664,3 +664,4 @@ module_param(nologo, bool, 0);
 MODULE_PARM_DESC(nologo, "Disables startup logo if != 0 (default=0)");
 module_init(hgafb_init);
 module_exit(hgafb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

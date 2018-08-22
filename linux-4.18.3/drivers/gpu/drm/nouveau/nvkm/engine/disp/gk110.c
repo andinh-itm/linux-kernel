@@ -45,3 +45,4 @@ gk110_disp_new(struct nvkm_device *device, int index, struct nvkm_disp **pdisp)
 {
 	return nv50_disp_new_(&gk110_disp, device, index, pdisp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -235,3 +235,4 @@ int tomoyo_mount_permission(const char *dev_name, const struct path *path,
 	tomoyo_read_unlock(idx);
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -233,3 +233,4 @@ static int __init vexpress_sysreg_init(void)
 	return platform_driver_register(&vexpress_sysreg_driver);
 }
 core_initcall(vexpress_sysreg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

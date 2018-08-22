@@ -819,3 +819,4 @@ void rtl8188eu_xmit_tasklet(void *priv)
 			break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

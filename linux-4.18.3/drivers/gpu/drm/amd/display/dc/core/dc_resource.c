@@ -2738,3 +2738,4 @@ enum dc_status dc_validate_plane(struct dc *dc, const struct dc_plane_state *pla
 
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -819,3 +819,4 @@ const struct ieee80211_ops ath5k_hw_ops = {
 	.set_ringparam		= ath5k_set_ringparam,
 	.get_ringparam		= ath5k_get_ringparam,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -58,3 +58,4 @@ static int __init s3c64xx_init_cpuidle(void)
 	return 0;
 }
 device_initcall(s3c64xx_init_cpuidle);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -206,3 +206,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Binghua Duan <Binghua.Duan@csr.com>, Xianglong Du <Xianglong.Du@csr.com>");
 MODULE_DESCRIPTION("CSR Prima2 PWRC Driver");
 MODULE_ALIAS("platform:sirfsoc-pwrc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

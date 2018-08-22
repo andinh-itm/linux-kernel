@@ -260,3 +260,4 @@ void adf_clean_hw_data_dh895xcc(struct adf_hw_device_data *hw_data)
 {
 	hw_data->dev_class->instances--;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

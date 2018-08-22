@@ -528,3 +528,4 @@ err:
 CLK_OF_DECLARE(ar9130_clk, "qca,ar9130-pll", ath79_clocks_init_dt_ng);
 CLK_OF_DECLARE(ar9330_clk, "qca,ar9330-pll", ath79_clocks_init_dt_ng);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

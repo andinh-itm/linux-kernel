@@ -738,3 +738,4 @@ ide_startstop_t ide_issue_pc(ide_drive_t *drive, struct ide_cmd *cmd)
 	return drq_int ? ide_started : ide_transfer_pc(drive);
 }
 EXPORT_SYMBOL_GPL(ide_issue_pc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

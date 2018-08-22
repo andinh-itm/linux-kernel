@@ -71,3 +71,4 @@ struct usb_phy_io_ops ulpi_viewport_access_ops = {
 	.write	= ulpi_viewport_write,
 };
 EXPORT_SYMBOL_GPL(ulpi_viewport_access_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

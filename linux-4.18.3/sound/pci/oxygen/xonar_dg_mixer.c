@@ -475,3 +475,4 @@ const struct oxygen_model model_xonar_dg = {
 	.dac_i2s_format = OXYGEN_I2S_FORMAT_LJUST,
 	.adc_i2s_format = OXYGEN_I2S_FORMAT_LJUST,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

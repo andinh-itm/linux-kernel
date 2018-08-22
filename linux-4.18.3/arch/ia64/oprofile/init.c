@@ -36,3 +36,4 @@ void oprofile_arch_exit(void)
 	perfmon_exit();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

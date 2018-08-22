@@ -1145,3 +1145,4 @@ static const struct dcbnl_rtnl_ops qlcnic_dcbnl_ops = {
 	.cee_peer_getpg		= qlcnic_dcb_cee_peer_get_pg,
 	.cee_peer_getpfc	= qlcnic_dcb_cee_peer_get_pfc,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1169,3 +1169,4 @@ EXPORT_SYMBOL(snd_emu8000_load_reverb_fx);
 EXPORT_SYMBOL(snd_emu8000_update_chorus_mode);
 EXPORT_SYMBOL(snd_emu8000_update_reverb_mode);
 EXPORT_SYMBOL(snd_emu8000_update_equalizer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

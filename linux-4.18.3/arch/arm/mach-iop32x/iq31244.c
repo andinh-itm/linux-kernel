@@ -331,3 +331,4 @@ MACHINE_START(EP80219, "Intel EP80219")
 	.init_machine	= iq31244_init_machine,
 	.restart	= iop3xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

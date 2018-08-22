@@ -118,3 +118,4 @@ gv100_sor_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = (nvkm_rd32(device, 0x610060) & 0x0000ff00) >> 8;
 	return (nvkm_rd32(device, 0x610074) & 0x00000f00) >> 8;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -94,3 +94,4 @@ define_machine(ppa8548) {
 	.calibrate_decr = generic_calibrate_decr,
 	.progress	= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

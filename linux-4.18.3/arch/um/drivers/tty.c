@@ -79,3 +79,4 @@ const struct chan_ops tty_ops = {
 	.free		= generic_free,
 	.winch		= 0,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

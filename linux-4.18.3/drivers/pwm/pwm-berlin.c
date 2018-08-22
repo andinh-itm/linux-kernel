@@ -300,3 +300,4 @@ module_platform_driver(berlin_pwm_driver);
 MODULE_AUTHOR("Antoine Tenart <antoine.tenart@free-electrons.com>");
 MODULE_DESCRIPTION("Marvell Berlin PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

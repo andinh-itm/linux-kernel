@@ -2525,3 +2525,4 @@ static struct platform_driver r8a66597_driver = {
 };
 
 module_platform_driver(r8a66597_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

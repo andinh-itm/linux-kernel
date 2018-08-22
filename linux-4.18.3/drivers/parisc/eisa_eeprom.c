@@ -113,3 +113,4 @@ static int __init eisa_eeprom_init(void)
 MODULE_LICENSE("GPL");
 
 module_init(eisa_eeprom_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

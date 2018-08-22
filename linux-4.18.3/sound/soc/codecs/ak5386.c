@@ -210,3 +210,4 @@ module_platform_driver(ak5386_driver);
 MODULE_DESCRIPTION("ASoC driver for AK5386 ADC");
 MODULE_AUTHOR("Daniel Mack <zonque@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

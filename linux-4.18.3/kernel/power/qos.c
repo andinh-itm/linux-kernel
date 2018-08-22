@@ -712,3 +712,4 @@ static int __init pm_qos_power_init(void)
 }
 
 late_initcall(pm_qos_power_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

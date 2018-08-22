@@ -1060,3 +1060,4 @@ void vga_switcheroo_fini_domain_pm_ops(struct device *dev)
 	dev_pm_domain_set(dev, NULL);
 }
 EXPORT_SYMBOL(vga_switcheroo_fini_domain_pm_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

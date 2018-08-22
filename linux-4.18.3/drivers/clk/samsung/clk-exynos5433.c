@@ -5649,3 +5649,4 @@ static int __init exynos5433_cmu_init(void)
 	return platform_driver_register(&exynos5433_cmu_driver);
 }
 core_initcall(exynos5433_cmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

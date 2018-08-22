@@ -368,3 +368,4 @@ dasd_proc_exit(void)
 	remove_proc_entry("statistics", dasd_proc_root_entry);
 	remove_proc_entry("dasd", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

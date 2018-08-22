@@ -177,3 +177,4 @@ void __init prom_init(void)
 	cpumask_setall(&nlm_cpumask);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

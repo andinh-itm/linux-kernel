@@ -2866,3 +2866,4 @@ static int __init atmel_serial_init(void)
 	return ret;
 }
 device_initcall(atmel_serial_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -43,3 +43,4 @@ bool cryp_pending_irq_src(struct cryp_device_data *device_data, u32 irq_src)
 {
 	return (readl_relaxed(&device_data->base->mis) & irq_src) > 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

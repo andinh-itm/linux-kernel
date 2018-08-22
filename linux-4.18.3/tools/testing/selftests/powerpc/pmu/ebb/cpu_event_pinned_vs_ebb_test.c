@@ -93,3 +93,4 @@ int main(void)
 {
 	return test_harness(cpu_event_pinned_vs_ebb, "cpu_event_pinned_vs_ebb");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

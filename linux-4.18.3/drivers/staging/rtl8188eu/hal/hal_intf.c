@@ -74,3 +74,4 @@ void rtw_hal_update_ra_mask(struct adapter *adapt, u32 mac_id, u8 rssi_level)
 		UpdateHalRAMask8188EUsb(adapt, mac_id, rssi_level);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

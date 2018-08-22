@@ -167,3 +167,4 @@ int snd_motu_create_midi_devices(struct snd_motu *motu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

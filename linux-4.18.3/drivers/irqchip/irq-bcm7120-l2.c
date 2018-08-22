@@ -352,3 +352,4 @@ IRQCHIP_DECLARE(bcm7120_l2_intc, "brcm,bcm7120-l2-intc",
 
 IRQCHIP_DECLARE(bcm3380_l2_intc, "brcm,bcm3380-l2-intc",
 		bcm7120_l2_intc_probe_3380);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -766,3 +766,4 @@ module_platform_driver(mtk_hsdma_driver);
 MODULE_AUTHOR("Michael Lee <igvtee@gmail.com>");
 MODULE_DESCRIPTION("MTK HSDMA driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

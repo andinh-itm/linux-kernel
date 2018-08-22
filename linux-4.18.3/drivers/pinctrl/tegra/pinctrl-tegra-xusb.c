@@ -972,3 +972,4 @@ int tegra_xusb_padctl_legacy_remove(struct platform_device *pdev)
 	return err;
 }
 EXPORT_SYMBOL_GPL(tegra_xusb_padctl_legacy_remove);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

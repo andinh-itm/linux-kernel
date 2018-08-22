@@ -230,3 +230,4 @@ module_init(mdpy_fb_init);
 
 MODULE_DEVICE_TABLE(pci, mdpy_fb_pci_table);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -22,3 +22,4 @@ const char *const x86_power_flags[32] = {
 	"proc_feedback", /* processor feedback interface */
 	"acc_power", /* accumulated power mechanism */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

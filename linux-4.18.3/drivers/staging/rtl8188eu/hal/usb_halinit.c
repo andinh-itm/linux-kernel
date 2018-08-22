@@ -2010,3 +2010,4 @@ void rtw_hal_def_value_init(struct adapter *adapt)
 	for (i = 0; i < HP_THERMAL_NUM; i++)
 		haldata->odmpriv.RFCalibrateInfo.ThermalValue_HP[i] = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

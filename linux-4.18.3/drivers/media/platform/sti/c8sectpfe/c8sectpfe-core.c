@@ -1204,3 +1204,4 @@ MODULE_AUTHOR("Peter Bennett <peter.bennett@st.com>");
 MODULE_AUTHOR("Peter Griffin <peter.griffin@linaro.org>");
 MODULE_DESCRIPTION("C8SECTPFE STi DVB Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

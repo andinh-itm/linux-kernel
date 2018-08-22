@@ -153,3 +153,4 @@ void *squashfs_decompressor_setup(struct super_block *sb, unsigned short flags)
 
 	return stream;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -78,3 +78,4 @@ void cramfs_uncompress_exit(void)
 		vfree(stream.workspace);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

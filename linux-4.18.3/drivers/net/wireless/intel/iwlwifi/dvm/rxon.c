@@ -1565,3 +1565,4 @@ void iwlagn_post_scan(struct iwl_priv *priv)
 
 	iwlagn_set_pan_params(priv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

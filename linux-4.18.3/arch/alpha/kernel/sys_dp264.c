@@ -664,3 +664,4 @@ struct alpha_machine_vector shark_mv __initmv = {
 
 /* No alpha_mv alias for webbrick/monet/clipper, since we compile them
    in unconditionally with DP264; setup_arch knows how to cope.  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

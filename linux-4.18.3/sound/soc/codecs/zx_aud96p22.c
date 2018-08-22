@@ -402,3 +402,4 @@ module_i2c_driver(aud96p22_i2c_driver);
 MODULE_DESCRIPTION("ZTE ASoC AUD96P22 CODEC driver");
 MODULE_AUTHOR("Baoyou Xie <baoyou.xie@linaro.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1287,3 +1287,4 @@ void __init e820__memblock_setup(void)
 
 	memblock_dump_all();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

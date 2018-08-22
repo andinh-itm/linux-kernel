@@ -109,3 +109,4 @@ module_platform_driver(es7134_driver);
 MODULE_DESCRIPTION("ASoC ES7134 audio codec driver");
 MODULE_AUTHOR("Jerome Brunet <jbrunet@baylibre.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

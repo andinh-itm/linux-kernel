@@ -382,3 +382,4 @@ module_platform_driver(sprd_pmic_eic_driver);
 
 MODULE_DESCRIPTION("Spreadtrum PMIC EIC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

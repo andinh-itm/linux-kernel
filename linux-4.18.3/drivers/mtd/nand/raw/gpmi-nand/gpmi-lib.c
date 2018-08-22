@@ -949,3 +949,4 @@ void gpmi_copy_bits(u8 *dst, size_t dst_bit_off,
 		src_buffer >>= 8;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

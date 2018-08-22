@@ -400,3 +400,4 @@ define_machine(mpc85xx_cds) {
 	.calibrate_decr = generic_calibrate_decr,
 	.progress	= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

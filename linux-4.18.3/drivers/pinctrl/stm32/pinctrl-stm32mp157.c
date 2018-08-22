@@ -2186,3 +2186,4 @@ static int __init stm32mp157_pinctrl_init(void)
 	return platform_driver_register(&stm32mp157_pinctrl_driver);
 }
 arch_initcall(stm32mp157_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

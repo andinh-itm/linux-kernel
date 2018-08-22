@@ -635,3 +635,4 @@ MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lp8788-dldo");
 MODULE_ALIAS("platform:lp8788-aldo");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

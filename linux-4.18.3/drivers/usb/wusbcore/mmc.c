@@ -301,3 +301,4 @@ error_rc_get:
 	return result;
 }
 EXPORT_SYMBOL_GPL(wusbhc_chid_set);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1289,3 +1289,4 @@ void *mlx5e_alloc_nic_rep_priv(struct mlx5_core_dev *mdev)
 	rpriv->rep = &esw->offloads.vport_reps[0];
 	return rpriv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

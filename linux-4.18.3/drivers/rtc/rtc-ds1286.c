@@ -362,3 +362,4 @@ MODULE_AUTHOR("Thomas Bogendoerfer <tsbogend@alpha.franken.de>");
 MODULE_DESCRIPTION("DS1286 RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-ds1286");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

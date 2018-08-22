@@ -718,3 +718,4 @@ void snd_hdac_dsp_cleanup(struct hdac_stream *azx_dev,
 }
 EXPORT_SYMBOL_GPL(snd_hdac_dsp_cleanup);
 #endif /* CONFIG_SND_HDA_DSP_LOADER */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

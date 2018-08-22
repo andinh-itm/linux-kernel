@@ -81,3 +81,4 @@ void main(void)
 		set_mode(wakeup_header.video_mode);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

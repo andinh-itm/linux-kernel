@@ -405,3 +405,4 @@ int cirrus_mmap(struct file *filp, struct vm_area_struct *vma)
 	cirrus = file_priv->minor->dev->dev_private;
 	return ttm_bo_mmap(filp, vma, &cirrus->ttm.bdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

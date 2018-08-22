@@ -186,3 +186,4 @@ static void __exit hangcheck_exit(void)
 
 module_init(hangcheck_init);
 module_exit(hangcheck_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

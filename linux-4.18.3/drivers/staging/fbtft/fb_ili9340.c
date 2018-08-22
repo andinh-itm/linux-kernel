@@ -138,3 +138,4 @@ MODULE_ALIAS("platform:ili9340");
 MODULE_DESCRIPTION("FB driver for the ILI9340 LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

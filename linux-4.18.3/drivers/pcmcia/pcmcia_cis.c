@@ -436,3 +436,4 @@ int pcmcia_get_mac_from_cis(struct pcmcia_device *p_dev, struct net_device *dev)
 }
 EXPORT_SYMBOL(pcmcia_get_mac_from_cis);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

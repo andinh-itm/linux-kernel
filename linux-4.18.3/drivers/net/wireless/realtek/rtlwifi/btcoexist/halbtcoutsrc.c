@@ -2045,3 +2045,4 @@ void exhalbtc_switch_band_notify_wifi_only(struct wifi_only_cfg *wifionly_cfg,
 					   u8 is_5g)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

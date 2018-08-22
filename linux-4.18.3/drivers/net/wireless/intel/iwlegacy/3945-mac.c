@@ -3956,3 +3956,4 @@ MODULE_PARM_DESC(fw_restart, "restart firmware in case of error");
 
 module_exit(il3945_exit);
 module_init(il3945_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

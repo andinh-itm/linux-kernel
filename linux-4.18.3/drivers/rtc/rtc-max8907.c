@@ -222,3 +222,4 @@ module_platform_driver(max8907_rtc_driver);
 
 MODULE_DESCRIPTION("Maxim MAX8907 RTC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

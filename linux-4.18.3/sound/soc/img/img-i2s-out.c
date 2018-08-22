@@ -625,3 +625,4 @@ module_platform_driver(img_i2s_out_driver);
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_DESCRIPTION("IMG I2S Output Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

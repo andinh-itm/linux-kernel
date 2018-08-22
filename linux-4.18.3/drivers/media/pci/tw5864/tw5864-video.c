@@ -1519,3 +1519,4 @@ static void tw5864_encoder_tables_upload(struct tw5864_dev *dev)
 			  inverse_quantization_table[i]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

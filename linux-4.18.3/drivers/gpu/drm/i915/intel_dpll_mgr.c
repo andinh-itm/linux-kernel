@@ -3169,3 +3169,4 @@ void intel_dpll_dump_hw_state(struct drm_i915_private *dev_priv,
 			      hw_state->fp1);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

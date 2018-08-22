@@ -148,3 +148,4 @@ MODULE_AUTHOR("Michal Ostrowski <mostrows@speakeasy.net>");
 MODULE_DESCRIPTION("PPP over Ethernet driver (generic socket layer)");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_NETPROTO(PF_PPPOX);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

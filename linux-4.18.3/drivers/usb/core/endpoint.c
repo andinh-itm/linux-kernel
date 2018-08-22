@@ -216,3 +216,4 @@ void usb_remove_ep_devs(struct usb_host_endpoint *endpoint)
 		endpoint->ep_dev = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

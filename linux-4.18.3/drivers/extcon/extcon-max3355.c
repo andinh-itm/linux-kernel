@@ -144,3 +144,4 @@ module_platform_driver(max3355_driver);
 MODULE_AUTHOR("Sergei Shtylyov <sergei.shtylyov@cogentembedded.com>");
 MODULE_DESCRIPTION("Maxim MAX3355 extcon driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

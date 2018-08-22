@@ -368,3 +368,4 @@ static struct platform_driver charlcd_driver = {
 	},
 };
 builtin_platform_driver_probe(charlcd_driver, charlcd_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

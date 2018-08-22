@@ -3376,3 +3376,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sm_it87_init);
 module_exit(sm_it87_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

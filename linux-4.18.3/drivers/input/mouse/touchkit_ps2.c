@@ -98,3 +98,4 @@ int touchkit_ps2_detect(struct psmouse *psmouse, bool set_properties)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

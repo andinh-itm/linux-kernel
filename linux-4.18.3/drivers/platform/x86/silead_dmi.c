@@ -621,3 +621,4 @@ static int __init silead_ts_dmi_init(void)
  * ACPI starts enumerating devices (at subsys initcall level).
  */
 arch_initcall(silead_ts_dmi_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

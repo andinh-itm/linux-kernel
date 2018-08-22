@@ -706,3 +706,4 @@ int __init bcm47xx_buttons_register(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

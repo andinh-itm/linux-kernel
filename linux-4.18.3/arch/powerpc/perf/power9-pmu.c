@@ -526,3 +526,4 @@ static int __init init_power9_pmu(void)
 	return 0;
 }
 early_initcall(init_power9_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

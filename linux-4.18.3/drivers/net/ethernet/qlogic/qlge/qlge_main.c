@@ -5028,3 +5028,4 @@ static struct pci_driver qlge_driver = {
 };
 
 module_pci_driver(qlge_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

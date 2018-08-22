@@ -1349,3 +1349,4 @@ void __init sun4v_mdesc_init(void)
 	mdesc_adi_init();
 	report_platform_properties();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

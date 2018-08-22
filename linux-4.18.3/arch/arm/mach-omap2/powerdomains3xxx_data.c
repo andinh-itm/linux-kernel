@@ -624,3 +624,4 @@ void __init omap3xxx_powerdomains_init(void)
 
 	pwrdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

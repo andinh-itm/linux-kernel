@@ -494,3 +494,4 @@ module_exit(ohci_omap_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_ALIAS("platform:ohci");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

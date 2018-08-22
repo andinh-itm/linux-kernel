@@ -194,3 +194,4 @@ int __init omap_32k_timer_init(void)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -558,3 +558,4 @@ acpi_ns_wrap_with_package(struct acpi_evaluate_info *info,
 	info->return_flags |= ACPI_OBJECT_REPAIRED | ACPI_OBJECT_WRAPPED;
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

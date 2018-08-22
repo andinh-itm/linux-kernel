@@ -148,3 +148,4 @@ void pci_hp_add_devices(struct pci_bus *bus)
 	pcibios_finish_adding_to_bus(bus);
 }
 EXPORT_SYMBOL_GPL(pci_hp_add_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

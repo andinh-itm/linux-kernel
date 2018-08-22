@@ -513,3 +513,4 @@ xfs_scrub_xref_is_inode_chunk(
 {
 	xfs_scrub_xref_inode_check(sc, agbno, len, &sc->sa.ino_cur, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

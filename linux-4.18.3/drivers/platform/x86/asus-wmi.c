@@ -2413,3 +2413,4 @@ static void __exit asus_wmi_exit(void)
 
 module_init(asus_wmi_init);
 module_exit(asus_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

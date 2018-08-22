@@ -157,3 +157,4 @@ err:
 }
 
 arch_initcall(tsi108_eth_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

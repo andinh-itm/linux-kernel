@@ -18,3 +18,4 @@ struct perf_event_attr *perf_pmu__get_default_config(struct perf_pmu *pmu __mayb
 #endif
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

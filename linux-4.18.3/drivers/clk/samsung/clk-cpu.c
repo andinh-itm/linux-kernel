@@ -478,3 +478,4 @@ free_cpuclk:
 	kfree(cpuclk);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

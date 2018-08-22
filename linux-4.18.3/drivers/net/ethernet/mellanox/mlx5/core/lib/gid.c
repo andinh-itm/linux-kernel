@@ -156,3 +156,4 @@ int mlx5_core_roce_gid_set(struct mlx5_core_dev *dev, unsigned int index,
 	return mlx5_cmd_exec(dev, in, sizeof(in), out, sizeof(out));
 }
 EXPORT_SYMBOL(mlx5_core_roce_gid_set);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

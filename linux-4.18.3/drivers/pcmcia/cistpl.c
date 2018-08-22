@@ -1605,3 +1605,4 @@ const struct bin_attribute pccard_cis_attr = {
 	.read = pccard_show_cis,
 	.write = pccard_store_cis,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

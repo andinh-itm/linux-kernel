@@ -1145,3 +1145,4 @@ int uni_player_init(struct platform_device *pdev,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(uni_player_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

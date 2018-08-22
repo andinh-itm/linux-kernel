@@ -258,3 +258,4 @@ void __init ks8695_init_pci(struct ks8695_pci_cfg *cfg)
 
 	pci_common_init(&ks8695_pci);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

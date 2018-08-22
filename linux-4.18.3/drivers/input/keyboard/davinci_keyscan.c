@@ -331,3 +331,4 @@ module_platform_driver_probe(davinci_ks_driver, davinci_ks_probe);
 MODULE_AUTHOR("Miguel Aguilar");
 MODULE_DESCRIPTION("Texas Instruments DaVinci Key Scan Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

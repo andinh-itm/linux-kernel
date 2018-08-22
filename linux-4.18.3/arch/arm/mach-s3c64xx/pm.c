@@ -348,3 +348,4 @@ static __init int s3c64xx_pm_initcall(void)
 	return 0;
 }
 arch_initcall(s3c64xx_pm_initcall);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

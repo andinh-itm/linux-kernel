@@ -1092,3 +1092,4 @@ void msm_csid_unregister_entity(struct csid_device *csid)
 	media_entity_cleanup(&csid->subdev.entity);
 	v4l2_ctrl_handler_free(&csid->ctrls);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

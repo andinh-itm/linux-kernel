@@ -314,3 +314,4 @@ void snd_dice_create_proc(struct snd_dice *dice)
 	add_node(dice, root, "dice", dice_proc_read);
 	add_node(dice, root, "formation", dice_proc_read_formation);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

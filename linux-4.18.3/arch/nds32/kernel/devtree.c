@@ -17,3 +17,4 @@ void __init early_init_devtree(void *params)
 
 	dump_stack_set_arch_desc("%s (DT)", of_flat_dt_get_machine_name());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

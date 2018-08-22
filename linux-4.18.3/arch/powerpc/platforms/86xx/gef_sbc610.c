@@ -188,3 +188,4 @@ define_machine(gef_sbc610) {
 	.pcibios_fixup_bus	= fsl_pcibios_fixup_bus,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

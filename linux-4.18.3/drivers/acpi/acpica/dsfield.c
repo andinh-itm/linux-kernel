@@ -771,3 +771,4 @@ acpi_ds_create_index_field(union acpi_parse_object *op,
 	status = acpi_ds_get_field_names(&info, walk_state, arg->common.next);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

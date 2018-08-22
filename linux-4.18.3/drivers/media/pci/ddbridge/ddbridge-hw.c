@@ -385,3 +385,4 @@ const struct ddb_info *get_ddb_info(u16 vendor, u16 device,
 
 	return &ddb_none;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

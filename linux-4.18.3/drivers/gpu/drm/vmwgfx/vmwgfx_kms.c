@@ -2924,3 +2924,4 @@ void vmw_kms_lost_device(struct drm_device *dev)
 {
 	drm_atomic_helper_shutdown(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

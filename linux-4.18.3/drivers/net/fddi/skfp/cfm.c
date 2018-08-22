@@ -623,3 +623,4 @@ int cem_build_path(struct s_smc *smc, char *to, int path_index)
 
 	return len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

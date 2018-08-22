@@ -379,3 +379,4 @@ int snd_dmaengine_pcm_close_release_chan(struct snd_pcm_substream *substream)
 EXPORT_SYMBOL_GPL(snd_dmaengine_pcm_close_release_chan);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

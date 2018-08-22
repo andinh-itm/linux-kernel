@@ -185,3 +185,4 @@ MODULE_AUTHOR("David Dajun Chen <dchen@diasemi.com>");
 MODULE_DESCRIPTION("DA9055 GPIO Device Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9055-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

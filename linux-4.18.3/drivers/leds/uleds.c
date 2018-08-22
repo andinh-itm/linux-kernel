@@ -233,3 +233,4 @@ module_exit(uleds_exit);
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_DESCRIPTION("Userspace driver for the LED subsystem");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

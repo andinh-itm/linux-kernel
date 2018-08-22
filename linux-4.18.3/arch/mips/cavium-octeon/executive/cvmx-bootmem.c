@@ -778,3 +778,4 @@ struct cvmx_bootmem_desc *cvmx_bootmem_get_desc(void)
 {
 	return cvmx_bootmem_desc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

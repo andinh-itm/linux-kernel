@@ -664,3 +664,4 @@ module_i2c_driver(usb251xb_i2c_driver);
 MODULE_AUTHOR("Richard Leitner <richard.leitner@skidata.com>");
 MODULE_DESCRIPTION("USB251x/xBi USB 2.0 Hub Controller Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

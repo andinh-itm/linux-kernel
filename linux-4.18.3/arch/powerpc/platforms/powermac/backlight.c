@@ -218,3 +218,4 @@ void pmac_backlight_enable(void)
 EXPORT_SYMBOL_GPL(pmac_backlight);
 EXPORT_SYMBOL_GPL(pmac_backlight_mutex);
 EXPORT_SYMBOL_GPL(pmac_has_backlight_type);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

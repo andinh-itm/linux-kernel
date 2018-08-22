@@ -389,3 +389,4 @@ void atari_unregister_vme_int(unsigned int irq)
 EXPORT_SYMBOL(atari_unregister_vme_int);
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

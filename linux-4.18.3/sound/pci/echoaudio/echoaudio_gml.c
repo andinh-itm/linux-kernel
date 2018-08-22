@@ -199,3 +199,4 @@ static int set_professional_spdif(struct echoaudio *chip, char prof)
 		prof ? "Professional" : "Consumer");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -191,3 +191,4 @@ static struct isa_driver snd_cs4231_driver = {
 };
 
 module_isa_driver(snd_cs4231_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

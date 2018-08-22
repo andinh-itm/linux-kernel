@@ -280,3 +280,4 @@ void configfs_hash_and_remove(struct dentry * dir, const char * name)
 	}
 	inode_unlock(d_inode(dir));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

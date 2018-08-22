@@ -6724,3 +6724,4 @@ const struct b43_phy_operations b43_phyops_n = {
 	.get_default_chan	= b43_nphy_op_get_default_chan,
 	.recalc_txpower		= b43_nphy_op_recalc_txpower,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -89,3 +89,4 @@ int __init imx6q_cpuidle_init(void)
 
 	return cpuidle_register(&imx6q_cpuidle_driver, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

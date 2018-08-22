@@ -868,3 +868,4 @@ void MACvDisableKeyEntry(struct vnt_private *priv, unsigned int uEntryIdx)
 	iowrite32(0, io_base + MAC_REG_MISCFFDATA);
 	iowrite16(MISCFFCTL_WRITE, io_base + MAC_REG_MISCFFCTL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -559,3 +559,4 @@ u32 Rtl8192PciEAGCTAB_Array[AGCTAB_ArrayLengthPciE] = {
 	0xc78, 0x693e001e,
 	0xc78, 0x6a3f001e,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -474,3 +474,4 @@ void usnic_vnic_free(struct usnic_vnic *vnic)
 	usnic_vnic_release_resources(vnic);
 	kfree(vnic);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

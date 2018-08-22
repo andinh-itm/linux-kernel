@@ -19361,3 +19361,4 @@ lpfc_sli4_issue_wqe(struct lpfc_hba *phba, uint32_t ring_number,
 	}
 	return WQE_ERROR;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

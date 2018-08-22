@@ -3644,3 +3644,4 @@ module_exit(gcc_apq8084_exit);
 MODULE_DESCRIPTION("QCOM GCC APQ8084 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-apq8084");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

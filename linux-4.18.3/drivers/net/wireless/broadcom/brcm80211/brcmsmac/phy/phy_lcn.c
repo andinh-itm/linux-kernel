@@ -5240,3 +5240,4 @@ s32 wlc_lcnphy_rx_signal_power(struct brcms_phy *pi, s32 gain_index)
 
 	return input_power_db;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

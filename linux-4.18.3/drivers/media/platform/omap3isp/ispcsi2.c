@@ -1315,3 +1315,4 @@ void omap3isp_csi2_cleanup(struct isp_device *isp)
 	omap3isp_video_cleanup(&csi2a->video_out);
 	media_entity_cleanup(&csi2a->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

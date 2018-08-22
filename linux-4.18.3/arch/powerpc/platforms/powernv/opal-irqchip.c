@@ -291,3 +291,4 @@ int opal_event_request(unsigned int opal_event_nr)
 	return irq_create_mapping(opal_event_irqchip.domain, opal_event_nr);
 }
 EXPORT_SYMBOL(opal_event_request);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -394,3 +394,4 @@ void trap_init(void)
 	 *       up on SMP.
 	 */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

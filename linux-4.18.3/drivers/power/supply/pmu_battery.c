@@ -224,3 +224,4 @@ module_exit(pmu_bat_exit);
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("PMU battery driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

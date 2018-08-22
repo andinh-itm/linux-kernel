@@ -510,3 +510,4 @@ void opa_vnic_encap_skb(struct opa_vnic_adapter *adapter, struct sk_buff *skb)
 			     info->vesw.pkey, entropy, sc, rc,
 			     OPA_VNIC_L4_ETHR, l4_hdr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

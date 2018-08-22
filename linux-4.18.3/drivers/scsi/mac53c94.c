@@ -569,3 +569,4 @@ module_exit(exit_mac53c94);
 MODULE_DESCRIPTION("PowerMac 53c94 SCSI driver");
 MODULE_AUTHOR("Paul Mackerras <paulus@samba.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

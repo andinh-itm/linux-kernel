@@ -507,3 +507,4 @@ EXPORT_SYMBOL_GPL(adau1781_probe);
 MODULE_DESCRIPTION("ASoC ADAU1381/ADAU1781 driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

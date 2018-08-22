@@ -572,3 +572,4 @@ void xen_pmu_finish(int cpu)
 	free_pages((unsigned long)per_cpu(xenpmu_shared, cpu).xenpmu_data, 0);
 	per_cpu(xenpmu_shared, cpu).xenpmu_data = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

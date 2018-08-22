@@ -414,3 +414,4 @@ MODULE_AUTHOR("Alex Smith <alex@alex-smith.me.uk>");
 MODULE_AUTHOR("Harvey Hunt <harveyhuntnexus@gmail.com>");
 MODULE_DESCRIPTION("Ingenic JZ4780 NAND driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

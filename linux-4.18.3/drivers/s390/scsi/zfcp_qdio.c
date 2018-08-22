@@ -503,3 +503,4 @@ void zfcp_qdio_siosl(struct zfcp_adapter *adapter)
 		atomic_or(ZFCP_STATUS_ADAPTER_SIOSL_ISSUED,
 				&adapter->status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

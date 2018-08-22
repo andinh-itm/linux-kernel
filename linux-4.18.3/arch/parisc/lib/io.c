@@ -487,3 +487,4 @@ EXPORT_SYMBOL(insl);
 EXPORT_SYMBOL(outsb);
 EXPORT_SYMBOL(outsw);
 EXPORT_SYMBOL(outsl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

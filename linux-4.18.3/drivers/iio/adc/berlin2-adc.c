@@ -378,3 +378,4 @@ module_platform_driver(berlin2_adc_driver);
 MODULE_AUTHOR("Antoine Tenart <antoine.tenart@free-electrons.com>");
 MODULE_DESCRIPTION("Marvell Berlin2 ADC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

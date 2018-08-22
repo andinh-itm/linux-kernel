@@ -195,3 +195,4 @@ static struct platform_driver bq4802_driver = {
 };
 
 module_platform_driver(bq4802_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

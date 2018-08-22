@@ -790,3 +790,4 @@ MODULE_ALIAS("platform:pnx-i2c");
 /* We need to make sure I2C is initialized before USB */
 subsys_initcall(i2c_adap_pnx_init);
 module_exit(i2c_adap_pnx_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

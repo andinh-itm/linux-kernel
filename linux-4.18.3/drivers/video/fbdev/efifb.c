@@ -455,3 +455,4 @@ DECLARE_PCI_FIXUP_CLASS_HEADER(PCI_ANY_ID, PCI_ANY_ID, PCI_BASE_CLASS_DISPLAY,
 			       16, efifb_fixup_resources);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

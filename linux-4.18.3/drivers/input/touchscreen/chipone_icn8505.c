@@ -518,3 +518,4 @@ module_i2c_driver(icn8505_driver);
 MODULE_DESCRIPTION("ChipOne icn8505 I2C Touchscreen Driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

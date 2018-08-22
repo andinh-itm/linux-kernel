@@ -448,3 +448,4 @@ MODULE_PARM_DESC(dump_bridge, "Dumps all usb bridge registers at startup");
 
 module_param(dump_sensor, bool, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(dump_sensor, "Dumps all usb sensor registers at startup providing a sensor is found");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

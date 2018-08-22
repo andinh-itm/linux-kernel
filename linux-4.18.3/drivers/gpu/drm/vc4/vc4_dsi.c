@@ -1719,3 +1719,4 @@ struct platform_driver vc4_dsi_driver = {
 		.of_match_table = vc4_dsi_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

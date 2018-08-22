@@ -329,3 +329,4 @@ void lowpan_rx_exit(void)
 {
 	dev_remove_pack(&lowpan_packet_type);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

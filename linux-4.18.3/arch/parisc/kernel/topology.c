@@ -140,3 +140,4 @@ void __init init_cpu_topology(void)
 	if (dualcores_found)
 		set_sched_topology(parisc_mc_topology);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

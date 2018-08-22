@@ -1159,3 +1159,4 @@ static inline int sglist_wrap(struct echoaudio *chip, struct audiopipe *pipe)
 {
 	return sglist_add_mapping(chip, pipe, pipe->sgpage.addr, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

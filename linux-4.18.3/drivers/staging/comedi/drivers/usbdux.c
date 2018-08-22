@@ -1725,3 +1725,4 @@ MODULE_AUTHOR("Bernd Porr, BerndPorr@f2s.com");
 MODULE_DESCRIPTION("Stirling/ITL USB-DUX -- Bernd.Porr@f2s.com");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(USBDUX_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

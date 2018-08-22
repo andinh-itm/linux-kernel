@@ -164,3 +164,4 @@ module_platform_driver(hisi_femac_mdio_driver);
 MODULE_DESCRIPTION("Hisilicon Fast Ethernet MAC MDIO interface driver");
 MODULE_AUTHOR("Dongpo Li <lidongpo@hisilicon.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

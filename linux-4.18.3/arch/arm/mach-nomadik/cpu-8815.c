@@ -120,3 +120,4 @@ DT_MACHINE_START(NOMADIK_DT, "Nomadik STn8815")
 	.restart	= cpu8815_restart,
 	.dt_compat      = cpu8815_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

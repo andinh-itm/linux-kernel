@@ -980,3 +980,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("Freescale ESAI CPU DAI driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:fsl-esai-dai");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

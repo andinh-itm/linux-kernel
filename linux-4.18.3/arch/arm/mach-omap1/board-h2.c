@@ -432,3 +432,4 @@ MACHINE_START(OMAP_H2, "TI-H2")
 	.init_time	= omap1_timer_init,
 	.restart	= omap1_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

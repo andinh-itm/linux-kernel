@@ -363,3 +363,4 @@ module_exit(tps_65023_cleanup);
 MODULE_AUTHOR("Texas Instruments");
 MODULE_DESCRIPTION("TPS65023 voltage regulator driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

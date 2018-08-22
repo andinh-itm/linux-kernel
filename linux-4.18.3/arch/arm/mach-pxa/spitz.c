@@ -1046,3 +1046,4 @@ MACHINE_START(AKITA, "SHARP Akita")
 	.restart	= spitz_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

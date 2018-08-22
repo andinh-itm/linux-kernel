@@ -355,3 +355,4 @@ ssize_t ptp_read(struct posix_clock *pc,
 	kfree(event);
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

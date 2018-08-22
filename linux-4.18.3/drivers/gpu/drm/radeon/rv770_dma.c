@@ -92,3 +92,4 @@ struct radeon_fence *rv770_copy_dma(struct radeon_device *rdev,
 
 	return fence;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

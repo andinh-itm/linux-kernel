@@ -270,3 +270,4 @@ MODULE_PARM_DESC(nowayout,
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pnx4008-watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

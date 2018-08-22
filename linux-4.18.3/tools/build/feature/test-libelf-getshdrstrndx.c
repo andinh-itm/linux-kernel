@@ -7,3 +7,4 @@ int main(void)
 
 	return elf_getshdrstrndx(0, &dst);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

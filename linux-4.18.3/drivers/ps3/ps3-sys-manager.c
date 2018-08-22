@@ -766,3 +766,4 @@ MODULE_AUTHOR("Sony Corporation");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("PS3 System Manager");
 MODULE_ALIAS(PS3_MODULE_ALIAS_SYSTEM_MANAGER);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

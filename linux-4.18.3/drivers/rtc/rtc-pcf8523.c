@@ -376,3 +376,4 @@ module_i2c_driver(pcf8523_driver);
 MODULE_AUTHOR("Thierry Reding <thierry.reding@avionic-design.de>");
 MODULE_DESCRIPTION("NXP PCF8523 RTC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

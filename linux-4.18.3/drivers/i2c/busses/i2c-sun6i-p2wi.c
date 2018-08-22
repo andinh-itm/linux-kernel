@@ -341,3 +341,4 @@ module_platform_driver(p2wi_driver);
 MODULE_AUTHOR("Boris BREZILLON <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("Allwinner P2WI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

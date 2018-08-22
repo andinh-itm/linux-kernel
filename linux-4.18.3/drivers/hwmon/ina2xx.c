@@ -545,3 +545,4 @@ module_i2c_driver(ina2xx_driver);
 MODULE_AUTHOR("Lothar Felten <l-felten@ti.com>");
 MODULE_DESCRIPTION("ina2xx driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

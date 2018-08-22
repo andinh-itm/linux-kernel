@@ -48,3 +48,4 @@ int bpf_func__sys_write(void *ctx)
 }
 char _license[] SEC("license") = "GPL";
 int _version SEC("version") = LINUX_VERSION_CODE;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

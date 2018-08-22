@@ -431,3 +431,4 @@ void PEVENT_PLUGIN_UNLOADER(struct pevent *pevent)
 	pevent_unregister_print_function(pevent, process_scsi_trace_parse_cdb,
 					 "scsi_trace_parse_cdb");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

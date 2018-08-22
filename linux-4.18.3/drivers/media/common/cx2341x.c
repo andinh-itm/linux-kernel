@@ -1750,3 +1750,4 @@ void cx2341x_handler_set_busy(struct cx2341x_handler *cxhdl, int busy)
 	v4l2_ctrl_grab(cxhdl->video_bitrate_peak, busy);
 }
 EXPORT_SYMBOL(cx2341x_handler_set_busy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

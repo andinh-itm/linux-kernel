@@ -63,3 +63,4 @@ unsigned int get_c0_compare_int(void)
 
 	return mips_cpu_timer_irq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

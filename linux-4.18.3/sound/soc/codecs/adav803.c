@@ -40,3 +40,4 @@ MODULE_DESCRIPTION("ASoC ADAV803 driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_AUTHOR("Yi Li <yi.li@analog.com>>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1927,3 +1927,4 @@ module_i2c_driver(nau8824_i2c_driver);
 MODULE_DESCRIPTION("ASoC NAU88L24 driver");
 MODULE_AUTHOR("John Hsu <KCHSU0@nuvoton.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

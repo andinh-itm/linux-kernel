@@ -2087,3 +2087,4 @@ module_platform_driver_probe(g3_driver, docg3_probe);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
 MODULE_DESCRIPTION("MTD driver for DiskOnChip G3");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

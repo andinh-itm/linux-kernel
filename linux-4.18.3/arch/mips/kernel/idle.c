@@ -272,3 +272,4 @@ int mips_cpuidle_wait_enter(struct cpuidle_device *dev,
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

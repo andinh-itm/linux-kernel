@@ -210,3 +210,4 @@ module_spi_driver(xilinx_slave_spi_driver)
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Anatolij Gustschin <agust@denx.de>");
 MODULE_DESCRIPTION("Load Xilinx FPGA firmware over SPI");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -345,3 +345,4 @@ static int __init vf610_pinctrl_init(void)
 	return platform_driver_register(&vf610_pinctrl_driver);
 }
 arch_initcall(vf610_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

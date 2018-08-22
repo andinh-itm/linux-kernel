@@ -1083,3 +1083,4 @@ int cvm_mmc_of_slot_remove(struct cvm_mmc_slot *slot)
 	mmc_free_host(slot->mmc);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

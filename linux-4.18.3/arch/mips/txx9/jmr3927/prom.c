@@ -50,3 +50,4 @@ void __init jmr3927_prom_init(void)
 	add_memory_region(0, JMR3927_SDRAM_SIZE, BOOT_MEM_RAM);
 	txx9_sio_putchar_init(TX3927_SIO_REG(1));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

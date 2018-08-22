@@ -9,3 +9,4 @@ int main(void)
 	ret = lzma_stream_decoder(&strm, UINT64_MAX, LZMA_CONCATENATED);
 	return ret ? -1 : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -156,3 +156,4 @@ module_platform_driver(stmp3xxx_wdt_driver);
 MODULE_DESCRIPTION("STMP3XXX RTC Watchdog Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Wolfram Sang <kernel@pengutronix.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -301,3 +301,4 @@ MODULE_AUTHOR("Donggeun Kim <dg77.kim@samsung.com>");
 MODULE_DESCRIPTION("MAX8997 LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:max8997-led");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

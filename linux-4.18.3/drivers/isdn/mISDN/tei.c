@@ -1426,3 +1426,4 @@ void TEIFree(void)
 	mISDN_FsmFree(&teifsmn);
 	mISDN_FsmFree(&deactfsm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -763,3 +763,4 @@ void adv748x_hdmi_cleanup(struct adv748x_hdmi *hdmi)
 	media_entity_cleanup(&hdmi->sd.entity);
 	v4l2_ctrl_handler_free(&hdmi->ctrl_hdl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

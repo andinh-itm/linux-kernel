@@ -54,3 +54,4 @@ static struct hid_driver ite_driver = {
 module_hid_driver(ite_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

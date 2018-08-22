@@ -2919,3 +2919,4 @@ MODULE_DEVICE_TABLE(ieee1394, fwserial_id_table);
 MODULE_PARM_DESC(ttys, "Number of ttys to create for each local firewire node");
 MODULE_PARM_DESC(auto, "Auto-connect a tty to each firewire node discovered");
 MODULE_PARM_DESC(loop, "Create a loopback device, fwloop<n>, with ttys");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

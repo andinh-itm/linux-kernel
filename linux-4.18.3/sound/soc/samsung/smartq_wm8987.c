@@ -227,3 +227,4 @@ module_platform_driver(smartq_driver);
 MODULE_AUTHOR("Maurus Cuelenaere <mcuelenaere@gmail.com>");
 MODULE_DESCRIPTION("ALSA SoC SmartQ WM8987");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

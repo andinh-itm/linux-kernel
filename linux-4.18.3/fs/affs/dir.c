@@ -142,3 +142,4 @@ out_unlock_dir:
 	affs_unlock_dir(inode);
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

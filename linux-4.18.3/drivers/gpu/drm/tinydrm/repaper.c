@@ -1097,3 +1097,4 @@ module_spi_driver(repaper_spi_driver);
 MODULE_DESCRIPTION("Pervasive Displays RePaper DRM driver");
 MODULE_AUTHOR("Noralf Trønnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

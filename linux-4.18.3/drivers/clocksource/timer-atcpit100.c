@@ -264,3 +264,4 @@ static int __init atcpit100_timer_init(struct device_node *node)
 }
 
 TIMER_OF_DECLARE(atcpit100, "andestech,atcpit100", atcpit100_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1912,3 +1912,4 @@ void dml1_rq_dlg_get_dlg_params(
 	print__ttu_regs_st(mode_lib, *disp_ttu_regs);
 	print__dlg_regs_st(mode_lib, *disp_dlg_regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

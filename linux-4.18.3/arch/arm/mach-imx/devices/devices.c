@@ -46,3 +46,4 @@ int __init mxc_device_init(void)
 done:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

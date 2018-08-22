@@ -911,3 +911,4 @@ MODULE_ALIAS("platform:wm831x-buckv");
 MODULE_ALIAS("platform:wm831x-buckp");
 MODULE_ALIAS("platform:wm831x-boostp");
 MODULE_ALIAS("platform:wm831x-epe");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

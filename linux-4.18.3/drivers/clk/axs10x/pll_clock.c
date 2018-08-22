@@ -344,3 +344,4 @@ builtin_platform_driver(axs10x_pll_clk_driver);
 MODULE_AUTHOR("Vlad Zakharov <vzakhar@synopsys.com>");
 MODULE_DESCRIPTION("Synopsys AXS10X SDP Generic PLL Clock Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

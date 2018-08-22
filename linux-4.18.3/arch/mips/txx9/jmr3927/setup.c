@@ -221,3 +221,4 @@ struct txx9_board_vec jmr3927_vec __initdata = {
 	.pci_map_irq = jmr3927_pci_map_irq,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

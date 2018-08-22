@@ -191,3 +191,4 @@ MACHINE_START(XCEP, "Iskratel XCEP")
 	.restart	= pxa_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

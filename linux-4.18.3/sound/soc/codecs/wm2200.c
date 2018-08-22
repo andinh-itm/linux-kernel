@@ -2507,3 +2507,4 @@ module_i2c_driver(wm2200_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM2200 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

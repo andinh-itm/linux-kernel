@@ -347,3 +347,4 @@ err_cec_parse_dt:
 		     ADV7511_CEC_CTRL_POWER_DOWN);
 	return ret == -EPROBE_DEFER ? ret : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -541,3 +541,4 @@ void hns_roce_cleanup_cq_table(struct hns_roce_dev *hr_dev)
 {
 	hns_roce_bitmap_cleanup(&hr_dev->cq_table.bitmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

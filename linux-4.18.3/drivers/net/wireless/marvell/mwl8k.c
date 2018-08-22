@@ -6353,3 +6353,4 @@ MODULE_DESCRIPTION(MWL8K_DESC);
 MODULE_VERSION(MWL8K_VERSION);
 MODULE_AUTHOR("Lennert Buytenhek <buytenh@marvell.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

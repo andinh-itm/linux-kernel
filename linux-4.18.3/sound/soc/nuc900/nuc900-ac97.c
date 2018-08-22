@@ -395,3 +395,4 @@ MODULE_AUTHOR("Wan ZongShun <mcuos.com@gmail.com>");
 MODULE_DESCRIPTION("NUC900 AC97 SoC driver!");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:nuc900-ac97");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

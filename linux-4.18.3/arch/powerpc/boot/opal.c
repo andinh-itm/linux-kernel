@@ -107,3 +107,4 @@ int opal_console_init(void *devp, struct serial_console_data *scdp)
 	return -1;
 }
 #endif /* __powerpc64__ */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

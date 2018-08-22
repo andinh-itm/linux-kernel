@@ -284,3 +284,4 @@ MODULE_PARM_DESC(timer, "force use of timer interrupt");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Levon <levon@movementarian.org>");
 MODULE_DESCRIPTION("OProfile system profiler");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

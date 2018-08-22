@@ -268,3 +268,4 @@ MODULE_DESCRIPTION("NI 903x Watchdog");
 MODULE_AUTHOR("Jeff Westfahl <jeff.westfahl@ni.com>");
 MODULE_AUTHOR("Kyle Roeschley <kyle.roeschley@ni.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -180,3 +180,4 @@ void migrate_irqs(void)
 	local_irq_restore(flags);
 }
 #endif /* CONFIG_HOTPLUG_CPU */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

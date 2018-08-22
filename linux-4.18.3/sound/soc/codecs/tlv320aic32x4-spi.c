@@ -76,3 +76,4 @@ module_spi_driver(aic32x4_spi_driver);
 MODULE_DESCRIPTION("ASoC TLV320AIC32x4 codec driver SPI");
 MODULE_AUTHOR("Jeremy McDermond <nh6z@nh6z.net>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

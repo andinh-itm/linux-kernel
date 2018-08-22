@@ -288,3 +288,4 @@ CLK_OF_DECLARE(bcm21664_master_ccu, BCM21664_DT_MASTER_CCU_COMPAT,
 			kona_dt_master_ccu_setup);
 CLK_OF_DECLARE(bcm21664_slave_ccu, BCM21664_DT_SLAVE_CCU_COMPAT,
 			kona_dt_slave_ccu_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

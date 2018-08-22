@@ -111,3 +111,4 @@ module_exit(ac97_bus_exit);
 EXPORT_SYMBOL(ac97_bus_type);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

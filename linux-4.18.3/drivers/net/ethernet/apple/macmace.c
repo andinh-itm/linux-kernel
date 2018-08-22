@@ -768,3 +768,4 @@ static struct platform_driver mac_mace_driver = {
 };
 
 module_platform_driver(mac_mace_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -422,3 +422,4 @@ void jfs_truncate(struct inode *ip)
 	jfs_truncate_nolock(ip, ip->i_size);
 	IWRITE_UNLOCK(ip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

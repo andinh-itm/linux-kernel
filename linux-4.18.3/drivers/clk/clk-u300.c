@@ -1197,3 +1197,4 @@ void __init u300_clk_init(void __iomem *base)
 
 	of_clk_init(u300_clk_match);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

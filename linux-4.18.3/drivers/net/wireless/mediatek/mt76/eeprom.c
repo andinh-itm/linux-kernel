@@ -110,3 +110,4 @@ mt76_eeprom_init(struct mt76_dev *dev, int len)
 	return !mt76_get_of_eeprom(dev, len);
 }
 EXPORT_SYMBOL_GPL(mt76_eeprom_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1011,3 +1011,4 @@ static int __init artpec6_pmx_init(void)
 	return platform_driver_register(&artpec6_pmx_driver);
 }
 arch_initcall(artpec6_pmx_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

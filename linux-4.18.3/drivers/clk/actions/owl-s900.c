@@ -719,3 +719,4 @@ static int __init s900_clk_init(void)
 	return platform_driver_register(&s900_clk_driver);
 }
 core_initcall(s900_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -371,3 +371,4 @@ static struct isa_driver snd_gusmax_driver = {
 };
 
 module_isa_driver(snd_gusmax_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

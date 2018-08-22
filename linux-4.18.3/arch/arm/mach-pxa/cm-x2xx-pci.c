@@ -197,3 +197,4 @@ static int __init cmx2xx_init_pci(void)
 }
 
 subsys_initcall(cmx2xx_init_pci);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

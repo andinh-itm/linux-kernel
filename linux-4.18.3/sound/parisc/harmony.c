@@ -1032,3 +1032,4 @@ MODULE_DESCRIPTION("Harmony sound driver");
 
 module_init(alsa_harmony_init);
 module_exit(alsa_harmony_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

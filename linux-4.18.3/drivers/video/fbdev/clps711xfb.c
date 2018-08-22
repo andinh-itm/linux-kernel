@@ -312,3 +312,4 @@ module_platform_driver(clps711x_fb_driver);
 MODULE_AUTHOR("Russell King <rmk@arm.linux.org.uk>");
 MODULE_DESCRIPTION("CLPS711X framebuffer driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

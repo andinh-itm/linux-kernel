@@ -2438,3 +2438,4 @@ static void __exit alsa_card_es18xx_exit(void)
 
 module_init(alsa_card_es18xx_init)
 module_exit(alsa_card_es18xx_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

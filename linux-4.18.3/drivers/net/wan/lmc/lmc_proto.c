@@ -133,3 +133,4 @@ void lmc_proto_netif(lmc_softc_t *sc, struct sk_buff *skb) /*FOLD00*/
     }
     lmc_trace(sc->lmc_device, "lmc_proto_netif out");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

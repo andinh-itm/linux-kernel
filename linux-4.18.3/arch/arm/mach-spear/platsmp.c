@@ -129,3 +129,4 @@ const struct smp_operations spear13xx_smp_ops __initconst = {
        .cpu_die			= spear13xx_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

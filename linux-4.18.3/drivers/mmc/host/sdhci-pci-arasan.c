@@ -329,3 +329,4 @@ const struct sdhci_pci_fixes sdhci_arasan = {
 	.ops        = &arasan_sdhci_pci_ops,
 	.priv_size  = sizeof(struct arasan_host),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

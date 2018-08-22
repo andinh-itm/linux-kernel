@@ -1381,3 +1381,4 @@ module_i2c_driver(tc358767_driver);
 MODULE_AUTHOR("Andrey Gusakov <andrey.gusakov@cogentembedded.com>");
 MODULE_DESCRIPTION("tc358767 eDP encoder driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -317,3 +317,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("GPIO interface for WM8994");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8994-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

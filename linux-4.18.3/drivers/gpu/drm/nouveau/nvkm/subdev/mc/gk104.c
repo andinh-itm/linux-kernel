@@ -64,3 +64,4 @@ gk104_mc_new(struct nvkm_device *device, int index, struct nvkm_mc **pmc)
 {
 	return nvkm_mc_new_(&gk104_mc, device, index, pmc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

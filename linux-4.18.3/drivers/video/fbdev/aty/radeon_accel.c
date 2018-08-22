@@ -327,3 +327,4 @@ void radeonfb_engine_init (struct radeonfb_info *rinfo)
 
 	radeon_engine_idle ();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

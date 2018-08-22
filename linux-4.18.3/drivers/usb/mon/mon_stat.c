@@ -69,3 +69,4 @@ const struct file_operations mon_fops_stat = {
 	/* .unlocked_ioctl =	mon_stat_ioctl, */
 	.release =	mon_stat_release,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

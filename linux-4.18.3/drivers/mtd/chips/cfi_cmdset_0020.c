@@ -1396,3 +1396,4 @@ static void cfi_staa_destroy(struct mtd_info *mtd)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -453,3 +453,4 @@ MODULE_DESCRIPTION("Station driver for RSI 91x devices");
 MODULE_SUPPORTED_DEVICE("RSI-91x");
 MODULE_VERSION("0.1");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

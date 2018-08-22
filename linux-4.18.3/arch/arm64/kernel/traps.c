@@ -816,3 +816,4 @@ void __init trap_init(void)
 {
 	register_break_hook(&bug_break_hook);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

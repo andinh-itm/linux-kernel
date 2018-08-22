@@ -77,3 +77,4 @@ module_platform_driver(shdma_of);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("SH-DMA driver DT glue");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2325,3 +2325,4 @@ qla2x00_init_host_attr(scsi_qla_host_t *vha)
 		speed = FC_PORTSPEED_1GBIT;
 	fc_host_supported_speeds(vha->host) = speed;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

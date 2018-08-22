@@ -883,3 +883,4 @@ static int __init omap_device_late_init(void)
 	return 0;
 }
 omap_late_initcall_sync(omap_device_late_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

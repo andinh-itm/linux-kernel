@@ -852,3 +852,4 @@ static void __exit cleanup_pmc551(void)
 
 module_init(init_pmc551);
 module_exit(cleanup_pmc551);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

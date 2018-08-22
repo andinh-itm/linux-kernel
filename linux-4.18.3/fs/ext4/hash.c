@@ -266,3 +266,4 @@ int ext4fs_dirhash(const char *name, int len, struct dx_hash_info *hinfo)
 	hinfo->minor_hash = minor_hash;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

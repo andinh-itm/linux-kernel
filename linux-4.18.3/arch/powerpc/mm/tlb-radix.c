@@ -1108,3 +1108,4 @@ extern void radix_kvm_prefetch_workaround(struct mm_struct *mm)
 }
 EXPORT_SYMBOL_GPL(radix_kvm_prefetch_workaround);
 #endif /* CONFIG_KVM_BOOK3S_HV_POSSIBLE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

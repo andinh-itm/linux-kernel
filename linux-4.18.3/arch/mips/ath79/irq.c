@@ -167,3 +167,4 @@ void __init arch_init_irq(void)
 	else if (soc_is_qca955x())
 		qca955x_irq_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

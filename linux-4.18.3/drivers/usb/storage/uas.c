@@ -1197,3 +1197,4 @@ module_usb_driver(uas_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR(
 	"Hans de Goede <hdegoede@redhat.com>, Matthew Wilcox and Sarah Sharp");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

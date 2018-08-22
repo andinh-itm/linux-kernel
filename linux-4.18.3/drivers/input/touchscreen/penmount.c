@@ -317,3 +317,4 @@ static struct serio_driver pm_drv = {
 };
 
 module_serio_driver(pm_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

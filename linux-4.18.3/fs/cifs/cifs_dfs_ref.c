@@ -384,3 +384,4 @@ struct vfsmount *cifs_dfs_d_automount(struct path *path)
 
 const struct inode_operations cifs_dfs_referral_inode_operations = {
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

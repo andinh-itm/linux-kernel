@@ -8622,3 +8622,4 @@ void ncr53c8xx_exit(void)
 {
 	spi_release_transport(ncr53c8xx_transport_template);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

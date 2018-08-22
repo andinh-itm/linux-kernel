@@ -528,3 +528,4 @@ cleanup:
 }
 
 ACPI_EXPORT_SYMBOL(acpi_remove_table_handler)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

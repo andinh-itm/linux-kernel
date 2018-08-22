@@ -761,3 +761,4 @@ void __init kvm_spinlock_init(void)
 }
 
 #endif	/* CONFIG_PARAVIRT_SPINLOCKS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

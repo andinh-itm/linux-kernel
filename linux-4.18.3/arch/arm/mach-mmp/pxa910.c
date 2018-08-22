@@ -191,3 +191,4 @@ struct platform_device pxa910_device_rtc = {
 	.num_resources	= ARRAY_SIZE(pxa910_resource_rtc),
 	.resource	= pxa910_resource_rtc,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -276,3 +276,4 @@ module_platform_driver(opa362_driver);
 MODULE_AUTHOR("H. Nikolaus Schaller <hns@goldelico.com>");
 MODULE_DESCRIPTION("OPA362 analog video amplifier with output/power control");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

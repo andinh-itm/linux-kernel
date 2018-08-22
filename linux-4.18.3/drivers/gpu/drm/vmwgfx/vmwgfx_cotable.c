@@ -665,3 +665,4 @@ void vmw_cotable_add_resource(struct vmw_resource *res, struct list_head *head)
 
 	list_add_tail(head, &vcotbl->resource_list);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

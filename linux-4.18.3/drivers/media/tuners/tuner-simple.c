@@ -1139,3 +1139,4 @@ EXPORT_SYMBOL_GPL(simple_tuner_attach);
 MODULE_DESCRIPTION("Simple 4-control-bytes style tuner driver");
 MODULE_AUTHOR("Ralph Metzler, Gerd Knorr, Gunther Mayer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

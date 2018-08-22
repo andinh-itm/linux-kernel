@@ -194,3 +194,4 @@ module_platform_driver(da9052_led_driver);
 MODULE_AUTHOR("Dialog Semiconductor Ltd <dchen@diasemi.com>");
 MODULE_DESCRIPTION("LED driver for Dialog DA9052 PMIC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

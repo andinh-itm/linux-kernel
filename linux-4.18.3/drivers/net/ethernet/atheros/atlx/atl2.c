@@ -3082,3 +3082,4 @@ static void atl2_check_options(struct atl2_adapter *adapter)
 		adapter->hw.MediaType = (u16)(opt.def);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

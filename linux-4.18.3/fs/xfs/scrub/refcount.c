@@ -499,3 +499,4 @@ xfs_scrub_xref_is_not_shared(
 	if (shared)
 		xfs_scrub_btree_xref_set_corrupt(sc, sc->sa.refc_cur, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

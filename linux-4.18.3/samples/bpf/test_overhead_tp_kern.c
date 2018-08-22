@@ -34,3 +34,4 @@ int prog2(struct urandom_read *ctx)
 	return 0;
 }
 char _license[] SEC("license") = "GPL";
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

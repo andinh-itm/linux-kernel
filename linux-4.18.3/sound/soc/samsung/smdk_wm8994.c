@@ -201,3 +201,4 @@ module_platform_driver(smdk_audio_driver);
 MODULE_DESCRIPTION("ALSA SoC SMDK WM8994");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:smdk-audio-wm8994");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

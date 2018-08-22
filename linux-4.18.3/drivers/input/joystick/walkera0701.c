@@ -312,3 +312,4 @@ static void __exit walkera0701_exit(void)
 
 module_init(walkera0701_init);
 module_exit(walkera0701_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

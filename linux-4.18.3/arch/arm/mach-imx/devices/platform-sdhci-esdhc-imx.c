@@ -65,3 +65,4 @@ struct platform_device *__init imx_add_sdhci_esdhc_imx(
 			ARRAY_SIZE(res), pdata, sizeof(*pdata),
 			DMA_BIT_MASK(32));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

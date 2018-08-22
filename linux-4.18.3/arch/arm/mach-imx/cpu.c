@@ -164,3 +164,4 @@ free_soc:
 	kfree(soc_dev_attr);
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

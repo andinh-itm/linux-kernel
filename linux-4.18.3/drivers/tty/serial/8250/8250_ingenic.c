@@ -352,3 +352,4 @@ module_platform_driver(ingenic_uart_platform_driver);
 MODULE_AUTHOR("Paul Burton");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Ingenic SoC UART driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

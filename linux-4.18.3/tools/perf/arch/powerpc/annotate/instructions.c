@@ -59,3 +59,4 @@ static int powerpc__annotate_init(struct arch *arch, char *cpuid __maybe_unused)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

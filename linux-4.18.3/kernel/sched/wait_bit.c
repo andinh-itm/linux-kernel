@@ -247,3 +247,4 @@ void __init wait_bit_init(void)
 	for (i = 0; i < WAIT_TABLE_SIZE; i++)
 		init_waitqueue_head(bit_wait_table + i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

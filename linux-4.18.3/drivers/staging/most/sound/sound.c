@@ -759,3 +759,4 @@ module_exit(audio_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Christian Gromm <christian.gromm@microchip.com>");
 MODULE_DESCRIPTION("Sound Component Module for Mostcore");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

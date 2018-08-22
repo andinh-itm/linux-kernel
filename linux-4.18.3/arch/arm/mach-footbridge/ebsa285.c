@@ -122,3 +122,4 @@ MACHINE_START(EBSA285, "EBSA285")
 	.restart	= footbridge_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

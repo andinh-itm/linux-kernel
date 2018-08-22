@@ -1950,3 +1950,4 @@ module_exit(serial_omap_exit);
 MODULE_DESCRIPTION("OMAP High Speed UART driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Texas Instruments Inc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

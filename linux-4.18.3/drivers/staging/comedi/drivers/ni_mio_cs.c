@@ -216,3 +216,4 @@ module_comedi_pcmcia_driver(driver_ni_mio_cs, ni_mio_cs_driver);
 MODULE_DESCRIPTION("Comedi driver for National Instruments DAQCard E series");
 MODULE_AUTHOR("David A. Schleef <ds@schleef.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

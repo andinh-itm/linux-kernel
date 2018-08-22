@@ -699,3 +699,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Braswell Machine driver");
 MODULE_AUTHOR("Fang, Yang A,N,Harshapriya");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:cht-bsw-rt5645");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

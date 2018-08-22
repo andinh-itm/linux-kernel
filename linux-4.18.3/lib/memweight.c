@@ -37,3 +37,4 @@ size_t memweight(const void *ptr, size_t bytes)
 	return ret;
 }
 EXPORT_SYMBOL(memweight);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

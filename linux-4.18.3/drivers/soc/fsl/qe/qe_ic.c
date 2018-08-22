@@ -510,3 +510,4 @@ static int __init init_qe_ic_sysfs(void)
 }
 
 subsys_initcall(init_qe_ic_sysfs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

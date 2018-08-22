@@ -6054,3 +6054,4 @@ struct scsi_host_template lpfc_vport_template = {
 	.change_queue_depth	= scsi_change_queue_depth,
 	.track_queue_depth	= 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

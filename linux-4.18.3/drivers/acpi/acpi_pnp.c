@@ -386,3 +386,4 @@ void __init acpi_pnp_init(void)
 {
 	acpi_scan_add_handler(&acpi_pnp_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

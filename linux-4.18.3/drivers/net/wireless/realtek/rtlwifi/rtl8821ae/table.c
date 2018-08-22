@@ -3814,3 +3814,4 @@ u8 *RTL8821AE_TXPWR_LMT[] = {
 };
 
 u32 RTL8821AE_TXPWR_LMT_ARRAY_LEN = ARRAY_SIZE(RTL8821AE_TXPWR_LMT);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

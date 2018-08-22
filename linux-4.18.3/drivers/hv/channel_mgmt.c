@@ -1333,3 +1333,4 @@ void vmbus_set_chn_rescind_callback(struct vmbus_channel *channel,
 	channel->chn_rescind_callback = chn_rescind_cb;
 }
 EXPORT_SYMBOL_GPL(vmbus_set_chn_rescind_callback);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

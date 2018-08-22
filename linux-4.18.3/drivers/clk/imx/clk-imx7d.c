@@ -908,3 +908,4 @@ static void __init imx7d_clocks_init(struct device_node *ccm_node)
 
 }
 CLK_OF_DECLARE(imx7d, "fsl,imx7d-ccm", imx7d_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

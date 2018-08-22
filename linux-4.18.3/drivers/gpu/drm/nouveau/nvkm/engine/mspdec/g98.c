@@ -48,3 +48,4 @@ g98_mspdec_new(struct nvkm_device *device, int index,
 {
 	return nvkm_mspdec_new_(&g98_mspdec, device, index, pengine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

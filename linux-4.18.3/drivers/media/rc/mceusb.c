@@ -1738,3 +1738,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(usb, mceusb_dev_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

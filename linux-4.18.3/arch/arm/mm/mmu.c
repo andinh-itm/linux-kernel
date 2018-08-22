@@ -1651,3 +1651,4 @@ void __init early_mm_init(const struct machine_desc *mdesc)
 	build_mem_type_table();
 	early_paging_init(mdesc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -177,3 +177,4 @@ static int __init opal_power_control_init(void)
 	return 0;
 }
 machine_subsys_initcall(powernv, opal_power_control_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

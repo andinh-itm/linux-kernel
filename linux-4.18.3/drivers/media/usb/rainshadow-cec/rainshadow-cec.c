@@ -382,3 +382,4 @@ static struct serio_driver rain_drv = {
 };
 
 module_serio_driver(rain_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

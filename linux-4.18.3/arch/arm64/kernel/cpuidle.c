@@ -63,3 +63,4 @@ int acpi_processor_ffh_lpi_enter(struct acpi_lpi_state *lpi)
 		return CPU_PM_CPU_IDLE_ENTER(arm_cpuidle_suspend, lpi->index);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

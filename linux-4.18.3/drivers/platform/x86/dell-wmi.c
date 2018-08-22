@@ -738,3 +738,4 @@ static void __exit dell_wmi_exit(void)
 	wmi_driver_unregister(&dell_wmi_driver);
 }
 module_exit(dell_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

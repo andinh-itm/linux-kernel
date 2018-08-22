@@ -161,3 +161,4 @@ void dce112_hw_sequencer_construct(struct dc *dc)
 	dc->hwss.enable_display_power_gating = dce112_enable_display_power_gating;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

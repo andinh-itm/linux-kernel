@@ -171,3 +171,4 @@ MODULE_ALIAS("platform:lpc32xx-pwm");
 MODULE_AUTHOR("Alexandre Pereira da Silva <aletes.xgr@gmail.com>");
 MODULE_DESCRIPTION("LPC32XX PWM Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

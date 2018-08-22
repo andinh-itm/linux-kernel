@@ -287,3 +287,4 @@ module_i2c_driver(lis3lv02d_i2c_driver);
 MODULE_AUTHOR("Nokia Corporation");
 MODULE_DESCRIPTION("lis3lv02d I2C interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

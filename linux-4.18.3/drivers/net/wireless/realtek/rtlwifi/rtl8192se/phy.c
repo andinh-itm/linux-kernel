@@ -1646,3 +1646,4 @@ void rtl92s_phy_set_beacon_hwreg(struct ieee80211_hw *hw, u16 beaconinterval)
 		rtl_write_dword(rtlpriv, WFM3, 0xB026007C);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

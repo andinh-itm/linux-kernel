@@ -791,3 +791,4 @@ const struct lcd_ctrl omap1_int_ctrl = {
 	.enable_plane		= omap_lcdc_enable_plane,
 	.setcolreg		= omap_lcdc_setcolreg,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

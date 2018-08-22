@@ -1576,3 +1576,4 @@ const struct regmap_config wm8998_i2c_regmap = {
 	.num_reg_defaults = ARRAY_SIZE(wm8998_reg_default),
 };
 EXPORT_SYMBOL_GPL(wm8998_i2c_regmap);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -350,3 +350,4 @@ fail:
 }
 CLK_OF_DECLARE(asm9260_acc, "alphascale,asm9260-clock-controller",
 		asm9260_acc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -185,3 +185,4 @@ static int __init meson_gx_socinfo_init(void)
 	return 0;
 }
 device_initcall(meson_gx_socinfo_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

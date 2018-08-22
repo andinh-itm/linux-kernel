@@ -512,3 +512,4 @@ void brcms_c_rateset_bw_mcs_filter(struct brcms_c_rateset *rateset, u8 bw)
 	else
 		clrbit(rateset->mcs, 32);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

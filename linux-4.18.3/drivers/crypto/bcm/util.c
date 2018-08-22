@@ -578,3 +578,4 @@ void format_value_ccm(unsigned int val, u8 *buf, u8 len)
 			break;  /* Only handle up to 32 bits of 'val' */
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1054,3 +1054,4 @@ int r8712_pre_xmit(struct _adapter *padapter, struct xmit_frame *pxmitframe)
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

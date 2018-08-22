@@ -958,3 +958,4 @@ static int __init ab3100_i2c_init(void)
 	return i2c_add_driver(&ab3100_driver);
 }
 subsys_initcall(ab3100_i2c_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

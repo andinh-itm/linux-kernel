@@ -92,3 +92,4 @@ void __init ip27_be_init(void)
 	LOCAL_HUB_S(PI_ERR_STACK_SIZE, 0);	/* Disable error stack */
 	LOCAL_HUB_S(PI_SYSAD_ERRCHK_EN, PI_SYSAD_CHECK_ALL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

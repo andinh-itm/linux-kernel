@@ -925,3 +925,4 @@ void rqst_page_get_length(struct smb_rqst *rqst, unsigned int page,
 	else if (page == 0)
 		*len = rqst->rq_pagesz - rqst->rq_offset;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

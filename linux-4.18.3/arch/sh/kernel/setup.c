@@ -361,3 +361,4 @@ int test_mode_pin(int pin)
 {
 	return sh_mv.mv_mode_pins() & pin;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

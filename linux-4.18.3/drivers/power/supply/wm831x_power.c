@@ -743,3 +743,4 @@ MODULE_DESCRIPTION("Power supply driver for WM831x PMICs");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-power");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

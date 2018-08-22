@@ -69,3 +69,4 @@ module_acpi_driver(acer_wireless_driver);
 MODULE_DESCRIPTION("Acer Wireless Radio Control Driver");
 MODULE_AUTHOR("Chris Chiu <chiu@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

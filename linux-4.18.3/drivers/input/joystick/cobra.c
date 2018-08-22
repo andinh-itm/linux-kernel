@@ -261,3 +261,4 @@ static struct gameport_driver cobra_drv = {
 };
 
 module_gameport_driver(cobra_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

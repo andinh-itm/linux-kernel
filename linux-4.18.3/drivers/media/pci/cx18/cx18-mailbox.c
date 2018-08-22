@@ -852,3 +852,4 @@ int cx18_vapi(struct cx18 *cx, u32 cmd, int args, ...)
 	va_end(ap);
 	return cx18_api(cx, cmd, args, data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

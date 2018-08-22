@@ -119,3 +119,4 @@ int rpaphp_enable_slot(struct slot *slot)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

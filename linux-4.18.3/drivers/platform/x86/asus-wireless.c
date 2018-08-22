@@ -200,3 +200,4 @@ module_acpi_driver(asus_wireless_driver);
 MODULE_DESCRIPTION("Asus Wireless Radio Control Driver");
 MODULE_AUTHOR("João Paulo Rechi Vita <jprvita@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

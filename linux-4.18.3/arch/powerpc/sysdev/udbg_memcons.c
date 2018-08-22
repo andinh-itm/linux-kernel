@@ -102,3 +102,4 @@ void udbg_init_memcons(void)
 	udbg_getc = memcons_getc;
 	udbg_getc_poll = memcons_getc_poll;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

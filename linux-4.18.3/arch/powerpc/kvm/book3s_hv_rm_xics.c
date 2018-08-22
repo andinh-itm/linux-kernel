@@ -921,3 +921,4 @@ void kvmppc_xics_ipi_action(void)
 		rm_corep->rm_state.rm_action = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

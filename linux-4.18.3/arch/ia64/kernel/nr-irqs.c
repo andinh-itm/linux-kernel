@@ -20,3 +20,4 @@ void foo(void)
 
 	DEFINE(NR_IRQS, sizeof (union paravirt_nr_irqs_max));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

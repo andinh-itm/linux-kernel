@@ -38,3 +38,4 @@ void __init prom_init_cmdline(s32 argc, s32 *argv, u32 magic)
 	printk("arcs_cmdline: %s\n", &(arcs_cmdline[0]));
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

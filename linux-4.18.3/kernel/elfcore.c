@@ -23,3 +23,4 @@ size_t __weak elf_core_extra_data_size(void)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

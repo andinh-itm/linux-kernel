@@ -336,3 +336,4 @@ struct resource_table *rproc_elf_find_loaded_rsc_table(struct rproc *rproc,
 	return rproc_da_to_va(rproc, shdr->sh_addr, shdr->sh_size);
 }
 EXPORT_SYMBOL(rproc_elf_find_loaded_rsc_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

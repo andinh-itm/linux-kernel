@@ -1152,3 +1152,4 @@ void vxge_initialize_ethtool_ops(struct net_device *ndev)
 {
 	ndev->ethtool_ops = &vxge_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

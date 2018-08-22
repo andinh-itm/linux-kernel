@@ -418,3 +418,4 @@ void show_regs(struct pt_regs *regs)
 	if (!user_mode(regs))
 		show_trace_log_lvl(current, regs, NULL, KERN_DEFAULT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

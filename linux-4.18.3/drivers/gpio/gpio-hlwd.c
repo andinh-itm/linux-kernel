@@ -113,3 +113,4 @@ module_platform_driver(hlwd_gpio_driver);
 MODULE_AUTHOR("Jonathan Neuschäfer <j.neuschaefer@gmx.net>");
 MODULE_DESCRIPTION("Nintendo Wii GPIO driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

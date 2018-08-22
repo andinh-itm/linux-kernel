@@ -570,3 +570,4 @@ asmlinkage int sys_atomic_barrier(void)
 	/* no code needed for uniprocs */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

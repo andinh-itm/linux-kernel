@@ -165,3 +165,4 @@ void __init s5pv210_pm_init(void)
 	register_syscore_ops(&s5pv210_pm_syscore_ops);
 	suspend_set_ops(&s5pv210_suspend_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

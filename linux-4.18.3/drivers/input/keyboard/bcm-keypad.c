@@ -454,3 +454,4 @@ module_platform_driver(bcm_kp_device_driver);
 MODULE_AUTHOR("Broadcom Corporation");
 MODULE_DESCRIPTION("BCM Keypad Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

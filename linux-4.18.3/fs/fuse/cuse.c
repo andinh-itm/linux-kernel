@@ -648,3 +648,4 @@ module_exit(cuse_exit);
 MODULE_AUTHOR("Tejun Heo <tj@kernel.org>");
 MODULE_DESCRIPTION("Character device in Userspace");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

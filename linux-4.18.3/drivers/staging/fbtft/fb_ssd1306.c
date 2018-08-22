@@ -225,3 +225,4 @@ MODULE_ALIAS("platform:ssd1306");
 MODULE_DESCRIPTION("SSD1306 OLED Driver");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

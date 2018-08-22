@@ -860,3 +860,4 @@ MODULE_AUTHOR("Sourav Poddar <sourav.poddar@ti.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI QSPI controller driver");
 MODULE_ALIAS("platform:ti-qspi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

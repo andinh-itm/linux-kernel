@@ -491,3 +491,4 @@ module_platform_driver(rk805_pinctrl_driver);
 MODULE_DESCRIPTION("RK805 pin control and GPIO driver");
 MODULE_AUTHOR("Joseph Chen <chenjh@rock-chips.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

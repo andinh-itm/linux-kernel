@@ -3008,3 +3008,4 @@ static struct cnic_ulp_ops bnx2fc_cnic_cb = {
 	.indicate_netevent	= bnx2fc_indicate_netevent,
 	.cnic_get_stats		= bnx2fc_ulp_get_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

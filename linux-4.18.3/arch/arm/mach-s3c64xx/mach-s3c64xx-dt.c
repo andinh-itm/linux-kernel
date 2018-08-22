@@ -66,3 +66,4 @@ DT_MACHINE_START(S3C6400_DT, "Samsung S3C64xx (Flattened Device Tree)")
 	.init_machine	= s3c64xx_dt_init_machine,
 	.restart        = s3c64xx_dt_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

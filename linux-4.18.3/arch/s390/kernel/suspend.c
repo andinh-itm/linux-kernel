@@ -238,3 +238,4 @@ void s390_early_resume(void)
 	channel_subsystem_reinit();
 	zpci_rescan();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

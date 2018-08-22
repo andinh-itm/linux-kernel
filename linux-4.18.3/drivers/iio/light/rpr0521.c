@@ -1140,3 +1140,4 @@ module_i2c_driver(rpr0521_driver);
 MODULE_AUTHOR("Daniel Baluta <daniel.baluta@intel.com>");
 MODULE_DESCRIPTION("RPR0521 ROHM Ambient Light and Proximity Sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

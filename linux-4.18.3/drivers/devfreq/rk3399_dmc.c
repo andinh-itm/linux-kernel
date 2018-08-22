@@ -462,3 +462,4 @@ module_platform_driver(rk3399_dmcfreq_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Lin Huang <hl@rock-chips.com>");
 MODULE_DESCRIPTION("RK3399 dmcfreq driver with devfreq framework");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

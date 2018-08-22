@@ -276,3 +276,4 @@ nvkm_gpuobj_memcpy_from(void *dst, struct nvkm_gpuobj *src, u32 srcoffset,
 	for (i = 0; i < length; i += 4)
 		((u32 *)src)[i / 4] = nvkm_ro32(src, srcoffset + i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

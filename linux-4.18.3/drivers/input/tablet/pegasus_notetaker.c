@@ -465,3 +465,4 @@ module_usb_driver(pegasus_driver);
 MODULE_AUTHOR("Martin Kepplinger <martink@posteo.de>");
 MODULE_DESCRIPTION("Pegasus Mobile Notetaker Pen tablet driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

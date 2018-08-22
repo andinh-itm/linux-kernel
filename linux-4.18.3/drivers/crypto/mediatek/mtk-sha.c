@@ -1357,3 +1357,4 @@ void mtk_hash_alg_release(struct mtk_cryp *cryp)
 	mtk_sha_unregister_algs();
 	mtk_sha_record_free(cryp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

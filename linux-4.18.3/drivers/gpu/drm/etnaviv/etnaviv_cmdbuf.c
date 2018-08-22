@@ -132,3 +132,4 @@ dma_addr_t etnaviv_cmdbuf_get_pa(struct etnaviv_cmdbuf *buf)
 {
 	return buf->suballoc->paddr + buf->suballoc_offset;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

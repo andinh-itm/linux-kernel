@@ -114,3 +114,4 @@ void cobalt_flash_remove(struct cobalt *cobalt)
 		map_destroy(cobalt->mtd);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

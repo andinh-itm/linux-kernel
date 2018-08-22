@@ -189,3 +189,4 @@ MODULE_AUTHOR("Marten Svanfeldt <marten@intuitiveaerial.com>");
 MODULE_AUTHOR("Daniel Baluta <daniel.baluta@intel.com>");
 MODULE_DESCRIPTION("Periodic hrtimer trigger for the IIO subsystem");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

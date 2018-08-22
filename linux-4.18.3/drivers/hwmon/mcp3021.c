@@ -211,3 +211,4 @@ module_i2c_driver(mcp3021_driver);
 MODULE_AUTHOR("Mingkai Hu <Mingkai.hu@freescale.com>");
 MODULE_DESCRIPTION("Microchip MCP3021/MCP3221 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

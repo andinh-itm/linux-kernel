@@ -413,3 +413,4 @@ enum halmac_ret_status halmac_get_version(struct halmac_ver *version)
 
 	return HALMAC_RET_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

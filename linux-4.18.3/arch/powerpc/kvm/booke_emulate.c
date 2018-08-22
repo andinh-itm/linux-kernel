@@ -520,3 +520,4 @@ int kvmppc_booke_emulate_mfspr(struct kvm_vcpu *vcpu, int sprn, ulong *spr_val)
 
 	return emulated;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

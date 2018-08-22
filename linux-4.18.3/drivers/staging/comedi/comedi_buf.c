@@ -640,3 +640,4 @@ unsigned int comedi_buf_read_samples(struct comedi_subdevice *s,
 	return nbytes;
 }
 EXPORT_SYMBOL_GPL(comedi_buf_read_samples);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

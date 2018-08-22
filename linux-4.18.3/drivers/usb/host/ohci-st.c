@@ -344,3 +344,4 @@ module_exit(ohci_platform_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("Peter Griffin <peter.griffin@linaro.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

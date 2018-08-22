@@ -166,3 +166,4 @@ MODULE_AUTHOR("Philippe Retornaz <philippe.retornaz@epfl.ch");
 MODULE_DESCRIPTION("imx with mc13783 codec ALSA SoC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:imx_mc13783");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

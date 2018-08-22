@@ -760,3 +760,4 @@ xfs_ifork_verify_attr(
 		return __this_address;
 	return ops->verify_attr(ip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

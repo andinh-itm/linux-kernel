@@ -132,3 +132,4 @@ UNICASERANGE UniUpperRange[] = {
     { 0xff40,  0xff5a,  UniCaseRangeUff40 },
     { 0 }
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

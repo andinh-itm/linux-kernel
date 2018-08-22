@@ -920,3 +920,4 @@ void st_core_exit(struct st_data_s *st_gdata)
 		kfree(st_gdata);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -38,3 +38,4 @@ module_init(exar_init);
 MODULE_AUTHOR("Paul B Schroeder");
 MODULE_DESCRIPTION("8250 serial probe module for Exar cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

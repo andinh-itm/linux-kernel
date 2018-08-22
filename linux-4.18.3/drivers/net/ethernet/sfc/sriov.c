@@ -73,3 +73,4 @@ int efx_sriov_set_vf_link_state(struct net_device *net_dev, int vf_i,
 	else
 		return -EOPNOTSUPP;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

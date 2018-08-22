@@ -154,3 +154,4 @@ static int __init sh_pm_init(void)
 }
 
 late_initcall(sh_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

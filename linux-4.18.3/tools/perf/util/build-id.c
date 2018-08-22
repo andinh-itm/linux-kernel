@@ -873,3 +873,4 @@ bool perf_session__read_build_ids(struct perf_session *session, bool with_hits)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

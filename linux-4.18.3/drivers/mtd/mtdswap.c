@@ -1533,3 +1533,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jarkko Lavinen <jarkko.lavinen@nokia.com>");
 MODULE_DESCRIPTION("Block device access to an MTD suitable for using as "
 		"swap space");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

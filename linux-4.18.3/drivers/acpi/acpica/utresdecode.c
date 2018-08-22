@@ -277,3 +277,4 @@ const char *acpi_gbl_ptyp_decode[] = {
 };
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

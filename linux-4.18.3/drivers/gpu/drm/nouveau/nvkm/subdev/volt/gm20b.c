@@ -90,3 +90,4 @@ gm20b_volt_new(struct nvkm_device *device, int index, struct nvkm_volt **pvolt)
 		return gk20a_volt_ctor(device, index, gm20b_cvb_coef,
 					ARRAY_SIZE(gm20b_cvb_coef), vmin, volt);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

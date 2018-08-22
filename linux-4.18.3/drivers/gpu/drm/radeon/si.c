@@ -7564,3 +7564,4 @@ int si_set_vce_clocks(struct radeon_device *rdev, u32 evclk, u32 ecclk)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

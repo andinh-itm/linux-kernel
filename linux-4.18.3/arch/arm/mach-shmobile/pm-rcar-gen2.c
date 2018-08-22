@@ -158,3 +158,4 @@ map:
 	rcar_gen2_sysc_init(syscier);
 	shmobile_smp_apmu_suspend_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

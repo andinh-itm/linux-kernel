@@ -545,3 +545,4 @@ load_fx(struct snd_emux *emu, int type, int mode, const void __user *buf, long l
 	return -EINVAL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

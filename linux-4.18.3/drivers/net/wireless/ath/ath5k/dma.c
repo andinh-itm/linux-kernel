@@ -926,3 +926,4 @@ ath5k_hw_dma_stop(struct ath5k_hw *ah)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

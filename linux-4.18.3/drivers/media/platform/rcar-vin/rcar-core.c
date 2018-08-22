@@ -1143,3 +1143,4 @@ module_platform_driver(rcar_vin_driver);
 MODULE_AUTHOR("Niklas Söderlund <niklas.soderlund@ragnatech.se>");
 MODULE_DESCRIPTION("Renesas R-Car VIN camera host driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

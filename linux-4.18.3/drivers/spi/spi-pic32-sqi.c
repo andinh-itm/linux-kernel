@@ -724,3 +724,4 @@ module_platform_driver(pic32_sqi_driver);
 MODULE_AUTHOR("Purna Chandra Mandal <purna.mandal@microchip.com>");
 MODULE_DESCRIPTION("Microchip SPI driver for PIC32 SQI controller.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

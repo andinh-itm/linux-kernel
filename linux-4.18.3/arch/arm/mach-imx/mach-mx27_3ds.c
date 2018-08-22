@@ -452,3 +452,4 @@ MACHINE_START(MX27_3DS, "Freescale MX27PDK")
 	.init_late	= mx27pdk_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

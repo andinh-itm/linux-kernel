@@ -159,3 +159,4 @@ int lgff_init(struct hid_device* hid)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

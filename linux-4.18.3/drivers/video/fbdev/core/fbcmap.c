@@ -362,3 +362,4 @@ EXPORT_SYMBOL(fb_copy_cmap);
 EXPORT_SYMBOL(fb_set_cmap);
 EXPORT_SYMBOL(fb_default_cmap);
 EXPORT_SYMBOL(fb_invert_cmaps);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1458,3 +1458,4 @@ void intel_vgpu_queue_workload(struct intel_vgpu_workload *workload)
 	intel_gvt_kick_schedule(workload->vgpu->gvt);
 	wake_up(&workload->vgpu->gvt->scheduler.waitq[workload->ring_id]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

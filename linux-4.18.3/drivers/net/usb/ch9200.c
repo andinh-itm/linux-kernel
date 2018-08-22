@@ -424,3 +424,4 @@ module_usb_driver(ch9200_driver);
 
 MODULE_DESCRIPTION("QinHeng CH9200 USB Network device");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

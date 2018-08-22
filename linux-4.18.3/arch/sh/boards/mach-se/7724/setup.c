@@ -943,3 +943,4 @@ static struct sh_machine_vector mv_ms7724se __initmv = {
 	.mv_name	= "ms7724se",
 	.mv_init_irq	= init_se7724_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

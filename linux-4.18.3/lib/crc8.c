@@ -84,3 +84,4 @@ EXPORT_SYMBOL(crc8);
 MODULE_DESCRIPTION("CRC8 (by Williams, Ross N.) function");
 MODULE_AUTHOR("Broadcom Corporation");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

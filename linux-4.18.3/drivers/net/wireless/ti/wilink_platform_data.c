@@ -47,3 +47,4 @@ struct wl1251_platform_data *wl1251_get_platform_data(void)
 	return wl1251_platform_data;
 }
 EXPORT_SYMBOL(wl1251_get_platform_data);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

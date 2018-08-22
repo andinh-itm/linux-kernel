@@ -92,3 +92,4 @@ static int __init pasemi_register_i2c_devices(void)
 }
 device_initcall(pasemi_register_i2c_devices);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -192,3 +192,4 @@ module_platform_driver(oxnas_dwmac_driver);
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_DESCRIPTION("Oxford Semiconductor OXNAS DWMAC glue layer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

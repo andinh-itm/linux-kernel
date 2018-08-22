@@ -118,3 +118,4 @@ void cc_set_sram_desc(const u32 *src, cc_sram_addr_t dst,
 
 	*seq_len = idx;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

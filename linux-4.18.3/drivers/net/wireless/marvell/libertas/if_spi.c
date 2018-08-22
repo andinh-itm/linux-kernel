@@ -1295,3 +1295,4 @@ MODULE_AUTHOR("Andrey Yurovsky <andrey@cozybit.com>, "
 	      "Colin McCabe <colin@cozybit.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:libertas_spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

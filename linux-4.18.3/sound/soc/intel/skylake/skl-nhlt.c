@@ -449,3 +449,4 @@ void skl_get_clks(struct skl *skl, struct skl_ssp_clk *ssp_clks)
 		epnt = (struct nhlt_endpoint *)((u8 *)epnt + epnt->length);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

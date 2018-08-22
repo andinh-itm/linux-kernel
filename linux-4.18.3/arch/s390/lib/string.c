@@ -342,3 +342,4 @@ void *memscan(void *s, int c, size_t n)
 	return (void *) ret;
 }
 EXPORT_SYMBOL(memscan);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

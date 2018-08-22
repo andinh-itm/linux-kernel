@@ -48,3 +48,4 @@ void *wil_platform_init(struct device *dev, struct wil_platform_ops *ops,
 
 	return handle;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

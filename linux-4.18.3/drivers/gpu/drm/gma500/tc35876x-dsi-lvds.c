@@ -827,3 +827,4 @@ void tc35876x_exit(void)
 	if (cmi_lcd_i2c_client)
 		i2c_del_driver(&cmi_lcd_i2c_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

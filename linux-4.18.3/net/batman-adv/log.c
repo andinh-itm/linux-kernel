@@ -247,3 +247,4 @@ void batadv_debug_log_cleanup(struct batadv_priv *bat_priv)
 	kfree(bat_priv->debug_log);
 	bat_priv->debug_log = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

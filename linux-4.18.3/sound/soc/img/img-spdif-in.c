@@ -892,3 +892,4 @@ module_platform_driver(img_spdif_in_driver);
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_DESCRIPTION("IMG SPDIF Input driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

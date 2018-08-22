@@ -9552,3 +9552,4 @@ static void igb_nfc_filter_restore(struct igb_adapter *adapter)
 	spin_unlock(&adapter->nfc_lock);
 }
 /* igb_main.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

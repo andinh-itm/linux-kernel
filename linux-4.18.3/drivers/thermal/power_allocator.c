@@ -661,3 +661,4 @@ void thermal_gov_power_allocator_unregister(void)
 {
 	thermal_unregister_governor(&thermal_gov_power_allocator);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

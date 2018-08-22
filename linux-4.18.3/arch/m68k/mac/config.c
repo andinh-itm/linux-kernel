@@ -1101,3 +1101,4 @@ int __init mac_platform_init(void)
 }
 
 arch_initcall(mac_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

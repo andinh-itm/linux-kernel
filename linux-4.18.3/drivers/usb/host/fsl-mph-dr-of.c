@@ -364,3 +364,4 @@ module_platform_driver(fsl_usb2_mph_dr_driver);
 MODULE_DESCRIPTION("FSL MPH DR OF devices driver");
 MODULE_AUTHOR("Anatolij Gustschin <agust@denx.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -156,3 +156,4 @@ free_clk:
 }
 
 TIMER_OF_DECLARE(h8300_tpu, "renesas,tpu", h8300_tpu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

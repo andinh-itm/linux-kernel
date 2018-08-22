@@ -128,3 +128,4 @@ void __init mach_init_irq(void)
 	/* setup source bridge irq (i8259) */
 	setup_irq(LOONGSON_SOUTH_BRIDGE_IRQ, &cascade_irqaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

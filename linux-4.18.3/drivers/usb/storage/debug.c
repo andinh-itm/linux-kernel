@@ -173,3 +173,4 @@ void usb_stor_dbg(const struct us_data *us, const char *fmt, ...)
 	va_end(args);
 }
 EXPORT_SYMBOL_GPL(usb_stor_dbg);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

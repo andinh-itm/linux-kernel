@@ -2048,3 +2048,4 @@ module_platform_driver(sc9860_clk_driver);
 MODULE_DESCRIPTION("Spreadtrum SC9860 Clock Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sc9860-clk");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -725,3 +725,4 @@ MODULE_AUTHOR("jianqun <jay.xu@rock-chips.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, rockchip_i2s_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

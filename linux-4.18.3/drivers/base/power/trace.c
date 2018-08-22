@@ -291,3 +291,4 @@ static int late_resume_init(void)
 
 core_initcall(early_resume_init);
 late_initcall(late_resume_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

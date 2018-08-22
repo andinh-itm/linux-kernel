@@ -166,3 +166,4 @@ module_platform_driver(micro_key_device_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("driver for iPAQ Atmel micro keys");
 MODULE_ALIAS("platform:ipaq-micro-keys");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -188,3 +188,4 @@ int snd_oxfw_create_hwdep(struct snd_oxfw *oxfw)
 end:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

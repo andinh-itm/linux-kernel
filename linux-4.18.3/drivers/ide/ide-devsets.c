@@ -190,3 +190,4 @@ ide_startstop_t ide_do_devset(ide_drive_t *drive, struct request *rq)
 	ide_complete_rq(drive, 0, blk_rq_bytes(rq));
 	return ide_stopped;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -140,3 +140,4 @@ void __init imx_src_init(void)
 	writel_relaxed(val, src_base + SRC_SCR);
 	spin_unlock(&scr_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

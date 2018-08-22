@@ -951,3 +951,4 @@ static struct usb_function *ecm_alloc(struct usb_function_instance *fi)
 DECLARE_USB_FUNCTION_INIT(ecm, ecm_alloc_inst, ecm_alloc);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Brownell");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

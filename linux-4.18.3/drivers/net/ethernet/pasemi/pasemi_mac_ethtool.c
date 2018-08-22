@@ -130,3 +130,4 @@ const struct ethtool_ops pasemi_mac_ethtool_ops = {
 	.set_link_ksettings	= phy_ethtool_set_link_ksettings,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

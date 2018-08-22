@@ -205,3 +205,4 @@ module_platform_driver(ltq_mtd_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Crispin <john@phrozen.org>");
 MODULE_DESCRIPTION("Lantiq SoC NOR");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

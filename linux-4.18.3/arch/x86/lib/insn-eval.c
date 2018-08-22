@@ -1362,3 +1362,4 @@ void __user *insn_get_addr_ref(struct insn *insn, struct pt_regs *regs)
 		return (void __user *)-1L;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

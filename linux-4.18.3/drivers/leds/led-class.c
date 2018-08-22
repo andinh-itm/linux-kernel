@@ -432,3 +432,4 @@ module_exit(leds_exit);
 MODULE_AUTHOR("John Lenz, Richard Purdie");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("LED Class Interface");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

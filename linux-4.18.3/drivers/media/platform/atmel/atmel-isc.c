@@ -2303,3 +2303,4 @@ MODULE_AUTHOR("Songjun Wu <songjun.wu@microchip.com>");
 MODULE_DESCRIPTION("The V4L2 driver for Atmel-ISC");
 MODULE_LICENSE("GPL v2");
 MODULE_SUPPORTED_DEVICE("video");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

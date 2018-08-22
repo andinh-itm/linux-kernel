@@ -514,3 +514,4 @@ static struct pci_driver fam15h_power_driver = {
 };
 
 module_pci_driver(fam15h_power_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

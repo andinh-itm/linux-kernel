@@ -236,3 +236,4 @@ jade_int_main(struct IsdnCardState *cs, u_char val, int jade)
 		jade_interrupt(cs, val, jade);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

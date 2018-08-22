@@ -199,3 +199,4 @@ module_comedi_pci_driver(adl_pci6208_driver, adl_pci6208_pci_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for ADLink 6208 series cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

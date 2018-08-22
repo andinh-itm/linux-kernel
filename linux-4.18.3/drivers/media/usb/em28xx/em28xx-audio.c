@@ -1068,3 +1068,4 @@ MODULE_VERSION(EM28XX_VERSION);
 
 module_init(em28xx_alsa_register);
 module_exit(em28xx_alsa_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

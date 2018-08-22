@@ -234,3 +234,4 @@ static int __init integrator_ap_timer_init_of(struct device_node *node)
 
 TIMER_OF_DECLARE(integrator_ap_timer, "arm,integrator-timer",
 		       integrator_ap_timer_init_of);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

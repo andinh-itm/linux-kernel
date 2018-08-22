@@ -136,3 +136,4 @@ EXPORT_SYMBOL(do_trace_rdpmc);
 EXPORT_TRACEPOINT_SYMBOL(rdpmc);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

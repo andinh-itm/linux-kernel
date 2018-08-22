@@ -5711,3 +5711,4 @@ int dwc2_host_exit_hibernation(struct dwc2_hsotg *hsotg, int rem_wakeup,
 	dev_dbg(hsotg->dev, "Host hibernation restore complete\n");
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

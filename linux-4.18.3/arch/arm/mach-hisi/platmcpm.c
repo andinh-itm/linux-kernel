@@ -347,3 +347,4 @@ err:
 	return ret;
 }
 early_initcall(hip04_smp_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

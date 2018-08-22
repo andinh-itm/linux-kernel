@@ -573,3 +573,4 @@ const struct snd_rawmidi_ops snd_wavefront_midi_input =
 	.trigger =	snd_wavefront_midi_input_trigger,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

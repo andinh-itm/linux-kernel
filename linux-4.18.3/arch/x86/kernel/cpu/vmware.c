@@ -212,3 +212,4 @@ const __initconst struct hypervisor_x86 x86_hyper_vmware = {
 	.init.init_platform	= vmware_platform_setup,
 	.init.x2apic_available	= vmware_legacy_x2apic_available,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

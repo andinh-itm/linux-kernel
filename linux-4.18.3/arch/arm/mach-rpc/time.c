@@ -90,3 +90,4 @@ void __init ioc_timer_init(void)
 	ioctime_init();
 	setup_irq(IRQ_TIMER0, &ioc_timer_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

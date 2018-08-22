@@ -157,3 +157,4 @@ static void quirk_dlcsetup(struct pci_dev *dev)
 
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_INTEL, PCI_DEVICE_ID_INTEL_82371AB_0,
 	quirk_dlcsetup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

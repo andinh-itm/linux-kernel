@@ -240,3 +240,4 @@ static struct platform_driver rtd119x_rtc_driver = {
 	},
 };
 builtin_platform_driver(rtd119x_rtc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

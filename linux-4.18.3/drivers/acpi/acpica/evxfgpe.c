@@ -1008,3 +1008,4 @@ acpi_status acpi_get_gpe_device(u32 index, acpi_handle *gpe_device)
 
 ACPI_EXPORT_SYMBOL(acpi_get_gpe_device)
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -772,3 +772,4 @@ int iio_triggered_buffer_predisable(struct iio_dev *indio_dev)
 					     indio_dev->pollfunc);
 }
 EXPORT_SYMBOL(iio_triggered_buffer_predisable);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

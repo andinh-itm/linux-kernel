@@ -266,3 +266,4 @@ int fsl_mc_portal_reset(struct fsl_mc_io *mc_io)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(fsl_mc_portal_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

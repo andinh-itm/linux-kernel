@@ -563,3 +563,4 @@ module_param(extra_config, int, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(extra_config, "Extra Configuration settings 1=APU,2=PPM,3=SPU,8=1WS");
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

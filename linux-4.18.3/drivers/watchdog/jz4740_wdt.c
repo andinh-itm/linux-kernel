@@ -220,3 +220,4 @@ MODULE_AUTHOR("Paul Cercueil <paul@crapouillou.net>");
 MODULE_DESCRIPTION("jz4740 Watchdog Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:jz4740-wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1272,3 +1272,4 @@ late_initcall(saa7134_alsa_init);
 module_exit(saa7134_alsa_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ricardo Cerqueira");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

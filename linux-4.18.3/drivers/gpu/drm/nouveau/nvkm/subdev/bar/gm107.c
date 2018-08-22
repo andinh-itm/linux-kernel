@@ -63,3 +63,4 @@ gm107_bar_new(struct nvkm_device *device, int index, struct nvkm_bar **pbar)
 {
 	return gf100_bar_new_(&gm107_bar_func, device, index, pbar);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -292,3 +292,4 @@ static int micron_nand_init(struct nand_chip *chip)
 const struct nand_manufacturer_ops micron_nand_manuf_ops = {
 	.init = micron_nand_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

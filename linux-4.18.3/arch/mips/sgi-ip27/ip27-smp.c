@@ -241,3 +241,4 @@ const struct plat_smp_ops ip27_smp_ops = {
 	.smp_setup		= ip27_smp_setup,
 	.prepare_cpus		= ip27_prepare_cpus,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

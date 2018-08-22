@@ -883,3 +883,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Zhou Wang");
 MODULE_AUTHOR("Zhiyong Cai");
 MODULE_DESCRIPTION("Hisilicon Nand Flash Controller Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

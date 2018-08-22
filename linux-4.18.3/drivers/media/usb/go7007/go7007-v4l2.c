@@ -1173,3 +1173,4 @@ void go7007_v4l2_remove(struct go7007 *go)
 {
 	v4l2_ctrl_handler_free(&go->hdl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

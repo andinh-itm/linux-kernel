@@ -1982,3 +1982,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI System Control Interface(SCI) driver");
 MODULE_AUTHOR("Nishanth Menon");
 MODULE_ALIAS("platform:ti-sci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

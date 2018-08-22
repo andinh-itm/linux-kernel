@@ -182,3 +182,4 @@ static void __exit zorro7xx_scsi_exit(void)
 
 module_init(zorro7xx_scsi_init);
 module_exit(zorro7xx_scsi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

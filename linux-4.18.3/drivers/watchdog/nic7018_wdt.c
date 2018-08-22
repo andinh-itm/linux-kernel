@@ -263,3 +263,4 @@ module_platform_driver(watchdog_driver);
 MODULE_DESCRIPTION("National Instruments NIC7018 Watchdog driver");
 MODULE_AUTHOR("Hui Chun Ong <hui.chun.ong@ni.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

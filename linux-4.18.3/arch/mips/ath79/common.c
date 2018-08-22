@@ -142,3 +142,4 @@ void ath79_device_reset_clear(u32 mask)
 	spin_unlock_irqrestore(&ath79_device_reset_lock, flags);
 }
 EXPORT_SYMBOL_GPL(ath79_device_reset_clear);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

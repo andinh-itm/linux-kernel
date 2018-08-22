@@ -942,3 +942,4 @@ bfa_ioc_ct2_pll_init(void __iomem *rb, enum bfi_asic_mode asic_mode)
 	writel(BFI_IOC_UNINIT, rb + CT2_BFA_IOC1_STATE_REG);
 	return BFA_STATUS_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

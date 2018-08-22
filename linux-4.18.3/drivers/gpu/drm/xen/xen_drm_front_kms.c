@@ -364,3 +364,4 @@ void xen_drm_front_kms_fini(struct xen_drm_front_drm_info *drm_info)
 		send_pending_event(pipeline);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

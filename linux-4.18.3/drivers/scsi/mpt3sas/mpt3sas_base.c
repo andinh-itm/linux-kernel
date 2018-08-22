@@ -7023,3 +7023,4 @@ mpt3sas_base_hard_reset_handler(struct MPT3SAS_ADAPTER *ioc,
 	    __func__));
 	return r;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

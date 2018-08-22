@@ -1051,3 +1051,4 @@ module_platform_driver(ifi_canfd_plat_driver);
 MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("CAN bus driver for IFI CANFD controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

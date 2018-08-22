@@ -319,3 +319,4 @@ module_exit(ulpi_exit);
 MODULE_AUTHOR("Intel Corporation");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("USB ULPI PHY bus");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -166,3 +166,4 @@ static struct serio_driver nkbd_drv = {
 };
 
 module_serio_driver(nkbd_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -85,3 +85,4 @@ module_platform_driver(sirf_audio_port_driver);
 MODULE_DESCRIPTION("SiRF Audio Port driver");
 MODULE_AUTHOR("RongJun Ying <Rongjun.Ying@csr.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

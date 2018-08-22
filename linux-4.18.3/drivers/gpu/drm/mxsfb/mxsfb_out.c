@@ -104,3 +104,4 @@ int mxsfb_create_output(struct drm_device *drm)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

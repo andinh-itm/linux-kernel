@@ -7269,3 +7269,4 @@ void qlt_exit(void)
 	kmem_cache_destroy(qla_tgt_plogi_cachep);
 	kmem_cache_destroy(qla_tgt_mgmt_cmd_cachep);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

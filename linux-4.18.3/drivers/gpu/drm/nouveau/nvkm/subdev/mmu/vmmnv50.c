@@ -383,3 +383,4 @@ nv50_vmm_new(struct nvkm_mmu *mmu, u64 addr, u64 size, void *argv, u32 argc,
 	return nv04_vmm_new_(&nv50_vmm, mmu, 0, addr, size,
 			     argv, argc, key, name, pvmm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

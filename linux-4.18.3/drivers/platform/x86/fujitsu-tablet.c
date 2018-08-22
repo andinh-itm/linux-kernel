@@ -552,3 +552,4 @@ MODULE_LICENSE("GPL");
 MODULE_VERSION("2.5");
 
 MODULE_DEVICE_TABLE(acpi, fujitsu_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

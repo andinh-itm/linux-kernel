@@ -388,3 +388,4 @@ void __init tag_fixup_mem32(struct tag *t, char **from)
 			t->hdr.tag = 0;
 		}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -611,3 +611,4 @@ MODULE_DEVICE_TABLE(cpu, ghash_cpu_feature);
 
 module_init(ghash_ce_mod_init);
 module_exit(ghash_ce_mod_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

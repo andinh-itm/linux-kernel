@@ -3304,3 +3304,4 @@ MODULE_DESCRIPTION("Ethernet driver for Marvell MV643XX");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" MV643XX_ETH_SHARED_NAME);
 MODULE_ALIAS("platform:" MV643XX_ETH_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

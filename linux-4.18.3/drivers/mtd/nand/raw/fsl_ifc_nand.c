@@ -1118,3 +1118,4 @@ module_platform_driver(fsl_ifc_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Freescale");
 MODULE_DESCRIPTION("Freescale Integrated Flash Controller MTD NAND driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

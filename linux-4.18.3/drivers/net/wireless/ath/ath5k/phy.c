@@ -3964,3 +3964,4 @@ ath5k_hw_phy_init(struct ath5k_hw *ah, struct ieee80211_channel *channel,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

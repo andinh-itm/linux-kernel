@@ -260,3 +260,4 @@ module_platform_driver_probe(at91_reset_driver, at91_reset_probe);
 MODULE_AUTHOR("Atmel Corporation");
 MODULE_DESCRIPTION("Reset driver for Atmel SoCs");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

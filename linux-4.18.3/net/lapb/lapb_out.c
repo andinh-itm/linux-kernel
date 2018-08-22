@@ -207,3 +207,4 @@ void lapb_check_need_response(struct lapb_cb *lapb, int type, int pf)
 	if (type == LAPB_COMMAND && pf)
 		lapb_enquiry_response(lapb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

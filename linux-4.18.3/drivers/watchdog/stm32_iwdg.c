@@ -251,3 +251,4 @@ module_platform_driver(stm32_iwdg_driver);
 MODULE_AUTHOR("Yannick Fertre <yannick.fertre@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 Independent Watchdog Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

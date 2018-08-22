@@ -1959,3 +1959,4 @@ void rtl_dm_diginit(struct ieee80211_hw *hw, u32 cur_igvalue)
 	dm_digtable->cur_cck_pd_state = CCK_PD_STAGE_LOWRSSI;
 }
 EXPORT_SYMBOL(rtl_dm_diginit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

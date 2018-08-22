@@ -3135,3 +3135,4 @@ static struct hid_driver hidpp_driver = {
 };
 
 module_hid_driver(hidpp_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -71,3 +71,4 @@ int __init clocksource_mmio_init(void __iomem *base, const char *name,
 
 	return clocksource_register_hz(&cs->clksrc, hz);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -329,3 +329,4 @@ module_spi_mem_driver(m25p80_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mike Lavender");
 MODULE_DESCRIPTION("MTD SPI driver for ST M25Pxx flash chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

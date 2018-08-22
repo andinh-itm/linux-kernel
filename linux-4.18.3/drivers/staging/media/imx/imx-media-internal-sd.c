@@ -358,3 +358,4 @@ void imx_media_remove_internal_subdevs(struct imx_media_dev *imxmd)
 		platform_device_unregister(imxasd->pdev);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

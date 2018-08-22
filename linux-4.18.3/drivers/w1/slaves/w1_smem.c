@@ -71,3 +71,4 @@ MODULE_DESCRIPTION("Driver for 1-wire Dallas network protocol, 64bit memory fami
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("w1-family-" __stringify(W1_FAMILY_SMEM_01));
 MODULE_ALIAS("w1-family-" __stringify(W1_FAMILY_SMEM_81));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

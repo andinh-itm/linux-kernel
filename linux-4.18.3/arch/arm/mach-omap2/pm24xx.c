@@ -316,3 +316,4 @@ int __init omap2_pm_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -144,3 +144,4 @@ int rsi_handle_ps_confirm(struct rsi_hw *adapter, u8 *msg)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

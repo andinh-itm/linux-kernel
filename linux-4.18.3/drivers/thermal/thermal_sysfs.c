@@ -999,3 +999,4 @@ ssize_t weight_store(struct device *dev, struct device_attribute *attr,
 
 	return count;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

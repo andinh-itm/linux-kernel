@@ -1847,3 +1847,4 @@ init_hw_perf_events(void)
 	return 0;
 }
 early_initcall(init_hw_perf_events);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

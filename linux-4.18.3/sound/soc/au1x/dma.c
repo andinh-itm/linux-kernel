@@ -332,3 +332,4 @@ module_platform_driver(alchemy_pcmdma_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Au1000/Au1500/Au1100 Audio DMA driver");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

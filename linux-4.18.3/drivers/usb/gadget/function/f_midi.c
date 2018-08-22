@@ -1350,3 +1350,4 @@ setup_fail:
 }
 
 DECLARE_USB_FUNCTION_INIT(midi, f_midi_alloc_inst, f_midi_alloc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

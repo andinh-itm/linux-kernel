@@ -584,3 +584,4 @@ module_platform_driver(spi_ppc4xx_of_driver);
 MODULE_AUTHOR("Gary Jennejohn & Stefan Roese");
 MODULE_DESCRIPTION("Simple PPC4xx SPI Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -90,3 +90,4 @@ const struct kfd_event_interrupt_class event_interrupt_class_v9 = {
 	.interrupt_isr = event_interrupt_isr_v9,
 	.interrupt_wq = event_interrupt_wq_v9,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

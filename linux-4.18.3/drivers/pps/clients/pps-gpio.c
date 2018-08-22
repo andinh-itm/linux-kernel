@@ -210,3 +210,4 @@ MODULE_AUTHOR("James Nuss <jamesnuss@nanometrics.ca>");
 MODULE_DESCRIPTION("Use GPIO pin as PPS source");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("1.0.0");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

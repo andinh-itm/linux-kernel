@@ -63,3 +63,4 @@ void iscsit_increment_maxcmdsn(struct iscsi_cmd *cmd, struct iscsi_session *sess
 	pr_debug("Updated MaxCmdSN to 0x%08x\n", max_cmd_sn);
 }
 EXPORT_SYMBOL(iscsit_increment_maxcmdsn);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

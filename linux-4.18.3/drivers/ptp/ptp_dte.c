@@ -351,3 +351,4 @@ module_platform_driver(ptp_dte_driver);
 MODULE_AUTHOR("Broadcom");
 MODULE_DESCRIPTION("Broadcom DTE PTP Clock driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

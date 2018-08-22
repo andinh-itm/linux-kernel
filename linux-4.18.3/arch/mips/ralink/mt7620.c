@@ -718,3 +718,4 @@ void prom_soc_init(struct ralink_soc_info *soc_info)
 	else
 		rt2880_pinmux_data = mt7620a_pinmux_data;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

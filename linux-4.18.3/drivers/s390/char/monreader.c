@@ -650,3 +650,4 @@ MODULE_AUTHOR("Gerald Schaefer <geraldsc@de.ibm.com>");
 MODULE_DESCRIPTION("Character device driver for reading z/VM "
 		   "monitor service records.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

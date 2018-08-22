@@ -169,3 +169,4 @@ err_unmap:
 }
 CLK_OF_DECLARE(sun4i_ve, "allwinner,sun4i-a10-ve-clk",
 	       sun4i_ve_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

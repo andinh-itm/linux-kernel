@@ -230,3 +230,4 @@ module_exit(qcom_cpufreq_kryo_exit);
 
 MODULE_DESCRIPTION("Qualcomm Technologies, Inc. Kryo CPUfreq driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

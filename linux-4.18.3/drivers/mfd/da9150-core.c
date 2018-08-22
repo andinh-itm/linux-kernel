@@ -528,3 +528,4 @@ module_i2c_driver(da9150_driver);
 MODULE_DESCRIPTION("MFD Core Driver for DA9150");
 MODULE_AUTHOR("Adam Thomson <Adam.Thomson.Opensource@diasemi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

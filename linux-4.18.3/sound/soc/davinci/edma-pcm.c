@@ -57,3 +57,4 @@ EXPORT_SYMBOL_GPL(edma_pcm_platform_register);
 MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_DESCRIPTION("eDMA PCM ASoC platform driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

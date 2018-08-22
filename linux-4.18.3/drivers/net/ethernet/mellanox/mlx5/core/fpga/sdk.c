@@ -168,3 +168,4 @@ int mlx5_fpga_get_sbu_caps(struct mlx5_fpga_device *fdev, int size, void *buf)
 	return mlx5_fpga_sbu_caps(fdev->mdev, buf, size);
 }
 EXPORT_SYMBOL(mlx5_fpga_get_sbu_caps);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

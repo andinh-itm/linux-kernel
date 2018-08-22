@@ -255,3 +255,4 @@ module_platform_driver(ks_sa_rng_driver);
 MODULE_DESCRIPTION("Keystone NETCP SA H/W Random Number Generator driver");
 MODULE_AUTHOR("Vitaly Andrianov <vitalya@ti.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

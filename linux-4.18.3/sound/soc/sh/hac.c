@@ -346,3 +346,4 @@ module_platform_driver(hac_pcm_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SuperH onchip HAC (AC97) audio driver");
 MODULE_AUTHOR("Manuel Lauss <mano@roarinelk.homelinux.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

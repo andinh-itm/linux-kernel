@@ -444,3 +444,4 @@ int carl9170_parse_firmware(struct ar9170 *ar)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

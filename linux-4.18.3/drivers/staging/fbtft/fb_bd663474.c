@@ -173,3 +173,4 @@ MODULE_ALIAS("platform:bd663474");
 MODULE_DESCRIPTION("FB driver for the uPD161704 LCD Controller");
 MODULE_AUTHOR("Seong-Woo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

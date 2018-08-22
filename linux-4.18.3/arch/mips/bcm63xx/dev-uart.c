@@ -74,3 +74,4 @@ int __init bcm63xx_uart_register(unsigned int id)
 
 	return platform_device_register(&bcm63xx_uart_devices[id]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

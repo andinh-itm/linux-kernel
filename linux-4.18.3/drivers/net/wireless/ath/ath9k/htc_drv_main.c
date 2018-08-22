@@ -1900,3 +1900,4 @@ struct ieee80211_ops ath9k_htc_ops = {
 	.get_et_strings     = ath9k_htc_get_et_strings,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

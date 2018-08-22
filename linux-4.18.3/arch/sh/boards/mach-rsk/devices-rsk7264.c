@@ -56,3 +56,4 @@ static int __init rsk7264_devices_setup(void)
 				    ARRAY_SIZE(rsk7264_devices));
 }
 device_initcall(rsk7264_devices_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

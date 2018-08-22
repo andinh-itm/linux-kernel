@@ -354,3 +354,4 @@ MODULE_AUTHOR("Damian Hobson-Garcia");
 MODULE_DESCRIPTION("Userspace I/O platform driver with dynamic memory.");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

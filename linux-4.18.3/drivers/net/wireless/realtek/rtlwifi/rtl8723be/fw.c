@@ -703,3 +703,4 @@ void rtl8723be_set_p2p_ps_offload_cmd(struct ieee80211_hw *hw,
 	rtl8723be_fill_h2c_cmd(hw, H2C_8723B_P2P_PS_OFFLOAD, 1,
 			       (u8 *)p2p_ps_offload);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

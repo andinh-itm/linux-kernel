@@ -3584,3 +3584,4 @@ bool rtl92d_phy_check_poweroff(struct ieee80211_hw *hw)
 	spin_unlock_irqrestore(&globalmutex_power, flags);
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

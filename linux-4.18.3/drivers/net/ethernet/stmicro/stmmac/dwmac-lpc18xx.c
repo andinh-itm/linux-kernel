@@ -95,3 +95,4 @@ module_platform_driver(lpc18xx_dwmac_driver);
 MODULE_AUTHOR("Joachim Eastwood <manabian@gmail.com>");
 MODULE_DESCRIPTION("DWMAC glue for LPC18xx/43xx Ethernet");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

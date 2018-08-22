@@ -243,3 +243,4 @@ MODULE_DESCRIPTION("MC13783 input touchscreen driver");
 MODULE_AUTHOR("Sascha Hauer <s.hauer@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" MC13783_TS_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

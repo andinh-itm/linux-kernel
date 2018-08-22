@@ -35,3 +35,4 @@ u32 gdm_dev32_to_cpu(u8 dev_ed, __dev32 x)
 	else
 		return be32_to_cpu((__force __be32)x);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

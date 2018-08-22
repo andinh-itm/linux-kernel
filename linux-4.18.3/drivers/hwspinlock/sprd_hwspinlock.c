@@ -173,3 +173,4 @@ MODULE_DESCRIPTION("Hardware spinlock driver for Spreadtrum");
 MODULE_AUTHOR("Baolin Wang <baolin.wang@spreadtrum.com>");
 MODULE_AUTHOR("Lanqing Liu <lanqing.liu@spreadtrum.com>");
 MODULE_AUTHOR("Long Cheng <aiden.cheng@spreadtrum.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -76,3 +76,4 @@ nvbios_ramcfg_index(struct nvkm_subdev *subdev)
 		strap = nvbios_rd08(bios, xlat + strap);
 	return strap;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

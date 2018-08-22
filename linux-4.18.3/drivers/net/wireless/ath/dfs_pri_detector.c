@@ -435,3 +435,4 @@ struct pri_detector *pri_detector_init(const struct radar_detector_specs *rs)
 	pool_register_ref();
 	return de;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

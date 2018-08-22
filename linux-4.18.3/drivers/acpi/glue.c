@@ -370,3 +370,4 @@ void __init init_acpi_device_notify(void)
 	platform_notify = acpi_platform_notify;
 	platform_notify_remove = acpi_platform_notify_remove;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -195,3 +195,4 @@ module_platform_driver(hisi_inno_phy_driver);
 
 MODULE_DESCRIPTION("HiSilicon INNO USB2 PHY Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

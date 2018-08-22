@@ -92,3 +92,4 @@ module_platform_driver(tegra_aconnect_driver);
 MODULE_DESCRIPTION("NVIDIA Tegra ACONNECT Bus Driver");
 MODULE_AUTHOR("Jon Hunter <jonathanh@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

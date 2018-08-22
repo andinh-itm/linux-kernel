@@ -178,3 +178,4 @@ module_i2c_driver(mt6311_regulator_driver);
 MODULE_AUTHOR("Henry Chen <henryc.chen@mediatek.com>");
 MODULE_DESCRIPTION("Regulator device driver for Mediatek MT6311");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -177,3 +177,4 @@ int uvc_meta_register(struct uvc_streaming *stream)
 					 V4L2_BUF_TYPE_META_CAPTURE,
 					 &uvc_meta_fops, &uvc_meta_ioctl_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

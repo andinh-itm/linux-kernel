@@ -57,3 +57,4 @@ int ieee754dp_cmp(union ieee754dp x, union ieee754dp y, int cmp, int sig)
 			return (cmp & IEEE754_CGT) != 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

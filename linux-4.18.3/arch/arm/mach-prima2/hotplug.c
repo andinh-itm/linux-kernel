@@ -36,3 +36,4 @@ void sirfsoc_cpu_die(unsigned int cpu)
 {
 	platform_do_lowpower(cpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

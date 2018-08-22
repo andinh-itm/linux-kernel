@@ -937,3 +937,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tomoya MORINAGA. <tomoya.rohm@gmail.com>");
 module_param(pch_i2c_speed, int, (S_IRUSR | S_IWUSR));
 module_param(pch_clk, int, (S_IRUSR | S_IWUSR));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

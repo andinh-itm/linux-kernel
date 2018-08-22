@@ -525,3 +525,4 @@ acpi_ev_install_space_handler(struct acpi_namespace_node *node,
 unlock_and_exit:
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

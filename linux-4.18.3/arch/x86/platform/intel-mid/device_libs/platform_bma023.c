@@ -18,3 +18,4 @@ static const struct devs_id bma023_dev_id __initconst = {
 };
 
 sfi_device(bma023_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

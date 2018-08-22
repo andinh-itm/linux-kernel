@@ -150,3 +150,4 @@ extern void microdev_print_fpga_intc_status(void)
 	printk("FPGA_INTPRI[3..0] = %08x:%08x:%08x:%08x\n", *intprid, *intpric, *intprib, *intpria);
 	printk("-------------------------------------------------------------------------------\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

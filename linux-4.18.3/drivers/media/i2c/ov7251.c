@@ -1501,3 +1501,4 @@ module_i2c_driver(ov7251_i2c_driver);
 MODULE_DESCRIPTION("Omnivision OV7251 Camera Driver");
 MODULE_AUTHOR("Todor Tomov <todor.tomov@linaro.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -480,3 +480,4 @@ module_platform_driver(nxp_spifi_driver);
 MODULE_DESCRIPTION("NXP SPI Flash Interface driver");
 MODULE_AUTHOR("Joachim Eastwood <manabian@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

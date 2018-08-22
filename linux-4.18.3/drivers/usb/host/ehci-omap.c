@@ -309,3 +309,4 @@ MODULE_AUTHOR("Roger Quadros <rogerq@ti.com>");
 
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

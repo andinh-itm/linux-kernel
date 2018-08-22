@@ -137,3 +137,4 @@ static int __init loongson_gpio_setup(void)
 	return PTR_ERR_OR_ZERO(pdev);
 }
 postcore_initcall(loongson_gpio_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

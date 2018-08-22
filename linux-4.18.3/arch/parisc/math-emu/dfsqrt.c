@@ -193,3 +193,4 @@ dbl_fsqrt(
 	Dbl_copytoptr(resultp1,resultp2,dstptr);
 	return(NOEXCEPTION);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

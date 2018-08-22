@@ -59,3 +59,4 @@ static int __init mcf_intc2_init(void)
 }
 
 arch_initcall(mcf_intc2_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

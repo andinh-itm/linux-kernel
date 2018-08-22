@@ -721,3 +721,4 @@ void mtu3_gadget_reset(struct mtu3 *mtu)
 	mtu->delayed_status = false;
 	mtu->test_mode = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

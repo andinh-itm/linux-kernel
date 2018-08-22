@@ -847,3 +847,4 @@ MODULE_DEVICE_TABLE(pci, wanxl_pci_tbl);
 
 module_init(wanxl_init_module);
 module_exit(wanxl_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

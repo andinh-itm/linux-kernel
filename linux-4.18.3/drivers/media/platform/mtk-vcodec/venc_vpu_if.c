@@ -234,3 +234,4 @@ int vpu_enc_deinit(struct venc_vpu_inst *vpu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

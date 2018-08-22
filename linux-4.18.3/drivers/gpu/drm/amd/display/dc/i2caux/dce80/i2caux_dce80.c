@@ -282,3 +282,4 @@ struct i2caux *dal_i2caux_dce80_create(
 	construct(i2caux_dce80, ctx);
 	return &i2caux_dce80->base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

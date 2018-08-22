@@ -34,3 +34,4 @@ static const struct devs_id mpu3050_dev_id __initconst = {
 };
 
 sfi_device(mpu3050_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

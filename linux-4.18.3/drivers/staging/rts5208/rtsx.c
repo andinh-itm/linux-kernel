@@ -1012,3 +1012,4 @@ static struct pci_driver rtsx_driver = {
 };
 
 module_pci_driver(rtsx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -547,3 +547,4 @@ EXPORT_SYMBOL(kbd_ascebc);
 EXPORT_SYMBOL(kbd_free);
 EXPORT_SYMBOL(kbd_alloc);
 EXPORT_SYMBOL(kbd_keycode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3244,3 +3244,4 @@ u16 hfsplus_compose_table[] = {
 	/* 0x0342 0x0314 0x03c9 0x0345 */
 	0x1fa7, 0x0000,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

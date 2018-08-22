@@ -360,3 +360,4 @@ static struct i2c_driver saa7185_driver = {
 };
 
 module_i2c_driver(saa7185_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

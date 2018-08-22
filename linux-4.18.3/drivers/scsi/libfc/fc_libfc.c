@@ -329,3 +329,4 @@ void fc_fc4_del_lport(struct fc_lport *lport)
 				     FC_LPORT_EV_DEL, lport);
 	mutex_unlock(&fc_prov_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

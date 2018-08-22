@@ -326,3 +326,4 @@ notrace time_t __vdso_time(time_t *t)
 }
 time_t time(time_t *t)
 	__attribute__((weak, alias("__vdso_time")));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

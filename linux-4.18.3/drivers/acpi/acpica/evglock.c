@@ -308,3 +308,4 @@ acpi_status acpi_ev_release_global_lock(void)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1263,3 +1263,4 @@ struct pci_controller_ops pmac_pci_controller_ops = {
 #endif
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -217,3 +217,4 @@ module_platform_driver(stm32_rng_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Daniel Thompson <daniel.thompson@linaro.org>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 RNG device driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

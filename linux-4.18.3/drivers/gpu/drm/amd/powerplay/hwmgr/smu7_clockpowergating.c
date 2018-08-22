@@ -482,3 +482,4 @@ int smu7_enable_per_cu_power_gating(struct pp_hwmgr *hwmgr, bool enable)
 		return smum_send_msg_to_smc(hwmgr,
 				PPSMC_MSG_GFX_CU_PG_DISABLE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

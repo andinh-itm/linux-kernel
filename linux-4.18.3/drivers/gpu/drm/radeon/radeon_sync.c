@@ -218,3 +218,4 @@ void radeon_sync_free(struct radeon_device *rdev,
 	for (i = 0; i < RADEON_NUM_SYNCS; ++i)
 		radeon_semaphore_free(rdev, &sync->semaphores[i], fence);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

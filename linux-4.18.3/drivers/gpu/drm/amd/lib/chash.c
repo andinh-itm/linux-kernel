@@ -636,3 +636,4 @@ module_init(chash_init);
 
 MODULE_DESCRIPTION("Closed hash table");
 MODULE_LICENSE("GPL and additional rights");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

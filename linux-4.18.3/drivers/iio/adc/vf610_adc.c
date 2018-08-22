@@ -991,3 +991,4 @@ module_platform_driver(vf610_adc_driver);
 MODULE_AUTHOR("Fugang Duan <B38611@freescale.com>");
 MODULE_DESCRIPTION("Freescale VF610 ADC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

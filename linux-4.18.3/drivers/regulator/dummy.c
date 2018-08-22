@@ -91,3 +91,4 @@ void __init regulator_dummy_init(void)
 		platform_device_unregister(dummy_pdev);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

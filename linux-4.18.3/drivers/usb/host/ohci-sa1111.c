@@ -269,3 +269,4 @@ static struct sa1111_driver ohci_hcd_sa1111_driver = {
 	.probe		= ohci_hcd_sa1111_probe,
 	.remove		= ohci_hcd_sa1111_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

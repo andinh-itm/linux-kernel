@@ -130,3 +130,4 @@ module_exit(map_rom_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("MTD chip driver for ROM chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

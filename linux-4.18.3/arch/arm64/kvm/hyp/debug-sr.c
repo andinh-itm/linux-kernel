@@ -203,3 +203,4 @@ u32 __hyp_text __kvm_get_mdcr_el2(void)
 {
 	return read_sysreg(mdcr_el2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

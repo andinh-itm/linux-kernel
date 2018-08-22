@@ -60,3 +60,4 @@ void __init arch_init_irq(void)
 	setup_irq(GT641XX_CASCADE_IRQ, &cascade);
 	setup_irq(I8259_CASCADE_IRQ, &cascade);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

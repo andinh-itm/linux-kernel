@@ -49,3 +49,4 @@ nv50_fuse_new(struct nvkm_device *device, int index, struct nvkm_fuse **pfuse)
 {
 	return nvkm_fuse_new_(&nv50_fuse, device, index, pfuse);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

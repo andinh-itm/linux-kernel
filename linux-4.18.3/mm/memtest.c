@@ -111,3 +111,4 @@ void __init early_memtest(phys_addr_t start, phys_addr_t end)
 		do_one_pass(patterns[idx], start, end);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

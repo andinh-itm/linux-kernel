@@ -25,3 +25,4 @@ ArcSetEnvironmentVariable(PCHAR name, PCHAR value)
 {
 	return ARC_CALL2(set_evar, name, value);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -613,3 +613,4 @@ int snd_line6_prepare(struct snd_pcm_substream *substream)
 	mutex_unlock(&line6pcm->state_mutex);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

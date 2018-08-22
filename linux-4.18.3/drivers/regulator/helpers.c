@@ -528,3 +528,4 @@ int regulator_set_active_discharge_regmap(struct regulator_dev *rdev,
 				  rdev->desc->active_discharge_mask, val);
 }
 EXPORT_SYMBOL_GPL(regulator_set_active_discharge_regmap);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

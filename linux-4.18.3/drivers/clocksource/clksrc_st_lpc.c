@@ -133,3 +133,4 @@ static int __init st_clksrc_of_register(struct device_node *np)
 	return ret;
 }
 TIMER_OF_DECLARE(ddata, "st,stih407-lpc", st_clksrc_of_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -67,3 +67,4 @@ void intel_p5_mcheck_init(struct cpuinfo_x86 *c)
 	pr_info("Intel old style machine check reporting enabled on CPU#%d.\n",
 		smp_processor_id());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

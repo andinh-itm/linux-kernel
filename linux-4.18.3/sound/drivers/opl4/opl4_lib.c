@@ -275,3 +275,4 @@ static void __exit alsa_opl4_exit(void)
 
 module_init(alsa_opl4_init)
 module_exit(alsa_opl4_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

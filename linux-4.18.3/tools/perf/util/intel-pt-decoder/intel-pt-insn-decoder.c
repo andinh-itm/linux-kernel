@@ -272,3 +272,4 @@ int intel_pt_insn_type(enum intel_pt_insn_op op)
 		return 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

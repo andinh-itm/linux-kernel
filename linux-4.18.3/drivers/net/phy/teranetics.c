@@ -97,3 +97,4 @@ static struct mdio_device_id __maybe_unused teranetics_tbl[] = {
 };
 
 MODULE_DEVICE_TABLE(mdio, teranetics_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

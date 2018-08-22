@@ -444,3 +444,4 @@ ssize_t vmw_fops_read(struct file *filp, char __user *buffer,
 	vmw_fifo_ping_host(dev_priv, SVGA_SYNC_GENERIC);
 	return drm_read(filp, buffer, count, offset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

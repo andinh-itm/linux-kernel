@@ -68,3 +68,4 @@ get_joliet_filename(struct iso_directory_record * de, unsigned char *outname, st
 
 	return len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

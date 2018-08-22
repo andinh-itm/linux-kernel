@@ -394,3 +394,4 @@ int apply_relocate_add(Elf_Shdr *sechdrs, const char *strtab,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -763,3 +763,4 @@ static int ppc_rtas_rmo_buf_show(struct seq_file *m, void *v)
 	seq_printf(m, "%016lx %x\n", rtas_rmo_buf, RTAS_RMOBUF_MAX);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

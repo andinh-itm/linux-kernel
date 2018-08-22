@@ -202,3 +202,4 @@ void solo_gpio_exit(struct solo_dev *solo_dev)
 	solo_gpio_clear(solo_dev, 0x30);
 	solo_gpio_config(solo_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -640,3 +640,4 @@ static void __exit alsa_sb8_exit(void)
 
 module_init(alsa_sb8_init)
 module_exit(alsa_sb8_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -647,3 +647,4 @@ MODULE_DESCRIPTION("Calxeda Highbank AHCI SATA platform driver");
 MODULE_AUTHOR("Mark Langsdorf <mark.langsdorf@calxeda.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("sata:highbank");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -846,3 +846,4 @@ void copy_and_format_trace_data(struct fc_trace_hdr *tdata,
 		max_size - len, "\n");
 	*orig_len = len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

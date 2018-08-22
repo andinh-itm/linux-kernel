@@ -221,3 +221,4 @@ __setup("com20020=", com20020isa_setup);
 
 module_init(com20020_init)
 module_exit(com20020_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

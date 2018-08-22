@@ -111,3 +111,4 @@ static struct acpi_driver hpwl_driver = {
 };
 
 module_acpi_driver(hpwl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

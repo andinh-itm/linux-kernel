@@ -1190,3 +1190,4 @@ MODULE_ALIAS("dmi:*:svnMICRO-STARINTERNATIONAL*:pnMS-N014:*");
 MODULE_ALIAS("dmi:*:svnMicro-StarInternational*:pnCR620:*");
 MODULE_ALIAS("dmi:*:svnMicro-StarInternational*:pnU270series:*");
 MODULE_ALIAS("dmi:*:svnMICRO-STARINTERNATIONAL*:pnU90/U100:*");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -153,3 +153,4 @@ ahc_linux_eisa_exit(void)
 {
 	eisa_driver_unregister(&aic7770_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

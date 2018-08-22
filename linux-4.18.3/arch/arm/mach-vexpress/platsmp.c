@@ -90,3 +90,4 @@ const struct smp_operations vexpress_smp_dt_ops __initconst = {
 	.cpu_die		= vexpress_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

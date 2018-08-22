@@ -1036,3 +1036,4 @@ int em28xx_i2c_unregister(struct em28xx *dev, unsigned int bus)
 	i2c_del_adapter(&dev->i2c_adap[bus]);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

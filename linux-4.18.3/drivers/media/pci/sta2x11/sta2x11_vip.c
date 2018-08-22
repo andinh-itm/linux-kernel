@@ -1320,3 +1320,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_SUPPORTED_DEVICE("sta2x11 video input");
 MODULE_VERSION(DRV_VERSION);
 MODULE_DEVICE_TABLE(pci, sta2x11_vip_pci_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

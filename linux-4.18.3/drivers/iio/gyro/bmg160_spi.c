@@ -55,3 +55,4 @@ module_spi_driver(bmg160_spi_driver);
 MODULE_AUTHOR("Markus Pargmann <mpa@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("BMG160 SPI Gyro driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

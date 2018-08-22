@@ -48,3 +48,4 @@ es1888_init(void)
 	outb(0x18, 0x022c);		/* set DMA channel 1 */
 	inb(0x022c);			/* force the write */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

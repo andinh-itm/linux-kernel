@@ -555,3 +555,4 @@ module_pci_driver(sis630_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Malysh <amalysh@web.de>");
 MODULE_DESCRIPTION("SIS630 SMBus driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

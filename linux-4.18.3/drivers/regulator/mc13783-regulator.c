@@ -475,3 +475,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Sascha Hauer <s.hauer@pengutronix.de>");
 MODULE_DESCRIPTION("Regulator Driver for Freescale MC13783 PMIC");
 MODULE_ALIAS("platform:mc13783-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

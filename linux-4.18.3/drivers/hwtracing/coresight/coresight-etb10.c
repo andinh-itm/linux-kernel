@@ -758,3 +758,4 @@ static struct amba_driver etb_driver = {
 	.id_table	= etb_ids,
 };
 builtin_amba_driver(etb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

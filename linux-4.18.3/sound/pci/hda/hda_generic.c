@@ -5974,3 +5974,4 @@ module_hda_codec_driver(generic_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Generic HD-audio codec parser");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

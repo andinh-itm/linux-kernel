@@ -938,3 +938,4 @@ EXPORT_SYMBOL(LZ4_compress_fast_continue);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("LZ4 compressor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

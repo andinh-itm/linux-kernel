@@ -45,3 +45,4 @@ bool __init shmobile_smp_init_fallback_ops(void)
 
 	return platform_can_secondary_boot() ? true : false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

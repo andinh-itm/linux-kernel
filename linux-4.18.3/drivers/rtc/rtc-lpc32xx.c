@@ -386,3 +386,4 @@ MODULE_AUTHOR("Kevin Wells <wellsk40@gmail.com");
 MODULE_DESCRIPTION("RTC driver for the LPC32xx SoC");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-lpc32xx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

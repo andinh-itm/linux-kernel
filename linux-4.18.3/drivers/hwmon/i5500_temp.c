@@ -147,3 +147,4 @@ module_pci_driver(i5500_temp_driver);
 MODULE_AUTHOR("Jean Delvare <jdelvare@suse.de>");
 MODULE_DESCRIPTION("Intel 5500/5520/X58 chipset thermal sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

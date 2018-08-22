@@ -383,3 +383,4 @@ MODULE_AUTHOR("Stefan Eletzhofer <stefan.eletzhofer@inquant.de> and Ian Molton <
 MODULE_DESCRIPTION("Linux PCMCIA Card Services: PXA2xx core socket driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

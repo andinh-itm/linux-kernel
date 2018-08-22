@@ -113,3 +113,4 @@ static struct platform_driver stm32_reset_driver = {
 };
 
 builtin_platform_driver(stm32_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

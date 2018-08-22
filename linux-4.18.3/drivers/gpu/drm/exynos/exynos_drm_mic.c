@@ -466,3 +466,4 @@ struct platform_driver mic_driver = {
 		.of_match_table = exynos_mic_of_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

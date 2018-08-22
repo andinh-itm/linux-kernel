@@ -3383,3 +3383,4 @@ static void __exit emac_exit(void)
 
 module_init(emac_init);
 module_exit(emac_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -376,3 +376,4 @@ SYSCALL_DEFINE3(modify_ldt, int , func , void __user * , ptr ,
 	/* See non-um modify_ldt() for why we do this cast */
 	return (unsigned int)do_modify_ldt_skas(func, ptr, bytecount);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

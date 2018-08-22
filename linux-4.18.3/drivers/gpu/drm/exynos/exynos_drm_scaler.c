@@ -718,3 +718,4 @@ struct platform_driver scaler_driver = {
 		.of_match_table = exynos_scaler_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

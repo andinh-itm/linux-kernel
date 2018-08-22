@@ -515,3 +515,4 @@ u8 rtl_get_hwpg_bt_exist(struct rtl_priv *rtlpriv)
 {
 	return rtlpriv->btcoexist.btc_info.btcoexist;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -557,3 +557,4 @@ static void vmw_so_build_asserts(void)
 	BUILD_BUG_ON(offsetof(struct vmw_view_define, sid) !=
 		     offsetof(SVGA3dCmdDXDefineDepthStencilView, sid));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

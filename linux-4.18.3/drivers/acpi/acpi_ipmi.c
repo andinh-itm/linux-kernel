@@ -654,3 +654,4 @@ static void __exit acpi_ipmi_exit(void)
 
 module_init(acpi_ipmi_init);
 module_exit(acpi_ipmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

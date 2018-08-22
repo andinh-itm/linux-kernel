@@ -842,3 +842,4 @@ MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_DESCRIPTION("Freescale MXS LRADC driver general purpose ADC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mxs-lradc-adc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

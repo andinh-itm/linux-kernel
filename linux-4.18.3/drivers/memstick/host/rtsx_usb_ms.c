@@ -842,3 +842,4 @@ module_platform_driver(rtsx_usb_ms_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Roger Tseng <rogerable@realtek.com>");
 MODULE_DESCRIPTION("Realtek USB Memstick Card Host Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3784,3 +3784,4 @@ MODULE_AUTHOR("Jussi Kivilinna");
 MODULE_DESCRIPTION("Driver for RNDIS based USB Wireless adapters");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

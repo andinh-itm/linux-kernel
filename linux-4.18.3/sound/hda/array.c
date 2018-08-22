@@ -49,3 +49,4 @@ void snd_array_free(struct snd_array *array)
 	array->list = NULL;
 }
 EXPORT_SYMBOL_GPL(snd_array_free);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

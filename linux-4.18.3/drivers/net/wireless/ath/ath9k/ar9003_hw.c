@@ -1185,3 +1185,4 @@ void ar9003_hw_attach_ops(struct ath_hw *ah)
 	ar9003_hw_attach_mac_ops(ah);
 	ar9003_hw_attach_aic_ops(ah);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

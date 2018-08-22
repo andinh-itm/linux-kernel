@@ -1982,3 +1982,4 @@ static int __init nmk_pinctrl_init(void)
 	return platform_driver_register(&nmk_pinctrl_driver);
 }
 core_initcall(nmk_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -27,3 +27,4 @@ struct mm_struct init_mm = {
 	.user_ns	= &init_user_ns,
 	INIT_MM_CONTEXT(init_mm)
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -106,3 +106,4 @@ device_initcall(espt_devices_setup);
 static struct sh_machine_vector mv_espt __initmv = {
 	.mv_name = "ESPT-GIGA",
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

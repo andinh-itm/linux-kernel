@@ -594,3 +594,4 @@ EXPORT_SYMBOL_GPL(lp55xx_of_populate_pdata);
 MODULE_AUTHOR("Milo Kim <milo.kim@ti.com>");
 MODULE_DESCRIPTION("LP55xx Common Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

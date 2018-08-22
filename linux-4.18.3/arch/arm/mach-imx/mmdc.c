@@ -586,3 +586,4 @@ static int __init imx_mmdc_init(void)
 	return platform_driver_register(&imx_mmdc_driver);
 }
 postcore_initcall(imx_mmdc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

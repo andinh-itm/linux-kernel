@@ -1077,3 +1077,4 @@ acpi_status acpi_release_global_lock(u32 handle)
 
 ACPI_EXPORT_SYMBOL(acpi_release_global_lock)
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

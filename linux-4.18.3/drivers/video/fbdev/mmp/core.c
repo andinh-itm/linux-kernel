@@ -254,3 +254,4 @@ EXPORT_SYMBOL_GPL(mmp_unregister_path);
 MODULE_AUTHOR("Zhou Zhu <zzhu3@marvell.com>");
 MODULE_DESCRIPTION("Marvell MMP display framework");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

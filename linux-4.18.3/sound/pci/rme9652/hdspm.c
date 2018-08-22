@@ -6998,3 +6998,4 @@ static struct pci_driver hdspm_driver = {
 };
 
 module_pci_driver(hdspm_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

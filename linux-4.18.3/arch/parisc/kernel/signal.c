@@ -613,3 +613,4 @@ void do_notify_resume(struct pt_regs *regs, long in_syscall)
 		tracehook_notify_resume(regs);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

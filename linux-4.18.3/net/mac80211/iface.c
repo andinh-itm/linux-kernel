@@ -2018,3 +2018,4 @@ void ieee80211_vif_dec_num_mcast(struct ieee80211_sub_if_data *sdata)
 	else if (sdata->vif.type == NL80211_IFTYPE_AP_VLAN)
 		atomic_dec(&sdata->u.vlan.num_mcast_sta);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

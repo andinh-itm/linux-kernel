@@ -2392,3 +2392,4 @@ module_exit(lpuart_serial_exit);
 
 MODULE_DESCRIPTION("Freescale lpuart serial port driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

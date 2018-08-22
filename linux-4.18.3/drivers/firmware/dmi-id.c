@@ -247,3 +247,4 @@ fail_class_unregister:
 }
 
 arch_initcall(dmi_id_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1825,3 +1825,4 @@ static int __init stm32f769_pinctrl_init(void)
 	return platform_driver_register(&stm32f769_pinctrl_driver);
 }
 arch_initcall(stm32f769_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

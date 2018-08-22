@@ -72,3 +72,4 @@ void arch_jump_label_transform(struct jump_entry *e,
 }
 
 #endif /* HAVE_JUMP_LABEL */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

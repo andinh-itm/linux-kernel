@@ -711,3 +711,4 @@ void usb_phy_set_event(struct usb_phy *x, unsigned long event)
 	x->last_event = event;
 }
 EXPORT_SYMBOL_GPL(usb_phy_set_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -106,3 +106,4 @@ void dal_hw_factory_destroy(
 
 	*factory = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

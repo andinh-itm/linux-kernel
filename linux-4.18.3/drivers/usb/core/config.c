@@ -1031,3 +1031,4 @@ err:
 	usb_release_bos_descriptor(dev);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

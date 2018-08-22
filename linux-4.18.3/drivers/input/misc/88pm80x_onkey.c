@@ -164,3 +164,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Marvell 88PM80x ONKEY driver");
 MODULE_AUTHOR("Qiao Zhou <zhouqiao@marvell.com>");
 MODULE_ALIAS("platform:88pm80x-onkey");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

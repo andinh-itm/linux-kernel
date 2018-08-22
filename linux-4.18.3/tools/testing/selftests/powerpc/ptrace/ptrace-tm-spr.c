@@ -165,3 +165,4 @@ int main(int argc, char *argv[])
 {
 	return test_harness(ptrace_tm_spr, "ptrace_tm_spr");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

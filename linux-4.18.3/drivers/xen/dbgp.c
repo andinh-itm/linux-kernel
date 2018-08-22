@@ -48,3 +48,4 @@ int xen_dbgp_external_startup(struct usb_hcd *hcd)
 EXPORT_SYMBOL_GPL(xen_dbgp_reset_prep);
 EXPORT_SYMBOL_GPL(xen_dbgp_external_startup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

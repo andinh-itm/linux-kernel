@@ -44,3 +44,4 @@ static int __init omap1_pm_runtime_init(void)
 }
 core_initcall(omap1_pm_runtime_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

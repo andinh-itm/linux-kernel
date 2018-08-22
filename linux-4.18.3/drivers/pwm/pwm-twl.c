@@ -365,3 +365,4 @@ MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_DESCRIPTION("PWM driver for TWL4030 and TWL6030");
 MODULE_ALIAS("platform:twl-pwm");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

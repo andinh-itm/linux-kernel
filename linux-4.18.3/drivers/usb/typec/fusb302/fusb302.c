@@ -1886,3 +1886,4 @@ module_i2c_driver(fusb302_driver);
 MODULE_AUTHOR("Yueyao Zhu <yueyao.zhu@gmail.com>");
 MODULE_DESCRIPTION("Fairchild FUSB302 Type-C Chip Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

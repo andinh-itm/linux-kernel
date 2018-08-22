@@ -1396,3 +1396,4 @@ module_i2c_driver(ov5695_i2c_driver);
 
 MODULE_DESCRIPTION("OmniVision ov5695 sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

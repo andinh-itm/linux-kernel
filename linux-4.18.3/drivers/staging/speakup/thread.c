@@ -60,3 +60,4 @@ int speakup_thread(void *data)
 	mutex_unlock(&spk_mutex);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

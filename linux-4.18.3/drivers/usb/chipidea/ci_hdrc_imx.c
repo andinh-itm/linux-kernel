@@ -496,3 +496,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("CI HDRC i.MX USB binding");
 MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_AUTHOR("Richard Zhao <richard.zhao@freescale.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

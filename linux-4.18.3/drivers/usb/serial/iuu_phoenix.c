@@ -1208,3 +1208,4 @@ MODULE_PARM_DESC(cdmode, "Card detect mode (0=none, 1=CD, 2=!CD, 3=DSR, "
 module_param(vcc_default, int, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(vcc_default, "Set default VCC (either 3 for 3.3V or 5 "
 		"for 5V). Default to 5.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -232,3 +232,4 @@ MODULE_AUTHOR("Javier Martin <javier.martin@vista-silicon.com>");
 MODULE_DESCRIPTION("ALSA SoC AIC32X4 mx27 visstrim");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mx27vis");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

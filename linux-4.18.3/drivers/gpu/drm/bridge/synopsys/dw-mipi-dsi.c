@@ -999,3 +999,4 @@ MODULE_AUTHOR("Philippe Cornu <philippe.cornu@st.com>");
 MODULE_DESCRIPTION("DW MIPI DSI host controller driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:dw-mipi-dsi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

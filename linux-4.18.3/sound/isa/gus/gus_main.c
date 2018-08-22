@@ -481,3 +481,4 @@ static void __exit alsa_gus_exit(void)
 
 module_init(alsa_gus_init)
 module_exit(alsa_gus_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

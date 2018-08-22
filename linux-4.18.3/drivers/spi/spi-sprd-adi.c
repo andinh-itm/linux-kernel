@@ -534,3 +534,4 @@ module_platform_driver(sprd_adi_driver);
 MODULE_DESCRIPTION("Spreadtrum ADI Controller Driver");
 MODULE_AUTHOR("Baolin Wang <Baolin.Wang@spreadtrum.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

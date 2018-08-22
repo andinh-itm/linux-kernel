@@ -971,3 +971,4 @@ void	ish_device_disable(struct ishtp_device *dev)
 	dev->dev_state = ISHTP_DEV_DISABLED;
 	ish_clr_host_rdy(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

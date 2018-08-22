@@ -621,3 +621,4 @@ void __init orion_gpio_init(struct device_node *np,
 
 	orion_gpio_chip_count++;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

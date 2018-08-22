@@ -482,3 +482,4 @@ void __init mem_init(void)
 	setup_zero_pages();	/* This comes from node 0 */
 	mem_init_print_info(NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

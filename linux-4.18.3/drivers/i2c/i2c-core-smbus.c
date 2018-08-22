@@ -691,3 +691,4 @@ int of_i2c_setup_smbus_alert(struct i2c_adapter *adapter)
 }
 EXPORT_SYMBOL_GPL(of_i2c_setup_smbus_alert);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

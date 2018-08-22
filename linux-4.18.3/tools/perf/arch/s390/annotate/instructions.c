@@ -172,3 +172,4 @@ static int s390__annotate_init(struct arch *arch, char *cpuid __maybe_unused)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

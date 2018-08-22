@@ -104,3 +104,4 @@ void common(void) {
 	OFFSET(CPU_ENTRY_AREA_entry_stack, cpu_entry_area, entry_stack_page);
 	DEFINE(SIZEOF_entry_stack, sizeof(struct entry_stack));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

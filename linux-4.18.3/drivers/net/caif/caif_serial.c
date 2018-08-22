@@ -470,3 +470,4 @@ static void __exit caif_ser_exit(void)
 
 module_init(caif_ser_init);
 module_exit(caif_ser_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

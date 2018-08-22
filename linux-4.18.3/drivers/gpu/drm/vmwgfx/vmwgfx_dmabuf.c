@@ -374,3 +374,4 @@ void *vmw_dma_buffer_map_and_cache(struct vmw_dma_buffer *vbo)
 
 	return ttm_kmap_obj_virtual(&vbo->map, &not_used);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -440,3 +440,4 @@ ide_startstop_t ide_do_reset(ide_drive_t *drive)
 	return do_reset1(drive, 0);
 }
 EXPORT_SYMBOL(ide_do_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

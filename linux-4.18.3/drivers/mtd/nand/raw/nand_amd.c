@@ -49,3 +49,4 @@ const struct nand_manufacturer_ops amd_nand_manuf_ops = {
 	.detect = amd_nand_decode_id,
 	.init = amd_nand_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

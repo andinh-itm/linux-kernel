@@ -2432,3 +2432,4 @@ void mlxsw_sp_port_switchdev_init(struct mlxsw_sp_port *mlxsw_sp_port)
 void mlxsw_sp_port_switchdev_fini(struct mlxsw_sp_port *mlxsw_sp_port)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

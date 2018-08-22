@@ -60,3 +60,4 @@ void bcma_core_chipcommon_b_free(struct bcma_drv_cc_b *ccb)
 	if (ccb->mii)
 		iounmap(ccb->mii);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

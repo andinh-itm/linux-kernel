@@ -123,3 +123,4 @@ void wusb_dev_sysfs_rm(struct wusb_dev *wusb_dev)
 	if (usb_dev)
 		sysfs_remove_group(&usb_dev->dev.kobj, &wusb_dev_attr_group);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

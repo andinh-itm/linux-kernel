@@ -9871,3 +9871,4 @@ static void __attribute__((unused)) verify_offsets(void)
 
 module_init(hpsa_init);
 module_exit(hpsa_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

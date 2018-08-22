@@ -229,3 +229,4 @@ module_platform_driver(zylonite_wm97xx_driver);
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("wm97xx continuous touch driver for Zylonite");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

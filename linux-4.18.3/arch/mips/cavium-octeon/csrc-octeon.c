@@ -211,3 +211,4 @@ void octeon_io_clk_delay(unsigned long count)
 		cur = read_c0_cvmcount();
 }
 EXPORT_SYMBOL(octeon_io_clk_delay);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

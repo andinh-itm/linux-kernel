@@ -6141,3 +6141,4 @@ int btrfs_log_new_name(struct btrfs_trans_handle *trans,
 				      LOG_INODE_EXISTS, NULL);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

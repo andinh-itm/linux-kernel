@@ -4,3 +4,4 @@
 
 EXPORT_SYMBOL(rdmsr_safe_regs);
 EXPORT_SYMBOL(wrmsr_safe_regs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

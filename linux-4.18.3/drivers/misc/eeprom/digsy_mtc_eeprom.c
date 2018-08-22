@@ -104,3 +104,4 @@ static int __init digsy_mtc_eeprom_devices_init(void)
 	return platform_device_register(&digsy_mtc_eeprom);
 }
 device_initcall(digsy_mtc_eeprom_devices_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -299,3 +299,4 @@ module_platform_driver(spmi_pmic_clkdiv_driver);
 
 MODULE_DESCRIPTION("QCOM SPMI PMIC clkdiv driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

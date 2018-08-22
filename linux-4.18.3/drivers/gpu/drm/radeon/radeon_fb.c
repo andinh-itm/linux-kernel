@@ -416,3 +416,4 @@ void radeon_fb_remove_connector(struct radeon_device *rdev, struct drm_connector
 	if (rdev->mode_info.rfbdev)
 		drm_fb_helper_remove_one_connector(&rdev->mode_info.rfbdev->helper, connector);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

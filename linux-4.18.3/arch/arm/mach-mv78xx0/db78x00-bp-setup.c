@@ -102,3 +102,4 @@ MACHINE_START(DB78X00_BP, "Marvell DB-78x00-BP Development Board")
 	.init_time	= mv78xx0_timer_init,
 	.restart	= mv78xx0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

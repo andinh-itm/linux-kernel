@@ -548,3 +548,4 @@ static struct serio_driver vsxxxaa_drv = {
 };
 
 module_serio_driver(vsxxxaa_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

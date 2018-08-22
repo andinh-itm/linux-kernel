@@ -36,3 +36,4 @@ static int __init mcf8390_platform_init(void)
 }
 
 arch_initcall(mcf8390_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

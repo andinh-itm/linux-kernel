@@ -685,3 +685,4 @@ static struct pci_driver solo_pci_driver = {
 };
 
 module_pci_driver(solo_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

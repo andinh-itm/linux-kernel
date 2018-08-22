@@ -278,3 +278,4 @@ void __init setup_arch_memory(void)
 	 *  which is called by start_kernel() later on in the process
 	 */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

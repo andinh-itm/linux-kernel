@@ -453,3 +453,4 @@ static int pm_check_save_msr(void)
 }
 
 device_initcall(pm_check_save_msr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

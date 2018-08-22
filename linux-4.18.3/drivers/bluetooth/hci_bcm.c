@@ -1349,3 +1349,4 @@ int __exit bcm_deinit(void)
 
 	return hci_uart_unregister_proto(&bcm_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

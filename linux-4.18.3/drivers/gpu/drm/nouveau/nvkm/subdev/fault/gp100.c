@@ -67,3 +67,4 @@ gp100_fault_new(struct nvkm_device *device, int index,
 {
 	return nvkm_fault_new_(&gp100_fault, device, index, pfault);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

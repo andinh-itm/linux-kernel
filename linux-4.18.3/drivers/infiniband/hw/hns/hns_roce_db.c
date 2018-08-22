@@ -178,3 +178,4 @@ void hns_roce_free_db(struct hns_roce_dev *hr_dev, struct hns_roce_db *db)
 	mutex_unlock(&hr_dev->pgdir_mutex);
 }
 EXPORT_SYMBOL_GPL(hns_roce_free_db);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

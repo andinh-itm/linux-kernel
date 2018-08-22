@@ -437,3 +437,4 @@ static int __init pxa2xx_mfp_init(void)
 	return 0;
 }
 postcore_initcall(pxa2xx_mfp_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -438,3 +438,4 @@ MODULE_AUTHOR("Alexandre Torgue <alexandre.torgue@gmail.com>");
 MODULE_AUTHOR("Christophe Roullier <christophe.roullier@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 DWMAC Specific Glue layer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

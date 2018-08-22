@@ -117,3 +117,4 @@ int jfs_ioc_trim(struct inode *ip, struct fstrim_range *range)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

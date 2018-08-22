@@ -225,3 +225,4 @@ module_exit(mtd_readtest_exit);
 MODULE_DESCRIPTION("Read test module");
 MODULE_AUTHOR("Adrian Hunter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

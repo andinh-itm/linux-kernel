@@ -501,3 +501,4 @@ module_exit(hexium_cleanup_module);
 MODULE_DESCRIPTION("video4linux-2 driver for Hexium Orion frame grabber cards");
 MODULE_AUTHOR("Michael Hunold <michael@mihu.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -125,3 +125,4 @@ void trinity_release_mutex(struct radeon_device *rdev)
 {
 	WREG32(SMC_INT_REQ, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

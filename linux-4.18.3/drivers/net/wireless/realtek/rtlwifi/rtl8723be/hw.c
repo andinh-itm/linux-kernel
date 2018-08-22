@@ -2745,3 +2745,4 @@ void rtl8723be_suspend(struct ieee80211_hw *hw)
 void rtl8723be_resume(struct ieee80211_hw *hw)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

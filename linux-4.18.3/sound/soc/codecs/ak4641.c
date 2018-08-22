@@ -643,3 +643,4 @@ module_i2c_driver(ak4641_i2c_driver);
 MODULE_DESCRIPTION("SoC AK4641 driver");
 MODULE_AUTHOR("Harald Welte <laforge@gnufiish.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

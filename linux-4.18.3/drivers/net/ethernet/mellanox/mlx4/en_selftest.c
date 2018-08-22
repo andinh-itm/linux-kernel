@@ -202,3 +202,4 @@ void mlx4_en_ex_selftest(struct net_device *dev, u32 *flags, u64 *buf)
 			*flags |= ETH_TEST_FL_FAILED;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -477,3 +477,4 @@ int __init rt2880_pinmux_init(void)
 }
 
 core_initcall_sync(rt2880_pinmux_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -110,3 +110,4 @@ DT_MACHINE_START(IMX6SX, "Freescale i.MX6 SoloX (Device Tree)")
 	.dt_compat	= imx6sx_dt_compat,
 	.init_late	= imx6sx_init_late,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

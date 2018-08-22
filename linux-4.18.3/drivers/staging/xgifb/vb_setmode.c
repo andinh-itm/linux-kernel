@@ -5525,3 +5525,4 @@ unsigned char XGISetModeNew(struct xgifb_video_info *xgifb_info,
 
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

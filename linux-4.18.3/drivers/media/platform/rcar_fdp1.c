@@ -2447,3 +2447,4 @@ MODULE_DESCRIPTION("Renesas R-Car Fine Display Processor Driver");
 MODULE_AUTHOR("Kieran Bingham <kieran@bingham.xyz>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

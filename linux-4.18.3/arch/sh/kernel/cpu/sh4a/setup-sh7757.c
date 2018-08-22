@@ -1242,3 +1242,4 @@ void __init plat_irq_setup_pins(int mode)
 void __init plat_mem_setup(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

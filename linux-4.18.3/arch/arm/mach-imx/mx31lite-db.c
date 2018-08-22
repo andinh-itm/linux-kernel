@@ -161,3 +161,4 @@ void __init mx31lite_db_init(void)
 	imx31_add_imx2_wdt();
 	imx31_add_mxc_rtc();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

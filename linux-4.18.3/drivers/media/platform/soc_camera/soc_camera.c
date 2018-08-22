@@ -2152,3 +2152,4 @@ MODULE_DESCRIPTION("Image capture bus driver");
 MODULE_AUTHOR("Guennadi Liakhovetski <kernel@pengutronix.de>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:soc-camera-pdrv");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

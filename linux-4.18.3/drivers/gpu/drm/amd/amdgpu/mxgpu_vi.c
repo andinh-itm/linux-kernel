@@ -623,3 +623,4 @@ const struct amdgpu_virt_ops xgpu_vi_virt_ops = {
 	.wait_reset             = xgpu_vi_wait_reset_cmpl,
 	.trans_msg		= NULL, /* Does not need to trans VF errors to host. */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2105,3 +2105,4 @@ const struct inode_operations gfs2_symlink_iops = {
 	.fiemap = gfs2_fiemap,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

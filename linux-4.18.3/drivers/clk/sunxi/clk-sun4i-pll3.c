@@ -96,3 +96,4 @@ err_unmap:
 
 CLK_OF_DECLARE(sun4i_a10_pll3, "allwinner,sun4i-a10-pll3-clk",
 	       sun4i_a10_pll3_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

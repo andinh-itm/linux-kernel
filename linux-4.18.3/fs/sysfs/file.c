@@ -503,3 +503,4 @@ void sysfs_remove_bin_file(struct kobject *kobj,
 	kernfs_remove_by_name(kobj->sd, attr->attr.name);
 }
 EXPORT_SYMBOL_GPL(sysfs_remove_bin_file);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

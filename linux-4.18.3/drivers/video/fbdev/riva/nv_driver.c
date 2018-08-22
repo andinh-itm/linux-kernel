@@ -421,3 +421,4 @@ riva_common_setup(struct riva_par *par)
 	RivaGetConfig(&par->riva, par->pdev, par->Chipset);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

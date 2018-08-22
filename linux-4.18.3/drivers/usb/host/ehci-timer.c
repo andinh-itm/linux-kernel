@@ -424,3 +424,4 @@ static enum hrtimer_restart ehci_hrtimer_func(struct hrtimer *t)
 	spin_unlock_irqrestore(&ehci->lock, flags);
 	return HRTIMER_NORESTART;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

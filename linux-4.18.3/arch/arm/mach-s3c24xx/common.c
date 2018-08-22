@@ -669,3 +669,4 @@ struct platform_device s3c2410_device_dclk = {
 	.resource	= s3c2410_dclk_resource,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

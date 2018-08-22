@@ -371,3 +371,4 @@ static unsigned int PerformComparison(const unsigned int opcode)
 	writeConditionCodes(flags);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

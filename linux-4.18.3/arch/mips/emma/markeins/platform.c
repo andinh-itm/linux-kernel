@@ -210,3 +210,4 @@ static int __init platform_devices_setup(void)
 }
 
 arch_initcall(platform_devices_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -431,3 +431,4 @@ int setup_sct_quadro(struct IsdnCard *card)
 	       readreg(cs->hw.ax.base, cs->hw.ax.data_adr, IPAC_ID));
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

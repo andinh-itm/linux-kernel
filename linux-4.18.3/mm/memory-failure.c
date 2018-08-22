@@ -1769,3 +1769,4 @@ int soft_offline_page(struct page *page, int flags)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

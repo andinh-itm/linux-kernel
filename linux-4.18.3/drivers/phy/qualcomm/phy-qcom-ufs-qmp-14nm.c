@@ -201,3 +201,4 @@ module_platform_driver(ufs_qcom_phy_qmp_14nm_driver);
 
 MODULE_DESCRIPTION("Universal Flash Storage (UFS) QCOM PHY QMP 14nm");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

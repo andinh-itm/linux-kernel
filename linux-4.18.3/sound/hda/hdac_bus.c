@@ -215,3 +215,4 @@ void snd_hdac_bus_remove_device(struct hdac_bus *bus,
 	flush_work(&bus->unsol_work);
 }
 EXPORT_SYMBOL_GPL(snd_hdac_bus_remove_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

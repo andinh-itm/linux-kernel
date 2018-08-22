@@ -1079,3 +1079,4 @@ MODULE_LICENSE("GPL v2");
 
 module_param(nmea, bool, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(nmea, "NMEA streaming");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

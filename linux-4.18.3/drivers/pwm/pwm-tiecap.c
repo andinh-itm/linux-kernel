@@ -330,3 +330,4 @@ module_platform_driver(ecap_pwm_driver);
 MODULE_DESCRIPTION("ECAP PWM driver");
 MODULE_AUTHOR("Texas Instruments");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

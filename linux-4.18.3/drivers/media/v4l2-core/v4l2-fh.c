@@ -120,3 +120,4 @@ int v4l2_fh_is_singular(struct v4l2_fh *fh)
 	return is_singular;
 }
 EXPORT_SYMBOL_GPL(v4l2_fh_is_singular);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

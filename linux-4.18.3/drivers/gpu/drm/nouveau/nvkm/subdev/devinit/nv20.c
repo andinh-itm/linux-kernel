@@ -77,3 +77,4 @@ nv20_devinit_new(struct nvkm_device *device, int index,
 {
 	return nv04_devinit_new_(&nv20_devinit, device, index, pinit);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

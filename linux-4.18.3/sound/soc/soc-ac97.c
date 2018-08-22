@@ -425,3 +425,4 @@ int snd_soc_set_ac97_ops_of_reset(struct snd_ac97_bus_ops *ops,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(snd_soc_set_ac97_ops_of_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

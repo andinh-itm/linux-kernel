@@ -163,3 +163,4 @@ void rtw_reg_notifier(struct wiphy *wiphy, struct regulatory_request *request)
 
 	_rtw_reg_notifier_apply(wiphy, request, reg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

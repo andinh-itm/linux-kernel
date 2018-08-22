@@ -641,3 +641,4 @@ static struct usb_driver skel_driver = {
 module_usb_driver(skel_driver);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

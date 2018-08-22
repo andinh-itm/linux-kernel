@@ -828,3 +828,4 @@ MODULE_AUTHOR("Lennert Buytenhek <buytenh@marvell.com> "
 	      "Green Wan <gwan@marvell.com>");
 MODULE_DESCRIPTION("Framebuffer driver for PXA168/910");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

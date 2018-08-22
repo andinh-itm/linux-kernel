@@ -712,3 +712,4 @@ static struct isa_driver snd_sc6000_driver = {
 
 
 module_isa_driver(snd_sc6000_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

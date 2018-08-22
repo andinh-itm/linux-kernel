@@ -451,3 +451,4 @@ static void __init imx6sl_clocks_init(struct device_node *ccm_node)
 	imx_register_uart_clocks(uart_clks);
 }
 CLK_OF_DECLARE(imx6sl, "fsl,imx6sl-ccm", imx6sl_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

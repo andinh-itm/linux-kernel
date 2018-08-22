@@ -717,3 +717,4 @@ void of_platform_register_reconfig_notifier(void)
 #endif /* CONFIG_OF_DYNAMIC */
 
 #endif /* CONFIG_OF_ADDRESS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -670,3 +670,4 @@ EXPORT_SYMBOL(svga_match_format);
 MODULE_AUTHOR("Ondrej Zajicek <santiago@crfreenet.org>");
 MODULE_DESCRIPTION("Common utility functions for VGA-based graphics cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

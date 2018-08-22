@@ -270,3 +270,4 @@ const struct thermal_cooling_device_ops processor_cooling_ops = {
 	.get_cur_state = processor_get_cur_state,
 	.set_cur_state = processor_set_cur_state,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

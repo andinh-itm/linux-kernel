@@ -290,3 +290,4 @@ MODULE_DESCRIPTION("low-level driver for the Highpoint HPT343/363");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, hpt3x3);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

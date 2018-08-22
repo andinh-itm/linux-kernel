@@ -115,3 +115,4 @@ const struct davinci_psc_init_data da830_psc1_init_data = {
 	.num_parent_clks	= ARRAY_SIZE(da830_psc1_parent_clks),
 	.psc_init		= &da830_psc1_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -996,3 +996,4 @@ bfa_ioc_ct_get_alt_ioc_fwstate(struct bfa_ioc_s *ioc)
 {
 	return (enum bfi_ioc_state) readl(ioc->ioc_regs.alt_ioc_fwstate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

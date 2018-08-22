@@ -226,3 +226,4 @@ struct vmci_handle vmci_resource_handle(struct vmci_resource *resource)
 {
 	return resource->handle;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

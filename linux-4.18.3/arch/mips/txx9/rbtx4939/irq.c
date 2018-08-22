@@ -93,3 +93,4 @@ void __init rbtx4939_irq_setup(void)
 
 	irq_set_chained_handler(RBTX4939_IRQ_IOCINT, handle_simple_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -268,3 +268,4 @@ module_platform_driver(ahci_sunxi_driver);
 MODULE_DESCRIPTION("Allwinner sunxi AHCI SATA driver");
 MODULE_AUTHOR("Olliver Schinagl <oliver@schinagl.nl>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

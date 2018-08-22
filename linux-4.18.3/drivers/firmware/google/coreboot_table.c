@@ -156,3 +156,4 @@ EXPORT_SYMBOL(coreboot_table_exit);
 
 MODULE_AUTHOR("Google, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

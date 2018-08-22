@@ -203,3 +203,4 @@ static int __init proc_stat_init(void)
 	return 0;
 }
 fs_initcall(proc_stat_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

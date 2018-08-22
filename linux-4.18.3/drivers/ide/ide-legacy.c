@@ -56,3 +56,4 @@ int ide_legacy_device_add(const struct ide_port_info *d, unsigned long config)
 	return ide_host_add(d, hws, 2, NULL);
 }
 EXPORT_SYMBOL_GPL(ide_legacy_device_add);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -324,3 +324,4 @@ irqreturn_t pdacf_threaded_irq(int irq, void *dev)
 	mutex_unlock(&chip->reg_lock);
 	return IRQ_HANDLED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

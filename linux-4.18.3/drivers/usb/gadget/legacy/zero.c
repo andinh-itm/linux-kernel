@@ -426,3 +426,4 @@ module_usb_composite_driver(zero_driver);
 
 MODULE_AUTHOR("David Brownell");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

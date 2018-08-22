@@ -136,3 +136,4 @@ i915_perf_load_test_config_hsw(struct drm_i915_private *dev_priv)
 	dev_priv->perf.oa.test_config.sysfs_metric_id.attr.mode = 0444;
 	dev_priv->perf.oa.test_config.sysfs_metric_id.show = show_render_basic_id;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -643,3 +643,4 @@ module_i2c_driver(max30102_driver);
 MODULE_AUTHOR("Matt Ranostay <matt@ranostay.consulting>");
 MODULE_DESCRIPTION("MAX30102 heart rate/pulse oximeter and MAX30105 particle sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -52,3 +52,4 @@ static __init int cobalt_add_buttons(void)
 	return error;
 }
 device_initcall(cobalt_add_buttons);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

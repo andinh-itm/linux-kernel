@@ -327,3 +327,4 @@ module_exit(max1586_pmic_exit);
 MODULE_DESCRIPTION("MAXIM 1586 voltage regulator driver");
 MODULE_AUTHOR("Robert Jarzmik");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

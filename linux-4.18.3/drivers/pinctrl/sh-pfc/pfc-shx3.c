@@ -559,3 +559,4 @@ const struct sh_pfc_soc_info shx3_pinmux_info = {
 	.cfg_regs	= pinmux_config_regs,
 	.data_regs	= pinmux_data_regs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

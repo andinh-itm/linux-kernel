@@ -190,3 +190,4 @@ module_exit(sdw_bus_exit);
 
 MODULE_DESCRIPTION("SoundWire bus");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

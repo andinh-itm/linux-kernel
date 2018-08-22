@@ -251,3 +251,4 @@ void coda_set_jpeg_compression_quality(struct coda_ctx *ctx, int quality)
 		coda_scale_quant_table(ctx->params.jpeg_qmat_tab[1], scale);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -384,3 +384,4 @@ int xen_setup_shutdown_event(void)
 EXPORT_SYMBOL_GPL(xen_setup_shutdown_event);
 
 subsys_initcall(xen_setup_shutdown_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

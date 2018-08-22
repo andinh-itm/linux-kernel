@@ -593,3 +593,4 @@ MODULE_AUTHOR("Chris Zhong <zyw@rock-chips.com>");
 MODULE_AUTHOR("Zhang Qing <zhangqing@rock-chips.com>");
 MODULE_AUTHOR("Wadim Egorov <w.egorov@phytec.de>");
 MODULE_DESCRIPTION("RK808/RK818 PMIC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

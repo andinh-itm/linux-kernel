@@ -16,3 +16,4 @@ void check(void)
 	BUILD_BUG_ON(!IS_MODULE(CONFIG_DEV_DAX));
 	BUILD_BUG_ON(!IS_MODULE(CONFIG_DEV_DAX_PMEM));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

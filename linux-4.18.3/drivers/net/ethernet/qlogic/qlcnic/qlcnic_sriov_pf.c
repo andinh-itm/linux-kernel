@@ -2049,3 +2049,4 @@ int qlcnic_sriov_set_vf_spoofchk(struct net_device *netdev, int vf, bool chk)
 	vp->spoofchk = chk;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

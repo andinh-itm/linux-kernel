@@ -364,3 +364,4 @@ MODULE_DESCRIPTION("WM9712, WM9713 core driver");
 MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

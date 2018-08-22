@@ -2282,3 +2282,4 @@ int cx231xx_register_analog_devices(struct cx231xx *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -524,3 +524,4 @@ int __init gicv2m_init(struct fwnode_handle *parent_handle,
 
 	return gicv2m_acpi_init(parent);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

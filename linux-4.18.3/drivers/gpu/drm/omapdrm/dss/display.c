@@ -172,3 +172,4 @@ out:
 	return dssdev;
 }
 EXPORT_SYMBOL(omap_dss_get_next_device);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

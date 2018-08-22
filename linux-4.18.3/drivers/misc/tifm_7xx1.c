@@ -444,3 +444,4 @@ MODULE_DESCRIPTION("TI FlashMedia host driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, tifm_7xx1_pci_tbl);
 MODULE_VERSION(DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

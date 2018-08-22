@@ -135,3 +135,4 @@ static struct platform_driver bcm_ns_usb2_driver = {
 module_platform_driver(bcm_ns_usb2_driver);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

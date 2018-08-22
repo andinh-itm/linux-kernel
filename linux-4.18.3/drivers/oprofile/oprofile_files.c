@@ -199,3 +199,4 @@ void oprofile_create_files(struct dentry *root)
 	if (oprofile_ops.create_files)
 		oprofile_ops.create_files(root);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

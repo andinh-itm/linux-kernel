@@ -51,3 +51,4 @@ int kvm_mips_handle_hypcall(struct kvm_vcpu *vcpu)
 	return kvm_mips_hypercall(vcpu, num,
 				  args, &vcpu->arch.gprs[2] /* v0 */);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

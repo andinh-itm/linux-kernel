@@ -252,3 +252,4 @@ module_platform_driver(pic32_sdhci_driver);
 MODULE_DESCRIPTION("Microchip PIC32 SDHCI driver");
 MODULE_AUTHOR("Pistirica Sorin Andrei & Sandeep Sheriker");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

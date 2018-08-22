@@ -269,3 +269,4 @@ MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("PWM beeper driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pwm-beeper");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

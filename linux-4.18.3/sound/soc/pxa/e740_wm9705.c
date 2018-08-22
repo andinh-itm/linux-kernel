@@ -165,3 +165,4 @@ MODULE_AUTHOR("Ian Molton <spyro@f2s.com>");
 MODULE_DESCRIPTION("ALSA SoC driver for e740");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:e740-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -668,3 +668,4 @@ void snd_dice_stream_lock_release(struct snd_dice *dice)
 out:
 	spin_unlock_irq(&dice->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -892,3 +892,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("Thermal driver for Freescale i.MX SoCs");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:imx-thermal");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

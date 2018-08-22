@@ -296,3 +296,4 @@ int snd_tscm_create_pcm_devices(struct snd_tscm *tscm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1067,3 +1067,4 @@ static struct usb_driver realtek_cr_driver = {
 };
 
 module_usb_stor_driver(realtek_cr_driver, realtek_cr_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

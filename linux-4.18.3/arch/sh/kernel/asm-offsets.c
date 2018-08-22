@@ -58,3 +58,4 @@ int main(void)
 	DEFINE(SH_SLEEP_REG_RAMCR, offsetof(struct sh_sleep_regs, ramcr));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

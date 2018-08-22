@@ -1556,3 +1556,4 @@ static void __init exynos4412_clk_init(struct device_node *np)
 	exynos4_clk_init(np, EXYNOS4X12);
 }
 CLK_OF_DECLARE(exynos4412_clk, "samsung,exynos4412-clock", exynos4412_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

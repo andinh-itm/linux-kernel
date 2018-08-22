@@ -4213,3 +4213,4 @@ void dispc_uninit_platform_driver(void)
 {
 	platform_driver_unregister(&omap_dispchw_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

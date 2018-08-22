@@ -397,3 +397,4 @@ MODULE_AUTHOR("Melissa Howland <Melissa.Howland@us.ibm.com>");
 MODULE_DESCRIPTION("Character device driver for writing z/VM "
 		   "APPLDATA monitor records.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

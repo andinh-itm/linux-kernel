@@ -1065,3 +1065,4 @@ void i2sbus_detach_codec(struct soundbus_dev *dev, void *data)
 		snd_device_free(dev->pcm->card, dev->pcm);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

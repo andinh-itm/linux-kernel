@@ -175,3 +175,4 @@ MODULE_DESCRIPTION("Driver to support GPIO triggered system halt for Servergy CT
 MODULE_VERSION("1.0");
 MODULE_AUTHOR("Ben Collins <ben.c@servergy.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

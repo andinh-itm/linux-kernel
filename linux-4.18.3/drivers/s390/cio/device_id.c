@@ -221,3 +221,4 @@ void ccw_device_sense_id_start(struct ccw_device *cdev)
 	req->callback	= snsid_callback;
 	ccw_request_start(cdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

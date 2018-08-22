@@ -246,3 +246,4 @@ void ssusb_host_exit(struct ssusb_mtk *ssusb)
 	of_platform_depopulate(ssusb->dev);
 	ssusb_host_cleanup(ssusb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

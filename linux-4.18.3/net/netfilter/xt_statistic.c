@@ -100,3 +100,4 @@ static void __exit statistic_mt_exit(void)
 
 module_init(statistic_mt_init);
 module_exit(statistic_mt_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -70,3 +70,4 @@ MODULE_AUTHOR("Michael Hennerich <michael.hennerich@analog.com>");
 MODULE_DESCRIPTION("AD7879(-1) touchscreen SPI bus driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:ad7879");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -712,3 +712,4 @@ static int __init lparcfg_init(void)
 	return 0;
 }
 machine_device_initcall(pseries, lparcfg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

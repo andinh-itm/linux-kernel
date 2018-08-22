@@ -226,3 +226,4 @@ MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("Sysfs based trigger for the iio subsystem");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:iio-trig-sysfs");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

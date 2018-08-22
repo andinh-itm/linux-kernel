@@ -273,3 +273,4 @@ module_exit(hp_sw_exit);
 MODULE_DESCRIPTION("HP Active/Passive driver");
 MODULE_AUTHOR("Mike Christie <michaelc@cs.wisc.edu");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2675,3 +2675,4 @@ module_param(channels, int, 0644);
 MODULE_PARM_DESC(ifname, " Net interface name, wlan%d=default");
 MODULE_PARM_DESC(hwwep, " Try to use hardware WEP support(default use hw. set 0 to use software security)");
 MODULE_PARM_DESC(channels, " Channel bitmask for specific locales. NYI");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

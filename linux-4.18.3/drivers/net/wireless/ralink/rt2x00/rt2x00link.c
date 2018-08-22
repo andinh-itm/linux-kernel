@@ -432,3 +432,4 @@ void rt2x00link_register(struct rt2x00_dev *rt2x00dev)
 	INIT_DELAYED_WORK(&rt2x00dev->link.watchdog_work, rt2x00link_watchdog);
 	INIT_DELAYED_WORK(&rt2x00dev->link.work, rt2x00link_tuner);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

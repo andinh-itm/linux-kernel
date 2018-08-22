@@ -61,3 +61,4 @@ gm200_ltc_new(struct nvkm_device *device, int index, struct nvkm_ltc **pltc)
 {
 	return nvkm_ltc_new_(&gm200_ltc, device, index, pltc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

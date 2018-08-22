@@ -173,3 +173,4 @@ void wiphy_sysfs_exit(void)
 {
 	class_unregister(&ieee80211_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

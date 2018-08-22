@@ -35,3 +35,4 @@ int __init imx5_cpuidle_init(void)
 {
 	return cpuidle_register(&imx5_cpuidle_driver, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

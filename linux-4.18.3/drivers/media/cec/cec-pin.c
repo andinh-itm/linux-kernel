@@ -1312,3 +1312,4 @@ struct cec_adapter *cec_pin_allocate_adapter(const struct cec_pin_ops *pin_ops,
 	return adap;
 }
 EXPORT_SYMBOL_GPL(cec_pin_allocate_adapter);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

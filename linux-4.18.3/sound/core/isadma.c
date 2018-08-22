@@ -112,3 +112,4 @@ unsigned int snd_dma_pointer(unsigned long dma, unsigned int size)
 		return size - result;
 }
 EXPORT_SYMBOL(snd_dma_pointer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

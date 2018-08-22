@@ -50,3 +50,4 @@ nv50_curs_new(struct nouveau_drm *drm, int head, struct nv50_wndw **pwndw)
 
 	return curses[cid].new(drm, head, curses[cid].oclass, pwndw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

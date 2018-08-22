@@ -404,3 +404,4 @@ void dm_pp_get_funcs_rv(
 {}
 
 /**** end of power component interfaces ****/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

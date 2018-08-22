@@ -547,3 +547,4 @@ MODULE_DESCRIPTION("ILI9221/9222 LCD driver");
 MODULE_LICENSE("GPL");
 MODULE_PARM_DESC(ili922x_id, "set controller identifier (default=1)");
 MODULE_PARM_DESC(tx_invert, "invert bytes before sending");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

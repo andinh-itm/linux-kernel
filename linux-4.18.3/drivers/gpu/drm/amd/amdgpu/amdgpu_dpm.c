@@ -989,3 +989,4 @@ amdgpu_get_vce_clock_state(void *handle, u32 idx)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

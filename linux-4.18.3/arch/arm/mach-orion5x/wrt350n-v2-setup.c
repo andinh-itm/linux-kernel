@@ -266,3 +266,4 @@ MACHINE_START(WRT350N_V2, "Linksys WRT350N v2")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

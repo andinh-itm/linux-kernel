@@ -1322,3 +1322,4 @@ static int usbatm_print_packet(struct usbatm_data *instance,
 	return i;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

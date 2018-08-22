@@ -133,3 +133,4 @@ static int update_vmixer_level(struct echoaudio *chip)
 	return send_vector(chip, DSP_VC_SET_VMIXER_GAIN);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

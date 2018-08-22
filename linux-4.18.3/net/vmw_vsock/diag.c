@@ -184,3 +184,4 @@ module_exit(vsock_diag_exit);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_NET_PF_PROTO_TYPE(PF_NETLINK, NETLINK_SOCK_DIAG,
 			       40 /* AF_VSOCK */);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

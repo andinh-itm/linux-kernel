@@ -159,3 +159,4 @@ void release_evntsel_nmi(unsigned int msr)
 	clear_bit(counter, evntsel_nmi_owner);
 }
 EXPORT_SYMBOL(release_evntsel_nmi);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

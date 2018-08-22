@@ -409,3 +409,4 @@ void dal_hw_translate_dce80_init(
 {
 	translate->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

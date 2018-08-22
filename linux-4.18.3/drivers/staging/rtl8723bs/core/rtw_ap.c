@@ -2666,3 +2666,4 @@ void stop_ap_mode(struct adapter *padapter)
 
 	rtw_btcoex_MediaStatusNotify(padapter, 0); /* disconnect */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

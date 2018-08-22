@@ -560,3 +560,4 @@ void iscsi_boot_destroy_kset(struct iscsi_boot_kset *boot_kset)
 	kfree(boot_kset);
 }
 EXPORT_SYMBOL_GPL(iscsi_boot_destroy_kset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

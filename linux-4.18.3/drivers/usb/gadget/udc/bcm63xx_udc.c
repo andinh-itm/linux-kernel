@@ -2393,3 +2393,4 @@ MODULE_DESCRIPTION("BCM63xx USB Peripheral Controller");
 MODULE_AUTHOR("Kevin Cernekee <cernekee@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_MODULE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

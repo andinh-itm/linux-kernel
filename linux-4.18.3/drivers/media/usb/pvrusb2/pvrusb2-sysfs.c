@@ -843,3 +843,4 @@ static ssize_t debugcmd_store(struct device *class_dev,
 	return count;
 }
 #endif /* CONFIG_VIDEO_PVRUSB2_DEBUGIFC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

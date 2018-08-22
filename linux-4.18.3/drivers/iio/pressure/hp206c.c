@@ -424,3 +424,4 @@ module_i2c_driver(hp206c_driver);
 MODULE_DESCRIPTION("HOPERF HP206C precision barometer and altimeter sensor");
 MODULE_AUTHOR("Leonard Crestez <leonard.crestez@intel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

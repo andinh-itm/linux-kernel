@@ -230,3 +230,4 @@ MODULE_AUTHOR("Denis Turischev <denis@compulab.co.il>");
 MODULE_DESCRIPTION("GPIO interface for Intel Poulsbo SCH");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sch_gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1366,3 +1366,4 @@ module_platform_driver(gsc_driver);
 MODULE_AUTHOR("Hyunwong Kim <khw0178.kim@samsung.com>");
 MODULE_DESCRIPTION("Samsung EXYNOS5 Soc series G-Scaler driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

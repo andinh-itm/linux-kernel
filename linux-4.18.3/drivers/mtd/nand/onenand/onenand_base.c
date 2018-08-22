@@ -4014,3 +4014,4 @@ EXPORT_SYMBOL_GPL(onenand_release);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kyungmin Park <kyungmin.park@samsung.com>");
 MODULE_DESCRIPTION("Generic OneNAND flash driver code");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

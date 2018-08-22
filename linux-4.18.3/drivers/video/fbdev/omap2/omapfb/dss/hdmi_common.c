@@ -147,3 +147,4 @@ int hdmi_compute_acr(u32 pclk, u32 sample_freq, u32 *n, u32 *cts)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

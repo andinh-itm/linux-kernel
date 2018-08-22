@@ -163,3 +163,4 @@ static int __init rtc_MK48T08_init(void)
 	return misc_register(&rtc_dev);
 }
 device_initcall(rtc_MK48T08_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

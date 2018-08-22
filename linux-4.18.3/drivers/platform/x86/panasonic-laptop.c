@@ -653,3 +653,4 @@ static int acpi_pcc_hotkey_remove(struct acpi_device *device)
 }
 
 module_acpi_driver(acpi_pcc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -55,3 +55,4 @@ void jazz_machine_restart(char *command)
 		jazz_write_output(0x00);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

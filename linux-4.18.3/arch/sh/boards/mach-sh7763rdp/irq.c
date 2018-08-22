@@ -43,3 +43,4 @@ void __init init_sh7763rdp_IRQ(void)
 	/* DMAC enabled */
 	__raw_writel(1 << 8, INTC_INT2MSKCR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

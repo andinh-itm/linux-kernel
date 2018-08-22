@@ -38,3 +38,4 @@ static int __init dummy_timer_register(void)
 				 dummy_timer_starting_cpu, NULL);
 }
 early_initcall(dummy_timer_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

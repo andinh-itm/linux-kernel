@@ -980,3 +980,4 @@ bool dim_detach_buffers(struct dim_channel *ch, u16 buffers_number)
 
 	return channel_detach_buffers(ch, buffers_number);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

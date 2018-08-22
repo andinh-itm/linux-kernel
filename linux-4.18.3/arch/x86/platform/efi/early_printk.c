@@ -234,3 +234,4 @@ struct console early_efi_console = {
 	.flags =	CON_PRINTBUFFER,
 	.index =	-1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

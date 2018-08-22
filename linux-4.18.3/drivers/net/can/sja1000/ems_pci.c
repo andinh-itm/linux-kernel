@@ -370,3 +370,4 @@ static struct pci_driver ems_pci_driver = {
 };
 
 module_pci_driver(ems_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

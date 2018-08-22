@@ -172,3 +172,4 @@ MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_DESCRIPTION("GPIO-based Backlight Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:gpio-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

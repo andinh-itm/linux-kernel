@@ -182,3 +182,4 @@ module_platform_driver(zx_irdec_driver);
 MODULE_DESCRIPTION("ZTE ZX IR remote control driver");
 MODULE_AUTHOR("Shawn Guo <shawn.guo@linaro.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2563,3 +2563,4 @@ module_exit(edma_exit);
 MODULE_AUTHOR("Matt Porter <matt.porter@linaro.org>");
 MODULE_DESCRIPTION("TI EDMA DMA engine driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

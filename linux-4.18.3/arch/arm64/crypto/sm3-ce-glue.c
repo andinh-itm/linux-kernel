@@ -90,3 +90,4 @@ static void __exit sm3_ce_mod_fini(void)
 
 module_cpu_feature_match(SM3, sm3_ce_mod_init);
 module_exit(sm3_ce_mod_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

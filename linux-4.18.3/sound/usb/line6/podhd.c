@@ -508,3 +508,4 @@ module_usb_driver(podhd_driver);
 
 MODULE_DESCRIPTION("Line 6 PODHD USB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

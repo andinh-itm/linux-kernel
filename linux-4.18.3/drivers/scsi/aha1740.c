@@ -675,3 +675,4 @@ module_init (aha1740_init);
 module_exit (aha1740_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

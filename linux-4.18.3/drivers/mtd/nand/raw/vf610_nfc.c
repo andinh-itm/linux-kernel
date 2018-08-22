@@ -960,3 +960,4 @@ module_platform_driver(vf610_nfc_driver);
 MODULE_AUTHOR("Stefan Agner <stefan.agner@toradex.com>");
 MODULE_DESCRIPTION("Freescale VF610/MPC5125 NFC MTD NAND driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -937,3 +937,4 @@ void __init xenbus_ring_ops_init(void)
 #endif
 		ring_ops = &ring_ops_hvm;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

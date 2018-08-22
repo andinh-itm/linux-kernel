@@ -2129,3 +2129,4 @@ const struct sh_pfc_soc_info sh7264_pinmux_info = {
 	.pinmux_data = pinmux_data,
 	.pinmux_data_size = ARRAY_SIZE(pinmux_data),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

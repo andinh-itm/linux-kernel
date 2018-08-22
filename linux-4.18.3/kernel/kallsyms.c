@@ -685,3 +685,4 @@ static int __init kallsyms_init(void)
 	return 0;
 }
 device_initcall(kallsyms_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

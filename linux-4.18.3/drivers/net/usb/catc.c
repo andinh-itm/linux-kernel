@@ -977,3 +977,4 @@ static struct usb_driver catc_driver = {
 };
 
 module_usb_driver(catc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

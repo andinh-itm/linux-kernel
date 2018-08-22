@@ -274,3 +274,4 @@ void tse_pcs_fix_mac_speed(struct tse_pcs *pcs, struct phy_device *phy_dev,
 			  msecs_to_jiffies(AUTONEGO_LINK_TIMER));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

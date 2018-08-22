@@ -273,3 +273,4 @@ void set_mmu_pid(unsigned long pid)
 	WRCTL(CTL_TLBMISC, (RDCTL(CTL_TLBMISC) & TLBMISC_WAY) |
 		((pid & TLBMISC_PID_MASK) << TLBMISC_PID_SHIFT));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

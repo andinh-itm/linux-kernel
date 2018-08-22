@@ -3956,3 +3956,4 @@ static int snd_trident_resume(struct device *dev)
 
 SIMPLE_DEV_PM_OPS(snd_trident_pm, snd_trident_suspend, snd_trident_resume);
 #endif /* CONFIG_PM_SLEEP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1007,3 +1007,4 @@ bool cpus_are_stuck_in_kernel(void)
 
 	return !!cpus_stuck_in_kernel || smp_spin_tables;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

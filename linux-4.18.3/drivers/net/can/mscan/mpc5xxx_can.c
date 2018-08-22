@@ -461,3 +461,4 @@ module_platform_driver(mpc5xxx_can_driver);
 MODULE_AUTHOR("Wolfgang Grandegger <wg@grandegger.com>");
 MODULE_DESCRIPTION("Freescale MPC5xxx CAN driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

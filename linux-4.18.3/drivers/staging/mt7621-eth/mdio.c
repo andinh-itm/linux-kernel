@@ -273,3 +273,4 @@ void mtk_mdio_cleanup(struct mtk_eth *eth)
 	of_node_put(eth->mii_bus->dev.of_node);
 	kfree(eth->mii_bus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

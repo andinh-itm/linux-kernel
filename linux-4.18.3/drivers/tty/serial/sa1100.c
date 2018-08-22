@@ -917,3 +917,4 @@ MODULE_DESCRIPTION("SA1100 generic serial port driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_CHARDEV_MAJOR(SERIAL_SA1100_MAJOR);
 MODULE_ALIAS("platform:sa11x0-uart");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

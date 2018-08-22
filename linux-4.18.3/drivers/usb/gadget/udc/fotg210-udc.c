@@ -1209,3 +1209,4 @@ module_platform_driver(fotg210_driver);
 MODULE_AUTHOR("Yuan-Hsin Chen, Feng-Hsin Chiang <john453@faraday-tech.com>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

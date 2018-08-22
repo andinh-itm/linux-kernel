@@ -208,3 +208,4 @@ int emac_sgmii_init_qdf2432(struct emac_adapter *adpt)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -507,3 +507,4 @@ static int __init s5p_pwm_clocksource_init(struct device_node *np)
 }
 TIMER_OF_DECLARE(s5pc100_pwm, "samsung,s5pc100-pwm", s5p_pwm_clocksource_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

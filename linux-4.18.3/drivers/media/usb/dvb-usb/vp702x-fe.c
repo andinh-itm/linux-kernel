@@ -380,3 +380,4 @@ static const struct dvb_frontend_ops vp702x_fe_ops = {
 	.set_tone = vp702x_fe_set_tone,
 	.set_voltage = vp702x_fe_set_voltage,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

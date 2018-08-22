@@ -193,3 +193,4 @@ void dev_pm_domain_set(struct device *dev, struct dev_pm_domain *pd)
 	device_pm_check_callbacks(dev);
 }
 EXPORT_SYMBOL_GPL(dev_pm_domain_set);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

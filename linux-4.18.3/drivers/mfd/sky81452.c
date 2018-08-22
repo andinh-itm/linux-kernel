@@ -100,3 +100,4 @@ module_i2c_driver(sky81452_driver);
 MODULE_DESCRIPTION("Skyworks SKY81452 MFD driver");
 MODULE_AUTHOR("Gyungoh Yoo <jack.yoo@skyworksinc.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

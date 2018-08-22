@@ -487,3 +487,4 @@ void exynos3250_jpeg_clear_timer_status(void __iomem *regs)
 {
 	writel(EXYNOS3250_TIMER_INT_STAT, regs + EXYNOS3250_TIMER_ST);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

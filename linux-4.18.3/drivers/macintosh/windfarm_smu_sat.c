@@ -368,3 +368,4 @@ module_i2c_driver(wf_sat_driver);
 MODULE_AUTHOR("Paul Mackerras <paulus@samba.org>");
 MODULE_DESCRIPTION("SMU satellite sensors for PowerMac thermal control");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

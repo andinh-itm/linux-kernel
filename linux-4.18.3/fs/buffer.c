@@ -3447,3 +3447,4 @@ void __init buffer_init(void)
 					NULL, buffer_exit_cpu_dead);
 	WARN_ON(ret < 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

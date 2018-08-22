@@ -147,3 +147,4 @@ DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_NETLOGIC, PCI_DEVICE_ID_NLM_EHCI,
 		nlm_usb_fixup_final);
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_NETLOGIC, PCI_DEVICE_ID_NLM_OHCI,
 		nlm_usb_fixup_final);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

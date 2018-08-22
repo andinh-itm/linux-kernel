@@ -189,3 +189,4 @@ int __init amx3_common_pm_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

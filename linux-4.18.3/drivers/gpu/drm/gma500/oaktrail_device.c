@@ -575,3 +575,4 @@ const struct psb_ops oaktrail_chip_ops = {
 
 	.i2c_bus = 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

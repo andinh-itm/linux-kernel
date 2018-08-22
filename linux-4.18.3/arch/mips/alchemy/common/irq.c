@@ -994,3 +994,4 @@ asmlinkage void plat_irq_dispatch(void)
 	unsigned long r = (read_c0_status() & read_c0_cause()) >> 8;
 	do_IRQ(MIPS_CPU_IRQ_BASE + __ffs(r & 0xff));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

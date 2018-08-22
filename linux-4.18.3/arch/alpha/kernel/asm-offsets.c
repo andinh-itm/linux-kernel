@@ -42,3 +42,4 @@ void foo(void)
 	DEFINE(HAE_CACHE, offsetof(struct alpha_machine_vector, hae_cache));
 	DEFINE(HAE_REG, offsetof(struct alpha_machine_vector, hae_register));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

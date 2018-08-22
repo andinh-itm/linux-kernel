@@ -324,3 +324,4 @@ int __init omap4_idle_init(void)
 
 	return cpuidle_register(idle_driver, cpu_online_mask);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

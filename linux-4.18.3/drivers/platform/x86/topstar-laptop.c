@@ -398,3 +398,4 @@ MODULE_AUTHOR("Herton Ronaldo Krzesinski");
 MODULE_AUTHOR("Guillaume Douézan-Grard");
 MODULE_DESCRIPTION("Topstar Laptop ACPI Extras driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

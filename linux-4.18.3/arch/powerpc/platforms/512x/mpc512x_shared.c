@@ -508,3 +508,4 @@ int mpc512x_cs_config(unsigned int cs, u32 val)
 	return 0;
 }
 EXPORT_SYMBOL(mpc512x_cs_config);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

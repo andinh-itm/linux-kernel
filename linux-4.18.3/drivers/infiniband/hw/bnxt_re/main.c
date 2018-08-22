@@ -1657,3 +1657,4 @@ static void __exit bnxt_re_mod_exit(void)
 
 module_init(bnxt_re_mod_init);
 module_exit(bnxt_re_mod_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

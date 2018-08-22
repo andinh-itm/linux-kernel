@@ -255,3 +255,4 @@ module_platform_driver(rockchip_dfi_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Lin Huang <hl@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip DFI driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

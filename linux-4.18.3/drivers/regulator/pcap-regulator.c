@@ -279,3 +279,4 @@ module_exit(pcap_regulator_exit);
 MODULE_AUTHOR("Daniel Ribeiro <drwyrm@gmail.com>");
 MODULE_DESCRIPTION("PCAP2 Regulator Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -368,3 +368,4 @@ int sti_crtc_init(struct drm_device *drm_dev, struct sti_mixer *mixer,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -50,3 +50,4 @@ static const struct smp_operations tango_smp_ops __initconst = {
 };
 
 CPU_METHOD_OF_DECLARE(tango4_smp, "sigma,tango4-smp", &tango_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

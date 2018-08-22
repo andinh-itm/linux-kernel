@@ -1071,3 +1071,4 @@ int vmw_shader_define_ioctl(struct drm_device *dev, void *data,
 				 0, 0,
 				 &arg->shader_handle);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

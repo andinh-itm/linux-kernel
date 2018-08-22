@@ -49,3 +49,4 @@ struct platform_device __init __maybe_unused *imx_add_imx_sdma(char *name,
 	return platform_device_register_resndata(&mxc_ahb_bus, name,
 			-1, res, ARRAY_SIZE(res), pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

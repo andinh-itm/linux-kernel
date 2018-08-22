@@ -137,3 +137,4 @@ bool acpi_device_always_present(struct acpi_device *adev)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

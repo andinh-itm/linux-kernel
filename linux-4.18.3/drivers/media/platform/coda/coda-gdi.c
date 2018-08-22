@@ -148,3 +148,4 @@ void coda_set_gdi_regs(struct coda_ctx *ctx)
 					CODA9_GDI_RBC2_AXI_0 + 4 * i);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

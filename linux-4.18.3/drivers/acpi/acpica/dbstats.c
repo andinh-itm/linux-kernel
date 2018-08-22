@@ -509,3 +509,4 @@ acpi_status acpi_db_display_statistics(char *type_arg)
 	acpi_os_printf("\n");
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

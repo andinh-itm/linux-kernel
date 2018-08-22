@@ -127,3 +127,4 @@ tape_proc_cleanup(void)
 	if (tape_proc_devices != NULL)
 		remove_proc_entry ("tapedevices", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

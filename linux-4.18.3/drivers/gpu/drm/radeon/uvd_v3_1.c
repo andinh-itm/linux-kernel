@@ -55,3 +55,4 @@ bool uvd_v3_1_semaphore_emit(struct radeon_device *rdev,
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

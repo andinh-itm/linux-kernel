@@ -507,3 +507,4 @@ static void __exit bcma_hcd_exit(void)
 	bcma_driver_unregister(&bcma_hcd_driver);
 }
 module_exit(bcma_hcd_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

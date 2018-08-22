@@ -783,3 +783,4 @@ static int pdc2027x_reinit_one(struct pci_dev *pdev)
 #endif
 
 module_pci_driver(pdc2027x_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

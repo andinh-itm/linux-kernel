@@ -120,3 +120,4 @@ mpc86xx_smp_init(void)
 {
 	smp_ops = &smp_86xx_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

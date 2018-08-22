@@ -906,3 +906,4 @@ module_i2c_driver(tsl2563_i2c_driver);
 MODULE_AUTHOR("Nokia Corporation");
 MODULE_DESCRIPTION("tsl2563 light sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

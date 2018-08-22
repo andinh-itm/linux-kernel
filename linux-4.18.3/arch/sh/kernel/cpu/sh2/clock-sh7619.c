@@ -75,3 +75,4 @@ void __init arch_init_clk_ops(struct sh_clk_ops **ops, int idx)
 	if (idx < ARRAY_SIZE(sh7619_clk_ops))
 		*ops = sh7619_clk_ops[idx];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

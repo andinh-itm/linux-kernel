@@ -131,3 +131,4 @@ void sh03_time_init(void)
 	rtc_sh_get_time = sh03_rtc_gettimeofday;
 	rtc_sh_set_time = sh03_rtc_settimeofday;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

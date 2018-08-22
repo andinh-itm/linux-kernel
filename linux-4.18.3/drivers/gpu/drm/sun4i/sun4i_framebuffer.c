@@ -64,3 +64,4 @@ void sun4i_framebuffer_free(struct drm_device *drm)
 {
 	drm_fb_cma_fbdev_fini(drm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

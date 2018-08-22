@@ -1479,3 +1479,4 @@ void *nfp_cpp_explicit_priv(struct nfp_cpp_explicit *cpp_explicit)
 {
 	return &cpp_explicit[1];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

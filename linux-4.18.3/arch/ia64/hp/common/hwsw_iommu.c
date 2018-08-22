@@ -58,3 +58,4 @@ hwsw_init (void)
 #endif
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

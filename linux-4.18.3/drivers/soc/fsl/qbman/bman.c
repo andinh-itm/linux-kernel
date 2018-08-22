@@ -819,3 +819,4 @@ bman_get_bm_portal_config(const struct bman_portal *portal)
 {
 	return portal->config;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

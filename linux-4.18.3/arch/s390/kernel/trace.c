@@ -31,3 +31,4 @@ void trace_s390_diagnose_norecursion(int diag_nr)
 	}
 	local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

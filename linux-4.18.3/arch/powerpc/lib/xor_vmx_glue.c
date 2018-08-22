@@ -61,3 +61,4 @@ void xor_altivec_5(unsigned long bytes,  unsigned long *v1_in,
 	preempt_enable();
 }
 EXPORT_SYMBOL(xor_altivec_5);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

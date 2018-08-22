@@ -170,3 +170,4 @@ void r8712_report_sec_ie(struct _adapter *adapter, u8 authmode, u8 *sec_ie)
 		kfree(buff);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

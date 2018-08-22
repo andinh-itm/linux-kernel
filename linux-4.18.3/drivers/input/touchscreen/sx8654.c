@@ -283,3 +283,4 @@ module_i2c_driver(sx8654_driver);
 MODULE_AUTHOR("Sébastien Szymanski <sebastien.szymanski@armadeus.com>");
 MODULE_DESCRIPTION("Semtech SX8654 I2C Touchscreen Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

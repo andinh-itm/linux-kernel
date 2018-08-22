@@ -530,3 +530,4 @@ static void __exit intel_menlow_module_exit(void)
 
 module_init(intel_menlow_module_init);
 module_exit(intel_menlow_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

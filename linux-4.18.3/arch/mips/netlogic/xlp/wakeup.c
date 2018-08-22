@@ -210,3 +210,4 @@ void xlp_wakeup_secondary_cpus(void)
 	/* now get other cores out of reset */
 	xlp_enable_secondary_cores(&nlm_cpumask);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

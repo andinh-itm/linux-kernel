@@ -139,3 +139,4 @@ void acpi_ut_release_write_lock(struct acpi_rw_lock *lock)
 
 	acpi_os_release_mutex(lock->writer_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

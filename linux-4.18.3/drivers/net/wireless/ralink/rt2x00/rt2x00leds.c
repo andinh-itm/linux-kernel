@@ -242,3 +242,4 @@ void rt2x00leds_resume(struct rt2x00_dev *rt2x00dev)
 	if (rt2x00dev->led_qual.flags & LED_REGISTERED)
 		rt2x00leds_resume_led(&rt2x00dev->led_qual);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

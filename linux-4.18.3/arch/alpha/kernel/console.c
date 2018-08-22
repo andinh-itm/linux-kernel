@@ -93,3 +93,4 @@ find_console_vga_hose(void)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

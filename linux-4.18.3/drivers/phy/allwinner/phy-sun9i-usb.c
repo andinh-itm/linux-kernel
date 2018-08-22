@@ -200,3 +200,4 @@ module_platform_driver(sun9i_usb_phy_driver);
 MODULE_DESCRIPTION("Allwinner sun9i USB phy driver");
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

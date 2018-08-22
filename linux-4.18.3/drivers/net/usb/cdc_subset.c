@@ -367,3 +367,4 @@ module_usb_driver(cdc_subset_driver);
 MODULE_AUTHOR("David Brownell");
 MODULE_DESCRIPTION("Simple 'CDC Subset' USB networking links");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

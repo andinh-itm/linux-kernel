@@ -79,3 +79,4 @@ static struct smp_operations npcm7xx_smp_ops __initdata = {
 };
 
 CPU_METHOD_OF_DECLARE(npcm7xx_smp, "nuvoton,npcm750-smp", &npcm7xx_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

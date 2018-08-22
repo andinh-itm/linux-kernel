@@ -190,3 +190,4 @@ static struct platform_driver ehci_hcd_sh_driver = {
 };
 
 MODULE_ALIAS("platform:sh_ehci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

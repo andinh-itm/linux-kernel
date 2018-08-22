@@ -706,3 +706,4 @@ static int __init omap_pm_init(void)
 	return error;
 }
 __initcall(omap_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

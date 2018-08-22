@@ -607,3 +607,4 @@ module_exit(axmclk_exit);
 MODULE_DESCRIPTION("AXM5516 clock driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:clk-axm5516");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

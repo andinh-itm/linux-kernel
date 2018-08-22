@@ -209,3 +209,4 @@ MODULE_DESCRIPTION("Backlight Driver for Maxim MAX8925");
 MODULE_AUTHOR("Haojian Zhuang <haojian.zhuang@marvell.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:max8925-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

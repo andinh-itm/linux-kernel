@@ -307,3 +307,4 @@ static void __init hi6220_clk_acpu_init(struct device_node *np)
 }
 
 CLK_OF_DECLARE(hi6220_clk_acpu, "hisilicon,hi6220-acpu-sctrl", hi6220_clk_acpu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

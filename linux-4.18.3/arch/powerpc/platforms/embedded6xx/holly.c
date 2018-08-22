@@ -281,3 +281,4 @@ define_machine(holly){
 	.machine_check_exception	= ppc750_machine_check_exception,
 	.progress               	= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

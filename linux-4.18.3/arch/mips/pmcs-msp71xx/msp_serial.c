@@ -152,3 +152,4 @@ void __init msp_serial_setup(void)
 		pr_err("Early serial init of port 1 failed\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -83,3 +83,4 @@ int nci_to_errno(__u8 code)
 	}
 }
 EXPORT_SYMBOL(nci_to_errno);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

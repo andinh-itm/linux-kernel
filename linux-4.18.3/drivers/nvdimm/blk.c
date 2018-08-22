@@ -349,3 +349,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_ALIAS_ND_DEVICE(ND_DEVICE_NAMESPACE_BLK);
 module_init(nd_blk_init);
 module_exit(nd_blk_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

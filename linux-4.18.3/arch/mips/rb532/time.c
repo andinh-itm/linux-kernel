@@ -64,3 +64,4 @@ void __init plat_time_init(void)
 	       (est_freq % 1000000) * 100 / 1000000);
 	local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

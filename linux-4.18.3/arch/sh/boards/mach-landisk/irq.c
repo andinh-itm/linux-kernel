@@ -64,3 +64,4 @@ void __init init_landisk_IRQ(void)
 	register_intc_controller(&intc_desc_landisk);
 	__raw_writeb(0x00, PA_PWRINT_CLR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

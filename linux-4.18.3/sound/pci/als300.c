@@ -814,3 +814,4 @@ static struct pci_driver als300_driver = {
 };
 
 module_pci_driver(als300_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

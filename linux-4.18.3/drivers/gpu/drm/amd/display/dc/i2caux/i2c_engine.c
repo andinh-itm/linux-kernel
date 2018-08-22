@@ -116,3 +116,4 @@ void dal_i2c_engine_destruct(
 {
 	dal_i2caux_destruct_engine(&engine->base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

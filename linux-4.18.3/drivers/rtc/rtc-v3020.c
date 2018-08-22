@@ -372,3 +372,4 @@ MODULE_DESCRIPTION("V3020 RTC");
 MODULE_AUTHOR("Raphael Assenat");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:v3020");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -604,3 +604,4 @@ MODULE_LICENSE("GPL");
  * They are loaded in late_initcall. */
 device_initcall(xen_acpi_processor_init);
 module_exit(xen_acpi_processor_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

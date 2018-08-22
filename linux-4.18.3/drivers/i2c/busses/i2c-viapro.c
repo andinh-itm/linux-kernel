@@ -505,3 +505,4 @@ MODULE_LICENSE("GPL");
 
 module_init(i2c_vt596_init);
 module_exit(i2c_vt596_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3546,3 +3546,4 @@ module_init(nfit_init);
 module_exit(nfit_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Intel Corporation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

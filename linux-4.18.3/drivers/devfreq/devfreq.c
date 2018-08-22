@@ -1533,3 +1533,4 @@ void devm_devfreq_unregister_notifier(struct device *dev,
 			       devm_devfreq_dev_match, devfreq));
 }
 EXPORT_SYMBOL(devm_devfreq_unregister_notifier);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

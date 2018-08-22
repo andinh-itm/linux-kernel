@@ -759,3 +759,4 @@ static int snd_aw2_control_switch_capture_put(struct snd_kcontrol *kcontrol,
 	}
 	return changed;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

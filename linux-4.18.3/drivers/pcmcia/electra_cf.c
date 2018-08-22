@@ -376,3 +376,4 @@ module_platform_driver(electra_cf_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Olof Johansson <olof@lixom.net>");
 MODULE_DESCRIPTION("PA Semi Electra CF driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

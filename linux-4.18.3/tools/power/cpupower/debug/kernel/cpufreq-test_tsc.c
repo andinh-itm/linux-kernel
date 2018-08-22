@@ -108,3 +108,4 @@ module_exit(cpufreq_none)
 MODULE_AUTHOR("Dominik Brodowski");
 MODULE_DESCRIPTION("Verify the TSC cpufreq notifier working correctly -- needs ACPI-enabled system");
 MODULE_LICENSE ("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

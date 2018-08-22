@@ -464,3 +464,4 @@ module_platform_driver(lcc_ipq806x_driver);
 MODULE_DESCRIPTION("QCOM LCC IPQ806x Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:lcc-ipq806x");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -424,3 +424,4 @@ EXPORT_SYMBOL(soc_camera_calc_client_output);
 MODULE_DESCRIPTION("soc-camera scaling-cropping functions");
 MODULE_AUTHOR("Guennadi Liakhovetski <kernel@pengutronix.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

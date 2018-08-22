@@ -54,3 +54,4 @@ void mips_scroll_message(void)
 	max_display_count = strlen(display_string) + 1 - 8;
 	mod_timer(&mips_scroll_timer, jiffies + 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

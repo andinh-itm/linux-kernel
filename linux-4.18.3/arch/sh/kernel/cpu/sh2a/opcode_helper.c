@@ -52,3 +52,4 @@ unsigned int instruction_size(unsigned int insn)
 
 	return 2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

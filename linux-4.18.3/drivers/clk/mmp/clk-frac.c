@@ -195,3 +195,4 @@ struct clk *mmp_clk_register_factor(const char *name, const char *parent_name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

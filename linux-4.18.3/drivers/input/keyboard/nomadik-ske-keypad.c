@@ -436,3 +436,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Naveen Kumar <naveen.gaddipati@stericsson.com> / Sundar Iyer <sundar.iyer@stericsson.com>");
 MODULE_DESCRIPTION("Nomadik Scroll-Key-Encoder Keypad Driver");
 MODULE_ALIAS("platform:nomadik-ske-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

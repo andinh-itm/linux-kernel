@@ -330,3 +330,4 @@ module_comedi_driver(multiq3_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for Quanser Consulting MultiQ-3 board");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

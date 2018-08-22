@@ -1080,3 +1080,4 @@ static int __init asic3_init(void)
 }
 
 subsys_initcall(asic3_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

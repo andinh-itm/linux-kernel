@@ -104,3 +104,4 @@ void msp_slp_irq_dispatch(void)
 	/* dispatch the irq */
 	do_IRQ(ffs(pending) + intbase - 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

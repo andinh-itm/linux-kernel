@@ -192,3 +192,4 @@ define_machine(mpc7448_hpc2){
 	.machine_check_exception= mpc7448_machine_check_exception,
 	.progress 		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

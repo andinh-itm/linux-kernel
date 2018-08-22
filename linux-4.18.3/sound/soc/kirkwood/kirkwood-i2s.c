@@ -651,3 +651,4 @@ MODULE_AUTHOR("Arnaud Patard, <arnaud.patard@rtp-net.org>");
 MODULE_DESCRIPTION("Kirkwood I2S SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mvebu-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

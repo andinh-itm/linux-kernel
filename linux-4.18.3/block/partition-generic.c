@@ -668,3 +668,4 @@ fail:
 }
 
 EXPORT_SYMBOL(read_dev_sector);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

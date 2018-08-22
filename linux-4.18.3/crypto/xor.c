@@ -161,3 +161,4 @@ MODULE_LICENSE("GPL");
 /* when built-in xor.o must initialize before drivers/md/md.o */
 core_initcall(calibrate_xor_blocks);
 module_exit(xor_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

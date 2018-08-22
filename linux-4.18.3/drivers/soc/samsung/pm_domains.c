@@ -166,3 +166,4 @@ static __init int exynos4_pm_init_power_domain(void)
 	return 0;
 }
 core_initcall(exynos4_pm_init_power_domain);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

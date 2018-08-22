@@ -485,3 +485,4 @@ static struct platform_driver wmt_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(wmt_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

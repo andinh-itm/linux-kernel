@@ -171,3 +171,4 @@ create_pdev:
 			       sizeof(struct cpufreq_dt_platform_data)));
 }
 device_initcall(cpufreq_dt_platdev_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

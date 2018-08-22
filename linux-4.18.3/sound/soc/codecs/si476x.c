@@ -271,3 +271,4 @@ module_platform_driver(si476x_platform_driver);
 MODULE_AUTHOR("Andrey Smirnov <andrew.smirnov@gmail.com>");
 MODULE_DESCRIPTION("ASoC Si4761/64 codec driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

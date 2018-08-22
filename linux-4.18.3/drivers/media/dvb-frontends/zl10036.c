@@ -512,3 +512,4 @@ MODULE_DESCRIPTION("DVB ZL10036 driver");
 MODULE_AUTHOR("Tino Reichardt");
 MODULE_AUTHOR("Matthias Schwarzott");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

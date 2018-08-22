@@ -216,3 +216,4 @@ static struct pcmcia_driver elsa_cs_driver = {
 	.resume		= elsa_resume,
 };
 module_pcmcia_driver(elsa_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

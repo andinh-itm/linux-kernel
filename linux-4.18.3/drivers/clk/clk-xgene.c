@@ -760,3 +760,4 @@ CLK_OF_DECLARE(xgene_socpll_v2_clock, "apm,xgene-socpll-v2-clock",
 CLK_OF_DECLARE(xgene_pcppll_v2_clock, "apm,xgene-pcppll-v2-clock",
 	       xgene_pcppllclk_init);
 CLK_OF_DECLARE(xgene_dev_clock, "apm,xgene-device-clock", xgene_devclk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

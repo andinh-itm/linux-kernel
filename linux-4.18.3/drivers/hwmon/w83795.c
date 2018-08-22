@@ -2283,3 +2283,4 @@ module_i2c_driver(w83795_driver);
 MODULE_AUTHOR("Wei Song, Jean Delvare <jdelvare@suse.de>");
 MODULE_DESCRIPTION("W83795G/ADG hardware monitoring driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

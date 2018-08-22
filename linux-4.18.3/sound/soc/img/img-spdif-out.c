@@ -486,3 +486,4 @@ module_platform_driver(img_spdif_out_driver);
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_DESCRIPTION("IMG SPDIF Output driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -750,3 +750,4 @@ module_i2c_driver(mlx90632_driver);
 MODULE_AUTHOR("Crt Mori <cmo@melexis.com>");
 MODULE_DESCRIPTION("Melexis MLX90632 contactless Infra Red temperature sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -949,3 +949,4 @@ void dss_features_init(enum omapdss_version version)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

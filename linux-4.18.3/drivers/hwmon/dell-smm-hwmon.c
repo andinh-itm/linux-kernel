@@ -1194,3 +1194,4 @@ static void __exit i8k_exit(void)
 
 module_init(i8k_init);
 module_exit(i8k_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -79,3 +79,4 @@ int mpc885_fixup_clocks(u32 crystal)
 	mpc8xx_set_clocks(sysclk);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

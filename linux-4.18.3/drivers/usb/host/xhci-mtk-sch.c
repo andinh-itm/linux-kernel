@@ -415,3 +415,4 @@ void xhci_mtk_drop_ep_quirk(struct usb_hcd *hcd, struct usb_device *udev,
 	}
 }
 EXPORT_SYMBOL_GPL(xhci_mtk_drop_ep_quirk);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -67,3 +67,4 @@ static size_t syscall_arg__scnprintf_mode_t(char *bf, size_t size, struct syscal
 }
 
 #define SCA_MODE_T syscall_arg__scnprintf_mode_t
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

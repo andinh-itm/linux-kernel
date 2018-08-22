@@ -833,3 +833,4 @@ static void xdi_xlog_ind(byte Adapter,
 	xdi_xlog((byte *)&LogInfo[0], 222, sizeof(LogInfo));
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

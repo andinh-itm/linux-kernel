@@ -728,3 +728,4 @@ module_i2c_driver(bu21013_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Naveen Kumar G <naveen.gaddipati@stericsson.com>");
 MODULE_DESCRIPTION("bu21013 touch screen controller driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -347,3 +347,4 @@ module_usb_driver(lg_vl600_driver);
 MODULE_AUTHOR("Anrzej Zaborowski");
 MODULE_DESCRIPTION("LG-VL600 modem's ethernet link");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

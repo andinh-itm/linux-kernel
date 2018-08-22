@@ -155,3 +155,4 @@ void vivid_rds_gen_fill(struct vivid_rds_gen *rds, unsigned freq,
 			"An example of Radio Text as transmitted by the Radio Data System",
 			sizeof(rds->radiotext));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

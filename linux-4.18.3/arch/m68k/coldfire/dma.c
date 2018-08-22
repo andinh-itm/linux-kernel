@@ -41,3 +41,4 @@ unsigned int dma_device_address[MAX_M68K_DMA_CHANNELS];
 EXPORT_SYMBOL(dma_device_address);
 
 /***************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

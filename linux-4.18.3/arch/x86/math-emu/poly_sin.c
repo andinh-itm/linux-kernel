@@ -377,3 +377,4 @@ void poly_cos(FPU_REG *st0_ptr)
 #endif /* PARANOID */
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

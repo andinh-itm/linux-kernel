@@ -360,3 +360,4 @@ int __init da8xx_register_usb11_phy_clk(bool use_usb_refclkin)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

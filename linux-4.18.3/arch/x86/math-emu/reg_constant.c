@@ -116,3 +116,4 @@ void fconst(void)
 {
 	(constants_table[FPU_rm]) (control_word & CW_RC);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -289,3 +289,4 @@ MODULE_DESCRIPTION("TI LM363X Regulator Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:lm363x-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

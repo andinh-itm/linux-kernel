@@ -122,3 +122,4 @@ static int __init uclinux_mtd_init(void)
 device_initcall(uclinux_mtd_init);
 
 /****************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

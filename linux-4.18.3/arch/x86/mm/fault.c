@@ -1472,3 +1472,4 @@ do_page_fault(struct pt_regs *regs, unsigned long error_code)
 	exception_exit(prev_state);
 }
 NOKPROBE_SYMBOL(do_page_fault);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

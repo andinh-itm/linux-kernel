@@ -52,3 +52,4 @@ ti_type notrace __multi3(ti_type a, ti_type b)
 EXPORT_SYMBOL(__multi3);
 
 #endif /* 64BIT && CPU_MIPSR6 && GCC7 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

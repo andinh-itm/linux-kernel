@@ -281,3 +281,4 @@ int __init mips_cpu_irq_of_init(struct device_node *of_node,
 	return 0;
 }
 IRQCHIP_DECLARE(cpu_intc, "mti,cpu-interrupt-controller", mips_cpu_irq_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

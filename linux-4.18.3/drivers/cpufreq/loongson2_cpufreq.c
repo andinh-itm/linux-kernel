@@ -194,3 +194,4 @@ MODULE_PARM_DESC(nowait, "Disable Loongson-2F specific wait");
 MODULE_AUTHOR("Yanhua <yanh@lemote.com>");
 MODULE_DESCRIPTION("cpufreq driver for Loongson2F");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

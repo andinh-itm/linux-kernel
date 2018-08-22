@@ -60,3 +60,4 @@ __ashrdi3 (DItype u, word_type b)
   return w.ll;
 }
 EXPORT_SYMBOL(__ashrdi3);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

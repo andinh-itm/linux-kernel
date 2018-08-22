@@ -68,3 +68,4 @@ const struct ethtool_ops mwifiex_ethtool_ops = {
 	.get_wol = mwifiex_ethtool_get_wol,
 	.set_wol = mwifiex_ethtool_set_wol,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

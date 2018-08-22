@@ -64,3 +64,4 @@ static struct platform_driver sc27xx_poweroff_driver = {
 	},
 };
 builtin_platform_driver(sc27xx_poweroff_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

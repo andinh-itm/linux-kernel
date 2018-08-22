@@ -93,3 +93,4 @@ prom_getprev(void)
 {
 	return prom_prev;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

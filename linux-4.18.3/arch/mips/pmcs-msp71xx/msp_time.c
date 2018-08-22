@@ -98,3 +98,4 @@ unsigned int get_c0_compare_int(void)
 
 	return get_current_vpe() ? MSP_INT_VPE1_TIMER : MSP_INT_VPE0_TIMER;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

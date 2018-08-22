@@ -32,3 +32,4 @@ __visible const sys_call_ptr_t ia32_sys_call_table[__NR_syscall_compat_max+1] = 
 	[0 ... __NR_syscall_compat_max] = &sys_ni_syscall,
 #include <asm/syscalls_32.h>
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -80,3 +80,4 @@ const struct inode_operations qnx4_dir_inode_operations =
 {
 	.lookup		= qnx4_lookup,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

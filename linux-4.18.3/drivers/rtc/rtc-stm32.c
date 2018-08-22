@@ -930,3 +930,4 @@ MODULE_ALIAS("platform:" DRIVER_NAME);
 MODULE_AUTHOR("Amelie Delaunay <amelie.delaunay@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 Real Time Clock driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

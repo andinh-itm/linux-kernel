@@ -149,3 +149,4 @@ struct clk *mmp_clk_register_apbc(const char *name, const char *parent_name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

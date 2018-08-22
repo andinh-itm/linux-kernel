@@ -539,3 +539,4 @@ void mt7601u_mcu_cmd_deinit(struct mt7601u_dev *dev)
 	usb_kill_urb(dev->mcu.resp.urb);
 	mt7601u_usb_free_buf(dev, &dev->mcu.resp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

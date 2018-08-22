@@ -22,3 +22,4 @@ void perf_gtk__exit(bool wait_for_ok __maybe_unused)
 	perf_error__unregister(&perf_gtk_eops);
 	gtk_main_quit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

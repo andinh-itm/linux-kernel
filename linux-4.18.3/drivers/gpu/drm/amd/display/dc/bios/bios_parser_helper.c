@@ -88,3 +88,4 @@ uint32_t bios_get_vga_enabled_displays(
 	return active_disp;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

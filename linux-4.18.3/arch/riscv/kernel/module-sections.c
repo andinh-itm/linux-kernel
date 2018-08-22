@@ -154,3 +154,4 @@ int module_frob_arch_sections(Elf_Ehdr *ehdr, Elf_Shdr *sechdrs,
 	mod->arch.got_plt.max_entries = num_plts;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1094,3 +1094,4 @@ acpi_db_display_non_root_handlers(acpi_handle obj_handle,
 	ACPI_FREE(pathname);
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

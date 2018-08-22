@@ -38,3 +38,4 @@ static int __init alsa_sound_last_init(void)
 }
 
 late_initcall_sync(alsa_sound_last_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

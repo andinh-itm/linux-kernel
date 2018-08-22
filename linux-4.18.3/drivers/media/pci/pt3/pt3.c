@@ -840,3 +840,4 @@ module_pci_driver(pt3_driver);
 MODULE_DESCRIPTION("Earthsoft PT3 Driver");
 MODULE_AUTHOR("Akihiro TSUKADA");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

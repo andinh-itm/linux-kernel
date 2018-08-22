@@ -147,3 +147,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Moritz Fischer <moritz.fischer@ettus.com>");
 MODULE_DESCRIPTION("NI Ettus Research USRP E3x0 Button driver");
 MODULE_ALIAS("platform:e3x0-button");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

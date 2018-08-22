@@ -242,3 +242,4 @@ module_exit(cmx270_cleanup);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mike Rapoport <mike@compulab.co.il>");
 MODULE_DESCRIPTION("NAND flash driver for Compulab CM-X270 Module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

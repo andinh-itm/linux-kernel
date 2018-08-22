@@ -664,3 +664,4 @@ MODULE_AUTHOR("Bjorn Andersson <bjorn.andersson@sonymobile.com>");
 MODULE_DESCRIPTION("Qualcomm APQ8064 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, apq8064_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

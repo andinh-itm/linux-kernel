@@ -1288,3 +1288,4 @@ static int __init sh7724_sleep_setup(void)
 }
 arch_initcall(sh7724_sleep_setup);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

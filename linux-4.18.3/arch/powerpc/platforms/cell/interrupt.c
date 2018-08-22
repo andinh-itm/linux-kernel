@@ -404,3 +404,4 @@ void iic_set_interrupt_routing(int cpu, int thread, int priority)
 		iic_ir |= CBE_IIC_IR_DEST_UNIT(CBE_IIC_IR_PT_1);
 	out_be64(&iic_regs->iic_ir, iic_ir);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

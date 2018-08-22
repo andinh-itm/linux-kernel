@@ -77,3 +77,4 @@ PROG(SYS__NR_mmap)(struct pt_regs *ctx)
 
 char _license[] SEC("license") = "GPL";
 u32 _version SEC("version") = LINUX_VERSION_CODE;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

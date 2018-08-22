@@ -161,3 +161,4 @@ bool interrupt_is_wanted(struct kfd_dev *dev, const uint32_t *ih_ring_entry)
 
 	return wanted != 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

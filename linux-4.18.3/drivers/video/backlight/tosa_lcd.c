@@ -275,3 +275,4 @@ MODULE_AUTHOR("Dmitry Baryshkov");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("LCD/Backlight control for Sharp SL-6000 PDA");
 MODULE_ALIAS("spi:tosa-lcd");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -122,3 +122,4 @@ int mantis_stream_control(struct mantis_pci *mantis, enum mantis_stream_control 
 	return 0;
 }
 EXPORT_SYMBOL_GPL(mantis_stream_control);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

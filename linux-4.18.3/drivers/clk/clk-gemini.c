@@ -461,3 +461,4 @@ static void __init gemini_cc_init(struct device_node *np)
 	of_clk_add_hw_provider(np, of_clk_hw_onecell_get, gemini_clk_data);
 }
 CLK_OF_DECLARE_DRIVER(gemini_cc, "cortina,gemini-syscon", gemini_cc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

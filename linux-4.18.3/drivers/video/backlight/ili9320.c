@@ -301,3 +301,4 @@ EXPORT_SYMBOL_GPL(ili9320_shutdown);
 MODULE_AUTHOR("Ben Dooks <ben-linux@fluff.org>");
 MODULE_DESCRIPTION("ILI9320 LCD Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

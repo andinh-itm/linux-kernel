@@ -1357,3 +1357,4 @@ static void __init tegra30_clock_init(struct device_node *np)
 	tegra_cpu_car_ops = &tegra30_cpu_car_ops;
 }
 CLK_OF_DECLARE(tegra30, "nvidia,tegra30-car", tegra30_clock_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

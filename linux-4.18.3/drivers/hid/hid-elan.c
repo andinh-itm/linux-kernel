@@ -419,3 +419,4 @@ module_hid_driver(elan_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexandrov Stanislav");
 MODULE_DESCRIPTION("Driver for HID ELAN Touchpads");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

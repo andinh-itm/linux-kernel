@@ -1408,3 +1408,4 @@ struct platform_driver gsc_driver = {
 		.of_match_table = of_match_ptr(exynos_drm_gsc_of_match),
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

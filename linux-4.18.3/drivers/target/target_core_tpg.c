@@ -677,3 +677,4 @@ void core_tpg_remove_lun(
 
 	percpu_ref_exit(&lun->lun_ref);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

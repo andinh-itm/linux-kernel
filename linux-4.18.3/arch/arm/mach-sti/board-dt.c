@@ -41,3 +41,4 @@ DT_MACHINE_START(STM, "STi SoC with Flattened Device Tree")
 	.smp		= smp_ops(sti_smp_ops),
 	.l2c_write_sec	= sti_l2_write_sec,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

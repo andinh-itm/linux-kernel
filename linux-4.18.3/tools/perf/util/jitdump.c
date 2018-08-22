@@ -791,3 +791,4 @@ jit_process(struct perf_session *session,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

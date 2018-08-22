@@ -418,3 +418,4 @@ static void __exit rtl92de_module_exit(void)
 
 module_init(rtl92de_module_init);
 module_exit(rtl92de_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

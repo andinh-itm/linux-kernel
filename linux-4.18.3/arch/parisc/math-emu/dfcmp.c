@@ -179,3 +179,4 @@ dbl_fcmp (dbl_floating_point * leftptr, dbl_floating_point * rightptr,
         }
 	return(NOEXCEPTION);
     }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

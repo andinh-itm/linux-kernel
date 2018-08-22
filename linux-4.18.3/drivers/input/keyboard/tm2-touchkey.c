@@ -282,3 +282,4 @@ MODULE_AUTHOR("Beomho Seo <beomho.seo@samsung.com>");
 MODULE_AUTHOR("Jaechul Lee <jcsing.lee@samsung.com>");
 MODULE_DESCRIPTION("Samsung touchkey driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

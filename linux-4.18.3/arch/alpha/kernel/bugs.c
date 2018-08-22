@@ -43,3 +43,4 @@ ssize_t cpu_show_spectre_v2(struct device *dev,
 		return sprintf(buf, "Not affected\n");
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

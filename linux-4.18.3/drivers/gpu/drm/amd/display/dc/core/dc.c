@@ -1622,3 +1622,4 @@ void dc_link_remove_remote_sink(struct dc_link *link, struct dc_sink *sink)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

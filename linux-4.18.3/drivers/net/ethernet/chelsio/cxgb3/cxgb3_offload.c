@@ -1401,3 +1401,4 @@ void __init cxgb3_offload_init(void)
 	t3_register_cpl_handler(CPL_RX_DDP_COMPLETE, do_hwtid_rpl);
 	t3_register_cpl_handler(CPL_ISCSI_HDR, do_hwtid_rpl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

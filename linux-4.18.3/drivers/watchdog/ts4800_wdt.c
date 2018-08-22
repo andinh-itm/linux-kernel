@@ -213,3 +213,4 @@ module_platform_driver(ts4800_wdt_driver);
 MODULE_AUTHOR("Damien Riegel <damien.riegel@savoirfairelinux.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:ts4800_wdt");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

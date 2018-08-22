@@ -445,3 +445,4 @@ MODULE_PARM_DESC(debug, "Turn on/off frontend debugging (default:off).");
 MODULE_DESCRIPTION("ST STV6110 driver");
 MODULE_AUTHOR("Igor M. Liplianin");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

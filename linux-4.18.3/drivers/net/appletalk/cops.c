@@ -1007,3 +1007,4 @@ static void __exit cops_module_exit(void)
 module_init(cops_module_init);
 module_exit(cops_module_exit);
 #endif /* MODULE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

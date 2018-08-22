@@ -327,3 +327,4 @@ module_platform_driver(sharp_ls_driver);
 MODULE_AUTHOR("Tomi Valkeinen <tomi.valkeinen@ti.com>");
 MODULE_DESCRIPTION("Sharp LS037V7DW01 Panel Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

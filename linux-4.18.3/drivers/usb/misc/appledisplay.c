@@ -354,3 +354,4 @@ MODULE_LICENSE("GPL");
 
 module_init(appledisplay_init);
 module_exit(appledisplay_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

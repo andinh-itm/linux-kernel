@@ -135,3 +135,4 @@ module_platform_driver(sirf_hwspinlock_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("SIRF Hardware spinlock driver");
 MODULE_AUTHOR("Wei Chen <wei.chen@csr.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

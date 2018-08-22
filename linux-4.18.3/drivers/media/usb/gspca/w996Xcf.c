@@ -573,3 +573,4 @@ static void w9968cf_pkt_scan(struct gspca_dev *gspca_dev,
 	}
 	gspca_frame_add(gspca_dev, INTER_PACKET, data, len);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

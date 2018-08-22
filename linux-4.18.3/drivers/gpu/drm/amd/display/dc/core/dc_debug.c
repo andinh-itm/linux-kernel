@@ -368,3 +368,4 @@ void context_clock_trace(
 			context->bw.dcn.calc_clk.socclk_khz);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

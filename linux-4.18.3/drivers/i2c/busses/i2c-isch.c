@@ -318,3 +318,4 @@ MODULE_AUTHOR("Jacob Pan <jacob.jun.pan@intel.com>");
 MODULE_DESCRIPTION("Intel SCH SMBus driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:isch_smbus");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

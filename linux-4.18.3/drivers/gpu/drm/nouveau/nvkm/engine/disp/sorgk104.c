@@ -51,3 +51,4 @@ gk104_sor_new(struct nvkm_disp *disp, int id)
 {
 	return nvkm_ior_new_(&gk104_sor, disp, SOR, id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

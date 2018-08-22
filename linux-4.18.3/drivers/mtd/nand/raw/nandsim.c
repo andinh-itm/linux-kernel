@@ -2390,3 +2390,4 @@ module_exit(ns_cleanup_module);
 MODULE_LICENSE ("GPL");
 MODULE_AUTHOR ("Artem B. Bityuckiy");
 MODULE_DESCRIPTION ("The NAND flash simulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

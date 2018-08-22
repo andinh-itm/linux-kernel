@@ -1054,3 +1054,4 @@ const struct peak_usb_adapter pcan_usb_pro = {
 	.dev_stop = pcan_usb_pro_stop,
 	.dev_restart_async = pcan_usb_pro_restart_async,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

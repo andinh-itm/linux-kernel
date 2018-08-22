@@ -2486,3 +2486,4 @@ void dc_link_enable_hpd_filter(struct dc_link *link, bool enable)
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

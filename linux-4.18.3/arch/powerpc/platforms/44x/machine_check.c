@@ -87,3 +87,4 @@ int machine_check_47x(struct pt_regs *regs)
 	return 0;
 }
 #endif /* CONFIG_PPC_47x */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

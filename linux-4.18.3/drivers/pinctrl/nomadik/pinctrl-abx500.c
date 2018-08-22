@@ -1101,3 +1101,4 @@ static int __init abx500_gpio_init(void)
 	return platform_driver_register(&abx500_gpio_driver);
 }
 core_initcall(abx500_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

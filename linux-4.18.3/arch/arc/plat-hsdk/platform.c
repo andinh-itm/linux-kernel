@@ -136,3 +136,4 @@ MACHINE_START(SIMULATION, "hsdk")
 	.init_early     = hsdk_init_early,
 	.init_per_cpu	= hsdk_init_per_cpu,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

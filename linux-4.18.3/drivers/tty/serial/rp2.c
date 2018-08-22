@@ -882,3 +882,4 @@ MODULE_DESCRIPTION("Comtrol RocketPort EXPRESS/INFINITY driver");
 MODULE_AUTHOR("Kevin Cernekee <cernekee@gmail.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_FIRMWARE(RP2_FW_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

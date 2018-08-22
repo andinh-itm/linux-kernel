@@ -605,3 +605,4 @@ module_exit(sbprof_tb_cleanup);
 MODULE_ALIAS_CHARDEV_MAJOR(SBPROF_TB_MAJOR);
 MODULE_AUTHOR("Ralf Baechle <ralf@linux-mips.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

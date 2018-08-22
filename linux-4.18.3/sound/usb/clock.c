@@ -602,3 +602,4 @@ int snd_usb_init_sample_rate(struct snd_usb_audio *chip, int iface,
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

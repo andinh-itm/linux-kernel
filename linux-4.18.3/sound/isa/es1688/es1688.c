@@ -366,3 +366,4 @@ static void __exit alsa_card_es1688_exit(void)
 
 module_init(alsa_card_es1688_init);
 module_exit(alsa_card_es1688_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

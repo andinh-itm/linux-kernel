@@ -517,3 +517,4 @@ int r8712_usbctrl_vendorreq(struct intf_priv *pintfpriv, u8 request, u16 value,
 	kfree(palloc_buf);
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

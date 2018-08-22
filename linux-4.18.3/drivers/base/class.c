@@ -578,3 +578,4 @@ EXPORT_SYMBOL_GPL(class_destroy);
 
 EXPORT_SYMBOL_GPL(class_interface_register);
 EXPORT_SYMBOL_GPL(class_interface_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

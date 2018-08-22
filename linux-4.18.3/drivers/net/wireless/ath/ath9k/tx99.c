@@ -285,3 +285,4 @@ void ath9k_tx99_init_debug(struct ath_softc *sc)
 			    sc->debug.debugfs_phy, sc,
 			    &fops_tx99_power);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

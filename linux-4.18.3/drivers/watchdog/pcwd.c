@@ -999,3 +999,4 @@ MODULE_AUTHOR("Ken Hollis <kenji@bitgate.com>, "
 MODULE_DESCRIPTION("Berkshire ISA-PC Watchdog driver");
 MODULE_VERSION(WATCHDOG_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1051,3 +1051,4 @@ int  radeon_match_mode(struct radeonfb_info *rinfo,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

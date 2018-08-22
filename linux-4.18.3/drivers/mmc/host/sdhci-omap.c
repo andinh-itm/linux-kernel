@@ -1047,3 +1047,4 @@ MODULE_DESCRIPTION("SDHCI driver for OMAP SoCs");
 MODULE_AUTHOR("Texas Instruments Inc.");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sdhci_omap");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

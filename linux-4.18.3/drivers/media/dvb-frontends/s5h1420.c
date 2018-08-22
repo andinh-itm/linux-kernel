@@ -972,3 +972,4 @@ static const struct dvb_frontend_ops s5h1420_ops = {
 MODULE_DESCRIPTION("Samsung S5H1420/PnpNetwork PN1010 DVB-S Demodulator driver");
 MODULE_AUTHOR("Andrew de Quincey, Patrick Boettcher");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

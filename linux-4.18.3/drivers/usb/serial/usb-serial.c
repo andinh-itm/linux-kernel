@@ -1423,3 +1423,4 @@ EXPORT_SYMBOL_GPL(usb_serial_deregister_drivers);
 MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

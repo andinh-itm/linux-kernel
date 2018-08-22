@@ -728,3 +728,4 @@ void snd_oxfw_stream_lock_release(struct snd_oxfw *oxfw)
 end:
 	spin_unlock_irq(&oxfw->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

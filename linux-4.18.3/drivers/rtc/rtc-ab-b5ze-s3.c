@@ -1027,3 +1027,4 @@ module_i2c_driver(abb5zes3_driver);
 MODULE_AUTHOR("Arnaud EBALARD <arno@natisbad.org>");
 MODULE_DESCRIPTION("Abracon AB-RTCMC-32.768kHz-B5ZE-S3 RTC/Alarm driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

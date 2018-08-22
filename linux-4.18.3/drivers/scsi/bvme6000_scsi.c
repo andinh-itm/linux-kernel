@@ -136,3 +136,4 @@ static void __exit bvme6000_scsi_exit(void)
 
 module_init(bvme6000_scsi_init);
 module_exit(bvme6000_scsi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

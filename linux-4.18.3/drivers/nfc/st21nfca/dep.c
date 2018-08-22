@@ -687,3 +687,4 @@ void st21nfca_dep_deinit(struct nfc_hci_dev *hdev)
 	cancel_work_sync(&info->dep_info.tx_work);
 }
 EXPORT_SYMBOL(st21nfca_dep_deinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

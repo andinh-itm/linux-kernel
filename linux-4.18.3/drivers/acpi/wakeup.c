@@ -96,3 +96,4 @@ int __init acpi_wakeup_device_init(void)
 	mutex_unlock(&acpi_device_lock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

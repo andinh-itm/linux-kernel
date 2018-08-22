@@ -1453,3 +1453,4 @@ void b43legacy_dma_tx_resume(struct b43legacy_wldev *dev)
 	b43legacy_dma_tx_resume_ring(dev->dma.tx_ring0);
 	b43legacy_power_saving_ctl_bits(dev, -1, -1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

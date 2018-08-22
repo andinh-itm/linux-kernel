@@ -429,3 +429,4 @@ bool qxl_fbdev_qobj_is_fb(struct qxl_device *qdev, struct qxl_bo *qobj)
 		return true;
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

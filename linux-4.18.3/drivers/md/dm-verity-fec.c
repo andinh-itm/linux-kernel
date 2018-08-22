@@ -814,3 +814,4 @@ int verity_fec_ctr(struct dm_verity *v)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

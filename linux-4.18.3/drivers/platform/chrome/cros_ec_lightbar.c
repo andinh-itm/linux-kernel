@@ -617,3 +617,4 @@ struct attribute_group cros_ec_lightbar_attr_group = {
 	.is_visible = cros_ec_lightbar_attrs_are_visible,
 };
 EXPORT_SYMBOL(cros_ec_lightbar_attr_group);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

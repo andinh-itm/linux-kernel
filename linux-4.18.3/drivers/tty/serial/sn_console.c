@@ -1036,3 +1036,4 @@ static int __init sn_sal_serial_console_init(void)
 }
 
 console_initcall(sn_sal_serial_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

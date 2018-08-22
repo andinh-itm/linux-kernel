@@ -741,3 +741,4 @@ acpi_ds_eval_bank_field_operands(struct acpi_walk_state *walk_state,
 	acpi_ut_remove_reference(operand_desc);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

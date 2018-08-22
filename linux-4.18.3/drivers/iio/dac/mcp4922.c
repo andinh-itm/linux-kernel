@@ -212,3 +212,4 @@ module_spi_driver(mcp4922_driver);
 MODULE_AUTHOR("Michael Welling <mwelling@ieee.org>");
 MODULE_DESCRIPTION("Microchip MCP4902, MCP4912, MCP4922 DAC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

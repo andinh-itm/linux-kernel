@@ -2005,3 +2005,4 @@ MODULE_PARM_DESC(nopnp, "Scan for device instead of relying on PNP. (default 0)"
 MODULE_PARM_DESC(io, "I/O base to allocate. Must be 8 byte aligned. (default 0x248)");
 MODULE_PARM_DESC(irq, "IRQ to allocate. (default 6)");
 MODULE_PARM_DESC(dma, "DMA channel to allocate. -1 for no DMA. (default 2)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

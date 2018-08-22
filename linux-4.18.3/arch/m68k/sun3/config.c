@@ -228,3 +228,4 @@ int __init sun3_platform_init(void)
 arch_initcall(sun3_platform_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

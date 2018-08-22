@@ -1160,3 +1160,4 @@ module_exit(sunsab_exit);
 MODULE_AUTHOR("Eddie C. Dost and David S. Miller");
 MODULE_DESCRIPTION("Sun SAB82532 serial port driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

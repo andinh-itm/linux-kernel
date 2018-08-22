@@ -694,3 +694,4 @@ module_platform_driver(sti_pwm_driver);
 MODULE_AUTHOR("Ajit Pal Singh <ajitpal.singh@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics ST PWM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

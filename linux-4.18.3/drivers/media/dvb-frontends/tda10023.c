@@ -607,3 +607,4 @@ MODULE_AUTHOR("Georg Acher, Hartmut Birr");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(tda10023_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

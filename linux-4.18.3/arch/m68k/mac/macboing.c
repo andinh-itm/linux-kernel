@@ -308,3 +308,4 @@ static void mac_quadra_ring_bell(struct timer_list *unused)
 static void mac_av_start_bell( unsigned int freq, unsigned int length, unsigned int volume )
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

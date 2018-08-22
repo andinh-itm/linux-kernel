@@ -1349,3 +1349,4 @@ MODULE_DESCRIPTION("OMAP AES hw acceleration support.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Dmitry Kasatkin");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

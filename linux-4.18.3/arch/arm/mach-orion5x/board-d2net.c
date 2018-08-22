@@ -107,3 +107,4 @@ void __init d2net_init(void)
 
 	pr_notice("d2net: Flash write are not yet supported.\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

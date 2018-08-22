@@ -225,3 +225,4 @@ MODULE_LICENSE("GPL");
 
 module_init(init_msp_flash);
 module_exit(cleanup_msp_flash);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

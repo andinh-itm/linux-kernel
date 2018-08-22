@@ -1678,3 +1678,4 @@ module_i2c_driver(w83792d_driver);
 MODULE_AUTHOR("Shane Huang (Winbond)");
 MODULE_DESCRIPTION("W83792AD/D driver for linux-2.6");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

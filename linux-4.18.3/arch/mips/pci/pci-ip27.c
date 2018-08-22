@@ -228,3 +228,4 @@ EXPORT_SYMBOL(pcibus_to_node);
 
 DECLARE_PCI_FIXUP_HEADER(PCI_VENDOR_ID_SGI, PCI_DEVICE_ID_SGI_IOC3,
 	pci_fixup_ioc3);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

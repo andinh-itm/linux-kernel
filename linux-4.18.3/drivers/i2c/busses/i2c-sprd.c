@@ -659,3 +659,4 @@ static int sprd_i2c_init(void)
 	return platform_driver_register(&sprd_i2c_driver);
 }
 arch_initcall_sync(sprd_i2c_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

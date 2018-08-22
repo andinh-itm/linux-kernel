@@ -310,3 +310,4 @@ void intel_uc_fw_dump(const struct intel_uc_fw *uc_fw, struct drm_printer *p)
 	drm_printf(p, "\tRSA: offset %u, size %u\n",
 		   uc_fw->rsa_offset, uc_fw->rsa_size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

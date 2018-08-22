@@ -395,3 +395,4 @@ acpi_ns_search_and_enter(u32 target_name,
 	*return_node = new_node;
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

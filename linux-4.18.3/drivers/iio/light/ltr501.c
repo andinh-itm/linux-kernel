@@ -1590,3 +1590,4 @@ module_i2c_driver(ltr501_driver);
 MODULE_AUTHOR("Peter Meerwald <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("Lite-On LTR501 ambient light and proximity sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -397,3 +397,4 @@ void c67x00_hcd_remove(struct c67x00_sie *sie)
 	usb_remove_hcd(hcd);
 	usb_put_hcd(hcd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

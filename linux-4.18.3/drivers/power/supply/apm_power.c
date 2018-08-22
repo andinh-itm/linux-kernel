@@ -374,3 +374,4 @@ module_exit(apm_battery_exit);
 MODULE_AUTHOR("Eugeny Boger <eugenyboger@dgap.mipt.ru>");
 MODULE_DESCRIPTION("APM emulation driver for battery monitoring class");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

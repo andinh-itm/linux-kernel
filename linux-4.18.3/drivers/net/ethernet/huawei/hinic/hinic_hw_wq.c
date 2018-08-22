@@ -876,3 +876,4 @@ void hinic_write_wqe(struct hinic_wq *wq, struct hinic_hw_wqe *wqe,
 		copy_wqe_from_shadow(wq, shadow_addr, num_wqebbs, prod_idx);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

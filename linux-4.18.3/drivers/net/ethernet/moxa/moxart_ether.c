@@ -587,3 +587,4 @@ module_platform_driver(moxart_mac_driver);
 MODULE_DESCRIPTION("MOXART RTL8201CP Ethernet driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Jonas Jensen <jonas.jensen@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

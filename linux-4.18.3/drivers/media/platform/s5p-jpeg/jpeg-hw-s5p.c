@@ -307,3 +307,4 @@ unsigned int s5p_jpeg_compressed_size(void __iomem *regs)
 
 	return (unsigned int)jpeg_size;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

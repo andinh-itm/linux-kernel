@@ -2004,3 +2004,4 @@ MODULE_AUTHOR("Fabrice Gasnier <fabrice.gasnier@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics STM32 ADC IIO driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:stm32-adc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

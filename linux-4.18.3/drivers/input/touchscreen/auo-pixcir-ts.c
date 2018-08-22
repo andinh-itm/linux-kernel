@@ -690,3 +690,4 @@ module_i2c_driver(auo_pixcir_driver);
 MODULE_DESCRIPTION("AUO-PIXCIR touchscreen driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Heiko Stuebner <heiko@sntech.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

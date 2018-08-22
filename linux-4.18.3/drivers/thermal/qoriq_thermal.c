@@ -323,3 +323,4 @@ module_platform_driver(qoriq_tmu);
 MODULE_AUTHOR("Jia Hongtao <hongtao.jia@nxp.com>");
 MODULE_DESCRIPTION("QorIQ Thermal Monitoring Unit driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

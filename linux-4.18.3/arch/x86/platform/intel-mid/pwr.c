@@ -486,3 +486,4 @@ static struct pci_driver mid_pwr_pci_driver = {
 };
 
 builtin_pci_driver(mid_pwr_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

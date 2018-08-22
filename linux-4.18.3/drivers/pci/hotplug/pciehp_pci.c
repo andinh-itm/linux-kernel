@@ -109,3 +109,4 @@ int pciehp_unconfigure_device(struct slot *p_slot)
 	pci_unlock_rescan_remove();
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

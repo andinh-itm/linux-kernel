@@ -287,3 +287,4 @@ module_i2c_driver(atmel_captouch_driver);
 MODULE_AUTHOR("Hung-yu Wu <hywu@google.com>");
 MODULE_DESCRIPTION("Atmel ATmegaXX Capacitance Touch Sensor I2C Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

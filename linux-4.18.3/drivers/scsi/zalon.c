@@ -203,3 +203,4 @@ static void __exit zalon7xx_exit(void)
 
 module_init(zalon7xx_init);
 module_exit(zalon7xx_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

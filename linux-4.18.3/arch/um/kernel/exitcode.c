@@ -78,3 +78,4 @@ static int make_proc_exitcode(void)
 }
 
 __initcall(make_proc_exitcode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

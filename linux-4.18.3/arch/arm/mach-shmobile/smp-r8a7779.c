@@ -122,3 +122,4 @@ const struct smp_operations r8a7779_smp_ops  __initconst = {
 	.cpu_kill		= r8a7779_cpu_kill,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

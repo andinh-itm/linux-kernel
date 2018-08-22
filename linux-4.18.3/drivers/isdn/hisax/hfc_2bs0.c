@@ -589,3 +589,4 @@ releasehfc(struct IsdnCardState *cs)
 	kfree(cs->bcs[1].hw.hfc.send);
 	cs->bcs[1].hw.hfc.send = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -342,3 +342,4 @@ out_cleanup_queue:
 	return ERR_PTR(ret);
 }
 EXPORT_SYMBOL_GPL(bsg_setup_queue);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

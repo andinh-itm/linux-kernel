@@ -52,3 +52,4 @@ int __init setup_serial_port(void)
 	return early_serial_setup(&rb532_uart);
 }
 arch_initcall(setup_serial_port);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

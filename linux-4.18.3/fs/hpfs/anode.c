@@ -495,3 +495,4 @@ void hpfs_remove_fnode(struct super_block *s, fnode_secno fno)
 	brelse(bh);
 	hpfs_free_sectors(s, fno, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

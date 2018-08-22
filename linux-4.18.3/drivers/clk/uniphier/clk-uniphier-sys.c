@@ -283,3 +283,4 @@ const struct uniphier_clk_data uniphier_pxs3_sys_clk_data[] = {
 			     "spll/4", "spll/8", "s2pll/4", "s2pll/8"),
 	{ /* sentinel */ }
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

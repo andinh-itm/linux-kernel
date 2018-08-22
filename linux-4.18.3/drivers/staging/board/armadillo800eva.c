@@ -94,3 +94,4 @@ static void __init armadillo800eva_init(void)
 }
 
 board_staging("renesas,armadillo800eva", armadillo800eva_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

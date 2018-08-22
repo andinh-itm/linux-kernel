@@ -747,3 +747,4 @@ module_i2c_driver(cm36651_driver);
 MODULE_AUTHOR("Beomho Seo <beomho.seo@samsung.com>");
 MODULE_DESCRIPTION("CM36651 proximity/ambient light sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

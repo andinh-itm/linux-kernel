@@ -2229,3 +2229,4 @@ MODULE_AUTHOR("Matthias Fuchs <matthias.fuchs@esd-electronics.com>");
 MODULE_DESCRIPTION("Dallas/Maxim DS1685/DS1687-series RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-ds1685");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

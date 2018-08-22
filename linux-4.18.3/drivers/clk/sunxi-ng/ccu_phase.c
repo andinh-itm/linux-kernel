@@ -124,3 +124,4 @@ const struct clk_ops ccu_phase_ops = {
 	.get_phase	= ccu_phase_get_phase,
 	.set_phase	= ccu_phase_set_phase,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

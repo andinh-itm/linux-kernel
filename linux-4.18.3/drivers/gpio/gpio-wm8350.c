@@ -158,3 +158,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("GPIO interface for WM8350 PMICs");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8350-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

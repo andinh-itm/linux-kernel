@@ -260,3 +260,4 @@ int dss_mgr_check(struct omap_overlay_manager *mgr,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

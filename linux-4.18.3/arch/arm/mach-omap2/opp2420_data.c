@@ -129,3 +129,4 @@ const struct prcm_config omap2420_rate_table[] = {
 
 	{ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

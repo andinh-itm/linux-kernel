@@ -267,3 +267,4 @@ MODULE_AUTHOR("Ksenija Stanojevic <ksenija.stanojevic@gmail.com>");
 MODULE_DESCRIPTION("Freescale i.MX23/i.MX28 LRADC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mxs-lradc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -228,3 +228,4 @@ module_i2c_driver(ads7828_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Steve Hardy <shardy@redhat.com>");
 MODULE_DESCRIPTION("Driver for TI ADS7828 A/D converter and compatibles");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

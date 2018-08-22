@@ -847,3 +847,4 @@ static int __init register_qcom_l3_cache_pmu_driver(void)
 	return platform_driver_register(&qcom_l3_cache_pmu_driver);
 }
 device_initcall(register_qcom_l3_cache_pmu_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

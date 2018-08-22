@@ -2061,3 +2061,4 @@ int zd_usb_rfwrite(struct zd_usb *usb, u32 value, u8 bits)
 out:
 	return r;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

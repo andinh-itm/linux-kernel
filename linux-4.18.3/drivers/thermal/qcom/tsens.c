@@ -204,3 +204,4 @@ module_platform_driver(tsens_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("QCOM Temperature Sensor driver");
 MODULE_ALIAS("platform:qcom-tsens");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

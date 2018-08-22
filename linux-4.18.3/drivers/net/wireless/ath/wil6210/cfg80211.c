@@ -2676,3 +2676,4 @@ static int wil_rf_sector_set_selected(struct wiphy *wiphy,
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

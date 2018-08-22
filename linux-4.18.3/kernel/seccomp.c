@@ -1342,3 +1342,4 @@ static int __init seccomp_sysctl_init(void)
 device_initcall(seccomp_sysctl_init)
 
 #endif /* CONFIG_SYSCTL */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

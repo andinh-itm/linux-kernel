@@ -272,3 +272,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail/Cherrytrail+DA7213 Machine driver");
 MODULE_AUTHOR("Pierre-Louis Bossart");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bytcht_da7213");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

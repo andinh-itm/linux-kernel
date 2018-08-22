@@ -76,3 +76,4 @@ static int __init nmi_debug_setup(char *str)
 	return 0;
 }
 __setup("nmi_debug", nmi_debug_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

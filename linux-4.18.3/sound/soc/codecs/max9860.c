@@ -743,3 +743,4 @@ module_i2c_driver(max9860_i2c_driver);
 MODULE_DESCRIPTION("ASoC MAX9860 Mono Audio Voice Codec driver");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

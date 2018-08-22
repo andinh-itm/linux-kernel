@@ -231,3 +231,4 @@ void tty_encode_baud_rate(struct tty_struct *tty, speed_t ibaud, speed_t obaud)
 	tty_termios_encode_baud_rate(&tty->termios, ibaud, obaud);
 }
 EXPORT_SYMBOL_GPL(tty_encode_baud_rate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

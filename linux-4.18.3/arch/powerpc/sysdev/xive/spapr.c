@@ -730,3 +730,4 @@ bool __init xive_spapr_init(void)
 	pr_info("Using %dkB queues\n", 1 << (xive_queue_shift - 10));
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

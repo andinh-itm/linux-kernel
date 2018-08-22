@@ -152,3 +152,4 @@ void fbcon_set_tileops(struct vc_data *vc, struct fb_info *info)
 }
 
 EXPORT_SYMBOL(fbcon_set_tileops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

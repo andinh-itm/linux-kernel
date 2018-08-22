@@ -227,3 +227,4 @@ MODULE_DESCRIPTION("LP3943 GPIO driver");
 MODULE_ALIAS("platform:lp3943-gpio");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

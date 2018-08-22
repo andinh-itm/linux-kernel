@@ -134,3 +134,4 @@ nouveau_vmm_init(struct nouveau_cli *cli, s32 oclass, struct nouveau_vmm *vmm)
 	vmm->cli = cli;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

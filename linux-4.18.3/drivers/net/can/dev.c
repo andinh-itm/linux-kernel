@@ -1288,3 +1288,4 @@ static __exit void can_dev_exit(void)
 module_exit(can_dev_exit);
 
 MODULE_ALIAS_RTNL_LINK("can");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -552,3 +552,4 @@ MODULE_DESCRIPTION("TI LP8788 BUCK Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lp8788-buck");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

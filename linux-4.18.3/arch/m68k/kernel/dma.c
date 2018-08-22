@@ -175,3 +175,4 @@ void arch_setup_pdev_archdata(struct platform_device *pdev)
 		pdev->dev.dma_mask = &pdev->dev.coherent_dma_mask;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

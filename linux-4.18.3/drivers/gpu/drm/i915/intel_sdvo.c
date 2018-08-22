@@ -3172,3 +3172,4 @@ err_i2c_bus:
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

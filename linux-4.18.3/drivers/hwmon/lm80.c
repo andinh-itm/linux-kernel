@@ -672,3 +672,4 @@ MODULE_AUTHOR("Frodo Looijaard <frodol@dds.nl> and "
 	"Philip Edelbrock <phil@netroedge.com>");
 MODULE_DESCRIPTION("LM80 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

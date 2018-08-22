@@ -662,3 +662,4 @@ module_platform_driver(mvebu_comphy_driver);
 MODULE_AUTHOR("Antoine Tenart <antoine.tenart@free-electrons.com>");
 MODULE_DESCRIPTION("Common PHY driver for mvebu SoCs");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -159,3 +159,4 @@ static void __exit sha3_neon_mod_fini(void)
 
 module_cpu_feature_match(SHA3, sha3_neon_mod_init);
 module_exit(sha3_neon_mod_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

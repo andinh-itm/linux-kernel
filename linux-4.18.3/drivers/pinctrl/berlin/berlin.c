@@ -338,3 +338,4 @@ int berlin_pinctrl_probe(struct platform_device *pdev,
 
 	return berlin_pinctrl_probe_regmap(pdev, desc, regmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

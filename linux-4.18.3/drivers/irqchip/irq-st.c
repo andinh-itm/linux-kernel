@@ -204,3 +204,4 @@ static int __init st_irq_syscfg_init(void)
 	return platform_driver_register(&st_irq_syscfg_driver);
 }
 core_initcall(st_irq_syscfg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

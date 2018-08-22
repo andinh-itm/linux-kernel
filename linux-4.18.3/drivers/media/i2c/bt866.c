@@ -226,3 +226,4 @@ static struct i2c_driver bt866_driver = {
 };
 
 module_i2c_driver(bt866_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

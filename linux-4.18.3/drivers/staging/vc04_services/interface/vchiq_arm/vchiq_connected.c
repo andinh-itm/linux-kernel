@@ -118,3 +118,4 @@ void vchiq_call_connected_callbacks(void)
 	mutex_unlock(&g_connected_mutex);
 }
 EXPORT_SYMBOL(vchiq_add_connected_callback);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -564,3 +564,4 @@ MODULE_LICENSE ("GPL");
 
 late_initcall(centrino_init);
 module_exit(centrino_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

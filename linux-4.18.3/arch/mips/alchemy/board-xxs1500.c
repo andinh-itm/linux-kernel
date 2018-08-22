@@ -152,3 +152,4 @@ static int __init xxs1500_dev_init(void)
 				    ARRAY_SIZE(xxs1500_devs));
 }
 device_initcall(xxs1500_dev_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

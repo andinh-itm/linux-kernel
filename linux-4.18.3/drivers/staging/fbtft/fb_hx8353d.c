@@ -146,3 +146,4 @@ MODULE_ALIAS("platform:hx8353d");
 MODULE_DESCRIPTION("FB driver for the HX8353D LCD Controller");
 MODULE_AUTHOR("Petr Olivka");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

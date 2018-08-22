@@ -1478,3 +1478,4 @@ MODULE_FIRMWARE("qlogic/isp1000.bin");
 
 module_init(qpti_init);
 module_exit(qpti_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

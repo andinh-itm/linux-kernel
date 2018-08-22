@@ -1557,3 +1557,4 @@ unsigned long ext2_bg_num_gdb(struct super_block *sb, int group)
 	return ext2_bg_has_super(sb, group) ? EXT2_SB(sb)->s_gdb_count : 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

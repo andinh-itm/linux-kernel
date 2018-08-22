@@ -688,3 +688,4 @@ const struct iwl_dvm_cfg iwl_dvm_6030_cfg = {
 	.need_temp_offset_calib = true,
 	.adv_pm = true,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

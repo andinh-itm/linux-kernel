@@ -1015,3 +1015,4 @@ module_i2c_driver(wm8955_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8955 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

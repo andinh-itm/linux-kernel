@@ -176,3 +176,4 @@ MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("GPIO ADP5520 Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:adp5520-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

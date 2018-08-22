@@ -1025,3 +1025,4 @@ builtin_platform_driver(zx296718_pinctrl_driver);
 
 MODULE_DESCRIPTION("ZTE ZX296718 pinctrl driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

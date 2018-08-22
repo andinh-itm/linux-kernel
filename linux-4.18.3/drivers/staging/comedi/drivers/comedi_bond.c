@@ -345,3 +345,4 @@ module_comedi_driver(bonding_driver);
 MODULE_AUTHOR("Calin A. Culianu");
 MODULE_DESCRIPTION("comedi_bond: A driver for COMEDI to bond multiple COMEDI devices together as one.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

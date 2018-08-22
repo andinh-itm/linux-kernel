@@ -687,3 +687,4 @@ static struct platform_driver fsi_master_gpio_driver = {
 
 module_platform_driver(fsi_master_gpio_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

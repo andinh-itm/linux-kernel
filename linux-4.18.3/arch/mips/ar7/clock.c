@@ -476,3 +476,4 @@ void __init ar7_init_clocks(void)
 	/* adjust vbus clock rate */
 	vbus_clk.rate = bus_clk.rate / 2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

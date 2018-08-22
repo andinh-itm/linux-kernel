@@ -522,3 +522,4 @@ acpi_decode_pld_buffer(u8 *in_buffer,
 }
 
 ACPI_EXPORT_SYMBOL(acpi_decode_pld_buffer)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

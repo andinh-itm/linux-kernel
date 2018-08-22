@@ -330,3 +330,4 @@ int gma_power_restore(struct device *_dev)
 {
 	return gma_power_resume(_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

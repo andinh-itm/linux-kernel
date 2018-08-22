@@ -180,3 +180,4 @@ module_ulpi_driver(tusb1210_driver);
 MODULE_AUTHOR("Intel Corporation");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TUSB1210 ULPI PHY driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

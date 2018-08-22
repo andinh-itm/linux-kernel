@@ -242,3 +242,4 @@ void exynos_clear_boot_flag(unsigned int cpu, unsigned int mode)
 	tmp &= ~mode;
 	writel_relaxed(tmp, REG_CPU_STATE_ADDR + cpu * 4);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

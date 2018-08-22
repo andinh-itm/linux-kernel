@@ -387,3 +387,4 @@ void b43_wa_all(struct b43_wldev *dev)
 
 	b43_wa_cpll_nonpilot(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

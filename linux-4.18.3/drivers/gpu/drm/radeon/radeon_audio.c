@@ -787,3 +787,4 @@ unsigned int radeon_audio_decode_dfs_div(unsigned int div)
 	else
 		return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

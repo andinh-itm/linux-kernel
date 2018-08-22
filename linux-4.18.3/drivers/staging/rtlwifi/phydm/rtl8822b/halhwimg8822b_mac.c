@@ -209,3 +209,4 @@ void odm_read_and_config_mp_8822b_mac_reg(struct phy_dm_struct *dm)
 }
 
 u32 odm_get_version_mp_8822b_mac_reg(void) { return 67; }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -537,3 +537,4 @@ module_platform_driver(mpc512x_lpbfifo_driver);
 MODULE_AUTHOR("Alexander Popov <alex.popov@linux.com>");
 MODULE_DESCRIPTION("MPC512x LocalPlus Bus FIFO device driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

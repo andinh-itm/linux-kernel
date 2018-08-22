@@ -212,3 +212,4 @@ nvkm_ram_new_(const struct nvkm_ram_func *func, struct nvkm_fb *fb,
 		return -ENOMEM;
 	return nvkm_ram_ctor(func, fb, type, size, *pram);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

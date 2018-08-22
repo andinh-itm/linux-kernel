@@ -1093,3 +1093,4 @@ module_exit(cpc925_edac_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Cao Qingtao <qingtao.cao@windriver.com>");
 MODULE_DESCRIPTION("IBM CPC925 Bridge and MC EDAC kernel module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

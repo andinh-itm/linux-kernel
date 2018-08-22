@@ -226,3 +226,4 @@ void rtl92e_set_ofdm_tx_power(struct net_device *dev, u8 powerlevel)
 	}
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

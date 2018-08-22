@@ -248,3 +248,4 @@ static __exit void gb_vibrator_exit(void)
 module_exit(gb_vibrator_exit);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

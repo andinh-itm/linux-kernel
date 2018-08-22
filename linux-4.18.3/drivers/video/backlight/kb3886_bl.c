@@ -195,3 +195,4 @@ MODULE_AUTHOR("Claudio Nieder <private@claudio.ch>");
 MODULE_DESCRIPTION("Tabletkiosk Sahara Touch-iT Backlight Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("dmi:*:svnSDV:pniTouchT201:*");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

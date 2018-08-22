@@ -268,3 +268,4 @@ int gpiotools_sets(const char *device_name, unsigned int *lines,
 
 	return gpiotools_release_linehandle(ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

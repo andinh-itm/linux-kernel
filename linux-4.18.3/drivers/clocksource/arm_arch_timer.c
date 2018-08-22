@@ -1571,3 +1571,4 @@ static int __init arch_timer_acpi_init(struct acpi_table_header *table)
 }
 TIMER_ACPI_DECLARE(arch_timer, ACPI_SIG_GTDT, arch_timer_acpi_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

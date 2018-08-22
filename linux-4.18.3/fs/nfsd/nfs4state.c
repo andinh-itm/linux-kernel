@@ -7370,3 +7370,4 @@ nfsd4_get_writestateid(struct nfsd4_compound_state *cstate,
 {
 	get_stateid(cstate, &u->write.wr_stateid);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

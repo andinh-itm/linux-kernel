@@ -177,3 +177,4 @@ static void __exit pc110pad_exit(void)
 
 module_init(pc110pad_init);
 module_exit(pc110pad_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

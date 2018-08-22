@@ -3043,3 +3043,4 @@ static int isdn_ppp_set_compressor(struct ippp_struct *is, struct isdn_ppp_comp_
 	}
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

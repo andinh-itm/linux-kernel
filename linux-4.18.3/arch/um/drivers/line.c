@@ -767,3 +767,4 @@ char *add_xterm_umid(char *base)
 	snprintf(title, len, "%s (%s)", base, umid);
 	return title;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

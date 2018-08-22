@@ -1085,3 +1085,4 @@ static struct usb_driver ems_usb_driver = {
 };
 
 module_usb_driver(ems_usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

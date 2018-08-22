@@ -90,3 +90,4 @@ int orinoco_mic(struct crypto_shash *tfm_michael, u8 *key,
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

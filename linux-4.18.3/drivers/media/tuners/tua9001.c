@@ -280,3 +280,4 @@ module_i2c_driver(tua9001_driver);
 MODULE_DESCRIPTION("Infineon TUA9001 silicon tuner driver");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

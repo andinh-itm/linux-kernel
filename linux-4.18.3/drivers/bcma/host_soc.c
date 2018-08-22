@@ -276,3 +276,4 @@ void __exit bcma_host_soc_unregister_driver(void)
 	platform_driver_unregister(&bcma_host_soc_driver);
 }
 #endif /* CONFIG_OF */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

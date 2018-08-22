@@ -418,3 +418,4 @@ int setup_enternow_pci(struct IsdnCard *card)
 
 	return en_cs_init_rest(card, cs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

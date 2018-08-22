@@ -1283,3 +1283,4 @@ struct platform_driver mixer_driver = {
 	.probe = mixer_probe,
 	.remove = mixer_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -414,3 +414,4 @@ void gdsc_unregister(struct gdsc_desc *desc)
 	}
 	of_genpd_del_provider(dev->of_node);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

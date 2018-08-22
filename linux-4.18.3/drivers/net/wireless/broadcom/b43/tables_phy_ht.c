@@ -834,3 +834,4 @@ void b43_phy_ht_tables_init(struct b43_wldev *dev)
 	httab_upload(dev, B43_HTTAB32(0x22, 0), b43_httab_0x22);
 	httab_upload(dev, B43_HTTAB32(0x24, 0), b43_httab_0x24);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

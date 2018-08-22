@@ -822,3 +822,4 @@ module_exit(vmu_flash_map_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Adrian McMenamin");
 MODULE_DESCRIPTION("Flash mapping for Sega Dreamcast visual memory");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

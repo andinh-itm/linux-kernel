@@ -151,3 +151,4 @@ MODULE_DESCRIPTION
     ("Standard remote control decoder for Afatech 9005 DVB-T USB1.1 stick");
 MODULE_VERSION("1.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

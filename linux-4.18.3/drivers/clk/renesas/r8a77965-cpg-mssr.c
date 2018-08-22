@@ -336,3 +336,4 @@ const struct cpg_mssr_info r8a77965_cpg_mssr_info __initconst = {
 	.init			= r8a77965_cpg_mssr_init,
 	.cpg_clk_register	= rcar_gen3_cpg_clk_register,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

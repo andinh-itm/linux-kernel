@@ -1003,3 +1003,4 @@ const struct tegra_mc_soc tegra30_mc_soc = {
 	.resets = tegra30_mc_resets,
 	.num_resets = ARRAY_SIZE(tegra30_mc_resets),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

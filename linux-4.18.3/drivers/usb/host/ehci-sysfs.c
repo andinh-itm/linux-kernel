@@ -172,3 +172,4 @@ static inline void remove_sysfs_files(struct ehci_hcd *ehci)
 
 	device_remove_file(controller, &dev_attr_uframe_periodic_max);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

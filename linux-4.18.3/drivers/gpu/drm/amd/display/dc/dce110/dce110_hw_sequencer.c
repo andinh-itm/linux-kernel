@@ -2996,3 +2996,4 @@ void dce110_hw_sequencer_construct(struct dc *dc)
 	dc->hwss = dce110_funcs;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

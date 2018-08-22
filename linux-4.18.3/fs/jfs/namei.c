@@ -1622,3 +1622,4 @@ const struct dentry_operations jfs_ci_dentry_operations =
 	.d_compare = jfs_ci_compare,
 	.d_revalidate = jfs_ci_revalidate,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

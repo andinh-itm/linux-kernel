@@ -49,3 +49,4 @@ int owl_sps_set_pg(void __iomem *base, u32 pwr_mask, u32 ack_mask, bool enable)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(owl_sps_set_pg);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

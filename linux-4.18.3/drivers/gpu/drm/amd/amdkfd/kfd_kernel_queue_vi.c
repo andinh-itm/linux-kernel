@@ -373,3 +373,4 @@ const struct packet_manager_funcs kfd_vi_pm_funcs = {
 	.query_status_size	= sizeof(struct pm4_mes_query_status),
 	.release_mem_size	= sizeof(struct pm4_mec_release_mem)
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

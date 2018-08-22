@@ -124,3 +124,4 @@ static void __init rz_cpg_clocks_init(struct device_node *np)
 	cpg_mstp_add_clk_domain(np);
 }
 CLK_OF_DECLARE(rz_cpg_clks, "renesas,rz-cpg-clocks", rz_cpg_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

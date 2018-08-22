@@ -128,3 +128,4 @@ MODULE_DESCRIPTION("Speakup support for text console");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

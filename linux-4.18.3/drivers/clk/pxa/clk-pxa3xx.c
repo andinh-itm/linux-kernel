@@ -368,3 +368,4 @@ static void __init pxa3xx_dt_clocks_init(struct device_node *np)
 	clk_pxa_dt_common_init(np);
 }
 CLK_OF_DECLARE(pxa_clks, "marvell,pxa300-clocks", pxa3xx_dt_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

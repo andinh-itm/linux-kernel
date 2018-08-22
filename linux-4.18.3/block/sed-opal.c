@@ -2461,3 +2461,4 @@ int sed_ioctl(struct opal_dev *dev, unsigned int cmd, void __user *arg)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(sed_ioctl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

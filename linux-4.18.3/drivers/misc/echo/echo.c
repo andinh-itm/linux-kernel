@@ -599,3 +599,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Rowe");
 MODULE_DESCRIPTION("Open Source Line Echo Canceller");
 MODULE_VERSION("0.3.0");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

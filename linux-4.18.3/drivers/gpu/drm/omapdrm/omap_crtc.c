@@ -754,3 +754,4 @@ struct drm_crtc *omap_crtc_init(struct drm_device *dev,
 
 	return crtc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

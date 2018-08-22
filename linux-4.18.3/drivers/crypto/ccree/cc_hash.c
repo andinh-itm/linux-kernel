@@ -2245,3 +2245,4 @@ cc_digest_len_addr(void *drvdata, u32 mode)
 		return digest_len_addr; /*to avoid kernel crash*/
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

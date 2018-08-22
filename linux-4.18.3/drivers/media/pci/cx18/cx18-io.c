@@ -90,3 +90,4 @@ void cx18_setup_page(struct cx18 *cx, u32 addr)
 	val = (val & ~0x1f00) | ((addr >> 17) & 0x1f00);
 	cx18_write_reg(cx, val, 0xD000F8);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

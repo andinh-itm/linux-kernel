@@ -150,3 +150,4 @@ static int __init init_BSP(void)
 arch_initcall(init_BSP);
 
 /***************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

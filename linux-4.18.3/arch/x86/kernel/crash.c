@@ -481,3 +481,4 @@ int crash_load_segments(struct kimage *image)
 	return ret;
 }
 #endif /* CONFIG_KEXEC_FILE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

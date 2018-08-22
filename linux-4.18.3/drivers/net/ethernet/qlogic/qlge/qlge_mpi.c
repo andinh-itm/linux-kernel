@@ -1282,3 +1282,4 @@ void ql_mpi_reset_work(struct work_struct *work)
 	}
 	ql_soft_reset_mpi_risc(qdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

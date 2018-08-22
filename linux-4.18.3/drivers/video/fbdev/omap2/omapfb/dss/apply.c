@@ -1700,3 +1700,4 @@ out:
 	mutex_unlock(&compat_init_lock);
 }
 EXPORT_SYMBOL(omapdss_compat_uninit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

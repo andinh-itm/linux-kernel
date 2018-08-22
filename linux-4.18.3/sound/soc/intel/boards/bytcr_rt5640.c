@@ -1227,3 +1227,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail CR Machine driver");
 MODULE_AUTHOR("Subhransu S. Prusty <subhransu.s.prusty@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bytcr_rt5640");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

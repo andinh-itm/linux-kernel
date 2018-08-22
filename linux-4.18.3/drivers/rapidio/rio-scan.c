@@ -1156,3 +1156,4 @@ late_initcall(rio_basic_attach);
 
 MODULE_DESCRIPTION("Basic RapidIO enumeration/discovery");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

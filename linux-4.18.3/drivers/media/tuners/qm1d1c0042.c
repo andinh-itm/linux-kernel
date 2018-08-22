@@ -453,3 +453,4 @@ module_i2c_driver(qm1d1c0042_driver);
 MODULE_DESCRIPTION("Sharp QM1D1C0042 tuner");
 MODULE_AUTHOR("Akihiro TSUKADA");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

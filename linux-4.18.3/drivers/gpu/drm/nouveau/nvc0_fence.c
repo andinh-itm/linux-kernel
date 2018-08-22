@@ -82,3 +82,4 @@ nvc0_fence_create(struct nouveau_drm *drm)
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

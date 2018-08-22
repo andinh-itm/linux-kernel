@@ -1312,3 +1312,4 @@ MODULE_DESCRIPTION("TXx9 DMA Controller driver");
 MODULE_AUTHOR("Atsushi Nemoto <anemo@mba.ocn.ne.jp>");
 MODULE_ALIAS("platform:txx9dmac");
 MODULE_ALIAS("platform:txx9dmac-chan");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

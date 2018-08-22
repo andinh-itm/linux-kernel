@@ -220,3 +220,4 @@ SMBNTencrypt(unsigned char *passwd, unsigned char *c8, unsigned char *p24,
 	rc = E_P24(p21, c8, p24);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

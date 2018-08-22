@@ -60,3 +60,4 @@ int __init hsi_register_board_info(struct hsi_board_info const *info,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

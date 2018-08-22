@@ -639,3 +639,4 @@ MODULE_PARM_DESC(invert, "invert data along each axis. 1 invert x-axis, "
 MODULE_AUTHOR("Robert Love");
 MODULE_DESCRIPTION("IBM Hard Drive Active Protection System (HDAPS) driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

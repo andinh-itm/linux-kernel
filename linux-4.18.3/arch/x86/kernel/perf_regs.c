@@ -177,3 +177,4 @@ void perf_get_regs_user(struct perf_regs *regs_user,
 	regs_user->regs = regs_user_copy;
 }
 #endif /* CONFIG_X86_32 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

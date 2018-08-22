@@ -174,3 +174,4 @@ void __init time_init(void)
 	openrisc_timer_init();
 	openrisc_clockevent_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

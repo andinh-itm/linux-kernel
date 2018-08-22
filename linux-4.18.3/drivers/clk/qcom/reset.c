@@ -61,3 +61,4 @@ const struct reset_control_ops qcom_reset_ops = {
 	.deassert = qcom_reset_deassert,
 };
 EXPORT_SYMBOL_GPL(qcom_reset_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -300,3 +300,4 @@ void mISDN_timer_cleanup(void)
 {
 	misc_deregister(&mISDNtimer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

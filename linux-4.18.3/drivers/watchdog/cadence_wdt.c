@@ -476,3 +476,4 @@ module_platform_driver(cdns_wdt_driver);
 MODULE_AUTHOR("Xilinx, Inc.");
 MODULE_DESCRIPTION("Watchdog driver for Cadence WDT");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

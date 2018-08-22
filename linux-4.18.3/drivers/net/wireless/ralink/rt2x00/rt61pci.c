@@ -3110,3 +3110,4 @@ static struct pci_driver rt61pci_driver = {
 };
 
 module_pci_driver(rt61pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -58,3 +58,4 @@ static struct acpi_driver smartconnect_driver = {
 module_acpi_driver(smartconnect_driver);
 
 MODULE_DEVICE_TABLE(acpi, smartconnect_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

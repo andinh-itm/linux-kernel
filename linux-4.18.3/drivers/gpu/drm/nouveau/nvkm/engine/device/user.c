@@ -454,3 +454,4 @@ nvkm_udevice_sclass = {
 	.maxver = 0,
 	.ctor = nvkm_udevice_new,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

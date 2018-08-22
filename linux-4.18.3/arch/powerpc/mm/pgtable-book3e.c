@@ -120,3 +120,4 @@ int map_kernel_page(unsigned long ea, unsigned long pa, unsigned long flags)
 	smp_wmb();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

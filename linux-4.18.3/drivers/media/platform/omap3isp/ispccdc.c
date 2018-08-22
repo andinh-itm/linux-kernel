@@ -2738,3 +2738,4 @@ void omap3isp_ccdc_cleanup(struct isp_device *isp)
 
 	mutex_destroy(&ccdc->ioctl_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

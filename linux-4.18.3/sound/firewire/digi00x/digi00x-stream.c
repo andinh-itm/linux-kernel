@@ -420,3 +420,4 @@ void snd_dg00x_stream_lock_release(struct snd_dg00x *dg00x)
 end:
 	spin_unlock_irq(&dg00x->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

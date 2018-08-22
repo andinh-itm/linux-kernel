@@ -1041,3 +1041,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA512 Secure Hash Algorithm, multi buffer accelerated");
 
 MODULE_ALIAS("sha512");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

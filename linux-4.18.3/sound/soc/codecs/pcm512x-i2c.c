@@ -92,3 +92,4 @@ module_i2c_driver(pcm512x_i2c_driver);
 MODULE_DESCRIPTION("ASoC PCM512x codec driver - I2C");
 MODULE_AUTHOR("Mark Brown <broonie@kernel.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

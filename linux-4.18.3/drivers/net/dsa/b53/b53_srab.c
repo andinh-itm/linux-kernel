@@ -442,3 +442,4 @@ module_platform_driver(b53_srab_driver);
 MODULE_AUTHOR("Hauke Mehrtens <hauke@hauke-m.de>");
 MODULE_DESCRIPTION("B53 Switch Register Access Bridge Registers (SRAB) access driver");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

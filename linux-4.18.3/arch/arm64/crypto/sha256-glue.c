@@ -194,3 +194,4 @@ static void __exit sha256_mod_fini(void)
 
 module_init(sha256_mod_init);
 module_exit(sha256_mod_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

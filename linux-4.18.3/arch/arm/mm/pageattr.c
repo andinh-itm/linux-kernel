@@ -97,3 +97,4 @@ int set_memory_x(unsigned long addr, int numpages)
 					__pgprot(0),
 					__pgprot(L_PTE_XN));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

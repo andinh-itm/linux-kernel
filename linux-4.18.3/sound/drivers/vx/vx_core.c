@@ -830,3 +830,4 @@ static void __exit alsa_vx_core_exit(void)
 
 module_init(alsa_vx_core_init)
 module_exit(alsa_vx_core_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

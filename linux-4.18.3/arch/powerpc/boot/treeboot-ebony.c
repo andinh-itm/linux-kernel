@@ -30,3 +30,4 @@ void platform_init(void)
 	ebony_init((u8 *)OPENBIOS_MAC_BASE,
 		   (u8 *)(OPENBIOS_MAC_BASE + OPENBIOS_MAC_OFFSET));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -221,3 +221,4 @@ module_i2c_driver(exc3000_driver);
 MODULE_AUTHOR("Ahmet Inan <inan@distec.de>");
 MODULE_DESCRIPTION("I2C connected EETI EXC3000 multiple touch controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

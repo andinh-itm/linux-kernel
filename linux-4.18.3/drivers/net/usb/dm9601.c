@@ -645,3 +645,4 @@ module_usb_driver(dm9601_driver);
 MODULE_AUTHOR("Peter Korsgaard <jacmet@sunsite.dk>");
 MODULE_DESCRIPTION("Davicom DM96xx USB 10/100 ethernet devices");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

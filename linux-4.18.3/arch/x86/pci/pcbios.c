@@ -427,3 +427,4 @@ void __init pci_pcbios_init(void)
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

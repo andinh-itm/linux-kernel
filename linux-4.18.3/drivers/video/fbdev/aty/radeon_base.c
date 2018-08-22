@@ -2692,3 +2692,4 @@ MODULE_PARM_DESC(force_sleep, "bool: force D2 sleep mode on all hardware");
 module_param(ignore_devlist, bool, 0);
 MODULE_PARM_DESC(ignore_devlist, "bool: ignore workarounds for bugs in specific laptops");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

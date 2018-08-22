@@ -618,3 +618,4 @@ MODULE_AUTHOR("Juergen Peitz");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(sp8870_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

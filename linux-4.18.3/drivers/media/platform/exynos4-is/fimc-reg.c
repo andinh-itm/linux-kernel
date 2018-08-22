@@ -840,3 +840,4 @@ int fimc_hw_camblk_cfg_writeback(struct fimc_dev *fimc)
 
 	return regmap_update_bits(map, SYSREG_ISPBLK, mask, mask);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

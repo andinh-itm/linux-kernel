@@ -3562,3 +3562,4 @@ module_exit(gcc_msm8996_exit);
 MODULE_DESCRIPTION("QCOM GCC MSM8996 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-msm8996");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

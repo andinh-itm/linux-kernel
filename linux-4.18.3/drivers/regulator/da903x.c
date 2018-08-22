@@ -496,3 +496,4 @@ MODULE_AUTHOR("Eric Miao <eric.miao@marvell.com>"
 	      "Mike Rapoport <mike@compulab.co.il>");
 MODULE_DESCRIPTION("Regulator Driver for Dialog Semiconductor DA903X PMIC");
 MODULE_ALIAS("platform:da903x-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

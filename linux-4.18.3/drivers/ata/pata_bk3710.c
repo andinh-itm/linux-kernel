@@ -378,3 +378,4 @@ static int __init pata_bk3710_init(void)
 
 module_init(pata_bk3710_init);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

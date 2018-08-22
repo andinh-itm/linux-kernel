@@ -2280,3 +2280,4 @@ irqreturn_t dwc2_handle_hcd_intr(struct dwc2_hsotg *hsotg)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

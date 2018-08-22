@@ -1319,3 +1319,4 @@ void mthca_unregister_device(struct mthca_dev *dev)
 	mthca_stop_catas_poll(dev);
 	ib_unregister_device(&dev->ib_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

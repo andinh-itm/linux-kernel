@@ -124,3 +124,4 @@ struct pci_ops vr41xx_pci_ops = {
 	.read	= pci_config_read,
 	.write	= pci_config_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

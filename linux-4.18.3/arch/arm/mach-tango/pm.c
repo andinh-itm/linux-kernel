@@ -31,3 +31,4 @@ static int __init tango_pm_init(void)
 }
 
 late_initcall(tango_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

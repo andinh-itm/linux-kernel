@@ -847,3 +847,4 @@ int snd_hdac_add_chmap_ctls(struct snd_pcm *pcm, int pcm_idx,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(snd_hdac_add_chmap_ctls);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

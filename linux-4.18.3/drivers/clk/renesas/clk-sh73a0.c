@@ -216,3 +216,4 @@ static void __init sh73a0_cpg_clocks_init(struct device_node *np)
 }
 CLK_OF_DECLARE(sh73a0_cpg_clks, "renesas,sh73a0-cpg-clocks",
 	       sh73a0_cpg_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

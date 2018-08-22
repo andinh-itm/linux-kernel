@@ -113,3 +113,4 @@ int ltq_pci_write_config_dword(struct pci_bus *bus, unsigned int devfn,
 
 	return PCIBIOS_SUCCESSFUL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

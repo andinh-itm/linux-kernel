@@ -234,3 +234,4 @@ void __init arch_init_irq(void)
 	else
 		ar2315_arch_init_irq();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

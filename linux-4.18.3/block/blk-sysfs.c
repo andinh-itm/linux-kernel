@@ -973,3 +973,4 @@ void blk_unregister_queue(struct gendisk *disk)
 
 	kobject_put(&disk_to_dev(disk)->kobj);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

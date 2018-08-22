@@ -196,3 +196,4 @@ int mc146818_set_time(struct rtc_time *time)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(mc146818_set_time);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

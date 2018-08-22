@@ -158,3 +158,4 @@ void remove_cache_sram(struct platform_device *dev)
 
 	dev_info(&dev->dev, "MPC85xx Cache-SRAM driver unloaded\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

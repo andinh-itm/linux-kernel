@@ -664,3 +664,4 @@ const struct file_operations ext4_dir_operations = {
 	.open		= ext4_dir_open,
 	.release	= ext4_release_dir,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

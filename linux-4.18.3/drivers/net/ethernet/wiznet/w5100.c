@@ -1285,3 +1285,4 @@ static struct platform_driver w5100_mmio_driver = {
 	.remove		= w5100_mmio_remove,
 };
 module_platform_driver(w5100_mmio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

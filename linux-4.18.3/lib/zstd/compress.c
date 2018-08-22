@@ -3482,3 +3482,4 @@ EXPORT_SYMBOL(ZSTD_compressBlock);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("Zstd Compressor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

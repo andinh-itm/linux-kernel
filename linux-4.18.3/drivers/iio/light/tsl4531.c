@@ -258,3 +258,4 @@ module_i2c_driver(tsl4531_driver);
 MODULE_AUTHOR("Peter Meerwald <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("TAOS TSL4531 ambient light sensors driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

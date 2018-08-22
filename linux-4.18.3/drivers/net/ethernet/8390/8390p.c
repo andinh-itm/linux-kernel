@@ -102,3 +102,4 @@ static void __exit NS8390p_cleanup_module(void)
 module_init(NS8390p_init_module);
 module_exit(NS8390p_cleanup_module);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

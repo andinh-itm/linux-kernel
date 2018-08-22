@@ -880,3 +880,4 @@ int acpi_match_platform_list(const struct acpi_platform_list *plat)
 	return -ENODEV;
 }
 EXPORT_SYMBOL(acpi_match_platform_list);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -219,3 +219,4 @@ static int __init sa1100_dram_init(void)
 }
 
 arch_initcall(sa1100_dram_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

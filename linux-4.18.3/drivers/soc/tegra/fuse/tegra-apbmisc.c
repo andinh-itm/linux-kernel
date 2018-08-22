@@ -181,3 +181,4 @@ void __init tegra_init_apbmisc(void)
 
 	long_ram_code = of_property_read_bool(np, "nvidia,long-ram-code");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

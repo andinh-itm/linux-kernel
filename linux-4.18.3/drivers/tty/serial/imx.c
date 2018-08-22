@@ -2559,3 +2559,4 @@ MODULE_AUTHOR("Sascha Hauer");
 MODULE_DESCRIPTION("IMX generic serial port driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:imx-uart");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

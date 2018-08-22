@@ -91,3 +91,4 @@ static struct hid_driver gyration_driver = {
 module_hid_driver(gyration_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

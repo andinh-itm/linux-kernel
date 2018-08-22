@@ -76,3 +76,4 @@ asmlinkage void mmcif_loader(unsigned char *buf, unsigned long no_bytes)
 
 	mmcif_update_progress(MMCIF_PROGRESS_DONE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

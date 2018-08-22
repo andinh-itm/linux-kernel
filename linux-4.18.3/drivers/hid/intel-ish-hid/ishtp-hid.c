@@ -244,3 +244,4 @@ void ishtp_hid_remove(struct ishtp_cl_data *client_data)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

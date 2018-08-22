@@ -1515,3 +1515,4 @@ static int __init pmac_i2c_create_platform_devices(void)
 	return 0;
 }
 machine_subsys_initcall(powermac, pmac_i2c_create_platform_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

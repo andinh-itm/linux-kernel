@@ -2440,3 +2440,4 @@ static struct usb_driver ene_ub6250_driver = {
 };
 
 module_usb_stor_driver(ene_ub6250_driver, ene_ub6250_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

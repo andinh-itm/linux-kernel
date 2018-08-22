@@ -176,3 +176,4 @@ static void __init sun4i_a10_dram_init(struct device_node *node)
 }
 CLK_OF_DECLARE(sun4i_a10_dram, "allwinner,sun4i-a10-dram-gates-clk",
 	       sun4i_a10_dram_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

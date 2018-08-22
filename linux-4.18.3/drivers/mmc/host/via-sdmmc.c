@@ -1336,3 +1336,4 @@ module_pci_driver(via_sd_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("VIA Technologies Inc.");
 MODULE_DESCRIPTION("VIA SD/MMC Card Interface driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

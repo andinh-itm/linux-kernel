@@ -27,3 +27,4 @@ DT_MACHINE_START(STM32DT, "STM32 (Device Tree Support)")
 	.restart = armv7m_restart,
 #endif
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

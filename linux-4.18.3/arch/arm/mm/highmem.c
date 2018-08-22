@@ -147,3 +147,4 @@ void *kmap_atomic_pfn(unsigned long pfn)
 
 	return (void *)vaddr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

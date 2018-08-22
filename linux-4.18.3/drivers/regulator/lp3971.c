@@ -462,3 +462,4 @@ module_i2c_driver(lp3971_i2c_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Marek Szyprowski <m.szyprowski@samsung.com>");
 MODULE_DESCRIPTION("LP3971 PMIC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

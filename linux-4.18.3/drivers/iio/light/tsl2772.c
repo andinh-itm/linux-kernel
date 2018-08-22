@@ -1800,3 +1800,4 @@ MODULE_AUTHOR("J. August Brenner <Jon.Brenner@ams.com>");
 MODULE_AUTHOR("Brian Masney <masneyb@onstation.org>");
 MODULE_DESCRIPTION("TAOS tsl2772 ambient and proximity light sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -358,3 +358,4 @@ const struct drm_ioctl_desc sis_ioctls[] = {
 };
 
 int sis_max_ioctl = ARRAY_SIZE(sis_ioctls);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

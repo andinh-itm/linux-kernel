@@ -382,3 +382,4 @@ void radeon_cursor_reset(struct drm_crtc *crtc)
 		radeon_lock_cursor(crtc, false);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

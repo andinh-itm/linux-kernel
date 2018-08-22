@@ -1166,3 +1166,4 @@ module_platform_driver(omap_des_driver);
 MODULE_DESCRIPTION("OMAP DES hw acceleration support.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Joel Fernandes <joelf@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

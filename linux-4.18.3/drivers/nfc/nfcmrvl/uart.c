@@ -234,3 +234,4 @@ MODULE_PARM_DESC(hci_muxed, "Tell if transport is muxed in HCI one.");
 
 module_param(reset_n_io, uint, 0);
 MODULE_PARM_DESC(reset_n_io, "GPIO that is wired to RESET_N signal.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

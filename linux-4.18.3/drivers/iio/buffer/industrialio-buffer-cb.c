@@ -152,3 +152,4 @@ EXPORT_SYMBOL_GPL(iio_channel_cb_get_iio_dev);
 MODULE_AUTHOR("Jonathan Cameron <jic23@kernel.org>");
 MODULE_DESCRIPTION("Industrial I/O callback buffer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

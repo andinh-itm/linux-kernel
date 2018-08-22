@@ -1686,3 +1686,4 @@ struct rtl8xxxu_fileops rtl8723bu_fops = {
 	.page_num_lo = TX_PAGE_NUM_LO_PQ_8723B,
 	.page_num_norm = TX_PAGE_NUM_NORM_PQ_8723B,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

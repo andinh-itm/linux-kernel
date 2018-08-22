@@ -761,3 +761,4 @@ const struct attribute_group *qeth_osn_attr_groups[] = {
 	&qeth_osn_device_attr_group,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

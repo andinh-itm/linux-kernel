@@ -1136,3 +1136,4 @@ void nilfs_sysfs_exit(void)
 	sysfs_remove_group(&nilfs_kset->kobj, &nilfs_feature_attr_group);
 	kset_unregister(nilfs_kset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

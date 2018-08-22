@@ -408,3 +408,4 @@ void spi_mem_driver_unregister(struct spi_mem_driver *memdrv)
 	spi_unregister_driver(&memdrv->spidrv);
 }
 EXPORT_SYMBOL_GPL(spi_mem_driver_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

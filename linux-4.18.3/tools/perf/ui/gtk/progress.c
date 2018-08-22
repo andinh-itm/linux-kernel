@@ -58,3 +58,4 @@ void gtk_ui_progress__init(void)
 {
 	ui_progress__ops = &gtk_ui_progress__ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

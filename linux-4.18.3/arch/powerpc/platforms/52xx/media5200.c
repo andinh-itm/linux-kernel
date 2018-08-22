@@ -255,3 +255,4 @@ define_machine(media5200_platform) {
 	.restart	= mpc52xx_restart,
 	.calibrate_decr	= generic_calibrate_decr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

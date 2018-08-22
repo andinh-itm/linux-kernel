@@ -619,3 +619,4 @@ void usb6fire_control_destroy(struct sfire_chip *chip)
 	kfree(chip->control);
 	chip->control = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -156,3 +156,4 @@ static struct platform_driver armada_3700_tbg_clock_driver = {
 };
 
 builtin_platform_driver(armada_3700_tbg_clock_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

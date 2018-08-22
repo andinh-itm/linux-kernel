@@ -381,3 +381,4 @@ static struct platform_driver spm_driver = {
 };
 
 builtin_platform_driver(spm_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

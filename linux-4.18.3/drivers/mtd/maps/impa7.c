@@ -117,3 +117,4 @@ module_exit(cleanup_impa7);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Pavel Bartusek <pba@sysgo.de>");
 MODULE_DESCRIPTION("MTD map driver for implementa impA7");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

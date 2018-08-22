@@ -601,3 +601,4 @@ static int __init wakeupgen_init(struct device_node *node,
 	return 0;
 }
 IRQCHIP_DECLARE(ti_wakeupgen, "ti,omap4-wugen-mpu", wakeupgen_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

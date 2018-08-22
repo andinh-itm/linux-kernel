@@ -154,3 +154,4 @@ void finalize_identity_maps(void)
 {
 	write_cr3(top_level_pgt);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

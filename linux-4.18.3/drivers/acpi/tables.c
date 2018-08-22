@@ -794,3 +794,4 @@ static int __init acpi_force_32bit_fadt_addr(char *s)
 }
 
 early_param("acpi_force_32bit_fadt_addr", acpi_force_32bit_fadt_addr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

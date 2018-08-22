@@ -1180,3 +1180,4 @@ void ath10k_coredump_destroy(struct ath10k *ar)
 	vfree(ar->coredump.fw_crash_data);
 	ar->coredump.fw_crash_data = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

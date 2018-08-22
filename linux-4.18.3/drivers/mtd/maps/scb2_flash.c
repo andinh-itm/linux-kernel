@@ -236,3 +236,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Tim Hockin <thockin@sun.com>");
 MODULE_DESCRIPTION("MTD map driver for Intel SCB2 BIOS Flash");
 MODULE_DEVICE_TABLE(pci, scb2_flash_pci_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

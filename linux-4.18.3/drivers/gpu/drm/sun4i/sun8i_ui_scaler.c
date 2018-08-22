@@ -170,3 +170,4 @@ void sun8i_ui_scaler_setup(struct sun8i_mixer *mixer, int layer,
 			     SUN8I_SCALER_GSU_HCOEFF(vi_cnt, layer, i),
 			     lan2coefftab16[offset + i]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

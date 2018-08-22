@@ -219,3 +219,4 @@ nvkm_mc_new_(const struct nvkm_mc_func *func, struct nvkm_device *device,
 	nvkm_mc_ctor(func, device, index, *pmc);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

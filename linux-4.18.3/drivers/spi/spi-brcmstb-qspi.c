@@ -51,3 +51,4 @@ module_platform_driver(brcmstb_qspi_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Kamal Dasu");
 MODULE_DESCRIPTION("Broadcom SPI driver for settop SoC");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

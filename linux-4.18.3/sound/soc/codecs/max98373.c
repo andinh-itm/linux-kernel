@@ -967,3 +967,4 @@ module_i2c_driver(max98373_i2c_driver)
 MODULE_DESCRIPTION("ALSA SoC MAX98373 driver");
 MODULE_AUTHOR("Ryan Lee <ryans.lee@maximintegrated.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

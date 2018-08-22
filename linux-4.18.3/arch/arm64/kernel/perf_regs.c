@@ -60,3 +60,4 @@ void perf_get_regs_user(struct perf_regs *regs_user,
 	regs_user->regs = task_pt_regs(current);
 	regs_user->abi = perf_reg_abi(current);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

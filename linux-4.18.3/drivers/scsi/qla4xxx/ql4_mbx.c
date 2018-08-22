@@ -2454,3 +2454,4 @@ int qla4_83xx_set_port_config(struct scsi_qla_host *ha, uint32_t *config)
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -396,3 +396,4 @@ static struct platform_driver soc_button_driver = {
 module_platform_driver(soc_button_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

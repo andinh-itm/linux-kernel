@@ -680,3 +680,4 @@ static int __init test_code_patching(void)
 late_initcall(test_code_patching);
 
 #endif /* CONFIG_CODE_PATCHING_SELFTEST */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

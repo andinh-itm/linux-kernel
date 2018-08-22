@@ -135,3 +135,4 @@ module_phy_driver(dp83848_driver);
 MODULE_DESCRIPTION("Texas Instruments DP83848 PHY driver");
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

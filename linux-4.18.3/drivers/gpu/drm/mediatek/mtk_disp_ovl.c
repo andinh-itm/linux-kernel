@@ -339,3 +339,4 @@ struct platform_driver mtk_disp_ovl_driver = {
 		.of_match_table = mtk_disp_ovl_driver_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

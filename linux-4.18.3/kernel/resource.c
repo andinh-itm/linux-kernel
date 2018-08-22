@@ -1621,3 +1621,4 @@ static int __init strict_iomem(char *str)
 }
 
 __setup("iomem=", strict_iomem);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

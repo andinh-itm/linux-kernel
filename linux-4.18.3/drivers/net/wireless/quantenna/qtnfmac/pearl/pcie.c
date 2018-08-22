@@ -1492,3 +1492,4 @@ module_exit(qtnf_pcie_exit);
 MODULE_AUTHOR("Quantenna Communications");
 MODULE_DESCRIPTION("Quantenna QSR10g PCIe bus driver for 802.11 wireless LAN.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

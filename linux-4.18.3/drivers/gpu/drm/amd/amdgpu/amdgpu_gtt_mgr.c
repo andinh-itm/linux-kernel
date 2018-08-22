@@ -298,3 +298,4 @@ const struct ttm_mem_type_manager_func amdgpu_gtt_mgr_func = {
 	.put_node = amdgpu_gtt_mgr_del,
 	.debug = amdgpu_gtt_mgr_debug
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

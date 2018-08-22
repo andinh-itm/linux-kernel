@@ -129,3 +129,4 @@ int __init s3c2410a_init(void)
 	s3c2410_dev.bus = &s3c2410a_subsys;
 	return s3c2410_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

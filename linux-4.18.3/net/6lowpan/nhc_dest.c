@@ -26,3 +26,4 @@ LOWPAN_NHC(nhc_dest, "RFC6282 Destination Options", NEXTHDR_DEST, 0,
 module_lowpan_nhc(nhc_dest);
 MODULE_DESCRIPTION("6LoWPAN next header RFC6282 Destination Options compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

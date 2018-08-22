@@ -48,3 +48,4 @@ void local_flush_tlb_page(struct vm_area_struct *vma, unsigned long addr)
 	__nds32__mtsr_dsb(ocid, NDS32_SR_TLB_MISC);
 	spin_unlock_irqrestore(&cid_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

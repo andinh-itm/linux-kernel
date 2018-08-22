@@ -459,3 +459,4 @@ module_platform_driver(tdm_driver);
 MODULE_AUTHOR("Baoyou Xie <baoyou.xie@linaro.org>");
 MODULE_DESCRIPTION("ZTE TDM DAI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

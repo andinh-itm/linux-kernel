@@ -140,3 +140,4 @@ const struct cpu_operations acpi_parking_protocol_ops = {
 	.cpu_boot	= acpi_parking_protocol_cpu_boot,
 	.cpu_postboot	= acpi_parking_protocol_cpu_postboot
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

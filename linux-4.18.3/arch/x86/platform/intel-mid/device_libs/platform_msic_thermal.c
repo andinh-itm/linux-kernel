@@ -34,3 +34,4 @@ static const struct devs_id msic_thermal_dev_id __initconst = {
 };
 
 sfi_device(msic_thermal_dev_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

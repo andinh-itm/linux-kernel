@@ -501,3 +501,4 @@ struct prom_pmemblock *__init prom_getmdesc(void)
 
 	return &mdesc[0];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

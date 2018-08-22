@@ -121,3 +121,4 @@ ath5k_sysfs_unregister(struct ath5k_hw *ah)
 
 	sysfs_remove_group(&dev->kobj, &ath5k_attribute_group_ani);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

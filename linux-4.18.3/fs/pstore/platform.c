@@ -769,3 +769,4 @@ MODULE_PARM_DESC(compress, "Pstore compression to use");
 
 module_param(backend, charp, 0444);
 MODULE_PARM_DESC(backend, "Pstore backend to use");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

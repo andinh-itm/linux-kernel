@@ -98,3 +98,4 @@ struct squashfs_page_actor *squashfs_page_actor_init_special(struct page **page,
 	actor->squashfs_finish_page = direct_finish_page;
 	return actor;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

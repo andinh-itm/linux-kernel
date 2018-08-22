@@ -360,3 +360,4 @@ module_usb_driver(kalmia_driver);
 MODULE_AUTHOR("Marius Bjoernstad Kotsbak <marius@kotsbak.com>");
 MODULE_DESCRIPTION("Samsung Kalmia USB network driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

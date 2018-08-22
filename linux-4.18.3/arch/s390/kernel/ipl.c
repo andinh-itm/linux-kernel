@@ -1785,3 +1785,4 @@ void s390_reset_system(void)
 	__ctl_clear_bit(0, 28);
 	diag308_reset();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -272,3 +272,4 @@ void cnl_ipc_free(struct sst_generic_ipc *ipc)
 	cnl_ipc_op_int_disable(ipc->dsp);
 	sst_ipc_fini(ipc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

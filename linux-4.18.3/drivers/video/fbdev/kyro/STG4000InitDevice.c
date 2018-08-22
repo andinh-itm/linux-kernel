@@ -324,3 +324,4 @@ int SetCoreClockPLL(volatile STG4000REG __iomem *pSTGReg, struct pci_dev *pDev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

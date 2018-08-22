@@ -484,3 +484,4 @@ void s5p_mfc_close_mfc_inst(struct s5p_mfc_dev *dev, struct s5p_mfc_ctx *ctx)
 	ctx->inst_no = MFC_NO_INSTANCE_SET;
 	ctx->state = MFCINST_FREE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

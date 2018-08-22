@@ -239,3 +239,4 @@ module_exit(octeon_sha1_mod_fini);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA1 Secure Hash Algorithm (OCTEON)");
 MODULE_AUTHOR("Aaro Koskinen <aaro.koskinen@iki.fi>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

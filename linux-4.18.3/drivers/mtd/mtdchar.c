@@ -1201,3 +1201,4 @@ void __exit cleanup_mtdchar(void)
 }
 
 MODULE_ALIAS_CHARDEV_MAJOR(MTD_CHAR_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

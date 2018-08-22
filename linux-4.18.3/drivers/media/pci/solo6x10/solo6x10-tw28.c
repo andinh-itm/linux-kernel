@@ -870,3 +870,4 @@ void tw28_set_audio_gain(struct solo_dev *solo_dev, u8 ch, u8 val)
 	tw_writebyte(solo_dev, chip_num, TW286x_AUDIO_INPUT_GAIN_ADDR(ch),
 		     TW_AUDIO_INPUT_GAIN_ADDR(ch), val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -279,3 +279,4 @@ EXPORT_SYMBOL_GPL(pmi_unregister_handler);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Christian Krafft <krafft@de.ibm.com>");
 MODULE_DESCRIPTION("IBM Platform Management Interrupt driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -320,3 +320,4 @@ module_platform_driver(rc5t583_rtc_driver);
 MODULE_ALIAS("platform:rtc-rc5t583");
 MODULE_AUTHOR("Venu Byravarasu <vbyravarasu@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

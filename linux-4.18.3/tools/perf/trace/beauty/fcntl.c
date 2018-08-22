@@ -98,3 +98,4 @@ size_t syscall_arg__scnprintf_fcntl_arg(char *bf, size_t size, struct syscall_ar
 
 	return syscall_arg__scnprintf_long(bf, size, arg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

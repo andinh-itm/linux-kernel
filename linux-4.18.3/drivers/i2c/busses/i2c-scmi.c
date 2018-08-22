@@ -437,3 +437,4 @@ module_acpi_driver(acpi_smbus_cmi_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Crane Cai <crane.cai@amd.com>");
 MODULE_DESCRIPTION("ACPI SMBus CMI driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -93,3 +93,4 @@ MODULE_DESCRIPTION("Power off driver for ams AS3722 PMIC Device");
 MODULE_ALIAS("platform:as3722-power-off");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

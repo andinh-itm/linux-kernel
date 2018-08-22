@@ -203,3 +203,4 @@ int acpi_getopt(int argc, char **argv, char *opts)
 
 	return (current_char);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

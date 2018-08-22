@@ -296,3 +296,4 @@ static struct pci_driver cs5530_driver = {
 };
 
 module_pci_driver(cs5530_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

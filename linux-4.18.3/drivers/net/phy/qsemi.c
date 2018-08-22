@@ -130,3 +130,4 @@ static struct mdio_device_id __maybe_unused qs6612_tbl[] = {
 };
 
 MODULE_DEVICE_TABLE(mdio, qs6612_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

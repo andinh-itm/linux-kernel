@@ -764,3 +764,4 @@ void mwifiex_fw_dump_event(struct mwifiex_private *priv)
 			 0, NULL, true);
 }
 EXPORT_SYMBOL_GPL(mwifiex_fw_dump_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

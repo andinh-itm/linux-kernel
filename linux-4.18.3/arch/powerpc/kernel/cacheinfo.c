@@ -866,3 +866,4 @@ void cacheinfo_cpu_offline(unsigned int cpu_id)
 		cache_cpu_clear(cache, cpu_id);
 }
 #endif /* (CONFIG_PPC_PSERIES && CONFIG_SUSPEND) || CONFIG_HOTPLUG_CPU */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

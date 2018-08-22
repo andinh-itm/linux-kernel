@@ -364,3 +364,4 @@ module_rpmsg_driver(wcnss_ctrl_driver);
 
 MODULE_DESCRIPTION("Qualcomm WCNSS control driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

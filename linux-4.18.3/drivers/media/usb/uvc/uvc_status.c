@@ -219,3 +219,4 @@ void uvc_status_stop(struct uvc_device *dev)
 {
 	usb_kill_urb(dev->int_urb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

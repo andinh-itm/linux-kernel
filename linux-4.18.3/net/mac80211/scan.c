@@ -1289,3 +1289,4 @@ void ieee80211_sched_scan_stopped(struct ieee80211_hw *hw)
 	schedule_work(&local->sched_scan_stopped_work);
 }
 EXPORT_SYMBOL(ieee80211_sched_scan_stopped);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

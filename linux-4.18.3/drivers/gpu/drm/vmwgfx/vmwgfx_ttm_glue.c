@@ -96,3 +96,4 @@ void vmw_ttm_global_release(struct vmw_private *dev_priv)
 	drm_global_item_unref(&dev_priv->bo_global_ref.ref);
 	drm_global_item_unref(&dev_priv->mem_global_ref);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

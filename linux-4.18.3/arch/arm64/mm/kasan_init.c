@@ -242,3 +242,4 @@ void __init kasan_init(void)
 	init_task.kasan_depth = 0;
 	pr_info("KernelAddressSanitizer initialized\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1007,3 +1007,4 @@ MODULE_DEVICE_TABLE (usb, usb_table);
 MODULE_AUTHOR("Henk Vergonet");
 MODULE_DESCRIPTION("Yealink phone driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

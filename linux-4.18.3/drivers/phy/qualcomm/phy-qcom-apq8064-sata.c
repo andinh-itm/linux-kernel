@@ -285,3 +285,4 @@ module_platform_driver(qcom_apq8064_sata_phy_driver);
 
 MODULE_DESCRIPTION("QCOM apq8064 SATA PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

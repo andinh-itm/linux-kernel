@@ -893,3 +893,4 @@ void picolcd_exit_devfs(struct picolcd_data *data)
 	mutex_destroy(&data->mutex_flash);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1906,3 +1906,4 @@ void dispclkdppclkdcfclk_deep_sleep_prefetch_parameters_watermarks_and_performan
 	}
 	v->max_used_bw = v->max_rd_bandwidth + v->wr_bandwidth;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

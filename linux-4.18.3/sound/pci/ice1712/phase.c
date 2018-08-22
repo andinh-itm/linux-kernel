@@ -962,3 +962,4 @@ struct snd_ice1712_card_info snd_vt1724_phase_cards[] = {
 	},
 	{ } /* terminator */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

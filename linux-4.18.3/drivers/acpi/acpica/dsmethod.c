@@ -826,3 +826,4 @@ acpi_ds_terminate_control_method(union acpi_operand_object *method_desc,
 
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

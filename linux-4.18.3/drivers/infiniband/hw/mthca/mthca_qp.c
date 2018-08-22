@@ -2321,3 +2321,4 @@ void mthca_cleanup_qp_table(struct mthca_dev *dev)
 	mthca_array_cleanup(&dev->qp_table.qp, dev->limits.num_qps);
 	mthca_alloc_cleanup(&dev->qp_table.alloc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

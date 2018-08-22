@@ -115,3 +115,4 @@ void wpan_phy_sysfs_exit(void)
 {
 	class_unregister(&wpan_phy_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

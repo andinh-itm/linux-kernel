@@ -204,3 +204,4 @@ void __init smdk_machine_init(void)
 
 	s3c_pm_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

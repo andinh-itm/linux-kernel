@@ -241,3 +241,4 @@ void b43legacy_leds_exit(struct b43legacy_wldev *dev)
 	b43legacy_unregister_led(&dev->led_assoc);
 	b43legacy_unregister_led(&dev->led_radio);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

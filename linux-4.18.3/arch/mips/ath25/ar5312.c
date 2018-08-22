@@ -391,3 +391,4 @@ void __init ar5312_arch_init(void)
 
 	ath25_serial_setup(AR5312_UART0_BASE, irq, ar5312_sys_frequency());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

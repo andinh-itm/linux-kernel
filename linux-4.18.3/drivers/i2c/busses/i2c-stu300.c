@@ -1013,3 +1013,4 @@ MODULE_AUTHOR("Linus Walleij <linus.walleij@stericsson.com>");
 MODULE_DESCRIPTION("ST Micro DDC I2C adapter (" NAME ")");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

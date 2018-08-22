@@ -36,3 +36,4 @@ void oprofile_arch_exit(void)
 {
 	op_nmi_exit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

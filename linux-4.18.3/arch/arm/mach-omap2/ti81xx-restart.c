@@ -32,3 +32,4 @@ void ti81xx_restart(enum reboot_mode mode, const char *cmd)
 				   TI81XX_PRM_DEVICE_RSTCTRL);
 	while (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

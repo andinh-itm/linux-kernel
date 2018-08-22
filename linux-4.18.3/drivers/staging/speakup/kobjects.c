@@ -1046,3 +1046,4 @@ void speakup_kobj_exit(void)
 	kobject_put(speakup_kobj);
 	kobject_put(accessibility_kobj);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

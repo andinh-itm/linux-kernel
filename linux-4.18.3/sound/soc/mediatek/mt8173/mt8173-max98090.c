@@ -197,3 +197,4 @@ MODULE_AUTHOR("Koro Chen <koro.chen@mediatek.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mt8173-max98090");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

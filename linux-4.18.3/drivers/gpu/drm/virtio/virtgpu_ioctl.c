@@ -570,3 +570,4 @@ struct drm_ioctl_desc virtio_gpu_ioctls[DRM_VIRTIO_NUM_IOCTLS] = {
 	DRM_IOCTL_DEF_DRV(VIRTGPU_GET_CAPS, virtio_gpu_get_caps_ioctl,
 			  DRM_AUTH | DRM_UNLOCKED | DRM_RENDER_ALLOW),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

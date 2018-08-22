@@ -586,3 +586,4 @@ static int __init ve_spc_clk_init(void)
 	return 0;
 }
 device_initcall(ve_spc_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

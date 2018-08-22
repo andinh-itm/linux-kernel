@@ -129,3 +129,4 @@ module_i2c_driver(cma3000_i2c_driver);
 MODULE_DESCRIPTION("CMA3000-D0x Accelerometer I2C Driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Hemanth V <hemanthv@ti.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

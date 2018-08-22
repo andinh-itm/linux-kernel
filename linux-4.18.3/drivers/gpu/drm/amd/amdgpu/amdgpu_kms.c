@@ -1273,3 +1273,4 @@ int amdgpu_debugfs_firmware_init(struct amdgpu_device *adev)
 	return 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

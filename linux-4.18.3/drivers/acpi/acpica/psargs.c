@@ -906,3 +906,4 @@ acpi_ps_get_next_arg(struct acpi_walk_state *walk_state,
 	*return_arg = arg;
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -475,3 +475,4 @@ void r8712_event_handle(struct _adapter *padapter, __le32 *peventbuf)
 _abort_event_:
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -293,3 +293,4 @@ MODULE_AUTHOR("Aaron Lu <aaron.lu@intel.com>");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_DESCRIPTION("Intel INT340x common thermal zone handler");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

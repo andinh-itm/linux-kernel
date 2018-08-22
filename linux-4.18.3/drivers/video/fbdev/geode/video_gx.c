@@ -347,3 +347,4 @@ int gx_blank_display(struct fb_info *info, int blank_mode)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

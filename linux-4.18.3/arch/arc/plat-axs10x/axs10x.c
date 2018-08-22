@@ -392,3 +392,4 @@ char coware_swa_pid_offset[TASK_PID];
 char coware_swa_comm_offset[TASK_COMM];
 
 #endif	/* CONFIG_AXS103 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

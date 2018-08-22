@@ -926,3 +926,4 @@ module_exit(atm_clip_exit);
 MODULE_AUTHOR("Werner Almesberger");
 MODULE_DESCRIPTION("Classical/IP over ATM interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

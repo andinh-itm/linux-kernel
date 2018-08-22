@@ -189,3 +189,4 @@ static struct i2c_driver m52790_driver = {
 };
 
 module_i2c_driver(m52790_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

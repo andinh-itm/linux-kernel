@@ -850,3 +850,4 @@ static int scan_revoke_records(journal_t *journal, struct buffer_head *bh,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -262,3 +262,4 @@ static int __init atmel_st_timer_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(atmel_st_timer, "atmel,at91rm9200-st",
 		       atmel_st_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

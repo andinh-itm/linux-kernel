@@ -261,3 +261,4 @@ snd_seq_oss_readq_info_read(struct seq_oss_readq *q, struct snd_info_buffer *buf
 		    q->qlen, q->input_time);
 }
 #endif /* CONFIG_SND_PROC_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

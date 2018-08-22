@@ -651,3 +651,4 @@ static const struct dvb_frontend_ops cx22702_ops = {
 MODULE_DESCRIPTION("Conexant CX22702 DVB-T Demodulator driver");
 MODULE_AUTHOR("Steven Toth");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

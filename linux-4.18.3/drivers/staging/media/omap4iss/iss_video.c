@@ -1288,3 +1288,4 @@ void omap4iss_video_unregister(struct iss_video *video)
 {
 	video_unregister_device(&video->video);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -130,3 +130,4 @@ unsigned long clk_get_rate(struct clk *clk)
 EXPORT_SYMBOL(clk_get_rate);
 
 /***************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

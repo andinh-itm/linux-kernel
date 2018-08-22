@@ -264,3 +264,4 @@ const struct machine_desc * __init setup_machine_fdt(unsigned int dt_phys)
 
 	return mdesc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

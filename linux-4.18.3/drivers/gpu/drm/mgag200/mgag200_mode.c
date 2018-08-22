@@ -1762,3 +1762,4 @@ void mgag200_modeset_fini(struct mga_device *mdev)
 {
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -60,3 +60,4 @@ int trace_enter_exit(struct syscalls_exit_open_args *ctx)
 	count((void *)&exit_open_map);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

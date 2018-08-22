@@ -13,3 +13,4 @@ unsigned char _bin2bcd(unsigned val)
 	return ((val / 10) << 4) + val % 10;
 }
 EXPORT_SYMBOL(_bin2bcd);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1194,3 +1194,4 @@ module_i2c_driver(bq24257_driver);
 MODULE_AUTHOR("Laurentiu Palcu <laurentiu.palcu@intel.com>");
 MODULE_DESCRIPTION("bq24257 charger driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1003,3 +1003,4 @@ void mlxsw_sp_span_respin(struct mlxsw_sp *mlxsw_sp)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

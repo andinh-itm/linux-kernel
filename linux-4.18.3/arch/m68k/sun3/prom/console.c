@@ -168,3 +168,4 @@ prom_query_output_device()
 	return PROMDEV_O_UNK;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

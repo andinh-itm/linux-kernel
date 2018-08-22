@@ -120,3 +120,4 @@ int of_get_nvmem_mac_address(struct device_node *np, void *addr)
 	return ret;
 }
 EXPORT_SYMBOL(of_get_nvmem_mac_address);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

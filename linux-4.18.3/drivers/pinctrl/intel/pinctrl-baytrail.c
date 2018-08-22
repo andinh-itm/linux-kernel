@@ -1956,3 +1956,4 @@ static int __init byt_gpio_init(void)
 	return platform_driver_register(&byt_gpio_driver);
 }
 subsys_initcall(byt_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

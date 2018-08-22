@@ -496,3 +496,4 @@ module_exit(ring_buffer_benchmark_exit);
 MODULE_AUTHOR("Steven Rostedt");
 MODULE_DESCRIPTION("ring_buffer_benchmark");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

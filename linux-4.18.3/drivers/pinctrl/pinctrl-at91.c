@@ -1846,3 +1846,4 @@ static int __init at91_pinctrl_init(void)
 	return platform_register_drivers(drivers, ARRAY_SIZE(drivers));
 }
 arch_initcall(at91_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

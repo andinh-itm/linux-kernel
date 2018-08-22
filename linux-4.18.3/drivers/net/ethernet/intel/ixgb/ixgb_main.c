@@ -2316,3 +2316,4 @@ static void ixgb_io_resume(struct pci_dev *pdev)
 }
 
 /* ixgb_main.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

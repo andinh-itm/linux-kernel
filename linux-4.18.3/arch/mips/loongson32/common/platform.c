@@ -376,3 +376,4 @@ struct platform_device ls1x_wdt_pdev = {
 	.num_resources	= ARRAY_SIZE(ls1x_wdt_resources),
 	.resource	= ls1x_wdt_resources,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

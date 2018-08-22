@@ -517,3 +517,4 @@ static void __init of_sama5d3_clk_pll_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(sama5d3_clk_pll, "atmel,sama5d3-clk-pll",
 	       of_sama5d3_clk_pll_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

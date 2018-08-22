@@ -420,3 +420,4 @@ MODULE_AUTHOR("Simon Guinot <sguinot@lacie.com>");
 MODULE_DESCRIPTION("Network Space v2 LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:leds-ns2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -183,3 +183,4 @@ void __init am33xx_powerdomains_init(void)
 	pwrdm_register_pwrdms(powerdomains_am33xx);
 	pwrdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

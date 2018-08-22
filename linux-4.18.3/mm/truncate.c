@@ -915,3 +915,4 @@ void truncate_pagecache_range(struct inode *inode, loff_t lstart, loff_t lend)
 	truncate_inode_pages_range(mapping, lstart, lend);
 }
 EXPORT_SYMBOL(truncate_pagecache_range);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

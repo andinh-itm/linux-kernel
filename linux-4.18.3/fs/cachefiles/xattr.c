@@ -326,3 +326,4 @@ int cachefiles_remove_object_xattr(struct cachefiles_cache *cache,
 	_leave(" = %d", ret);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

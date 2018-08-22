@@ -3044,3 +3044,4 @@ lpfc_decode_firmware_rev(struct lpfc_hba *phba, char *fwrevision, int flag)
 	}
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

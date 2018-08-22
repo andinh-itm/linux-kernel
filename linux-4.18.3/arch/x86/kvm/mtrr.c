@@ -729,3 +729,4 @@ bool kvm_mtrr_check_gfn_range_consistency(struct kvm_vcpu *vcpu, gfn_t gfn,
 
 	return type == mtrr_default_type(mtrr_state);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

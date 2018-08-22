@@ -338,3 +338,4 @@ void __init spear6xx_clk_init(void __iomem *misc_base)
 			SSP2_CLK_ENB, 0, &_lock);
 	clk_register_clkdev(clk, NULL, "ssp-pl022.2");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

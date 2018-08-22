@@ -672,3 +672,4 @@ void __exit nvdimm_devs_exit(void)
 {
 	ida_destroy(&dimm_ida);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

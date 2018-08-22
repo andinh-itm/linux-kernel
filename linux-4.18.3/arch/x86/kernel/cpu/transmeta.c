@@ -109,3 +109,4 @@ static const struct cpu_dev transmeta_cpu_dev = {
 };
 
 cpu_dev_register(transmeta_cpu_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

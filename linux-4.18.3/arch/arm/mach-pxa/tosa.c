@@ -938,3 +938,4 @@ MACHINE_START(TOSA, "SHARP Tosa")
 	.init_time	= pxa_timer_init,
 	.restart	= tosa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

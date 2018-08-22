@@ -110,3 +110,4 @@ MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("ALSA SoC QI LB60 Audio support");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:qi-lb60-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

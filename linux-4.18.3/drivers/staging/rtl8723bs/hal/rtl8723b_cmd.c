@@ -2348,3 +2348,4 @@ void rtl8723b_download_BTCoex_AP_mode_rsvd_page(struct adapter *padapter)
 	val8 &= ~BIT(0); /*  ~ENSWBCN */
 	rtw_write8(padapter, REG_CR+1, val8);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

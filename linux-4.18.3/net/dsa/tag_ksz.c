@@ -100,3 +100,4 @@ const struct dsa_device_ops ksz_netdev_ops = {
 	.xmit	= ksz_xmit,
 	.rcv	= ksz_rcv,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

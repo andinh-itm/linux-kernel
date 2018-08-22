@@ -323,3 +323,4 @@ MODULE_AUTHOR("James Chapman <jchapman@katalix.com>");
 MODULE_DESCRIPTION("MV64x60 watchdog driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" MV64x60_WDT_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

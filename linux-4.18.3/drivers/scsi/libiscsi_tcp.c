@@ -1218,3 +1218,4 @@ void iscsi_tcp_conn_get_stats(struct iscsi_cls_conn *cls_conn,
 	stats->tmfrsp_pdus = conn->tmfrsp_pdus_cnt;
 }
 EXPORT_SYMBOL_GPL(iscsi_tcp_conn_get_stats);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

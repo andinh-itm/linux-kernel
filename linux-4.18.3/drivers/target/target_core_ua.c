@@ -335,3 +335,4 @@ int core_scsi3_ua_clear_for_request_sense(
 
 	return (head) ? -EPERM : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

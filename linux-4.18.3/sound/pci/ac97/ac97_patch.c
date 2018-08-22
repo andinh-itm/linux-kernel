@@ -3945,3 +3945,4 @@ static int patch_ucb1400(struct snd_ac97 * ac97)
 	snd_ac97_write_cache(ac97, 0x6c, 0x0030);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -328,3 +328,4 @@ acpi_status acpi_ut_release_mutex(acpi_mutex_handle mutex_id)
 	acpi_os_release_mutex(acpi_gbl_mutex_info[mutex_id].mutex);
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

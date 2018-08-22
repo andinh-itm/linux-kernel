@@ -2440,3 +2440,4 @@ void intel_hdmi_init(struct drm_i915_private *dev_priv,
 
 	intel_hdmi_init_connector(intel_dig_port, intel_connector);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

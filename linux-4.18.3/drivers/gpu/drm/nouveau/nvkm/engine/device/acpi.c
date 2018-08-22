@@ -56,3 +56,4 @@ nvkm_acpi_init(struct nvkm_device *device)
 	register_acpi_notifier(&device->acpi.nb);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

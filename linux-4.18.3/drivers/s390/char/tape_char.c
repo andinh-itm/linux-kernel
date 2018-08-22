@@ -499,3 +499,4 @@ tapechar_exit(void)
 {
 	unregister_chrdev_region(MKDEV(tapechar_major, 0), 256);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

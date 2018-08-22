@@ -1100,3 +1100,4 @@ module_exit(lp_cleanup_module);
 
 MODULE_ALIAS_CHARDEV_MAJOR(LP_MAJOR);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

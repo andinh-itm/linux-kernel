@@ -1703,3 +1703,4 @@ static int __init st_pctl_init(void)
 	return platform_driver_register(&st_pctl_driver);
 }
 arch_initcall(st_pctl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -250,3 +250,4 @@ int brcmf_commonring_read_complete(struct brcmf_commonring *commonring,
 
 	return -EIO;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

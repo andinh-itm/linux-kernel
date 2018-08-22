@@ -1045,3 +1045,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sm_lm78_init);
 module_exit(sm_lm78_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

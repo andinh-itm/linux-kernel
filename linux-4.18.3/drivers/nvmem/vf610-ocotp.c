@@ -261,3 +261,4 @@ module_platform_driver(vf610_ocotp_driver);
 MODULE_AUTHOR("Sanchayan Maity <sanchayan.maity@toradex.com>");
 MODULE_DESCRIPTION("Vybrid OCOTP driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

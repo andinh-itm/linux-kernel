@@ -81,3 +81,4 @@ int main(int argc, char **argv) {
 	printf("freq: %7.0f\n", tsc / (1.0*aperf / (1.0 * mperf)) / total);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

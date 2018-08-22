@@ -60,3 +60,4 @@ const char *ceph_osd_state_name(int s)
 		return "???";
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

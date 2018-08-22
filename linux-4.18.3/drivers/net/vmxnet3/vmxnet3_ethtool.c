@@ -909,3 +909,4 @@ void vmxnet3_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &vmxnet3_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

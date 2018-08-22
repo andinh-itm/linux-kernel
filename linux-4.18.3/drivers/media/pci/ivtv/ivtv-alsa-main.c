@@ -288,3 +288,4 @@ static void __exit ivtv_alsa_exit(void)
 
 module_init(ivtv_alsa_init);
 module_exit(ivtv_alsa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

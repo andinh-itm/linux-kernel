@@ -228,3 +228,4 @@ void via_set_secondary_color_depth(u8 depth)
 
 	via_write_reg_mask(VIACR, 0x67, value, 0xC0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

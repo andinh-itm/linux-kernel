@@ -272,3 +272,4 @@ static int __init vmcp_init(void)
 	return ret;
 }
 device_initcall(vmcp_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

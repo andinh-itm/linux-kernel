@@ -604,3 +604,4 @@ module_platform_driver(qcom_smp2p_driver);
 
 MODULE_DESCRIPTION("Qualcomm Shared Memory Point to Point driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

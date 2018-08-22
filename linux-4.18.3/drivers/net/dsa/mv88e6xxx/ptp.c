@@ -379,3 +379,4 @@ void mv88e6xxx_ptp_free(struct mv88e6xxx_chip *chip)
 		chip->ptp_clock = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -533,3 +533,4 @@ u8 mwifiex_adjust_data_rate(struct mwifiex_private *priv,
 
 	return rate_index;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

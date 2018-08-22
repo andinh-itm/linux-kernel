@@ -190,3 +190,4 @@ gf119_sor_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = (nvkm_rd32(device, 0x612004) & 0x0000ff00) >> 8;
 	return 8;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

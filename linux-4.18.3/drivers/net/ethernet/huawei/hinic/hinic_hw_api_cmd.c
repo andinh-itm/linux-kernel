@@ -976,3 +976,4 @@ void hinic_api_cmd_free(struct hinic_api_cmd_chain **chain)
 		api_cmd_destroy_chain(chain[chain_type]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

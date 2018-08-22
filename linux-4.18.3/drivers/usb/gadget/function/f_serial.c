@@ -356,3 +356,4 @@ DECLARE_USB_FUNCTION_INIT(gser, gser_alloc_inst, gser_alloc);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Al Borchers");
 MODULE_AUTHOR("David Brownell");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1685,3 +1685,4 @@ struct platform_driver tegra_dsi_driver = {
 	.probe = tegra_dsi_probe,
 	.remove = tegra_dsi_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

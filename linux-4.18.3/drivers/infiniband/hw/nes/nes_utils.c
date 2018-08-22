@@ -914,3 +914,4 @@ void nes_dump_mem(unsigned int dump_debug_level, void *addr, int length)
 
 	print_hex_dump(KERN_ERR, PFX, DUMP_PREFIX_NONE, 16, 1, addr, length, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

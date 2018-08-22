@@ -287,3 +287,4 @@ int __init brcmstb_l2_lvl_intc_of_init(struct device_node *np,
 }
 IRQCHIP_DECLARE(bcm7271_l2_intc, "brcm,bcm7271-l2-intc",
 	brcmstb_l2_lvl_intc_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

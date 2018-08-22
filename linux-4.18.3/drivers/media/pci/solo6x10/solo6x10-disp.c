@@ -320,3 +320,4 @@ void solo_disp_exit(struct solo_dev *solo_dev)
 	solo_reg_write(solo_dev, SOLO_VO_RECTANGLE_START(1), 0);
 	solo_reg_write(solo_dev, SOLO_VO_RECTANGLE_STOP(1), 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

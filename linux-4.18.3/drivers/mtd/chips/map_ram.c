@@ -156,3 +156,4 @@ module_exit(map_ram_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("MTD chip driver for RAM chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

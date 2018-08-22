@@ -915,3 +915,4 @@ module_platform_driver(usb_dmac_driver);
 MODULE_DESCRIPTION("Renesas USB DMA Controller Driver");
 MODULE_AUTHOR("Yoshihiro Shimoda <yoshihiro.shimoda.uh@renesas.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -143,3 +143,4 @@ int mtk_mdp_vpu_process(struct mtk_mdp_vpu *vpu)
 {
 	return mtk_mdp_vpu_send_ap_ipi(vpu, AP_MDP_PROCESS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

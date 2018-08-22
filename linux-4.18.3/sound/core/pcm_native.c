@@ -3672,3 +3672,4 @@ const struct file_operations snd_pcm_f_ops[2] = {
 		.get_unmapped_area =	snd_pcm_get_unmapped_area,
 	}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

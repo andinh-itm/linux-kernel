@@ -1170,3 +1170,4 @@ static void __exit zorro_esp_scsi_exit(void)
 
 module_init(zorro_esp_scsi_init);
 module_exit(zorro_esp_scsi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

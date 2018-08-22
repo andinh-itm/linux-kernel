@@ -2118,3 +2118,4 @@ static struct platform_driver mt_msdc_driver = {
 module_platform_driver(mt_msdc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MediaTek SD/MMC Card Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

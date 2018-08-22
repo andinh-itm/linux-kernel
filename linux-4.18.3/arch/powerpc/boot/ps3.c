@@ -156,3 +156,4 @@ void platform_init(void)
 
 	ps3_exit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

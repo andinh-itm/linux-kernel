@@ -675,3 +675,4 @@ long kvmppc_h_stuff_tce(struct kvm_vcpu *vcpu,
 	return H_SUCCESS;
 }
 EXPORT_SYMBOL_GPL(kvmppc_h_stuff_tce);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -670,3 +670,4 @@ const struct gma_clock_funcs mrst_clock_funcs = {
 	.limit = mrst_limit,
 	.pll_is_valid = gma_pll_is_valid,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2353,3 +2353,4 @@ MODULE_PARM_DESC(verify_writes, "Read back and check all data that is written");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Maxim Levitsky");
 MODULE_DESCRIPTION("Sony MemoryStick block device driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

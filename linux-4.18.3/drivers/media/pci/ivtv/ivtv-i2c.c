@@ -742,3 +742,4 @@ void exit_ivtv_i2c(struct ivtv *itv)
 
 	i2c_del_adapter(&itv->i2c_adap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

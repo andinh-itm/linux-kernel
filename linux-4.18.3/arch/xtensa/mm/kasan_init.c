@@ -93,3 +93,4 @@ void __init kasan_init(void)
 	current->kasan_depth = 0;
 	pr_info("KernelAddressSanitizer initialized\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

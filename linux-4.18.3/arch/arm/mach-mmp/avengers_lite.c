@@ -56,3 +56,4 @@ MACHINE_START(AVENGERS_LITE, "PXA168 Avengers lite Development Platform")
 	.init_machine   = avengers_lite_init,
 	.restart	= pxa168_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

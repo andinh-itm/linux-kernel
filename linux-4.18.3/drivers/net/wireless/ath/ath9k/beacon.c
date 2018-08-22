@@ -715,3 +715,4 @@ void ath9k_set_beacon(struct ath_softc *sc)
 		return;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

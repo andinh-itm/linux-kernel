@@ -145,3 +145,4 @@ int main(void)
 {
 	return test_harness(count_instructions, "count_instructions");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

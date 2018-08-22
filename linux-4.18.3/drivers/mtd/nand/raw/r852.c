@@ -1080,3 +1080,4 @@ module_pci_driver(r852_pci_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Maxim Levitsky <maximlevitsky@gmail.com>");
 MODULE_DESCRIPTION("Ricoh 85xx xD/smartmedia card reader driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

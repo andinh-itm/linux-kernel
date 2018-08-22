@@ -239,3 +239,4 @@ module_platform_driver(socrates_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ilya Yanok");
 MODULE_DESCRIPTION("NAND driver for Socrates board");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

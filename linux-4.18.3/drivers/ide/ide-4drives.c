@@ -62,3 +62,4 @@ module_init(ide_4drives_init);
 MODULE_AUTHOR("Bartlomiej Zolnierkiewicz");
 MODULE_DESCRIPTION("generic IDE chipset with 4 drives/port support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

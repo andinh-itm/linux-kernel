@@ -200,3 +200,4 @@ static int console_chan_setup(char *str)
 }
 __setup("con", console_chan_setup);
 __channel_help(console_chan_setup, "con");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

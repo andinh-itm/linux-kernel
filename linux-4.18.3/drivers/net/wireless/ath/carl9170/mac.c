@@ -536,3 +536,4 @@ int carl9170_set_mac_tpc(struct ar9170 *ar, struct ieee80211_channel *channel)
 	carl9170_regwrite_finish();
 	return carl9170_regwrite_result();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

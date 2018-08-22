@@ -3385,3 +3385,4 @@ void xgbe_init_function_ptrs_phy_v2(struct xgbe_phy_if *phy_if)
 	phy_impl->module_info		= xgbe_phy_module_info;
 	phy_impl->module_eeprom		= xgbe_phy_module_eeprom;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

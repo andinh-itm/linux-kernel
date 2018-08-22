@@ -283,3 +283,4 @@ const struct plat_smp_ops nlm_smp_ops = {
 	.smp_setup		= nlm_smp_setup,
 	.prepare_cpus		= nlm_prepare_cpus,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

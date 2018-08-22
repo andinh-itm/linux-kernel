@@ -232,3 +232,4 @@ struct regmap *__devm_regmap_init_spmi_ext(struct spmi_device *sdev,
 EXPORT_SYMBOL_GPL(__devm_regmap_init_spmi_ext);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

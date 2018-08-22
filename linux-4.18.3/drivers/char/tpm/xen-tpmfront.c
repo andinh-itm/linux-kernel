@@ -455,3 +455,4 @@ module_exit(xen_tpmfront_exit);
 MODULE_AUTHOR("Daniel De Graaf <dgdegra@tycho.nsa.gov>");
 MODULE_DESCRIPTION("Xen vTPM Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

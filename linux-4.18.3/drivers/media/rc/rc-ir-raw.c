@@ -717,3 +717,4 @@ void ir_raw_handler_unregister(struct ir_raw_handler *ir_raw_handler)
 	mutex_unlock(&ir_raw_handler_lock);
 }
 EXPORT_SYMBOL(ir_raw_handler_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

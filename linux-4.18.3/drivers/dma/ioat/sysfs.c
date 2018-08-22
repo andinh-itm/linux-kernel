@@ -175,3 +175,4 @@ struct kobj_type ioat_ktype = {
 	.sysfs_ops = &ioat_sysfs_ops,
 	.default_attrs = ioat_attrs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

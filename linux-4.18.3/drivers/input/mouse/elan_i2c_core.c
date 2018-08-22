@@ -1379,3 +1379,4 @@ module_i2c_driver(elan_driver);
 MODULE_AUTHOR("Duson Lin <dusonlin@emc.com.tw>");
 MODULE_DESCRIPTION("Elan I2C/SMBus Touchpad driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

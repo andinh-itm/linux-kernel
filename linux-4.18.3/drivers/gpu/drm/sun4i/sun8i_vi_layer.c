@@ -382,3 +382,4 @@ struct sun8i_vi_layer *sun8i_vi_layer_init_one(struct drm_device *drm,
 
 	return layer;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

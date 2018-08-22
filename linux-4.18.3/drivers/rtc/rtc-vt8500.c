@@ -288,3 +288,4 @@ MODULE_AUTHOR("Alexey Charkov <alchark@gmail.com>");
 MODULE_DESCRIPTION("VIA VT8500 SoC Realtime Clock Driver (RTC)");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:vt8500-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

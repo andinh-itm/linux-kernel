@@ -290,3 +290,4 @@ void rtl8723b_init_dm_priv(struct adapter *Adapter)
 	memset(pdmpriv, 0, sizeof(struct dm_priv));
 	Init_ODM_ComInfo_8723b(Adapter);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

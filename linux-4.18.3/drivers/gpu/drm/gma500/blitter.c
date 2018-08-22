@@ -49,3 +49,4 @@ int gma_blt_wait_idle(struct drm_psb_private *dev_priv)
 	/* If still busy, we probably have a hang */
 	return (busy) ? -EBUSY : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

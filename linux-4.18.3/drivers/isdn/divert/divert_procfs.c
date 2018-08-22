@@ -334,3 +334,4 @@ divert_dev_deinit(void)
 
 	return (0);
 }				/* divert_dev_deinit */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

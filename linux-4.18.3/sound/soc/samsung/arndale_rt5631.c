@@ -138,3 +138,4 @@ module_platform_driver(arndale_audio_driver);
 MODULE_AUTHOR("Claude <claude@insignal.co.kr>");
 MODULE_DESCRIPTION("ALSA SoC Driver for Arndale Board");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

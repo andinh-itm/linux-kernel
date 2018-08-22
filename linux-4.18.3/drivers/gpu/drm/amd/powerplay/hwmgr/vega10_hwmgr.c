@@ -4927,3 +4927,4 @@ int vega10_hwmgr_init(struct pp_hwmgr *hwmgr)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

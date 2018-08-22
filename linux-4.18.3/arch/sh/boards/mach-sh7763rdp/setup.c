@@ -214,3 +214,4 @@ static struct sh_machine_vector mv_sh7763rdp __initmv = {
 	.mv_setup = sh7763rdp_setup,
 	.mv_init_irq = init_sh7763rdp_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -497,3 +497,4 @@ const struct btrfs_compress_op btrfs_lzo_compress = {
 	.decompress		= lzo_decompress,
 	.set_level		= lzo_set_level,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

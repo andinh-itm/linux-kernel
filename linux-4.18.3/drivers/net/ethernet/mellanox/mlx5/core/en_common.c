@@ -183,3 +183,4 @@ u8 mlx5e_params_calculate_tx_min_inline(struct mlx5_core_dev *mdev)
 
 	return min_inline_mode;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

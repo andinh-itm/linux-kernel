@@ -1245,3 +1245,4 @@ const struct inode_operations f2fs_special_inode_operations = {
 	.listxattr	= f2fs_listxattr,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

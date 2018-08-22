@@ -1586,3 +1586,4 @@ module_platform_driver(si476x_radio_driver);
 MODULE_AUTHOR("Andrey Smirnov <andrew.smirnov@gmail.com>");
 MODULE_DESCRIPTION("Driver for Si4761/64/68 AM/FM Radio MFD Cell");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

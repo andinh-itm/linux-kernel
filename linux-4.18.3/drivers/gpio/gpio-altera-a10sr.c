@@ -128,3 +128,4 @@ module_platform_driver(altr_a10sr_gpio_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Thor Thayer <tthayer@opensource.altera.com>");
 MODULE_DESCRIPTION("Altera Arria10 System Resource Chip GPIO");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

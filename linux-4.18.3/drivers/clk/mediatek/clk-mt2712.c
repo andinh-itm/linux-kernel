@@ -1474,3 +1474,4 @@ static int __init clk_mt2712_init(void)
 }
 
 arch_initcall(clk_mt2712_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

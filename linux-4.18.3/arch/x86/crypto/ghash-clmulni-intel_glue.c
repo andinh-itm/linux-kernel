@@ -366,3 +366,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("GHASH Message Digest Algorithm, "
 		   "accelerated by PCLMULQDQ-NI");
 MODULE_ALIAS_CRYPTO("ghash");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

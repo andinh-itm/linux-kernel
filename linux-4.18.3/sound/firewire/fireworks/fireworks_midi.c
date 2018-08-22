@@ -172,3 +172,4 @@ int snd_efw_create_midi_devices(struct snd_efw *efw)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

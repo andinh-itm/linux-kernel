@@ -956,3 +956,4 @@ MODULE_AUTHOR("J. August Brenner <jbrenner@taosinc.com>");
 MODULE_AUTHOR("Brian Masney <masneyb@onstation.org>");
 MODULE_DESCRIPTION("TAOS tsl2583 ambient light sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

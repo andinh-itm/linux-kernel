@@ -92,3 +92,4 @@ static int __init leon_pmc_install(void)
  * if initialized late.
  */
 late_initcall(leon_pmc_install);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

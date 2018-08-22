@@ -626,3 +626,4 @@ const struct inode_operations hpfs_dir_iops =
 	.rename		= hpfs_rename,
 	.setattr	= hpfs_setattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -119,3 +119,4 @@ const struct smp_operations sirfsoc_smp_ops __initconst = {
 	.cpu_die                = sirfsoc_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

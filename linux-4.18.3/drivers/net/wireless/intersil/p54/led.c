@@ -159,3 +159,4 @@ void p54_unregister_leds(struct p54_common *priv)
 
 	cancel_delayed_work_sync(&priv->led_work);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1727,3 +1727,4 @@
 "f3 48 0f ae a4 c8 78 56 34 12 \tptwriteq 0x12345678(%rax,%rcx,8)",},
 {{0xf3, 0x49, 0x0f, 0xae, 0xa4, 0xc8, 0x78, 0x56, 0x34, 0x12, }, 10, 0, "", "",
 "f3 49 0f ae a4 c8 78 56 34 12 \tptwriteq 0x12345678(%r8,%rcx,8)",},
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

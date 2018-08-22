@@ -82,3 +82,4 @@ module_spi_driver(adau1781_spi_driver);
 MODULE_DESCRIPTION("ASoC ADAU1381/ADAU1781 CODEC SPI driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

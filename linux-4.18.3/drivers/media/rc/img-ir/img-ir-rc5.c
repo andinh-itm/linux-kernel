@@ -86,3 +86,4 @@ struct img_ir_decoder img_ir_rc5 = {
 	.scancode	= img_ir_rc5_scancode,
 	.filter		= img_ir_rc5_filter,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

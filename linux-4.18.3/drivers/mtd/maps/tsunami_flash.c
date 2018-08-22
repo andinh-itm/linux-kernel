@@ -107,3 +107,4 @@ static int __init init_tsunami_flash(void)
 
 module_init(init_tsunami_flash);
 module_exit(cleanup_tsunami_flash);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

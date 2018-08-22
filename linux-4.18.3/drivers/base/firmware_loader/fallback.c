@@ -698,3 +698,4 @@ int firmware_fallback_sysfs(struct firmware *fw, const char *name,
 				name);
 	return fw_load_from_user_helper(fw, name, device, opt_flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

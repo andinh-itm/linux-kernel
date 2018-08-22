@@ -1655,3 +1655,4 @@ void _rtl92c_phy_set_rf_sleep(struct ieee80211_hw *hw)
 	rtl_write_byte(rtlpriv, REG_SPS0_CTRL, 0x22);
 }
 EXPORT_SYMBOL(_rtl92c_phy_set_rf_sleep);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

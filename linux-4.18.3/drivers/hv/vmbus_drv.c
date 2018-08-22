@@ -1801,3 +1801,4 @@ MODULE_LICENSE("GPL");
 
 subsys_initcall(hv_acpi_init);
 module_exit(vmbus_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

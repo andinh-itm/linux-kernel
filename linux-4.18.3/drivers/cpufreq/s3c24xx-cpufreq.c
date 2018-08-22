@@ -653,3 +653,4 @@ int s3c_plltab_register(struct cpufreq_frequency_table *plls,
 
 	return vals ? 0 : -ENOMEM;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

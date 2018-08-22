@@ -452,3 +452,4 @@ MODULE_DESCRIPTION("Driver for video frame grabber cards based on Intersil/Techw
 MODULE_AUTHOR("Ezequiel Garcia <ezequiel@vanguardiasur.com.ar>");
 MODULE_AUTHOR("Krzysztof Ha?asa <khalasa@piap.pl>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

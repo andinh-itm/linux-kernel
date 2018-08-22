@@ -14,3 +14,4 @@ DT_MACHINE_START(EFM32DT, "EFM32 (Device Tree Support)")
 	.dt_compat = efm32gg_compat,
 	.restart = armv7m_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

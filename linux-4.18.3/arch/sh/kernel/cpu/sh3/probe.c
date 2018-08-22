@@ -109,3 +109,4 @@ void cpu_probe(void)
 
 	boot_cpu_data.family = CPU_FAMILY_SH3;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

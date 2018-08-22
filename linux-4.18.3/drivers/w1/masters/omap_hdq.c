@@ -786,3 +786,4 @@ module_platform_driver(omap_hdq_driver);
 MODULE_AUTHOR("Texas Instruments");
 MODULE_DESCRIPTION("HDQ-1W driver Library");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

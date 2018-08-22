@@ -144,3 +144,4 @@ MODULE_AUTHOR("Lars Kotthoff <metalhead@metalhead.ws>");
 MODULE_DESCRIPTION("Provides control of the front LED on SPARC systems.");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(LED_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

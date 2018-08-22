@@ -175,3 +175,4 @@ static struct serio_driver fujitsu_drv = {
 };
 
 module_serio_driver(fujitsu_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

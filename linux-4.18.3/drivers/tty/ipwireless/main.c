@@ -346,3 +346,4 @@ module_exit(exit_ipwireless);
 MODULE_AUTHOR(IPWIRELESS_PCMCIA_AUTHOR);
 MODULE_DESCRIPTION(IPWIRELESS_PCCARD_NAME " " IPWIRELESS_PCMCIA_VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

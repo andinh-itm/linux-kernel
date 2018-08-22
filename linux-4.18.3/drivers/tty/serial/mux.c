@@ -610,3 +610,4 @@ MODULE_AUTHOR("Ryan Bradetich");
 MODULE_DESCRIPTION("Serial MUX driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_CHARDEV_MAJOR(MUX_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

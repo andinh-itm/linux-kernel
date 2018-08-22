@@ -854,3 +854,4 @@ int __init dra7xx_dt_clk_init(void)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -120,3 +120,4 @@ struct call_path *call_path__findnew(struct call_path_root *cpr,
 
 	return cp;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

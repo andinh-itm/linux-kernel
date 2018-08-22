@@ -71,3 +71,4 @@ void __init mv78xx0_init_irq(void)
 			mv78xx0_core_index() ? 0x18 : 0,
 			IRQ_MV78XX0_GPIO_START, gpio0_irqs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

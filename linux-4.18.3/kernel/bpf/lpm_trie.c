@@ -694,3 +694,4 @@ const struct bpf_map_ops trie_map_ops = {
 	.map_update_elem = trie_update_elem,
 	.map_delete_elem = trie_delete_elem,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

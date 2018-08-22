@@ -437,3 +437,4 @@ MODULE_DESCRIPTION("OpenCores VGA/LCD 2.0 frame buffer driver");
 MODULE_LICENSE("GPL v2");
 module_param(mode_option, charp, 0);
 MODULE_PARM_DESC(mode_option, "Video mode ('<xres>x<yres>[-<bpp>][@refresh]')");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

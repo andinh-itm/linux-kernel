@@ -261,3 +261,4 @@ MODULE_AUTHOR("Laurentiu Palcu <laurentiu.palcu@intel.com>");
 MODULE_DESCRIPTION("Driver for the Diolan DLN2 I2C master interface");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:dln2-i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

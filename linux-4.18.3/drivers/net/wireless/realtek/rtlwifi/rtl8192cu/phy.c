@@ -529,3 +529,4 @@ bool rtl92cu_phy_set_rf_power_state(struct ieee80211_hw *hw,
 	bresult = _rtl92cu_phy_set_rf_power_state(hw, rfpwr_state);
 	return bresult;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

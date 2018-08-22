@@ -54,3 +54,4 @@ static void __init hip04_clk_init(struct device_node *np)
 				     clk_data);
 }
 CLK_OF_DECLARE(hip04_clk, "hisilicon,hip04-clock", hip04_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

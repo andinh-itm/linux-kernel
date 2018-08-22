@@ -49,3 +49,4 @@ static int __init ledtrig_disk_init(void)
 	return 0;
 }
 device_initcall(ledtrig_disk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

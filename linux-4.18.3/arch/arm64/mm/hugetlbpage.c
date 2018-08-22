@@ -423,3 +423,4 @@ static __init int add_default_hugepagesz(void)
 }
 arch_initcall(add_default_hugepagesz);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

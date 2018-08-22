@@ -138,3 +138,4 @@ int rpaphp_register_slot(struct slot *slot)
 	info("Slot [%s] registered\n", slot->name);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -133,3 +133,4 @@ const struct lpddr2_min_tck lpddr2_jedec_min_tck = {
 	.tFAW		= 8
 };
 EXPORT_SYMBOL_GPL(lpddr2_jedec_min_tck);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

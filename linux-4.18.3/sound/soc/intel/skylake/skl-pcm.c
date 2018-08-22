@@ -1479,3 +1479,4 @@ int skl_platform_unregister(struct device *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

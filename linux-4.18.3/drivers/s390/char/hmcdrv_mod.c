@@ -62,3 +62,4 @@ static void __exit hmcdrv_mod_exit(void)
 
 module_init(hmcdrv_mod_init);
 module_exit(hmcdrv_mod_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

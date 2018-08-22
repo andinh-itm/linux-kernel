@@ -1293,3 +1293,4 @@ static int kaweth_internal_control_msg(struct usb_device *usb_dev,
 }
 
 module_usb_driver(kaweth_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

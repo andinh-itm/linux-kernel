@@ -249,3 +249,4 @@ void __init time_init(void)
 	of_clk_init(NULL);
 	timer_probe();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

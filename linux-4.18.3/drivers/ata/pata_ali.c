@@ -650,3 +650,4 @@ MODULE_VERSION(DRV_VERSION);
 
 module_init(ali_init);
 module_exit(ali_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

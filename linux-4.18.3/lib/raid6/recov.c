@@ -139,3 +139,4 @@ void raid6_dual_recov(int disks, size_t bytes, int faila, int failb, void **ptrs
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

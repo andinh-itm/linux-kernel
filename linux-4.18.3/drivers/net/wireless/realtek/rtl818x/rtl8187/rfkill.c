@@ -62,3 +62,4 @@ void rtl8187_rfkill_exit(struct ieee80211_hw *hw)
 {
 	wiphy_rfkill_stop_polling(hw->wiphy);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

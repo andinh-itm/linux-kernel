@@ -839,3 +839,4 @@ module_comedi_pcmcia_driver(driver_daqp, daqp_cs_driver);
 MODULE_DESCRIPTION("Comedi driver for Quatech DAQP PCMCIA data capture cards");
 MODULE_AUTHOR("Brent Baccala <baccala@freesoft.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

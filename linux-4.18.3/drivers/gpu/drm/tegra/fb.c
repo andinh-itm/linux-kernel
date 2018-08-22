@@ -434,3 +434,4 @@ void tegra_drm_fb_resume(struct drm_device *drm)
 	console_unlock();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

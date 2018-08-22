@@ -168,3 +168,4 @@ MODULE_ALIAS("spi:uc1701");
 MODULE_DESCRIPTION("FB driver for the UC1701 LCD Controller");
 MODULE_AUTHOR("Juergen Holzmann");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

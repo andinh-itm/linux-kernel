@@ -484,3 +484,4 @@ static int __init imx6q_pinctrl_init(void)
 	return platform_driver_register(&imx6q_pinctrl_driver);
 }
 arch_initcall(imx6q_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

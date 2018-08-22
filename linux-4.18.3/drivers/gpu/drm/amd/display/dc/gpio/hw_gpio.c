@@ -201,3 +201,4 @@ void dal_hw_gpio_destruct(
 {
 	ASSERT(!pin->base.opened);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

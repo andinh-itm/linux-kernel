@@ -2250,3 +2250,4 @@ void rtl92de_resume(struct ieee80211_hw *hw)
 	rtl_write_byte(rtlpriv, REG_MAC_PHY_CTRL_NORMAL,
 		       rtlpriv->rtlhal.macphyctl_reg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

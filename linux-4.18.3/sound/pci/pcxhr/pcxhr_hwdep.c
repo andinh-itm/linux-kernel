@@ -420,3 +420,4 @@ MODULE_FIRMWARE("pcxhr/xlxc924.dat");
 MODULE_FIRMWARE("pcxhr/dspe924.e56");
 MODULE_FIRMWARE("pcxhr/dspb924.b56");
 MODULE_FIRMWARE("pcxhr/dspd222.d56");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

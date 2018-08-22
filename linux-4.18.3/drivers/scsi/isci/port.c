@@ -1768,3 +1768,4 @@ void isci_port_formed(struct asd_sas_phy *phy)
 
 	port->lldd_port = iport;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

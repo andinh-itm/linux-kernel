@@ -279,3 +279,4 @@ void pdc_console_restart(void)
 	/* force registering the pdc console */
 	pdc_console_init_force();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

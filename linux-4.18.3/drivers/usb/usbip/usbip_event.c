@@ -193,3 +193,4 @@ int usbip_in_eh(struct task_struct *task)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(usbip_in_eh);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

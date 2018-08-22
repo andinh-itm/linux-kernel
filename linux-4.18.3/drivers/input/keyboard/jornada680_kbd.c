@@ -244,3 +244,4 @@ MODULE_AUTHOR("Kristoffer Ericson <kristoffer.ericson@gmail.com>");
 MODULE_DESCRIPTION("HP Jornada 620/660/680/690 Keyboard Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:jornada680_kbd");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

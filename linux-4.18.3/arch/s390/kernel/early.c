@@ -350,3 +350,4 @@ void __init startup_init(void)
 	sclp_early_detect();
 	lockdep_on();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

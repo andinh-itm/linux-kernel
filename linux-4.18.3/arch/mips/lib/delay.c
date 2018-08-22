@@ -63,3 +63,4 @@ void __ndelay(unsigned long ns)
 	__delay((ns * 0x00000005ull * HZ * lpj) >> 32);
 }
 EXPORT_SYMBOL(__ndelay);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

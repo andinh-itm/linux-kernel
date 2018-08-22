@@ -32,3 +32,4 @@ const struct ide_proc_devset ide_floppy_settings[] = {
 	IDE_PROC_DEVSET(ticks,	   0,  255),
 	{ NULL },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

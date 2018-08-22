@@ -1425,3 +1425,4 @@ static int aac_src_get_sync_status(struct aac_dev *dev)
 
 	return msix_val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

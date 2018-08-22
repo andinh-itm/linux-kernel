@@ -453,3 +453,4 @@ int arizona_irq_exit(struct arizona *arizona)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

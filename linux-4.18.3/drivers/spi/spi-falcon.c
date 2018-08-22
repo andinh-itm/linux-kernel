@@ -432,3 +432,4 @@ module_platform_driver(falcon_sflash_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Lantiq Falcon SPI/SFLASH controller driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

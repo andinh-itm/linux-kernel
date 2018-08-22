@@ -318,3 +318,4 @@ aoechr_exit(void)
 	unregister_chrdev(AOE_MAJOR, "aoechr");
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

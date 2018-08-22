@@ -115,3 +115,4 @@ void synchronise_count_slave(int cpu)
 	write_c0_compare(read_c0_count() + COUNTON);
 }
 #undef NR_LOOPS
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

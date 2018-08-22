@@ -1110,3 +1110,4 @@ module_platform_driver(fsl_dspi_driver);
 MODULE_DESCRIPTION("Freescale DSPI Controller Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

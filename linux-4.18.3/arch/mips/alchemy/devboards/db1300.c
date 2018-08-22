@@ -870,3 +870,4 @@ int __init db1300_board_setup(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

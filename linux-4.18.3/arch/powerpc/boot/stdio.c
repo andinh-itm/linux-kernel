@@ -356,3 +356,4 @@ printf(const char *fmt, ...)
 		console_ops.write(sprint_buf, n);
 	return n;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

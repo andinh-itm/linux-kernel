@@ -18,3 +18,4 @@ void override_function_with_return(struct pt_regs *regs)
 	regs->ip = (unsigned long)&just_return_func;
 }
 NOKPROBE_SYMBOL(override_function_with_return);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

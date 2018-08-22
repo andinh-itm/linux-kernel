@@ -327,3 +327,4 @@ void led_sysfs_enable(struct led_classdev *led_cdev)
 	led_cdev->flags &= ~LED_SYSFS_DISABLE;
 }
 EXPORT_SYMBOL_GPL(led_sysfs_enable);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

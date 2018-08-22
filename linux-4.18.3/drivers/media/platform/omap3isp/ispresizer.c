@@ -1793,3 +1793,4 @@ void omap3isp_resizer_cleanup(struct isp_device *isp)
 	omap3isp_video_cleanup(&res->video_out);
 	media_entity_cleanup(&res->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

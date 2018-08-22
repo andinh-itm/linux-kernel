@@ -97,3 +97,4 @@ int arch_prepare_kprobe_ftrace(struct kprobe *p)
 	p->ainsn.boostable = false;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -274,3 +274,4 @@ unsigned long dio_scodetophysaddr(int scode)
 
         return (DIO_BASE + scode * DIO_DEVSIZE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

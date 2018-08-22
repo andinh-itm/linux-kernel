@@ -752,3 +752,4 @@ static void __exit exit_pcmciamtd(void)
 
 module_init(init_pcmciamtd);
 module_exit(exit_pcmciamtd);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

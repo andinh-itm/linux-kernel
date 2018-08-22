@@ -275,3 +275,4 @@ void klp_unpatch_objects(struct klp_patch *patch)
 		if (obj->patched)
 			klp_unpatch_object(obj);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

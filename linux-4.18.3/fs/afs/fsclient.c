@@ -2350,3 +2350,4 @@ int afs_fs_inline_bulk_status(struct afs_fs_cursor *fc,
 	trace_afs_make_fs_call(call, &fids[0]);
 	return afs_make_call(&fc->ac, call, GFP_NOFS, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

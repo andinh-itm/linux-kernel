@@ -284,3 +284,4 @@ int intel_guc_fw_upload(struct intel_guc *guc)
 {
 	return intel_uc_fw_upload(&guc->fw, guc_fw_xfer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

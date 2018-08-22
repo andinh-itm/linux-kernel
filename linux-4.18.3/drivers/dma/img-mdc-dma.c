@@ -1091,3 +1091,4 @@ module_platform_driver(mdc_dma_driver);
 MODULE_DESCRIPTION("IMG Multi-threaded DMA Controller (MDC) driver");
 MODULE_AUTHOR("Andrew Bresticker <abrestic@chromium.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -221,3 +221,4 @@ int of_setprop(const void *phandle, const char *name, const void *buf,
 {
 	return of_call_prom("setprop", 4, 1, phandle, name, buf, buflen);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

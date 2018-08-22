@@ -418,3 +418,4 @@ int pinctrl_parse_index_with_args(const struct device_node *np,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(pinctrl_parse_index_with_args);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

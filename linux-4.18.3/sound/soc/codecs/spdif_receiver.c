@@ -88,3 +88,4 @@ module_platform_driver(spdif_dir_driver);
 MODULE_DESCRIPTION("ASoC SPDIF DIR driver");
 MODULE_AUTHOR("Vipin Kumar <vipin.kumar@st.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

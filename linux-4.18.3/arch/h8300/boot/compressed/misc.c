@@ -74,3 +74,4 @@ void decompress_kernel(void)
 
 	__decompress(input_data, input_len, NULL, NULL, output, 0, NULL, error);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

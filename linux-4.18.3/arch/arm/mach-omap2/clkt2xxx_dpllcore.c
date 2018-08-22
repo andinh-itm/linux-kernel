@@ -194,3 +194,4 @@ void omap2xxx_clkt_dpllcore_init(struct clk_hw *hw)
 	WARN(dpll_core_ck, "dpll_core_ck already set - should never happen");
 	dpll_core_ck = to_clk_hw_omap(hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

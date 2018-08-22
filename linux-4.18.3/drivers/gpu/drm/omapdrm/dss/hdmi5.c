@@ -877,3 +877,4 @@ struct platform_driver omapdss_hdmi5hw_driver = {
 		.suppress_bind_attrs = true,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

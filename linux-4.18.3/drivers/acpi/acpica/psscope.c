@@ -229,3 +229,4 @@ void acpi_ps_cleanup_scope(struct acpi_parse_state *parser_state)
 
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

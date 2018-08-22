@@ -1263,3 +1263,4 @@ module_platform_driver(pm8916_wcd_analog_spmi_driver);
 MODULE_AUTHOR("Srinivas Kandagatla <srinivas.kandagatla@linaro.org>");
 MODULE_DESCRIPTION("PMIC PM8916 WCD Analog Codec driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

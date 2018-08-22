@@ -1759,3 +1759,4 @@ MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Jiri Pirko <jiri@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox SwitchX-2 driver");
 MODULE_DEVICE_TABLE(pci, mlxsw_sx_pci_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

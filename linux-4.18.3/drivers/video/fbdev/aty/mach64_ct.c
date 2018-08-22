@@ -648,3 +648,4 @@ const struct aty_pll_ops aty_pll_ct = {
 	.init_pll	= aty_init_pll_ct,
 	.resume_pll	= aty_resume_pll_ct,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

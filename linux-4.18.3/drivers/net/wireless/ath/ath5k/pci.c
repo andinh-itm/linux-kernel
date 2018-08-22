@@ -341,3 +341,4 @@ static struct pci_driver ath5k_pci_driver = {
 };
 
 module_pci_driver(ath5k_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

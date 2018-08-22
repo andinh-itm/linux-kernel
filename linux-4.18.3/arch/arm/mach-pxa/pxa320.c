@@ -88,3 +88,4 @@ static int __init pxa320_init(void)
 }
 
 core_initcall(pxa320_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

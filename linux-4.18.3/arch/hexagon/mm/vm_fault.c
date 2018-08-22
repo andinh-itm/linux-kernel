@@ -195,3 +195,4 @@ void execute_protection_fault(struct pt_regs *regs)
 
 	do_page_fault(badvadr, FLT_IFETCH, regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

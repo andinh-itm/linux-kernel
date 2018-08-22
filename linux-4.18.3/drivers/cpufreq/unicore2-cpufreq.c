@@ -77,3 +77,4 @@ static int __init ucv2_cpufreq_init(void)
 }
 
 arch_initcall(ucv2_cpufreq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

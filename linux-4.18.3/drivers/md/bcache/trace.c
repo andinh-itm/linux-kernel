@@ -51,3 +51,4 @@ EXPORT_TRACEPOINT_SYMBOL_GPL(bcache_alloc_fail);
 
 EXPORT_TRACEPOINT_SYMBOL_GPL(bcache_writeback);
 EXPORT_TRACEPOINT_SYMBOL_GPL(bcache_writeback_collision);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

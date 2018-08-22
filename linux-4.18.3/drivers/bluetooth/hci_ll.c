@@ -810,3 +810,4 @@ int __exit ll_deinit(void)
 
 	return hci_uart_unregister_proto(&llp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

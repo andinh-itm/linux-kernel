@@ -205,3 +205,4 @@ module_exit(ptp_kvm_exit);
 MODULE_AUTHOR("Marcelo Tosatti <mtosatti@redhat.com>");
 MODULE_DESCRIPTION("PTP clock using KVMCLOCK");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

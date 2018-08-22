@@ -254,3 +254,4 @@ void rt2x00crypto_rx_insert_iv(struct sk_buff *skb,
 	rxdesc->size = transfer;
 	rxdesc->flags &= ~RX_FLAG_IV_STRIPPED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

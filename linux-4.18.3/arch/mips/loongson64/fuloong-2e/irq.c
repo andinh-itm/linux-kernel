@@ -67,3 +67,4 @@ void __init mach_init_irq(void)
 	/* 8259 irq at IP5 */
 	setup_irq(MIPS_CPU_IRQ_BASE + 5, &cascade_irqaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

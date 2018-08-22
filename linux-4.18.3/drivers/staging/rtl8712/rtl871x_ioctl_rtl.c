@@ -530,3 +530,4 @@ uint oid_rt_set_default_key_id_hdl(struct oid_par_priv *poid_par_priv)
 		return RNDIS_STATUS_NOT_ACCEPTED;
 	return RNDIS_STATUS_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -128,3 +128,4 @@ i40e_status i40e_diag_eeprom_test(struct i40e_hw *hw)
 	else
 		return I40E_ERR_DIAG_TEST_FAILED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

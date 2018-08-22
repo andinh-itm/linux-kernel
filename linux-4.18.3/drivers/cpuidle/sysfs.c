@@ -713,3 +713,4 @@ void cpuidle_remove_sysfs(struct cpuidle_device *dev)
 	wait_for_completion(&kdev->kobj_unregister);
 	kfree(kdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -286,3 +286,4 @@ static void __init ns2_lcpll_ports_clk_init(struct device_node *node)
 }
 CLK_OF_DECLARE(ns2_lcpll_ports_clk, "brcm,ns2-lcpll-ports",
 	       ns2_lcpll_ports_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -130,3 +130,4 @@ MODULE_DESCRIPTION("SDHCI driver for Dove");
 MODULE_AUTHOR("Saeed Bishara <saeed@marvell.com>, "
 	      "Mike Rapoport <mike@compulab.co.il>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

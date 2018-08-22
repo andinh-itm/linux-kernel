@@ -1908,3 +1908,4 @@ MODULE_DESCRIPTION("Renesas usdhi6rol0 SD/SDIO host driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:usdhi6rol0");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

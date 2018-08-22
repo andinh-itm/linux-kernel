@@ -139,3 +139,4 @@ int zx2967_pd_probe(struct platform_device *pdev,
 	dev_info(&pdev->dev, "powerdomain init ok\n");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

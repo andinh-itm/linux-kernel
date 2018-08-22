@@ -988,3 +988,4 @@ const struct inode_operations v9fs_symlink_inode_operations_dotl = {
 	.setattr = v9fs_vfs_setattr_dotl,
 	.listxattr = v9fs_listxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

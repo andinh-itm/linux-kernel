@@ -41,3 +41,4 @@ int _dummy_tracepoint(struct dummy_tracepoint_args *arg)
 }
 
 char _license[] SEC("license") = "GPL";
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -58,3 +58,4 @@ define_machine(virtex) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.restart		= ppc4xx_reset_system,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

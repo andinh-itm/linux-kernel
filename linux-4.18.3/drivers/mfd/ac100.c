@@ -135,3 +135,4 @@ module_sunxi_rsb_driver(ac100_rsb_driver);
 MODULE_DESCRIPTION("Audio codec MFD core driver for AC100");
 MODULE_AUTHOR("Chen-Yu Tsai <wens@csie.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

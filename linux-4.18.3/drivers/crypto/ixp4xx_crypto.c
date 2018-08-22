@@ -1494,3 +1494,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Christian Hohnstaedt <chohnstaedt@innominate.com>");
 MODULE_DESCRIPTION("IXP4xx hardware crypto");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

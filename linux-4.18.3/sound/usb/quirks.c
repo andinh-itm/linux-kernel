@@ -1488,3 +1488,4 @@ void snd_usb_audioformat_attributes_quirk(struct snd_usb_audio *chip,
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

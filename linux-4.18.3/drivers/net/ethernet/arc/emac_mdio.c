@@ -187,3 +187,4 @@ int arc_mdio_remove(struct arc_emac_priv *priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

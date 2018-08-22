@@ -490,3 +490,4 @@ MODULE_DESCRIPTION("Backlight Driver for AS3711 PMICs");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:as3711-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

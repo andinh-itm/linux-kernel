@@ -353,3 +353,4 @@ void tpm_add_ppi(struct tpm_chip *chip)
 
 	chip->groups[chip->groups_cnt++] = &ppi_attr_grp;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

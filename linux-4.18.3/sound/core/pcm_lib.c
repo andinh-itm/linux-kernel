@@ -2453,3 +2453,4 @@ int snd_pcm_add_chmap_ctls(struct snd_pcm *pcm, int stream,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(snd_pcm_add_chmap_ctls);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

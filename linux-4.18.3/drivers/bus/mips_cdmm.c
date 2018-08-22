@@ -682,3 +682,4 @@ static int __init mips_cdmm_init(void)
 	return ret;
 }
 subsys_initcall(mips_cdmm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

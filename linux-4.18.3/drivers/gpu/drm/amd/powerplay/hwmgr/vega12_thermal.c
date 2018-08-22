@@ -315,3 +315,4 @@ int vega12_start_thermal_controller(struct pp_hwmgr *hwmgr,
 
 	return 0;
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

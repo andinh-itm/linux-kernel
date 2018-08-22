@@ -228,3 +228,4 @@ int reiserfs_resize(struct super_block *s, unsigned long block_count_new)
 	SB_JOURNAL(s)->j_must_wait = 1;
 	return journal_end(&th);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -53,3 +53,4 @@ void acpi_reboot(void)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

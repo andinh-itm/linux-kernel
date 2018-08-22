@@ -1223,3 +1223,4 @@ error(const char *msg)
 	closeout();
 	errx(2, "output may be truncated");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

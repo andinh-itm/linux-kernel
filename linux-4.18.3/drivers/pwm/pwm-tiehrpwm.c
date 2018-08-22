@@ -607,3 +607,4 @@ module_platform_driver(ehrpwm_pwm_driver);
 MODULE_DESCRIPTION("EHRPWM PWM driver");
 MODULE_AUTHOR("Texas Instruments");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

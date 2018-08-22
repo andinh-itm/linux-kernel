@@ -243,3 +243,4 @@ void thermal_remove_hwmon_sysfs(struct thermal_zone_device *tz)
 	kfree(hwmon);
 }
 EXPORT_SYMBOL_GPL(thermal_remove_hwmon_sysfs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

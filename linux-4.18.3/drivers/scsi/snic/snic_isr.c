@@ -192,3 +192,4 @@ snic_clear_intr_mode(struct snic *snic)
 	pci_free_irq_vectors(snic->pdev);
 	svnic_dev_set_intr_mode(snic->vdev, VNIC_DEV_INTR_MODE_INTX);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

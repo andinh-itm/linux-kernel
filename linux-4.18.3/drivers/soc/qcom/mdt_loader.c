@@ -206,3 +206,4 @@ EXPORT_SYMBOL_GPL(qcom_mdt_load);
 
 MODULE_DESCRIPTION("Firmware parser for Qualcomm MDT format");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -713,3 +713,4 @@ module_spi_driver(wm8770_spi_driver);
 MODULE_DESCRIPTION("ASoC WM8770 driver");
 MODULE_AUTHOR("Dimitris Papastamos <dp@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

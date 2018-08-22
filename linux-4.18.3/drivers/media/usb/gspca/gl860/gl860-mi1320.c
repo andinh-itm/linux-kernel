@@ -534,3 +534,4 @@ static void mi1320_post_unset_alt(struct gspca_dev *gspca_dev)
 	fetch_validx(gspca_dev, tbl_post_unset_alt,
 				ARRAY_SIZE(tbl_post_unset_alt));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

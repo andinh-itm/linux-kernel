@@ -353,3 +353,4 @@ void virtio_gpu_fbdev_fini(struct virtio_gpu_device *vgdev)
 	kfree(vgdev->vgfbdev);
 	vgdev->vgfbdev = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

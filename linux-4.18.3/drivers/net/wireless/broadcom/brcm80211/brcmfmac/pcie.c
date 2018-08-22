@@ -2070,3 +2070,4 @@ void brcmf_pcie_exit(void)
 	brcmf_dbg(PCIE, "Enter\n");
 	pci_unregister_driver(&brcmf_pciedrvr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

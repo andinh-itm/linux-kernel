@@ -2228,3 +2228,4 @@ void qlcnic_83xx_process_rcv_ring_diag(struct qlcnic_host_sds_ring *sds_ring)
 	sds_ring->consumer = consumer;
 	writel(consumer, sds_ring->crb_sts_consumer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

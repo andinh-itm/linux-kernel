@@ -766,3 +766,4 @@ MODULE_DESCRIPTION("Bluetooth BNEP ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("bt-proto-4");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

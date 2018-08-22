@@ -740,3 +740,4 @@ static void __exit alsa_seq_midi_emul_exit(void)
 
 module_init(alsa_seq_midi_emul_init)
 module_exit(alsa_seq_midi_emul_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

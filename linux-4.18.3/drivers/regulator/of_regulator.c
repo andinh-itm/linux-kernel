@@ -586,3 +586,4 @@ struct regulator_dev *of_parse_coupled_regulator(struct regulator_dev *rdev,
 
 	return c_rdev;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -100,3 +100,4 @@ module_init(ns8390_module_init);
 module_exit(ns8390_module_exit);
 #endif /* MODULE */
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

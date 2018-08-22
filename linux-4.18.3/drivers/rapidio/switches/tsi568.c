@@ -197,3 +197,4 @@ module_exit(tsi568_exit);
 MODULE_DESCRIPTION("IDT Tsi568 Serial RapidIO switch driver");
 MODULE_AUTHOR("Integrated Device Technology, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -227,3 +227,4 @@ fsm_func_t *vfio_ccw_jumptable[NR_VFIO_CCW_STATES][NR_VFIO_CCW_EVENTS] = {
 		[VFIO_CCW_EVENT_INTERRUPT]	= fsm_irq,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

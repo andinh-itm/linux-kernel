@@ -184,3 +184,4 @@ MACHINE_START(RD88F5181L_GE, "Marvell Orion-VoIP GE Reference Design")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

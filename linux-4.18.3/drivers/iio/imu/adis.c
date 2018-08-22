@@ -443,3 +443,4 @@ EXPORT_SYMBOL_GPL(adis_init);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("Common library code for ADIS16XXX devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

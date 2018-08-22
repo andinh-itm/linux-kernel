@@ -170,3 +170,4 @@ struct asymmetric_key_subtype public_key_subtype = {
 	.verify_signature	= public_key_verify_signature_2,
 };
 EXPORT_SYMBOL_GPL(public_key_subtype);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

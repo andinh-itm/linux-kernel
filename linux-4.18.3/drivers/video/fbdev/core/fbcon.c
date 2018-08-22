@@ -3679,3 +3679,4 @@ void __exit fb_console_exit(void)
 	console_unlock();
 }	
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

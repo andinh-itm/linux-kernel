@@ -305,3 +305,4 @@ static struct serio_driver ps2mult_drv = {
 };
 
 module_serio_driver(ps2mult_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -120,3 +120,4 @@ void pps_kc_event(struct pps_device *pps, struct pps_event_time *ts,
 		hardpps(&ts->ts_real, &ts->ts_raw);
 	spin_unlock_irqrestore(&pps_kc_hardpps_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

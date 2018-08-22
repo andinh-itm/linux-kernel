@@ -2185,3 +2185,4 @@ int gfs2_diradd_alloc_required(struct inode *inode, const struct qstr *name,
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

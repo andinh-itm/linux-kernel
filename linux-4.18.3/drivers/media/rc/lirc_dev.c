@@ -872,3 +872,4 @@ struct rc_dev *rc_dev_get_from_fd(int fd)
 }
 
 MODULE_ALIAS("lirc_dev");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -229,3 +229,4 @@ module_exit(cleanup_dc21285);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Nicolas Pitre <nico@fluxnic.net>");
 MODULE_DESCRIPTION("MTD map driver for DC21285 boards");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

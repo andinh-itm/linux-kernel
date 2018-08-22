@@ -522,3 +522,4 @@ int drm_lspcon_set_mode(struct i2c_adapter *adapter,
 	return -ETIMEDOUT;
 }
 EXPORT_SYMBOL(drm_lspcon_set_mode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

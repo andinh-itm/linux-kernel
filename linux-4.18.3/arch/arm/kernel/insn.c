@@ -61,3 +61,4 @@ __arm_gen_branch(unsigned long pc, unsigned long addr, bool link)
 	else
 		return __arm_gen_branch_arm(pc, addr, link);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2272,3 +2272,4 @@ void __init boot_cpu_hotplug_init(void)
 #endif
 	this_cpu_write(cpuhp_state.state, CPUHP_ONLINE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

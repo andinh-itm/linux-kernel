@@ -110,3 +110,4 @@ struct clk *rockchip_clk_register_inverter(const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

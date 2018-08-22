@@ -52,3 +52,4 @@ static int __init coproc_a7_init(void)
 	return 0;
 }
 late_initcall(coproc_a7_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

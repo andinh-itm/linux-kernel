@@ -950,3 +950,4 @@ module_exit(wm8988_exit);
 MODULE_DESCRIPTION("ASoC WM8988 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

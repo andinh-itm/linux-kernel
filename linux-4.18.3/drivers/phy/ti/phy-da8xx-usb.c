@@ -251,3 +251,4 @@ MODULE_ALIAS("platform:da8xx-usb-phy");
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_DESCRIPTION("TI DA8xx USB PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

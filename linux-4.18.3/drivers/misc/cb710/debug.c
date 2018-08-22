@@ -116,3 +116,4 @@ void cb710_dump_regs(struct cb710_chip *chip, unsigned select)
 }
 EXPORT_SYMBOL_GPL(cb710_dump_regs);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

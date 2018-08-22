@@ -193,3 +193,4 @@ void lp8788_irq_exit(struct lp8788 *lp)
 	if (lp->irq)
 		free_irq(lp->irq, lp->irqdm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

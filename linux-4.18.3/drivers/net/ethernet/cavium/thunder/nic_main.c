@@ -1478,3 +1478,4 @@ static void __exit nic_cleanup_module(void)
 
 module_init(nic_init_module);
 module_exit(nic_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

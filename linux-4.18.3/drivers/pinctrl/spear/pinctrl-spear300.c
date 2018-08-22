@@ -689,3 +689,4 @@ static int __init spear300_pinctrl_init(void)
 	return platform_driver_register(&spear300_pinctrl_driver);
 }
 arch_initcall(spear300_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

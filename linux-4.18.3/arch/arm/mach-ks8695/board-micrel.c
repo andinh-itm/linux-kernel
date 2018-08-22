@@ -60,3 +60,4 @@ MACHINE_START(KS8695, "KS8695 Centaur Development Board")
 	.init_time	= ks8695_timer_init,
 	.restart	= ks8695_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

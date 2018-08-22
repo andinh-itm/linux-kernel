@@ -204,3 +204,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("greybus:audio-apbridgea");
 MODULE_DESCRIPTION("Greybus Special APBridgeA Audio Protocol library");
 MODULE_AUTHOR("Mark Greer <mgreer@animalcreek.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

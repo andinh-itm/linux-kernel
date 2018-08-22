@@ -491,3 +491,4 @@ static void __exit algif_hash_exit(void)
 module_init(algif_hash_init);
 module_exit(algif_hash_exit);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

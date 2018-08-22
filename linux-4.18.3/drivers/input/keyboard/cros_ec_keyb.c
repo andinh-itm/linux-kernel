@@ -686,3 +686,4 @@ module_platform_driver(cros_ec_keyb_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("ChromeOS EC keyboard driver");
 MODULE_ALIAS("platform:cros-ec-keyb");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

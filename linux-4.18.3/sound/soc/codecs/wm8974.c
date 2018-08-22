@@ -741,3 +741,4 @@ module_i2c_driver(wm8974_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8974 driver");
 MODULE_AUTHOR("Liam Girdwood");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

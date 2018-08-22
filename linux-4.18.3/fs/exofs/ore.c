@@ -1176,3 +1176,4 @@ EXPORT_SYMBOL(ore_truncate);
 const struct osd_attr g_attr_logical_length = ATTR_DEF(
 	OSD_APAGE_OBJECT_INFORMATION, OSD_ATTR_OI_LOGICAL_LENGTH, 8);
 EXPORT_SYMBOL(g_attr_logical_length);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

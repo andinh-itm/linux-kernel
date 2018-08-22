@@ -272,3 +272,4 @@ module_exit(zylonite_exit);
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("ALSA SoC WM9713 Zylonite");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -150,3 +150,4 @@ void __exit rproc_exit_sysfs(void)
 {
 	class_unregister(&rproc_class);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

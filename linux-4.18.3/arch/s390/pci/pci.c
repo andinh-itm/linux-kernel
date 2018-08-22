@@ -1002,3 +1002,4 @@ void zpci_rescan(void)
 	if (zpci_is_enabled())
 		clp_rescan_pci_devices_simple();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

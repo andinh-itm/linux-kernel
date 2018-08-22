@@ -163,3 +163,4 @@ module_exit(it8172_ide_exit);
 MODULE_AUTHOR("Steve Longerbeam");
 MODULE_DESCRIPTION("PCI driver module for ITE 8172 IDE");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

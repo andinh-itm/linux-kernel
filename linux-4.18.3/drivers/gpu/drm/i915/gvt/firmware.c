@@ -274,3 +274,4 @@ expose_firmware:
 	expose_firmware_sysfs(gvt);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

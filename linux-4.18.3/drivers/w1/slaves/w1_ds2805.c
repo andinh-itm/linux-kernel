@@ -311,3 +311,4 @@ module_exit(w1_f0d_fini);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Andrew Worsley amworsley@gmail.com");
 MODULE_DESCRIPTION("w1 family 0d driver for DS2805, 1kb EEPROM");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

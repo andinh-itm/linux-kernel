@@ -1021,3 +1021,4 @@ void CARDvUpdateNextTBTT(struct vnt_private *priv, u64 qwTSF,
 	MACvRegBitsOn(iobase, MAC_REG_TFTCTL, TFTCTL_TBTTSYNCEN);
 	pr_debug("Card:Update Next TBTT[%8llx]\n", qwTSF);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

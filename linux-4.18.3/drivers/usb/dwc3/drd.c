@@ -547,3 +547,4 @@ void dwc3_drd_exit(struct dwc3 *dwc)
 	if (!dwc->edev)
 		free_irq(dwc->otg_irq, dwc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

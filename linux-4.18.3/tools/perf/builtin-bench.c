@@ -291,3 +291,4 @@ int cmd_bench(int argc, const char **argv)
 end:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

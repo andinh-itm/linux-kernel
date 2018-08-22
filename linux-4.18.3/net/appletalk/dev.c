@@ -44,3 +44,4 @@ struct net_device *alloc_ltalkdev(int sizeof_priv)
 			    ltalk_setup);
 }
 EXPORT_SYMBOL(alloc_ltalkdev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

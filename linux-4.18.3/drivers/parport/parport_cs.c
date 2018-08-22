@@ -194,3 +194,4 @@ static struct pcmcia_driver parport_cs_driver = {
 	.id_table	= parport_ids,
 };
 module_pcmcia_driver(parport_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

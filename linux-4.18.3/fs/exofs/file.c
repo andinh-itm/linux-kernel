@@ -81,3 +81,4 @@ const struct file_operations exofs_file_operations = {
 const struct inode_operations exofs_file_inode_operations = {
 	.setattr	= exofs_setattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

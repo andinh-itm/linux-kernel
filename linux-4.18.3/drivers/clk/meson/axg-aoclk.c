@@ -162,3 +162,4 @@ static struct platform_driver axg_aoclkc_driver = {
 };
 
 builtin_platform_driver(axg_aoclkc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

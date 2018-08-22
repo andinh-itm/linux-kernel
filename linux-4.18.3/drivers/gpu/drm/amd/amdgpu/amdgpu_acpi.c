@@ -806,3 +806,4 @@ void amdgpu_acpi_fini(struct amdgpu_device *adev)
 	if (adev->atif)
 		kfree(adev->atif);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

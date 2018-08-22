@@ -210,3 +210,4 @@ STATIC int INIT __decompress(unsigned char *buf, long in_len,
 	return unlz4(buf, in_len - 4, fill, flush, output, posp, error);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

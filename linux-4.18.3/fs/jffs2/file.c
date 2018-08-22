@@ -330,3 +330,4 @@ static int jffs2_write_end(struct file *filp, struct address_space *mapping,
 	put_page(pg);
 	return writtenlen > 0 ? writtenlen : ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

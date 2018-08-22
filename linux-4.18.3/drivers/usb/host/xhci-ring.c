@@ -4002,3 +4002,4 @@ int xhci_queue_reset_ep(struct xhci_hcd *xhci, struct xhci_command *cmd,
 	return queue_command(xhci, cmd, 0, 0, 0,
 			trb_slot_id | trb_ep_index | type, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -237,3 +237,4 @@ module_acpi_driver(smo8800_driver);
 MODULE_DESCRIPTION("Dell Latitude freefall driver (ACPI SMO88XX)");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sonal Santan, Pali Rohár");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1201,3 +1201,4 @@ static void __exit alsa_card_opti9xx_exit(void)
 
 module_init(alsa_card_opti9xx_init)
 module_exit(alsa_card_opti9xx_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

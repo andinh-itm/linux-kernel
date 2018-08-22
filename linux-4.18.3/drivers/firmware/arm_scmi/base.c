@@ -256,3 +256,4 @@ int scmi_base_protocol_init(struct scmi_handle *h)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

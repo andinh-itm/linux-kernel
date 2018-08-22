@@ -242,3 +242,4 @@ const struct file_operations qedi_dbg_fops[] = {
 	qedi_dbg_fileops_seq(qedi, io_trace),
 	{ },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -329,3 +329,4 @@ const struct pp_smumgr_func smu10_smu_funcs = {
 };
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

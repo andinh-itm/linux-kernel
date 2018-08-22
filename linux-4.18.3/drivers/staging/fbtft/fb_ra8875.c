@@ -303,3 +303,4 @@ MODULE_ALIAS("platform:ra8875");
 MODULE_DESCRIPTION("FB driver for the RA8875 LCD Controller");
 MODULE_AUTHOR("Pf@nne");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1261,3 +1261,4 @@ int snd_vx_pcm_new(struct vx_core *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

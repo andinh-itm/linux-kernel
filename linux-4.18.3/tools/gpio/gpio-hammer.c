@@ -154,3 +154,4 @@ int main(int argc, char **argv)
 	}
 	return hammer_device(device_name, lines, nlines, loops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

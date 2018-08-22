@@ -192,3 +192,4 @@ static struct sh_machine_vector mv_se7722 __initmv = {
 	.mv_setup               = se7722_setup ,
 	.mv_init_irq		= init_se7722_IRQ,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -550,3 +550,4 @@ static int __init init_power6_pmu(void)
 }
 
 early_initcall(init_power6_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

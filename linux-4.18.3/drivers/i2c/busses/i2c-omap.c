@@ -1576,3 +1576,4 @@ MODULE_AUTHOR("MontaVista Software, Inc. (and others)");
 MODULE_DESCRIPTION("TI OMAP I2C bus adapter");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap_i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

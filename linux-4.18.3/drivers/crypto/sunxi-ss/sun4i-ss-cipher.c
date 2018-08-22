@@ -544,3 +544,4 @@ int sun4i_ss_des3_setkey(struct crypto_skcipher *tfm, const u8 *key,
 	memcpy(op->key, key, keylen);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

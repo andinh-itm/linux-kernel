@@ -1286,3 +1286,4 @@ void pwrdms_lost_power(void)
 {
 	pwrdm_for_each(pwrdm_lost_power, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

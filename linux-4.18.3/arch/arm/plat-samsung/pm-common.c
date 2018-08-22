@@ -69,3 +69,4 @@ void s3c_pm_do_restore_core(const struct sleep_save *ptr, int count)
 	for (; count > 0; count--, ptr++)
 		writel_relaxed(ptr->val, ptr->reg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

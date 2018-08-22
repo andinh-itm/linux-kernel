@@ -66,3 +66,4 @@ g98_mc_new(struct nvkm_device *device, int index, struct nvkm_mc **pmc)
 {
 	return nvkm_mc_new_(&g98_mc, device, index, pmc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

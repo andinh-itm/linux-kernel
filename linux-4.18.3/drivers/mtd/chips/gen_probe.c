@@ -262,3 +262,4 @@ static struct mtd_info *check_cmd_set(struct map_info *map, int primary)
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("Helper routines for flash chip probe code");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

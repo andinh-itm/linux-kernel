@@ -68,3 +68,4 @@ const struct nfp_app_type app_nic = {
 	.sriov_enable	= nfp_nic_sriov_enable,
 	.sriov_disable	= nfp_nic_sriov_disable,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

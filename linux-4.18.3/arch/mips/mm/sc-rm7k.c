@@ -268,3 +268,4 @@ void rm7k_sc_init(void)
 	c->tcache.ways = 1;
 	pr_info("Tertiary cache size %ldK.\n", (tcache_size >> 10));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

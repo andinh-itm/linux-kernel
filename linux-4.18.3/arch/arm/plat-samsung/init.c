@@ -171,3 +171,4 @@ static int __init s3c_arch_init(void)
 }
 
 arch_initcall(s3c_arch_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

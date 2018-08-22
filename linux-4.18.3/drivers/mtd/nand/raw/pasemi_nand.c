@@ -230,3 +230,4 @@ module_platform_driver(pasemi_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Egor Martovetsky <egor@pasemi.com>");
 MODULE_DESCRIPTION("NAND flash interface driver for PA Semi PWRficient");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

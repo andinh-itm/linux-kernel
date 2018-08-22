@@ -239,3 +239,4 @@ MODULE_AUTHOR("Álvaro Fernández Rojas <noltari@gmail.com>");
 MODULE_DESCRIPTION("LED driver for BCM6358 controllers");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:leds-bcm6358");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

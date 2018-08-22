@@ -303,3 +303,4 @@ static int __init capsule_reboot_register(void)
 	return register_reboot_notifier(&capsule_reboot_nb);
 }
 core_initcall(capsule_reboot_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -49,3 +49,4 @@ __init early_smh_setup(struct earlycon_device *device, const char *opt)
 	return 0;
 }
 EARLYCON_DECLARE(smh, early_smh_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

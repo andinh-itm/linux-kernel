@@ -216,3 +216,4 @@ static int __init pistachio_clksrc_of_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(pistachio_gptimer, "img,pistachio-gptimer",
 		       pistachio_clksrc_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

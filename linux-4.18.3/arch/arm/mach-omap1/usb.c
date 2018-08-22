@@ -648,3 +648,4 @@ void __init omap1_usb_init(struct omap_usb_config *_pdata)
 	else
 		printk(KERN_ERR "USB: No init for your chip yet\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

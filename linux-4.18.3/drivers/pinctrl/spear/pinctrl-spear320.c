@@ -3453,3 +3453,4 @@ static int __init spear320_pinctrl_init(void)
 	return platform_driver_register(&spear320_pinctrl_driver);
 }
 arch_initcall(spear320_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

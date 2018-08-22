@@ -338,3 +338,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Brian Norris");
 MODULE_AUTHOR("Markus Mayer");
 MODULE_DESCRIPTION("Wake-up timer driver for STB chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -339,3 +339,4 @@ static int __init s10_clk_init(void)
 	return platform_driver_register(&stratix10_clkmgr_driver);
 }
 core_initcall(s10_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

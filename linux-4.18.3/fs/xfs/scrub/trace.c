@@ -42,3 +42,4 @@ xfs_scrub_btree_cur_fsbno(
  */
 #define CREATE_TRACE_POINTS
 #include "scrub/trace.h"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

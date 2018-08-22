@@ -16,3 +16,4 @@ static const char *const digicolor_dt_compat[] __initconst = {
 DT_MACHINE_START(DIGICOLOR, "Conexant Digicolor (Flattened Device Tree)")
 	.dt_compat	= digicolor_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

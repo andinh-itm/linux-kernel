@@ -254,3 +254,4 @@ int usb_otg_descriptor_init(struct usb_gadget *gadget,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(usb_otg_descriptor_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

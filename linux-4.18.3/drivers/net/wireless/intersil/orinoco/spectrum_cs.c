@@ -318,3 +318,4 @@ static struct pcmcia_driver orinoco_driver = {
 	.id_table       = spectrum_cs_ids,
 };
 module_pcmcia_driver(orinoco_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

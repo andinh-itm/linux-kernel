@@ -355,3 +355,4 @@ MACHINE_START(PALMLD, "Palm LifeDrive")
 	.init_machine	= palmld_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

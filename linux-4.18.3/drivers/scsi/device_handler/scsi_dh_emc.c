@@ -556,3 +556,4 @@ module_exit(clariion_exit);
 MODULE_DESCRIPTION("EMC CX/AX/FC-family driver");
 MODULE_AUTHOR("Mike Christie <michaelc@cs.wisc.edu>, Chandra Seetharaman <sekharan@us.ibm.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

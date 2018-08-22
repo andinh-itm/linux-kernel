@@ -390,3 +390,4 @@ module_exit(ingenic_gpio_drv_unregister);
 MODULE_AUTHOR("Paul Cercueil <paul@crapouillou.net>");
 MODULE_DESCRIPTION("Ingenic JZ47xx GPIO driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

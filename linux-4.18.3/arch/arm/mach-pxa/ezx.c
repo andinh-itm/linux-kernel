@@ -1248,3 +1248,4 @@ MACHINE_START(EZX_E2, "Motorola EZX E2")
 	.restart	= pxa_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

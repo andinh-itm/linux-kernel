@@ -245,3 +245,4 @@ int pxa2xx_determine_rate(struct clk_rate_request *req,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

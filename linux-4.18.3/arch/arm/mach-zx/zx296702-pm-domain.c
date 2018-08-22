@@ -200,3 +200,4 @@ static int __init zx296702_pd_init(void)
 	return platform_driver_register(&zx296702_pd_driver);
 }
 subsys_initcall(zx296702_pd_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -60,3 +60,4 @@ int __init wg302v2_pci_init(void)
 }
 
 subsys_initcall(wg302v2_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

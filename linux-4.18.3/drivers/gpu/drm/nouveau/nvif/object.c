@@ -303,3 +303,4 @@ nvif_object_init(struct nvif_object *parent, u32 handle, s32 oclass,
 		nvif_object_fini(object);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

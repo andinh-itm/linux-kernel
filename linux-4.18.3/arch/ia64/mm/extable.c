@@ -22,3 +22,4 @@ ia64_handle_exception (struct pt_regs *regs, const struct exception_table_entry 
 	regs->cr_iip = fix & ~0xf;
 	ia64_psr(regs)->ri = fix & 0x3;		/* set continuation slot number */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

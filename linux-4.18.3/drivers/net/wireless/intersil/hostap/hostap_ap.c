@@ -3275,3 +3275,4 @@ EXPORT_SYMBOL(hostap_check_sta_fw_version);
 EXPORT_SYMBOL(hostap_handle_sta_tx_exc);
 #ifndef PRISM2_NO_KERNEL_IEEE80211_MGMT
 #endif /* PRISM2_NO_KERNEL_IEEE80211_MGMT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

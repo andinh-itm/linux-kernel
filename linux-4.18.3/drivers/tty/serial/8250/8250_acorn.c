@@ -136,3 +136,4 @@ MODULE_LICENSE("GPL");
 
 module_init(serial_card_init);
 module_exit(serial_card_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

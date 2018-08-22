@@ -165,3 +165,4 @@ MODULE_AUTHOR(DRIVER_AUTHOR);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.9.1");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

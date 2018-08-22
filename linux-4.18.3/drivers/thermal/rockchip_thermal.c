@@ -1409,3 +1409,4 @@ MODULE_DESCRIPTION("ROCKCHIP THERMAL Driver");
 MODULE_AUTHOR("Rockchip, Inc.");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:rockchip-thermal");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

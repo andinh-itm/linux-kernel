@@ -495,3 +495,4 @@ EXPORT_SYMBOL_GPL(cnl_sst_dsp_cleanup);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel Cannonlake IPC driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

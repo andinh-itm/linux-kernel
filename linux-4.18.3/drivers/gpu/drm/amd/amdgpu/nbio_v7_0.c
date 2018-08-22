@@ -302,3 +302,4 @@ const struct amdgpu_nbio_funcs nbio_v7_0_funcs = {
 	.init_registers = nbio_v7_0_init_registers,
 	.detect_hw_virt = nbio_v7_0_detect_hw_virt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

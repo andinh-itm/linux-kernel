@@ -229,3 +229,4 @@ int skein_final(struct skein_ctx *ctx, u8 *hash)
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

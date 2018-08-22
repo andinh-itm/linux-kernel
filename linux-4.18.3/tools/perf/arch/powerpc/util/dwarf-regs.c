@@ -103,3 +103,4 @@ int regs_query_register_offset(const char *name)
 			return roff->ptregs_offset;
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

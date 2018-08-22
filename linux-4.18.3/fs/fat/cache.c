@@ -379,3 +379,4 @@ int fat_bmap(struct inode *inode, sector_t sector, sector_t *phys,
 	return fat_get_mapped_cluster(inode, sector, last_block, mapped_blocks,
 				      phys);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

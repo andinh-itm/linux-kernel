@@ -88,3 +88,4 @@ static const struct smp_operations realview_dt_smp_ops __initconst = {
 #endif
 };
 CPU_METHOD_OF_DECLARE(realview_smp, "arm,realview-smp", &realview_dt_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

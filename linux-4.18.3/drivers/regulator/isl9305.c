@@ -207,3 +207,4 @@ module_i2c_driver(isl9305_regulator_driver);
 MODULE_AUTHOR("Mark Brown");
 MODULE_DESCRIPTION("Intersil ISL9305 DCDC regulator");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

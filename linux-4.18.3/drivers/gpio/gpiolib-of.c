@@ -656,3 +656,4 @@ void of_gpiochip_remove(struct gpio_chip *chip)
 	gpiochip_remove_pin_ranges(chip);
 	of_node_put(chip->of_node);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

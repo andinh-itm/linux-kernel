@@ -248,3 +248,4 @@ u8 *qedf_get_src_mac(struct fc_lport *lport)
 
 	return qedf->data_src_addr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

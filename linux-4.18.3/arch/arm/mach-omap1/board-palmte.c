@@ -241,3 +241,4 @@ MACHINE_START(OMAP_PALMTE, "OMAP310 based Palm Tungsten E")
 	.init_time	= omap1_timer_init,
 	.restart	= omap1_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

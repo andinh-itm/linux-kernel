@@ -447,3 +447,4 @@ int zx_pinctrl_init(struct platform_device *pdev,
 	dev_info(&pdev->dev, "initialized pinctrl driver\n");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

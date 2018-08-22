@@ -414,3 +414,4 @@ static struct pci_driver rtl8723e_driver = {
 };
 
 module_pci_driver(rtl8723e_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

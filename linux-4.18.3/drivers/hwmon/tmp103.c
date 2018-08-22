@@ -195,3 +195,4 @@ module_i2c_driver(tmp103_driver);
 MODULE_AUTHOR("Heiko Schocher <hs@denx.de>");
 MODULE_DESCRIPTION("Texas Instruments TMP103 temperature sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -630,3 +630,4 @@ module_platform_driver(mpc512x_psc_spi_of_driver);
 MODULE_AUTHOR("John Rigby");
 MODULE_DESCRIPTION("MPC512x PSC SPI Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

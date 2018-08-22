@@ -709,3 +709,4 @@ EXPORT_SYMBOL_GPL(v4l2_flash_release);
 MODULE_AUTHOR("Jacek Anaszewski <j.anaszewski@samsung.com>");
 MODULE_DESCRIPTION("V4L2 Flash sub-device helpers");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

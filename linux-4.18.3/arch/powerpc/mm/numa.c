@@ -1616,3 +1616,4 @@ static int topology_update_init(void)
 }
 device_initcall(topology_update_init);
 #endif /* CONFIG_PPC_SPLPAR */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

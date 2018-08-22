@@ -681,3 +681,4 @@ void i2c_acpi_remove_space_handler(struct i2c_adapter *adapter)
 	acpi_bus_detach_private_data(handle);
 }
 #endif /* CONFIG_ACPI_I2C_OPREGION */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

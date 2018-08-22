@@ -1828,3 +1828,4 @@ console_initcall(amiserial_console_init);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:amiga-serial");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

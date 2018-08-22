@@ -219,3 +219,4 @@ int create_orc_sections(struct objtool_file *file)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

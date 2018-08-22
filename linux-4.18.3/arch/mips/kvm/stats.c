@@ -61,3 +61,4 @@ void kvm_mips_dump_stats(struct kvm_vcpu *vcpu)
 	}
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

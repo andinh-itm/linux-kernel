@@ -111,3 +111,4 @@ nv04_fence_create(struct nouveau_drm *drm)
 	priv->base.context_del = nv04_fence_context_del;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

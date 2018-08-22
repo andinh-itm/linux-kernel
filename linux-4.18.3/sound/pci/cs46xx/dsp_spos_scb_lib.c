@@ -1801,3 +1801,4 @@ int cs46xx_iec958_post_close (struct snd_cs46xx *chip)
 	
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

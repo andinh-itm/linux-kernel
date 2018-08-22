@@ -320,3 +320,4 @@ static void __init hix5hd2_clk_init(struct device_node *np)
 }
 
 CLK_OF_DECLARE(hix5hd2_clk, "hisilicon,hix5hd2-clock", hix5hd2_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

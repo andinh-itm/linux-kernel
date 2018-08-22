@@ -2548,3 +2548,4 @@ static struct usb_driver rt73usb_driver = {
 };
 
 module_usb_driver(rt73usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

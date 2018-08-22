@@ -2314,3 +2314,4 @@ int acpi_reconfig_notifier_unregister(struct notifier_block *nb)
 	return blocking_notifier_chain_unregister(&acpi_reconfig_chain, nb);
 }
 EXPORT_SYMBOL(acpi_reconfig_notifier_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

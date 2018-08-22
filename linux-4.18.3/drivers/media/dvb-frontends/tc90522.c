@@ -828,3 +828,4 @@ module_i2c_driver(tc90522_driver);
 MODULE_DESCRIPTION("Toshiba TC90522 frontend");
 MODULE_AUTHOR("Akihiro TSUKADA");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

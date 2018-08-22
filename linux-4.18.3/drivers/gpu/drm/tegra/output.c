@@ -242,3 +242,4 @@ void tegra_output_find_possible_crtcs(struct tegra_output *output,
 
 	output->encoder.possible_crtcs = mask;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

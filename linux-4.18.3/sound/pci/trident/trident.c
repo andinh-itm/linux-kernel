@@ -185,3 +185,4 @@ static struct pci_driver trident_driver = {
 };
 
 module_pci_driver(trident_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

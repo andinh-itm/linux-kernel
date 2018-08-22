@@ -653,3 +653,4 @@ module_exit(comedi_8254_module_exit);
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_DESCRIPTION("Comedi: Generic 8254 timer/counter support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

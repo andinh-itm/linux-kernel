@@ -180,3 +180,4 @@ void main(void)
 	/* Do the last things and invoke protected mode */
 	go_to_protected_mode();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

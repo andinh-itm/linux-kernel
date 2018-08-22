@@ -987,3 +987,4 @@ MODULE_AUTHOR("Daniel Schwierzeck <daniel.schwierzeck@gmail.com>");
 MODULE_AUTHOR("Hauke Mehrtens <hauke@hauke-m.de>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:spi-lantiq-ssc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

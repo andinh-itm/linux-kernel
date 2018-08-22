@@ -234,3 +234,4 @@ const u8 acpi_gbl_resource_struct_serial_bus_sizes[] = {
 	ACPI_RS_SIZE(struct acpi_resource_spi_serialbus),
 	ACPI_RS_SIZE(struct acpi_resource_uart_serialbus),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

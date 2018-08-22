@@ -354,3 +354,4 @@ module_exit(cs553x_cleanup);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("NAND controller driver for AMD CS5535/CS5536 companion chip");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

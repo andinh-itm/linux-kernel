@@ -205,3 +205,4 @@ struct drm_plane **sun4i_layers_init(struct drm_device *drm,
 
 	return planes;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

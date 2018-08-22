@@ -779,3 +779,4 @@ module_exit(atmel_ecc_exit);
 MODULE_AUTHOR("Tudor Ambarus <tudor.ambarus@microchip.com>");
 MODULE_DESCRIPTION("Microchip / Atmel ECC (I2C) driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

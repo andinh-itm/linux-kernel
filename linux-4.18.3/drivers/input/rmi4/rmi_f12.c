@@ -530,3 +530,4 @@ struct rmi_function_handler rmi_f12_handler = {
 	.config = rmi_f12_config,
 	.attention = rmi_f12_attention,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

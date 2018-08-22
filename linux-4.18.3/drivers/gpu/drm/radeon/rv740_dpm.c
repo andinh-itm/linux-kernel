@@ -414,3 +414,4 @@ u8 rv740_get_mclk_frequency_ratio(u32 memory_clock)
 
 	return mc_para_index;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

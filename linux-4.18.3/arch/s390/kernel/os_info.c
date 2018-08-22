@@ -168,3 +168,4 @@ void *os_info_old_entry(int nr, unsigned long *size)
 	return (void *)(unsigned long)os_info_old->entry[nr].addr;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

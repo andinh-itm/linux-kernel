@@ -221,3 +221,4 @@ const struct msm_dsi_phy_cfg dsi_phy_10nm_cfgs = {
 	.io_start = { 0xae94400, 0xae96400 },
 	.num_dsi_phy = 2,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

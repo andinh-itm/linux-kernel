@@ -319,3 +319,4 @@ MODULE_DESCRIPTION("pinctrl-based I2C demux driver");
 MODULE_AUTHOR("Wolfram Sang <wsa@sang-engineering.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:i2c-demux-pinctrl");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

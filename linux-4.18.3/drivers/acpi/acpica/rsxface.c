@@ -626,3 +626,4 @@ acpi_walk_resources(acpi_handle device_handle,
 }
 
 ACPI_EXPORT_SYMBOL(acpi_walk_resources)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

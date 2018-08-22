@@ -167,3 +167,4 @@ int tegra_calc_tsensor_calib(const struct tegra_tsensor *sensor,
 MODULE_AUTHOR("Wei Ni <wni@nvidia.com>");
 MODULE_DESCRIPTION("Tegra SOCTHERM fuse management");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

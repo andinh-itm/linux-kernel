@@ -1402,3 +1402,4 @@ struct board_ops jsm_neo_ops = {
 	.get_uart_bytes_left		= neo_get_uart_bytes_left,
 	.send_immediate_char		= neo_send_immediate_char
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

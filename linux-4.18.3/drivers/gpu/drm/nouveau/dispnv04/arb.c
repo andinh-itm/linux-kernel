@@ -265,3 +265,4 @@ nouveau_calc_arb(struct drm_device *dev, int vclk, int bpp, int *burst, int *lwm
 	} else
 		nv20_update_arb(burst, lwm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

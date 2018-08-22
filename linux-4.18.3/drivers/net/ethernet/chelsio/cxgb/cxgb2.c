@@ -1379,3 +1379,4 @@ static struct pci_driver cxgb_pci_driver = {
 };
 
 module_pci_driver(cxgb_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

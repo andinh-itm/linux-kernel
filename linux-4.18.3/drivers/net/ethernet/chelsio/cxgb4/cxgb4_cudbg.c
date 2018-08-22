@@ -514,3 +514,4 @@ int cxgb4_cudbg_vmcore_add_dump(struct adapter *adap)
 
 	return vmcore_add_device_dump(data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

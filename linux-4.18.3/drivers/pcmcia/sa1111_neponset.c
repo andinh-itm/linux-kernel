@@ -122,3 +122,4 @@ int pcmcia_neponset_init(struct sa1111_dev *sadev)
 	return sa1111_pcmcia_add(sadev, &neponset_pcmcia_ops,
 				 sa11xx_drv_pcmcia_add_one);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

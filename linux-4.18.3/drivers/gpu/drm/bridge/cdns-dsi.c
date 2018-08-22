@@ -1621,3 +1621,4 @@ MODULE_DESCRIPTION("Cadence DSI driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:cdns-dsi");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

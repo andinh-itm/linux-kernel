@@ -235,3 +235,4 @@ module_i2c_driver(pmbus_driver);
 MODULE_AUTHOR("Guenter Roeck");
 MODULE_DESCRIPTION("Generic PMBus driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

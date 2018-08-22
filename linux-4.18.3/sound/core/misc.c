@@ -160,3 +160,4 @@ snd_pci_quirk_lookup(struct pci_dev *pci, const struct snd_pci_quirk *list)
 }
 EXPORT_SYMBOL(snd_pci_quirk_lookup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

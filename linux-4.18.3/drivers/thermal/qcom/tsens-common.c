@@ -139,3 +139,4 @@ int __init init_common(struct tsens_device *tmdev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

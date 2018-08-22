@@ -214,3 +214,4 @@ module_init(nf_log_common_init);
 module_exit(nf_log_common_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

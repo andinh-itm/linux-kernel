@@ -4086,3 +4086,4 @@ qla8044_fw_dump(scsi_qla_host_t *vha, int hardware_locked)
 	qla2x00_wait_for_chip_reset(vha);
 	scsi_unblock_requests(vha->host);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

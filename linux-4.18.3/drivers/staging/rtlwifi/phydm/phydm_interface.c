@@ -305,3 +305,4 @@ u8 odm_get_tx_power_index(struct phy_dm_struct *dm, u8 rf_path, u8 tx_rate,
 	return phy_get_tx_power_index(adapter, (enum odm_rf_radio_path)rf_path,
 				      tx_rate, band_width, channel);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

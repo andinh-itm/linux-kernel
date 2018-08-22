@@ -685,3 +685,4 @@ void bdisp_debugfs_remove(struct bdisp_dev *bdisp)
 	debugfs_remove_recursive(bdisp->dbg.debugfs_entry);
 	bdisp->dbg.debugfs_entry = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

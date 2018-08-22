@@ -1031,3 +1031,4 @@ struct platform_driver omap_venchw_driver = {
 		.suppress_bind_attrs = true,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

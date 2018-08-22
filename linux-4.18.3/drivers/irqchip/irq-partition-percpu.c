@@ -254,3 +254,4 @@ struct irq_domain *partition_get_domain(struct partition_desc *dsc)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

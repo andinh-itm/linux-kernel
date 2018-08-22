@@ -289,3 +289,4 @@ module_i2c_driver(tda18212_driver);
 MODULE_DESCRIPTION("NXP TDA18212HN silicon tuner driver");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

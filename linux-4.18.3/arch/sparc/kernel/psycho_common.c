@@ -469,3 +469,4 @@ void psycho_pbm_init_common(struct pci_pbm_info *pbm, struct platform_device *op
 	       pbm->name, chip_name,
 	       pbm->chip_version, pbm->chip_revision);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

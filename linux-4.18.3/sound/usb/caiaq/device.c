@@ -581,3 +581,4 @@ static struct usb_driver snd_usb_driver = {
 };
 
 module_usb_driver(snd_usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

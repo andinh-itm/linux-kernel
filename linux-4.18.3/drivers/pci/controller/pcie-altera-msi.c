@@ -289,3 +289,4 @@ static int __init altera_msi_init(void)
 	return platform_driver_register(&altera_msi_driver);
 }
 subsys_initcall(altera_msi_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

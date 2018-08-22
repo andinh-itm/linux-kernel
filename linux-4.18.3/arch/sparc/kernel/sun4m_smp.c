@@ -271,3 +271,4 @@ void __init sun4m_init_smp(void)
 {
 	sparc32_ipi_ops = &sun4m_ipi_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

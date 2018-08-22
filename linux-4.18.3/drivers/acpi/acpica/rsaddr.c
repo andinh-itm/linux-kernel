@@ -344,3 +344,4 @@ acpi_rs_set_address_common(union aml_resource *aml,
 		    resource->data.address.info.type_specific;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

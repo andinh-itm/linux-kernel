@@ -1802,3 +1802,4 @@ MODULE_AUTHOR("Alex Woods <linux-dvb@giblets.org>");
 MODULE_DESCRIPTION(DRIVER_NAME);
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(usb, ttusb_dec_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

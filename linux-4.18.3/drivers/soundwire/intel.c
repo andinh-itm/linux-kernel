@@ -864,3 +864,4 @@ module_platform_driver(sdw_intel_drv);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("platform:int-sdw");
 MODULE_DESCRIPTION("Intel Soundwire Master Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

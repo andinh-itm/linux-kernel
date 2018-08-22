@@ -576,3 +576,4 @@ void dal_aux_engine_destruct(
 {
 	dal_i2caux_destruct_engine(&engine->base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

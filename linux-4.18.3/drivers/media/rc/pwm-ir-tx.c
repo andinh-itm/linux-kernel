@@ -136,3 +136,4 @@ module_platform_driver(pwm_ir_driver);
 MODULE_DESCRIPTION("PWM IR Transmitter");
 MODULE_AUTHOR("Sean Young <sean@mess.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

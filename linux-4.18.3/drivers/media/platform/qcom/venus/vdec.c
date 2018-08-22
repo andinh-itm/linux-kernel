@@ -1182,3 +1182,4 @@ module_platform_driver(qcom_venus_dec_driver);
 MODULE_ALIAS("platform:qcom-venus-decoder");
 MODULE_DESCRIPTION("Qualcomm Venus video decoder driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

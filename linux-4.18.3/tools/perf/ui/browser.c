@@ -791,3 +791,4 @@ void ui_browser__init(void)
 		sltt_set_color(c->colorset, c->name, c->fg, c->bg);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

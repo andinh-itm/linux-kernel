@@ -548,3 +548,4 @@ set_filterQ(struct snd_emu10k1 *hw, struct snd_emux_voice *vp)
 	val |= (vp->reg.parm.filterQ << 28);
 	snd_emu10k1_ptr_write(hw, CCCA, vp->ch, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

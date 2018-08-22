@@ -158,3 +158,4 @@ const struct drm_mode_config_funcs armada_drm_mode_config_funcs = {
 	.fb_create		= armada_fb_create,
 	.output_poll_changed	= drm_fb_helper_output_poll_changed,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

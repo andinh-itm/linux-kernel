@@ -2661,3 +2661,4 @@ const struct spufs_coredump_reader spufs_coredump_read[] = {
 	{ "npc", NULL, spufs_npc_get, 19 },
 	{ NULL },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

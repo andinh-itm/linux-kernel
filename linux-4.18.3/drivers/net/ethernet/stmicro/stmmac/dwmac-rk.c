@@ -1440,3 +1440,4 @@ module_platform_driver(rk_gmac_dwmac_driver);
 MODULE_AUTHOR("Chen-Zhi (Roger Chen) <roger.chen@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip RK3288 DWMAC specific glue layer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

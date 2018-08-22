@@ -365,3 +365,4 @@ struct seq_operations cpuinfo_op = {
 	.stop = c_stop,
 	.show = c_show
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

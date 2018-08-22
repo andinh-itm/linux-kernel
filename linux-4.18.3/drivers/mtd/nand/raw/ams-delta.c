@@ -289,3 +289,4 @@ module_platform_driver(ams_delta_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jonathan McDowell <noodles@earth.li>");
 MODULE_DESCRIPTION("Glue layer for NAND flash on Amstrad E3 (Delta)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

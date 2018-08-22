@@ -1745,3 +1745,4 @@ const char *esas2r_get_model_name_short(struct esas2r_adapter *a)
 
 	return "unknown";
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

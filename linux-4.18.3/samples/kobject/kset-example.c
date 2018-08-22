@@ -285,3 +285,4 @@ module_init(example_init);
 module_exit(example_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Greg Kroah-Hartman <greg@kroah.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

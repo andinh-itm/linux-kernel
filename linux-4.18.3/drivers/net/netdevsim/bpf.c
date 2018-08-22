@@ -640,3 +640,4 @@ void nsim_bpf_uninit(struct netdevsim *ns)
 	WARN_ON(ns->xdp_prog);
 	WARN_ON(ns->bpf_offloaded);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

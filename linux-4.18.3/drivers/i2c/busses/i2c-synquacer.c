@@ -665,3 +665,4 @@ module_platform_driver(synquacer_i2c_driver);
 MODULE_AUTHOR("Fujitsu Semiconductor Ltd");
 MODULE_DESCRIPTION("Socionext SynQuacer I2C Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

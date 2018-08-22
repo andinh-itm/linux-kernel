@@ -210,3 +210,4 @@ int rtl88eu_download_fw(struct adapter *adapt)
 	kfree(fw_data);
 	return _rtl88e_fw_free_to_go(adapt);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

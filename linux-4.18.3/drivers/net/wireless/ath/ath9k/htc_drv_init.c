@@ -1030,3 +1030,4 @@ static void __exit ath9k_htc_exit(void)
 	pr_info("Driver unloaded\n");
 }
 module_exit(ath9k_htc_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

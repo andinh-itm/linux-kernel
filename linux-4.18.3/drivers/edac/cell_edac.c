@@ -280,3 +280,4 @@ module_exit(cell_edac_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Benjamin Herrenschmidt <benh@kernel.crashing.org>");
 MODULE_DESCRIPTION("ECC counting for Cell MIC");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

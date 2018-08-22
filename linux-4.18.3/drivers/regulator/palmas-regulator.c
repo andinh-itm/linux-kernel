@@ -1702,3 +1702,4 @@ MODULE_DESCRIPTION("Palmas voltage regulator driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:palmas-pmic");
 MODULE_DEVICE_TABLE(of, of_palmas_match_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

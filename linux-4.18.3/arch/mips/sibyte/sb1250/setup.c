@@ -245,3 +245,4 @@ void __init sb1250_setup(void)
 		machine_restart(NULL);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

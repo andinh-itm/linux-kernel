@@ -1200,3 +1200,4 @@ MODULE_AUTHOR("Carlos Chinea <carlos.chinea@nokia.com>");
 MODULE_AUTHOR("Remi Denis-Courmont <remi.denis-courmont@nokia.com>");
 MODULE_DESCRIPTION("SSI protocol improved aka McSAAB");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

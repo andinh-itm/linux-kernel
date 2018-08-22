@@ -187,3 +187,4 @@ module_platform_driver_probe(pcap_rtc_driver, pcap_rtc_probe);
 MODULE_DESCRIPTION("Motorola pcap rtc driver");
 MODULE_AUTHOR("guiming zhuo <gmzhuo@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

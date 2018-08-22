@@ -738,3 +738,4 @@ EXPORT_SYMBOL(libipw_wx_get_encodeext);
 EXPORT_SYMBOL(libipw_wx_get_scan);
 EXPORT_SYMBOL(libipw_wx_set_encode);
 EXPORT_SYMBOL(libipw_wx_get_encode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

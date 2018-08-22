@@ -523,3 +523,4 @@ bool cpu_report_death(void)
 }
 
 #endif /* #ifdef CONFIG_HOTPLUG_CPU */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

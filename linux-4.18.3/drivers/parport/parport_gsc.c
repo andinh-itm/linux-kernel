@@ -429,3 +429,4 @@ static void parport_gsc_exit(void)
 
 module_init(parport_gsc_init);
 module_exit(parport_gsc_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

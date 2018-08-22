@@ -946,3 +946,4 @@ out:
 	clear_bit(DASD_FLAG_SUC, &device->flags);
 	dasd_put_device(device);
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

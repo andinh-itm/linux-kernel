@@ -256,3 +256,4 @@ MODULE_DEVICE_TABLE(pci, ata_generic);
 MODULE_VERSION(DRV_VERSION);
 
 module_param(all_generic_ide, int, 0);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

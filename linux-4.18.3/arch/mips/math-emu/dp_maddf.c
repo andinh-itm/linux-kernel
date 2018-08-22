@@ -343,3 +343,4 @@ union ieee754dp ieee754dp_msubf(union ieee754dp z, union ieee754dp x,
 {
 	return _dp_maddf(z, x, y, MADDF_NEGATE_PRODUCT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

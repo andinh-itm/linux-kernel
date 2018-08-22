@@ -295,3 +295,4 @@ int line6_init_midi(struct usb_line6 *line6)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(line6_init_midi);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -849,3 +849,4 @@ struct ast_vhub_ep *ast_vhub_alloc_epn(struct ast_vhub_dev *d, u8 addr)
 
 	return ep;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

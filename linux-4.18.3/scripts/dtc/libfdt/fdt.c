@@ -252,3 +252,4 @@ int fdt_move(const void *fdt, void *buf, int bufsize)
 	memmove(buf, fdt, fdt_totalsize(fdt));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

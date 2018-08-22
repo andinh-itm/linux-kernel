@@ -207,3 +207,4 @@ nvkm_oproxy_new_(const struct nvkm_oproxy_func *func,
 	nvkm_oproxy_ctor(func, oclass, *poproxy);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

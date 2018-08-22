@@ -767,3 +767,4 @@ module_i2c_driver(sr030pc30_i2c_driver);
 MODULE_DESCRIPTION("Siliconfile SR030PC30 camera driver");
 MODULE_AUTHOR("Sylwester Nawrocki <s.nawrocki@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

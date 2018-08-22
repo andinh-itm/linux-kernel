@@ -288,3 +288,4 @@ const struct inode_operations sysv_dir_inode_operations = {
 	.rename		= sysv_rename,
 	.getattr	= sysv_getattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

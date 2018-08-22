@@ -579,3 +579,4 @@ MODULE_DESCRIPTION("Samsung Specific DW-MSHC Driver Extension");
 MODULE_AUTHOR("Thomas Abraham <thomas.ab@samsung.com");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:dwmmc_exynos");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

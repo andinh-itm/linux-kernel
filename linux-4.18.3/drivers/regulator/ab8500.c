@@ -1697,3 +1697,4 @@ MODULE_AUTHOR("Bengt Jonsson <bengt.g.jonsson@stericsson.com>");
 MODULE_AUTHOR("Daniel Willerud <daniel.willerud@stericsson.com>");
 MODULE_DESCRIPTION("Regulator Driver for ST-Ericsson AB8500 Mixed-Sig PMIC");
 MODULE_ALIAS("platform:ab8500-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

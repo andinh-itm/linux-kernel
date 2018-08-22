@@ -77,3 +77,4 @@ int bpf_prog1(struct bpf_perf_event_data *ctx)
 }
 
 char _license[] SEC("license") = "GPL";
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

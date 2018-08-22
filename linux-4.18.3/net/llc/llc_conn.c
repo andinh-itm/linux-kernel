@@ -1047,3 +1047,4 @@ void llc_sk_reset(struct sock *sk)
 	llc->failed_data_req	= 0 ;
 	llc->last_nr		= 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

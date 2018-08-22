@@ -844,3 +844,4 @@ enum ps3_param_av_multi_out ps3_os_area_get_av_multi_out(void)
     return saved_params.av_multi_out;
 }
 EXPORT_SYMBOL_GPL(ps3_os_area_get_av_multi_out);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

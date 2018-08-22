@@ -374,3 +374,4 @@ static struct pcmcia_driver vxp_cs_driver = {
 #endif
 };
 module_pcmcia_driver(vxp_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

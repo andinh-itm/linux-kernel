@@ -149,3 +149,4 @@ void __init init_se7206_IRQ(void)
 	/* IRQ0=LAN, IRQ1=ATA, IRQ3=SLT,PCM */
 	__raw_writew(0x0001,INTSEL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

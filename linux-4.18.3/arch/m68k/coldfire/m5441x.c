@@ -224,3 +224,4 @@ void __init config_BSP(char *commandp, int size)
 	m5441x_uarts_init();
 	m5441x_fec_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

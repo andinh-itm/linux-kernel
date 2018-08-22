@@ -368,3 +368,4 @@ module_platform_driver(tps65090_charger_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Syed Rafiuddin <srafiuddin@nvidia.com>");
 MODULE_DESCRIPTION("tps65090 battery charger driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

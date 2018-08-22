@@ -265,3 +265,4 @@ int cx25840_decode_vbi_line(struct v4l2_subdev *sd, struct v4l2_decode_vbi_line 
 	vbi->p = p;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

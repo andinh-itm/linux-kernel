@@ -504,3 +504,4 @@ void __init bio_integrity_init(void)
 				     sizeof(struct bio_vec) * BIP_INLINE_VECS,
 				     0, SLAB_HWCACHE_ALIGN|SLAB_PANIC, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

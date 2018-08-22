@@ -56,3 +56,4 @@ unsigned long clear_user_hexagon(void __user *dest, unsigned long count)
 	else
 		return __clear_user_hexagon(dest, count);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

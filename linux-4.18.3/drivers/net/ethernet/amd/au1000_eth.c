@@ -1429,3 +1429,4 @@ static struct platform_driver au1000_eth_driver = {
 module_platform_driver(au1000_eth_driver);
 
 MODULE_ALIAS("platform:au1000-eth");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

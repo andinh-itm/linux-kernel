@@ -169,3 +169,4 @@ static int __init ab8500_sysctrl_init(void)
 	return platform_driver_register(&ab8500_sysctrl_driver);
 }
 arch_initcall(ab8500_sysctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

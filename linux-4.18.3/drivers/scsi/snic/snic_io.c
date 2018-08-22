@@ -566,3 +566,4 @@ snic_calc_io_process_time(struct snic *snic, struct snic_req_info *rqi)
 	if (duration > atomic64_read(&snic->s_stats.io.max_time))
 		atomic64_set(&snic->s_stats.io.max_time, duration);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

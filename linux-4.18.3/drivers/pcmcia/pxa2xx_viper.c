@@ -180,3 +180,4 @@ module_platform_driver(viper_pcmcia_driver);
 
 MODULE_DEVICE_TABLE(platform, viper_pcmcia_id_table);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

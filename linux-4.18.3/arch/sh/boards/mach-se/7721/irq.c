@@ -43,3 +43,4 @@ void __init init_se7721_IRQ(void)
 	register_intc_controller(&intc_desc);
 	intc_set_priority(MRSHPC_IRQ0, 0xf - MRSHPC_IRQ0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

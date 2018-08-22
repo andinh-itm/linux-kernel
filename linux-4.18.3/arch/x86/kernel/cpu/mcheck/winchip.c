@@ -42,3 +42,4 @@ void winchip_mcheck_init(struct cpuinfo_x86 *c)
 
 	pr_info("Winchip machine check reporting enabled on CPU#0.\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

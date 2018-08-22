@@ -868,3 +868,4 @@ MODULE_ALIAS("platform:softing");
 MODULE_DESCRIPTION("Softing DPRAM CAN driver");
 MODULE_AUTHOR("Kurt Van Dijck <kurt.van.dijck@eia.be>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

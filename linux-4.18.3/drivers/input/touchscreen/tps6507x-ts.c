@@ -294,3 +294,4 @@ MODULE_AUTHOR("Todd Fischer <todd.fischer@ridgerun.com>");
 MODULE_DESCRIPTION("TPS6507x - TouchScreen driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:tps6507x-ts");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

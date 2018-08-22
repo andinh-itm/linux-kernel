@@ -42,3 +42,4 @@ prom_startcpu(int cpunode, struct linux_prom_registers *ctable_reg, int ctx, cha
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -218,3 +218,4 @@ module_pci_driver(pcips2_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Russell King <rmk@arm.linux.org.uk>");
 MODULE_DESCRIPTION("PCI PS/2 keyboard/mouse driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

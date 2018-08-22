@@ -530,3 +530,4 @@ static void __init s3c6410_clk_init(struct device_node *np)
 	s3c64xx_clk_init(np, 0, 0, false, NULL);
 }
 CLK_OF_DECLARE(s3c6410_clk, "samsung,s3c6410-clock", s3c6410_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

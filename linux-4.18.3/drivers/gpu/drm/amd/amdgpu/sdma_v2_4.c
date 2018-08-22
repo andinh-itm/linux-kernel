@@ -1330,3 +1330,4 @@ const struct amdgpu_ip_block_version sdma_v2_4_ip_block =
 	.rev = 0,
 	.funcs = &sdma_v2_4_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

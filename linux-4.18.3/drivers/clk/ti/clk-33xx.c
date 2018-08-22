@@ -269,3 +269,4 @@ int __init am33xx_dt_clk_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

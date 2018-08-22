@@ -1320,3 +1320,4 @@ void __exit brcmf_core_exit(void)
 #endif
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

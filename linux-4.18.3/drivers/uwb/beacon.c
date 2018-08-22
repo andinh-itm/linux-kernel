@@ -607,3 +607,4 @@ static ssize_t uwb_rc_beacon_store(struct device *dev,
 	return result < 0 ? result : size;
 }
 DEVICE_ATTR(beacon, S_IRUGO | S_IWUSR, uwb_rc_beacon_show, uwb_rc_beacon_store);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

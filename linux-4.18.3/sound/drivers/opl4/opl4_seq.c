@@ -208,3 +208,4 @@ static struct snd_seq_driver opl4_seq_driver = {
 };
 
 module_snd_seq_driver(opl4_seq_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

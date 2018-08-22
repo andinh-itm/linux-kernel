@@ -12052,3 +12052,4 @@ MODULE_PARM_DESC(antenna, "select antenna 1=Main, 3=Aux, default 0 [both], 2=slo
 
 module_exit(ipw_exit);
 module_init(ipw_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -498,3 +498,4 @@ void vgic_v2_put(struct kvm_vcpu *vcpu)
 	cpu_if->vgic_vmcr = readl_relaxed(kvm_vgic_global_state.vctrl_base + GICH_VMCR);
 	cpu_if->vgic_apr = readl_relaxed(kvm_vgic_global_state.vctrl_base + GICH_APR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

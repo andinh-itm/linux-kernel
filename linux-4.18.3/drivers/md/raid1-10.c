@@ -80,3 +80,4 @@ static void md_bio_reset_resync_pages(struct bio *bio, struct resync_pages *rp,
 		size -= len;
 	} while (idx++ < RESYNC_PAGES && size > 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

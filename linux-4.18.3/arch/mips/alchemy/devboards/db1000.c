@@ -629,3 +629,4 @@ int __init db1000_dev_setup(void)
 	db1x_register_norflash(flashsize << 20, 4 /* 32bit */, F_SWAPPED);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

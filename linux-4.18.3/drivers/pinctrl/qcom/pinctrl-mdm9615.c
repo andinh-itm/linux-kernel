@@ -481,3 +481,4 @@ MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_DESCRIPTION("Qualcomm MDM9615 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, mdm9615_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

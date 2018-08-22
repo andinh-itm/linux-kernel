@@ -86,3 +86,4 @@ int hvc_put_chars(uint32_t vtermno, const char *buf, int count)
 }
 
 EXPORT_SYMBOL(hvc_put_chars);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

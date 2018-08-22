@@ -1876,3 +1876,4 @@ int get_user_pages_fast(unsigned long start, int nr_pages, int write,
 }
 
 #endif /* CONFIG_HAVE_GENERIC_GUP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

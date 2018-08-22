@@ -349,3 +349,4 @@ static void snd_gf1_mem_info_read(struct snd_info_entry *entry,
 #endif
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

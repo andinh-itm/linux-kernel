@@ -172,3 +172,4 @@ decompress_kernel(void *output_start,
 /*	puts(" done, booting the kernel.\n"); */
 	return output_ptr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

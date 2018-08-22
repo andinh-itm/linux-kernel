@@ -137,3 +137,4 @@ static struct plat_smp_ops j2_smp_ops = {
 };
 
 CPU_METHOD_OF_DECLARE(j2_cpu_method, "jcore,spin-table", &j2_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

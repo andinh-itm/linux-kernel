@@ -176,3 +176,4 @@ static long snd_rawmidi_ioctl_compat(struct file *file, unsigned int cmd, unsign
 	}
 	return -ENOIOCTLCMD;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

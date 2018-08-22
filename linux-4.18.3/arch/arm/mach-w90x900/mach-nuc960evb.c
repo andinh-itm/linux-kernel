@@ -40,3 +40,4 @@ MACHINE_START(W90N960EVB, "W90N960EVB")
 	.init_time	= nuc900_timer_init,
 	.restart	= nuc9xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

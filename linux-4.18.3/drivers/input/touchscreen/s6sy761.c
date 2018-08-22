@@ -552,3 +552,4 @@ module_i2c_driver(s6sy761_driver);
 MODULE_AUTHOR("Andi Shyti <andi.shyti@samsung.com>");
 MODULE_DESCRIPTION("Samsung S6SY761 Touch Screen");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

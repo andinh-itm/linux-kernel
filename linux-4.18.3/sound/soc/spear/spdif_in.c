@@ -273,3 +273,4 @@ MODULE_AUTHOR("Vipin Kumar <vipin.kumar@st.com>");
 MODULE_DESCRIPTION("SPEAr SPDIF IN SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:spdif_in");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -609,3 +609,4 @@ out_unlock:
 	inode_set_bytes(inode, hip->fs_blocks << sb->s_blocksize_bits);
 	hfsplus_mark_inode_dirty(inode, HFSPLUS_I_ALLOC_DIRTY);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

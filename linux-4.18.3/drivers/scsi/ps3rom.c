@@ -454,3 +454,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("PS3 BD/DVD/CD-ROM Storage Driver");
 MODULE_AUTHOR("Sony Corporation");
 MODULE_ALIAS(PS3_MODULE_ALIAS_STOR_ROM);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

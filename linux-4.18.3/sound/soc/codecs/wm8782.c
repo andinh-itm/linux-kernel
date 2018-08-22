@@ -88,3 +88,4 @@ module_platform_driver(wm8782_codec_driver);
 MODULE_DESCRIPTION("ASoC WM8782 driver");
 MODULE_AUTHOR("Johannes Stezenbach <js@sig21.net>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

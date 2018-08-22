@@ -430,3 +430,4 @@ module_platform_driver(pm8941_wled_driver);
 
 MODULE_DESCRIPTION("pm8941 wled driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

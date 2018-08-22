@@ -103,3 +103,4 @@ module_exit(rng_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Michael Neuling <mikey@neuling.org>");
 MODULE_DESCRIPTION("H/W RNG driver for IBM pSeries processors");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

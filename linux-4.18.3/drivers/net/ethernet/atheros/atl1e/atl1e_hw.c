@@ -648,3 +648,4 @@ int atl1e_restart_autoneg(struct atl1e_hw *hw)
 	return err;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

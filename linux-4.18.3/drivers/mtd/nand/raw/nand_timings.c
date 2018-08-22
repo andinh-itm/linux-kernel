@@ -322,3 +322,4 @@ int onfi_fill_data_interface(struct nand_chip *chip,
 	return 0;
 }
 EXPORT_SYMBOL(onfi_fill_data_interface);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1045,3 +1045,4 @@ MODULE_DESCRIPTION("Freescale ASRC ASoC driver");
 MODULE_AUTHOR("Nicolin Chen <nicoleotsuka@gmail.com>");
 MODULE_ALIAS("platform:fsl-asrc");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

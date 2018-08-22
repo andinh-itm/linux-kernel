@@ -777,3 +777,4 @@ void vnt_set_bss_mode(struct vnt_private *priv)
 
 	vnt_set_vga_gain_offset(priv, priv->bb_vga[0]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -317,3 +317,4 @@ void snd_efw_stream_lock_release(struct snd_efw *efw)
 end:
 	spin_unlock_irq(&efw->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

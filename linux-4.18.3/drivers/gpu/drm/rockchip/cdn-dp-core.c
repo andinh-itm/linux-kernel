@@ -1233,3 +1233,4 @@ struct platform_driver cdn_dp_driver = {
 		   .pm = &cdn_dp_pm_ops,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

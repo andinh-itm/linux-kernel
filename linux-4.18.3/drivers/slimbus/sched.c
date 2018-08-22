@@ -119,3 +119,4 @@ clk_pause_ret:
 	return ret;
 }
 EXPORT_SYMBOL_GPL(slim_ctrl_clk_pause);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

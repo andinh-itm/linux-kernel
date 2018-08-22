@@ -479,3 +479,4 @@ fail_platform_driver_unregister:
 
 module_init(xpram_init);
 module_exit(xpram_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1948,3 +1948,4 @@ struct il_cfg il4965_cfg = {
 
 /* Module firmware */
 MODULE_FIRMWARE(IL4965_MODULE_FIRMWARE(IL4965_UCODE_API_MAX));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

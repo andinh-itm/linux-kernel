@@ -850,3 +850,4 @@ void CALLBACK(ADAPTER *a, ENTITY *e)
 	if (e && e->callback)
 		e->callback(e);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

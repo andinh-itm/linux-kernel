@@ -139,3 +139,4 @@ void __init footbridge_sched_clock(void)
 
 	sched_clock_register(footbridge_read_sched_clock, 24, rate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

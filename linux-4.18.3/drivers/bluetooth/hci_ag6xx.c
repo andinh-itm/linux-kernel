@@ -335,3 +335,4 @@ int __exit ag6xx_deinit(void)
 {
 	return hci_uart_unregister_proto(&ag6xx_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

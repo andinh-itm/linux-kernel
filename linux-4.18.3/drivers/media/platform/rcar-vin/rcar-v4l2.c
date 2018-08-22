@@ -1034,3 +1034,4 @@ int rvin_v4l2_register(struct rvin_dev *vin)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

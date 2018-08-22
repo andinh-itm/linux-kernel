@@ -155,3 +155,4 @@ struct clk *imx_clk_pfd(const char *name, const char *parent_name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

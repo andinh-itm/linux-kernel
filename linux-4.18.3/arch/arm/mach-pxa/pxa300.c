@@ -97,3 +97,4 @@ static int __init pxa300_init(void)
 }
 
 core_initcall(pxa300_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

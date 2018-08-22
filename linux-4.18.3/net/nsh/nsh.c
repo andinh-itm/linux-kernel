@@ -153,3 +153,4 @@ module_exit(nsh_cleanup_module);
 MODULE_AUTHOR("Jiri Benc <jbenc@redhat.com>");
 MODULE_DESCRIPTION("NSH protocol");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

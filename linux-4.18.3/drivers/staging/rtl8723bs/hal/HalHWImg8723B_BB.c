@@ -632,3 +632,4 @@ void ODM_ReadAndConfig_MP_8723B_PHY_REG_PG(PDM_ODM_T pDM_Odm)
 		odm_ConfigBB_PHY_REG_PG_8723B(pDM_Odm, v1, v2, v3, v4, v5, v6);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

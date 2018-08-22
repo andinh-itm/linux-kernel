@@ -404,3 +404,4 @@ void fsl_spi_cpm_free(struct mpc8xxx_spi *mspi)
 EXPORT_SYMBOL_GPL(fsl_spi_cpm_free);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

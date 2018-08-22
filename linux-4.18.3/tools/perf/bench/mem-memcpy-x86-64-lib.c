@@ -22,3 +22,4 @@ unsigned long mcsafe_handle_tail(char *to, char *from, unsigned len)
 	}
 	return len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

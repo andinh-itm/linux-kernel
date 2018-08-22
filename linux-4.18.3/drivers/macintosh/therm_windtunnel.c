@@ -527,3 +527,4 @@ module_exit(g4fan_exit);
 MODULE_AUTHOR("Samuel Rydh <samuel@ibrium.se>");
 MODULE_DESCRIPTION("Apple G4 (windtunnel) fan controller");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

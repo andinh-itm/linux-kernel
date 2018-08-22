@@ -186,3 +186,4 @@ static struct serio_driver gunze_drv = {
 };
 
 module_serio_driver(gunze_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

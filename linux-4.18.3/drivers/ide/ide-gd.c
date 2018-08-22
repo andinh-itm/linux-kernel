@@ -446,3 +446,4 @@ module_init(ide_gd_init);
 module_exit(ide_gd_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("generic ATA/ATAPI disk driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -74,3 +74,4 @@ irqreturn_t cx18_irq_handler(int irq, void *dev_id)
 
 	return (sw1 || sw2 || hw2) ? IRQ_HANDLED : IRQ_NONE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

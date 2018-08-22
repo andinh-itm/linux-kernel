@@ -162,3 +162,4 @@ int of_mpc8xxx_spi_probe(struct platform_device *ofdev)
 EXPORT_SYMBOL_GPL(of_mpc8xxx_spi_probe);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

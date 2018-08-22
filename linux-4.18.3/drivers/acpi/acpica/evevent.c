@@ -266,3 +266,4 @@ static u32 acpi_ev_fixed_event_dispatch(u32 event)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

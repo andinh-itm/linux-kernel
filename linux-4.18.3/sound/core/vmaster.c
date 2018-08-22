@@ -522,3 +522,4 @@ int snd_ctl_apply_vmaster_slaves(struct snd_kcontrol *kctl,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(snd_ctl_apply_vmaster_slaves);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

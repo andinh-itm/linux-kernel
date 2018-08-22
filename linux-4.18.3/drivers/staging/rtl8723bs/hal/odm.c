@@ -1436,3 +1436,4 @@ void odm_SwAntDetectInit(PDM_ODM_T pDM_Odm)
 	pDM_SWAT_Table->CurAntenna = MAIN_ANT;
 	pDM_SWAT_Table->SWAS_NoLink_State = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

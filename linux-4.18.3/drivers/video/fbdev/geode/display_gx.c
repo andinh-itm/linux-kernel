@@ -182,3 +182,4 @@ void gx_set_hw_palette_reg(struct fb_info *info, unsigned regno,
 	write_dc(par, DC_PAL_ADDRESS, regno);
 	write_dc(par, DC_PAL_DATA, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

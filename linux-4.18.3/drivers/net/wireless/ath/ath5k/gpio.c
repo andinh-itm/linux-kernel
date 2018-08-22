@@ -211,3 +211,4 @@ ath5k_hw_set_gpio_intr(struct ath5k_hw *ah, unsigned int gpio,
 	AR5K_REG_ENABLE_BITS(ah, AR5K_PIMR, AR5K_IMR_GPIO);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

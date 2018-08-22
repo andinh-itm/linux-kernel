@@ -2099,3 +2099,4 @@ void sba_distributed_lmmio(struct parisc_device *pci_hba, struct resource *r )
 	r->end = r->start + size;
 	r->flags = IORESOURCE_MEM;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

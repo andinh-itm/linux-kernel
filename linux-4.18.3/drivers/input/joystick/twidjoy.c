@@ -257,3 +257,4 @@ static struct serio_driver twidjoy_drv = {
 };
 
 module_serio_driver(twidjoy_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

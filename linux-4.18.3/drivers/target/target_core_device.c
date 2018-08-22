@@ -1240,3 +1240,4 @@ passthrough_parse_cdb(struct se_cmd *cmd,
 	return TCM_NO_SENSE;
 }
 EXPORT_SYMBOL(passthrough_parse_cdb);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

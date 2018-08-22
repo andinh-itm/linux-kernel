@@ -76,3 +76,4 @@ xfs_scrub_symlink(
 out:
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

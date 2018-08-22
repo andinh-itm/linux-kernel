@@ -389,3 +389,4 @@ module_i2c_driver(sta529_i2c_driver);
 MODULE_DESCRIPTION("ASoC STA529 codec driver");
 MODULE_AUTHOR("Rajeev Kumar <rajeevkumar.linux@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

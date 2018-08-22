@@ -126,3 +126,4 @@ static int __init ath25_arch_init(void)
 }
 
 arch_initcall(ath25_arch_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

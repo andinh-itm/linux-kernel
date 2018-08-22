@@ -6163,3 +6163,4 @@ static int __init atlas7_gpio_init(void)
 	return platform_driver_register(&atlas7_gpio_driver);
 }
 subsys_initcall(atlas7_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

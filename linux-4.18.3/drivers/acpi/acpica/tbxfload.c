@@ -388,3 +388,4 @@ acpi_status acpi_unload_parent_table(acpi_handle object)
 }
 
 ACPI_EXPORT_SYMBOL(acpi_unload_parent_table)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

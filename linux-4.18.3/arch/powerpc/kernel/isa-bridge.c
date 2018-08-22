@@ -356,3 +356,4 @@ static int __init isa_bridge_init(void)
 	return 0;
 }
 arch_initcall(isa_bridge_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

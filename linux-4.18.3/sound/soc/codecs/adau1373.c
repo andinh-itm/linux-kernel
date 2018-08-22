@@ -1518,3 +1518,4 @@ module_i2c_driver(adau1373_i2c_driver);
 MODULE_DESCRIPTION("ASoC ADAU1373 driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

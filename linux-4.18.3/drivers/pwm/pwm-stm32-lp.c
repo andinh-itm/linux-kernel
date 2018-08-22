@@ -244,3 +244,4 @@ module_platform_driver(stm32_pwm_lp_driver);
 MODULE_ALIAS("platform:stm32-pwm-lp");
 MODULE_DESCRIPTION("STMicroelectronics STM32 PWM LP driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

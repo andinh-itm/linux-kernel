@@ -136,3 +136,4 @@ static struct platform_driver realview_soc_driver = {
 	},
 };
 builtin_platform_driver(realview_soc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

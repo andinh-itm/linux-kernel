@@ -383,3 +383,4 @@ module_usb_driver(zaurus_driver);
 MODULE_AUTHOR("Pavel Machek, David Brownell");
 MODULE_DESCRIPTION("Sharp Zaurus PDA, and compatible products");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -148,3 +148,4 @@ MODULE_DESCRIPTION("Meson H/W Random Number Generator driver");
 MODULE_AUTHOR("Lawrence Mok <lawrence.mok@amlogic.com>");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -654,3 +654,4 @@ module_i2c_driver(tas5720_i2c_driver);
 MODULE_AUTHOR("Andreas Dannenberg <dannenberg@ti.com>");
 MODULE_DESCRIPTION("TAS5720 Audio amplifier driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

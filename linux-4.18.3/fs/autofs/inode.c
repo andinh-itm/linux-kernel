@@ -369,3 +369,4 @@ struct inode *autofs_get_inode(struct super_block *sb, umode_t mode)
 
 	return inode;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

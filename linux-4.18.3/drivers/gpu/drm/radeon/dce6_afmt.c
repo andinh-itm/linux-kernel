@@ -316,3 +316,4 @@ void dce6_dp_audio_set_dto(struct radeon_device *rdev,
 		WREG32(DCCG_AUDIO_DTO1_MODULE, clock);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

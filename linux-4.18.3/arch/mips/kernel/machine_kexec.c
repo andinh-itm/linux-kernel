@@ -135,3 +135,4 @@ machine_kexec(struct kimage *image)
 #endif
 	((noretfun_t) reboot_code_buffer)();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

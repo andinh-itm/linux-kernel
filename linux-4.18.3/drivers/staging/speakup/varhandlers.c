@@ -335,3 +335,4 @@ char *spk_s2uchar(char *start, char *dest)
 	*dest = (u_char)val;
 	return start;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

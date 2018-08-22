@@ -1069,3 +1069,4 @@ uint32_t amdgpu_bo_get_preferred_pin_domain(struct amdgpu_device *adev,
 	}
 	return domain;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

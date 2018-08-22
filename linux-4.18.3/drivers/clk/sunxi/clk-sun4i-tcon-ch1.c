@@ -294,3 +294,4 @@ err_unmap:
 
 CLK_OF_DECLARE(tcon_ch1, "allwinner,sun4i-a10-tcon-ch1-clk",
 	       tcon_ch1_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

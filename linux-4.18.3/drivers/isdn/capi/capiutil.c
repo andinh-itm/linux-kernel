@@ -898,3 +898,4 @@ EXPORT_SYMBOL(capi_cmsg_header);
 EXPORT_SYMBOL(capi_cmd2str);
 EXPORT_SYMBOL(capi_cmsg2str);
 EXPORT_SYMBOL(capi_message2str);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

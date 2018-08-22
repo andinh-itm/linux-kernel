@@ -66,3 +66,4 @@ void cudbg_update_buff(struct cudbg_buffer *pin_buff,
 	 */
 	pout_buff->offset += pin_buff->size;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

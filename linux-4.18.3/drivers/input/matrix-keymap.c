@@ -208,3 +208,4 @@ int matrix_keypad_build_keymap(const struct matrix_keymap_data *keymap_data,
 EXPORT_SYMBOL(matrix_keypad_build_keymap);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

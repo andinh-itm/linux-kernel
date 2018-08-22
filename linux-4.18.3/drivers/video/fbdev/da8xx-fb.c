@@ -1666,3 +1666,4 @@ module_platform_driver(da8xx_fb_driver);
 MODULE_DESCRIPTION("Framebuffer driver for TI da8xx/omap-l1xx");
 MODULE_AUTHOR("Texas Instruments");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

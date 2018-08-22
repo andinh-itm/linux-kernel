@@ -1000,3 +1000,4 @@ int snd_scarlett_controls_create(struct usb_mixer_interface *mixer)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

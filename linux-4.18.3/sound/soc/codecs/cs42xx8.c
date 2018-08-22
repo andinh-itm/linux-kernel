@@ -599,3 +599,4 @@ EXPORT_SYMBOL_GPL(cs42xx8_pm);
 MODULE_DESCRIPTION("Cirrus Logic CS42448/CS42888 ALSA SoC Codec Driver");
 MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

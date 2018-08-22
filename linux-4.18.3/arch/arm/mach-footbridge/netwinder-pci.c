@@ -60,3 +60,4 @@ static int __init netwinder_pci_init(void)
 }
 
 subsys_initcall(netwinder_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

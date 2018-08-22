@@ -43,3 +43,4 @@ MACHINE_START(ADSSPHERE, "ADS Sphere board")
 	.init_late	= ep93xx_init_late,
 	.restart	= ep93xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

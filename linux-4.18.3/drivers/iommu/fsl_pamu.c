@@ -1284,3 +1284,4 @@ error_driver_register:
 	return ret;
 }
 arch_initcall(fsl_pamu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

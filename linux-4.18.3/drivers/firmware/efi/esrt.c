@@ -430,3 +430,4 @@ MODULE_AUTHOR("Peter Jones <pjones@redhat.com>");
 MODULE_DESCRIPTION("EFI System Resource Table support");
 MODULE_LICENSE("GPL");
 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -151,3 +151,4 @@ module_i2c_driver(adg792a_driver);
 MODULE_DESCRIPTION("Analog Devices ADG792A/G Triple 4:1 mux driver");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

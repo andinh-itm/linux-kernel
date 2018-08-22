@@ -526,3 +526,4 @@ MODULE_ALIAS("platform:ep93xx-i2s");
 MODULE_AUTHOR("Ryan Mallon");
 MODULE_DESCRIPTION("EP93XX I2S driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

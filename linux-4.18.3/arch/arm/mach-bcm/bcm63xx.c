@@ -25,3 +25,4 @@ DT_MACHINE_START(BCM63XXX_DT, "BCM63xx DSL SoC")
 	.l2c_aux_val	= 0,
 	.l2c_aux_mask	= ~0,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

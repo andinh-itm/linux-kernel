@@ -333,3 +333,4 @@ void mb862xxfb_init_accel(struct fb_info *info, int xres)
 EXPORT_SYMBOL(mb862xxfb_init_accel);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -479,3 +479,4 @@ EXPORT_SYMBOL_GPL(wm9713_codec);
 MODULE_AUTHOR("Liam Girdwood <lrg@slimlogic.co.uk>");
 MODULE_DESCRIPTION("WM9713 Touch Screen Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -372,3 +372,4 @@ static struct usb_driver usb_raremono_driver = {
 };
 
 module_usb_driver(usb_raremono_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

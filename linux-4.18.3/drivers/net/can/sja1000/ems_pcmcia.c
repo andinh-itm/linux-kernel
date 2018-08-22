@@ -318,3 +318,4 @@ static struct pcmcia_driver ems_pcmcia_driver = {
 	.id_table = ems_pcmcia_tbl,
 };
 module_pcmcia_driver(ems_pcmcia_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

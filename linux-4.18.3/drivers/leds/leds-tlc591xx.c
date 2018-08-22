@@ -280,3 +280,4 @@ module_i2c_driver(tlc591xx_driver);
 MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("TLC591XX LED driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

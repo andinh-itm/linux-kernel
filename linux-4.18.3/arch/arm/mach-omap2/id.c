@@ -812,3 +812,4 @@ void __init omap_soc_device_init(void)
 	device_create_file(parent, &omap_soc_attr);
 }
 #endif /* CONFIG_SOC_BUS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

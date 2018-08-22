@@ -332,3 +332,4 @@ MODULE_AUTHOR("Anthony Olech <Anthony.Olech@diasemi.com>");
 MODULE_DESCRIPTION("RTC driver for Dialog DA9052 PMIC");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9052-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

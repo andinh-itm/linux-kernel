@@ -383,3 +383,4 @@ MODULE_DESCRIPTION("UX500 MUSB Glue Layer");
 MODULE_AUTHOR("Mian Yousaf Kaukab <mian.yousaf.kaukab@stericsson.com>");
 MODULE_LICENSE("GPL v2");
 module_platform_driver(ux500_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

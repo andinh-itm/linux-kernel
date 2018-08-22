@@ -150,3 +150,4 @@ void hns_roce_cleanup_uar_table(struct hns_roce_dev *hr_dev)
 {
 	hns_roce_bitmap_cleanup(&hr_dev->uar_table.bitmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

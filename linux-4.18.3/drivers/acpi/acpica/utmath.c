@@ -492,3 +492,4 @@ acpi_ut_divide(u64 in_dividend,
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -116,3 +116,4 @@ void __init rockchip_register_softrst(struct device_node *np,
 		kfree(softrst);
 	}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

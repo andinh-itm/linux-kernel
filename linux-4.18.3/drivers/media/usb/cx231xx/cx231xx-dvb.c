@@ -1184,3 +1184,4 @@ static void __exit cx231xx_dvb_unregister(void)
 
 module_init(cx231xx_dvb_register);
 module_exit(cx231xx_dvb_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

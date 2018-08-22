@@ -437,3 +437,4 @@ void ssusb_otg_switch_exit(struct ssusb_mtk *ssusb)
 	cancel_work_sync(&otg_sx->id_work);
 	cancel_work_sync(&otg_sx->vbus_work);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

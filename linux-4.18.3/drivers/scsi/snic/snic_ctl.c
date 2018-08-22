@@ -275,3 +275,4 @@ snic_get_conf(struct snic *snic)
 
 	return ret;
 } /* end of snic_get_info */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

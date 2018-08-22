@@ -3398,3 +3398,4 @@ static void __exit natsemi_exit_mod (void)
 module_init(natsemi_init_mod);
 module_exit(natsemi_exit_mod);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

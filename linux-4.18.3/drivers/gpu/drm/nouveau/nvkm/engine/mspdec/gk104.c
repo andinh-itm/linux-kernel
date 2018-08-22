@@ -40,3 +40,4 @@ gk104_mspdec_new(struct nvkm_device *device, int index,
 {
 	return nvkm_mspdec_new_(&gk104_mspdec, device, index, pengine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

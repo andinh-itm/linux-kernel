@@ -69,3 +69,4 @@ err_free_fixed:
 	kfree(fixed);
 }
 CLK_OF_DECLARE(sun4i_osc, "allwinner,sun4i-a10-osc-clk", sun4i_osc_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

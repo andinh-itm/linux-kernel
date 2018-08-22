@@ -118,3 +118,4 @@ void synchronise_count_slave(int cpu)
 	openrisc_timer_set_next(COUNTON);
 }
 #undef NR_LOOPS
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

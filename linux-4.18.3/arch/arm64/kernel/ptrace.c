@@ -1733,3 +1733,4 @@ int valid_user_regs(struct user_pt_regs *regs, struct task_struct *task)
 	else
 		return valid_native_regs(regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -576,3 +576,4 @@ int mv88e6xxx_g1_stats_clear(struct mv88e6xxx_chip *chip)
 	/* Wait for the flush to complete. */
 	return mv88e6xxx_g1_stats_wait(chip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

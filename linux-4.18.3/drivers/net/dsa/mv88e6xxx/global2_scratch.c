@@ -289,3 +289,4 @@ int mv88e6xxx_g2_scratch_gpio_set_smi(struct mv88e6xxx_chip *chip,
 
 	return mv88e6xxx_g2_scratch_write(chip, misc_cfg, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

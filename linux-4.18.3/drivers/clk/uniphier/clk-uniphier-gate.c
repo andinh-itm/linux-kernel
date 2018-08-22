@@ -95,3 +95,4 @@ struct clk_hw *uniphier_clk_register_gate(struct device *dev,
 
 	return &gate->hw;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

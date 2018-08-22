@@ -1418,3 +1418,4 @@ int atom_allocate_fb_scratch(struct atom_context *ctx)
 	ctx->scratch_size_bytes = usage_bytes;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -286,3 +286,4 @@ module_exit(cr_backlight_exit);
 MODULE_AUTHOR("Tungsten Graphics Inc.");
 MODULE_DESCRIPTION("Carillo Ranch Backlight Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

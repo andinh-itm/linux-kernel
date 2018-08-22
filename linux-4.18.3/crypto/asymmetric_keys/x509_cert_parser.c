@@ -646,3 +646,4 @@ int x509_akid_note_serial(void *context, size_t hdrlen,
 	ctx->cert->sig->auth_ids[0] = kid;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

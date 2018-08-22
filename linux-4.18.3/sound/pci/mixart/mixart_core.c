@@ -600,3 +600,4 @@ void snd_mixart_reset_board(struct mixart_mgr *mgr)
 	writel_be( 1, MIXART_REG(mgr, MIXART_BA1_BRUTAL_RESET_OFFSET) );
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -445,3 +445,4 @@ MODULE_ALIAS("platform:twl6030_usb");
 MODULE_AUTHOR("Hema HK <hemahk@ti.com>");
 MODULE_DESCRIPTION("TWL6030 USB transceiver driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

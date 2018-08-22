@@ -299,3 +299,4 @@ module_init(init_nls_cp1251)
 module_exit(exit_nls_cp1251)
 
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

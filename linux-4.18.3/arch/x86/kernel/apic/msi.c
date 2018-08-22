@@ -387,3 +387,4 @@ int hpet_assign_irq(struct irq_domain *domain, struct hpet_dev *dev,
 	return irq_domain_alloc_irqs(domain, 1, NUMA_NO_NODE, &info);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -142,3 +142,4 @@ void __init ep93xx_timer_init(void)
 					1,
 					0xffffffffU);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1032,3 +1032,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Kevin Wells <kevin.wells@nxp.com>");
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("NAND driver for the NXP LPC32XX SLC controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

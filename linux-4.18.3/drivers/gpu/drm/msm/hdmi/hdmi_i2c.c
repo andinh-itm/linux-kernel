@@ -276,3 +276,4 @@ fail:
 		msm_hdmi_i2c_destroy(i2c);
 	return ERR_PTR(ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

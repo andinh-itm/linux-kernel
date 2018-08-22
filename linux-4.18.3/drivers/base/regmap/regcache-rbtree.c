@@ -566,3 +566,4 @@ struct regcache_ops regcache_rbtree_ops = {
 	.sync = regcache_rbtree_sync,
 	.drop = regcache_rbtree_drop,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1435,3 +1435,4 @@ module_platform_driver(bdisp_driver);
 MODULE_DESCRIPTION("2D blitter for STMicroelectronics SoC");
 MODULE_AUTHOR("Fabien Dessenne <fabien.dessenne@st.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

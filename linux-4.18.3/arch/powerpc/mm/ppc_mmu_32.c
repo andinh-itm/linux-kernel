@@ -287,3 +287,4 @@ void setup_initial_memory_limit(phys_addr_t first_memblock_base,
 	else /* Anything else has 256M mapped */
 		memblock_set_current_limit(min_t(u64, first_memblock_size, 0x10000000));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

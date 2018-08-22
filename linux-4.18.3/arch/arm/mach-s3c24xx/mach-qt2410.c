@@ -349,3 +349,4 @@ MACHINE_START(QT2410, "QT2410")
 	.init_machine	= qt2410_machine_init,
 	.init_time	= qt2410_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -315,3 +315,4 @@ static int __init cmd_db_device_init(void)
 	return platform_driver_register(&cmd_db_dev_driver);
 }
 arch_initcall(cmd_db_device_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

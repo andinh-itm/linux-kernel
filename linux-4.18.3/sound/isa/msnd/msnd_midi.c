@@ -180,3 +180,4 @@ int snd_msndmidi_new(struct snd_card *card, int device)
 	rmidi->info_flags |= SNDRV_RAWMIDI_INFO_INPUT;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

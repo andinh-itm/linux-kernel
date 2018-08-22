@@ -147,3 +147,4 @@ static void __exit dc_mouse_exit(void)
 
 module_init(dc_mouse_init);
 module_exit(dc_mouse_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

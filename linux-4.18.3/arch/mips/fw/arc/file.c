@@ -72,3 +72,4 @@ LONG ArcSetFileInformation(ULONG FileID, ULONG AttributeFlags,
 {
 	return ARC_CALL3(set_finfo, FileID, AttributeFlags, AttributeMask);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

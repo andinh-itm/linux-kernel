@@ -740,3 +740,4 @@ static void __exit efi_test_exit(void)
 
 module_init(efi_test_init);
 module_exit(efi_test_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

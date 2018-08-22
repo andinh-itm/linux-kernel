@@ -176,3 +176,4 @@ struct mdp5_hw_pipe *mdp5_pipe_init(enum mdp5_pipe pipe,
 
 	return hwpipe;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

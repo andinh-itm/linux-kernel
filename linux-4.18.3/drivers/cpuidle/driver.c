@@ -354,3 +354,4 @@ void cpuidle_driver_unref(void)
 
 	spin_unlock(&cpuidle_driver_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

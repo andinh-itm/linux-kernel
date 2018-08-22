@@ -501,3 +501,4 @@ int kvm_arm_set_fw_reg(struct kvm_vcpu *vcpu, const struct kvm_one_reg *reg)
 
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

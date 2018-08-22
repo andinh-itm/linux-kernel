@@ -462,3 +462,4 @@ void __init omap54xx_clockdomains_init(void)
 	clkdm_register_clkdms(clockdomains_omap54xx);
 	clkdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

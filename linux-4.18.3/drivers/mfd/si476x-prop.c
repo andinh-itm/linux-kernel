@@ -239,3 +239,4 @@ struct regmap *devm_regmap_init_si476x(struct si476x_core *core)
 				core, &si476x_regmap_config);
 }
 EXPORT_SYMBOL_GPL(devm_regmap_init_si476x);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

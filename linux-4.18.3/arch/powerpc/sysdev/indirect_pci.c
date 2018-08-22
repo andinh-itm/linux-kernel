@@ -175,3 +175,4 @@ void setup_indirect_pci(struct pci_controller *hose, resource_size_t cfg_addr,
 	hose->ops = &indirect_pci_ops;
 	hose->indirect_type = flags;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

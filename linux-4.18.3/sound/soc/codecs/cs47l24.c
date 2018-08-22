@@ -1342,3 +1342,4 @@ MODULE_DESCRIPTION("ASoC CS47L24 driver");
 MODULE_AUTHOR("Richard Fitzgerald <rf@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:cs47l24-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

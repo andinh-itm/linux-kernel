@@ -1508,3 +1508,4 @@ static void __exit solos_pci_exit(void)
 
 module_init(solos_pci_init);
 module_exit(solos_pci_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

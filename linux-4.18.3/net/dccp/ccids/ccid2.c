@@ -799,3 +799,4 @@ struct ccid_operations ccid2_ops = {
 module_param(ccid2_debug, bool, 0644);
 MODULE_PARM_DESC(ccid2_debug, "Enable CCID-2 debug messages");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

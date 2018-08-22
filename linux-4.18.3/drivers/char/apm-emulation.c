@@ -723,3 +723,4 @@ void apm_queue_event(apm_event_t event)
 	wake_up_interruptible(&kapmd_wait);
 }
 EXPORT_SYMBOL(apm_queue_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

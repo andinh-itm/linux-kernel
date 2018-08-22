@@ -138,3 +138,4 @@ static int opal_xscom_init(void)
 	return 0;
 }
 machine_arch_initcall(powernv, opal_xscom_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

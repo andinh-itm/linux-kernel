@@ -779,3 +779,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Timberdale DMA controller driver");
 MODULE_AUTHOR("Pelagicore AB <info@pelagicore.com>");
 MODULE_ALIAS("platform:"DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

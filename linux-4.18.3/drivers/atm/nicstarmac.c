@@ -247,3 +247,4 @@ nicstar_read_eprom(virt_addr_t base,
 		osp_MicroDelay(CYCLE_DELAY);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

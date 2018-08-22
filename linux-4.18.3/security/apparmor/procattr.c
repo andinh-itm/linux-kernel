@@ -140,3 +140,4 @@ int aa_setprocattr_changehat(char *args, size_t size, int flags)
 
 	return aa_change_hat(hats, count, token, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

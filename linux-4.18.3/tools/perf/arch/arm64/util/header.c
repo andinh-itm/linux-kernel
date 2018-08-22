@@ -63,3 +63,4 @@ char *get_cpuid_str(struct perf_pmu *pmu)
 	cpu_map__put(cpus);
 	return buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

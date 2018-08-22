@@ -102,3 +102,4 @@ module_exit(sha1_s390_fini);
 MODULE_ALIAS_CRYPTO("sha1");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SHA1 Secure Hash Algorithm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

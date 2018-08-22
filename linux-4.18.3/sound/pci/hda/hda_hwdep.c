@@ -132,3 +132,4 @@ int snd_hda_create_hwdep(struct hda_codec *codec)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

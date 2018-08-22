@@ -540,3 +540,4 @@ module_exit(max8660_exit);
 MODULE_DESCRIPTION("MAXIM 8660/8661 voltage regulator driver");
 MODULE_AUTHOR("Wolfram Sang");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

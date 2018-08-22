@@ -457,3 +457,4 @@ asmlinkage int syscall_trace(struct pt_regs *regs, int syscall_exit_p)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

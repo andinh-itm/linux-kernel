@@ -106,3 +106,4 @@ nv10_fence_create(struct nouveau_drm *drm)
 	spin_lock_init(&priv->lock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

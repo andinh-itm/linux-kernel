@@ -15,3 +15,4 @@ int prog2(struct bpf_raw_tracepoint_args *ctx)
 	return 0;
 }
 char _license[] SEC("license") = "GPL";
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

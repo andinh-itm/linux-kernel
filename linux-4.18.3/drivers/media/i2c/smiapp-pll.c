@@ -488,3 +488,4 @@ EXPORT_SYMBOL_GPL(smiapp_pll_calculate);
 MODULE_AUTHOR("Sakari Ailus <sakari.ailus@iki.fi>");
 MODULE_DESCRIPTION("Generic SMIA/SMIA++ PLL calculator");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

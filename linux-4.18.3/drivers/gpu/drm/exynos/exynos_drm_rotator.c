@@ -444,3 +444,4 @@ struct platform_driver rotator_driver = {
 		.of_match_table = exynos_rotator_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

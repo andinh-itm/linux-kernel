@@ -209,3 +209,4 @@ struct op_powerpc_model op_model_7450= {
 	.stop			= fsl7450_stop,
 	.handle_interrupt	= fsl7450_handle_interrupt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

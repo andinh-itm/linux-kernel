@@ -1286,3 +1286,4 @@ void hns_ethtool_set_ops(struct net_device *ndev)
 {
 	ndev->ethtool_ops = &hns_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

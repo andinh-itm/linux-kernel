@@ -1012,3 +1012,4 @@ module_i2c_driver(tas5086_i2c_driver);
 MODULE_AUTHOR("Daniel Mack <zonque@gmail.com>");
 MODULE_DESCRIPTION("Texas Instruments TAS5086 ALSA SoC Codec Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

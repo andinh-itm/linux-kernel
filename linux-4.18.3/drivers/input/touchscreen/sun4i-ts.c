@@ -417,3 +417,4 @@ module_platform_driver(sun4i_ts_driver);
 MODULE_DESCRIPTION("Allwinner sun4i resistive touchscreen controller driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

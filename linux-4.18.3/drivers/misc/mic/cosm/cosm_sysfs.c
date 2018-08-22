@@ -459,3 +459,4 @@ void cosm_sysfs_init(struct cosm_device *cdev)
 {
 	cdev->attr_group = cosm_default_groups;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

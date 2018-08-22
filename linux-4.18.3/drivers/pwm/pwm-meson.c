@@ -583,3 +583,4 @@ module_platform_driver(meson_pwm_driver);
 MODULE_DESCRIPTION("Amlogic Meson PWM Generator driver");
 MODULE_AUTHOR("Neil Armstrong <narmstrong@baylibre.com>");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

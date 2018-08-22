@@ -171,3 +171,4 @@ void dal_hw_factory_dce80_init(
 
 	factory->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1228,3 +1228,4 @@ static struct pci_driver r6040_driver = {
 };
 
 module_pci_driver(r6040_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

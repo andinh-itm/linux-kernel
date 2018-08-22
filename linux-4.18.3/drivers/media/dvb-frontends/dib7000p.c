@@ -2854,3 +2854,4 @@ MODULE_AUTHOR("Olivier Grenie <olivie.grenie@parrot.com>");
 MODULE_AUTHOR("Patrick Boettcher <patrick.boettcher@posteo.de>");
 MODULE_DESCRIPTION("Driver for the DiBcom 7000PC COFDM demodulator");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -38,3 +38,4 @@ void dal_hw_translate_diag_fpga_init(struct hw_translate *tr)
 {
 	tr->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

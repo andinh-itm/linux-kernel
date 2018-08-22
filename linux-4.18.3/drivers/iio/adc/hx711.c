@@ -603,3 +603,4 @@ MODULE_DESCRIPTION("HX711 bitbanging driver - ADC for weight cells");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:hx711-gpio");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

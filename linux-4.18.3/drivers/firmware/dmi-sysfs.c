@@ -695,3 +695,4 @@ module_exit(dmi_sysfs_exit);
 MODULE_AUTHOR("Mike Waychison <mikew@google.com>");
 MODULE_DESCRIPTION("DMI sysfs support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

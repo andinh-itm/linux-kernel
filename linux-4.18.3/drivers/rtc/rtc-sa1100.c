@@ -370,3 +370,4 @@ MODULE_AUTHOR("Richard Purdie <rpurdie@rpsys.net>");
 MODULE_DESCRIPTION("SA11x0/PXA2xx Realtime Clock Driver (RTC)");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:sa1100-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -469,3 +469,4 @@ unsigned int aac_intr_normal(struct aac_dev *dev, u32 index, int isAif,
 		return 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

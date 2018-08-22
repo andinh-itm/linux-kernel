@@ -141,3 +141,4 @@ MACHINE_START(H3100, "Compaq iPAQ H3100")
 	.restart	= sa11x0_restart,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

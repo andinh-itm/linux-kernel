@@ -261,3 +261,4 @@ static int __init omap_init(void)
 	return platform_device_register(&serial_device);
 }
 arch_initcall(omap_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

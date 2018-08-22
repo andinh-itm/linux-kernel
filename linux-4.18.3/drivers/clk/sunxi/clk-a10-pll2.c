@@ -201,3 +201,4 @@ static void __init sun5i_a13_pll2_setup(struct device_node *node)
 
 CLK_OF_DECLARE(sun5i_a13_pll2, "allwinner,sun5i-a13-pll2-clk",
 	       sun5i_a13_pll2_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

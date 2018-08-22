@@ -80,3 +80,4 @@ out:
 	return 0;
 }
 arch_initcall(intel_pconfig_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

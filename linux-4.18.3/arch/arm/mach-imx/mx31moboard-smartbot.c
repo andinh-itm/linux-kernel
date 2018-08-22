@@ -131,3 +131,4 @@ void __init mx31moboard_smartbot_init(int board)
 
 	smartbot_resets_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -63,3 +63,4 @@ module_platform_driver(pwmss_driver);
 MODULE_DESCRIPTION("PWM Subsystem driver");
 MODULE_AUTHOR("Texas Instruments");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

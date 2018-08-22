@@ -190,3 +190,4 @@ int par_io_of_config(struct device_node *np)
 	return 0;
 }
 EXPORT_SYMBOL(par_io_of_config);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

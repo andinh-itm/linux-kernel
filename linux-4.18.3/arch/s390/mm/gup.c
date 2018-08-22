@@ -298,3 +298,4 @@ int get_user_pages_fast(unsigned long start, int nr_pages, int write,
 		ret = (ret < 0) ? nr : ret + nr;
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

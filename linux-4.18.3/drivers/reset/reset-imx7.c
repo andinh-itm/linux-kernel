@@ -156,3 +156,4 @@ static struct platform_driver imx7_reset_driver = {
 	},
 };
 builtin_platform_driver(imx7_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

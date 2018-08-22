@@ -295,3 +295,4 @@ EXPORT_SYMBOL_GPL(i2c_dw_read_comp_param);
 
 MODULE_DESCRIPTION("Synopsys DesignWare I2C bus adapter core");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

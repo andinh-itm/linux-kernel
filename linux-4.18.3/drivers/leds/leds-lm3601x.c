@@ -485,3 +485,4 @@ module_i2c_driver(lm3601x_i2c_driver);
 MODULE_DESCRIPTION("Texas Instruments Flash Lighting driver for LM3601X");
 MODULE_AUTHOR("Dan Murphy <dmurphy@ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

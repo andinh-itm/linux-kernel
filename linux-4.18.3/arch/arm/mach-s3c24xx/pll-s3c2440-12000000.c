@@ -93,3 +93,4 @@ static int __init s3c2442_pll_12mhz(void)
 
 }
 arch_initcall(s3c2442_pll_12mhz);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -150,3 +150,4 @@ void __init mpc83xx_setup_arch(void)
 
 	mpc83xx_setup_pci();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

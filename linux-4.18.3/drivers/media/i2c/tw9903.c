@@ -269,3 +269,4 @@ static struct i2c_driver tw9903_driver = {
 	.id_table = tw9903_id,
 };
 module_i2c_driver(tw9903_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

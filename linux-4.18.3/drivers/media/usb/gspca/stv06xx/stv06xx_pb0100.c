@@ -435,3 +435,4 @@ static int pb0100_set_autogain_target(struct gspca_dev *gspca_dev, __s32 val)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -636,3 +636,4 @@ module_i2c_driver(silead_ts_driver);
 MODULE_AUTHOR("Robert Dolca <robert.dolca@intel.com>");
 MODULE_DESCRIPTION("Silead I2C touchscreen driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

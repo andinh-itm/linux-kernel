@@ -1085,3 +1085,4 @@ module_i2c_driver(wm8978_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8978 codec driver");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -995,3 +995,4 @@ void venc_uninit_platform_driver(void)
 {
 	platform_driver_unregister(&omap_venchw_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

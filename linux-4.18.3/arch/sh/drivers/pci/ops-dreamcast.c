@@ -80,3 +80,4 @@ struct pci_ops gapspci_pci_ops = {
 	.read	= gapspci_read,
 	.write	= gapspci_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

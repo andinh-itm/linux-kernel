@@ -1979,3 +1979,4 @@ static struct platform_driver bcm2835_camera_driver = {
 };
 
 module_platform_driver(bcm2835_camera_driver)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

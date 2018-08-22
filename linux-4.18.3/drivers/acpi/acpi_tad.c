@@ -471,3 +471,4 @@ static struct platform_driver acpi_tad_driver = {
 MODULE_DEVICE_TABLE(acpi, acpi_tad_ids);
 
 module_platform_driver(acpi_tad_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

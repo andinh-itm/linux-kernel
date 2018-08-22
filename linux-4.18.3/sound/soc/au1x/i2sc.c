@@ -321,3 +321,4 @@ module_platform_driver(au1xi2s_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Au1000/1500/1100 I2S ASoC driver");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

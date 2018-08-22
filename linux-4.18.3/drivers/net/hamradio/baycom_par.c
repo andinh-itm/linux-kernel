@@ -613,3 +613,4 @@ __setup("baycom_par=", baycom_par_setup);
 
 #endif /* MODULE */
 /* --------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

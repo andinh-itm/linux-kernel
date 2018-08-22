@@ -270,3 +270,4 @@ module_i2c_driver(adc081c_driver);
 MODULE_AUTHOR("Thierry Reding <thierry.reding@avionic-design.de>");
 MODULE_DESCRIPTION("Texas Instruments ADC081C/ADC101C/ADC121C driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

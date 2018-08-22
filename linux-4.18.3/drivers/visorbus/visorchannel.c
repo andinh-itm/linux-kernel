@@ -432,3 +432,4 @@ int visorchannel_signalinsert(struct visorchannel *channel, u32 queue,
 	return rc;
 }
 EXPORT_SYMBOL_GPL(visorchannel_signalinsert);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

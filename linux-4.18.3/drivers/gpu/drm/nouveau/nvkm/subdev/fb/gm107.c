@@ -40,3 +40,4 @@ gm107_fb_new(struct nvkm_device *device, int index, struct nvkm_fb **pfb)
 {
 	return gf100_fb_new_(&gm107_fb, device, index, pfb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

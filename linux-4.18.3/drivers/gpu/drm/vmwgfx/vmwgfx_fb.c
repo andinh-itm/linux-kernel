@@ -876,3 +876,4 @@ int vmw_fb_on(struct vmw_private *vmw_priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

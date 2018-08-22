@@ -336,3 +336,4 @@ static void __init mv98dx3236_corediv_clk_init(struct device_node *node)
 }
 CLK_OF_DECLARE(mv98dx3236_corediv_clk, "marvell,mv98dx3236-corediv-clock",
 	       mv98dx3236_corediv_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3942,3 +3942,4 @@ void ath10k_wmi_tlv_attach(struct ath10k *ar)
 	ar->wmi.ops = &wmi_tlv_ops;
 	ar->wmi.peer_flags = &wmi_tlv_peer_flags_map;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -383,3 +383,4 @@ void __init bcm63xx_cpu_init(void)
 	pr_info("%uMB of RAM installed\n",
 		bcm63xx_memory_size >> 20);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

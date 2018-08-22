@@ -398,3 +398,4 @@ module_i2c_driver(itg3200_driver);
 MODULE_AUTHOR("Christian Strobel <christian.strobel@iis.fraunhofer.de>");
 MODULE_DESCRIPTION("ITG3200 Gyroscope I2C driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

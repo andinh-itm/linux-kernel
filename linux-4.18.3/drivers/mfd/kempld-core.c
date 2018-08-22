@@ -839,3 +839,4 @@ MODULE_DESCRIPTION("KEM PLD Core Driver");
 MODULE_AUTHOR("Michael Brunner <michael.brunner@kontron.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:kempld-core");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

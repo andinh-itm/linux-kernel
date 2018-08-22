@@ -1099,3 +1099,4 @@ unsigned int snd_hdac_sync_power_state(struct hdac_device *codec,
 	return state;
 }
 EXPORT_SYMBOL_GPL(snd_hdac_sync_power_state);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -90,3 +90,4 @@ static struct hid_driver holtek_mouse_driver = {
 
 module_hid_driver(holtek_mouse_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

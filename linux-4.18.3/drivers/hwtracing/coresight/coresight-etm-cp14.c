@@ -582,3 +582,4 @@ int etm_writel_cp14(u32 reg, u32 val)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -297,3 +297,4 @@ MODULE_AUTHOR("Lennert Buytenhek <buytenh@wantstofly.org>");
 MODULE_DESCRIPTION("Driver for Marvell 88E6060 ethernet switch chip");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mv88e6060");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

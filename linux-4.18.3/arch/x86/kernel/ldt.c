@@ -476,3 +476,4 @@ SYSCALL_DEFINE3(modify_ldt, int , func , void __user * , ptr ,
 	 */
 	return (unsigned int)ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

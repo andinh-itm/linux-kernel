@@ -923,3 +923,4 @@ module_i2c_driver(f75375_driver);
 MODULE_AUTHOR("Riku Voipio");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("F75373/F75375/F75387 hardware monitoring driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

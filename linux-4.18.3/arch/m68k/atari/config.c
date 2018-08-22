@@ -923,3 +923,4 @@ int __init atari_platform_init(void)
 }
 
 arch_initcall(atari_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

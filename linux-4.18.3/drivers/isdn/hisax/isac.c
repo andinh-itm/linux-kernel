@@ -679,3 +679,4 @@ void setup_isac(struct IsdnCardState *cs)
 	INIT_WORK(&cs->tqueue, isac_bh);
 	timer_setup(&cs->dbusytimer, dbusy_timer_handler, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

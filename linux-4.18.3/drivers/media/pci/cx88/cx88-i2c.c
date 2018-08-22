@@ -181,3 +181,4 @@ int cx88_i2c_init(struct cx88_core *core, struct pci_dev *pci)
 
 	return core->i2c_rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

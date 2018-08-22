@@ -123,3 +123,4 @@ static struct platform_driver oxnas_reset_driver = {
 	},
 };
 builtin_platform_driver(oxnas_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

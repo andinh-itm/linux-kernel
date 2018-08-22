@@ -166,3 +166,4 @@ module_platform_driver(cq93vc_codec_driver);
 MODULE_DESCRIPTION("Texas Instruments DaVinci ASoC CQ0093 Voice Codec Driver");
 MODULE_AUTHOR("Miguel Aguilar");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1714,3 +1714,4 @@ gk104_ram_new(struct nvkm_fb *fb, struct nvkm_ram **pram)
 {
 	return gk104_ram_new_(&gk104_ram, fb, pram);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

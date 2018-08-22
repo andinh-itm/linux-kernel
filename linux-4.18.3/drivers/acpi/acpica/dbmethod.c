@@ -464,3 +464,4 @@ void acpi_db_evaluate_predefined_names(void)
 	acpi_os_printf("Evaluated %u predefined names in the namespace\n",
 		       info.count);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

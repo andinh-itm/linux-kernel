@@ -1011,3 +1011,4 @@ int hinic_hwdev_hw_ci_addr_set(struct hinic_hwdev *hwdev, struct hinic_sq *sq,
 				 &hw_ci, sizeof(hw_ci), NULL,
 				 NULL, HINIC_MGMT_MSG_SYNC);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -23,3 +23,4 @@ EXPORT_TRACEPOINT_SYMBOL(s390_cio_xsch);
 EXPORT_TRACEPOINT_SYMBOL(s390_cio_rsch);
 EXPORT_TRACEPOINT_SYMBOL(s390_cio_rchp);
 EXPORT_TRACEPOINT_SYMBOL(s390_cio_chsc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

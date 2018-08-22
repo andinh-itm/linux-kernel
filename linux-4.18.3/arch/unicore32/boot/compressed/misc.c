@@ -124,3 +124,4 @@ unsigned long decompress_kernel(unsigned long output_start,
 	arch_decomp_puts(" done, booting the kernel.\n");
 	return output_ptr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

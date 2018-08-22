@@ -182,3 +182,4 @@ void setleds(char *str)
 }
 
 #endif /* LEDS_PHYS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -250,3 +250,4 @@ static int __init asm9260_of_init(struct device_node *np,
 	return 0;
 }
 IRQCHIP_DECLARE(asm9260, "alphascale,asm9260-icoll", asm9260_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1869,3 +1869,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Philip Pokorny <ppokorny@penguincomputing.com>, "
 	      "Justin Thiessen <jthiessen@penguincomputing.com>");
 MODULE_DESCRIPTION("ADM1026 driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

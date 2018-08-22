@@ -489,3 +489,4 @@ static struct usb_function *obex_alloc(struct usb_function_instance *fi)
 DECLARE_USB_FUNCTION_INIT(obex, obex_alloc_inst, obex_alloc);
 MODULE_AUTHOR("Felipe Balbi");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

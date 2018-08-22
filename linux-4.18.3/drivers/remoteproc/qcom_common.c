@@ -245,3 +245,4 @@ EXPORT_SYMBOL_GPL(qcom_remove_ssr_subdev);
 
 MODULE_DESCRIPTION("Qualcomm Remoteproc helper driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

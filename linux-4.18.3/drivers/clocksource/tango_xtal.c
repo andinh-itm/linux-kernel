@@ -55,3 +55,4 @@ static int __init tango_clocksource_init(struct device_node *np)
 }
 
 TIMER_OF_DECLARE(tango, "sigma,tick-counter", tango_clocksource_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

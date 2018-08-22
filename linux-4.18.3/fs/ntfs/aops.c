@@ -1776,3 +1776,4 @@ void mark_ntfs_record_dirty(struct page *page, const unsigned int ofs) {
 }
 
 #endif /* NTFS_RW */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -340,3 +340,4 @@ MODULE_DEVICE_TABLE(mdio, dp83822_tbl);
 MODULE_DESCRIPTION("Texas Instruments DP83822 PHY driver");
 MODULE_AUTHOR("Dan Murphy <dmurphy@ti.com");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

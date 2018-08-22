@@ -87,3 +87,4 @@ MACHINE_START(RD78X00_MASA, "Marvell RD-78x00-MASA Development Board")
 	.init_time	= mv78xx0_timer_init,
 	.restart	= mv78xx0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

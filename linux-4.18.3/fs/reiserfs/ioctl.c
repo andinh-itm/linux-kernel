@@ -231,3 +231,4 @@ out:
 	reiserfs_write_unlock(inode->i_sb);
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

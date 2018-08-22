@@ -347,3 +347,4 @@ void drm_legacy_lock_release(struct drm_device *dev, struct file *filp)
 				     _DRM_LOCKING_CONTEXT(file_priv->master->lock.hw_lock->lock));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

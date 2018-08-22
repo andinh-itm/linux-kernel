@@ -1190,3 +1190,4 @@ module_i2c_driver(alc5632_i2c_driver);
 MODULE_DESCRIPTION("ASoC ALC5632 driver");
 MODULE_AUTHOR("Leon Romanovsky <leon@leon.nu>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

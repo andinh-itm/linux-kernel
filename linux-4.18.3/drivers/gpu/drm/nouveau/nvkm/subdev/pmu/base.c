@@ -161,3 +161,4 @@ nvkm_pmu_new_(const struct nvkm_pmu_func *func, struct nvkm_device *device,
 		return -ENOMEM;
 	return nvkm_pmu_ctor(func, device, index, *ppmu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -275,3 +275,4 @@ module_platform_driver(nspire_keypad_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("TI-NSPIRE Keypad Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

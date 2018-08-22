@@ -145,3 +145,4 @@ u32 acpi_hw_get_mode(void)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

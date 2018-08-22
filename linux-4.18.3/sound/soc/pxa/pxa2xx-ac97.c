@@ -305,3 +305,4 @@ MODULE_AUTHOR("Nicolas Pitre");
 MODULE_DESCRIPTION("AC97 driver for the Intel PXA2xx chip");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa2xx-ac97");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -510,3 +510,4 @@ void maybe_frob_rcs_version(const char *modfilename,
 	if (strip_rcs_crap(version))
 		write_version(modfilename, version, version_offset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

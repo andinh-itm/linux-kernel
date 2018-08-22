@@ -1418,3 +1418,4 @@ static struct pci_driver mixart_driver = {
 };
 
 module_pci_driver(mixart_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -220,3 +220,4 @@ void lola_proc_debug_new(struct lola *chip)
 	if (!snd_card_proc_new(chip->card, "regs", &entry))
 		snd_info_set_text_ops(entry, chip, lola_proc_regs_read);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

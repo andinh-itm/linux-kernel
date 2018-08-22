@@ -1249,3 +1249,4 @@ MODULE_AUTHOR("Nikolaus Voss <n.voss@weinmann.de>");
 MODULE_DESCRIPTION("I2C (TWI) driver for Atmel AT91");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:at91_i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

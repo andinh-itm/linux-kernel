@@ -202,3 +202,4 @@ nv40_therm_new(struct nvkm_device *device, int index,
 {
 	return nvkm_therm_new_(&nv40_therm, device, index, ptherm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

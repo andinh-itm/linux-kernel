@@ -804,3 +804,4 @@ static struct platform_driver uniphier_ld20_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(uniphier_ld20_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

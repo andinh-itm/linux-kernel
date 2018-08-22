@@ -174,3 +174,4 @@ out:
 	squashfs_cache_put(buffer);
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

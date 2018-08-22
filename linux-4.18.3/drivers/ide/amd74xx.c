@@ -345,3 +345,4 @@ module_exit(amd74xx_ide_exit);
 MODULE_AUTHOR("Vojtech Pavlik, Bartlomiej Zolnierkiewicz");
 MODULE_DESCRIPTION("AMD PCI IDE driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -332,3 +332,4 @@ void ath9k_start_rfkill_poll(struct ath9k_htc_priv *priv)
 	if (priv->ah->caps.hw_caps & ATH9K_HW_CAP_RFSILENT)
 		wiphy_rfkill_start_polling(priv->hw->wiphy);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

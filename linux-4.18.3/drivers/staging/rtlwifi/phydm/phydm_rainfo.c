@@ -1194,3 +1194,4 @@ bool odm_ra_state_check(void *dm_void, s32 rssi, bool is_force_update,
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

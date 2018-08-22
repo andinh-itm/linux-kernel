@@ -134,3 +134,4 @@ const struct iwl_cfg iwl100_bg_cfg = {
 
 MODULE_FIRMWARE(IWL1000_MODULE_FIRMWARE(IWL1000_UCODE_API_MAX));
 MODULE_FIRMWARE(IWL100_MODULE_FIRMWARE(IWL100_UCODE_API_MAX));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -68,3 +68,4 @@ int netup_jtag_io_lpt(void *device, int tms, int tdi, int read_tdo)
 
 	return tdo;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

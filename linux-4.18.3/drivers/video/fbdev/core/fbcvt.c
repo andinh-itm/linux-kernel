@@ -377,3 +377,4 @@ int fb_find_mode_cvt(struct fb_videomode *mode, int margins, int rb)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

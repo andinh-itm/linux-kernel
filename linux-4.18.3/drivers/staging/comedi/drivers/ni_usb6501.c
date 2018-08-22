@@ -604,3 +604,4 @@ module_comedi_usb_driver(ni6501_driver, ni6501_usb_driver);
 MODULE_AUTHOR("Luca Ellero");
 MODULE_DESCRIPTION("Comedi driver for National Instruments USB-6501");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

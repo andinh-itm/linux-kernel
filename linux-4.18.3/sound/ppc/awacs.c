@@ -1145,3 +1145,4 @@ snd_pmac_awacs_init(struct snd_pmac *chip)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

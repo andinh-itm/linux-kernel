@@ -588,3 +588,4 @@ MACHINE_START(BAST, "Simtec-BAST")
 	.init_machine	= bast_init,
 	.init_time	= bast_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

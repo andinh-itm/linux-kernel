@@ -261,3 +261,4 @@ MODULE_AUTHOR("Richard Purdie");
 MODULE_DESCRIPTION("ALSA SoC Tosa");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:tosa-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1702,3 +1702,4 @@ void zfcp_erp_adapter_reset_sync(struct zfcp_adapter *adapter, char *id)
 	zfcp_erp_adapter_reopen(adapter, ZFCP_STATUS_COMMON_ERP_FAILED, id);
 	zfcp_erp_wait(adapter);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

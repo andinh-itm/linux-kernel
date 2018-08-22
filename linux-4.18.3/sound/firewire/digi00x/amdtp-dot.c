@@ -400,3 +400,4 @@ void amdtp_dot_reset(struct amdtp_stream *s)
 	p->state.idx = 0x00;
 	p->state.off = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

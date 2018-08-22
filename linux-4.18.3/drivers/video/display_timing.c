@@ -22,3 +22,4 @@ void display_timings_release(struct display_timings *disp)
 	kfree(disp);
 }
 EXPORT_SYMBOL_GPL(display_timings_release);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

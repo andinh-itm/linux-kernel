@@ -173,3 +173,4 @@ MODULE_AUTHOR("JD Cole <jd.cole@plantronics.com>");
 MODULE_AUTHOR("Terry Junge <terry.junge@plantronics.com>");
 MODULE_DESCRIPTION("Plantronics USB HID Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

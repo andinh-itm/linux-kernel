@@ -372,3 +372,4 @@ void dbg_remove_files(struct ci_hdrc *ci)
 {
 	debugfs_remove_recursive(ci->debugfs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

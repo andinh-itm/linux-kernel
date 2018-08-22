@@ -166,3 +166,4 @@ int vmw_user_stream_lookup(struct vmw_private *dev_priv,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

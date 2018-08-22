@@ -860,3 +860,4 @@ module_platform_driver(max77686_rtc_driver);
 MODULE_DESCRIPTION("Maxim MAX77686 RTC driver");
 MODULE_AUTHOR("Chiwoong Byun <woong.byun@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

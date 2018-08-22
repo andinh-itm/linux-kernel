@@ -198,3 +198,4 @@ asmlinkage void handle_trap_3_c(struct pt_regs *fp)
 {
 	_send_sig(SIGILL, ILL_ILLTRP, fp->ea);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -423,3 +423,4 @@ module_platform_driver(ast_vhub_driver);
 MODULE_DESCRIPTION("Aspeed vHub udc driver");
 MODULE_AUTHOR("Benjamin Herrenschmidt <benh@kernel.crashing.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

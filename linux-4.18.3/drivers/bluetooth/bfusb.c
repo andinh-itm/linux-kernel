@@ -736,3 +736,4 @@ MODULE_DESCRIPTION("BlueFRITZ! USB driver ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE("bfubase.frm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

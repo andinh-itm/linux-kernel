@@ -978,3 +978,4 @@ void __init dm644x_init_devices(void)
 		pr_warn("%s: watchdog init failed: %d\n", __func__, ret);
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -91,3 +91,4 @@ MIPS_MACHINE(ranchu) = {
 	.matches = ranchu_of_match,
 	.measure_hpt_freq = ranchu_measure_hpt_freq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

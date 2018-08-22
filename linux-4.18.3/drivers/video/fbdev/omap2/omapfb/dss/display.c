@@ -336,3 +336,4 @@ void omap_video_timings_to_videomode(const struct omap_video_timings *ovt,
 		vm->flags |= DISPLAY_FLAGS_PIXDATA_NEGEDGE;
 }
 EXPORT_SYMBOL(omap_video_timings_to_videomode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

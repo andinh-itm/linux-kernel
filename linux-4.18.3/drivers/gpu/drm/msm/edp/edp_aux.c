@@ -270,3 +270,4 @@ void msm_edp_aux_ctrl(struct edp_aux *aux, int enable)
 	}
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

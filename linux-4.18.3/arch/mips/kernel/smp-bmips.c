@@ -658,3 +658,4 @@ void bmips_cpu_setup(void)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

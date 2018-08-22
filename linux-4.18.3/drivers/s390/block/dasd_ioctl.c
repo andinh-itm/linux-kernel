@@ -616,3 +616,4 @@ int dasd_ioctl(struct block_device *bdev, fmode_t mode,
 	dasd_put_device(base);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

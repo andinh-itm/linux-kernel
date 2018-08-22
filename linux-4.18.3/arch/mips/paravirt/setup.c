@@ -65,3 +65,4 @@ void __init plat_mem_setup(void)
 void __init prom_free_prom_memory(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -44,3 +44,4 @@ static int __init setup_elfcorehdr(char *arg)
 	return end > arg ? 0 : -EINVAL;
 }
 early_param("elfcorehdr", setup_elfcorehdr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

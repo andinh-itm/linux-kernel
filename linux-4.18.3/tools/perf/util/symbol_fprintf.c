@@ -71,3 +71,4 @@ size_t dso__fprintf_symbols_by_name(struct dso *dso,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

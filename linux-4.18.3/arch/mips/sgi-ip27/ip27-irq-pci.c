@@ -264,3 +264,4 @@ int request_bridge_irq(struct bridge_controller *bc)
 
 	return irq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

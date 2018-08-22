@@ -123,3 +123,4 @@ int __init init_cyclone_clock(void)
 }
 
 __initcall(init_cyclone_clock);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

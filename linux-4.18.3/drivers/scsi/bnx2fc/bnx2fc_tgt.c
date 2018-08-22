@@ -895,3 +895,4 @@ static void bnx2fc_free_session_resc(struct bnx2fc_hba *hba,
 	if (ctx_base_ptr)
 		iounmap(ctx_base_ptr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -258,3 +258,4 @@ static void __init mx25_clocks_init_dt(struct device_node *np)
 	of_clk_add_provider(np, of_clk_src_onecell_get, &clk_data);
 }
 CLK_OF_DECLARE(imx25_ccm, "fsl,imx25-ccm", mx25_clocks_init_dt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

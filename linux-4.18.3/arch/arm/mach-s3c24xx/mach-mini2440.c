@@ -712,3 +712,4 @@ MACHINE_START(MINI2440, "MINI2440")
 	.init_irq	= s3c2440_init_irq,
 	.init_time	= mini2440_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

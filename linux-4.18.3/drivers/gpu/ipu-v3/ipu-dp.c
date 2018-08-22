@@ -358,3 +358,4 @@ int ipu_dp_init(struct ipu_soc *ipu, struct device *dev, unsigned long base)
 void ipu_dp_exit(struct ipu_soc *ipu)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

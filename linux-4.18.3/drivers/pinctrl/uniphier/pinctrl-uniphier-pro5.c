@@ -1010,3 +1010,4 @@ static struct platform_driver uniphier_pro5_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(uniphier_pro5_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

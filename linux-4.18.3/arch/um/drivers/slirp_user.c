@@ -123,3 +123,4 @@ const struct net_user_info slirp_user_info = {
 	.mtu		= BUF_SIZE,
 	.max_packet	= BUF_SIZE,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

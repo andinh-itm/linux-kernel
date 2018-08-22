@@ -187,3 +187,4 @@ void __init loadpin_add_hooks(void)
 /* Should not be mutable after boot, so not listed in sysfs (perm == 0). */
 module_param(enabled, int, 0);
 MODULE_PARM_DESC(enabled, "Pin module/firmware loading (default: true)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

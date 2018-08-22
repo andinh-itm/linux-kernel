@@ -251,3 +251,4 @@ static void __exit sunfire_leds_exit(void)
 
 module_init(sunfire_leds_init);
 module_exit(sunfire_leds_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

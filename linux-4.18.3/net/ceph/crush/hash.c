@@ -150,3 +150,4 @@ const char *crush_hash_name(int type)
 		return "unknown";
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

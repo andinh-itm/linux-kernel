@@ -579,3 +579,4 @@ static struct platform_driver mpc52xx_lpbfifo_driver = {
 	.remove = mpc52xx_lpbfifo_remove,
 };
 module_platform_driver(mpc52xx_lpbfifo_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

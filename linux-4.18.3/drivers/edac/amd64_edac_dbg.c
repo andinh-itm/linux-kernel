@@ -53,3 +53,4 @@ static struct attribute *amd64_edac_dbg_attrs[] = {
 const struct attribute_group amd64_edac_dbg_group = {
 	.attrs = amd64_edac_dbg_attrs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

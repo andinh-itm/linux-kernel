@@ -291,3 +291,4 @@ void nvdimm_badblocks_populate(struct nd_region *nd_region,
 	nvdimm_bus_unlock(&nvdimm_bus->dev);
 }
 EXPORT_SYMBOL_GPL(nvdimm_badblocks_populate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1433,3 +1433,4 @@ static struct usb_driver stk_camera_driver = {
 };
 
 module_usb_driver(stk_camera_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

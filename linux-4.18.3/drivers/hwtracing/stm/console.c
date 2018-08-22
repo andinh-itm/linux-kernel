@@ -70,3 +70,4 @@ module_exit(stm_console_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("stm_console driver");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

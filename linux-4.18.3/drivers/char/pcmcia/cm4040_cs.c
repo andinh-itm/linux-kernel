@@ -683,3 +683,4 @@ static void __exit cm4040_exit(void)
 module_init(cm4040_init);
 module_exit(cm4040_exit);
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

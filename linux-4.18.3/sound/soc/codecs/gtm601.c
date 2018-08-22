@@ -89,3 +89,4 @@ MODULE_DESCRIPTION("ASoC gtm601 driver");
 MODULE_AUTHOR("Marek Belisko <marek@goldelico.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:gtm601");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

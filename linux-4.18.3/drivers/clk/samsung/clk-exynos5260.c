@@ -1841,3 +1841,4 @@ static void __init exynos5260_clk_top_init(struct device_node *np)
 
 CLK_OF_DECLARE(exynos5260_clk_top, "samsung,exynos5260-clock-top",
 		exynos5260_clk_top_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

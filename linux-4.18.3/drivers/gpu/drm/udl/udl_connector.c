@@ -206,3 +206,4 @@ int udl_connector_init(struct drm_device *dev, struct drm_encoder *encoder)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

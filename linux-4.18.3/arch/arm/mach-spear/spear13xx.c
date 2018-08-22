@@ -126,3 +126,4 @@ void __init spear13xx_timer_init(void)
 	spear_setup_of_timer();
 	timer_probe();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

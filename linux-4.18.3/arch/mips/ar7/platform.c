@@ -733,3 +733,4 @@ static int __init ar7_register_devices(void)
 	return 0;
 }
 device_initcall(ar7_register_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -615,3 +615,4 @@ module_platform_driver(bxtwc_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Qipeng Zha<qipeng.zha@intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

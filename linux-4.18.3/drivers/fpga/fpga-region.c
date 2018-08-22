@@ -275,3 +275,4 @@ module_exit(fpga_region_exit);
 MODULE_DESCRIPTION("FPGA Region");
 MODULE_AUTHOR("Alan Tull <atull@kernel.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

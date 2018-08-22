@@ -255,3 +255,4 @@ err_iomap:
 	return ret;
 }
 TIMER_OF_DECLARE(imx7ulp, "fsl,imx7ulp-tpm", tpm_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

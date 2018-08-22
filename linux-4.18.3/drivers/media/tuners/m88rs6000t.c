@@ -740,3 +740,4 @@ module_i2c_driver(m88rs6000t_driver);
 MODULE_AUTHOR("Max nibble <nibble.max@gmail.com>");
 MODULE_DESCRIPTION("Montage M88RS6000 internal tuner driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

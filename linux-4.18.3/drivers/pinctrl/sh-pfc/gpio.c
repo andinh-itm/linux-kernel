@@ -404,3 +404,4 @@ int sh_pfc_register_gpiochip(struct sh_pfc *pfc)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2001,3 +2001,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Michal Januszewski <spock@gentoo.org>");
 MODULE_DESCRIPTION("Framebuffer driver for VBE2.0+ compliant graphics boards");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

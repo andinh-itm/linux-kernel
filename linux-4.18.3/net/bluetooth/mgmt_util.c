@@ -268,3 +268,4 @@ void mgmt_pending_remove(struct mgmt_pending_cmd *cmd)
 	list_del(&cmd->list);
 	mgmt_pending_free(cmd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

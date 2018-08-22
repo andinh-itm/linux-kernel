@@ -418,3 +418,4 @@ err_allocated:
 	fw_core_remove_address_handler(&scs->hss_handler);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

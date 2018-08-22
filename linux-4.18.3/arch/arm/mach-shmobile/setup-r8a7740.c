@@ -92,3 +92,4 @@ DT_MACHINE_START(R8A7740_DT, "Generic R8A7740 (Flattened Device Tree)")
 	.init_late	= shmobile_init_late,
 	.dt_compat	= r8a7740_boards_compat_dt,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

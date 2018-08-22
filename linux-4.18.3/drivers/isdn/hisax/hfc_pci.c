@@ -1753,3 +1753,4 @@ setup_hfcpci(struct IsdnCard *card)
 
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

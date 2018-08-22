@@ -100,3 +100,4 @@ void __init efi_runtime_update_mappings(void)
 	if (__supported_pte_mask & _PAGE_NX)
 		runtime_code_page_mkexec();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

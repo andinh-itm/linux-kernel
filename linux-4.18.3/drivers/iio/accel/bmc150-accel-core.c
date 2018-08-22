@@ -1739,3 +1739,4 @@ EXPORT_SYMBOL_GPL(bmc150_accel_pm_ops);
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("BMC150 accelerometer driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

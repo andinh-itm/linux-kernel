@@ -132,3 +132,4 @@ MACHINE_START(FLINT, "Flint Development Platform")
 	.init_machine   = flint_init,
 	.restart	= mmp_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

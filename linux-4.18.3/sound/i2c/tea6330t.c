@@ -384,3 +384,4 @@ static void __exit alsa_tea6330t_exit(void)
 
 module_init(alsa_tea6330t_init)
 module_exit(alsa_tea6330t_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

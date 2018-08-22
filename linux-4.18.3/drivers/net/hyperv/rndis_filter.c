@@ -1373,3 +1373,4 @@ int rndis_filter_close(struct netvsc_device *nvdev)
 
 	return rndis_filter_close_device(nvdev->extension);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

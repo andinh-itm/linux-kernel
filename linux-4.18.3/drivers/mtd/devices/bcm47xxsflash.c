@@ -379,3 +379,4 @@ static struct platform_driver bcma_sflash_driver = {
  **************************************************/
 
 module_platform_driver(bcma_sflash_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

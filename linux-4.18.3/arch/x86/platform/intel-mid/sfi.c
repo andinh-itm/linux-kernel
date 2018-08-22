@@ -545,3 +545,4 @@ static int __init intel_mid_platform_init(void)
 	return 0;
 }
 arch_initcall(intel_mid_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -123,3 +123,4 @@ module_platform_driver(tango_thermal_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sigma Designs");
 MODULE_DESCRIPTION("Tango temperature sensor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

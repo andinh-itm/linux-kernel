@@ -247,3 +247,4 @@ MODULE_DESCRIPTION("Tegra+ALC5632 machine ASoC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, tegra_alc5632_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

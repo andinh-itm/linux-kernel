@@ -333,3 +333,4 @@ MODULE_AUTHOR("Russell King <rmk+kernel@arm.linux.org.uk>");
 MODULE_DESCRIPTION("Armada DRM Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:armada-drm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -210,3 +210,4 @@ static struct amba_driver replicator_driver = {
 	.id_table	= replicator_ids,
 };
 builtin_amba_driver(replicator_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

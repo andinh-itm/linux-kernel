@@ -808,3 +808,4 @@ void __exit exit_amd_microcode(void)
 {
 	cleanup();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

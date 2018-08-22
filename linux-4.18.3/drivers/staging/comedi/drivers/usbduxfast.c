@@ -1028,3 +1028,4 @@ MODULE_AUTHOR("Bernd Porr, BerndPorr@f2s.com");
 MODULE_DESCRIPTION("USB-DUXfast, BerndPorr@f2s.com");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

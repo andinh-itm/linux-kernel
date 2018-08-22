@@ -242,3 +242,4 @@ out:
 	machine__exit(&vmlinux);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

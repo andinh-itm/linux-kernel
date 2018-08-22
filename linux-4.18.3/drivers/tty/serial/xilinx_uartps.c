@@ -1650,3 +1650,4 @@ module_exit(cdns_uart_exit);
 MODULE_DESCRIPTION("Driver for Cadence UART");
 MODULE_AUTHOR("Xilinx Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

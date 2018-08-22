@@ -2253,3 +2253,4 @@ static __init int ftrace_test_event_filter(void)
 late_initcall(ftrace_test_event_filter);
 
 #endif /* CONFIG_FTRACE_STARTUP_TEST */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

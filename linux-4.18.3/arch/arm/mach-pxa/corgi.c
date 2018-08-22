@@ -791,3 +791,4 @@ MACHINE_START(HUSKY, "SHARP Husky")
 MACHINE_END
 #endif
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -228,3 +228,4 @@ MODULE_AUTHOR("Sean Cross <xobs@kosagi.com>");
 MODULE_DESCRIPTION("Kosagi i.MX6 ES8328 ASoC machine driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:imx-audio-es8328");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

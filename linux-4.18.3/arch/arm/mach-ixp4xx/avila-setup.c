@@ -205,3 +205,4 @@ MACHINE_START(LOFT, "Giant Shoulder Inc Loft board")
 MACHINE_END
 #endif
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

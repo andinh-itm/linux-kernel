@@ -135,3 +135,4 @@ module_platform_driver(rbtx4939_flash_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("RBTX4939 MTD map driver");
 MODULE_ALIAS("platform:rbtx4939-flash");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1047,3 +1047,4 @@ MODULE_AUTHOR("Ajay Kumar Gupta <ajay.gupta@ti.com>");
 MODULE_LICENSE("GPL v2");
 
 module_platform_driver(dsps_usbss_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

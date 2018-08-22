@@ -1220,3 +1220,4 @@ module_platform_driver(mt8173_afe_pcm_driver);
 MODULE_DESCRIPTION("Mediatek ALSA SoC AFE platform driver");
 MODULE_AUTHOR("Koro Chen <koro.chen@mediatek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -622,3 +622,4 @@ static void __init mx53_clocks_init(struct device_node *np)
 	imx_register_uart_clocks(uart_clks_mx50_mx53);
 }
 CLK_OF_DECLARE(imx53_ccm, "fsl,imx53-ccm", mx53_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

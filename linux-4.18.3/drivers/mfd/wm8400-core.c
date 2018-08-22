@@ -185,3 +185,4 @@ module_exit(wm8400_module_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

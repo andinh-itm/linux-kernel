@@ -147,3 +147,4 @@ static struct platform_driver amimouse_driver = {
 module_platform_driver_probe(amimouse_driver, amimouse_probe);
 
 MODULE_ALIAS("platform:amiga-mouse");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

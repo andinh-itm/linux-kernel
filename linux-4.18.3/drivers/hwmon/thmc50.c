@@ -443,3 +443,4 @@ module_i2c_driver(thmc50_driver);
 
 MODULE_AUTHOR("Krzysztof Helt <krzysztof.h1@wp.pl>");
 MODULE_DESCRIPTION("THMC50 driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

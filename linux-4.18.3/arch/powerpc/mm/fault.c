@@ -656,3 +656,4 @@ void bad_page_fault(struct pt_regs *regs, unsigned long address, int sig)
 
 	die("Kernel access of bad area", regs, sig);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -740,3 +740,4 @@ static int gl860_guess_sensor(struct gspca_dev *gspca_dev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

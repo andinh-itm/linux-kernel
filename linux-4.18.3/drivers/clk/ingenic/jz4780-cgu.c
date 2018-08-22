@@ -731,3 +731,4 @@ static void __init jz4780_cgu_init(struct device_node *np)
 	}
 }
 CLK_OF_DECLARE(jz4780_cgu, "ingenic,jz4780-cgu", jz4780_cgu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

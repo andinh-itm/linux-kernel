@@ -266,3 +266,4 @@ void rtl_process_phyinfo(struct ieee80211_hw *hw, u8 *buffer,
 	rtl_process_ui_link_quality(hw, pstatus);
 }
 EXPORT_SYMBOL(rtl_process_phyinfo);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

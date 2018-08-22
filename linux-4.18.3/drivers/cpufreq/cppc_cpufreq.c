@@ -382,3 +382,4 @@ static const struct acpi_device_id cppc_acpi_ids[] = {
 };
 
 MODULE_DEVICE_TABLE(acpi, cppc_acpi_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -421,3 +421,4 @@ static int __init init_mpc7450_pmu(void)
 }
 
 early_initcall(init_mpc7450_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

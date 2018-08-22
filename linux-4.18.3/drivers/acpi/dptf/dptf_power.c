@@ -126,3 +126,4 @@ module_platform_driver(dptf_power_driver);
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ACPI DPTF platform power driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

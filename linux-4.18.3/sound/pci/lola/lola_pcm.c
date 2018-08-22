@@ -708,3 +708,4 @@ int lola_init_pcm(struct lola *chip, int dir, int *nidp)
 	*nidp = nid;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

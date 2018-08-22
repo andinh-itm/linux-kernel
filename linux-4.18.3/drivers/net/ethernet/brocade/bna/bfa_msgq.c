@@ -666,3 +666,4 @@ bfa_msgq_rsp_copy(struct bfa_msgq *msgq, u8 *buf, size_t buf_len)
 		src += (ci * BFI_MSGQ_RSP_ENTRY_SIZE);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

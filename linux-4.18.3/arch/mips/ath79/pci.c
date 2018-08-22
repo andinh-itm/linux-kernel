@@ -271,3 +271,4 @@ int __init ath79_register_pci(void)
 
 	return pdev ? 0 : -ENODEV;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

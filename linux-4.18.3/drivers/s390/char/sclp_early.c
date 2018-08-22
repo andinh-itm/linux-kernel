@@ -271,3 +271,4 @@ void __init sclp_early_detect(void)
 	sclp_early_set_event_mask(sccb, 0, 0);
 	sclp_early_console_detect(sccb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

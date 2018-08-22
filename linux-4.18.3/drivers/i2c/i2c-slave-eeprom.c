@@ -167,3 +167,4 @@ module_i2c_driver(i2c_slave_eeprom_driver);
 MODULE_AUTHOR("Wolfram Sang <wsa@sang-engineering.com>");
 MODULE_DESCRIPTION("I2C slave mode EEPROM simulator");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

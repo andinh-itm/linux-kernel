@@ -1339,3 +1339,4 @@ module_i2c_driver(rt5514_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT5514 driver");
 MODULE_AUTHOR("Oder Chiou <oder_chiou@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

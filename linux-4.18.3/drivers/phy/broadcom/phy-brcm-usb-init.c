@@ -1017,3 +1017,4 @@ void brcm_usb_set_family_map(struct brcm_usb_init_params *params)
 		&usb_reg_bits_map_table[fam][0];
 	params->family_name = family_names[fam];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

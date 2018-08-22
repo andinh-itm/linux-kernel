@@ -152,3 +152,4 @@ module_spi_driver(spi_slave_system_control_driver);
 MODULE_AUTHOR("Geert Uytterhoeven <geert+renesas@glider.be>");
 MODULE_DESCRIPTION("SPI slave handler controlling system state");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

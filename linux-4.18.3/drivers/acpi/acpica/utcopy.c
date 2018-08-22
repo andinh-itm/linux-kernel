@@ -974,3 +974,4 @@ acpi_ut_copy_iobject_to_iobject(union acpi_operand_object *source_desc,
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

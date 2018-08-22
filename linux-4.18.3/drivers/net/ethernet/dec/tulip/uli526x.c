@@ -1847,3 +1847,4 @@ static void __exit uli526x_cleanup_module(void)
 
 module_init(uli526x_init_module);
 module_exit(uli526x_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

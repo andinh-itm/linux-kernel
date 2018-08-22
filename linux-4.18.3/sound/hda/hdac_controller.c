@@ -612,3 +612,4 @@ void snd_hdac_bus_free_stream_pages(struct hdac_bus *bus)
 		bus->io_ops->dma_free_pages(bus, &bus->posbuf);
 }
 EXPORT_SYMBOL_GPL(snd_hdac_bus_free_stream_pages);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1477,3 +1477,4 @@ void iio_device_attach_buffer(struct iio_dev *indio_dev,
 	indio_dev->buffer = iio_buffer_get(buffer);
 }
 EXPORT_SYMBOL_GPL(iio_device_attach_buffer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

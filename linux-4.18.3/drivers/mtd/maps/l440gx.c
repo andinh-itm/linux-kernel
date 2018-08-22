@@ -164,3 +164,4 @@ module_exit(cleanup_l440gx);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_DESCRIPTION("MTD map driver for BIOS chips on Intel L440GX motherboards");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

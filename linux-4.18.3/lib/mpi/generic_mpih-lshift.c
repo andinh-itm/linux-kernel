@@ -61,3 +61,4 @@ mpihelp_lshift(mpi_ptr_t wp, mpi_ptr_t up, mpi_size_t usize, unsigned int cnt)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

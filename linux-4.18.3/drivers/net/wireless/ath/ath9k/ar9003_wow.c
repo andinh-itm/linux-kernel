@@ -452,3 +452,4 @@ void ath9k_hw_wow_enable(struct ath_hw *ah, u32 pattern_enable)
 	ah->wow.wow_event_mask = wow_event_mask;
 }
 EXPORT_SYMBOL(ath9k_hw_wow_enable);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

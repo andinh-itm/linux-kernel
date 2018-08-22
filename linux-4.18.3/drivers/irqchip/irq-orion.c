@@ -204,3 +204,4 @@ static int __init orion_bridge_irq_init(struct device_node *np,
 }
 IRQCHIP_DECLARE(orion_bridge_intc,
 		"marvell,orion-bridge-intc", orion_bridge_irq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

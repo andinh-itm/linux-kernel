@@ -175,3 +175,4 @@ int vivid_radio_s_frequency(struct file *file, unsigned *pfreq, const struct v4l
 	vivid_radio_rds_init(dev);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

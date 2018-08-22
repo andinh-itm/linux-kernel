@@ -5656,3 +5656,4 @@ static s32 e1000_get_phy_cfg_done(struct e1000_hw *hw)
 	msleep(10);
 	return E1000_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

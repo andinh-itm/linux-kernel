@@ -130,3 +130,4 @@ void __init omap_map_sram(unsigned long start, unsigned long size,
 	set_memory_ro(base, pages);
 	set_memory_x(base, pages);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

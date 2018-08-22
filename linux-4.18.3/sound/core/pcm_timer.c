@@ -143,3 +143,4 @@ void snd_pcm_timer_done(struct snd_pcm_substream *substream)
 		substream->timer = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -281,3 +281,4 @@ msm_alloc_stolen_fb(struct drm_device *dev, int w, int h, int p, uint32_t format
 
 	return fb;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

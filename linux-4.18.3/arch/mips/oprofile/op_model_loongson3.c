@@ -211,3 +211,4 @@ struct op_mips_model op_model_loongson3_ops = {
 	.cpu_type	= "mips/loongson3",
 	.num_counters	= 2
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

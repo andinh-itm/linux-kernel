@@ -166,3 +166,4 @@ static struct hid_driver cmhid_driver = {
 };
 module_hid_driver(cmhid_driver);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

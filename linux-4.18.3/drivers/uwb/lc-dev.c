@@ -469,3 +469,4 @@ int uwb_dev_for_each(struct uwb_rc *rc, uwb_dev_for_each_f function, void *priv)
 	return device_for_each_child(&rc->uwb_dev.dev, priv, function);
 }
 EXPORT_SYMBOL_GPL(uwb_dev_for_each);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

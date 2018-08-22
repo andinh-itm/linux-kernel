@@ -705,3 +705,4 @@ static struct serio_driver w8001_drv = {
 };
 
 module_serio_driver(w8001_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -263,3 +263,4 @@ void __init ltq_soc_init(void)
 	clkdev_add_sys("1e100d00.spi", SYSCTL_SYS1, ACTS_SSC0);
 	clkdev_add_sys("1e200000.i2c", SYSCTL_SYS1, ACTS_I2C_ACT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

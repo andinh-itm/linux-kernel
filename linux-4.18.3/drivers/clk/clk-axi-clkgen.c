@@ -484,3 +484,4 @@ module_platform_driver(axi_clkgen_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("Driver for the Analog Devices' AXI clkgen pcore clock generator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

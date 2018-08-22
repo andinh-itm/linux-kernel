@@ -1330,3 +1330,4 @@ late_initcall(of_fdt_raw_init);
 #endif
 
 #endif /* CONFIG_OF_EARLY_FLATTREE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -638,3 +638,4 @@ EXPORT_SYMBOL(matroxfb_g450_shutdown);
 MODULE_AUTHOR("(c) 2000-2002 Petr Vandrovec <vandrove@vc.cvut.cz>");
 MODULE_DESCRIPTION("Matrox G450/G550 output driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

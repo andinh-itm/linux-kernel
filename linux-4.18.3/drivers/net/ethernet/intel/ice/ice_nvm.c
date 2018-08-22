@@ -235,3 +235,4 @@ enum ice_status ice_init_nvm(struct ice_hw *hw)
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

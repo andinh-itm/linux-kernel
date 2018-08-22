@@ -474,3 +474,4 @@ int clk_hw_register_clkdev(struct clk_hw *hw, const char *con_id,
 	return cl ? 0 : -ENOMEM;
 }
 EXPORT_SYMBOL(clk_hw_register_clkdev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

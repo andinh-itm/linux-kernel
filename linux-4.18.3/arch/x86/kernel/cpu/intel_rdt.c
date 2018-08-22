@@ -891,3 +891,4 @@ static int __init intel_rdt_late_init(void)
 }
 
 late_initcall(intel_rdt_late_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -282,3 +282,4 @@ const struct xattr_handler *squashfs_xattr_handlers[] = {
 	NULL
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -73,3 +73,4 @@ unsigned int __init tx4927_get_mem_size(void)
 		total += tx4927_process_sdccr(&tx4927_sdramcptr->cr[i]);
 	return total;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

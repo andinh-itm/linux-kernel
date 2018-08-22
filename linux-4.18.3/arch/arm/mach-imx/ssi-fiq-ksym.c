@@ -18,3 +18,4 @@ EXPORT_SYMBOL(imx_ssi_fiq_start);
 EXPORT_SYMBOL(imx_ssi_fiq_end);
 EXPORT_SYMBOL(imx_ssi_fiq_base);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

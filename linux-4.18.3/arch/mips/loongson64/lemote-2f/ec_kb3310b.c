@@ -127,3 +127,4 @@ int ec_get_event_num(void)
 	return value;
 }
 EXPORT_SYMBOL(ec_get_event_num);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

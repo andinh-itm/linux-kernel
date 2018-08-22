@@ -300,3 +300,4 @@ int mantis_dvb_exit(struct mantis_pci *mantis)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(mantis_dvb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -203,3 +203,4 @@ MODULE_ALIAS("platform:ssd1331");
 MODULE_DESCRIPTION("SSD1331 OLED Driver");
 MODULE_AUTHOR("Alec Smecher (adapted from SSD1351 by James Davies)");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

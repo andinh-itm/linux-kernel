@@ -421,3 +421,4 @@ module_platform_driver(mtk_rtc_driver);
 MODULE_DESCRIPTION("MediaTek SoC based RTC Driver");
 MODULE_AUTHOR("Sean Wang <sean.wang@mediatek.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

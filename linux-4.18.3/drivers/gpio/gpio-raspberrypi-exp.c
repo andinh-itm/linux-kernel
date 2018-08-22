@@ -250,3 +250,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dave Stevenson <dave.stevenson@raspberrypi.org>");
 MODULE_DESCRIPTION("Raspberry Pi 3 expander GPIO driver");
 MODULE_ALIAS("platform:rpi-exp-gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

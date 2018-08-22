@@ -866,3 +866,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("MXS ASoC SAIF driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mxs-saif");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -64,3 +64,4 @@ EXPORT_SYMBOL(__c6xabi_strasgi_64plus);
 
 /* lib functions */
 EXPORT_SYMBOL(memcpy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

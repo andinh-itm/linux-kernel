@@ -113,3 +113,4 @@ int pcmcia_simpad_init(struct device *dev)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

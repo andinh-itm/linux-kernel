@@ -503,3 +503,4 @@ int fdt_pack(void *fdt)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

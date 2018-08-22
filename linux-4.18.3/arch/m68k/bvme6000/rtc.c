@@ -173,3 +173,4 @@ static int __init rtc_DP8570A_init(void)
 	return misc_register(&rtc_dev);
 }
 module_init(rtc_DP8570A_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -205,3 +205,4 @@ static __init int add_rtc_cmos(void)
 	return 0;
 }
 device_initcall(add_rtc_cmos);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

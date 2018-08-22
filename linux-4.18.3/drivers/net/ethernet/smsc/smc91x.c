@@ -2502,3 +2502,4 @@ static struct platform_driver smc_driver = {
 };
 
 module_platform_driver(smc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

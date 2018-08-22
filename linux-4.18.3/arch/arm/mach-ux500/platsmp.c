@@ -103,3 +103,4 @@ static const struct smp_operations ux500_smp_ops __initconst = {
 #endif
 };
 CPU_METHOD_OF_DECLARE(ux500_smp, "ste,dbx500-smp", &ux500_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

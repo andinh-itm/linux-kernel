@@ -75,3 +75,4 @@ const struct sh_dmae_pdata r8a73a4_dma_pdata = {
 	.chclr_present	= 1,
 	.chclr_bitwise	= 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

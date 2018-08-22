@@ -650,3 +650,4 @@ static struct platform_driver armada_xp_pinctrl_driver = {
 	.resume = armada_xp_pinctrl_resume,
 };
 builtin_platform_driver(armada_xp_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

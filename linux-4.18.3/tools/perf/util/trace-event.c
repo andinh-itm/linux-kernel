@@ -118,3 +118,4 @@ struct event_format *trace_event__tp_format_id(int id)
 
 	return pevent_find_event(tevent.pevent, id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

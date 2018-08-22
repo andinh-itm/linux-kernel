@@ -115,3 +115,4 @@ int hfs_part_find(struct super_block *sb,
 
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

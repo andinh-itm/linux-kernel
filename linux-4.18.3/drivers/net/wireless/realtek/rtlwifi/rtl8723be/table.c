@@ -619,3 +619,4 @@ u32 RTL8723BEAGCTAB_1TARRAY[] = {
 };
 
 u32 RTL8723BEAGCTAB_1TARRAYLEN = ARRAY_SIZE(RTL8723BEAGCTAB_1TARRAY);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -233,3 +233,4 @@ EXPORT_SYMBOL(qcom_vadc_decimation_from_dt);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Qualcomm ADC common functionality");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

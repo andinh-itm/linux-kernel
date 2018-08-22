@@ -176,3 +176,4 @@ void vnt_reset_command_timer(struct vnt_private *priv)
 	priv->command_state = WLAN_CMD_IDLE;
 	priv->cmd_running = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

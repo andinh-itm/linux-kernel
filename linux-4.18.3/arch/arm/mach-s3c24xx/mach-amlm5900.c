@@ -229,3 +229,4 @@ MACHINE_START(AML_M5900, "AML_M5900")
 	.init_machine	= amlm5900_init,
 	.init_time	= amlm5900_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

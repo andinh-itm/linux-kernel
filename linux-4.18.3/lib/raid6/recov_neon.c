@@ -108,3 +108,4 @@ const struct raid6_recov_calls raid6_recov_neon = {
 	.name		= "neon",
 	.priority	= 10,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

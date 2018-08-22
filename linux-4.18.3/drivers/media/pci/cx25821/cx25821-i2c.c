@@ -413,3 +413,4 @@ int cx25821_i2c_write(struct cx25821_i2c *bus, u16 reg_addr, int value)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

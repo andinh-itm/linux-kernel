@@ -511,3 +511,4 @@ module_platform_driver(sti_uniperiph_driver);
 MODULE_DESCRIPTION("uniperipheral DAI driver");
 MODULE_AUTHOR("Arnaud Pouliquen <arnaud.pouliquen@st.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

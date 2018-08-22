@@ -763,3 +763,4 @@ module_platform_driver(atmel_i2s_driver);
 MODULE_DESCRIPTION("Atmel I2S Controller driver");
 MODULE_AUTHOR("Cyrille Pitchen <cyrille.pitchen@atmel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

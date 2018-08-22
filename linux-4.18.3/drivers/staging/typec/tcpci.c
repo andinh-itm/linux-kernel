@@ -594,3 +594,4 @@ module_i2c_driver(tcpci_i2c_driver);
 
 MODULE_DESCRIPTION("USB Type-C Port Controller Interface driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

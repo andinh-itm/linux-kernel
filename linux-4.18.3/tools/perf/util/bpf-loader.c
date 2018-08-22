@@ -1785,3 +1785,4 @@ int bpf__strerror_setup_stdout(struct perf_evlist *evlist __maybe_unused,
 	bpf__strerror_end(buf, size);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

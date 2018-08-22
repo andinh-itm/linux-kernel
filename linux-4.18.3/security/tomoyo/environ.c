@@ -121,3 +121,4 @@ int tomoyo_write_misc(struct tomoyo_acl_param *param)
 		return tomoyo_write_env(param);
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -396,3 +396,4 @@ usif_client_init(struct nouveau_cli *cli)
 	INIT_LIST_HEAD(&cli->objects);
 	INIT_LIST_HEAD(&cli->notifys);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -92,3 +92,4 @@ void batadv_hash_set_lock_class(struct batadv_hashtable *hash,
 	for (i = 0; i < hash->size; i++)
 		lockdep_set_class(&hash->list_locks[i], key);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

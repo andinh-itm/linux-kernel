@@ -1280,3 +1280,4 @@ module_platform_driver(spi_qup_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:spi_qup");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

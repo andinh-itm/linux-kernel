@@ -801,3 +801,4 @@ void gsc_unregister_m2m_device(struct gsc_dev *gsc)
 		video_unregister_device(&gsc->vdev);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

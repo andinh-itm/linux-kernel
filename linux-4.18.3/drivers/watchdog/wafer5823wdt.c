@@ -324,3 +324,4 @@ MODULE_DESCRIPTION("ICP Wafer 5823 Single Board Computer WDT driver");
 MODULE_LICENSE("GPL");
 
 /* end of wafer5823wdt.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

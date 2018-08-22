@@ -116,3 +116,4 @@ struct omap_vc_param omap4_core_vc_data = {
 	.ret			= OMAP4_RET_VOLTAGE_UV,
 	.off			= OMAP4_OFF_VOLTAGE_UV,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

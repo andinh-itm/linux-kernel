@@ -132,3 +132,4 @@ asmlinkage efi_status_t efi_handle_corrupted_x18(efi_status_t s, const char *f)
 	pr_err_ratelimited(FW_BUG "register x18 corrupted by EFI %s\n", f);
 	return s;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

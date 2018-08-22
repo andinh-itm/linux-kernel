@@ -984,3 +984,4 @@ MODULE_AUTHOR("Mathias Nyman <mathias.nyman@nokia.com>");
 MODULE_AUTHOR("Milo Kim <milo.kim@ti.com>");
 MODULE_DESCRIPTION("LP5523 LED engine");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

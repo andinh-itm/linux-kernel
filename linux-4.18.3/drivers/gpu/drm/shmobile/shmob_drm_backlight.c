@@ -88,3 +88,4 @@ void shmob_drm_backlight_exit(struct shmob_drm_connector *scon)
 {
 	backlight_device_unregister(scon->backlight);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

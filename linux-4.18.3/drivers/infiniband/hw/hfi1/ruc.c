@@ -958,3 +958,4 @@ void hfi1_send_complete(struct rvt_qp *qp, struct rvt_swqe *wqe,
 	if (qp->state == IB_QPS_SQD && last == qp->s_cur)
 		qp->s_draining = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

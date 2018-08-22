@@ -1411,3 +1411,4 @@ module_exit(ath10k_snoc_exit);
 MODULE_AUTHOR("Qualcomm");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("Driver support for Atheros WCN3990 SNOC devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

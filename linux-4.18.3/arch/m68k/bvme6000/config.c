@@ -348,3 +348,4 @@ int bvme6000_set_clock_mmss (unsigned long nowtime)
 	return retval;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

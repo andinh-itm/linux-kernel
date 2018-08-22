@@ -2417,3 +2417,4 @@ void nilfs_btree_init_gc(struct nilfs_bmap *bmap)
 	bmap->b_nchildren_per_block =
 		NILFS_BTREE_NODE_NCHILDREN_MAX(nilfs_btree_node_size(bmap));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

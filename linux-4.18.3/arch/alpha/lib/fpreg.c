@@ -199,3 +199,4 @@ alpha_write_fp_reg_s (unsigned long reg, unsigned long val)
 	}
 }
 EXPORT_SYMBOL(alpha_write_fp_reg_s);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

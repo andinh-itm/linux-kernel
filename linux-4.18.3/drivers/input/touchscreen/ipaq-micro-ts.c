@@ -162,3 +162,4 @@ module_platform_driver(micro_ts_device_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("driver for iPAQ Atmel micro touchscreen");
 MODULE_ALIAS("platform:ipaq-micro-ts");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

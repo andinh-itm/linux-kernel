@@ -3518,3 +3518,4 @@ struct smb_version_values smb311_values = {
 	.create_lease_size = sizeof(struct create_lease_v2),
 };
 #endif /* SMB311 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

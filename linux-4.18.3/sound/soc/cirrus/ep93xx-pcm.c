@@ -68,3 +68,4 @@ EXPORT_SYMBOL_GPL(devm_ep93xx_pcm_platform_register);
 MODULE_AUTHOR("Ryan Mallon");
 MODULE_DESCRIPTION("EP93xx ALSA PCM interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

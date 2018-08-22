@@ -163,3 +163,4 @@ MODULE_DESCRIPTION("Simtec Generic I2C Bus driver");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:simtec-i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

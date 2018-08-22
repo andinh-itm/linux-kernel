@@ -1388,3 +1388,4 @@ parisc_get_cpu_type(unsigned long hversion)
 	return pcx;	/* not reached: */
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2115,3 +2115,4 @@ void carl9170_free(struct ar9170 *ar)
 
 	ieee80211_free_hw(ar->hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

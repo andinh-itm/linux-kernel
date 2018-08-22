@@ -106,3 +106,4 @@ module_exit(exit_rc_map_medion_x10_or2x)
 MODULE_DESCRIPTION("Medion X10 OR22/OR24 RF remote keytable");
 MODULE_AUTHOR("Anssi Hannula <anssi.hannula@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

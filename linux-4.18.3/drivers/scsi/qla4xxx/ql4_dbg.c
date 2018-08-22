@@ -160,3 +160,4 @@ void qla4_8xxx_dump_peg_reg(struct scsi_qla_host *ha)
 			   halt_status1, halt_status2);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

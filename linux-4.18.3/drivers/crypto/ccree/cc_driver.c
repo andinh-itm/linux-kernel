@@ -538,3 +538,4 @@ MODULE_DESCRIPTION("ARM TrustZone CryptoCell REE Driver");
 MODULE_VERSION(DRV_MODULE_VERSION);
 MODULE_AUTHOR("ARM");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

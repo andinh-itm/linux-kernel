@@ -629,3 +629,4 @@ EXPORT_SYMBOL_GPL(g_audio_cleanup);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("USB gadget \"ALSA sound card\" utilities");
 MODULE_AUTHOR("Ruslan Bilovol");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -417,3 +417,4 @@ deregister:
 	return ret;
 }
 device_initcall(xen_late_init_mcelog);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

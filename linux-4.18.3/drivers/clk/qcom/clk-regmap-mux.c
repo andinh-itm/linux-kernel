@@ -63,3 +63,4 @@ const struct clk_ops clk_regmap_mux_closest_ops = {
 	.determine_rate = __clk_mux_determine_rate_closest,
 };
 EXPORT_SYMBOL_GPL(clk_regmap_mux_closest_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

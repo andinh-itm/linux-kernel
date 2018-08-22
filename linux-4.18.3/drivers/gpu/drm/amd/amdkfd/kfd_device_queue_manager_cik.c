@@ -203,3 +203,4 @@ static void init_sdma_vm_hawaii(struct device_queue_manager *dqm,
 		 SDMA0_RLC0_VIRTUAL_ADDR__SHARED_BASE__SHIFT) &
 		SDMA0_RLC0_VIRTUAL_ADDR__SHARED_BASE_MASK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

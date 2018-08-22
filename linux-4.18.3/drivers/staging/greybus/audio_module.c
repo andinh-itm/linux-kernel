@@ -476,3 +476,4 @@ MODULE_DESCRIPTION("Greybus Audio module driver");
 MODULE_AUTHOR("Vaibhav Agarwal <vaibhav.agarwal@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gbaudio-module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

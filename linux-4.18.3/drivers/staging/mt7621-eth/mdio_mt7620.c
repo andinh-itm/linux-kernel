@@ -171,3 +171,4 @@ void mt7620_mdio_link_adjust(struct mtk_eth *eth, int port)
 				eth->phy->speed[port],
 				(eth->phy->duplex[port] == DUPLEX_FULL));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

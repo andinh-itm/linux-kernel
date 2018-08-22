@@ -538,3 +538,4 @@ static int hdcs_dump(struct sd *sd)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

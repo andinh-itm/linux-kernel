@@ -71,3 +71,4 @@ struct drm_encoder *udl_encoder_init(struct drm_device *dev)
 	encoder->possible_crtcs = 1;
 	return encoder;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

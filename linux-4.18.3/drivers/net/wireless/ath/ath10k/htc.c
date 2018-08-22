@@ -908,3 +908,4 @@ int ath10k_htc_init(struct ath10k *ar)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

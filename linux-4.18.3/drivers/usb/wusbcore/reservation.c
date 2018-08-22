@@ -108,3 +108,4 @@ void wusbhc_rsv_terminate(struct wusbhc *wusbhc)
 		wusbhc->rsv = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

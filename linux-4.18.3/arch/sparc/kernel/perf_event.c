@@ -1856,3 +1856,4 @@ perf_callchain_user(struct perf_callchain_entry_ctx *entry, struct pt_regs *regs
 	set_thread_fault_code(saved_fault_code);
 	current_thread_info()->fault_address = saved_fault_address;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -658,3 +658,4 @@ void kvm_mips_resume_mm(int cpu)
 	current->active_mm = current->mm;
 }
 EXPORT_SYMBOL_GPL(kvm_mips_resume_mm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

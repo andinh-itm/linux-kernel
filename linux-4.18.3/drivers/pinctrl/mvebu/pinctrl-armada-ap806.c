@@ -138,3 +138,4 @@ static struct platform_driver armada_ap806_pinctrl_driver = {
 };
 
 builtin_platform_driver(armada_ap806_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

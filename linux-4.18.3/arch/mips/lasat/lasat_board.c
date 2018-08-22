@@ -278,3 +278,4 @@ void lasat_write_eeprom_info(void)
 
 	mutex_unlock(&lasat_eeprom_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

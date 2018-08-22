@@ -535,3 +535,4 @@ static void __exit mmpcam_exit_module(void)
 
 module_init(mmpcam_init_module);
 module_exit(mmpcam_exit_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

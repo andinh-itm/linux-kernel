@@ -76,3 +76,4 @@ void pl080_put_signal(const struct pl08x_channel_data *cd, int signal)
 
 	spin_unlock_irqrestore(&lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

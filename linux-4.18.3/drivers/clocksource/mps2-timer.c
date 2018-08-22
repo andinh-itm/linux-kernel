@@ -275,3 +275,4 @@ static int __init mps2_timer_init(struct device_node *np)
 }
 
 TIMER_OF_DECLARE(mps2_timer, "arm,mps2-timer", mps2_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

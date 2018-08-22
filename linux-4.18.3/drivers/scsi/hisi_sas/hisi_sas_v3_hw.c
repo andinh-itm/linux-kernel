@@ -2556,3 +2556,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("John Garry <john.garry@huawei.com>");
 MODULE_DESCRIPTION("HISILICON SAS controller v3 hw driver based on pci device");
 MODULE_ALIAS("pci:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

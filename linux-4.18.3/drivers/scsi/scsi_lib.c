@@ -3567,3 +3567,4 @@ int scsi_vpd_tpg_id(struct scsi_device *sdev, int *rel_id)
 	return group_id;
 }
 EXPORT_SYMBOL(scsi_vpd_tpg_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

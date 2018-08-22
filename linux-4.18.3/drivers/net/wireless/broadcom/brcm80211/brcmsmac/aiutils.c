@@ -708,3 +708,4 @@ bool ai_deviceremoved(struct si_pub *sih)
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

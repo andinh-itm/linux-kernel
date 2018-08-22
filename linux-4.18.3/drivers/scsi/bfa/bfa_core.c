@@ -2014,3 +2014,4 @@ bfa_cfg_get_min(struct bfa_iocfc_cfg_s *cfg)
 	cfg->drvcfg.num_rspq_elems = BFA_RSPQ_NELEMS_MIN;
 	cfg->drvcfg.min_cfg	   = BFA_TRUE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

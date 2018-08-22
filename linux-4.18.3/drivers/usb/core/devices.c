@@ -643,3 +643,4 @@ const struct file_operations usbfs_devices_fops = {
 	.read =		usb_device_read,
 	.poll =		usb_device_poll,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

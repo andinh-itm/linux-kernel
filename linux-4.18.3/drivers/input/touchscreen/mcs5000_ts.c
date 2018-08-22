@@ -291,3 +291,4 @@ module_i2c_driver(mcs5000_ts_driver);
 MODULE_AUTHOR("Joonyoung Shim <jy0922.shim@samsung.com>");
 MODULE_DESCRIPTION("Touchscreen driver for MELFAS MCS-5000 controller");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

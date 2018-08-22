@@ -340,3 +340,4 @@ void amdgpu_gfx_compute_mqd_sw_fini(struct amdgpu_device *adev)
 			      &ring->mqd_gpu_addr,
 			      &ring->mqd_ptr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

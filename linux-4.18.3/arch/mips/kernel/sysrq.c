@@ -64,3 +64,4 @@ static int __init mips_sysrq_init(void)
 	return register_sysrq_key('x', &sysrq_tlbdump_op);
 }
 arch_initcall(mips_sysrq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -258,3 +258,4 @@ u16 nvmet_parse_connect_cmd(struct nvmet_req *req)
 		req->execute = nvmet_execute_io_connect;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

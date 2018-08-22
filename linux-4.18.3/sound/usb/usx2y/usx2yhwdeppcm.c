@@ -759,3 +759,4 @@ int usX2Y_hwdep_pcm_new(struct snd_card *card)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

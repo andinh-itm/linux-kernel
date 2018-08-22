@@ -368,3 +368,4 @@ MACHINE_START(TERASTATION_PRO2, "Buffalo Terastation Pro II/Live")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -215,3 +215,4 @@ define_machine(mpc8272_ads)
 	.restart = pq2_restart,
 	.progress = udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

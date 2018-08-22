@@ -38,3 +38,4 @@ unsigned long hv_perf_caps_get(struct hv_perf_caps *caps)
 
 	return r;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3262,3 +3262,4 @@ fail:
 	ha->fcp_prio_cfg = NULL;
 	return QLA_FUNCTION_FAILED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

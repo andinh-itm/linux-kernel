@@ -2295,3 +2295,4 @@ static void __exit alsa_wss_exit(void)
 
 module_init(alsa_wss_init);
 module_exit(alsa_wss_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

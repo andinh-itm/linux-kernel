@@ -536,3 +536,4 @@ static int __init stmpe_gpio_init(void)
 	return platform_driver_register(&stmpe_gpio_driver);
 }
 subsys_initcall(stmpe_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

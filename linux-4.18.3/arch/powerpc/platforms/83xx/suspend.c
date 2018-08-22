@@ -443,3 +443,4 @@ static struct platform_driver pmc_driver = {
 };
 
 builtin_platform_driver(pmc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

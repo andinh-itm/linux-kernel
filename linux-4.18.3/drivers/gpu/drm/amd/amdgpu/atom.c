@@ -1420,3 +1420,4 @@ bool amdgpu_atom_parse_cmd_header(struct atom_context *ctx, int index, uint8_t *
 	return true;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -608,3 +608,4 @@ module_platform_driver(max77802_pmic_driver);
 MODULE_DESCRIPTION("MAXIM 77802 Regulator Driver");
 MODULE_AUTHOR("Simon Glass <sjg@chromium.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

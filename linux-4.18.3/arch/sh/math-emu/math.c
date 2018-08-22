@@ -607,3 +607,4 @@ int do_fpu_inst(unsigned short inst, struct pt_regs *regs)
 
 	return fpu_emulate(inst, fpu, regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -268,3 +268,4 @@ int __init mvebu_pm_suspend_init(void (*board_pm_enter)(void __iomem *sdram_reg,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -489,3 +489,4 @@ void wlcore_scan_sched_scan_results(struct wl1271 *wl)
 	ieee80211_sched_scan_results(wl->hw);
 }
 EXPORT_SYMBOL_GPL(wlcore_scan_sched_scan_results);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

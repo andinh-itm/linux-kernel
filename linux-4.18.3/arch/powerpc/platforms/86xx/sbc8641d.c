@@ -89,3 +89,4 @@ define_machine(sbc8641) {
 	.pcibios_fixup_bus	= fsl_pcibios_fixup_bus,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

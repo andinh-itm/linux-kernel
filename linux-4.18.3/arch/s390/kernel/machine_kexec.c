@@ -302,3 +302,4 @@ void machine_kexec(struct kimage *image)
 	smp_send_stop();
 	smp_call_ipl_cpu(__machine_kexec, image);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -157,3 +157,4 @@ char *cachefiles_cook_key(const u8 *raw, int keylen, uint8_t type)
 	_leave(" = %p %d", key, len);
 	return key;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

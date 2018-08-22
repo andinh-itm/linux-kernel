@@ -378,3 +378,4 @@ void samsung_pm_restore_gpios(void)
 		gpio_nr += CONFIG_S3C_GPIO_SPACE;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

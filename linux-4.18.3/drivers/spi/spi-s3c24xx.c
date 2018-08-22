@@ -670,3 +670,4 @@ module_platform_driver(s3c24xx_spi_driver);
 MODULE_DESCRIPTION("S3C24XX SPI Driver");
 MODULE_AUTHOR("Ben Dooks, <ben@simtec.co.uk>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

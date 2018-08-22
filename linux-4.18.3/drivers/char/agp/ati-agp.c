@@ -584,3 +584,4 @@ module_exit(agp_ati_cleanup);
 MODULE_AUTHOR("Dave Jones");
 MODULE_LICENSE("GPL and additional rights");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

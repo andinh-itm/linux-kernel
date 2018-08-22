@@ -2257,3 +2257,4 @@ void hostif_exit(struct ks_wlan_private *priv)
 {
 	tasklet_kill(&priv->sme_task);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

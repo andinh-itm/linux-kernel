@@ -419,3 +419,4 @@ module_platform_driver(au1xpsc_i2s_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Au12x0/Au1550 PSC I2S ALSA ASoC audio driver");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -437,3 +437,4 @@ void s3c64xx_restart(enum reboot_mode mode, const char *cmd)
 	/* if all else fails, or mode was for soft, jump to 0 */
 	soft_restart(0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

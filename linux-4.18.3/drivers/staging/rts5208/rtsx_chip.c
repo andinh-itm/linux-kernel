@@ -2441,3 +2441,4 @@ int rtsx_force_power_down(struct rtsx_chip *chip, u8 ctl)
 
 	return STATUS_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

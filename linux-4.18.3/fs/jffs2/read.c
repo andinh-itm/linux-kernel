@@ -226,3 +226,4 @@ int jffs2_read_inode_range(struct jffs2_sb_info *c, struct jffs2_inode_info *f,
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

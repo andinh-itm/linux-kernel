@@ -343,3 +343,4 @@ int cec_pin_error_inj_show(struct cec_adapter *adap, struct seq_file *sf)
 			   pin->tx_custom_high_usecs);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

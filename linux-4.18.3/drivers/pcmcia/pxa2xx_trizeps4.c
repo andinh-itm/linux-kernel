@@ -201,3 +201,4 @@ module_exit(trizeps_pcmcia_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Juergen Schindele");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

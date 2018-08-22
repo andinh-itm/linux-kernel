@@ -202,3 +202,4 @@ void usb6fire_comm_destroy(struct sfire_chip *chip)
 	kfree(rt);
 	chip->comm = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

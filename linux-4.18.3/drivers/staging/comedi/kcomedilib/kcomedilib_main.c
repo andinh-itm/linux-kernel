@@ -253,3 +253,4 @@ static void __exit kcomedilib_module_exit(void)
 
 module_init(kcomedilib_module_init);
 module_exit(kcomedilib_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

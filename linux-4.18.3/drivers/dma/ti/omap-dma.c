@@ -1670,3 +1670,4 @@ module_exit(omap_dma_exit);
 
 MODULE_AUTHOR("Russell King");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -892,3 +892,4 @@ int of_changeset_action(struct of_changeset *ocs, unsigned long action,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(of_changeset_action);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2475,3 +2475,4 @@ static struct pci_driver ens137x_driver = {
 };
 	
 module_pci_driver(ens137x_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

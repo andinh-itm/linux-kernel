@@ -1284,3 +1284,4 @@ static void __exit acpi_thermal_exit(void)
 
 module_init(acpi_thermal_init);
 module_exit(acpi_thermal_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -266,3 +266,4 @@ static __exit void fake_remove_module(void)
 module_init(fakelb_init_module);
 module_exit(fake_remove_module);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

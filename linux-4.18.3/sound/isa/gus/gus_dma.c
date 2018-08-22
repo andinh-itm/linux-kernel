@@ -247,3 +247,4 @@ int snd_gf1_dma_transfer_block(struct snd_gus_card * gus,
 	spin_unlock_irqrestore(&gus->dma_lock, flags);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

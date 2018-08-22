@@ -228,3 +228,4 @@ int generate_ecdh_keys(struct crypto_kpp *tfm, u8 public_key[64])
 
 	return generate_ecdh_public_key(tfm, public_key);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

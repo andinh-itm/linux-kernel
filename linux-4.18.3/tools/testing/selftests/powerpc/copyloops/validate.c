@@ -98,3 +98,4 @@ int main(void)
 {
 	return test_harness(test_copy_loop, str(COPY_LOOP));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -14,3 +14,4 @@ void _start(void)
 {
 	syscall(SYS_exit, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

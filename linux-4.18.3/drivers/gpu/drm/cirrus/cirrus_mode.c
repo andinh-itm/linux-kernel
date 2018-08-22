@@ -556,3 +556,4 @@ void cirrus_modeset_fini(struct cirrus_device *cdev)
 		cdev->mode_info.mode_config_initialized = false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -959,3 +959,4 @@ MODULE_ALIAS("platform:nvec");
 MODULE_DESCRIPTION("NVIDIA compliant embedded controller interface");
 MODULE_AUTHOR("Marc Dietrich <marvin24@gmx.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

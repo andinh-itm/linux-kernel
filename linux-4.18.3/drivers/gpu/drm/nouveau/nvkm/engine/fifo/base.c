@@ -382,3 +382,4 @@ nvkm_fifo_ctor(const struct nvkm_fifo_func *func, struct nvkm_device *device,
 
 	return nvkm_event_init(&nvkm_fifo_kevent_func, 1, nr, &fifo->kevent);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

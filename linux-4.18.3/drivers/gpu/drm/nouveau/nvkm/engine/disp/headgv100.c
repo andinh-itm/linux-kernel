@@ -103,3 +103,4 @@ gv100_head_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = nvkm_rd32(device, 0x610060) & 0x000000ff;
 	return nvkm_rd32(device, 0x610074) & 0x0000000f;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

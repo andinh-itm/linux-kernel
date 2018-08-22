@@ -366,3 +366,4 @@ void hpfs_set_ea(struct inode *inode, struct fnode *fnode, const char *key,
 	else fnode->ea_secno = fnode->ea_size_l = cpu_to_le32(0);
 }
 	
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

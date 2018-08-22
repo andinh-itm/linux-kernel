@@ -78,3 +78,4 @@ DT_MACHINE_START(ORION5X_DT, "Marvell Orion5x (Flattened Device Tree)")
 	.restart	= orion5x_restart,
 	.dt_compat	= orion5x_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

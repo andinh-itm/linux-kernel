@@ -1219,3 +1219,4 @@ static int __init rtc_init(void)
 
 device_initcall(rtc_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

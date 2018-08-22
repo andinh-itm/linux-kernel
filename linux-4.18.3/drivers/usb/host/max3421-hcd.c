@@ -2017,3 +2017,4 @@ module_spi_driver(max3421_driver);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("David Mosberger <davidm@egauge.net>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -623,3 +623,4 @@ module_i2c_driver(pixcir_i2c_ts_driver);
 MODULE_AUTHOR("Jianchun Bian <jcbian@pixcir.com.cn>, Dequan Meng <dqmeng@pixcir.com.cn>");
 MODULE_DESCRIPTION("Pixcir I2C Touchscreen Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

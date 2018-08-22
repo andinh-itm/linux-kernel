@@ -368,3 +368,4 @@ int snd_dice_transaction_init(struct snd_dice *dice)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

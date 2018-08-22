@@ -2103,3 +2103,4 @@ u32 trinity_dpm_get_mclk(struct radeon_device *rdev, bool low)
 
 	return pi->sys_info.bootup_uma_clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

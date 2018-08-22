@@ -93,3 +93,4 @@ MODULE_AUTHOR("Jonathan Cameron");
 MODULE_DESCRIPTION("ALSA SoC Imote 2");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:imote2-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

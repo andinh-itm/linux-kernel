@@ -49,3 +49,4 @@ static int __init jz4740_pm_init(void)
 
 }
 late_initcall(jz4740_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

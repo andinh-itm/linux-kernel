@@ -315,3 +315,4 @@ static struct platform_driver ehci_mv_driver = {
 		   },
 	.id_table = ehci_id_table,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

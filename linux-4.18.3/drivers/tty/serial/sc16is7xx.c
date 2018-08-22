@@ -1505,3 +1505,4 @@ module_exit(sc16is7xx_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jon Ringle <jringle@gridpoint.com>");
 MODULE_DESCRIPTION("SC16IS7XX serial driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

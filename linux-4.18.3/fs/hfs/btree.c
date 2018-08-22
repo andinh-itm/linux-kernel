@@ -368,3 +368,4 @@ void hfs_bmap_free(struct hfs_bnode *node)
 	tree->free_nodes++;
 	mark_inode_dirty(tree->inode);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

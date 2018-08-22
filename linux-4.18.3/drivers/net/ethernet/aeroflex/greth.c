@@ -1579,3 +1579,4 @@ module_platform_driver(greth_of_driver);
 MODULE_AUTHOR("Aeroflex Gaisler AB.");
 MODULE_DESCRIPTION("Aeroflex Gaisler Ethernet MAC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

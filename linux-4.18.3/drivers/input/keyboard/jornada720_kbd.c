@@ -145,3 +145,4 @@ static struct platform_driver jornada720_kbd_driver = {
 	.probe   = jornada720_kbd_probe,
 };
 module_platform_driver(jornada720_kbd_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

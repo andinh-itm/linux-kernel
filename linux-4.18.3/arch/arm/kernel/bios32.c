@@ -621,3 +621,4 @@ void __init pci_map_io_early(unsigned long pfn)
 	pci_io_desc.pfn = pfn;
 	iotable_init(&pci_io_desc, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

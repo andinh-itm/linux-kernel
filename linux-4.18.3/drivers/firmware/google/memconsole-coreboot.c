@@ -132,3 +132,4 @@ module_init(coreboot_memconsole_init);
 
 MODULE_AUTHOR("Google, Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

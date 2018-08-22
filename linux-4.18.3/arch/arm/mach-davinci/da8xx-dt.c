@@ -103,3 +103,4 @@ DT_MACHINE_START(DA850_DT, "Generic DA850/OMAP-L138/AM18x")
 MACHINE_END
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

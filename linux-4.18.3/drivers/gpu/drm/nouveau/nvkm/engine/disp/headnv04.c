@@ -72,3 +72,4 @@ nv04_head_new(struct nvkm_disp *disp, int id)
 {
 	return nvkm_head_new_(&nv04_head, disp, id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

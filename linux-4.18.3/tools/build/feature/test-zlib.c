@@ -8,3 +8,4 @@ int main(void)
 	inflateInit(&zs);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

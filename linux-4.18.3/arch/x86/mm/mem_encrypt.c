@@ -374,3 +374,4 @@ void __init mem_encrypt_init(void)
 			     : "Secure Memory Encryption (SME)");
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

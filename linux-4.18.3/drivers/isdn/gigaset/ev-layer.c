@@ -1911,3 +1911,4 @@ void gigaset_handle_event(unsigned long data)
 
 	process_events(cs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

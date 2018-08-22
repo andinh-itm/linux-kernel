@@ -3199,3 +3199,4 @@ static void __exit alsa_pcm_oss_exit(void)
 
 module_init(alsa_pcm_oss_init)
 module_exit(alsa_pcm_oss_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

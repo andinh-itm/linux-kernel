@@ -1512,3 +1512,4 @@ void __init acpi_iort_init(void)
 
 	iort_init_platform_devices();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

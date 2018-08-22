@@ -16,3 +16,4 @@
 #define ELF_ST_VISIBILITY(o)    ELF64_ST_VISIBILITY(o)
 
 #include "relocs.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

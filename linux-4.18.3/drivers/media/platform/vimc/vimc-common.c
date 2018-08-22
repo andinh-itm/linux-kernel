@@ -473,3 +473,4 @@ EXPORT_SYMBOL_GPL(vimc_ent_sd_unregister);
 MODULE_DESCRIPTION("Virtual Media Controller Driver (VIMC) Common");
 MODULE_AUTHOR("Helen Koike <helen.fornazier@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

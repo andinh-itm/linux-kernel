@@ -336,3 +336,4 @@ module_platform_driver(aspeed_adc_driver);
 MODULE_AUTHOR("Rick Altherr <raltherr@google.com>");
 MODULE_DESCRIPTION("Aspeed AST2400/2500 ADC Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

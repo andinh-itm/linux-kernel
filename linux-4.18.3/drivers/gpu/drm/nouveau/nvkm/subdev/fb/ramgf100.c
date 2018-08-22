@@ -670,3 +670,4 @@ gf100_ram_new(struct nvkm_fb *fb, struct nvkm_ram **pram)
 {
 	return gf100_ram_new_(&gf100_ram, fb, pram);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

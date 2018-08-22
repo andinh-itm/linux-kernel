@@ -386,3 +386,4 @@ device_initcall(efi_rtc_init);
 /*
 MODULE_LICENSE("GPL");
 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

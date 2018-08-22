@@ -385,3 +385,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Eric Biederman <ebiederman@lnxi.com>, Dave Olsen <dolsen@lnxi.com>");
 MODULE_DESCRIPTION("MTD map driver for BIOS chips on the Nvidia ck804 southbridge");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

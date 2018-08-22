@@ -711,3 +711,4 @@ const struct elan_transport_ops elan_i2c_ops = {
 
 	.get_report		= elan_i2c_get_report,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

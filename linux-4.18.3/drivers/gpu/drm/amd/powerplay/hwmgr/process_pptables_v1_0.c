@@ -1335,3 +1335,4 @@ int get_powerplay_table_entry_v1_0(struct pp_hwmgr *hwmgr,
 	return result;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

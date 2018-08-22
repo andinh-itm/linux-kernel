@@ -328,3 +328,4 @@ module_init(unix_diag_init);
 module_exit(unix_diag_exit);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_NET_PF_PROTO_TYPE(PF_NETLINK, NETLINK_SOCK_DIAG, 1 /* AF_LOCAL */);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

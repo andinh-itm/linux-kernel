@@ -749,3 +749,4 @@ const struct plat_smp_ops loongson3_smp_ops = {
 	.cpu_die = loongson3_cpu_die,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

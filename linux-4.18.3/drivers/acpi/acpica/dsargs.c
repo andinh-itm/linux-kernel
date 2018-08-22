@@ -372,3 +372,4 @@ acpi_status acpi_ds_get_region_arguments(union acpi_operand_object *obj_desc)
 					   obj_desc->region.length, node);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -113,3 +113,4 @@ struct syscore_ops s3c2416_irq_syscore_ops = {
 	.resume		= s3c2416_irq_resume,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

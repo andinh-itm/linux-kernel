@@ -152,3 +152,4 @@ module_hid_driver(ems_driver);
 
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

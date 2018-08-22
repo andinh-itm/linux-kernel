@@ -212,3 +212,4 @@ int main(void)
 	DEFINE(__KEXEC_SHA_REGION_SIZE, sizeof(struct kexec_sha_region));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

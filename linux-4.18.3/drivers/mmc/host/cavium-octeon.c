@@ -347,3 +347,4 @@ module_platform_driver(octeon_mmc_driver);
 MODULE_AUTHOR("Cavium Inc. <support@cavium.com>");
 MODULE_DESCRIPTION("Low-level driver for Cavium OCTEON MMC/SSD card");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

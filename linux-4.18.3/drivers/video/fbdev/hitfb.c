@@ -497,3 +497,4 @@ module_init(hitfb_init);
 module_exit(hitfb_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

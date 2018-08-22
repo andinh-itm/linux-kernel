@@ -104,3 +104,4 @@ void i915_memcpy_init_early(struct drm_i915_private *dev_priv)
 	    !boot_cpu_has(X86_FEATURE_HYPERVISOR))
 		static_branch_enable(&has_movntdqa);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

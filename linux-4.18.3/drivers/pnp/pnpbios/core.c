@@ -588,3 +588,4 @@ static int __init pnpbios_thread_init(void)
 device_initcall(pnpbios_thread_init);
 
 EXPORT_SYMBOL(pnpbios_protocol);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

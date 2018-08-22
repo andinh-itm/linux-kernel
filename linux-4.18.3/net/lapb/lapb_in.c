@@ -559,3 +559,4 @@ void lapb_data_input(struct lapb_cb *lapb, struct sk_buff *skb)
 
 	lapb_kick(lapb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

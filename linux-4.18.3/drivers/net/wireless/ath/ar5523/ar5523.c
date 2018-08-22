@@ -1793,3 +1793,4 @@ module_usb_driver(ar5523_driver);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_FIRMWARE(AR5523_FIRMWARE_FILE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

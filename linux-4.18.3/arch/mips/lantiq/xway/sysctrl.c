@@ -568,3 +568,4 @@ void __init ltq_soc_init(void)
 		clkdev_add_pmu("1e100400.serial", NULL, 1, 0, PMU_ASC0);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

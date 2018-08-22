@@ -695,3 +695,4 @@ static void __exit alsa_card_sb16_exit(void)
 
 module_init(alsa_card_sb16_init)
 module_exit(alsa_card_sb16_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

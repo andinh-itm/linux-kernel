@@ -145,3 +145,4 @@ module_i2c_driver(ltc2485_driver);
 MODULE_AUTHOR("Alison Schofield <amsfield22@gmail.com>");
 MODULE_DESCRIPTION("Linear Technology LTC2485 ADC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

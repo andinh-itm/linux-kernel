@@ -219,3 +219,4 @@ int mlx5_core_modify_cq_moderation(struct mlx5_core_dev *dev,
 	return mlx5_core_modify_cq(dev, cq, in, sizeof(in));
 }
 EXPORT_SYMBOL(mlx5_core_modify_cq_moderation);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

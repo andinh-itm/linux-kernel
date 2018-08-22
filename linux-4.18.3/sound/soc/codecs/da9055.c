@@ -1543,3 +1543,4 @@ module_i2c_driver(da9055_i2c_driver);
 MODULE_DESCRIPTION("ASoC DA9055 Codec driver");
 MODULE_AUTHOR("David Chen, Ashish Chavan");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

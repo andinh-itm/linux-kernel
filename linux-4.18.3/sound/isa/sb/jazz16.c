@@ -388,3 +388,4 @@ static struct isa_driver snd_jazz16_driver = {
 };
 
 module_isa_driver(snd_jazz16_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1144,3 +1144,4 @@ MODULE_DESCRIPTION(DRV_NAME " ethernet driver");
 MODULE_AUTHOR("Jon Ringle <jringle@gridpoint.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

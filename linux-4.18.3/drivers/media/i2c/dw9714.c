@@ -272,3 +272,4 @@ MODULE_AUTHOR("Jouni Ukkonen <jouni.ukkonen@intel.com>");
 MODULE_AUTHOR("Tommi Franttila <tommi.franttila@intel.com>");
 MODULE_DESCRIPTION("DW9714 VCM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

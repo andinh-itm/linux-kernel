@@ -1402,3 +1402,4 @@ MODULE_AUTHOR("Liam Girdwood, Xingchao Wang");
 MODULE_DESCRIPTION("Haswell/Lynxpoint + Broadwell/Wildcatpoint PCM");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:haswell-pcm-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

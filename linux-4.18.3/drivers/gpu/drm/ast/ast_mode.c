@@ -1258,3 +1258,4 @@ static int ast_cursor_move(struct drm_crtc *crtc,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

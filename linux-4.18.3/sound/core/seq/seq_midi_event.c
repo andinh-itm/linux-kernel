@@ -543,3 +543,4 @@ static void __exit alsa_seq_midi_event_exit(void)
 
 module_init(alsa_seq_midi_event_init)
 module_exit(alsa_seq_midi_event_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

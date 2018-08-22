@@ -730,3 +730,4 @@ EXPORT_SYMBOL_GPL(i2c_dw_probe);
 
 MODULE_DESCRIPTION("Synopsys DesignWare I2C bus master adapter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

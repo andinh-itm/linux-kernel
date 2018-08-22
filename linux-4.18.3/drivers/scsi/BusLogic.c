@@ -3912,3 +3912,4 @@ MODULE_DEVICE_TABLE(pci, blogic_pci_tbl);
 
 module_init(blogic_init);
 module_exit(blogic_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

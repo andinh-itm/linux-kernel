@@ -467,3 +467,4 @@ const struct attribute_group *pnp_dev_groups[] = {
 	&pnp_dev_group,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

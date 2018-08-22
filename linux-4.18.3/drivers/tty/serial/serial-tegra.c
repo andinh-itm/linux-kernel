@@ -1396,3 +1396,4 @@ MODULE_ALIAS("platform:serial-tegra");
 MODULE_DESCRIPTION("High speed UART driver for tegra chipset");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -410,3 +410,4 @@ module_platform_driver(mxc_rtc_driver);
 MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("Real Time Clock (RTC) Driver for i.MX53");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

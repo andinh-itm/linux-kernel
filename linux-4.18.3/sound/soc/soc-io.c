@@ -205,3 +205,4 @@ int snd_soc_component_test_bits(struct snd_soc_component *component,
 	return old != new;
 }
 EXPORT_SYMBOL_GPL(snd_soc_component_test_bits);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1699,3 +1699,4 @@ MODULE_AUTHOR("Tundra Semiconductor Corporation");
 MODULE_DESCRIPTION("Tsi108 Gigabit Ethernet driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:tsi-ethernet");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

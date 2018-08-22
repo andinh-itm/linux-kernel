@@ -102,3 +102,4 @@ void __init plat_mem_setup(void)
 	printk(KERN_INFO "%s, ID: 0x%04x, Revision: 0x%02x\n",
 			get_system_type(), ar7_chip_id(), ar7_chip_rev());
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

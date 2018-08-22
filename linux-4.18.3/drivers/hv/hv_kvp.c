@@ -745,3 +745,4 @@ void hv_kvp_deinit(void)
 	cancel_work_sync(&kvp_sendkey_work);
 	hvutil_transport_destroy(hvt);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -186,3 +186,4 @@ void acpi_ut_release_owner_id(acpi_owner_id *owner_id_ptr)
 	(void)acpi_ut_release_mutex(ACPI_MTX_CACHES);
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

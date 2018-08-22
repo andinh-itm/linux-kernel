@@ -195,3 +195,4 @@ module_platform_driver(atmel_asoc_wm8904_driver);
 MODULE_AUTHOR("Bo Shen <voice.shen@atmel.com>");
 MODULE_DESCRIPTION("ALSA SoC machine driver for Atmel EK with WM8904 codec");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

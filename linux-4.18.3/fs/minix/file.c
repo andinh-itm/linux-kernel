@@ -50,3 +50,4 @@ const struct inode_operations minix_file_inode_operations = {
 	.setattr	= minix_setattr,
 	.getattr	= minix_getattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

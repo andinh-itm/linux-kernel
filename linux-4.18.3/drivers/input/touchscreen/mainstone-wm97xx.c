@@ -307,3 +307,4 @@ module_platform_driver(mainstone_wm97xx_driver);
 MODULE_AUTHOR("Liam Girdwood <lrg@slimlogic.co.uk>");
 MODULE_DESCRIPTION("wm97xx continuous touch driver for mainstone");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

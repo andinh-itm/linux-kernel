@@ -1395,3 +1395,4 @@ MODULE_AUTHOR("Liam Girdwood");
 MODULE_DESCRIPTION("WM8350 voltage and current regulator driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8350-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

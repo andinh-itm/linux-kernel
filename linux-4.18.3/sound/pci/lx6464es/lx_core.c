@@ -1196,3 +1196,4 @@ void lx_irq_disable(struct lx6464es *chip)
 	dev_dbg(chip->card->dev, "->lx_irq_disable\n");
 	lx_irq_set(chip, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

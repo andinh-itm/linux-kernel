@@ -574,3 +574,4 @@ void arch_kexec_pre_free_pages(void *vaddr, unsigned int pages)
 	 */
 	set_memory_encrypted((unsigned long)vaddr, pages);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

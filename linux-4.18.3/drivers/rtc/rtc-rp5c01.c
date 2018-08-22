@@ -274,3 +274,4 @@ MODULE_AUTHOR("Geert Uytterhoeven <geert@linux-m68k.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Ricoh RP5C01 RTC driver");
 MODULE_ALIAS("platform:rtc-rp5c01");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

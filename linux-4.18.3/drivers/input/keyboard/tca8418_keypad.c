@@ -391,3 +391,4 @@ module_exit(tca8418_keypad_exit);
 MODULE_AUTHOR("Kyle Manna <kyle.manna@fuel7.com>");
 MODULE_DESCRIPTION("Keypad driver for TCA8418");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

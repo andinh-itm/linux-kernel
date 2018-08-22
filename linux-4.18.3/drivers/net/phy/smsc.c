@@ -374,3 +374,4 @@ static struct mdio_device_id __maybe_unused smsc_tbl[] = {
 };
 
 MODULE_DEVICE_TABLE(mdio, smsc_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

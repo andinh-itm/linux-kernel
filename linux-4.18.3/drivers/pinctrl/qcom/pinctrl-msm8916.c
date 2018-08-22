@@ -1003,3 +1003,4 @@ module_exit(msm8916_pinctrl_exit);
 MODULE_DESCRIPTION("Qualcomm msm8916 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, msm8916_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

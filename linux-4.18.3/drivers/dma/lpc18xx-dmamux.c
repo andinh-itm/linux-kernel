@@ -181,3 +181,4 @@ static int __init lpc18xx_dmamux_init(void)
 	return platform_driver_register(&lpc18xx_dmamux_driver);
 }
 arch_initcall(lpc18xx_dmamux_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

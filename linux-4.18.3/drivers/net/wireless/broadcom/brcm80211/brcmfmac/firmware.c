@@ -691,3 +691,4 @@ brcmf_fw_alloc_request(u32 chip, u32 chiprev,
 
 	return fwreq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

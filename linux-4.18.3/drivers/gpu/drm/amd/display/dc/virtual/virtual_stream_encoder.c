@@ -134,3 +134,4 @@ struct stream_encoder *virtual_stream_encoder_create(
 	return NULL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

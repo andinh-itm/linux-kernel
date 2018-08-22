@@ -50,3 +50,4 @@ DT_MACHINE_START(PXA910_DT, "Marvell PXA910 (Device Tree Support)")
 	.init_time	= mmp_init_time,
 	.dt_compat	= pxa910_dt_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

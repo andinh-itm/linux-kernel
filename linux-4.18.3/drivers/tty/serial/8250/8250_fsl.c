@@ -58,3 +58,4 @@ int fsl8250_handle_irq(struct uart_port *port)
 	return 1;
 }
 EXPORT_SYMBOL_GPL(fsl8250_handle_irq);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

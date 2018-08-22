@@ -230,3 +230,4 @@ MODULE_AUTHOR("Luotao Fu <l.fu@pengutronix.de>");
 MODULE_DESCRIPTION("generic PWM LED driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:leds-pwm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

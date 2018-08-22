@@ -76,3 +76,4 @@ int __init __weak arch_clk_init(void)
 {
 	return cpg_clk_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

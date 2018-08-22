@@ -472,3 +472,4 @@ module_i2c_driver(sii902x_driver);
 MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("SII902x RGB -> HDMI bridges");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

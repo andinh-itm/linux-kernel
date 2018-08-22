@@ -737,3 +737,4 @@ void rtl92s_dm_watchdog(struct ieee80211_hw *hw)
 	_rtl92s_dm_switch_baseband_mrc(hw);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

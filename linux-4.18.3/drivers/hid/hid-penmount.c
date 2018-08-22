@@ -51,3 +51,4 @@ module_hid_driver(penmount_driver);
 MODULE_AUTHOR("Christian Gmeiner <christian.gmeiner@gmail.com>");
 MODULE_DESCRIPTION("PenMount HID TouchScreen driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

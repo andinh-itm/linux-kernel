@@ -620,3 +620,4 @@ void fhci_host_transmit_actual_frame(struct fhci_usb *usb)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

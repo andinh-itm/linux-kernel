@@ -150,3 +150,4 @@ const struct file_operations xensyms_ops = {
 	.llseek = seq_lseek,
 	.release = xensyms_release
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -31,3 +31,4 @@ void highbank_restart(enum reboot_mode mode, const char *cmd)
 		cpu_do_idle();
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

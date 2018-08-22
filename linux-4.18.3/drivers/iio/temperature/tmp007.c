@@ -595,3 +595,4 @@ module_i2c_driver(tmp007_driver);
 MODULE_AUTHOR("Manivannan Sadhasivam <manivannanece23@gmail.com>");
 MODULE_DESCRIPTION("TI TMP007 IR thermopile sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

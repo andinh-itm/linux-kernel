@@ -392,3 +392,4 @@ IRQCHIP_DECLARE(omap3_intc, "ti,omap3-intc", intc_of_init);
 IRQCHIP_DECLARE(dm814x_intc, "ti,dm814-intc", intc_of_init);
 IRQCHIP_DECLARE(dm816x_intc, "ti,dm816-intc", intc_of_init);
 IRQCHIP_DECLARE(am33xx_intc, "ti,am33xx-intc", intc_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

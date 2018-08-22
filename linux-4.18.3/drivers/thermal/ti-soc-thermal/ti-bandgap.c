@@ -1635,3 +1635,4 @@ MODULE_DESCRIPTION("OMAP4+ bandgap temperature sensor driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:ti-soc-thermal");
 MODULE_AUTHOR("Texas Instrument Inc.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

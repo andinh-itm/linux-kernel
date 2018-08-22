@@ -344,3 +344,4 @@ int cx18_reset_tuner_gpio(void *dev, int component, int cmd, int value)
 	return v4l2_subdev_call(&cx->sd_resetctrl,
 				core, reset, CX18_GPIO_RESET_XC2028);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

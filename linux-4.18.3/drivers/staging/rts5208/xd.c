@@ -2346,3 +2346,4 @@ int release_xd_card(struct rtsx_chip *chip)
 
 	return STATUS_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

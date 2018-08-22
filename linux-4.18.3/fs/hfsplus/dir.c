@@ -581,3 +581,4 @@ const struct file_operations hfsplus_dir_operations = {
 	.llseek		= generic_file_llseek,
 	.release	= hfsplus_dir_release,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

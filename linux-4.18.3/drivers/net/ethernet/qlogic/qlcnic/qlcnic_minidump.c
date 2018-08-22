@@ -1449,3 +1449,4 @@ void qlcnic_83xx_get_minidump_template(struct qlcnic_adapter *adapter)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

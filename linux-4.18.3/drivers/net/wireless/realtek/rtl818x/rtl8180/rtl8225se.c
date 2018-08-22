@@ -473,3 +473,4 @@ const struct rtl818x_rf_ops *rtl8187se_detect_rf(struct ieee80211_hw *dev)
 {
 	return &rtl8225se_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

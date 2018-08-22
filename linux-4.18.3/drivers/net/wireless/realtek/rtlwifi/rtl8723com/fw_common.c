@@ -269,3 +269,4 @@ bool rtl8723_cmd_send_packet(struct ieee80211_hw *hw,
 	return true;
 }
 EXPORT_SYMBOL_GPL(rtl8723_cmd_send_packet);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

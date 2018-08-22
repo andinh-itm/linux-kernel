@@ -721,3 +721,4 @@ void acpi_ds_delete_walk_state(struct acpi_walk_state *walk_state)
 	ACPI_FREE(walk_state);
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1720,3 +1720,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Intel EG20T PCH/LAPIS Semiconductor ML7xxx IOH SPI Driver");
 MODULE_DEVICE_TABLE(pci, pch_spi_pcidev_id);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

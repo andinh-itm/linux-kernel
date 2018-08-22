@@ -257,3 +257,4 @@ struct dev_power_governor pm_domain_always_on_gov = {
 	.power_down_ok = always_on_power_down_ok,
 	.suspend_ok = default_suspend_ok,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

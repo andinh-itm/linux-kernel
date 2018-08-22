@@ -530,3 +530,4 @@ module_i2c_driver(max31790_driver);
 MODULE_AUTHOR("Il Han <corone.il.han@gmail.com>");
 MODULE_DESCRIPTION("MAX31790 sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

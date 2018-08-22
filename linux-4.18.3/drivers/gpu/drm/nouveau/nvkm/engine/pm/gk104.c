@@ -182,3 +182,4 @@ gk104_pm_new(struct nvkm_device *device, int index, struct nvkm_pm **ppm)
 {
 	return gf100_pm_new_(&gk104_pm, device, index, ppm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

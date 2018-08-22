@@ -644,3 +644,4 @@ void iwl_mvm_rx_chub_update_mcc(struct iwl_mvm *mvm,
 	regulatory_set_wiphy_regd(mvm->hw->wiphy, regd);
 	kfree(regd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

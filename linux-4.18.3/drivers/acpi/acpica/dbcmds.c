@@ -1144,3 +1144,4 @@ void acpi_db_trace(char *enable_arg, char *method_arg, char *once_arg)
 	(void)acpi_debug_trace(acpi_db_trace_method_name,
 			       debug_level, debug_layer, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

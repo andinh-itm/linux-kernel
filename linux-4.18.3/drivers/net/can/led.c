@@ -141,3 +141,4 @@ void __exit can_led_notifier_exit(void)
 {
 	unregister_netdevice_notifier(&can_netdev_notifier);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -56,3 +56,4 @@ void perf_gtk__init_helpline(void)
 {
 	helpline_fns = &gtk_helpline_fns;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

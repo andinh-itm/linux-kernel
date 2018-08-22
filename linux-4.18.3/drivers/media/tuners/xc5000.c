@@ -1477,3 +1477,4 @@ MODULE_DESCRIPTION("Xceive xc5000 silicon tuner driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(XC5000A_FIRMWARE);
 MODULE_FIRMWARE(XC5000C_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

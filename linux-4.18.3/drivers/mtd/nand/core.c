@@ -239,3 +239,4 @@ EXPORT_SYMBOL_GPL(nanddev_cleanup);
 MODULE_DESCRIPTION("Generic NAND framework");
 MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

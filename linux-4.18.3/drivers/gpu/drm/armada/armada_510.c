@@ -81,3 +81,4 @@ const struct armada_variant armada510_ops = {
 	.init = armada510_crtc_init,
 	.compute_clock = armada510_crtc_compute_clock,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

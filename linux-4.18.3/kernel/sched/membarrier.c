@@ -316,3 +316,4 @@ SYSCALL_DEFINE2(membarrier, int, cmd, int, flags)
 		return -EINVAL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

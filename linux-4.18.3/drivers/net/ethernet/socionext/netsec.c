@@ -1782,3 +1782,4 @@ MODULE_AUTHOR("Jassi Brar <jaswinder.singh@linaro.org>");
 MODULE_AUTHOR("Ard Biesheuvel <ard.biesheuvel@linaro.org>");
 MODULE_DESCRIPTION("NETSEC Ethernet driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

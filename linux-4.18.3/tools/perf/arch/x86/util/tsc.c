@@ -80,3 +80,4 @@ int perf_event__synth_time_conv(const struct perf_event_mmap_page *pc,
 
 	return process(tool, &event, NULL, machine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

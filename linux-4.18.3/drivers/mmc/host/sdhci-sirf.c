@@ -251,3 +251,4 @@ module_platform_driver(sdhci_sirf_driver);
 MODULE_DESCRIPTION("SDHCI driver for SiRFprimaII/SiRFmarco");
 MODULE_AUTHOR("Barry Song <21cnbao@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

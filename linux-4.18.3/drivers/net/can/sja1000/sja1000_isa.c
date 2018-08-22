@@ -321,3 +321,4 @@ static void __exit sja1000_isa_exit(void)
 
 module_init(sja1000_isa_init);
 module_exit(sja1000_isa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

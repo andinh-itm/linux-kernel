@@ -1026,3 +1026,4 @@ module_usb_driver(usb_8dev_driver);
 MODULE_AUTHOR("Bernd Krumboeck <krumboeck@universalnet.at>");
 MODULE_DESCRIPTION("CAN driver for 8 devices USB2CAN interfaces");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

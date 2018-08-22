@@ -1052,3 +1052,4 @@ const struct eeprom_ops eep_4k_ops = {
 	.get_spur_channel	= ath9k_hw_4k_get_spur_channel,
 	.get_eepmisc		= ath9k_hw_4k_get_eepmisc
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

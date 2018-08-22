@@ -682,3 +682,4 @@ unsigned long ext2_count_dirs (struct super_block * sb)
 	return count;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

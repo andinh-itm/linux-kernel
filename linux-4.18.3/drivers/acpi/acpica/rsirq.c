@@ -269,3 +269,4 @@ struct acpi_rsconvert_info acpi_rs_convert_fixed_dma[4] = {
 	 AML_OFFSET(fixed_dma.width),
 	 1},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

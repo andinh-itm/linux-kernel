@@ -62,3 +62,4 @@ int wcn36xx_enable_keep_alive_null_packet(struct wcn36xx *wcn,
 	return wcn36xx_smd_keep_alive_req(wcn, vif,
 					  WCN36XX_HAL_KEEP_ALIVE_NULL_PKT);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

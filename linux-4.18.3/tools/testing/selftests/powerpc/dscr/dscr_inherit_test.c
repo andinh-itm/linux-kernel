@@ -85,3 +85,4 @@ int main(int argc, char *argv[])
 {
 	return test_harness(dscr_inherit, "dscr_inherit_test");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

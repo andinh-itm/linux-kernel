@@ -185,3 +185,4 @@ int aa_sock_file_perm(struct aa_label *label, const char *op, u32 request,
 
 	return aa_label_sk_perm(label, op, request, sock->sk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

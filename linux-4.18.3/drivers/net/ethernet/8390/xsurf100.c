@@ -380,3 +380,4 @@ module_driver(xsurf100_driver, zorro_register_driver, zorro_unregister_driver);
 MODULE_DESCRIPTION("X-Surf 100 driver");
 MODULE_AUTHOR("Michael Karcher <kernel@mkarcher.dialup.fu-berlin.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

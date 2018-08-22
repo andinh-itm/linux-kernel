@@ -85,3 +85,4 @@ struct clk *tegra_clk_register_sync_source(const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

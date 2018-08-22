@@ -2746,3 +2746,4 @@ static unsigned char ns_phy_get(struct atm_dev *dev, unsigned long addr)
 
 module_init(nicstar_init);
 module_exit(nicstar_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

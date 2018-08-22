@@ -512,3 +512,4 @@ module_platform_driver(fsl_lpspi_driver);
 MODULE_DESCRIPTION("LPSPI Master Controller driver");
 MODULE_AUTHOR("Gao Pan <pandy.gao@nxp.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

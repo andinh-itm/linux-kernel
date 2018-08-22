@@ -520,3 +520,4 @@ COMPAT_SYSCALL_DEFINE6(s390_fallocate, int, fd, int, mode, u32, offhigh, u32, of
 	return ksys_fallocate(fd, mode, ((loff_t)offhigh << 32) + offlow,
 			      ((u64)lenhigh << 32) + lenlow);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

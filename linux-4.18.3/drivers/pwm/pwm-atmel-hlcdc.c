@@ -325,3 +325,4 @@ MODULE_ALIAS("platform:atmel-hlcdc-pwm");
 MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("Atmel HLCDC PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

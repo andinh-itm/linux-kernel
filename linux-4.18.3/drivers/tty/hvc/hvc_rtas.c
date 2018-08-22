@@ -108,3 +108,4 @@ static int __init hvc_rtas_console_init(void)
 	return 0;
 }
 console_initcall(hvc_rtas_console_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

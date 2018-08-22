@@ -1297,3 +1297,4 @@ COMPAT_SYSCALL_DEFINE4(ptrace, compat_long_t, request, compat_long_t, pid,
 	return ret;
 }
 #endif	/* CONFIG_COMPAT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

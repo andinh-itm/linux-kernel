@@ -203,3 +203,4 @@ MODULE_AUTHOR("Richard Genoud <richard.genoud@gmail.com>");
 MODULE_DESCRIPTION("ALSA SoC machine driver for AT91SAM9x5 - WM8731");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

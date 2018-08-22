@@ -363,3 +363,4 @@ module_platform_driver(spdif_driver);
 MODULE_AUTHOR("Jun Nie <jun.nie@linaro.org>");
 MODULE_DESCRIPTION("ZTE SPDIF SoC DAI");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

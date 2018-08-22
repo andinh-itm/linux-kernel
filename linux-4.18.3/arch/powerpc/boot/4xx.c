@@ -801,3 +801,4 @@ bypass:
 	dt_fixup_clock("/plb/opb/serial@ef600200", uart0);
 	dt_fixup_clock("/plb/opb/serial@ef600300", uart1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

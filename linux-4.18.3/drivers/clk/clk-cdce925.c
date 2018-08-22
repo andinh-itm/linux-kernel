@@ -810,3 +810,4 @@ module_i2c_driver(cdce925_driver);
 MODULE_AUTHOR("Mike Looijmans <mike.looijmans@topic.nl>");
 MODULE_DESCRIPTION("TI CDCE913/925/937/949 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

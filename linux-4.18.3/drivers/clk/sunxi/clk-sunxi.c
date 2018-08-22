@@ -1171,3 +1171,4 @@ static void __init sun6i_display_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(sun6i_display, "allwinner,sun6i-a31-display-clk",
 	       sun6i_display_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

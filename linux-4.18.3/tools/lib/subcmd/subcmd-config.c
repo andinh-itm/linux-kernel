@@ -10,3 +10,4 @@ struct subcmd_config subcmd_config = {
 	.exec_path_env	= UNDEFINED,
 	.pager_env	= UNDEFINED,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

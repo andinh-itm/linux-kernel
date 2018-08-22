@@ -273,3 +273,4 @@ module_i2c_driver(abp060mg_driver);
 MODULE_AUTHOR("Marcin Malagowski <mrc@bourne.st>");
 MODULE_DESCRIPTION("Honeywell ABP pressure sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

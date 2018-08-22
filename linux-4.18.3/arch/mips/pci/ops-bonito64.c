@@ -158,3 +158,4 @@ struct pci_ops bonito64_pci_ops = {
 	.read = bonito64_pcibios_read,
 	.write = bonito64_pcibios_write
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

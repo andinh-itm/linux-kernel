@@ -225,3 +225,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("greybus:audio-gb");
 MODULE_DESCRIPTION("Greybus Audio Device Class Protocol library");
 MODULE_AUTHOR("Mark Greer <mgreer@animalcreek.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

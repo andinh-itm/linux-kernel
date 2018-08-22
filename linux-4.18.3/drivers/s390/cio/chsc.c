@@ -1382,3 +1382,4 @@ int chsc_pnso_brinfo(struct subchannel_id schid,
 	return chsc_error_from_response(brinfo_area->response.code);
 }
 EXPORT_SYMBOL_GPL(chsc_pnso_brinfo);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

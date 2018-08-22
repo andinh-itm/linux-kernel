@@ -182,3 +182,4 @@ static int __init acpi_event_init(void)
 }
 
 fs_initcall(acpi_event_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

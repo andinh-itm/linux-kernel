@@ -238,3 +238,4 @@ module_i2c_driver(dmard06_driver);
 MODULE_AUTHOR("Aleksei Mamlin <mamlinav@gmail.com>");
 MODULE_DESCRIPTION("Domintech DMARD06 accelerometer driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

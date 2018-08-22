@@ -172,3 +172,4 @@ define_machine(ep88xc) {
 	.calibrate_decr = mpc8xx_calibrate_decr,
 	.progress = udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

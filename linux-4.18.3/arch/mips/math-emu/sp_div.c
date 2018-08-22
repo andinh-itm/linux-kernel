@@ -153,3 +153,4 @@ union ieee754sp ieee754sp_div(union ieee754sp x, union ieee754sp y)
 
 	return ieee754sp_format(xs == ys ? 0 : 1, re, rm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

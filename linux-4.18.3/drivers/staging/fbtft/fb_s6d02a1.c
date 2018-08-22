@@ -155,3 +155,4 @@ MODULE_ALIAS("platform:s6d02a1");
 MODULE_DESCRIPTION("FB driver for the S6D02A1 LCD Controller");
 MODULE_AUTHOR("WOLFGANG BUENING");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -184,3 +184,4 @@ void __init iop_init_time(unsigned long tick_rate)
 	write_tmr1(timer_ctl);
 	clocksource_register_hz(&iop_clocksource, tick_rate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

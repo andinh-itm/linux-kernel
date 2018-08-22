@@ -444,3 +444,4 @@ static struct pci_driver rtl92se_driver = {
 };
 
 module_pci_driver(rtl92se_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

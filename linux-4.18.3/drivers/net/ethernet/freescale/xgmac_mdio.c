@@ -328,3 +328,4 @@ module_platform_driver(xgmac_mdio_driver);
 
 MODULE_DESCRIPTION("Freescale QorIQ 10G MDIO Controller");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

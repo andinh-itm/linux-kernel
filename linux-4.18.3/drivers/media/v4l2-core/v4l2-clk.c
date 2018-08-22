@@ -322,3 +322,4 @@ void v4l2_clk_unregister_fixed(struct v4l2_clk *clk)
 	v4l2_clk_unregister(clk);
 }
 EXPORT_SYMBOL(v4l2_clk_unregister_fixed);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

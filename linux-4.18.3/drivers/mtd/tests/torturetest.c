@@ -492,3 +492,4 @@ static int countdiffs(unsigned char *buf, unsigned char *check_buf,
 MODULE_DESCRIPTION("Eraseblock torturing module");
 MODULE_AUTHOR("Artem Bityutskiy, Jarkko Lavinen, Adrian Hunter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -177,3 +177,4 @@ void mlxsw_sp_afa_fini(struct mlxsw_sp *mlxsw_sp)
 {
 	mlxsw_afa_destroy(mlxsw_sp->afa);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -517,3 +517,4 @@ module_platform_driver(pda_power_pdrv);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Anton Vorontsov <cbou@mail.ru>");
 MODULE_ALIAS("platform:pda-power");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

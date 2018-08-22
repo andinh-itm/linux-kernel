@@ -318,3 +318,4 @@ const struct snd_bebob_spec saffire_spec = {
 	.rate	= &saffire_both_rate_spec,
 	.meter	= &saffire_meter_spec
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

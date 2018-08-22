@@ -709,3 +709,4 @@ isdn_audio_eval_silence(modem_info *info)
 		isdn_audio_put_dle_code(info, what);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

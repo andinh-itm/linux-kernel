@@ -1519,3 +1519,4 @@ bool esas2r_fm_api(struct esas2r_adapter *a, struct esas2r_flash_img *fi,
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

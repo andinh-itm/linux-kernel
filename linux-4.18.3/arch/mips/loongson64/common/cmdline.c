@@ -46,3 +46,4 @@ void __init prom_init_cmdline(void)
 
 	prom_init_machtype();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

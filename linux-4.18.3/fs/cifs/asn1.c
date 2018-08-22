@@ -621,3 +621,4 @@ decode_negTokenInit(unsigned char *security_blob, int length,
 	 */
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

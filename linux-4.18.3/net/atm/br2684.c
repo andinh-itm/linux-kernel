@@ -867,3 +867,4 @@ module_exit(br2684_exit);
 MODULE_AUTHOR("Marcell GAL");
 MODULE_DESCRIPTION("RFC2684 bridged protocols over ATM/AAL5");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

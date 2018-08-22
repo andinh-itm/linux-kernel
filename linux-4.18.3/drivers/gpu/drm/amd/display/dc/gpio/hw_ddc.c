@@ -230,3 +230,4 @@ struct hw_gpio_pin *dal_hw_ddc_create(
 	construct(pin, id, en, ctx);
 	return &pin->base.base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

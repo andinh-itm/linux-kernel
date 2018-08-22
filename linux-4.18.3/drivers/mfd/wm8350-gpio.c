@@ -220,3 +220,4 @@ err:
 	return -EIO;
 }
 EXPORT_SYMBOL_GPL(wm8350_gpio_config);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

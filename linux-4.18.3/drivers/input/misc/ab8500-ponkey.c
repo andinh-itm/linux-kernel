@@ -132,3 +132,4 @@ module_platform_driver(ab8500_ponkey_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Sundar Iyer <sundar.iyer@stericsson.com>");
 MODULE_DESCRIPTION("ST-Ericsson AB8500 Power-ON(Pon) Key driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

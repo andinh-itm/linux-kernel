@@ -2459,3 +2459,4 @@ void intel_vgpu_reset_gtt(struct intel_vgpu *vgpu)
 	intel_vgpu_destroy_all_ppgtt_mm(vgpu);
 	intel_vgpu_reset_ggtt(vgpu, true);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

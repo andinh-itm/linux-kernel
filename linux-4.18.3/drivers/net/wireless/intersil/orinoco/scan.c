@@ -257,3 +257,4 @@ void orinoco_scan_done(struct orinoco_private *priv, bool abort)
 		priv->scan_request = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

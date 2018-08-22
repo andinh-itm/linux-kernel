@@ -690,3 +690,4 @@ module_platform_driver(olpc_battery_driver);
 MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Battery driver for One Laptop Per Child 'XO' machine");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

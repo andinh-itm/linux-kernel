@@ -108,3 +108,4 @@ static int tsl2[8] = {
 	0 * TSL_SDW_A2 | 1 * TSL_BSEL_A2 | 2 * TSL_DOD_A2 | TSL_WS2,
 	0 * TSL_SDW_A2 | 0 * TSL_BSEL_A2 | 2 * TSL_DOD_A2 | TSL_WS2 | TSL_EOS
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

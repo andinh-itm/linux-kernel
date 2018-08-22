@@ -390,3 +390,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mariusz Bialonczyk <manio@skyboo.net>");
 MODULE_DESCRIPTION("1-wire driver for Maxim/Dallas DS2438 Smart Battery Monitor");
 MODULE_ALIAS("w1-family-" __stringify(W1_FAMILY_DS2438));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

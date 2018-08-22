@@ -1084,3 +1084,4 @@ err_tx:
 	return ret;
 }
 EXPORT_SYMBOL_GPL(spi_test_run_tests);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

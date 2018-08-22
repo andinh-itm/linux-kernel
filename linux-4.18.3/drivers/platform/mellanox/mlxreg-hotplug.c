@@ -664,3 +664,4 @@ MODULE_AUTHOR("Vadim Pasternak <vadimp@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox regmap hotplug platform driver");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("platform:mlxreg-hotplug");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

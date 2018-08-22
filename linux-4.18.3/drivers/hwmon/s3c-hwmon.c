@@ -389,3 +389,4 @@ MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>");
 MODULE_DESCRIPTION("S3C ADC HWMon driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:s3c-hwmon");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -413,3 +413,4 @@ void sst_add_to_dispatch_list_and_post(struct intel_sst_drv *sst,
 	spin_unlock_irqrestore(&sst->ipc_spin_lock, irq_flags);
 	sst->ops->post_message(sst, NULL, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

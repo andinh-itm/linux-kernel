@@ -79,3 +79,4 @@ struct omap_hwmod_class omap2_hdq1w_class = {
 	.sysc	= &omap2_hdq1w_sysc,
 	.reset	= &omap_hdq1w_reset,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

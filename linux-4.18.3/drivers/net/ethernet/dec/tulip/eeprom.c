@@ -380,3 +380,4 @@ int tulip_read_eeprom(struct net_device *dev, int location, int addr_len)
 	return (tp->flags & HAS_SWAPPED_SEEPROM) ? swab16(retval) : retval;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

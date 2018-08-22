@@ -2560,3 +2560,4 @@ EXPORT_SYMBOL(pmu_batteries);
 EXPORT_SYMBOL(pmu_power_flags);
 #endif /* CONFIG_SUSPEND && CONFIG_PPC32 */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

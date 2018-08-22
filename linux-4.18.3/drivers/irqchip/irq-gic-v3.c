@@ -1648,3 +1648,4 @@ IRQCHIP_ACPI_DECLARE(gic_v3_or_v4, ACPI_MADT_TYPE_GENERIC_DISTRIBUTOR,
 		     acpi_validate_gic_table, ACPI_MADT_GIC_VERSION_NONE,
 		     gic_acpi_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -171,3 +171,4 @@ void mga_driver_irq_uninstall(struct drm_device *dev)
 
 	dev->irq_enabled = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

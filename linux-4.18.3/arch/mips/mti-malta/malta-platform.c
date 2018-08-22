@@ -73,3 +73,4 @@ static int __init malta_add_devices(void)
 }
 
 device_initcall(malta_add_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

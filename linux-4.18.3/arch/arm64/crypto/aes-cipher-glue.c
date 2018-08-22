@@ -67,3 +67,4 @@ MODULE_DESCRIPTION("Scalar AES cipher for arm64");
 MODULE_AUTHOR("Ard Biesheuvel <ard.biesheuvel@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS_CRYPTO("aes");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

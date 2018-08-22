@@ -289,3 +289,4 @@ static int __init vexpress_syscfg_init(void)
 	return platform_driver_register(&vexpress_syscfg_driver);
 }
 core_initcall(vexpress_syscfg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

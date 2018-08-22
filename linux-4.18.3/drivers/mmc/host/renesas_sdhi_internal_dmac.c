@@ -317,3 +317,4 @@ module_platform_driver(renesas_internal_dmac_sdhi_driver);
 MODULE_DESCRIPTION("Renesas SDHI driver for internal DMAC");
 MODULE_AUTHOR("Yoshihiro Shimoda");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

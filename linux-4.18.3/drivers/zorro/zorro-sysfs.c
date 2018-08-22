@@ -121,3 +121,4 @@ const struct attribute_group *zorro_device_attribute_groups[] = {
 	&zorro_device_attr_group,
 	NULL
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

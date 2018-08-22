@@ -314,3 +314,4 @@ void usbip_names_get_class(char *buff, size_t size, uint8_t class,
 
 	snprintf(buff, size, "%s / %s / %s (%02x/%02x/%02x)", c, s, p, class, subclass, protocol);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

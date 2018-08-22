@@ -129,3 +129,4 @@ void __init gt641xx_irq_init(void)
 		irq_set_chip_and_handler(GT641XX_IRQ_BASE + i,
 					 &gt641xx_irq_chip, handle_level_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

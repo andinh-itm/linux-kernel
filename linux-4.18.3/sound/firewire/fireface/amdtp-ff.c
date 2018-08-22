@@ -153,3 +153,4 @@ int amdtp_ff_init(struct amdtp_stream *s, struct fw_unit *unit,
 	return amdtp_stream_init(s, unit, dir, CIP_NO_HEADER, 0,
 				 process_data_blocks, sizeof(struct amdtp_ff));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

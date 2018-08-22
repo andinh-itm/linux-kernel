@@ -440,3 +440,4 @@ static void __exit intel_hid_exit(void)
 	platform_driver_unregister(&intel_hid_pl_driver);
 }
 module_exit(intel_hid_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

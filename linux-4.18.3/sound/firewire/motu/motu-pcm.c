@@ -392,3 +392,4 @@ int snd_motu_create_pcm_devices(struct snd_motu *motu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

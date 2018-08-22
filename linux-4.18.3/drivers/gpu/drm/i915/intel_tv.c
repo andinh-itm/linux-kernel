@@ -1567,3 +1567,4 @@ intel_tv_init(struct drm_i915_private *dev_priv)
 				   dev->mode_config.tv_bottom_margin_property,
 				   state->tv.margins.bottom);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

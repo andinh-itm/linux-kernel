@@ -294,3 +294,4 @@ static struct apic apic_physflat __ro_after_init = {
  * We need to check for physflat first, so this order is important.
  */
 apic_drivers(apic_physflat, apic_flat);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

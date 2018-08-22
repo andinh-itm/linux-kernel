@@ -200,3 +200,4 @@ void __init tomoyo_mm_init(void)
 	tomoyo_kernel_domain.domainname = tomoyo_get_name("<kernel>");
 	list_add_tail_rcu(&tomoyo_kernel_domain.list, &tomoyo_domain_list);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

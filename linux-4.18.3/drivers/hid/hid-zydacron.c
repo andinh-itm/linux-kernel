@@ -209,3 +209,4 @@ static struct hid_driver zc_driver = {
 module_hid_driver(zc_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

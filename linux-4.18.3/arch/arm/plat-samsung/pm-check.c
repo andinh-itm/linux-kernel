@@ -231,3 +231,4 @@ void s3c_pm_check_cleanup(void)
 	crcs = NULL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

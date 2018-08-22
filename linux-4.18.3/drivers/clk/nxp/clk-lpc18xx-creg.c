@@ -226,3 +226,4 @@ static struct platform_driver lpc18xx_creg_clk_driver = {
 	},
 };
 builtin_platform_driver(lpc18xx_creg_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -101,3 +101,4 @@ MACHINE_START(TETON_BGA, "PXA168-based Teton BGA Development Platform")
 	.init_machine   = teton_bga_init,
 	.restart	= pxa168_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

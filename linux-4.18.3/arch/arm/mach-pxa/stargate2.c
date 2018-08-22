@@ -1030,3 +1030,4 @@ MACHINE_START(STARGATE2, "Stargate 2")
 	.restart	= pxa_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

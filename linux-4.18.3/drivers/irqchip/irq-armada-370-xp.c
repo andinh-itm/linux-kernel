@@ -712,3 +712,4 @@ static int __init armada_370_xp_mpic_of_init(struct device_node *node,
 }
 
 IRQCHIP_DECLARE(armada_370_xp_mpic, "marvell,mpic", armada_370_xp_mpic_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

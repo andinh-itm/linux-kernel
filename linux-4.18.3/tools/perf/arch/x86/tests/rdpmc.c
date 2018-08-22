@@ -178,3 +178,4 @@ int test__rdpmc(struct test *test __maybe_unused, int subtest __maybe_unused)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

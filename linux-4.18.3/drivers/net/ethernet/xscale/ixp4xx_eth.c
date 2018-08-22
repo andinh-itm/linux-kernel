@@ -1514,3 +1514,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:ixp4xx_eth");
 module_init(eth_init_module);
 module_exit(eth_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -314,3 +314,4 @@ static void __exit diag288_exit(void)
 
 module_init(diag288_init);
 module_exit(diag288_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -777,3 +777,4 @@ char *sym_nvram_type(struct sym_nvram *nvp)
 		return "No NVRAM";
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

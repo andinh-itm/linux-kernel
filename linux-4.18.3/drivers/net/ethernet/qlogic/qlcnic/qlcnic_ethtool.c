@@ -1890,3 +1890,4 @@ const struct ethtool_ops qlcnic_ethtool_failed_ops = {
 	.set_dump		= qlcnic_set_dump,
 	.get_link_ksettings	= qlcnic_get_link_ksettings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

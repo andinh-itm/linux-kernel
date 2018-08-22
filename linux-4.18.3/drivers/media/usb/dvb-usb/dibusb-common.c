@@ -400,3 +400,4 @@ ret:
 	return ret;
 }
 EXPORT_SYMBOL(dibusb_rc_query);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -631,3 +631,4 @@ u16 nvmet_parse_admin_cmd(struct nvmet_req *req)
 	       req->sq->qid);
 	return NVME_SC_INVALID_OPCODE | NVME_SC_DNR;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

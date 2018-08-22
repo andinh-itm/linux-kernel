@@ -48,3 +48,4 @@ static int __init mcf_setup_reset(void)
 }
 
 arch_initcall(mcf_setup_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

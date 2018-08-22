@@ -1055,3 +1055,4 @@ struct lcd_ctrl hwa742_ctrl = {
 	.resume			= hwa742_resume,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

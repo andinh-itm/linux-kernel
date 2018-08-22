@@ -320,3 +320,4 @@ MODULE_DESCRIPTION("Digital Devices PCIe Bridge");
 MODULE_AUTHOR("Ralph and Marcus Metzler, Metzler Brothers Systementwicklung GbR");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DDBRIDGE_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

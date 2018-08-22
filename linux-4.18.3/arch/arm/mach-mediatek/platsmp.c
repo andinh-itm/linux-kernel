@@ -150,3 +150,4 @@ static const struct smp_operations mt6589_smp_ops __initconst = {
 	.smp_boot_secondary = mtk_boot_secondary,
 };
 CPU_METHOD_OF_DECLARE(mt6589_smp, "mediatek,mt6589-smp", &mt6589_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

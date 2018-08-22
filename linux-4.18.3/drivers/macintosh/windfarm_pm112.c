@@ -711,3 +711,4 @@ MODULE_AUTHOR("Paul Mackerras <paulus@samba.org>");
 MODULE_DESCRIPTION("Thermal control for PowerMac11,2");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:windfarm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

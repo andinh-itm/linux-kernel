@@ -86,3 +86,4 @@ module_exit(max7300_exit);
 MODULE_AUTHOR("Wolfram Sang");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MAX7300 GPIO-Expander");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

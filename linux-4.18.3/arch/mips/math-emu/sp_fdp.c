@@ -84,3 +84,4 @@ union ieee754sp ieee754sp_fdp(union ieee754dp x)
 
 	return ieee754sp_format(xs, xe, rm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

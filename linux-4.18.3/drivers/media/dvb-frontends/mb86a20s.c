@@ -2129,3 +2129,4 @@ static const struct dvb_frontend_ops mb86a20s_ops = {
 MODULE_DESCRIPTION("DVB Frontend module for Fujitsu mb86A20s hardware");
 MODULE_AUTHOR("Mauro Carvalho Chehab");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

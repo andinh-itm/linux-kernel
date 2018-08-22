@@ -168,3 +168,4 @@ module_platform_driver(ls1x_wdt_driver);
 MODULE_AUTHOR("Yang Ling <gnaygnil@gmail.com>");
 MODULE_DESCRIPTION("Loongson1 Watchdog Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

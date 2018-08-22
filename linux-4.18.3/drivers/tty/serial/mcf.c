@@ -703,3 +703,4 @@ MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mcfuart");
 
 /****************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

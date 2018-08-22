@@ -243,3 +243,4 @@ acpi_ex_resolve_node_to_value(struct acpi_namespace_node **object_ptr,
 	*object_ptr = (void *)obj_desc;
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

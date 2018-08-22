@@ -684,3 +684,4 @@ MODULE_AUTHOR("David Dajun Chen <dchen@diasemi.com>");
 MODULE_DESCRIPTION("Power Regulator driver for Dialog DA9055 PMIC");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9055-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

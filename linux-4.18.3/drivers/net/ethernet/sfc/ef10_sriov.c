@@ -759,3 +759,4 @@ int efx_ef10_sriov_get_vf_config(struct efx_nic *efx, int vf_i,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

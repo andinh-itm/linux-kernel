@@ -540,3 +540,4 @@ struct op_x86_model_spec op_amd_spec = {
 	.switch_ctrl		= &op_mux_switch_ctrl,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

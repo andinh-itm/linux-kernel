@@ -99,3 +99,4 @@ void ibmasm_receive_heartbeat(struct service_processor *sp,  void *message, size
 	header->type = sp_write;
 	ibmasm_exec_command(sp, cmd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

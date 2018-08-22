@@ -287,3 +287,4 @@ void hns_roce_free_cmd_mailbox(struct hns_roce_dev *hr_dev,
 	kfree(mailbox);
 }
 EXPORT_SYMBOL_GPL(hns_roce_free_cmd_mailbox);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

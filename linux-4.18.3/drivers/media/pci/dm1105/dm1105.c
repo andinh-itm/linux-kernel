@@ -1238,3 +1238,4 @@ module_pci_driver(dm1105_driver);
 MODULE_AUTHOR("Igor M. Liplianin <liplianin@me.by>");
 MODULE_DESCRIPTION("SDMC DM1105 DVB driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

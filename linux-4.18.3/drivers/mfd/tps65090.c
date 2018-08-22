@@ -278,3 +278,4 @@ module_exit(tps65090_exit);
 MODULE_DESCRIPTION("TPS65090 core driver");
 MODULE_AUTHOR("Venu Byravarasu <vbyravarasu@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

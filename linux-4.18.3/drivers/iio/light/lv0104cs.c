@@ -529,3 +529,4 @@ module_i2c_driver(lv0104cs_i2c_driver);
 MODULE_AUTHOR("Jeff LaBundy <jeff@labundy.com>");
 MODULE_DESCRIPTION("LV0104CS Ambient Light Sensor Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

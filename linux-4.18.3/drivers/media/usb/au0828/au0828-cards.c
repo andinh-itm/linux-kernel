@@ -354,3 +354,4 @@ struct usb_device_id au0828_usb_id_table[] = {
 };
 
 MODULE_DEVICE_TABLE(usb, au0828_usb_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

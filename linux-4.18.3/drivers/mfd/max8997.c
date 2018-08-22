@@ -507,3 +507,4 @@ static int __init max8997_i2c_init(void)
 }
 /* init early so consumer devices can complete system boot */
 subsys_initcall(max8997_i2c_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

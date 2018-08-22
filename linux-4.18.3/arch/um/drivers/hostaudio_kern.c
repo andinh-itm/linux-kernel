@@ -352,3 +352,4 @@ static void __exit hostaudio_cleanup_module (void)
 
 module_init(hostaudio_init_module);
 module_exit(hostaudio_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

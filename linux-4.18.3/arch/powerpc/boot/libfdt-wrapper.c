@@ -197,3 +197,4 @@ void fdt_init(void *blob)
 
 	fdt = buf;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

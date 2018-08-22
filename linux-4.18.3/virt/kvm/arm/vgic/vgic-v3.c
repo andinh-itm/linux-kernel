@@ -689,3 +689,4 @@ void vgic_v3_put(struct kvm_vcpu *vcpu)
 	if (has_vhe())
 		__vgic_v3_deactivate_traps(vcpu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

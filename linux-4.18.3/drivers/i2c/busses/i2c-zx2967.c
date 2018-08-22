@@ -607,3 +607,4 @@ module_platform_driver(zx2967_i2c_driver);
 MODULE_AUTHOR("Baoyou Xie <baoyou.xie@linaro.org>");
 MODULE_DESCRIPTION("ZTE ZX2967 I2C Bus Controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

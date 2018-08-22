@@ -1284,3 +1284,4 @@ unsigned long hid_lookup_quirk(const struct hid_device *hdev)
 	return quirks;
 }
 EXPORT_SYMBOL_GPL(hid_lookup_quirk);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

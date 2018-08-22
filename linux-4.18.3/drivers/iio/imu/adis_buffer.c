@@ -169,3 +169,4 @@ void adis_cleanup_buffer_and_trigger(struct adis *adis,
 	iio_triggered_buffer_cleanup(indio_dev);
 }
 EXPORT_SYMBOL_GPL(adis_cleanup_buffer_and_trigger);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

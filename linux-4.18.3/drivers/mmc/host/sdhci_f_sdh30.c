@@ -264,3 +264,4 @@ MODULE_DESCRIPTION("F_SDH30 SD Card Controller driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("FUJITSU SEMICONDUCTOR LTD.");
 MODULE_ALIAS("platform:f_sdh30");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

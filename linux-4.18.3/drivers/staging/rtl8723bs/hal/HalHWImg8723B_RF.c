@@ -788,3 +788,4 @@ void ODM_ReadAndConfig_MP_8723B_TXPWR_LMT(PDM_ODM_T pDM_Odm)
 		);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

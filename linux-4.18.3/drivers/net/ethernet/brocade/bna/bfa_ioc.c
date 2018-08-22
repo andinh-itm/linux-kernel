@@ -3381,3 +3381,4 @@ bfa_nw_flash_read_part(struct bfa_flash *flash, u32 type, u8 instance,
 
 	return BFA_STATUS_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

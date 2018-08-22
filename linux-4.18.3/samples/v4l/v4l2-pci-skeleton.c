@@ -911,3 +911,4 @@ static struct pci_driver skeleton_driver = {
 };
 
 module_pci_driver(skeleton_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

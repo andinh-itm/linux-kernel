@@ -451,3 +451,4 @@ MODULE_DESCRIPTION("Moxa C101 serial port driver");
 MODULE_LICENSE("GPL v2");
 module_param(hw, charp, 0444);
 MODULE_PARM_DESC(hw, "irq,ram:irq,...");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

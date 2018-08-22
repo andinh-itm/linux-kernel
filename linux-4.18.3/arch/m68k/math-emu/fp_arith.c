@@ -699,3 +699,4 @@ fp_fscale(struct fp_ext *dest, struct fp_ext *src)
 	return dest;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

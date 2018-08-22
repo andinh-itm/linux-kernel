@@ -805,3 +805,4 @@ const struct config_item_type iscsi_stat_sess_cit = {
 	.ct_attrs		= iscsi_stat_sess_stats_attrs,
 	.ct_owner		= THIS_MODULE,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

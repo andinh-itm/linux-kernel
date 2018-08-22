@@ -746,3 +746,4 @@ static int __init vt8500_serial_init(void)
 	return ret;
 }
 device_initcall(vt8500_serial_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

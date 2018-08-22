@@ -1073,3 +1073,4 @@ module_exit(cleanup_ftl);
 MODULE_LICENSE("Dual MPL/GPL");
 MODULE_AUTHOR("David Hinds <dahinds@users.sourceforge.net>");
 MODULE_DESCRIPTION("Support code for Flash Translation Layer, used on PCMCIA devices");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

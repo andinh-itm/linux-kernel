@@ -49,3 +49,4 @@ _braille_unregister_console(struct console *console)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

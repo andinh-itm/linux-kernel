@@ -3702,3 +3702,4 @@ void bnx2x_set_ethtool_ops(struct bnx2x *bp, struct net_device *netdev)
 	netdev->ethtool_ops = (IS_PF(bp)) ?
 		&bnx2x_ethtool_ops : &bnx2x_vf_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

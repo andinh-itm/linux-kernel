@@ -649,3 +649,4 @@ static void gdth_wait_completion(gdth_ha_str *ha, int busnum, int id)
     }
     spin_unlock_irqrestore(&ha->smp_lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

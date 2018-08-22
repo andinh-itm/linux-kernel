@@ -893,3 +893,4 @@ module_platform_driver(mtk_i2c_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MediaTek I2C Bus Driver");
 MODULE_AUTHOR("Xudong Chen <xudong.chen@mediatek.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

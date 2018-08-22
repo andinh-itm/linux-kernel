@@ -101,3 +101,4 @@ void machine_crash_shutdown(struct pt_regs *regs)
 	machine_ops.crash_shutdown(regs);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -167,3 +167,4 @@ static int __init gcov_init(void)
 }
 device_initcall(gcov_init);
 #endif /* CONFIG_MODULES */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

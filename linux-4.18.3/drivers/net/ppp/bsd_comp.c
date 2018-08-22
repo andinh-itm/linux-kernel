@@ -1168,3 +1168,4 @@ module_init(bsdcomp_init);
 module_exit(bsdcomp_cleanup);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("ppp-compress-" __stringify(CI_BSD_COMPRESS));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

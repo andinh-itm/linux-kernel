@@ -4944,3 +4944,4 @@ struct llc_conn_state llc_conn_state_table[NBR_CONN_STATES] = {
 		.transitions	= llc_temp_state_transitions,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

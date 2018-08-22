@@ -401,3 +401,4 @@ module_platform_driver(exynos_rng_driver);
 MODULE_DESCRIPTION("Exynos H/W Random Number Generator driver");
 MODULE_AUTHOR("Krzysztof Kozlowski <krzk@kernel.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

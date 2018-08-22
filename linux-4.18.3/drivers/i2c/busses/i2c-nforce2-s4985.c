@@ -247,3 +247,4 @@ MODULE_LICENSE("GPL");
 
 module_init(nforce2_s4985_init);
 module_exit(nforce2_s4985_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

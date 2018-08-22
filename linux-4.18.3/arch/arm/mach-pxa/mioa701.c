@@ -782,3 +782,4 @@ MACHINE_START(MIOA701, "MIO A701")
 	.init_time	= pxa_timer_init,
 	.restart	= mioa701_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

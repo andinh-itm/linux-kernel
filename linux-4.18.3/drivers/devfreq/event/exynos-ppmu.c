@@ -679,3 +679,4 @@ module_platform_driver(exynos_ppmu_driver);
 MODULE_DESCRIPTION("Exynos PPMU(Platform Performance Monitoring Unit) driver");
 MODULE_AUTHOR("Chanwoo Choi <cw00.choi@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

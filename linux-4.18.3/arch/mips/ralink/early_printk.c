@@ -87,3 +87,4 @@ void prom_putchar(unsigned char ch)
 			;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

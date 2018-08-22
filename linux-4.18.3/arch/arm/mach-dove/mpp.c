@@ -160,3 +160,4 @@ void __init dove_mpp_conf(unsigned int *mpp_list,
 
 	dove_mpp_dump_regs();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

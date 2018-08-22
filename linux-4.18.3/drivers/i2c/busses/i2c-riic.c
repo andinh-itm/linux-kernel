@@ -488,3 +488,4 @@ MODULE_DESCRIPTION("Renesas RIIC adapter");
 MODULE_AUTHOR("Wolfram Sang <wsa@sang-engineering.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, riic_i2c_dt_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

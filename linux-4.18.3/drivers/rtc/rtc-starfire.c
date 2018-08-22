@@ -56,3 +56,4 @@ static struct platform_driver starfire_rtc_driver = {
 };
 
 builtin_platform_driver_probe(starfire_rtc_driver, starfire_rtc_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

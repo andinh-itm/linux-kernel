@@ -144,3 +144,4 @@ void decompress_kernel(void)
 	cache_control(CACHE_DISABLE);
 	puts("Ok, booting the kernel.\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

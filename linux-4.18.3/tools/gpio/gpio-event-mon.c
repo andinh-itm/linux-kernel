@@ -192,3 +192,4 @@ int main(int argc, char **argv)
 	return monitor_device(device_name, line, handleflags,
 			      eventflags, loops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

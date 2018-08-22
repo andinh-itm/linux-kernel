@@ -679,3 +679,4 @@ int ath9k_hw_eeprom_init(struct ath_hw *ah)
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

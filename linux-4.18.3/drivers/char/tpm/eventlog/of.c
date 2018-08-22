@@ -79,3 +79,4 @@ int tpm_read_log_of(struct tpm_chip *chip)
 		return EFI_TCG2_EVENT_LOG_FORMAT_TCG_2;
 	return EFI_TCG2_EVENT_LOG_FORMAT_TCG_1_2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

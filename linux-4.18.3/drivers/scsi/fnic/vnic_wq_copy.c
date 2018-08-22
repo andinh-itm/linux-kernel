@@ -115,3 +115,4 @@ void vnic_wq_copy_init(struct vnic_wq_copy *wq, unsigned int cq_index,
 	iowrite32(error_interrupt_offset, &wq->ctrl->error_interrupt_offset);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

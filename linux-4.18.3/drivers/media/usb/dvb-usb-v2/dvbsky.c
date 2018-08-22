@@ -814,3 +814,4 @@ module_usb_driver(dvbsky_usb_driver);
 MODULE_AUTHOR("Max nibble <nibble.max@gmail.com>");
 MODULE_DESCRIPTION("Driver for DVBSky USB");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

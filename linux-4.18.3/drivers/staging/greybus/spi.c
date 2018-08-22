@@ -76,3 +76,4 @@ static struct gbphy_driver spi_driver = {
 
 module_gbphy_driver(spi_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -28,3 +28,4 @@ void initregs(struct biosregs *reg)
 	reg->fs = fs();
 	reg->gs = gs();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

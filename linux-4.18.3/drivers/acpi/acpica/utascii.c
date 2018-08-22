@@ -104,3 +104,4 @@ void acpi_ut_check_and_repair_ascii(u8 *name, char *repaired_name, u32 count)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

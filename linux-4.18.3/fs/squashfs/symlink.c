@@ -122,3 +122,4 @@ const struct inode_operations squashfs_symlink_inode_ops = {
 	.listxattr = squashfs_listxattr
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -326,3 +326,4 @@ nvkm_volt_new_(const struct nvkm_volt_func *func, struct nvkm_device *device,
 	nvkm_volt_ctor(func, device, index, *pvolt);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

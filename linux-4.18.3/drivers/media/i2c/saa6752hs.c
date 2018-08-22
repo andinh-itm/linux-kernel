@@ -801,3 +801,4 @@ static struct i2c_driver saa6752hs_driver = {
 };
 
 module_i2c_driver(saa6752hs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

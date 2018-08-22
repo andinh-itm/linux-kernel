@@ -194,3 +194,4 @@ void coldfire_profile_init(void)
 /***************************************************************************/
 #endif	/* CONFIG_HIGHPROFILE */
 /***************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

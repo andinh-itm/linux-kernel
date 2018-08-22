@@ -163,3 +163,4 @@ u32 si_pmu_measure_alpclk(struct si_pub *sih)
 
 	return alp_khz;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

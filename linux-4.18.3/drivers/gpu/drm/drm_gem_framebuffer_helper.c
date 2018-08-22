@@ -326,3 +326,4 @@ drm_gem_fbdev_fb_create(struct drm_device *dev,
 	return drm_gem_fb_alloc(dev, &mode_cmd, &obj, 1, funcs);
 }
 EXPORT_SYMBOL(drm_gem_fbdev_fb_create);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

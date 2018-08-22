@@ -196,3 +196,4 @@ void __init rbtx4927_irq_setup(void)
 	/* Onboard 10M Ether: High Active */
 	irq_set_irq_type(RBTX4927_RTL_8019_IRQ, IRQF_TRIGGER_HIGH);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

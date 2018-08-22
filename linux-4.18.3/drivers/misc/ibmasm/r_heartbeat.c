@@ -97,3 +97,4 @@ void ibmasm_stop_reverse_heartbeat(struct reverse_heartbeat *rhb)
 	rhb->stopped = 1;
 	wake_up_interruptible(&rhb->wait);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

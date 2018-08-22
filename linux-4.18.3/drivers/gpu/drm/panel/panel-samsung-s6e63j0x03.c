@@ -530,3 +530,4 @@ MODULE_AUTHOR("Inki Dae <inki.dae@samsung.com>");
 MODULE_AUTHOR("Hoegeun Kwon <hoegeun.kwon@samsung.com>");
 MODULE_DESCRIPTION("MIPI-DSI based s6e63j0x03 AMOLED LCD Panel Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

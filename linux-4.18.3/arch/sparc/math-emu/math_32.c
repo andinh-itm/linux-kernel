@@ -513,3 +513,4 @@ static int do_one_mathemu(u32 insn, unsigned long *pfsr, unsigned long *fregs)
 		return 1;				/* success! */
 	return record_exception(pfsr, _fex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

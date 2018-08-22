@@ -230,3 +230,4 @@ nvbios_dpcfg_match(struct nvkm_bios *bios, u16 outp, u8 pc, u8 vs, u8 pe,
 
 	return nvbios_dpcfg_parse(bios, outp, idx, ver, hdr, cnt, len, info);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

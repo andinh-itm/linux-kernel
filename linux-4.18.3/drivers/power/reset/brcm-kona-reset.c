@@ -71,3 +71,4 @@ static struct platform_driver bcm_kona_reset_driver = {
 };
 
 builtin_platform_driver(bcm_kona_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

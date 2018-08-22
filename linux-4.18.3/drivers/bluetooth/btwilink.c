@@ -348,3 +348,4 @@ MODULE_AUTHOR("Raja Mani <raja_mani@ti.com>");
 MODULE_DESCRIPTION("Bluetooth Driver for TI Shared Transport" VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

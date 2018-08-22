@@ -2531,3 +2531,4 @@ MODULE_DESCRIPTION("HISILICON HNS Ethernet driver");
 MODULE_AUTHOR("Hisilicon, Inc.");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:hns-nic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

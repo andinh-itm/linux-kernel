@@ -327,3 +327,4 @@ double block_range__coverage(struct block_range *br)
 
 	return (double)br->coverage / symbol__annotation(sym)->max_coverage;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

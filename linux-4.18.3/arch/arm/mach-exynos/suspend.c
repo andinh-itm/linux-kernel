@@ -654,3 +654,4 @@ void __init exynos_pm_init(void)
 	register_syscore_ops(&exynos_pm_syscore_ops);
 	suspend_set_ops(&exynos_suspend_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

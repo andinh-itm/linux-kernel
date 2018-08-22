@@ -242,3 +242,4 @@ EXPORT_SYMBOL_GPL(rl6231_get_clk_info);
 MODULE_DESCRIPTION("RL6231 class device shared support");
 MODULE_AUTHOR("Oder Chiou <oder_chiou@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

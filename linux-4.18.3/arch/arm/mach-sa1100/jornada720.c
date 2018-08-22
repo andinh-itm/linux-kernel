@@ -370,3 +370,4 @@ MACHINE_START(JORNADA720, "HP Jornada 720")
 #endif
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

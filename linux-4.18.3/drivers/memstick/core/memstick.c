@@ -652,3 +652,4 @@ module_exit(memstick_exit);
 MODULE_AUTHOR("Alex Dubov");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Sony MemoryStick core driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

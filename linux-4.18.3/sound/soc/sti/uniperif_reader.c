@@ -434,3 +434,4 @@ int uni_reader_init(struct platform_device *pdev,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(uni_reader_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

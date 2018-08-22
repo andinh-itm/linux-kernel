@@ -30,3 +30,4 @@ gp102_disp_oimm_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	return nv50_disp_oimm_new_(&gf119_disp_pioc_func, disp, 9, 13,
 				   oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

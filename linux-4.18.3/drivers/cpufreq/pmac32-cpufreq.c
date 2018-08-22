@@ -689,3 +689,4 @@ out:
 
 module_init(pmac_cpufreq_setup);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

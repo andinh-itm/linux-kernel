@@ -75,3 +75,4 @@ int simcons_register(void)
 	register_console(&hpsim_cons);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

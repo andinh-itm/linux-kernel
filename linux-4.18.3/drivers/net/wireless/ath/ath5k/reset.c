@@ -1378,3 +1378,4 @@ ath5k_hw_reset(struct ath5k_hw *ah, enum nl80211_iftype op_mode,
 	ath5k_hw_reset_tsf(ah);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

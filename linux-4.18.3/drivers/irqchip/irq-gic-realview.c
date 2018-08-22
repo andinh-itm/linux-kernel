@@ -74,3 +74,4 @@ realview_gic_of_init(struct device_node *node, struct device_node *parent)
 }
 IRQCHIP_DECLARE(armtc11mp_gic, "arm,tc11mp-gic", realview_gic_of_init);
 IRQCHIP_DECLARE(armeb11mp_gic, "arm,eb11mp-gic", realview_gic_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

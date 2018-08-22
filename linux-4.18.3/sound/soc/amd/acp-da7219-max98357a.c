@@ -324,3 +324,4 @@ module_platform_driver(cz_pcm_driver);
 MODULE_AUTHOR("akshu.agrawal@amd.com");
 MODULE_DESCRIPTION("DA7219 & MAX98357A audio support");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

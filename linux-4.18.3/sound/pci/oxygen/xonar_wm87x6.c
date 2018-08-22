@@ -1340,3 +1340,4 @@ int get_xonar_wm87x6_model(struct oxygen *chip,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

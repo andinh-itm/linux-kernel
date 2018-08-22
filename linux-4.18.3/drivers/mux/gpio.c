@@ -109,3 +109,4 @@ module_platform_driver(mux_gpio_driver);
 MODULE_DESCRIPTION("GPIO-controlled multiplexer driver");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -149,3 +149,4 @@ static void __init atlas6_clk_init(struct device_node *np)
 	of_clk_add_provider(np, of_clk_src_onecell_get, &clk_data);
 }
 CLK_OF_DECLARE(atlas6_clk, "sirf,atlas6-clkc", atlas6_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

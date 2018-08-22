@@ -755,3 +755,4 @@ module_i2c_driver(e4000_driver);
 MODULE_DESCRIPTION("Elonics E4000 silicon tuner driver");
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

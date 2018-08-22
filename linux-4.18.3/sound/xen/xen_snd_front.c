@@ -395,3 +395,4 @@ MODULE_DESCRIPTION("Xen virtual sound device frontend");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("xen:" XENSND_DRIVER_NAME);
 MODULE_SUPPORTED_DEVICE("{{ALSA,Virtual soundcard}}");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

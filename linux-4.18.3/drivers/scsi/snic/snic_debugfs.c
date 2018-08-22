@@ -570,3 +570,4 @@ snic_trc_debugfs_term(void)
 	debugfs_remove(snic_glob->trc.trc_enable);
 	snic_glob->trc.trc_enable = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -746,3 +746,4 @@ void rts5260_init_params(struct rtsx_pcr *pcr)
 	option->sd_400mA_ocp_thd = RTS5260_DVCC_OCP_THD_550;
 	option->sd_800mA_ocp_thd = RTS5260_DVCC_OCP_THD_970;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

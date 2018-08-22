@@ -447,3 +447,4 @@ MODULE_AUTHOR("Chris Zhong <zyw@rock-chips.com>");
 MODULE_AUTHOR("Zhang Qing <zhangqing@rock-chips.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rk808-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

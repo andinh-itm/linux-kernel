@@ -426,3 +426,4 @@ bool vlan_uses_dev(const struct net_device *dev)
 	return vlan_info->grp.nr_vlan_devs ? true : false;
 }
 EXPORT_SYMBOL(vlan_uses_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -136,3 +136,4 @@ struct snd_ice1712_card_info snd_vt1720_mobo_cards[] = {
 	{ } /* terminator */
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

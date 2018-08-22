@@ -1051,3 +1051,4 @@ MODULE_DESCRIPTION(
 "Entwicklungs- und Vertriebs UG. USB2.0 to CAN interfaces\n"
 "and bytewerk.org candleLight USB CAN interfaces.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

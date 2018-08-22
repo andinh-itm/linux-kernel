@@ -355,3 +355,4 @@ void __init hi6220_clk_register_divider(const struct hi6220_divider_clock *clks,
 		data->clk_data.clks[clks[i].id] = clk;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

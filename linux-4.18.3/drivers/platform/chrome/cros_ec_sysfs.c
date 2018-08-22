@@ -357,3 +357,4 @@ EXPORT_SYMBOL(cros_ec_attr_group);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("ChromeOS EC control driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

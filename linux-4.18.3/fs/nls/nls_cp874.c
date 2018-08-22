@@ -273,3 +273,4 @@ module_exit(exit_nls_cp874)
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS_NLS(tis-620);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

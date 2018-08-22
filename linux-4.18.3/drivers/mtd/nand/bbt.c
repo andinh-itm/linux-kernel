@@ -128,3 +128,4 @@ int nanddev_bbt_set_block_status(struct nand_device *nand, unsigned int entry,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(nanddev_bbt_set_block_status);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

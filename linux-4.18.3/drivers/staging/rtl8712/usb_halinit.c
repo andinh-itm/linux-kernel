@@ -317,3 +317,4 @@ unsigned int r8712_usb_inirp_deinit(struct _adapter *padapter)
 	r8712_usb_read_port_cancel(padapter);
 	return _SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

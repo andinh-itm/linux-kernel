@@ -251,3 +251,4 @@ static struct gpio_methods methods = {
 
 struct gpio_methods *pmf_gpio_methods = &methods;
 EXPORT_SYMBOL_GPL(pmf_gpio_methods);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

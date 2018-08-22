@@ -104,3 +104,4 @@ nv50_sor_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = (nvkm_rd32(device, 0x610184) & 0x03000000) >> 24;
 	return 2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

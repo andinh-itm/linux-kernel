@@ -93,3 +93,4 @@ struct halmac_intf_phy_para_ HALMAC_RTL8822B_PCIE_PHY_GEN2[] = {
 	{0xFFFF, 0x0000, HALMAC_IP_SEL_INTF_PHY, HALMAC_INTF_PHY_CUT_ALL,
 	 HALMAC_INTF_PHY_PLATFORM_ALL},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

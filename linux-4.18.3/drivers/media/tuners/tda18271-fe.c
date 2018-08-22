@@ -1353,3 +1353,4 @@ MODULE_DESCRIPTION("NXP TDA18271HD analog / digital tuner driver");
 MODULE_AUTHOR("Michael Krufky <mkrufky@linuxtv.org>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.4");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -840,3 +840,4 @@ void omap4iss_ipipeif_cleanup(struct iss_device *iss)
 
 	media_entity_cleanup(&ipipeif->subdev.entity);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

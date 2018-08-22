@@ -249,3 +249,4 @@ static int __init s3d_init(void)
 	return pci_register_driver(&s3d_driver);
 }
 device_initcall(s3d_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

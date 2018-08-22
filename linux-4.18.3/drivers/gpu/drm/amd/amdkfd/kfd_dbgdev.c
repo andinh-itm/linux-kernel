@@ -844,3 +844,4 @@ void kfd_dbgdev_init(struct kfd_dbgdev *pdbgdev, struct kfd_dev *pdev,
 	}
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

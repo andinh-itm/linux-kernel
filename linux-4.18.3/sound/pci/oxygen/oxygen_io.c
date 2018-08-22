@@ -290,3 +290,4 @@ void oxygen_write_eeprom(struct oxygen *chip, unsigned int index, u16 value)
 	}
 	dev_err(chip->card->dev, "EEPROM write timeout\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

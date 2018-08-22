@@ -236,3 +236,4 @@ static int __init sgi_ip27_rtc_devinit(void)
  * are resolved
  */
 late_initcall(sgi_ip27_rtc_devinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

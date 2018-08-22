@@ -13,3 +13,4 @@ noinline __noclone int DYN_FTRACE_TEST_NAME2(void)
 	/* used to call mcount */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -68,3 +68,4 @@ void __init alpine_cpu_pm_init(void)
 				    == AL_CPU_RESUME_MAGIC_NUM;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

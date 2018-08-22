@@ -542,3 +542,4 @@ const struct drm_mode_config_funcs hibmc_mode_funcs = {
 	.atomic_commit = drm_atomic_helper_commit,
 	.fb_create = hibmc_user_framebuffer_create,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

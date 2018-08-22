@@ -246,3 +246,4 @@ static struct platform_driver meson_gx_pwrc_vpu_driver = {
 	},
 };
 builtin_platform_driver(meson_gx_pwrc_vpu_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

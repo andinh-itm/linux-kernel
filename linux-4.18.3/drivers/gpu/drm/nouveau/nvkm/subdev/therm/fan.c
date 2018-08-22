@@ -277,3 +277,4 @@ nvkm_therm_fan_ctor(struct nvkm_therm *therm)
 	nvkm_therm_fan_safety_checks(therm);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

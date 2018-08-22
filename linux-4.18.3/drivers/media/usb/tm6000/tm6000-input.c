@@ -509,3 +509,4 @@ int tm6000_ir_fini(struct tm6000_core *dev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -414,3 +414,4 @@ int snd_emux_delete_virmidi(struct snd_emux *emu)
 	emu->vmidi = NULL;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

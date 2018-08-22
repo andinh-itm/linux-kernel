@@ -192,3 +192,4 @@ int omfs_clear_range(struct super_block *sb, u64 block, int count)
 	mutex_unlock(&sbi->s_bitmap_lock);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

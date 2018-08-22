@@ -293,3 +293,4 @@ void hal_init_macaddr(struct adapter *adapter)
 	rtw_hal_set_hwreg(adapter, HW_VAR_MAC_ADDR,
 			  adapter->eeprompriv.mac_addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

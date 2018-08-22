@@ -1209,3 +1209,4 @@ MODULE_AUTHOR("Maxim Levitsky");
 MODULE_LICENSE("GPL");
 
 module_pnp_driver(ene_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

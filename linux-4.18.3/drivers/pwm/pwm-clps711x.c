@@ -173,3 +173,4 @@ module_platform_driver(clps711x_pwm_driver);
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("Cirrus Logic CLPS711X PWM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

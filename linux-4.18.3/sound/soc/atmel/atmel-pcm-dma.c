@@ -137,3 +137,4 @@ EXPORT_SYMBOL(atmel_pcm_dma_platform_unregister);
 MODULE_AUTHOR("Bo Shen <voice.shen@atmel.com>");
 MODULE_DESCRIPTION("Atmel DMA based PCM module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

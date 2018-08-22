@@ -1051,3 +1051,4 @@ u32 hfi_process_msg_packet(struct venus_core *core, struct hfi_pkt_hdr *hdr)
 invalid_session:
 	return hdr->pkt_type;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

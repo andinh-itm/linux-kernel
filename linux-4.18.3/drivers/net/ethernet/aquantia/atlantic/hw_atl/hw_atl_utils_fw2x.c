@@ -182,3 +182,4 @@ const struct aq_fw_ops aq_fw_2x_ops = {
 	.update_link_status = aq_fw2x_update_link_status,
 	.update_stats = aq_fw2x_update_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

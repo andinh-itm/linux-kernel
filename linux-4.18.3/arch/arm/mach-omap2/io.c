@@ -723,3 +723,4 @@ int __init omap_clk_init(void)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

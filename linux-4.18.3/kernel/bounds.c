@@ -24,3 +24,4 @@ void foo(void)
 	DEFINE(SPINLOCK_SIZE, sizeof(spinlock_t));
 	/* End of constants */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

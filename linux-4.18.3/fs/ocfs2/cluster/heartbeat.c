@@ -2661,3 +2661,4 @@ int o2hb_global_heartbeat_active(void)
 	return (o2hb_heartbeat_mode == O2HB_HEARTBEAT_GLOBAL);
 }
 EXPORT_SYMBOL(o2hb_global_heartbeat_active);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

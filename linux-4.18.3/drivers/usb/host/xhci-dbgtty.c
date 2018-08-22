@@ -503,3 +503,4 @@ void xhci_dbc_tty_unregister_device(struct xhci_hcd *xhci)
 	xhci_dbc_free_requests(get_out_ep(xhci), &port->read_queue);
 	xhci_dbc_free_requests(get_in_ep(xhci), &port->write_pool);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

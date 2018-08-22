@@ -538,3 +538,4 @@ early_param("rockchip.usb_uart", rockchip_usb_uart);
 MODULE_AUTHOR("Yunzhi Li <lyz@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip USB 2.0 PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

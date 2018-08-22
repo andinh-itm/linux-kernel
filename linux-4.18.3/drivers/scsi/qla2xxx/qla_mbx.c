@@ -6372,3 +6372,4 @@ int qla24xx_res_count_wait(struct scsi_qla_host *vha,
 done:
 	return rval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

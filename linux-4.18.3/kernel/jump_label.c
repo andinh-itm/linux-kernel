@@ -798,3 +798,4 @@ early_initcall(jump_label_test);
 #endif /* STATIC_KEYS_SELFTEST */
 
 #endif /* HAVE_JUMP_LABEL */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

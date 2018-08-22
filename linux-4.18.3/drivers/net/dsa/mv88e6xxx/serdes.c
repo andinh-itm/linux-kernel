@@ -346,3 +346,4 @@ int mv88e6341_serdes_power(struct mv88e6xxx_chip *chip, int port, bool on)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -170,3 +170,4 @@ int t1_tp_reset(struct petp *tp, struct tp_params *p, unsigned int tp_clk)
 	writel(F_TP_RESET, adapter->regs +  A_TP_RESET);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

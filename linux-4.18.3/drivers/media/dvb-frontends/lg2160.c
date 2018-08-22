@@ -1442,3 +1442,4 @@ MODULE_DESCRIPTION("LG Electronics LG216x ATSC/MH Demodulator Driver");
 MODULE_AUTHOR("Michael Krufky <mkrufky@linuxtv.org>");
 MODULE_LICENSE("GPL");
 MODULE_VERSION("0.3");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

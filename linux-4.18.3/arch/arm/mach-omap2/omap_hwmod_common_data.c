@@ -97,3 +97,4 @@ struct sysc_regbits omap_hwmod_sysc_type_usb_host_fs = {
 	.sidle_shift	= 2,
 	.srst_shift	= 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

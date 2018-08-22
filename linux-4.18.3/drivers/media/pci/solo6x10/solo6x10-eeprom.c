@@ -148,3 +148,4 @@ int solo_eeprom_write(struct solo_dev *solo_dev, int loc,
 
 	return !retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1013,3 +1013,4 @@ void __init spear1340_clk_init(void __iomem *misc_base)
 			&_lock);
 	clk_register_clkdev(clk, NULL, "e0180000.pwm");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -240,3 +240,4 @@ void nuc9xx_restart(enum reboot_mode mode, const char *cmd)
 		__raw_writel(WTE | WTRE | WTCLK, WTCR);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

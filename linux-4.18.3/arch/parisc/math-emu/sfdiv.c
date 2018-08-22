@@ -390,3 +390,4 @@ sgl_fdiv (sgl_floating_point * srcptr1, sgl_floating_point * srcptr2,
 	}
 	return(NOEXCEPTION);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

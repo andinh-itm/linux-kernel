@@ -217,3 +217,4 @@ MODULE_AUTHOR("Peter Korsgaard, Jan Veldeman, Grant Likely");
 MODULE_DESCRIPTION("Cypress C67X00 USB Controller Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:c67x00");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

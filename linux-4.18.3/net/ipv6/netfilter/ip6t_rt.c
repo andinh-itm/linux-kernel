@@ -223,3 +223,4 @@ static void __exit rt_mt6_exit(void)
 
 module_init(rt_mt6_init);
 module_exit(rt_mt6_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

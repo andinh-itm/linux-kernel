@@ -399,3 +399,4 @@ module_platform_driver(cht_wc_i2c_adap_driver);
 MODULE_DESCRIPTION("Intel CHT Whiskey Cove PMIC I2C Master driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1369,3 +1369,4 @@ u8 r600_encode_pci_lane_width(u32 lanes)
 
 	return encoded_lanes[lanes];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

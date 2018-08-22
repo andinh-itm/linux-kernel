@@ -93,3 +93,4 @@ static void alc295_fixup_hp_top_speakers(struct hda_codec *codec,
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

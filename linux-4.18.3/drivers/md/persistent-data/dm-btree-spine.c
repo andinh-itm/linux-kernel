@@ -278,3 +278,4 @@ void init_le64_type(struct dm_transaction_manager *tm,
 	vt->dec = le64_dec;
 	vt->equal = le64_equal;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

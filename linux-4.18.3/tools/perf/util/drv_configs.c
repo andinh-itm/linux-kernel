@@ -76,3 +76,4 @@ int perf_evlist__apply_drv_configs(struct perf_evlist *evlist,
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

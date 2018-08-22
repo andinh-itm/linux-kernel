@@ -262,3 +262,4 @@ pgprot_t arch_apei_get_mem_attribute(phys_addr_t addr)
 	return __pgprot(PROT_DEVICE_nGnRnE);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

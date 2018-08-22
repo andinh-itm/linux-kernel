@@ -185,3 +185,4 @@ acpi_ex_store_string_to_string(union acpi_operand_object *source_desc,
 	target_desc->string.length = length;
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

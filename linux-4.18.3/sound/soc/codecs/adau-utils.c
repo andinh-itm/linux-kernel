@@ -59,3 +59,4 @@ EXPORT_SYMBOL_GPL(adau_calc_pll_cfg);
 MODULE_DESCRIPTION("ASoC ADAU audio CODECs shared helper functions");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

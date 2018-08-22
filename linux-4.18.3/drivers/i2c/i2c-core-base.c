@@ -2300,3 +2300,4 @@ EXPORT_SYMBOL_GPL(i2c_release_dma_safe_msg_buf);
 MODULE_AUTHOR("Simon G. Vogl <simon@tk.uni-linz.ac.at>");
 MODULE_DESCRIPTION("I2C-Bus main module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

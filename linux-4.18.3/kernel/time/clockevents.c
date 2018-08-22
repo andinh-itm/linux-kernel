@@ -766,3 +766,4 @@ static int __init clockevents_init_sysfs(void)
 }
 device_initcall(clockevents_init_sysfs);
 #endif /* SYSFS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

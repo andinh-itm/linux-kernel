@@ -541,3 +541,4 @@ int ab8500_bm_of_probe(struct device *dev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

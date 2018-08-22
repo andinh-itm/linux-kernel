@@ -64,3 +64,4 @@ static struct platform_driver vmmc_driver = {
 	},
 };
 builtin_platform_driver(vmmc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

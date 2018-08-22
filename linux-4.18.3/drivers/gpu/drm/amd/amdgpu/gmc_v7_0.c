@@ -1392,3 +1392,4 @@ const struct amdgpu_ip_block_version gmc_v7_4_ip_block =
 	.rev = 0,
 	.funcs = &gmc_v7_0_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -364,3 +364,4 @@ static struct platform_driver ohci_hcd_tmio_driver = {
 		.name	= "tmio-ohci",
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

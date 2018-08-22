@@ -157,3 +157,4 @@ module_hid_driver(gfrm_driver);
 MODULE_AUTHOR("Petri Gynther <pgynther@google.com>");
 MODULE_DESCRIPTION("Google Fiber TV Box remote control driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

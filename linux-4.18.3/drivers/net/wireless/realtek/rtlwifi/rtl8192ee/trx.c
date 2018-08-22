@@ -1072,3 +1072,4 @@ bool rtl92ee_is_tx_desc_closed(struct ieee80211_hw *hw, u8 hw_queue, u16 index)
 void rtl92ee_tx_polling(struct ieee80211_hw *hw, u8 hw_queue)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

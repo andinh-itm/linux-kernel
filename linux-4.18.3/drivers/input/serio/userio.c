@@ -283,3 +283,4 @@ MODULE_ALIAS("devname:" USERIO_NAME);
 MODULE_AUTHOR("Stephen Chandler Paul <thatslyude@gmail.com>");
 MODULE_DESCRIPTION("Virtual Serio Device Support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

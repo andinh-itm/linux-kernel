@@ -1036,3 +1036,4 @@ module_i2c_driver(ov6650_i2c_driver);
 MODULE_DESCRIPTION("SoC Camera driver for OmniVision OV6650");
 MODULE_AUTHOR("Janusz Krzysztofik <jkrzyszt@tis.icnet.pl>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

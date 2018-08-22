@@ -5822,3 +5822,4 @@ static __init int trace_events_hist_init(void)
 }
 
 fs_initcall(trace_events_hist_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

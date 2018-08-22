@@ -54,3 +54,4 @@ gp100_therm_new(struct nvkm_device *device, int index,
 {
 	return nvkm_therm_new_(&gp100_therm, device, index, ptherm);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

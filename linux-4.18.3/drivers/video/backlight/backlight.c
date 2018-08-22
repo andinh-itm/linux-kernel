@@ -686,3 +686,4 @@ module_exit(backlight_class_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jamey Hicks <jamey.hicks@hp.com>, Andrew Zabolotny <zap@homelink.ru>");
 MODULE_DESCRIPTION("Backlight Lowlevel Control Abstraction");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

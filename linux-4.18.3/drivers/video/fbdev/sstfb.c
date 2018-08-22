@@ -1530,3 +1530,4 @@ MODULE_PARM_DESC(slowpci, "Uses slow PCI settings (0 or 1) (default=0)");
 module_param(mode_option, charp, 0);
 MODULE_PARM_DESC(mode_option, "Initial video mode (default=" DEFAULT_VIDEO_MODE ")");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

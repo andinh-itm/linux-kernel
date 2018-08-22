@@ -365,3 +365,4 @@ void ccw_request_notoper(struct ccw_device *cdev)
 {
 	ccwreq_stop(cdev, -ENODEV);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -391,3 +391,4 @@ void print__ttu_regs_st(struct display_mode_lib *mode_lib, display_ttu_regs_st t
 			ttu_regs.qos_ramp_disable_cur1);
 	dml_print("DML_RQ_DLG_CALC: =====================================\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

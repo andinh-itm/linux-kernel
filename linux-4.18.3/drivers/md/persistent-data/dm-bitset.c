@@ -315,3 +315,4 @@ bool dm_bitset_cursor_get_value(struct dm_bitset_cursor *c)
 EXPORT_SYMBOL_GPL(dm_bitset_cursor_get_value);
 
 /*----------------------------------------------------------------*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

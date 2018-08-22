@@ -46,3 +46,4 @@ nv49_ram_new(struct nvkm_fb *fb, struct nvkm_ram **pram)
 	(*pram)->parts = (nvkm_rd32(device, 0x100200) & 0x00000003) + 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

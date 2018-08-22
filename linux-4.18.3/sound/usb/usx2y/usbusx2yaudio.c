@@ -1016,3 +1016,4 @@ int usX2Y_audio_create(struct snd_card *card)
 		err = usX2Y_rate_set(usX2Y(card), 44100);	// Lets us428 recognize output-volume settings, disturbs us122.
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

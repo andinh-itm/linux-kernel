@@ -1168,3 +1168,4 @@ struct rtnl_link_ops batadv_link_ops __read_mostly = {
 	.setup		= batadv_softif_init_early,
 	.dellink	= batadv_softif_destroy_netlink,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

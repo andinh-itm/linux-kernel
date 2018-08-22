@@ -1745,3 +1745,4 @@ dasd_devmap_exit(void)
 {
 	dasd_forget_ranges();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

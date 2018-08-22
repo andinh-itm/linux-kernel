@@ -351,3 +351,4 @@ int my_dvb_dmxdev_ts_card_init(struct dmxdev *dmxdev,
 	dvbdemux->dmx.add_frontend(&dvbdemux->dmx, mem_frontend);
 	return dvbdemux->dmx.connect_frontend(&dvbdemux->dmx, hw_frontend);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -133,3 +133,4 @@ static ssize_t uwb_rc_scan_store(struct device *dev,
 
 /** Radio Control sysfs interface (declaration) */
 DEVICE_ATTR(scan, S_IRUGO | S_IWUSR, uwb_rc_scan_show, uwb_rc_scan_store);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

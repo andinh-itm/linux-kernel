@@ -569,3 +569,4 @@ MODULE_PARM_DESC(am53c974_debug, "Enable debugging");
 
 module_param(am53c974_fenab, bool, 0444);
 MODULE_PARM_DESC(am53c974_fenab, "Enable 24-bit DMA transfer sizes");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

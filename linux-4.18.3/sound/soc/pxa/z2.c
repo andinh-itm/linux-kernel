@@ -218,3 +218,4 @@ MODULE_AUTHOR("Ken McGuire <kenm@desertweyr.com>, "
 		"Marek Vasut <marek.vasut@gmail.com>");
 MODULE_DESCRIPTION("ALSA SoC ZipitZ2");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

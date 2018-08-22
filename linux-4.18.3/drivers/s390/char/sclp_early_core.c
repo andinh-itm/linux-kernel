@@ -229,3 +229,4 @@ void sclp_early_printk(const char *str)
 {
 	__sclp_early_printk(str, strlen(str));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

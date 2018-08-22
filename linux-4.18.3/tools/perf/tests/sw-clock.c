@@ -142,3 +142,4 @@ int test__sw_clock_freq(struct test *test __maybe_unused, int subtest __maybe_un
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

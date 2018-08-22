@@ -214,3 +214,4 @@ int PHY_RF6052_Config8723B(struct adapter *Adapter)
 }
 
 /* End of HalRf6052.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

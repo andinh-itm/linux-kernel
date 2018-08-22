@@ -207,3 +207,4 @@ union ieee754dp ieee754dp_format(int sn, int xe, u64 xm)
 		return builddp(sn, xe + DP_EBIAS, xm & ~DP_HIDDEN_BIT);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

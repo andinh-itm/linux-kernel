@@ -654,3 +654,4 @@ npcm7xx_init_error:
 	of_node_put(clk_np);
 }
 CLK_OF_DECLARE(npcm7xx_clk_init, "nuvoton,npcm750-clk", npcm7xx_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

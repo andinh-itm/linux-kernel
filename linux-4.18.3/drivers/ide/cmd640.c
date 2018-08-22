@@ -845,3 +845,4 @@ MODULE_PARM_DESC(probe_vlb, "probe for VLB version of CMD640 chipset");
 module_init(cmd640x_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

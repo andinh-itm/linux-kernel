@@ -494,3 +494,4 @@ int ddb_fe_attach_mci(struct ddb_input *input)
 	dvb->input = tuner;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

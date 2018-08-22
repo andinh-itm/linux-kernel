@@ -440,3 +440,4 @@ MODULE_PARM_DESC(irq, "Interrupt (4 or 3)");
 
 module_param(threshold, int, 0444);
 MODULE_PARM_DESC(threshold, "space detection threshold (3)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

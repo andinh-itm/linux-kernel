@@ -271,3 +271,4 @@ const struct snd_compr_ops sst_platform_compr_ops = {
 	.get_caps = sst_platform_compr_get_caps,
 	.get_codec_caps = sst_platform_compr_get_codec_caps,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

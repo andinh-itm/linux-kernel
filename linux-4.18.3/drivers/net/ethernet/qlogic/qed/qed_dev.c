@@ -4303,3 +4303,4 @@ void qed_set_fw_mac_addr(__le16 *fw_msb,
 	((u8 *)fw_lsb)[0] = mac[5];
 	((u8 *)fw_lsb)[1] = mac[4];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

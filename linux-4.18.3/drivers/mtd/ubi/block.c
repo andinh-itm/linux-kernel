@@ -686,3 +686,4 @@ void __exit ubiblock_exit(void)
 	ubiblock_remove_all();
 	unregister_blkdev(ubiblock_major, "ubiblock");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

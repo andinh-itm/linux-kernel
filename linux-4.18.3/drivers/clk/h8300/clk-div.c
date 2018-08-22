@@ -54,3 +54,4 @@ error:
 }
 
 CLK_OF_DECLARE(h8300_div_clk, "renesas,h8300-div-clock", h8300_div_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

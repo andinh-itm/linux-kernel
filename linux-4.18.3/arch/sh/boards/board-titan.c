@@ -22,3 +22,4 @@ static struct sh_machine_vector mv_titan __initmv = {
 	.mv_name	= "Titan",
 	.mv_init_irq	= init_titan_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

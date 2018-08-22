@@ -1032,3 +1032,4 @@ int cmd_lock(int argc, const char **argv)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

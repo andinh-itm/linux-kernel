@@ -595,3 +595,4 @@ module_platform_driver(mx25_tcq_driver);
 MODULE_DESCRIPTION("TS input driver for Freescale mx25");
 MODULE_AUTHOR("Markus Pargmann <mpa@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

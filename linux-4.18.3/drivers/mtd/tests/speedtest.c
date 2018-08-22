@@ -429,3 +429,4 @@ module_exit(mtd_speedtest_exit);
 MODULE_DESCRIPTION("Speed test module");
 MODULE_AUTHOR("Adrian Hunter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -495,3 +495,4 @@ MODULE_AUTHOR("Ralph Metzler, Holger Waechtler");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(tda8083_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

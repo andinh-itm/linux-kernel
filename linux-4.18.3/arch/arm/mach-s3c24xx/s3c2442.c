@@ -61,3 +61,4 @@ void __init s3c2442_map_io(void)
 	s3c24xx_gpiocfg_default.set_pull = s3c24xx_gpio_setpull_1down;
 	s3c24xx_gpiocfg_default.get_pull = s3c24xx_gpio_getpull_1down;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -233,3 +233,4 @@ static void __exit exit_aha152x_cs(void)
 
 module_init(init_aha152x_cs);
 module_exit(exit_aha152x_cs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

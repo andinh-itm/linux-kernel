@@ -69,3 +69,4 @@ int main(int argc, char *argv[])
 {
 	return test_harness(dscr_explicit, "dscr_explicit_test");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

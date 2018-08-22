@@ -560,3 +560,4 @@ module_platform_driver(sh7760_i2c_drv);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SH7760 I2C bus driver");
 MODULE_AUTHOR("Manuel Lauss <mano@roarinelk.homelinux.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

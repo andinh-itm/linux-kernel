@@ -3900,3 +3900,4 @@ MODULE_LICENSE("GPL");
 
 /* Provide a module alias so root-on-sbp2 initrds don't break. */
 MODULE_ALIAS("ohci1394");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

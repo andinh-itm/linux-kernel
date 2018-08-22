@@ -79,3 +79,4 @@ char *fru_get_part_number(struct fru_common_header *header)
 {
 	return __fru_alloc_get_tl(header, 3);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

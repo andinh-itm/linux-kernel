@@ -315,3 +315,4 @@ static struct i2c_driver wm8775_driver = {
 };
 
 module_i2c_driver(wm8775_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

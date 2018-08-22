@@ -1052,3 +1052,4 @@ void ata_acpi_on_disable(struct ata_device *dev)
 {
 	ata_acpi_clear_gtf(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

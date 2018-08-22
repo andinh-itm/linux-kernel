@@ -607,3 +607,4 @@ fail_range:
 	gpiochip_remove(&data->gpio_chip);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

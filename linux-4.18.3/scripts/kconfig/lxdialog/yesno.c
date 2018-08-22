@@ -112,3 +112,4 @@ do_resize:
 	delwin(dialog);
 	return key;		/* ESC pressed */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

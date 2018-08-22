@@ -185,3 +185,4 @@ const struct file_operations efivarfs_file_operations = {
 	.llseek	= no_llseek,
 	.unlocked_ioctl = efivarfs_file_ioctl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -185,3 +185,4 @@ module_exit(osk_soc_exit);
 MODULE_AUTHOR("Arun KS <arunks@mistralsolutions.com>");
 MODULE_DESCRIPTION("ALSA SoC OSK 5912");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

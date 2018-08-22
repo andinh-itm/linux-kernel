@@ -362,3 +362,4 @@ int setup_teles0(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

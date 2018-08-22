@@ -91,3 +91,4 @@ MACHINE_START(SMDK6400, "SMDK6400")
 	.init_time	= samsung_timer_init,
 	.restart	= s3c64xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

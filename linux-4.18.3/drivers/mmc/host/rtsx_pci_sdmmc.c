@@ -1485,3 +1485,4 @@ module_platform_driver(rtsx_pci_sdmmc_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Wei WANG <wei_wang@realsil.com.cn>");
 MODULE_DESCRIPTION("Realtek PCI-E SD/MMC Card Host Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

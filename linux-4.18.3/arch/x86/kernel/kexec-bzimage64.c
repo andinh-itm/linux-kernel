@@ -545,3 +545,4 @@ const struct kexec_file_ops kexec_bzImage64_ops = {
 	.verify_sig = bzImage64_verify_sig,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

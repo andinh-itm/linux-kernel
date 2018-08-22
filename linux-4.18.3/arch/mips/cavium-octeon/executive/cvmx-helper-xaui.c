@@ -361,3 +361,4 @@ extern int __cvmx_helper_xaui_configure_loopback(int ipd_port,
 	/* Take the link through a reset */
 	return __cvmx_helper_xaui_enable(interface);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

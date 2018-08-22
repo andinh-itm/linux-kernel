@@ -60,3 +60,4 @@ void prom_putchar(char c)
 		;
 	nlm_write_reg(uartbase, UART_TX, c);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

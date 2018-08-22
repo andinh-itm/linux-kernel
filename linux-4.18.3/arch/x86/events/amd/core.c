@@ -750,3 +750,4 @@ void amd_pmu_disable_virt(void)
 	x86_pmu_enable_all(0);
 }
 EXPORT_SYMBOL_GPL(amd_pmu_disable_virt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

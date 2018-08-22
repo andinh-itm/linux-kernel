@@ -1172,3 +1172,4 @@ void usbhs_mod_gadget_remove(struct usbhs_priv *priv)
 	kfree(gpriv->uep);
 	kfree(gpriv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

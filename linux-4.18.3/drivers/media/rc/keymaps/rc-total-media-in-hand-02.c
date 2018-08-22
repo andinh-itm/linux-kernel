@@ -84,3 +84,4 @@ module_exit(exit_rc_map_total_media_in_hand_02)
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR(" Alfredo J. Delaiti <alfredodelaiti@netscape.net>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

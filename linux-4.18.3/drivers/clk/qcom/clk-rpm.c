@@ -665,3 +665,4 @@ module_exit(rpm_clk_exit);
 MODULE_DESCRIPTION("Qualcomm RPM Clock Controller Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:qcom-clk-rpm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

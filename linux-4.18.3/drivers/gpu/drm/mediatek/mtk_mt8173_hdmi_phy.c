@@ -531,3 +531,4 @@ struct platform_driver mtk_hdmi_phy_driver = {
 MODULE_AUTHOR("Jie Qiu <jie.qiu@mediatek.com>");
 MODULE_DESCRIPTION("MediaTek MT8173 HDMI PHY Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

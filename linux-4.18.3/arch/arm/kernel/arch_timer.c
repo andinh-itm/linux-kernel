@@ -42,3 +42,4 @@ int __init arch_timer_arch_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

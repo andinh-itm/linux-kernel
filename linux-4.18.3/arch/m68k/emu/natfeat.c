@@ -92,3 +92,4 @@ void __init nf_init(void)
 
 	mach_power_off = nf_poweroff;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

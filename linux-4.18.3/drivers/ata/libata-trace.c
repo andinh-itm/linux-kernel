@@ -221,3 +221,4 @@ libata_trace_parse_subcmd(struct trace_seq *p, unsigned char cmd,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -236,3 +236,4 @@ MODULE_AUTHOR("Nandor Han <nandor.han@ge.com>");
 MODULE_AUTHOR("Semi Malinen <semi.malinen@ge.com>");
 MODULE_DESCRIPTION("GPIO expander driver for EXAR XRA1403");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

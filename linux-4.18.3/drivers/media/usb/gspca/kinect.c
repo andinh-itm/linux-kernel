@@ -481,3 +481,4 @@ module_usb_driver(sd_driver);
 
 module_param(depth_mode, bool, 0644);
 MODULE_PARM_DESC(depth_mode, "0=video 1=depth");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

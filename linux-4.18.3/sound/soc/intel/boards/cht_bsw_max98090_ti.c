@@ -442,3 +442,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Braswell Machine driver");
 MODULE_AUTHOR("Fang, Yang A <yang.a.fang@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:cht-bsw-max98090");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

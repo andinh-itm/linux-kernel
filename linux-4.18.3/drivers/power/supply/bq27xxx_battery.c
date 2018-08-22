@@ -1926,3 +1926,4 @@ EXPORT_SYMBOL_GPL(bq27xxx_battery_teardown);
 MODULE_AUTHOR("Rodolfo Giometti <giometti@linux.it>");
 MODULE_DESCRIPTION("BQ27xxx battery monitor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

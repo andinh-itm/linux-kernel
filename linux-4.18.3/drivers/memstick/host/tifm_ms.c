@@ -686,3 +686,4 @@ MODULE_DEVICE_TABLE(tifm, tifm_ms_id_tbl);
 
 module_init(tifm_ms_init);
 module_exit(tifm_ms_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

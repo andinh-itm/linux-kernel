@@ -472,3 +472,4 @@ static struct platform_driver kirkwood_pinctrl_driver = {
 	.probe = kirkwood_pinctrl_probe,
 };
 builtin_platform_driver(kirkwood_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

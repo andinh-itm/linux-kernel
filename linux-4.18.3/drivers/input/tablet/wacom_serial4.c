@@ -618,3 +618,4 @@ static struct serio_driver wacom_drv = {
 };
 
 module_serio_driver(wacom_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

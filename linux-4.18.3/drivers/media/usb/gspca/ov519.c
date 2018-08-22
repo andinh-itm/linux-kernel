@@ -5018,3 +5018,4 @@ module_usb_driver(sd_driver);
 
 module_param(frame_rate, int, 0644);
 MODULE_PARM_DESC(frame_rate, "Frame rate (5, 10, 15, 20 or 30 fps)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1352,3 +1352,4 @@ void dce110_link_encoder_disable_hpd(struct link_encoder *enc)
 
 	set_reg_field_value(value, 0, DC_HPD_CONTROL, DC_HPD_EN);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

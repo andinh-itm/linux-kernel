@@ -1932,3 +1932,4 @@ static struct pci_driver sis190_pci_driver = {
 };
 
 module_pci_driver(sis190_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

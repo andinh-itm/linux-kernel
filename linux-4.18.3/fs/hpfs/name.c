@@ -112,3 +112,4 @@ void hpfs_adjust_length(const unsigned char *name, unsigned *len)
 	while (*len && (name[*len - 1] == '.' || name[*len - 1] == ' '))
 		(*len)--;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1261,3 +1261,4 @@ static struct usb_driver alauda_driver = {
 };
 
 module_usb_stor_driver(alauda_driver, alauda_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

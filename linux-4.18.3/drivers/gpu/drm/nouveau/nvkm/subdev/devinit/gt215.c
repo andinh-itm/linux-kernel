@@ -151,3 +151,4 @@ gt215_devinit_new(struct nvkm_device *device, int index,
 {
 	return nv50_devinit_new_(&gt215_devinit, device, index, pinit);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

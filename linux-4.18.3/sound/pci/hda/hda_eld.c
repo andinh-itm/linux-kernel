@@ -778,3 +778,4 @@ int snd_hdmi_get_eld_ati(struct hda_codec *codec, hda_nid_t nid,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

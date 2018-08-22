@@ -380,3 +380,4 @@ u8 mwifiex_get_center_freq_index(struct mwifiex_private *priv, u8 band,
 
 	return center_freq_idx;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

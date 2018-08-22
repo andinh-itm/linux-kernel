@@ -186,3 +186,4 @@ static void __init clps711x_clk_init_dt(struct device_node *np)
 }
 CLK_OF_DECLARE(clps711x, "cirrus,ep7209-clk", clps711x_clk_init_dt);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -4755,3 +4755,4 @@ module_exit(gcc_ipq8074_exit);
 MODULE_DESCRIPTION("QCOM GCC IPQ8074 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-ipq8074");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

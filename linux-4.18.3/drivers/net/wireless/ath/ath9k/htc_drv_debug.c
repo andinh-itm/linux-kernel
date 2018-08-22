@@ -522,3 +522,4 @@ int ath9k_htc_init_debug(struct ath_hw *ah)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

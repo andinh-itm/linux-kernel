@@ -1019,3 +1019,4 @@ void altera_free_buffers(struct altera_state *astate)
 	kfree(js->ir_buffer);
 	js->ir_buffer = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

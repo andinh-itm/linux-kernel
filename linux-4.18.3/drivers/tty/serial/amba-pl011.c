@@ -2839,3 +2839,4 @@ module_exit(pl011_exit);
 MODULE_AUTHOR("ARM Ltd/Deep Blue Solutions Ltd");
 MODULE_DESCRIPTION("ARM AMBA serial port driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

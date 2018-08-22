@@ -112,3 +112,4 @@ struct perf_error_ops perf_gtk_eops = {
 	.warning	= perf_gtk__warning_statusbar,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

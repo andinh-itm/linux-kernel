@@ -756,3 +756,4 @@ static void vrc4171_card_exit(void)
 
 module_init(vrc4171_card_init);
 module_exit(vrc4171_card_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -157,3 +157,4 @@ ssize_t strbuf_read(struct strbuf *sb, int fd, ssize_t hint)
 	sb->buf[sb->len] = '\0';
 	return sb->len - oldlen;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

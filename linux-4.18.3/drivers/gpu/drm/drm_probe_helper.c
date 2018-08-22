@@ -793,3 +793,4 @@ bool drm_helper_hpd_irq_event(struct drm_device *dev)
 	return changed;
 }
 EXPORT_SYMBOL(drm_helper_hpd_irq_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -209,3 +209,4 @@ static struct platform_driver sun9i_a80_mmc_config_clk_driver = {
 	.probe = sun9i_a80_mmc_config_clk_probe,
 };
 builtin_platform_driver(sun9i_a80_mmc_config_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

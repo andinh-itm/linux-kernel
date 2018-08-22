@@ -256,3 +256,4 @@ int __init bch_debug_init(struct kobject *kobj)
 	bcache_debug = debugfs_create_dir("bcache", NULL);
 	return IS_ERR_OR_NULL(bcache_debug);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -256,3 +256,4 @@ static void __exit eeepc_wmi_exit(void)
 
 module_init(eeepc_wmi_init);
 module_exit(eeepc_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

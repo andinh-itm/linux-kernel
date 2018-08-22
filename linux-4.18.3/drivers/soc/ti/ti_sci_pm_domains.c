@@ -202,3 +202,4 @@ module_platform_driver(ti_sci_pm_domains_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI System Control Interface (SCI) Power Domain driver");
 MODULE_AUTHOR("Dave Gerlach");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

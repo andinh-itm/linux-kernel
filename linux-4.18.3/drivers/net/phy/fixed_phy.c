@@ -312,3 +312,4 @@ module_exit(fixed_mdio_bus_exit);
 MODULE_DESCRIPTION("Fixed MDIO bus (MDIO bus emulation with fixed PHYs)");
 MODULE_AUTHOR("Vitaly Bordug");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

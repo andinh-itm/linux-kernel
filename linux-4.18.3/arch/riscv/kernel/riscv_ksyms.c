@@ -17,3 +17,4 @@ EXPORT_SYMBOL(__asm_copy_to_user);
 EXPORT_SYMBOL(__asm_copy_from_user);
 EXPORT_SYMBOL(memset);
 EXPORT_SYMBOL(memcpy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

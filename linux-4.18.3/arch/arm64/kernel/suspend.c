@@ -140,3 +140,4 @@ static int __init cpu_suspend_init(void)
 	return 0;
 }
 early_initcall(cpu_suspend_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

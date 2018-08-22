@@ -1548,3 +1548,4 @@ static struct pci_driver sonicvibes_driver = {
 };
 
 module_pci_driver(sonicvibes_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

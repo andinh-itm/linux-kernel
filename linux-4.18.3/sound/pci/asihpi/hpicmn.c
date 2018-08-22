@@ -720,3 +720,4 @@ void HPI_COMMON(struct hpi_message *phm, struct hpi_response *phr)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

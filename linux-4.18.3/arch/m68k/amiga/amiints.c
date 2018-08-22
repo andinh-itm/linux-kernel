@@ -172,3 +172,4 @@ void __init amiga_init_IRQ(void)
 	cia_init_IRQ(&ciaa_base);
 	cia_init_IRQ(&ciab_base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

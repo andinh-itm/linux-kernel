@@ -1071,3 +1071,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sm_vt8231_init);
 module_exit(sm_vt8231_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

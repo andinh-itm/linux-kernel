@@ -91,3 +91,4 @@ module_init(init_hrt_clocksource);
 MODULE_AUTHOR("Jim Cromie <jim.cromie@gmail.com>");
 MODULE_DESCRIPTION("clocksource on SCx200 HiRes Timer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

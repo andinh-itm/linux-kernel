@@ -312,3 +312,4 @@ out:
 	return platform_add_devices(mtx1_devs, ARRAY_SIZE(mtx1_devs));
 }
 arch_initcall(mtx1_register_devices);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

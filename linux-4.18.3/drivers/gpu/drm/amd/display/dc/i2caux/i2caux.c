@@ -485,3 +485,4 @@ void dal_i2caux_destruct(
 	} while (i < GPIO_DDC_LINE_COUNT);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

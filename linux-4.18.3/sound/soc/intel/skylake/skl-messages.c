@@ -1392,3 +1392,4 @@ int skl_get_module_params(struct skl_sst *ctx, u32 *params, int size,
 
 	return skl_ipc_get_large_config(&ctx->ipc, &msg, params);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

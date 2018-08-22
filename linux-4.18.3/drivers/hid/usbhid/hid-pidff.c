@@ -1333,3 +1333,4 @@ int hid_pidff_init(struct hid_device *hid)
 	kfree(pidff);
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

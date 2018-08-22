@@ -489,3 +489,4 @@ MODULE_AUTHOR("Jarkko Nikula");
 MODULE_DESCRIPTION("Baytrail PCM");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:baytrail-pcm-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

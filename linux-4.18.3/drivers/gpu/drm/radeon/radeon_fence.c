@@ -1120,3 +1120,4 @@ const struct dma_fence_ops radeon_fence_ops = {
 	.wait = radeon_fence_default_wait,
 	.release = NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

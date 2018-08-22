@@ -109,3 +109,4 @@ const struct clk_ops sprd_sc_gate_ops = {
 };
 EXPORT_SYMBOL_GPL(sprd_sc_gate_ops);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

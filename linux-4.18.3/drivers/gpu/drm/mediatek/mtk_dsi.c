@@ -1194,3 +1194,4 @@ struct platform_driver mtk_dsi_driver = {
 		.of_match_table = mtk_dsi_of_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

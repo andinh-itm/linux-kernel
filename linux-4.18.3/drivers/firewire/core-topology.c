@@ -566,3 +566,4 @@ void fw_core_handle_bus_reset(struct fw_card *card, int node_id, int generation,
 	spin_unlock_irqrestore(&card->lock, flags);
 }
 EXPORT_SYMBOL(fw_core_handle_bus_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

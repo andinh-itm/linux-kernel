@@ -2081,3 +2081,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("XGITECH , Others");
 module_init(xgifb_init);
 module_exit(xgifb_remove_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

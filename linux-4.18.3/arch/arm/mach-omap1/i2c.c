@@ -177,3 +177,4 @@ static  int __init omap_i2c_cmdline(void)
 	return omap_register_i2c_bus_cmdline();
 }
 subsys_initcall(omap_i2c_cmdline);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

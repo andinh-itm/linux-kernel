@@ -108,3 +108,4 @@ void atari_mksound (unsigned int hz, unsigned int ticks)
 	}
 	local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

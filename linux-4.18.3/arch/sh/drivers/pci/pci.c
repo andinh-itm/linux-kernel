@@ -303,3 +303,4 @@ EXPORT_SYMBOL(pci_iounmap);
 
 EXPORT_SYMBOL(PCIBIOS_MIN_IO);
 EXPORT_SYMBOL(PCIBIOS_MIN_MEM);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1697,3 +1697,4 @@ static struct pci_driver pcxhr_driver = {
 };
 
 module_pci_driver(pcxhr_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

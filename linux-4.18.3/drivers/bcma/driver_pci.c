@@ -304,3 +304,4 @@ void bcma_core_pci_down(struct bcma_drv_pci *pc)
 {
 	bcma_core_pci_extend_L1timer(pc, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

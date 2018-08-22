@@ -666,3 +666,4 @@ int renesas_sdhi_remove(struct platform_device *pdev)
 EXPORT_SYMBOL_GPL(renesas_sdhi_remove);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -298,3 +298,4 @@ MODULE_AUTHOR("Alan Mizrahi");
 MODULE_DESCRIPTION("PC Engines APU family LED driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:leds_apu");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

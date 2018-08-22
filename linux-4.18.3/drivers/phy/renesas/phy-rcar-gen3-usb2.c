@@ -531,3 +531,4 @@ module_platform_driver(rcar_gen3_phy_usb2_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Renesas R-Car Gen3 USB 2.0 PHY");
 MODULE_AUTHOR("Yoshihiro Shimoda <yoshihiro.shimoda.uh@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

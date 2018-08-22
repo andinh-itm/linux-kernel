@@ -31,3 +31,4 @@ int __init sh_pfc_register(const char *name,
 
 	return platform_device_register(&sh_pfc_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

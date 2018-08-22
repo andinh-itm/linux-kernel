@@ -499,3 +499,4 @@ module_platform_driver(rcar_gen3_thermal_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("R-Car Gen3 THS thermal sensor driver");
 MODULE_AUTHOR("Wolfram Sang <wsa+renesas@sang-engineering.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

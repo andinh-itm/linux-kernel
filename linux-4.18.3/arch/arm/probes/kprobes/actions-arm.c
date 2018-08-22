@@ -342,3 +342,4 @@ const union decode_action kprobes_arm_actions[NUM_PROBES_ARM_ACTIONS] = {
 };
 
 const struct decode_checker *kprobes_arm_checkers[] = {arm_stack_checker, arm_regs_checker, NULL};
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

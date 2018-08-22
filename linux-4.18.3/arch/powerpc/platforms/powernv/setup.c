@@ -449,3 +449,4 @@ define_machine(powernv) {
 	.memory_block_size	= pnv_memory_block_size,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

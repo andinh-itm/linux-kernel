@@ -704,3 +704,4 @@ void aa_inherit_files(const struct cred *cred, struct files_struct *files)
 out:
 	aa_put_label(label);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

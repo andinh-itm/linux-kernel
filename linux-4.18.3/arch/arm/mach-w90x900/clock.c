@@ -122,3 +122,4 @@ struct clk *clk_get_parent(struct clk *clk)
 	return NULL;
 }
 EXPORT_SYMBOL(clk_get_parent);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

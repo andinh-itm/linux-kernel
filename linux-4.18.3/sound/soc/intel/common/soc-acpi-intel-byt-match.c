@@ -194,3 +194,4 @@ EXPORT_SYMBOL_GPL(snd_soc_acpi_intel_baytrail_machines);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Intel Common ACPI Match module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -940,3 +940,4 @@ vmw_context_get_dx_query_mob(struct vmw_resource *ctx_res)
 
 	return uctx->dx_query_mob;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

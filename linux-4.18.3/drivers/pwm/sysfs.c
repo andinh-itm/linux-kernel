@@ -436,3 +436,4 @@ static int __init pwm_sysfs_init(void)
 	return class_register(&pwm_class);
 }
 subsys_initcall(pwm_sysfs_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

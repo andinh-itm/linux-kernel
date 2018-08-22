@@ -554,3 +554,4 @@ int __cvmx_helper_sgmii_configure_loopback(int ipd_port, int enable_internal,
 	__cvmx_helper_sgmii_hardware_init_link(interface, index);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

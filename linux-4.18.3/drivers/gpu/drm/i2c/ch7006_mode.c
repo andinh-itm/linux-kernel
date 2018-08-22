@@ -469,3 +469,4 @@ void ch7006_state_save(struct i2c_client *client,
 		(state->regs[CH7006_FFILTER] & 0x0c) >> 2 |
 		(state->regs[CH7006_FFILTER] & 0x03) << 2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2454,3 +2454,4 @@ void lpphy_init_tx_gain_table(struct b43_wldev *dev)
 					lpphy_rev2_5ghz_tx_gain_table);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

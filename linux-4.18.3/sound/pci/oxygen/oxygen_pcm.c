@@ -805,3 +805,4 @@ int oxygen_pcm_init(struct oxygen *chip)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

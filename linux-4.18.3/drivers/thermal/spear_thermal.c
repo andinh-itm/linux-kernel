@@ -194,3 +194,4 @@ module_platform_driver(spear_thermal_driver);
 MODULE_AUTHOR("Vincenzo Frascino <vincenzo.frascino@st.com>");
 MODULE_DESCRIPTION("SPEAr thermal driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

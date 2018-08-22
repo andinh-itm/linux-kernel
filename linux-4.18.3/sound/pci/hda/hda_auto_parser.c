@@ -1038,3 +1038,4 @@ void snd_hda_pick_fixup(struct hda_codec *codec,
 	}
 }
 EXPORT_SYMBOL_GPL(snd_hda_pick_fixup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

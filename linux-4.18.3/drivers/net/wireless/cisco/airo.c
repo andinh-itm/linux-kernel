@@ -8214,3 +8214,4 @@ static int flashrestart(struct airo_info *ai,struct net_device *dev){
 
 module_init(airo_init_module);
 module_exit(airo_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

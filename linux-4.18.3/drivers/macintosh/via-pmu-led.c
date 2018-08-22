@@ -115,3 +115,4 @@ static int __init via_pmu_led_init(void)
 }
 
 late_initcall(via_pmu_led_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

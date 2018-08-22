@@ -125,3 +125,4 @@ static const struct smp_operations berlin_smp_ops __initconst = {
 #endif
 };
 CPU_METHOD_OF_DECLARE(berlin_smp, "marvell,berlin-smp", &berlin_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -663,3 +663,4 @@ bool hfs_bnode_need_zeroout(struct hfs_btree *tree)
 	return tree->cnid == HFSPLUS_CAT_CNID &&
 		volume_attr & HFSPLUS_VOL_UNUSED_NODE_FIX;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

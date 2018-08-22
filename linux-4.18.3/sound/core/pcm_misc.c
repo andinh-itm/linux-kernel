@@ -604,3 +604,4 @@ unsigned int snd_pcm_rate_range_to_bits(unsigned int rate_min,
 	return rates;
 }
 EXPORT_SYMBOL_GPL(snd_pcm_rate_range_to_bits);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

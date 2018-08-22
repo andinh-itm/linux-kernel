@@ -649,3 +649,4 @@ module_i2c_driver(cs4265_i2c_driver);
 MODULE_DESCRIPTION("ASoC CS4265 driver");
 MODULE_AUTHOR("Paul Handrigan, Cirrus Logic Inc, <paul.handrigan@cirrus.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

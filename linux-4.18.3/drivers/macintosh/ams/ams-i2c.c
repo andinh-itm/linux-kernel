@@ -274,3 +274,4 @@ int __init ams_i2c_init(struct device_node *np)
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

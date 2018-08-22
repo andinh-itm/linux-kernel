@@ -1393,3 +1393,4 @@ MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(tda10045_attach);
 EXPORT_SYMBOL(tda10046_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

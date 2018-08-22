@@ -521,3 +521,4 @@ module_spi_driver(ti_ads7950_driver);
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_DESCRIPTION("TI TI_ADS7950 ADC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

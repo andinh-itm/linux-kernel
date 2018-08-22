@@ -2747,3 +2747,4 @@ const struct pp_smumgr_func fiji_smu_funcs = {
 	.is_hw_avfs_present = fiji_is_hw_avfs_present,
 	.update_dpm_settings = fiji_update_dpm_settings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -87,3 +87,4 @@ DT_MACHINE_START(R8A7779_DT, "Generic R8A7779 (Flattened Device Tree)")
 	.init_late	= shmobile_init_late,
 	.dt_compat	= r8a7779_compat_dt,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

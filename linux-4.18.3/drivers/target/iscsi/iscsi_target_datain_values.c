@@ -525,3 +525,4 @@ struct iscsi_datain_req *iscsit_get_datain_values(
 	return NULL;
 }
 EXPORT_SYMBOL(iscsit_get_datain_values);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

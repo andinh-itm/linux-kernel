@@ -84,3 +84,4 @@ mcp77_ram_new(struct nvkm_fb *fb, struct nvkm_ram **pram)
 			    (size - rsvd_head - rsvd_tail) >>
 			    NVKM_RAM_MM_SHIFT, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

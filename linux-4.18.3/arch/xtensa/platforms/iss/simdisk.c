@@ -370,3 +370,4 @@ module_exit(simdisk_exit);
 MODULE_ALIAS_BLOCKDEV_MAJOR(SIMDISK_MAJOR);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

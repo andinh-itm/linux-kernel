@@ -405,3 +405,4 @@ static struct serio_driver elo_drv = {
 };
 
 module_serio_driver(elo_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

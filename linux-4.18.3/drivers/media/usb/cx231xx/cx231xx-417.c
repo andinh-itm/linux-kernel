@@ -2022,3 +2022,4 @@ int cx231xx_417_register(struct cx231xx *dev)
 }
 
 MODULE_FIRMWARE(CX231xx_FIRM_IMAGE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

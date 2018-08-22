@@ -152,3 +152,4 @@ struct vsp1_lif *vsp1_lif_create(struct vsp1_device *vsp1, unsigned int index)
 
 	return lif;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

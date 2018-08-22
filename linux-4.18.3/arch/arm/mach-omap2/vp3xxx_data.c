@@ -87,3 +87,4 @@ struct omap_vp_param omap3_core_vp_data = {
 	.vddmin			= OMAP3430_VP2_VLIMITTO_VDDMIN,
 	.vddmax			= OMAP3430_VP2_VLIMITTO_VDDMAX,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -42,3 +42,4 @@ int regs_query_register_offset(const char *name)
 
 	return offsetof(user_pt_regs, gprs) + 8 * gpr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

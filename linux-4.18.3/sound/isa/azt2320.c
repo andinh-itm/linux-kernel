@@ -352,3 +352,4 @@ static void __exit alsa_card_azt2320_exit(void)
 
 module_init(alsa_card_azt2320_init)
 module_exit(alsa_card_azt2320_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

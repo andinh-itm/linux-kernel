@@ -517,3 +517,4 @@ MODULE_ALIAS_CRYPTO("cbc(aes)");
 MODULE_ALIAS_CRYPTO("ctr(aes)");
 MODULE_ALIAS_CRYPTO("xts(aes)");
 MODULE_ALIAS_CRYPTO("aes-ppc-spe");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

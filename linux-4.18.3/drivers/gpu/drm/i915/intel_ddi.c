@@ -3572,3 +3572,4 @@ err:
 	drm_encoder_cleanup(encoder);
 	kfree(intel_dig_port);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

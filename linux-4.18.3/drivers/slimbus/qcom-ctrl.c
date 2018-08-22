@@ -744,3 +744,4 @@ module_platform_driver(qcom_slim_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Qualcomm SLIMbus Controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

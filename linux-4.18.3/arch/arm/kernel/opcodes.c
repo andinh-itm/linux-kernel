@@ -70,3 +70,4 @@ asmlinkage unsigned int arm_check_condition(u32 opcode, u32 psr)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(arm_check_condition);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

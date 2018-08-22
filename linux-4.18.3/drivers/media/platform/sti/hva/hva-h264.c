@@ -1059,3 +1059,4 @@ const struct hva_enc nv21h264enc = {
 	.close = hva_h264_close,
 	.encode = hva_h264_encode,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

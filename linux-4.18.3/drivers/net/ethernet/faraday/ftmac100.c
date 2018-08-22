@@ -1213,3 +1213,4 @@ MODULE_AUTHOR("Po-Yu Chuang <ratbert@faraday-tech.com>");
 MODULE_DESCRIPTION("FTMAC100 driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(of, ftmac100_of_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

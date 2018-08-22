@@ -120,3 +120,4 @@ int dvb_usb_adapter_stream_exit(struct dvb_usb_adapter *adap)
 		usb_urb_exit(&adap->fe_adap[i].stream);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

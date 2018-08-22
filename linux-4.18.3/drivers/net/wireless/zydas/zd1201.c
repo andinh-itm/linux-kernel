@@ -1909,3 +1909,4 @@ static struct usb_driver zd1201_usb = {
 };
 
 module_usb_driver(zd1201_usb);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

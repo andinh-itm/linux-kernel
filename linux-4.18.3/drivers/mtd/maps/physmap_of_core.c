@@ -383,3 +383,4 @@ module_platform_driver(of_flash_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vitaly Wool <vwool@ru.mvista.com>");
 MODULE_DESCRIPTION("Device tree based MTD map driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

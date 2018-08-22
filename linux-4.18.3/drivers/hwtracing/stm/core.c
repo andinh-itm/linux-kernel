@@ -1191,3 +1191,4 @@ module_exit(stm_core_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("System Trace Module device class");
 MODULE_AUTHOR("Alexander Shishkin <alexander.shishkin@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -96,3 +96,4 @@ MACHINE_START(CATS, "Chalice-CATS")
 	.init_time	= isa_timer_init,
 	.restart	= footbridge_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

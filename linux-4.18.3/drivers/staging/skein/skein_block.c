@@ -467,3 +467,4 @@ unsigned int skein_1024_unroll_cnt(void)
 }
 #endif
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -303,3 +303,4 @@ MACHINE_START(DSMG600, "D-Link DSM-G600 RevA")
 #endif
 	.restart	= ixp4xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

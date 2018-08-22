@@ -348,3 +348,4 @@ void host1x_intr_stop(struct host1x *host)
 
 	mutex_unlock(&host->intr_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

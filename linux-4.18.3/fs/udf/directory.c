@@ -240,3 +240,4 @@ struct long_ad *udf_get_filelongad(uint8_t *ptr, int maxoffset, uint32_t *offset
 		*offset += sizeof(struct long_ad);
 	return la;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

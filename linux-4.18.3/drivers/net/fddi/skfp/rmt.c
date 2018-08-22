@@ -648,3 +648,4 @@ static void stop_rmt_timer2(struct s_smc *smc)
 		smt_timer_stop(smc,&smc->r.rmt_timer2) ;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

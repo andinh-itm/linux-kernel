@@ -270,3 +270,4 @@ MACHINE_START(QONG, "Dave/DENX QongEVB-LITE")
 	.init_late	= qong_init_fpga,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

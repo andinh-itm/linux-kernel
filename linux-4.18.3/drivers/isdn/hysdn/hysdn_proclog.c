@@ -355,3 +355,4 @@ hysdn_proclog_release(hysdn_card *card)
 		card->proclog = NULL;
 	}
 }				/* hysdn_proclog_release */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

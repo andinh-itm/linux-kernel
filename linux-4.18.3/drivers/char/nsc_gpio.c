@@ -137,3 +137,4 @@ module_exit(nsc_gpio_cleanup);
 MODULE_AUTHOR("Jim Cromie <jim.cromie@gmail.com>");
 MODULE_DESCRIPTION("NatSemi GPIO Common Methods");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

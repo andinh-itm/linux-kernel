@@ -304,3 +304,4 @@ int uniphier_aiodma_soc_register_platform(struct platform_device *pdev)
 					       NULL, 0);
 }
 EXPORT_SYMBOL_GPL(uniphier_aiodma_soc_register_platform);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -72,3 +72,4 @@ __init void scan_elf_aux( char **envp)
 		vsyscall_end = vsyscall_ehdr + page_size;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

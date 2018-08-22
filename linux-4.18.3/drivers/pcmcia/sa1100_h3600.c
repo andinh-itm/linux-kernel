@@ -161,3 +161,4 @@ int pcmcia_h3600_init(struct device *dev)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -351,3 +351,4 @@ unsigned long ltq_grx390_pp32_hz(void)
 	}
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

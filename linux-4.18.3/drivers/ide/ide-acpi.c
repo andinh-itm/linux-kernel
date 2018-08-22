@@ -620,3 +620,4 @@ void ide_acpi_port_init_devices(ide_hwif_t *hwif)
 		ide_acpi_exec_tfs(drive);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

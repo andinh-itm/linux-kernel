@@ -5696,3 +5696,4 @@ static void __exit fotg210_hcd_cleanup(void)
 	clear_bit(USB_EHCI_LOADED, &usb_hcds_loaded);
 }
 module_exit(fotg210_hcd_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -509,3 +509,4 @@ const struct il_debugfs_ops il3945_debugfs_ops = {
 	.tx_stats_read = il3945_ucode_tx_stats_read,
 	.general_stats_read = il3945_ucode_general_stats_read,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

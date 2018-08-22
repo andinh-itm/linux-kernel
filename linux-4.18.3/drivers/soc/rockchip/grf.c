@@ -174,3 +174,4 @@ static int __init rockchip_grf_init(void)
 	return 0;
 }
 postcore_initcall(rockchip_grf_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -58,3 +58,4 @@ module_i2c_driver(tlv320aic23_i2c_driver);
 MODULE_DESCRIPTION("ASoC TLV320AIC23 codec driver I2C");
 MODULE_AUTHOR("Arun KS <arunks@mistralsolutions.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

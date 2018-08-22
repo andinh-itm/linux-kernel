@@ -58,3 +58,4 @@ void lasat_reboot_setup(void)
 	_machine_halt = lasat_machine_halt;
 	pm_power_off = lasat_machine_halt;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

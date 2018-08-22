@@ -406,3 +406,4 @@ MODULE_DESCRIPTION("KEM PLD I2C Driver");
 MODULE_AUTHOR("Michael Brunner <michael.brunner@kontron.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:kempld_i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

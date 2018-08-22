@@ -181,3 +181,4 @@ MACHINE_START(S3C2440, "SMDK2440")
 	.init_machine	= smdk2440_machine_init,
 	.init_time	= smdk2440_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

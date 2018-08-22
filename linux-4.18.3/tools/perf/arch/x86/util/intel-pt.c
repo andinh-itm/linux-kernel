@@ -1109,3 +1109,4 @@ struct auxtrace_record *intel_pt_recording_init(int *err)
 	ptr->itr.read_finish = intel_pt_read_finish;
 	return &ptr->itr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

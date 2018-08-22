@@ -33,3 +33,4 @@ static struct sh_machine_vector mv_shmin __initmv = {
 	.mv_setup	= shmin_setup,
 	.mv_init_irq	= init_shmin_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

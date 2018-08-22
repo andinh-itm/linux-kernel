@@ -1420,3 +1420,4 @@ static struct usb_driver rt2800usb_driver = {
 };
 
 module_usb_driver(rt2800usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

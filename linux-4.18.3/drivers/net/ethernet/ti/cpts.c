@@ -599,3 +599,4 @@ EXPORT_SYMBOL_GPL(cpts_release);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI CPTS driver");
 MODULE_AUTHOR("Richard Cochran <richardcochran@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

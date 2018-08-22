@@ -86,3 +86,4 @@ module_init(init_rc_map_terratec_cinergy_c_pci);
 module_exit(exit_rc_map_terratec_cinergy_c_pci);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

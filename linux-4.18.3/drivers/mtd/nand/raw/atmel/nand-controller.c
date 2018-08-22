@@ -2563,3 +2563,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Boris Brezillon <boris.brezillon@free-electrons.com>");
 MODULE_DESCRIPTION("NAND Flash Controller driver for Atmel SoCs");
 MODULE_ALIAS("platform:atmel-nand-controller");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

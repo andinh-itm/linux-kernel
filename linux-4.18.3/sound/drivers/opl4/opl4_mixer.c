@@ -93,3 +93,4 @@ int snd_opl4_create_mixer(struct snd_opl4 *opl4)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

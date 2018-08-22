@@ -376,3 +376,4 @@ static struct spi_driver aic26_spi = {
 };
 
 module_spi_driver(aic26_spi);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

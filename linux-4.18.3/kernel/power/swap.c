@@ -1602,3 +1602,4 @@ static int swsusp_header_init(void)
 }
 
 core_initcall(swsusp_header_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

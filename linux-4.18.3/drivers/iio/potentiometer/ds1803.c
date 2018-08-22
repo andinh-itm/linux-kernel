@@ -170,3 +170,4 @@ module_i2c_driver(ds1803_driver);
 MODULE_AUTHOR("Slawomir Stepien <sst@poczta.fm>");
 MODULE_DESCRIPTION("DS1803 digital potentiometer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

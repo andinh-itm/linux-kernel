@@ -95,3 +95,4 @@ MACHINE_START(IQ81340MC, "Intel IQ81340MC")
 	.restart	= iop13xx_restart,
 	.nr_irqs	= NR_IOP13XX_IRQS,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

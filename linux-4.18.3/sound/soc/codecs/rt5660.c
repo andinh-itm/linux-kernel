@@ -1348,3 +1348,4 @@ module_i2c_driver(rt5660_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT5660 driver");
 MODULE_AUTHOR("Oder Chiou <oder_chiou@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

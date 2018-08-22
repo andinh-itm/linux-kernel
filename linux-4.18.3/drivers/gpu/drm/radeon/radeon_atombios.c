@@ -4480,3 +4480,4 @@ radeon_atombios_encoder_dpms_scratch_regs(struct drm_encoder *encoder, bool on)
 	else
 		WREG32(RADEON_BIOS_2_SCRATCH, bios_2_scratch);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

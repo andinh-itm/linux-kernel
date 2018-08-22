@@ -173,3 +173,4 @@ int snd_pmac_keywest_init(struct pmac_keywest *i2c)
 
 	return -ENODEV;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

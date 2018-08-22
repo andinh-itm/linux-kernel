@@ -648,3 +648,4 @@ void intel_dsi_reset_clocks(struct intel_encoder *encoder, enum port port)
 	else if (IS_VALLEYVIEW(dev_priv) || IS_CHERRYVIEW(dev_priv))
 		vlv_dsi_reset_clocks(encoder, port);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

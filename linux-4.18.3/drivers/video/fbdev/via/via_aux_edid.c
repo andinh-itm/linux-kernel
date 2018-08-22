@@ -98,3 +98,4 @@ void via_aux_edid_probe(struct via_aux_bus *bus)
 	/* as EDID devices can be connected/disconnected just add the driver */
 	via_aux_add(&drv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

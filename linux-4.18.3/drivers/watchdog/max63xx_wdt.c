@@ -293,3 +293,4 @@ MODULE_PARM_DESC(nodelay,
 		 "(max6373/74 only, default=0)");
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

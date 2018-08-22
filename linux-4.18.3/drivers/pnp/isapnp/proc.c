@@ -99,3 +99,4 @@ int __init isapnp_proc_init(void)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

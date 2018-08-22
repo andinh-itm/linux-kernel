@@ -703,3 +703,4 @@ int pp_atomfwctrl_get_smc_dpm_information(struct pp_hwmgr *hwmgr,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

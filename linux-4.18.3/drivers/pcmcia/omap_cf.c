@@ -357,3 +357,4 @@ module_exit(omap_cf_exit);
 MODULE_DESCRIPTION("OMAP CF Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap_cf");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

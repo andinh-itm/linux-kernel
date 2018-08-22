@@ -410,3 +410,4 @@ void __init cmx270_init(void)
 	cmx270_init_2700G();
 	cmx270_init_spi();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -4982,3 +4982,4 @@ module_usb_driver(sd_driver);
 module_param(force_sensor, int, 0644);
 MODULE_PARM_DESC(force_sensor,
 	"Force sensor. 0: cx0342, 1: soi763a");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

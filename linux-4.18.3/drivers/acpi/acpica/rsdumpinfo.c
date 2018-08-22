@@ -532,3 +532,4 @@ struct acpi_rsdump_info acpi_rs_dump_prt[5] = {
 };
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

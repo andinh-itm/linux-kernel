@@ -374,3 +374,4 @@ MACHINE_START(PALMTX, "Palm T|X")
 	.init_machine	= palmtx_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

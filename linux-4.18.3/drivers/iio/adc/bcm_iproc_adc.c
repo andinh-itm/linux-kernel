@@ -641,3 +641,4 @@ module_platform_driver(iproc_adc_driver);
 MODULE_DESCRIPTION("Broadcom iProc ADC controller driver");
 MODULE_AUTHOR("Raveendra Padasalagi <raveendra.padasalagi@broadcom.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

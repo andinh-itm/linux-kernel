@@ -914,3 +914,4 @@ module_platform_driver(st_i2c_driver);
 MODULE_AUTHOR("Maxime Coquelin <maxime.coquelin@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics I2C driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

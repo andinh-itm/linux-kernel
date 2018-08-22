@@ -434,3 +434,4 @@ const char *target_parse_pr_out_transport_id(struct se_portal_group *tpg,
 	*out_tid_len = 24;
 	return buf + offset;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

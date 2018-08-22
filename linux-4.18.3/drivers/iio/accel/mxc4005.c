@@ -534,3 +534,4 @@ module_i2c_driver(mxc4005_driver);
 MODULE_AUTHOR("Teodora Baluta <teodora.baluta@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MXC4005 3-axis accelerometer driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

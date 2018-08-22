@@ -1320,3 +1320,4 @@ module_platform_driver(xadc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("Xilinx XADC IIO driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

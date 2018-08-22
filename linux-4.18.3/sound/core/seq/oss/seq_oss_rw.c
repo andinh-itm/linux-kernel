@@ -214,3 +214,4 @@ snd_seq_oss_poll(struct seq_oss_devinfo *dp, struct file *file, poll_table * wai
 	}
 	return mask;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

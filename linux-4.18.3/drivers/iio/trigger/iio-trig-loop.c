@@ -140,3 +140,4 @@ MODULE_AUTHOR("Jonathan Cameron <jic23@kernel.org>");
 MODULE_DESCRIPTION("Loop based trigger for the iio subsystem");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:iio-trig-loop");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

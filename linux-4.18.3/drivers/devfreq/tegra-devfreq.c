@@ -785,3 +785,4 @@ module_exit(tegra_devfreq_exit)
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Tegra devfreq driver");
 MODULE_AUTHOR("Tomeu Vizoso <tomeu.vizoso@collabora.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

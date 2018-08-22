@@ -273,3 +273,4 @@ MODULE_AUTHOR("Alessandro Zummo <a.zummo@towertech.it>");
 MODULE_DESCRIPTION("AD7416/17/18 driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

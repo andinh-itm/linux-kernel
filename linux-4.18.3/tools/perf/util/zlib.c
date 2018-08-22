@@ -79,3 +79,4 @@ out_close:
 
 	return ret == Z_STREAM_END ? 0 : -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

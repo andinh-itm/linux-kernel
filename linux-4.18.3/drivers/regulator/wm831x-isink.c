@@ -250,3 +250,4 @@ MODULE_AUTHOR("Mark Brown");
 MODULE_DESCRIPTION("WM831x current sink driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-isink");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

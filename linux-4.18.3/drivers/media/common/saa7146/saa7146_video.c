@@ -1308,3 +1308,4 @@ const struct saa7146_use_ops saa7146_video_uops = {
 	.irq_done = video_irq_done,
 	.read = video_read,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

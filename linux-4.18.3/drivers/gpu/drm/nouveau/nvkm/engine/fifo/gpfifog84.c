@@ -93,3 +93,4 @@ g84_fifo_gpfifo_oclass = {
 	.base.maxver = 0,
 	.ctor = g84_fifo_gpfifo_new,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

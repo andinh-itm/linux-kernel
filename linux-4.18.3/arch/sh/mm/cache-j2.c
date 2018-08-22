@@ -63,3 +63,4 @@ void __init j2_cache_init(void)
 
 	pr_info("Initial J2 CCR is %.8x\n", __raw_readl(j2_ccr_base));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

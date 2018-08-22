@@ -190,3 +190,4 @@ err_freepool:
 	efi_call_early(free_pool, seed);
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

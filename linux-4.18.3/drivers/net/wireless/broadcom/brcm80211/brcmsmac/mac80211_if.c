@@ -1702,3 +1702,4 @@ bool brcms_rfkill_set_hw_state(struct brcms_info *wl)
 	spin_lock_bh(&wl->lock);
 	return blocked;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

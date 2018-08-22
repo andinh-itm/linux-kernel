@@ -181,3 +181,4 @@ struct intel_soc_pmic_config intel_soc_pmic_config_cht_crc = {
 	.regmap_config = &crystal_cove_regmap_config,
 	.irq_chip = &crystal_cove_irq_chip,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

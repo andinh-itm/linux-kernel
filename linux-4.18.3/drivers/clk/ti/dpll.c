@@ -689,3 +689,4 @@ static void __init of_ti_omap2_core_dpll_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(ti_omap2_core_dpll_clock, "ti,omap2-dpll-core-clock",
 	       of_ti_omap2_core_dpll_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

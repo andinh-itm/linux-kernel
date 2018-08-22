@@ -152,3 +152,4 @@ struct platform_driver mpc52xx_fec_mdio_driver = {
 EXPORT_SYMBOL_GPL(mpc52xx_fec_mdio_driver);
 
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

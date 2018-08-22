@@ -835,3 +835,4 @@ void dpp1_set_hdr_multiplier(
 
 	REG_UPDATE(CM_HDR_MULT_COEF, CM_HDR_MULT_COEF, multiplier);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

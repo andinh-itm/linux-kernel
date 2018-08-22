@@ -333,3 +333,4 @@ void __init rockchip_suspend_init(void)
 
 	suspend_set_ops(pm_data->ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

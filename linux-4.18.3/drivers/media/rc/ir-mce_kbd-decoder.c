@@ -506,3 +506,4 @@ module_exit(ir_mce_kbd_decode_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jarod Wilson <jarod@redhat.com>");
 MODULE_DESCRIPTION("MCE Keyboard/mouse IR protocol decoder");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

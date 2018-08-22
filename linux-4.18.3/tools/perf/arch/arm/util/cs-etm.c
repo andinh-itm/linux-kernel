@@ -649,3 +649,4 @@ int cs_etm_set_drv_config(struct perf_evsel_config_term *term)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -198,3 +198,4 @@ static struct pcmcia_driver teles_cs_driver = {
 	.resume		= teles_resume,
 };
 module_pcmcia_driver(teles_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

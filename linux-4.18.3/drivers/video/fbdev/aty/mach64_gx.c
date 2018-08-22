@@ -909,3 +909,4 @@ const struct aty_pll_ops aty_pll_unsupported = {
 	.pll_to_var	= (void *) dummy,
 	.set_pll	= (void *) dummy,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

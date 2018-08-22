@@ -740,3 +740,4 @@ static int __init cps_pm_init(void)
 				 cps_pm_online_cpu, NULL);
 }
 arch_initcall(cps_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

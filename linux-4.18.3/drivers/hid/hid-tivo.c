@@ -78,3 +78,4 @@ module_hid_driver(tivo_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jarod Wilson <jarod@redhat.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

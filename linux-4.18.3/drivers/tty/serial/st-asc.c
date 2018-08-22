@@ -1009,3 +1009,4 @@ MODULE_ALIAS("platform:" DRIVER_NAME);
 MODULE_AUTHOR("STMicroelectronics (R&D) Limited");
 MODULE_DESCRIPTION("STMicroelectronics ASC serial port driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

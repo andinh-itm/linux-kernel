@@ -98,3 +98,4 @@ const struct clk_hw_omap_ops clkhwops_omap2430_i2chs_wait = {
 	.find_idlest	= omap2430_clk_i2chs_find_idlest,
 	.find_companion	= omap2_clk_dflt_find_companion,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

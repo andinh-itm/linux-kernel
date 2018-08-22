@@ -765,3 +765,4 @@ int tveeprom_read(struct i2c_client *c, unsigned char *eedata, int len)
 	return 0;
 }
 EXPORT_SYMBOL(tveeprom_read);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

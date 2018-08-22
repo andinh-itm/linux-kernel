@@ -408,3 +408,4 @@ static struct usb_driver usb_kbd_driver = {
 };
 
 module_usb_driver(usb_kbd_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

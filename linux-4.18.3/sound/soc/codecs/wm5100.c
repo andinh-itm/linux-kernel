@@ -2724,3 +2724,4 @@ module_i2c_driver(wm5100_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM5100 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

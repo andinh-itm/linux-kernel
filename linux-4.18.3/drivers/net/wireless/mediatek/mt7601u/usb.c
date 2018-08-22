@@ -382,3 +382,4 @@ static struct usb_driver mt7601u_driver = {
 	.disable_hub_initiated_lpm = 1,
 };
 module_usb_driver(mt7601u_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

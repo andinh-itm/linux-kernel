@@ -192,3 +192,4 @@ int xen_snd_front_shbuf_alloc(struct xenbus_device *xb_dev,
 	fill_page_dir(buf, num_pages_dir);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

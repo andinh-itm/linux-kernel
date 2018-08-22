@@ -242,3 +242,4 @@ ACPI_EXPORT_SYMBOL(acpi_dbg_level)
 ACPI_EXPORT_SYMBOL(acpi_dbg_layer)
 ACPI_EXPORT_SYMBOL(acpi_gpe_count)
 ACPI_EXPORT_SYMBOL(acpi_current_gpe_count)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

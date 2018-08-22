@@ -495,3 +495,4 @@ module_driver(max3191x_driver, max3191x_register_driver, spi_unregister_driver);
 MODULE_AUTHOR("Lukas Wunner <lukas@wunner.de>");
 MODULE_DESCRIPTION("GPIO driver for Maxim MAX3191x industrial serializer");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1295,3 +1295,4 @@ void rtl8723be_dm_watchdog(struct ieee80211_hw *hw)
 	spin_unlock(&rtlpriv->locks.rf_ps_lock);
 	rtlpriv->dm.dbginfo.num_qry_beacon_pkt = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

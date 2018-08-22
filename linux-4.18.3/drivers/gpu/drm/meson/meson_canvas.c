@@ -68,3 +68,4 @@ void meson_canvas_setup(struct meson_drm *priv,
 	/* Force a read-back to make sure everything is flushed. */
 	regmap_read(priv->dmc, DMC_CAV_LUT_DATAH, &val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

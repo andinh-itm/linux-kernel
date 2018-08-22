@@ -1475,3 +1475,4 @@ module_platform_driver(bam_dma_driver);
 MODULE_AUTHOR("Andy Gross <agross@codeaurora.org>");
 MODULE_DESCRIPTION("QCOM BAM DMA engine driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

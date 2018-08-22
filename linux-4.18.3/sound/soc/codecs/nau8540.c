@@ -888,3 +888,4 @@ module_i2c_driver(nau8540_i2c_driver);
 MODULE_DESCRIPTION("ASoC NAU85L40 driver");
 MODULE_AUTHOR("John Hsu <KCHSU0@nuvoton.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

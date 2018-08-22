@@ -129,3 +129,4 @@ void ppc4xx_trng_remove(struct crypto4xx_core_device *core_dev)
 }
 
 MODULE_ALIAS("ppc4xx_rng");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

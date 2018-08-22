@@ -169,3 +169,4 @@ static const struct smp_operations s500_smp_ops __initconst = {
 	.smp_boot_secondary = s500_smp_boot_secondary,
 };
 CPU_METHOD_OF_DECLARE(s500_smp, "actions,s500-smp", &s500_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1877,3 +1877,4 @@ module_platform_driver(s3cmci_driver);
 MODULE_DESCRIPTION("Samsung S3C MMC/SD Card Interface driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Thomas Kleffel <tk@maintech.de>, Ben Dooks <ben-linux@fluff.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

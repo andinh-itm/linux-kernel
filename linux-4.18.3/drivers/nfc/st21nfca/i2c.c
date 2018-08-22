@@ -622,3 +622,4 @@ module_i2c_driver(st21nfca_hci_i2c_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

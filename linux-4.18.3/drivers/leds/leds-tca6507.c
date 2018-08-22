@@ -845,3 +845,4 @@ module_i2c_driver(tca6507_driver);
 MODULE_AUTHOR("NeilBrown <neilb@suse.de>");
 MODULE_DESCRIPTION("TCA6507 LED/GPO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

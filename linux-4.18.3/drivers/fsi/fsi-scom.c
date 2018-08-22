@@ -259,3 +259,4 @@ static void scom_exit(void)
 module_init(scom_init);
 module_exit(scom_exit);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -162,3 +162,4 @@ struct pci_ops sni_pcit_ops = {
 	.read = pcit_read,
 	.write = pcit_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

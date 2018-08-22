@@ -537,3 +537,4 @@ int wlcore_boot_run_firmware(struct wl1271 *wl)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(wlcore_boot_run_firmware);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

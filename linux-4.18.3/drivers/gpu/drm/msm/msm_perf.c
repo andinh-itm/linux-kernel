@@ -250,3 +250,4 @@ void msm_perf_debugfs_cleanup(struct msm_drm_private *priv)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

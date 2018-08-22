@@ -10316,3 +10316,4 @@ b43_nphy_get_chantabent_rev3(struct b43_wldev *dev, u16 freq)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

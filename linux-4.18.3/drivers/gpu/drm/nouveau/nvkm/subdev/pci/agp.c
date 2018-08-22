@@ -173,3 +173,4 @@ nvkm_agp_ctor(struct nvkm_pci *pci)
 	pci->agp.mtrr = arch_phys_wc_add(pci->agp.base, pci->agp.size);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

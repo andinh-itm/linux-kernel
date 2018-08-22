@@ -69,3 +69,4 @@ int apply_relocate_add(Elf32_Shdr *sechdrs,
 	       me->name, rela[i].r_offset);
 	return -ENOEXEC;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

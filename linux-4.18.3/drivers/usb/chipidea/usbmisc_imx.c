@@ -636,3 +636,4 @@ MODULE_ALIAS("platform:usbmisc-imx");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("driver for imx usb non-core registers");
 MODULE_AUTHOR("Richard Zhao <richard.zhao@freescale.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

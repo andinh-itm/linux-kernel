@@ -254,3 +254,4 @@ module_platform_driver(pic32_dmt_driver);
 MODULE_AUTHOR("Purna Chandra Mandal <purna.mandal@microchip.com>");
 MODULE_DESCRIPTION("Microchip PIC32 DMT Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

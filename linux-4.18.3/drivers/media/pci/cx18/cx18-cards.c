@@ -631,3 +631,4 @@ int cx18_get_audio_input(struct cx18 *cx, u16 index, struct v4l2_audio *audio)
 	audio->capability = V4L2_AUDCAP_STEREO;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

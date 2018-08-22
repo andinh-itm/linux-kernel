@@ -75,3 +75,4 @@ void platform_init(void)
 	fdt_init(_dtb_start);
 	serial_console_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

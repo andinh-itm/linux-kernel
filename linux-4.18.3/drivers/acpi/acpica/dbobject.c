@@ -516,3 +516,4 @@ void acpi_db_decode_arguments(struct acpi_walk_state *walk_state)
 		     acpi_ut_get_node_name(node));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

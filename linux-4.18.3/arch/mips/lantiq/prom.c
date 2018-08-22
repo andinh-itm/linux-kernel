@@ -121,3 +121,4 @@ int __init plat_of_setup(void)
 }
 
 arch_initcall(plat_of_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

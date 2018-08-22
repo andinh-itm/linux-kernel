@@ -1543,3 +1543,4 @@ MODULE_AUTHOR("Mike Lavender, David Brownell, "
 MODULE_DESCRIPTION("SPI SD/MMC host driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:mmc_spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

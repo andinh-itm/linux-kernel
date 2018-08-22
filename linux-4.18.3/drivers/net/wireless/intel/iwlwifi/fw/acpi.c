@@ -208,3 +208,4 @@ out:
 	return dflt_pwr_limit;
 }
 IWL_EXPORT_SYMBOL(iwl_acpi_get_pwr_limit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -111,3 +111,4 @@ static int __init aic_irq_of_init(struct device_node *node,
 
 IRQCHIP_DECLARE(jcore_aic2, "jcore,aic2", aic_irq_of_init);
 IRQCHIP_DECLARE(jcore_aic1, "jcore,aic1", aic_irq_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

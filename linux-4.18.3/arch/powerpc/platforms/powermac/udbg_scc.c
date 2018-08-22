@@ -182,3 +182,4 @@ void __init udbg_init_pmac_realmode(void)
 	udbg_getc_poll = NULL;
 }
 #endif /* CONFIG_PPC64 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

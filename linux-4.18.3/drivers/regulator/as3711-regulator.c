@@ -289,3 +289,4 @@ MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_DESCRIPTION("AS3711 regulator driver");
 MODULE_ALIAS("platform:as3711-regulator");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

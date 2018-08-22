@@ -914,3 +914,4 @@ int hdmi5_core_init(struct platform_device *pdev, struct hdmi_core_data *core)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

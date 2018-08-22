@@ -469,3 +469,4 @@ module_exit(intel_quark_thermal_exit)
 MODULE_DESCRIPTION("Intel Quark DTS Thermal Driver");
 MODULE_AUTHOR("Ong Boon Leong <boon.leong.ong@intel.com>");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

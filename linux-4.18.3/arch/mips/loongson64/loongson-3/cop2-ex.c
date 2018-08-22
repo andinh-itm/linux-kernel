@@ -62,3 +62,4 @@ static int __init loongson_cu2_setup(void)
 	return cu2_notifier(loongson_cu2_call, 0);
 }
 early_initcall(loongson_cu2_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

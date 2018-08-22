@@ -2642,3 +2642,4 @@ int ceph_pg_to_acting_primary(struct ceph_osdmap *osdmap,
 	return acting.primary;
 }
 EXPORT_SYMBOL(ceph_pg_to_acting_primary);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -396,3 +396,4 @@ void efi_get_virtmap(efi_memory_desc_t *memory_map, unsigned long map_size,
 		++*count;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

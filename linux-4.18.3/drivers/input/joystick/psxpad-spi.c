@@ -399,3 +399,4 @@ module_spi_driver(psxpad_spi_driver);
 MODULE_AUTHOR("Tomohiro Yoshidomi <sylph23k@gmail.com>");
 MODULE_DESCRIPTION("PlayStation 1/2 joypads via SPI interface Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

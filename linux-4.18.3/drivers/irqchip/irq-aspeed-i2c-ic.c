@@ -113,3 +113,4 @@ err_free_ic:
 
 IRQCHIP_DECLARE(ast2400_i2c_ic, "aspeed,ast2400-i2c-ic", aspeed_i2c_ic_of_init);
 IRQCHIP_DECLARE(ast2500_i2c_ic, "aspeed,ast2500-i2c-ic", aspeed_i2c_ic_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

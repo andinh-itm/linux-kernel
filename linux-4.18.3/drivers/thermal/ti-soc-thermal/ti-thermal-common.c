@@ -284,3 +284,4 @@ int ti_thermal_unregister_cpu_cooling(struct ti_bandgap *bgp, int id)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

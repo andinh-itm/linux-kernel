@@ -76,3 +76,4 @@ void __init plat_mem_setup(void)
 		add_preferred_console("arc", 0, NULL);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

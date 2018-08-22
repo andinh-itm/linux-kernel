@@ -200,3 +200,4 @@ MODULE_DESCRIPTION("JZ4740 MUSB Glue Layer");
 MODULE_AUTHOR("Apelete Seketeli <apelete@seketeli.net>");
 MODULE_LICENSE("GPL v2");
 module_platform_driver(jz4740_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

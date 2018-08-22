@@ -592,3 +592,4 @@ static void __exit t1isa_exit(void)
 
 module_init(t1isa_init);
 module_exit(t1isa_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -77,3 +77,4 @@ struct platform_device iop3xx_i2c1_device = {
 	.num_resources	= 2,
 	.resource	= iop3xx_i2c1_resources,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -153,3 +153,4 @@ void iwl_get_shared_mem_conf(struct iwl_fw_runtime *fwrt)
 	iwl_free_resp(&cmd);
 }
 IWL_EXPORT_SYMBOL(iwl_get_shared_mem_conf);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -23,3 +23,4 @@ DT_MACHINE_START(NSP_DT, "Broadcom Northstar Plus SoC")
 	.l2c_aux_mask	= ~0,
 	.dt_compat = bcm_nsp_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

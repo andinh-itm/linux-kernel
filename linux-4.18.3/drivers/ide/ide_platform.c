@@ -135,3 +135,4 @@ module_platform_driver(platform_ide_driver);
 MODULE_DESCRIPTION("Platform IDE driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pata_platform");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

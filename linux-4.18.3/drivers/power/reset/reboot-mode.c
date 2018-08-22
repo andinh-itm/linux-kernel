@@ -197,3 +197,4 @@ EXPORT_SYMBOL_GPL(devm_reboot_mode_unregister);
 MODULE_AUTHOR("Andy Yan <andy.yan@rock-chips.com");
 MODULE_DESCRIPTION("System reboot mode core library");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

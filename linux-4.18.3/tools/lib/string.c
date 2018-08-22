@@ -106,3 +106,4 @@ size_t __weak strlcpy(char *dest, const char *src, size_t size)
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -280,3 +280,4 @@ MODULE_AUTHOR("Joonyoung Shim <jy0922.shim@samsung.com>");
 MODULE_AUTHOR("HeungJun Kim <riverful.kim@samsung.com>");
 MODULE_DESCRIPTION("Touchkey driver for MELFAS MCS5000/5080 controller");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

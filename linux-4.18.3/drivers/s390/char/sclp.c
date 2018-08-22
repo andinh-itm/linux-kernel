@@ -1257,3 +1257,4 @@ fail_platform_driver_unregister:
 }
 
 arch_initcall(sclp_initcall);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

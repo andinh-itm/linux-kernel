@@ -4607,3 +4607,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sensors_nct6775_init);
 module_exit(sensors_nct6775_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

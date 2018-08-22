@@ -345,3 +345,4 @@ free_memory:
 }
 
 CLK_OF_DECLARE(mmp2_clk, "marvell,mmp2-clock", mmp2_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

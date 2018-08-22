@@ -1924,3 +1924,4 @@ struct bus_type usb_bus_type = {
 	.uevent =	usb_uevent,
 	.need_parent_lock =	true,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

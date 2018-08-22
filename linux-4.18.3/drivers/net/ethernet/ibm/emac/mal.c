@@ -785,3 +785,4 @@ void mal_exit(void)
 {
 	platform_driver_unregister(&mal_of_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

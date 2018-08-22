@@ -971,3 +971,4 @@ static int register_update_efi_random_seed(void)
 }
 late_initcall(register_update_efi_random_seed);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

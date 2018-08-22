@@ -1289,3 +1289,4 @@ struct regmap_config wm8994_base_regmap_config = {
 	.val_bits = 16,
 };
 EXPORT_SYMBOL(wm8994_base_regmap_config);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

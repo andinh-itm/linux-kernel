@@ -306,3 +306,4 @@ void rtl88eu_phy_rf6052_set_ofdm_txpower(struct adapter *adapt,
 		write_ofdm_pwr_reg(adapt, index, &write_val[0]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

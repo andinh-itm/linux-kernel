@@ -341,3 +341,4 @@ module_exit(cleanup_slram);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jochen Schaeuble <psionic@psionic.de>");
 MODULE_DESCRIPTION("MTD driver for uncached system RAM");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

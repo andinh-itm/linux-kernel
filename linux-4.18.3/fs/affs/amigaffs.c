@@ -514,3 +514,4 @@ affs_copy_name(unsigned char *bstr, struct dentry *dentry)
 	memcpy(bstr, dentry->d_name.name, len);
 	return len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

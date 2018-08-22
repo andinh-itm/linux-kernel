@@ -207,3 +207,4 @@ int spk_handle_help(struct vc_data *vc, u_char type, u_char ch, u_short key)
 	}
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

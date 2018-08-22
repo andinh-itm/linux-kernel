@@ -30,3 +30,4 @@ void prom_putchar(char c)
 	ltq_w8(c, LTQ_ASC_TBUF);
 	local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

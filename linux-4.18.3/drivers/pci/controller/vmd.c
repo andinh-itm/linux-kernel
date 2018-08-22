@@ -868,3 +868,4 @@ module_pci_driver(vmd_drv);
 MODULE_AUTHOR("Intel Corporation");
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION("0.6");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

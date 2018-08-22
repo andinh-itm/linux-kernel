@@ -175,3 +175,4 @@ void ibmasm_event_buffer_exit(struct service_processor *sp)
 {
 	kfree(sp->event_buffer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

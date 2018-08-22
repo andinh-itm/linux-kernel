@@ -65,3 +65,4 @@ struct pci_ops sh5_pci_ops = {
 	.read		= sh5pci_read,
 	.write		= sh5pci_write,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -248,3 +248,4 @@ MODULE_LICENSE("GPL");
 
 module_init(ams_init);
 module_exit(ams_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

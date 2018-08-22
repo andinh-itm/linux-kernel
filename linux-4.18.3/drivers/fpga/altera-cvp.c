@@ -507,3 +507,4 @@ module_pci_driver(altera_cvp_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Anatolij Gustschin <agust@denx.de>");
 MODULE_DESCRIPTION("Module to load Altera FPGA over CvP");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

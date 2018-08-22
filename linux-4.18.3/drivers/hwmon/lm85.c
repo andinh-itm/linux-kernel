@@ -1695,3 +1695,4 @@ MODULE_AUTHOR("Philip Pokorny <ppokorny@penguincomputing.com>, "
 	"Margit Schubert-While <margitsw@t-online.de>, "
 	"Justin Thiessen <jthiessen@penguincomputing.com>");
 MODULE_DESCRIPTION("LM85-B, LM85-C driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -279,3 +279,4 @@ static __videocard video_vesa =
 	.xmode_first	= VIDEO_FIRST_VESA,
 	.xmode_n	= 0x200,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

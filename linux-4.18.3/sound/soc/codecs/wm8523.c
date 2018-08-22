@@ -542,3 +542,4 @@ module_i2c_driver(wm8523_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8523 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -835,3 +835,4 @@ XZ_EXTERN void xz_dec_end(struct xz_dec *s)
 		kfree(s);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

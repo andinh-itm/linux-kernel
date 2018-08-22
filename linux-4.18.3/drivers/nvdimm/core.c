@@ -471,3 +471,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Intel Corporation");
 subsys_initcall(libnvdimm_init);
 module_exit(libnvdimm_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

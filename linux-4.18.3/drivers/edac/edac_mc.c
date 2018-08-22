@@ -1258,3 +1258,4 @@ void edac_mc_handle_error(const enum hw_event_mc_err_type type,
 	edac_raw_mc_handle_error(type, mci, e);
 }
 EXPORT_SYMBOL_GPL(edac_mc_handle_error);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

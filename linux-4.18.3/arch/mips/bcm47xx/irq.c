@@ -96,3 +96,4 @@ void __init arch_init_irq(void)
 		set_vi_handler(7, bcm47xx_hw7_irqdispatch);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

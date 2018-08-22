@@ -291,3 +291,4 @@ int romfs_dev_strcmp(struct super_block *sb, unsigned long pos,
 #endif
 	return -EIO;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

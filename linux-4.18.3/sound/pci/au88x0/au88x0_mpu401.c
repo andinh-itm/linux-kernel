@@ -110,3 +110,4 @@ static int snd_vortex_midi(vortex_t *vortex)
 	vortex->rmidi = rmidi;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

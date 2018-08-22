@@ -102,3 +102,4 @@ void __set_fixmap(enum fixed_addresses idx, unsigned long phys, pgprot_t prot)
 void pgtable_cache_init(void)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

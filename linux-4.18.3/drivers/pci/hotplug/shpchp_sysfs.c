@@ -80,3 +80,4 @@ void shpchp_remove_ctrl_files(struct controller *ctrl)
 {
 	device_remove_file(&ctrl->pci_dev->dev, &dev_attr_ctrl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

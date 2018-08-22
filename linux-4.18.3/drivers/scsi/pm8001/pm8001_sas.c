@@ -1313,3 +1313,4 @@ int pm8001_clear_task_set(struct domain_device *dev, u8 *lun)
 	return rc;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

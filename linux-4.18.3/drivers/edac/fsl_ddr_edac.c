@@ -630,3 +630,4 @@ int fsl_mc_err_remove(struct platform_device *op)
 	edac_mc_free(mci);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -355,3 +355,4 @@ int kfd_iommu_add_perf_counters(struct kfd_topology_device *kdev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

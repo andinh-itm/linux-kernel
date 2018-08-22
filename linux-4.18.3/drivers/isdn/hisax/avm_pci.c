@@ -901,3 +901,4 @@ int setup_avm_pcipnp(struct IsdnCard *card)
 ready:
 	return avm_setup_rest(cs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

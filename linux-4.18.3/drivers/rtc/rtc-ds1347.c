@@ -173,3 +173,4 @@ module_spi_driver(ds1347_driver);
 MODULE_DESCRIPTION("DS1347 SPI RTC DRIVER");
 MODULE_AUTHOR("Raghavendra C Ganiga <ravi23ganiga@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

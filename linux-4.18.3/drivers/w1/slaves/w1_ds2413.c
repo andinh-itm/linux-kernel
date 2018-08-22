@@ -136,3 +136,4 @@ MODULE_AUTHOR("Mariusz Bialonczyk <manio@skyboo.net>");
 MODULE_DESCRIPTION("w1 family 3a driver for DS2413 2 Pin IO");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("w1-family-" __stringify(W1_FAMILY_DS2413));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

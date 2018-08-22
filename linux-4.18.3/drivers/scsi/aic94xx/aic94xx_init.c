@@ -1071,3 +1071,4 @@ MODULE_AUTHOR("Luben Tuikov <luben_tuikov@adaptec.com>");
 MODULE_DESCRIPTION(ASD_DRIVER_DESCRIPTION);
 MODULE_LICENSE("GPL v2");
 MODULE_VERSION(ASD_DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -376,3 +376,4 @@ const struct samsung_usb2_phy_config exynos4x12_usb2_phy_config = {
 	.phys			= exynos4x12_phys,
 	.rate_to_clk		= exynos4x12_rate_to_clk,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

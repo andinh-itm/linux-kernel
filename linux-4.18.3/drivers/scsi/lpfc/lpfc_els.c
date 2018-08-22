@@ -9488,3 +9488,4 @@ lpfc_sli_abts_recover_port(struct lpfc_vport *vport,
 	lpfc_nlp_set_state(vport, ndlp, NLP_STE_LOGO_ISSUE);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

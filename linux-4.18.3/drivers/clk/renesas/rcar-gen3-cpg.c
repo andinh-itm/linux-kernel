@@ -585,3 +585,4 @@ int __init rcar_gen3_cpg_init(const struct rcar_gen3_cpg_pll_config *config,
 	pr_debug("%s: mode = 0x%x quirks = 0x%x\n", __func__, mode, cpg_quirks);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

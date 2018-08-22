@@ -156,3 +156,4 @@ module_platform_driver(gpio_ir_recv_driver);
 
 MODULE_DESCRIPTION("GPIO IR Receiver driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

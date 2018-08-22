@@ -1419,3 +1419,4 @@ module_platform_driver_probe(docg4_driver, probe_docg4);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mike Dunn");
 MODULE_DESCRIPTION("M-Systems DiskOnChip G4 device driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

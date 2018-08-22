@@ -1044,3 +1044,4 @@ int jfs_init_security(tid_t tid, struct inode *inode, struct inode *dir,
 					    &jfs_initxattrs, &tid);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

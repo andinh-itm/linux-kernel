@@ -485,3 +485,4 @@ module_platform_driver(meson_i2c_driver);
 MODULE_DESCRIPTION("Amlogic Meson I2C Bus driver");
 MODULE_AUTHOR("Beniamino Galvani <b.galvani@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

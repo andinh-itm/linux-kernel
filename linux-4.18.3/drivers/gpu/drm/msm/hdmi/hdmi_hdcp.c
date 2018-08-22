@@ -1435,3 +1435,4 @@ void msm_hdmi_hdcp_destroy(struct hdmi *hdmi)
 		hdmi->hdcp_ctrl = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

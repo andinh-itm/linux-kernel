@@ -209,3 +209,4 @@ int ide_timing_compute(ide_drive_t *drive, u8 speed,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(ide_timing_compute);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

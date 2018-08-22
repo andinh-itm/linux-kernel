@@ -1197,3 +1197,4 @@ fail:
 
 EXPORT_SYMBOL(sungem_phy_probe);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

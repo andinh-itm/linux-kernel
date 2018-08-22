@@ -497,3 +497,4 @@ int pci_enable_resources(struct pci_dev *dev, int mask)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -76,3 +76,4 @@ void mxc_iomux_v3_init(void __iomem *iomux_v3_base)
 {
 	base = iomux_v3_base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

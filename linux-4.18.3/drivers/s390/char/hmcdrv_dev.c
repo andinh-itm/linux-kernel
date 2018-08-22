@@ -367,3 +367,4 @@ void hmcdrv_dev_exit(void)
 	misc_deregister(&hmcdrv_dev.dev);
 #endif	/* HMCDRV_DEV_CLASS */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

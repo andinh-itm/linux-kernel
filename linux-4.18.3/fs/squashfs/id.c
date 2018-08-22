@@ -100,3 +100,4 @@ __le64 *squashfs_read_id_index_table(struct super_block *sb,
 
 	return table;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

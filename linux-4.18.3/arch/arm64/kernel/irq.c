@@ -83,3 +83,4 @@ void __init init_IRQ(void)
 	if (!handle_arch_irq)
 		panic("No interrupt controller found.");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

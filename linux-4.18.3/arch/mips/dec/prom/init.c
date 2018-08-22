@@ -135,3 +135,4 @@ void __init prom_init(void)
 	prom_identify_arch(magic);
 	prom_init_cmdline(argc, argv, magic);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

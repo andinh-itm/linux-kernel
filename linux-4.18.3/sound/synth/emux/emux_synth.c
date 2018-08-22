@@ -980,3 +980,4 @@ void snd_emux_unlock_voice(struct snd_emux *emu, int voice)
 }
 
 EXPORT_SYMBOL(snd_emux_unlock_voice);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

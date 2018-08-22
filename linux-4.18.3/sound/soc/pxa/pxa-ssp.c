@@ -875,3 +875,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("PXA SSP/PCM SoC Interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa-ssp-dai");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

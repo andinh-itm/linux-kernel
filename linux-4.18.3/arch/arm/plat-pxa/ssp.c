@@ -288,3 +288,4 @@ module_exit(pxa_ssp_exit);
 MODULE_DESCRIPTION("PXA SSP driver");
 MODULE_AUTHOR("Liam Girdwood");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

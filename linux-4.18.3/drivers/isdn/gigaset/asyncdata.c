@@ -607,3 +607,4 @@ int gigaset_m10x_send_skb(struct bc_state *bcs, struct sk_buff *skb)
 	return len;	/* ok so far */
 }
 EXPORT_SYMBOL_GPL(gigaset_m10x_send_skb);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

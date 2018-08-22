@@ -267,3 +267,4 @@ static struct sh_machine_vector mv_sdk7786 __initmv = {
 	.mv_clk_init		= sdk7786_clk_init,
 	.mv_init_irq		= sdk7786_init_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

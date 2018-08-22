@@ -266,3 +266,4 @@ static void __exit trng_exit(void)
 
 module_cpu_feature_match(MSA, trng_init);
 module_exit(trng_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

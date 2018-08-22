@@ -56,3 +56,4 @@ void gma_get_core_freq(struct drm_device *dev)
 		dev_priv->core_freq = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

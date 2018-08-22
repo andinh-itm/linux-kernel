@@ -2009,3 +2009,4 @@ void dm_pool_issue_prefetches(struct dm_pool_metadata *pmd)
 		dm_tm_issue_prefetches(pmd->tm);
 	up_read(&pmd->root_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

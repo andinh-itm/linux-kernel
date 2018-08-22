@@ -543,3 +543,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mike Rapoport <mike@compulab.co.il>");
 MODULE_DESCRIPTION("Regulator Driver for TI TPS6586X PMIC");
 MODULE_ALIAS("platform:tps6586x-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

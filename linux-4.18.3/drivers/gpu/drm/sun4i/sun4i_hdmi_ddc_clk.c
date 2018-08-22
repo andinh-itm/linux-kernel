@@ -144,3 +144,4 @@ int sun4i_ddc_create(struct sun4i_hdmi *hdmi, struct clk *parent)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -696,3 +696,4 @@ struct iscsi_seq *iscsit_get_seq_holder(
 		length);
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1213,3 +1213,4 @@ int mlx5_nic_vport_unaffiliate_multiport(struct mlx5_core_dev *port_mdev)
 	return err;
 }
 EXPORT_SYMBOL_GPL(mlx5_nic_vport_unaffiliate_multiport);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

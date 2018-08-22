@@ -228,3 +228,4 @@ void __exit msm_hdmi_phy_driver_unregister(void)
 {
 	platform_driver_unregister(&msm_hdmi_phy_platform_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

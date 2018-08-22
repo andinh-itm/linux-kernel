@@ -2753,3 +2753,4 @@ module_exit(gcc_msm8660_exit);
 MODULE_DESCRIPTION("GCC MSM 8660 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-msm8660");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

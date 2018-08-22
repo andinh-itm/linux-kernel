@@ -106,3 +106,4 @@ void __init tegra_cpu_reset_handler_init(void)
 
 	tegra_cpu_reset_handler_enable();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -103,3 +103,4 @@ MODULE_DESCRIPTION("Yellowstone RAPIDE driver");
 
 module_init(rapide_init);
 module_exit(rapide_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

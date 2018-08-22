@@ -189,3 +189,4 @@ void dasd_gendisk_exit(void)
 {
 	unregister_blkdev(DASD_MAJOR, "dasd");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

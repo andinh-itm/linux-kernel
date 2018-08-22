@@ -596,3 +596,4 @@ void usb_hub_remove_port_device(struct usb_hub *hub, int port1)
 		unlink_peers(port_dev, peer);
 	device_unregister(&port_dev->dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

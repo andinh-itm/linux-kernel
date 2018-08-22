@@ -95,3 +95,4 @@ static int __init numachip_timer_init(void)
 }
 
 arch_initcall(numachip_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

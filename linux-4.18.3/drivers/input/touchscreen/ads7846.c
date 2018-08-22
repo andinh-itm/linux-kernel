@@ -1507,3 +1507,4 @@ module_spi_driver(ads7846_driver);
 MODULE_DESCRIPTION("ADS7846 TouchScreen Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:ads7846");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

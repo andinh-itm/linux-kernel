@@ -857,3 +857,4 @@ void msm_video_unregister(struct camss_video *video)
 	video_unregister_device(&video->vdev);
 	atomic_dec(&video->camss->ref_count);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

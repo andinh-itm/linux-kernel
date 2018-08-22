@@ -1333,3 +1333,4 @@ static int smu_device_init(void)
 	return 0;
 }
 device_initcall(smu_device_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

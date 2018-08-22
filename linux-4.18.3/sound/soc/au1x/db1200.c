@@ -195,3 +195,4 @@ module_platform_driver(db1200_audio_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("DB1200/DB1300/DB1550 ASoC audio support");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

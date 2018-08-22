@@ -298,3 +298,4 @@ void wm831x_auxadc_init(struct wm831x *wm831x)
 	if (!wm831x->auxadc_read)
 		wm831x->auxadc_read = wm831x_auxadc_read_polled;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

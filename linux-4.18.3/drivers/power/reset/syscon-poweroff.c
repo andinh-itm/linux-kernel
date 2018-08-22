@@ -113,3 +113,4 @@ static int __init syscon_poweroff_register(void)
 	return platform_driver_register(&syscon_poweroff_driver);
 }
 device_initcall(syscon_poweroff_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

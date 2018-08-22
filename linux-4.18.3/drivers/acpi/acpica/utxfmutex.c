@@ -152,3 +152,4 @@ acpi_status acpi_release_mutex(acpi_handle handle, acpi_string pathname)
 }
 
 ACPI_EXPORT_SYMBOL(acpi_release_mutex)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

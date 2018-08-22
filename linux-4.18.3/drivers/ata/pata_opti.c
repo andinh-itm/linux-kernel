@@ -197,3 +197,4 @@ MODULE_DESCRIPTION("low-level driver for Opti 621/621X");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, opti);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

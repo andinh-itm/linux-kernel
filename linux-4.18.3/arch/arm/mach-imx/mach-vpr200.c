@@ -313,3 +313,4 @@ MACHINE_START(VPR200, "VPR200")
 	.init_late	= vpr200_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

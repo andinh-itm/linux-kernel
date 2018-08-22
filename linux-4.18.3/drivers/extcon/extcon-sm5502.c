@@ -709,3 +709,4 @@ subsys_initcall(sm5502_muic_i2c_init);
 MODULE_DESCRIPTION("Silicon Mitus SM5502 Extcon driver");
 MODULE_AUTHOR("Chanwoo Choi <cw00.choi@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

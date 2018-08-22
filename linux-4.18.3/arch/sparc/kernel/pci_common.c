@@ -544,3 +544,4 @@ void pci_scan_for_parity_error(struct pci_pbm_info *pbm,
 	list_for_each_entry(bus, &pbus->children, node)
 		pci_scan_for_parity_error(pbm, bus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

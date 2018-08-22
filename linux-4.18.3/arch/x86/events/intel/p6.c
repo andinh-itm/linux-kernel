@@ -278,3 +278,4 @@ __init int p6_pmu_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

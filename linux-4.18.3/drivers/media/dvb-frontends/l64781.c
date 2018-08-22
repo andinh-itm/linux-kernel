@@ -607,3 +607,4 @@ MODULE_AUTHOR("Holger Waechtler, Marko Kohtala");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(l64781_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

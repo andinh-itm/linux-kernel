@@ -1541,3 +1541,4 @@ void cxgb4_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &cxgb_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

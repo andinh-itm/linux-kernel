@@ -386,3 +386,4 @@ static struct hid_driver steelseries_srws1_driver = {
 
 module_hid_driver(steelseries_srws1_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

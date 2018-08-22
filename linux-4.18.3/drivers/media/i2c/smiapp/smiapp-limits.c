@@ -124,3 +124,4 @@ struct smiapp_reg_limits smiapp_reg_limits[] = {
 	{ SMIAPP_REG_U16_ANALOGUE_GAIN_CODE_STEP, "analogue_gain_code_step" },
 	{ 0, NULL },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

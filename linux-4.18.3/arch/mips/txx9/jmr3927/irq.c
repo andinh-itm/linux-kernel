@@ -126,3 +126,4 @@ void __init jmr3927_irq_setup(void)
 	/* setup IOC interrupt 1 (PCI, MODEM) */
 	irq_set_chained_handler(JMR3927_IRQ_IOCINT, handle_simple_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

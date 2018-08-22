@@ -293,3 +293,4 @@ module_init(pmagbafb_init);
 module_exit(pmagbafb_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

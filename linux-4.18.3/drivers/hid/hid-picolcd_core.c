@@ -680,3 +680,4 @@ module_hid_driver(picolcd_driver);
 
 MODULE_DESCRIPTION("Minibox graphics PicoLCD Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

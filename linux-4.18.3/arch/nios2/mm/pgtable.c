@@ -72,3 +72,4 @@ void __init pagetable_init(void)
 	pgd_init(swapper_pg_dir);
 	pgd_init(swapper_pg_dir + USER_PTRS_PER_PGD);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -606,3 +606,4 @@ static void __exit com20020pci_cleanup(void)
 
 module_init(com20020pci_init)
 module_exit(com20020pci_cleanup)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

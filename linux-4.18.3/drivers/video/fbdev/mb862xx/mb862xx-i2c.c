@@ -170,3 +170,4 @@ void mb862xx_i2c_exit(struct mb862xxfb_par *par)
 		par->adap = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

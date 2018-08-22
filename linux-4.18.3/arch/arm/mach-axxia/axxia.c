@@ -26,3 +26,4 @@ static const char *const axxia_dt_match[] __initconst = {
 DT_MACHINE_START(AXXIA_DT, "LSI Axxia AXM55XX")
 	.dt_compat = axxia_dt_match,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

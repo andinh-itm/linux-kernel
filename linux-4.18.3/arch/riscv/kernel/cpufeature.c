@@ -59,3 +59,4 @@ void riscv_fill_hwcap(void)
 
 	pr_info("elf_hwcap is 0x%lx", elf_hwcap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

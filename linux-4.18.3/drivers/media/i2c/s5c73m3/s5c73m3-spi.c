@@ -159,3 +159,4 @@ void s5c73m3_unregister_spi_driver(struct s5c73m3 *state)
 {
 	spi_unregister_driver(&state->spidrv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

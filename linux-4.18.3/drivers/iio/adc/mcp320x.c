@@ -535,3 +535,4 @@ module_spi_driver(mcp320x_driver);
 MODULE_AUTHOR("Oskar Andero <oskar.andero@gmail.com>");
 MODULE_DESCRIPTION("Microchip Technology MCP3x01/02/04/08 and MCP3550/1/3");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

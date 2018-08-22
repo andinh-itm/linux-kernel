@@ -511,3 +511,4 @@ void ath9k_hw_ani_init(struct ath_hw *ah)
 	ath9k_ani_restart(ah);
 	ath9k_enable_mib_counters(ah);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

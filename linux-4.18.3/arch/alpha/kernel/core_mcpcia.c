@@ -612,3 +612,4 @@ mcpcia_machine_check(unsigned long vector, unsigned long la_ptr)
 		mcpcia_print_system_area(la_ptr);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

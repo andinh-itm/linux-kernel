@@ -165,3 +165,4 @@ MODULE_DESCRIPTION("Toshiba TMIO SD/MMC driver");
 MODULE_AUTHOR("Ian Molton <spyro@f2s.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:tmio-mmc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

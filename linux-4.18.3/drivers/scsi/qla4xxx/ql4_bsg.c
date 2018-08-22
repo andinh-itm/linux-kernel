@@ -871,3 +871,4 @@ int qla4xxx_bsg_request(struct bsg_job *bsg_job)
 
 	return -ENOSYS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

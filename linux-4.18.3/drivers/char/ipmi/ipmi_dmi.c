@@ -295,3 +295,4 @@ static int __init scan_for_dmi_ipmi(void)
 	return 0;
 }
 subsys_initcall(scan_for_dmi_ipmi);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

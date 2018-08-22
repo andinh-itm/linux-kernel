@@ -527,3 +527,4 @@ void pch_gbe_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &pch_gbe_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

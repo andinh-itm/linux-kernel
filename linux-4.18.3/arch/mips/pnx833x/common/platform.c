@@ -237,3 +237,4 @@ static int __init pnx833x_platform_init(void)
 }
 
 arch_initcall(pnx833x_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

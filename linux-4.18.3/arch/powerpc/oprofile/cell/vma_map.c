@@ -281,3 +281,4 @@ struct vma_to_fileoffset_map *create_vma_map(const struct spu *aSpu,
  out:
 	return map;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

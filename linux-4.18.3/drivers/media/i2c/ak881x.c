@@ -331,3 +331,4 @@ module_i2c_driver(ak881x_i2c_driver);
 MODULE_DESCRIPTION("TV-output driver for ak8813/ak8814");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

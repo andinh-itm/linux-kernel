@@ -652,3 +652,4 @@ int __init vcs_init(void)
 		vcs_make_sysfs(i);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

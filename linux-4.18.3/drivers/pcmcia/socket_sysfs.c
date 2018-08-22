@@ -229,3 +229,4 @@ void pccard_sysfs_remove_socket(struct device *dev)
 {
 	sysfs_remove_group(&dev->kobj, &socket_attrs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

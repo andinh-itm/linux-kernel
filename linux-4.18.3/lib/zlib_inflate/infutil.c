@@ -47,3 +47,4 @@ gunzip_nomem2:
 gunzip_nomem1:
 	return rc; /* returns Z_OK (0) if successful */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -126,3 +126,4 @@ MODULE_DESCRIPTION("Au1xxx TOY-counter-based RTC driver");
 MODULE_AUTHOR("Manuel Lauss <manuel.lauss@gmail.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-au1xxx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

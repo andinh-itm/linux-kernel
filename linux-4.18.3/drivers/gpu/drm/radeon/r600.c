@@ -4615,3 +4615,4 @@ uint64_t r600_get_gpu_clock_counter(struct radeon_device *rdev)
 	mutex_unlock(&rdev->gpu_clock_mutex);
 	return clock;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -6708,3 +6708,4 @@ lpfc_parse_fcoe_conf(struct lpfc_hba *phba,
 		lpfc_read_fcf_conn_tbl(phba, rec_ptr);
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

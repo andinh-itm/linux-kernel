@@ -1480,3 +1480,4 @@ MODULE_PARM_DESC(sysbus_parity, "0=disable system bus parity checking,"
 module_param(report_non_memory_errors, int, 0644);
 MODULE_PARM_DESC(report_non_memory_errors, "0=disable non-memory error "
 		"reporting, 1=enable non-memory error reporting");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

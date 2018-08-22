@@ -1212,3 +1212,4 @@ MODULE_DESCRIPTION("ASoC WM8997 driver");
 MODULE_AUTHOR("Charles Keepax <ckeepax@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8997-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

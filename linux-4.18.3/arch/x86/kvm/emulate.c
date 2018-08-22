@@ -5806,3 +5806,4 @@ bool emulator_can_use_gpa(struct x86_emulate_ctxt *ctxt)
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

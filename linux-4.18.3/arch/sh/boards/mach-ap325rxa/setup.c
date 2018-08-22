@@ -693,3 +693,4 @@ static struct sh_machine_vector mv_ap325rxa __initmv = {
 	.mv_name = "AP-325RXA",
 	.mv_mode_pins = ap325rxa_mode_pins,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

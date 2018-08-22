@@ -115,3 +115,4 @@ const struct raid6_recov_calls raid6_recov_s390xc = {
 	.name = "s390xc",
 	.priority = 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

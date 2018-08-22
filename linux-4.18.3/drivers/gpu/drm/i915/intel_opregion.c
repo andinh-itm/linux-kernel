@@ -1122,3 +1122,4 @@ intel_opregion_get_panel_type(struct drm_i915_private *dev_priv)
 
 	return ret - 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -394,3 +394,4 @@ nvkm_i2c_new_(const struct nvkm_i2c_func *func, struct nvkm_device *device,
 
 	return nvkm_event_init(&nvkm_i2c_intr_func, 4, i, &i2c->event);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -338,3 +338,4 @@ module_i2c_driver(mxl301rf_driver);
 MODULE_DESCRIPTION("MaxLinear MXL301RF tuner");
 MODULE_AUTHOR("Akihiro TSUKADA");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

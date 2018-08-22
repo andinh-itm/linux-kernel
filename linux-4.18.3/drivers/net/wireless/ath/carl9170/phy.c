@@ -1727,3 +1727,4 @@ int carl9170_set_channel(struct ar9170 *ar, struct ieee80211_channel *channel,
 	ar->ht_settings = new_ht;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -129,3 +129,4 @@ void __init mpc85xx_qe_par_io_init(void)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

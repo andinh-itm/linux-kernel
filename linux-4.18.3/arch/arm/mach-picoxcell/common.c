@@ -82,3 +82,4 @@ DT_MACHINE_START(PICOXCELL, "Picochip picoXcell")
 	.dt_compat	= picoxcell_dt_match,
 	.restart	= picoxcell_wdt_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

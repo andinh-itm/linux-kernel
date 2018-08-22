@@ -175,3 +175,4 @@ static struct platform_driver ixp4xx_spkr_platform_driver = {
 };
 module_platform_driver(ixp4xx_spkr_platform_driver);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

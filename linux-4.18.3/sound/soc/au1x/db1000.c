@@ -54,3 +54,4 @@ module_platform_driver(db1000_audio_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("DB1000/DB1500/DB1100 ASoC audio");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -36,3 +36,4 @@ DT_MACHINE_START(R8A7790_DT, "Generic R8A7790 (Flattened Device Tree)")
 	.reserve	= rcar_gen2_reserve,
 	.dt_compat	= r8a7790_boards_compat_dt,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

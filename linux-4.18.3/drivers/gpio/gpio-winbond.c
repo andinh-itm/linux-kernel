@@ -730,3 +730,4 @@ MODULE_PARM_DESC(beepgpio,
 MODULE_AUTHOR("Maciej S. Szmigiero <mail@maciej.szmigiero.name>");
 MODULE_DESCRIPTION("GPIO interface for Winbond Super I/O chips");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

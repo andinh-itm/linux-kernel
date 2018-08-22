@@ -445,3 +445,4 @@ void prom_resumecpu(int cpunode)
 	p1275_cmd_direct(args);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

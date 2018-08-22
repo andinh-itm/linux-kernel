@@ -320,3 +320,4 @@ __init int knc_pmu_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

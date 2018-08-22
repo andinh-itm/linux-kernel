@@ -1495,3 +1495,4 @@ int scif_client_register(struct scif_client *client)
 	return subsys_interface_register(&client->si);
 }
 EXPORT_SYMBOL_GPL(scif_client_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -536,3 +536,4 @@ int __kprobes disasm_next_pc(unsigned long pc, struct pt_regs *regs,
 }
 
 #endif /* CONFIG_KGDB || CONFIG_ARC_EMUL_UNALIGNED || CONFIG_KPROBES */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

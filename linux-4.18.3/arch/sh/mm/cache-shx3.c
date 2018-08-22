@@ -42,3 +42,4 @@ void __init shx3_cache_init(void)
 
 	writel_uncached(ccr, SH_CCR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

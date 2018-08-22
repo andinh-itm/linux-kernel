@@ -1975,3 +1975,4 @@ MODULE_PARM_DESC(debug, "Set debug");
 MODULE_AUTHOR("Igor M. Liplianin");
 MODULE_DESCRIPTION("ST STV0900 frontend");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

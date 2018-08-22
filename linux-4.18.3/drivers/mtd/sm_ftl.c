@@ -1277,3 +1277,4 @@ module_exit(sm_module_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Maxim Levitsky <maximlevitsky@gmail.com>");
 MODULE_DESCRIPTION("Smartmedia/xD mtd translation layer");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

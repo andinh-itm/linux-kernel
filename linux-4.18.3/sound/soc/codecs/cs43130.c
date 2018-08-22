@@ -2705,3 +2705,4 @@ module_i2c_driver(cs43130_i2c_driver);
 MODULE_AUTHOR("Li Xu <li.xu@cirrus.com>");
 MODULE_DESCRIPTION("Cirrus Logic CS43130 ALSA SoC Codec Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

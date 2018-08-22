@@ -430,3 +430,4 @@ MODULE_DESCRIPTION("Texas Instruments Backlight+Flash LED driver for LM3639");
 MODULE_AUTHOR("Daniel Jeong <gshark.jeong@gmail.com>");
 MODULE_AUTHOR("Ldd Mlp <ldd-mlp@list.ti.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

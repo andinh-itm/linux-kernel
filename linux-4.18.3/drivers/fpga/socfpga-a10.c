@@ -557,3 +557,4 @@ module_platform_driver(socfpga_a10_fpga_driver);
 MODULE_AUTHOR("Alan Tull <atull@opensource.altera.com>");
 MODULE_DESCRIPTION("SoCFPGA Arria10 FPGA Manager");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

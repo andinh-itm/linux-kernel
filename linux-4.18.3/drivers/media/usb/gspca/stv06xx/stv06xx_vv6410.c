@@ -272,3 +272,4 @@ static int vv6410_set_exposure(struct gspca_dev *gspca_dev, __s32 val)
 out:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -126,3 +126,4 @@ MODULE_DESCRIPTION("CRCT10DIF using vector polynomial multiply-sum instructions"
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_CRYPTO("crct10dif");
 MODULE_ALIAS_CRYPTO("crct10dif-vpmsum");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

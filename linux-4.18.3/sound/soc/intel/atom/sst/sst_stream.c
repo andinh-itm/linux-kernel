@@ -471,3 +471,4 @@ int sst_free_stream(struct intel_sst_drv *sst_drv_ctx, int str_id)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

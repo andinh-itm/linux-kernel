@@ -1051,3 +1051,4 @@ u8 ixgbe_fcoe_get_tc(struct ixgbe_adapter *adapter)
 	return 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

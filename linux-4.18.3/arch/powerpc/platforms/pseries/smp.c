@@ -290,3 +290,4 @@ void __init smp_init_pseries(void)
 
 	pr_debug(" <- smp_init_pSeries()\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -299,3 +299,4 @@ acpi_ns_parse_table(u32 table_index, struct acpi_namespace_node *start_node)
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

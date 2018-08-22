@@ -688,3 +688,4 @@ bool arch_within_kprobe_blacklist(unsigned long addr)
 	       in_idmap_text(addr) ||
 	       memory_contains(__kprobes_text_start, __kprobes_text_end, a, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

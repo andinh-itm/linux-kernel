@@ -1181,3 +1181,4 @@ CLK_OF_DECLARE_DRIVER(meson8b_clkc, "amlogic,meson8b-clkc",
 		      meson8b_clkc_reset_init);
 CLK_OF_DECLARE_DRIVER(meson8m2_clkc, "amlogic,meson8m2-clkc",
 		      meson8b_clkc_reset_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

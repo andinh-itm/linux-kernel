@@ -259,3 +259,4 @@ acpi_ex_store_object_to_object(union acpi_operand_object *source_desc,
 	*new_desc = dest_desc;
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

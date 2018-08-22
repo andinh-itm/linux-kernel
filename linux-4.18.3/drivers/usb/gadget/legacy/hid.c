@@ -295,3 +295,4 @@ static void __exit hidg_cleanup(void)
 	platform_driver_unregister(&hidg_plat_driver);
 }
 module_exit(hidg_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

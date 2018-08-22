@@ -199,3 +199,4 @@ MODULE_ALIAS("platform:hx8357d");
 MODULE_DESCRIPTION("FB driver for the HX8357D LCD Controller");
 MODULE_AUTHOR("Sean Cross <xobs@kosagi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

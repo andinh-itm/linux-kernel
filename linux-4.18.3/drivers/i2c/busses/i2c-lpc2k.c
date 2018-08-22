@@ -505,3 +505,4 @@ MODULE_AUTHOR("Kevin Wells <kevin.wells@nxp.com>");
 MODULE_DESCRIPTION("I2C driver for LPC2xxx devices");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lpc2k-i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

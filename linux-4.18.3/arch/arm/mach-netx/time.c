@@ -151,3 +151,4 @@ void __init netx_timer_init(void)
 	clockevents_config_and_register(&netx_clockevent, NETX_CLOCK_FREQ,
 					0xa00, 0xfffffffe);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

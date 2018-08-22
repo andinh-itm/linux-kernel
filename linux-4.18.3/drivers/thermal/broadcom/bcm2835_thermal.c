@@ -311,3 +311,4 @@ module_platform_driver(bcm2835_thermal_driver);
 MODULE_AUTHOR("Martin Sperl");
 MODULE_DESCRIPTION("Thermal driver for bcm2835 chip");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

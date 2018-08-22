@@ -593,3 +593,4 @@ static int __init rt3883_pci_init(void)
 }
 
 postcore_initcall(rt3883_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

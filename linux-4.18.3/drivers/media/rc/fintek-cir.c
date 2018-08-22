@@ -683,3 +683,4 @@ MODULE_AUTHOR("Jarod Wilson <jarod@redhat.com>");
 MODULE_LICENSE("GPL");
 
 module_pnp_driver(fintek_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

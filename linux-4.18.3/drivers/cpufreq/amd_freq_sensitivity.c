@@ -151,3 +151,4 @@ MODULE_AUTHOR("Jacob Shin <jacob.shin@amd.com>");
 MODULE_DESCRIPTION("AMD frequency sensitivity feedback powersave bias for "
 		"the ondemand governor.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

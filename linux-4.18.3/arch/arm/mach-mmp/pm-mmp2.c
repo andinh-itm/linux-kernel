@@ -248,3 +248,4 @@ static int __init mmp2_pm_init(void)
 }
 
 late_initcall(mmp2_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

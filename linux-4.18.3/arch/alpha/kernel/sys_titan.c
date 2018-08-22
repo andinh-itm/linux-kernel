@@ -418,3 +418,4 @@ struct alpha_machine_vector privateer_mv __initmv = {
 };
 /* No alpha_mv alias for privateer since we compile it 
    in unconditionally with titan; setup_arch knows how to cope. */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

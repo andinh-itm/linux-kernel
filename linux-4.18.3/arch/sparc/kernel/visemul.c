@@ -897,3 +897,4 @@ int vis_emul(struct pt_regs *regs, unsigned int insn)
 	regs->tnpc += 4;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

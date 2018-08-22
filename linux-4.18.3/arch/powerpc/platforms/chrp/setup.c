@@ -606,3 +606,4 @@ define_machine(chrp) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.phys_mem_access_prot	= pci_phys_mem_access_prot,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

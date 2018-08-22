@@ -156,3 +156,4 @@ void __init ams_delta_init_fiq(void)
 	val = omap_readl(OMAP_IH1_BASE + offset) | 1;
 	omap_writel(val, OMAP_IH1_BASE + offset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

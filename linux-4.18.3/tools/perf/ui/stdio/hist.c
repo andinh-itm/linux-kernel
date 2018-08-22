@@ -848,3 +848,4 @@ size_t events_stats__fprintf(struct events_stats *stats, FILE *fp)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

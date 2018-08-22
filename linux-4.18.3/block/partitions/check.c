@@ -196,3 +196,4 @@ check_partition(struct gendisk *hd, struct block_device *bdev)
 	free_partitions(state);
 	return ERR_PTR(res);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

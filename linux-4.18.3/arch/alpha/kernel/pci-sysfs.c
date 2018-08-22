@@ -366,3 +366,4 @@ int pci_legacy_write(struct pci_bus *bus, loff_t port, u32 val, size_t size)
 	}
 	return -EINVAL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

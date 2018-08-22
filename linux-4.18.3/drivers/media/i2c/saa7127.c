@@ -826,3 +826,4 @@ static struct i2c_driver saa7127_driver = {
 };
 
 module_i2c_driver(saa7127_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

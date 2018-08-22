@@ -1340,3 +1340,4 @@ module_platform_driver(hix5hd2_dev_driver);
 MODULE_DESCRIPTION("HISILICON Gigabit Ethernet MAC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:hisi-gmac");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

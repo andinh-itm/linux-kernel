@@ -628,3 +628,4 @@ const struct ieee80211_ops mt76x2_ops = {
 	.get_antenna = mt76x2_get_antenna,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

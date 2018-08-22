@@ -599,3 +599,4 @@ void bbc_envctrl_cleanup(struct bbc_i2c_bus *bp)
 	destroy_all_temps(bp);
 	destroy_all_fans(bp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

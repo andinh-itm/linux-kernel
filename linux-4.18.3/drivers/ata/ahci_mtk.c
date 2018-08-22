@@ -194,3 +194,4 @@ module_platform_driver(mtk_ahci_driver);
 
 MODULE_DESCRIPTION("MediaTek SATA AHCI Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

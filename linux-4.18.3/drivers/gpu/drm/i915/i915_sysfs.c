@@ -642,3 +642,4 @@ void i915_teardown_sysfs(struct drm_i915_private *dev_priv)
 	sysfs_unmerge_group(&kdev->kobj, &rc6p_attr_group);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

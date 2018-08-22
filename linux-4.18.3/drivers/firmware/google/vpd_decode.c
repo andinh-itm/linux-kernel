@@ -97,3 +97,4 @@ int vpd_decode_string(const s32 max_len, const u8 *input_buf, s32 *consumed,
 
 	return VPD_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

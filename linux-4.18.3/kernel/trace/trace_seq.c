@@ -375,3 +375,4 @@ int trace_seq_to_user(struct trace_seq *s, char __user *ubuf, int cnt)
 	return seq_buf_to_user(&s->seq, ubuf, cnt);
 }
 EXPORT_SYMBOL_GPL(trace_seq_to_user);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

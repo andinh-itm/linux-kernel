@@ -671,3 +671,4 @@ void amdgpu_unregister_atpx_handler(void)
 {
 	vga_switcheroo_unregister_handler();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

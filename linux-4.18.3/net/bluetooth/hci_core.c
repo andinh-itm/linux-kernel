@@ -4306,3 +4306,4 @@ static void hci_cmd_work(struct work_struct *work)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

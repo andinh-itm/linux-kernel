@@ -289,3 +289,4 @@ static void __init sun9i_a80_apb1_setup(struct device_node *node)
 			       &sun9i_a80_apb1_lock, reg);
 }
 CLK_OF_DECLARE(sun9i_a80_apb1, "allwinner,sun9i-a80-apb1-clk", sun9i_a80_apb1_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

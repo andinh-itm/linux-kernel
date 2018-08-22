@@ -4026,3 +4026,4 @@ static int hfa384x_isgood_pdrcode(u16 pdrcode)
 		 pdrcode);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

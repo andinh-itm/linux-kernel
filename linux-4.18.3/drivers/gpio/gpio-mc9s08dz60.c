@@ -119,3 +119,4 @@ static struct i2c_driver mc9s08dz60_i2c_driver = {
 	.id_table = mc9s08dz60_id,
 };
 builtin_i2c_driver(mc9s08dz60_i2c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

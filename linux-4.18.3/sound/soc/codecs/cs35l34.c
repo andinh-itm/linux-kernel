@@ -1240,3 +1240,4 @@ module_exit(cs35l34_exit);
 MODULE_DESCRIPTION("ASoC CS35l34 driver");
 MODULE_AUTHOR("Paul Handrigan, Cirrus Logic Inc, <Paul.Handrigan@cirrus.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

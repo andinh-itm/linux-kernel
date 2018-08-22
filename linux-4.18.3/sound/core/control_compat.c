@@ -499,3 +499,4 @@ static inline long snd_ctl_ioctl_compat(struct file *file, unsigned int cmd, uns
 	up_read(&snd_ioctl_rwsem);
 	return -ENOIOCTLCMD;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

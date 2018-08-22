@@ -109,3 +109,4 @@ void fsl_tcon_free(struct fsl_tcon *tcon)
 	clk_put(tcon->ipg_clk);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -119,3 +119,4 @@ MODULE_AUTHOR("Nicolas Pitre");
 MODULE_DESCRIPTION("Intel PXA2xx PCM DMA module");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa-pcm-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -158,3 +158,4 @@ struct clk *clk_reg_prcc_kclk(const char *name,
 	return clk_reg_prcc(name, parent_name, phy_base, cg_sel, flags,
 			&clk_prcc_kclk_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

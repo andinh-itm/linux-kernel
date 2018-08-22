@@ -1248,3 +1248,4 @@ module_exit(wm8985_exit);
 MODULE_DESCRIPTION("ASoC WM8985 / WM8758 driver");
 MODULE_AUTHOR("Dimitris Papastamos <dp@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

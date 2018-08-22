@@ -719,3 +719,4 @@ void flexcop_frontend_exit(struct flexcop_device *fc)
 	}
 	fc->init_state &= ~FC_STATE_FE_INIT;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

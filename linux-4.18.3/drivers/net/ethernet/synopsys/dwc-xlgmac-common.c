@@ -725,3 +725,4 @@ void xlgmac_print_all_hw_features(struct xlgmac_pdata *pdata)
 	XLGMAC_PR("=====================================================\n");
 	XLGMAC_PR("\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

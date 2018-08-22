@@ -150,3 +150,4 @@ void pm_restore_console(void)
 		vt_kmsg_redirect(orig_kmsg);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

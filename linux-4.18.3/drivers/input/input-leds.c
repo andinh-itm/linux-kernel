@@ -221,3 +221,4 @@ MODULE_AUTHOR("Samuel Thibault <samuel.thibault@ens-lyon.org>");
 MODULE_AUTHOR("Dmitry Torokhov <dmitry.torokhov@gmail.com>");
 MODULE_DESCRIPTION("Input -> LEDs Bridge");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -305,3 +305,4 @@ int jffs2_init_acl_post(struct inode *inode)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

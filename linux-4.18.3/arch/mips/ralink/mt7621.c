@@ -224,3 +224,4 @@ void prom_soc_init(struct ralink_soc_info *soc_info)
 	if (!register_vsmp_smp_ops())
 		return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

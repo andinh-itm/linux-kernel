@@ -59,3 +59,4 @@ void __init of_instantiate_rtc(void)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

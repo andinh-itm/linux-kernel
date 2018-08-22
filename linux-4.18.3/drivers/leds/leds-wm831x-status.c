@@ -295,3 +295,4 @@ MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_DESCRIPTION("WM831x status LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm831x-status");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

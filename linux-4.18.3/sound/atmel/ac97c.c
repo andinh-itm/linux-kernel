@@ -897,3 +897,4 @@ module_platform_driver(atmel_ac97c_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Driver for Atmel AC97 controller");
 MODULE_AUTHOR("Hans-Christian Egtvedt <egtvedt@samfundet.no>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

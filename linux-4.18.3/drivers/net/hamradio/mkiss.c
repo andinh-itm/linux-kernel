@@ -1011,3 +1011,4 @@ MODULE_ALIAS_LDISC(N_AX25);
 
 module_init(mkiss_init_driver);
 module_exit(mkiss_exit_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

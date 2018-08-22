@@ -31,3 +31,4 @@ void __hyp_text __init_stage2_translation(void)
 
 	write_sysreg(val, VTCR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

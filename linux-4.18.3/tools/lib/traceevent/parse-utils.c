@@ -83,3 +83,4 @@ void __weak pr_stat(const char *fmt, ...)
 	__vpr_stat(fmt, ap);
 	va_end(ap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

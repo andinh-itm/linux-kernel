@@ -1343,3 +1343,4 @@ failed:
 	msg->resultcode.data = P80211ENUM_resultcode_refused;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

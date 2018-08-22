@@ -163,3 +163,4 @@ module_platform_driver(lpc18xx_gpio_driver);
 MODULE_AUTHOR("Joachim Eastwood <manabian@gmail.com>");
 MODULE_DESCRIPTION("GPIO driver for LPC18xx/43xx");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

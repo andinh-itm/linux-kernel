@@ -544,3 +544,4 @@ static int __init rtc_init(void)
 	return 0;
 }
 subsys_initcall(rtc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

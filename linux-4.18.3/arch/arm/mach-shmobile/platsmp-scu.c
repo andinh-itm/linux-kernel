@@ -91,3 +91,4 @@ int shmobile_smp_scu_cpu_kill(unsigned int cpu)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

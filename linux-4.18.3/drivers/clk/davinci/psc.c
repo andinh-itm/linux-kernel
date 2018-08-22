@@ -593,3 +593,4 @@ static int __init davinci_psc_driver_init(void)
 
 /* has to be postcore_initcall because davinci_gpio depend on PSC clocks */
 postcore_initcall(davinci_psc_driver_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

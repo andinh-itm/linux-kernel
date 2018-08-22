@@ -1497,3 +1497,4 @@ module_platform_driver(atmel_tdes_driver);
 MODULE_DESCRIPTION("Atmel DES/TDES hw acceleration support.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Nicolas Royer - Eukréa Electromatique");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -580,3 +580,4 @@ static uint32_t extract_dc(unsigned short addr, int data)
 	}
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -752,3 +752,4 @@ static int __init pnp_setup_reserve_mem(char *str)
 }
 
 __setup("pnp_reserve_mem=", pnp_setup_reserve_mem);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

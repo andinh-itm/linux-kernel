@@ -750,3 +750,4 @@ struct item_operations *item_ops[TYPE_ANY + 1] = {
 	NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL,
 	&errcatch_ops		/* This is to catch errors with invalid type (15th entry for TYPE_ANY) */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

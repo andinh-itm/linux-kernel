@@ -372,3 +372,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Philip Nicastro");
 MODULE_AUTHOR("Aleksey Babahin <tamerlan311@gmail.com>");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

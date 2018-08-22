@@ -64,3 +64,4 @@ int cxd2880_io_write_multi_regs(struct cxd2880_io *io,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

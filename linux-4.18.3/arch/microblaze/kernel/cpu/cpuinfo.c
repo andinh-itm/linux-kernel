@@ -137,3 +137,4 @@ void __init setup_cpuinfo_clk(void)
 		BUG();
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

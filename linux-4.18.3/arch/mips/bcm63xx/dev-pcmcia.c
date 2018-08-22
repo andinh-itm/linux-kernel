@@ -142,3 +142,4 @@ out_err:
 	pr_err("unable to set pcmcia chip select\n");
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

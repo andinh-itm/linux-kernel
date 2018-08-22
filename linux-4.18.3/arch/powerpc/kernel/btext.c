@@ -945,3 +945,4 @@ static unsigned char vga_font[cmapsz] = {
 0x00, 0x00, 0x00, 0x00,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

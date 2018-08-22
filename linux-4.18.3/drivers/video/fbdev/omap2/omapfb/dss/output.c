@@ -265,3 +265,4 @@ void dss_mgr_unregister_framedone_handler(struct omap_overlay_manager *mgr,
 	dss_mgr_ops->unregister_framedone_handler(mgr, handler, data);
 }
 EXPORT_SYMBOL(dss_mgr_unregister_framedone_handler);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

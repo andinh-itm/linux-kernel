@@ -510,3 +510,4 @@ module_i2c_driver(ssm4567_driver);
 MODULE_DESCRIPTION("ASoC SSM4567 driver");
 MODULE_AUTHOR("Anatol Pomozov <anatol@chromium.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1601,3 +1601,4 @@ int kvm_vm_ioctl_hv_eventfd(struct kvm *kvm, struct kvm_hyperv_eventfd *args)
 		return kvm_hv_eventfd_deassign(kvm, args->conn_id);
 	return kvm_hv_eventfd_assign(kvm, args->conn_id, args->fd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

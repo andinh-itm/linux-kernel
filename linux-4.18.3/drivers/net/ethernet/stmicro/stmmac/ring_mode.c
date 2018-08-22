@@ -153,3 +153,4 @@ const struct stmmac_mode_ops ring_mode_ops = {
 	.clean_desc3 = clean_desc3,
 	.set_16kib_bfsize = set_16kib_bfsize,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -663,3 +663,4 @@ void intel_hpd_enable(struct drm_i915_private *dev_priv, enum hpd_pin pin)
 	dev_priv->hotplug.stats[pin].state = HPD_ENABLED;
 	spin_unlock_irq(&dev_priv->irq_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

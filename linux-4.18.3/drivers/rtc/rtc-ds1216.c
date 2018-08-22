@@ -173,3 +173,4 @@ MODULE_AUTHOR("Thomas Bogendoerfer <tsbogend@alpha.franken.de>");
 MODULE_DESCRIPTION("DS1216 RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rtc-ds1216");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

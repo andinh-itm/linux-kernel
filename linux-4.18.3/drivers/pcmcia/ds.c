@@ -1458,3 +1458,4 @@ module_exit(exit_pcmcia_bus);
 
 
 MODULE_ALIAS("ds");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

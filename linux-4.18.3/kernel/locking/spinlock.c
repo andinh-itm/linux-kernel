@@ -390,3 +390,4 @@ notrace int in_lock_functions(unsigned long addr)
 	&& addr < (unsigned long)__lock_text_end;
 }
 EXPORT_SYMBOL(in_lock_functions);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

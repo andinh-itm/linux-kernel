@@ -553,3 +553,4 @@ void dce110_opp_set_regamma_mode_v(
 {
 	// TODO: need to implement the function
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

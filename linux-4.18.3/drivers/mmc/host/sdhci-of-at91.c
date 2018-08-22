@@ -457,3 +457,4 @@ module_platform_driver(sdhci_at91_driver);
 MODULE_DESCRIPTION("SDHCI driver for at91");
 MODULE_AUTHOR("Ludovic Desroches <ludovic.desroches@atmel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

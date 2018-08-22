@@ -781,3 +781,4 @@ module_init(ishtp_bus_register);
 module_exit(ishtp_bus_unregister);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

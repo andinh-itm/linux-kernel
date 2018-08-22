@@ -328,3 +328,4 @@ module_i2c_driver(z2_batt_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Peter Edwards <sweetlilmre@gmail.com>");
 MODULE_DESCRIPTION("Zipit Z2 battery driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

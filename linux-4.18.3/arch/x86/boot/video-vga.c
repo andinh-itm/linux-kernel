@@ -286,3 +286,4 @@ static __videocard video_vga = {
 	.probe		= vga_probe,
 	.set_mode	= vga_set_mode,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

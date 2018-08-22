@@ -691,3 +691,4 @@ static const struct inode_operations hfs_file_inode_operations = {
 	.setattr	= hfs_inode_setattr,
 	.listxattr	= generic_listxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

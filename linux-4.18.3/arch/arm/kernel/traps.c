@@ -866,3 +866,4 @@ void __init early_trap_init(void *vectors_base)
 	 */
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

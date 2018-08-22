@@ -62,3 +62,4 @@ MODULE_AUTHOR("Ondrej Mosnacek <omosnacek@gmail.com>");
 MODULE_DESCRIPTION("MORUS-640 AEAD algorithm -- SSE2 implementation");
 MODULE_ALIAS_CRYPTO("morus640");
 MODULE_ALIAS_CRYPTO("morus640-sse2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

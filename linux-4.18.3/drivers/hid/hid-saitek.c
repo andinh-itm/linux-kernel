@@ -205,3 +205,4 @@ static struct hid_driver saitek_driver = {
 module_hid_driver(saitek_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

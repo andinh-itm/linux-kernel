@@ -664,3 +664,4 @@ module_platform_driver(act8945a_charger_driver);
 MODULE_DESCRIPTION("Active-semi ACT8945A ActivePath charger driver");
 MODULE_AUTHOR("Wenyou Yang <wenyou.yang@atmel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

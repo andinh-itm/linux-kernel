@@ -301,3 +301,4 @@ void jz4740_clock_resume(void)
 	clkgr &= ~JZ_CLOCK_GATE_UART0;
 	writel(clkgr, cgu->base + CGU_REG_CLKGR);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

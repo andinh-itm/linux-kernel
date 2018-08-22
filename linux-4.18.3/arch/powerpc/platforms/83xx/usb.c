@@ -251,3 +251,4 @@ int mpc837x_usb_cfg(void)
 	return ret;
 }
 #endif /* CONFIG_PPC_MPC837x */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

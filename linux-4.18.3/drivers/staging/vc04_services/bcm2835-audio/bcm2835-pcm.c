@@ -545,3 +545,4 @@ int snd_bcm2835_new_simple_pcm(struct bcm2835_chip *chip,
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

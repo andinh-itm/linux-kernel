@@ -292,3 +292,4 @@ int setup_netjet_s(struct IsdnCard *card)
 
 	return njs_cs_init_rest(card, cs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

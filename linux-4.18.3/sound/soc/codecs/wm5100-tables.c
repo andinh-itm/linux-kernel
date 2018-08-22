@@ -1483,3 +1483,4 @@ struct reg_default wm5100_reg_defaults[WM5100_REGISTER_COUNT] = {
 	{ 0x1103, 0x0000 },  /* R4355  - DSP3 Control 3 */
 	{ 0x1104, 0x0000 },  /* R4356  - DSP3 Control 4 */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

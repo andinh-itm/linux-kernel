@@ -963,3 +963,4 @@ void i40evf_resume_aq(struct i40e_hw *hw)
 
 	i40e_config_arq_regs(hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

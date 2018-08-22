@@ -195,3 +195,4 @@ void fdtv_handle_rc(struct firedtv *fdtv, unsigned int code)
 	input_report_key(idev, code, 0);
 	input_sync(idev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

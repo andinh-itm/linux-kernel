@@ -652,3 +652,4 @@ module_i2c_driver(tda7419_driver);
 MODULE_AUTHOR("Matt Porter <mporter@konsulko.com>");
 MODULE_DESCRIPTION("TDA7419 audio processor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

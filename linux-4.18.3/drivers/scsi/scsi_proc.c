@@ -481,3 +481,4 @@ void scsi_exit_procfs(void)
 	remove_proc_entry("scsi/scsi", NULL);
 	remove_proc_entry("scsi", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

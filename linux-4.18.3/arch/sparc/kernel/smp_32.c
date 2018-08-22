@@ -395,3 +395,4 @@ void smp_info(struct seq_file *m)
 	for_each_online_cpu(i)
 		seq_printf(m, "CPU%d\t\t: online\n", i);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

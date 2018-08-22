@@ -180,3 +180,4 @@ struct wlan_pwr_cfg rtl8821A_leave_lps_flow[RTL8821A_TRANS_LPS_TO_ACT_STEPS
 	RTL8821A_TRANS_LPS_TO_ACT
 	RTL8821A_TRANS_END
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

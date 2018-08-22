@@ -32,3 +32,4 @@ void of_parse_dma_window(struct device_node *dn, const __be32 *dma_window,
 	cells = prop ? of_read_number(prop, 1) : of_n_size_cells(dn);
 	*size = of_read_number(dma_window, cells);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

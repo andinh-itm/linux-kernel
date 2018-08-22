@@ -209,3 +209,4 @@ struct hdmi_phy_ops tx3g4c28phy_ops = {
 	.start = sti_hdmi_tx3g4c28phy_start,
 	.stop = sti_hdmi_tx3g4c28phy_stop,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

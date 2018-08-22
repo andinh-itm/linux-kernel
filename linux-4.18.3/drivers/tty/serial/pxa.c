@@ -942,3 +942,4 @@ static int __init serial_pxa_init(void)
 	return ret;
 }
 device_initcall(serial_pxa_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

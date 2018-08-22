@@ -110,3 +110,4 @@ module_exit(intel_soc_thermal_exit)
 MODULE_DESCRIPTION("Intel SoC DTS Thermal Driver");
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

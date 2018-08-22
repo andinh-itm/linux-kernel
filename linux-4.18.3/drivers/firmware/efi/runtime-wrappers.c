@@ -312,3 +312,4 @@ void efi_native_runtime_setup(void)
 	efi.update_capsule = virt_efi_update_capsule;
 	efi.query_capsule_caps = virt_efi_query_capsule_caps;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

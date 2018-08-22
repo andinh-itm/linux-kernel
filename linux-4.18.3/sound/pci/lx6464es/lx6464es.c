@@ -1143,3 +1143,4 @@ static struct pci_driver lx6464es_driver = {
 };
 
 module_pci_driver(lx6464es_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

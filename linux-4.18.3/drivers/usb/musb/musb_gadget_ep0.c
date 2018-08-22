@@ -1060,3 +1060,4 @@ const struct usb_ep_ops musb_g_ep0_ops = {
 	.dequeue	= musb_g_ep0_dequeue,
 	.set_halt	= musb_g_ep0_halt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

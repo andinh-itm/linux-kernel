@@ -1243,3 +1243,4 @@ EXPORT_SYMBOL(fb_find_nearest_mode);
 EXPORT_SYMBOL(fb_videomode_to_modelist);
 EXPORT_SYMBOL(fb_find_mode);
 EXPORT_SYMBOL(fb_find_mode_cvt);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

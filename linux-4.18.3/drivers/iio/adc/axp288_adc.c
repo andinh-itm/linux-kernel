@@ -260,3 +260,4 @@ module_platform_driver(axp288_adc_driver);
 MODULE_AUTHOR("Jacob Pan <jacob.jun.pan@linux.intel.com>");
 MODULE_DESCRIPTION("X-Powers AXP288 ADC Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

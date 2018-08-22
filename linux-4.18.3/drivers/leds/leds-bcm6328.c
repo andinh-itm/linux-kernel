@@ -444,3 +444,4 @@ MODULE_AUTHOR("Jonas Gorski <jogo@openwrt.org>");
 MODULE_DESCRIPTION("LED driver for BCM6328 controllers");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:leds-bcm6328");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

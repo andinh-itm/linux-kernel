@@ -482,3 +482,4 @@ const struct nfp_app_type app_bpf = {
 	.bpf		= nfp_ndo_bpf,
 	.xdp_offload	= nfp_bpf_xdp_offload,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

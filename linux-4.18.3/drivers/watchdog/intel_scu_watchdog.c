@@ -563,3 +563,4 @@ MODULE_AUTHOR("Intel Corporation");
 MODULE_DESCRIPTION("Intel SCU Watchdog Device Driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(WDT_VER);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

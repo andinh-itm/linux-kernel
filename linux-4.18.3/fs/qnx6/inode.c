@@ -684,3 +684,4 @@ static void __exit exit_qnx6_fs(void)
 module_init(init_qnx6_fs)
 module_exit(exit_qnx6_fs)
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -768,3 +768,4 @@ size_t HUF_compress4X_repeat(void *dst, size_t dstSize, const void *src, size_t 
 	return HUF_compress_internal(dst, dstSize, src, srcSize, maxSymbolValue, huffLog, 0 /* 4 streams */, workSpace, wkspSize, hufTable, repeat,
 				     preferRepeat);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

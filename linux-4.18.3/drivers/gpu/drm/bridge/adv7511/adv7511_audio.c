@@ -233,3 +233,4 @@ void adv7511_audio_exit(struct adv7511 *adv7511)
 		adv7511->audio_pdev = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

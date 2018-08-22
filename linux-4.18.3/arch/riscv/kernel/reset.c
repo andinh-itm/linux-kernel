@@ -34,3 +34,4 @@ void machine_power_off(void)
 	sbi_shutdown();
 	while (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -97,3 +97,4 @@ int qxl_irq_init(struct qxl_device *qdev)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

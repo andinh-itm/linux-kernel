@@ -466,3 +466,4 @@ MODULE_AUTHOR("Rodolfo Giometti <giometti@linux.it>");
 MODULE_DESCRIPTION("TSL2550 ambient light sensor driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRIVER_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

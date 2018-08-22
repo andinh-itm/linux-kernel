@@ -6662,3 +6662,4 @@ module_exit(qeth_core_exit);
 MODULE_AUTHOR("Frank Blaschka <frank.blaschka@de.ibm.com>");
 MODULE_DESCRIPTION("qeth core functions");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

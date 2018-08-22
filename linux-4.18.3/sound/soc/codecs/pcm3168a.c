@@ -768,3 +768,4 @@ EXPORT_SYMBOL_GPL(pcm3168a_pm_ops);
 MODULE_DESCRIPTION("PCM3168A codec driver");
 MODULE_AUTHOR("Damien Horsley <Damien.Horsley@imgtec.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

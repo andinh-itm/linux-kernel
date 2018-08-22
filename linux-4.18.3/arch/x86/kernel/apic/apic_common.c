@@ -44,3 +44,4 @@ int default_apic_id_valid(u32 apicid)
 {
 	return (apicid < 255);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

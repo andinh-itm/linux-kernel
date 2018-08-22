@@ -728,3 +728,4 @@ struct rmi_function_handler rmi_f01_handler = {
 	.suspend	= rmi_f01_suspend,
 	.resume		= rmi_f01_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

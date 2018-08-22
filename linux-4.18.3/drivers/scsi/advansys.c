@@ -11864,3 +11864,4 @@ MODULE_FIRMWARE("advansys/mcode.bin");
 MODULE_FIRMWARE("advansys/3550.bin");
 MODULE_FIRMWARE("advansys/38C0800.bin");
 MODULE_FIRMWARE("advansys/38C1600.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

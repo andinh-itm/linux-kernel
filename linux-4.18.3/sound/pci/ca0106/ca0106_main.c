@@ -1968,3 +1968,4 @@ static struct pci_driver ca0106_driver = {
 };
 
 module_pci_driver(ca0106_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

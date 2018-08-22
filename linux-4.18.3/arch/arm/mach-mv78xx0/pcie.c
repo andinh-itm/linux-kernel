@@ -273,3 +273,4 @@ void __init mv78xx0_pcie_init(int init_port0, int init_port1)
 
 	pci_common_init(&mv78xx0_pci);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

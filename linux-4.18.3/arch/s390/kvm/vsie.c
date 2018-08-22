@@ -1189,3 +1189,4 @@ void kvm_s390_vsie_kick(struct kvm_vcpu *vcpu)
 			atomic_or(CPUSTAT_STOP_INT, &scb->cpuflags);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

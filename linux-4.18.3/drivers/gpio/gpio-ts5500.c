@@ -456,3 +456,4 @@ module_platform_driver(ts5500_dio_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Savoir-faire Linux Inc. <kernel@savoirfairelinux.com>");
 MODULE_DESCRIPTION("Technologic Systems TS-5500 Digital I/O driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

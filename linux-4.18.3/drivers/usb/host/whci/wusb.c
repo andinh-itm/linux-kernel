@@ -208,3 +208,4 @@ int whc_set_cluster_id(struct whc *whc, u8 bcid)
 	whc_write_wusbcmd(whc, WUSBCMD_BCID_MASK, WUSBCMD_BCID(bcid));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

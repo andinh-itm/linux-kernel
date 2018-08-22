@@ -205,3 +205,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch");
 MODULE_DESCRIPTION("cpufreq driver for Marvell's kirkwood CPU");
 MODULE_ALIAS("platform:kirkwood-cpufreq");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

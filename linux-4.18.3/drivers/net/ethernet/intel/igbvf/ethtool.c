@@ -454,3 +454,4 @@ void igbvf_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &igbvf_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

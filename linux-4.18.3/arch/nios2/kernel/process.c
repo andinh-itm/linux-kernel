@@ -259,3 +259,4 @@ int dump_fpu(struct pt_regs *regs, elf_fpregset_t *r)
 {
 	return 0; /* Nios2 has no FPU and thus no FPU registers */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

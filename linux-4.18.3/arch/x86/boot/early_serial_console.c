@@ -152,3 +152,4 @@ void console_init(void)
 	if (!early_serial_base)
 		parse_console_uart8250();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

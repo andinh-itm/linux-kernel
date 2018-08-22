@@ -131,3 +131,4 @@ void planetcore_set_stdout_path(const char *table)
 
 	setprop_str(chosen, "linux,stdout-path", path);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1873,3 +1873,4 @@ module_platform_driver(qcom_spmi_regulator_driver);
 MODULE_DESCRIPTION("Qualcomm SPMI PMIC regulator driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:qcom-spmi-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

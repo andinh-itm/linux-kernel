@@ -362,3 +362,4 @@ static void __exit sparcspkr_exit(void)
 
 module_init(sparcspkr_init);
 module_exit(sparcspkr_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

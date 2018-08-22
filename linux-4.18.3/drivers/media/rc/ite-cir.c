@@ -1710,3 +1710,4 @@ MODULE_AUTHOR("Juan J. Garcia de Soria <skandalfo@gmail.com>");
 MODULE_LICENSE("GPL");
 
 module_pnp_driver(ite_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1116,3 +1116,4 @@ static const struct wilc_hif_func wilc_hif_spi = {
 	.hif_block_rx_ext = wilc_spi_read,
 	.hif_sync_ext = wilc_spi_sync_ext,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

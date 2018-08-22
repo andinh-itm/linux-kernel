@@ -108,3 +108,4 @@ struct net_device *alloc_fcdev(int sizeof_priv)
 	return alloc_netdev(sizeof_priv, "fc%d", NET_NAME_UNKNOWN, fc_setup);
 }
 EXPORT_SYMBOL(alloc_fcdev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

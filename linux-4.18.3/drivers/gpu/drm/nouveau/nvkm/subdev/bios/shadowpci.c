@@ -119,3 +119,4 @@ nvbios_platform = {
 	.read = pcirom_read,
 	.rw = true,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

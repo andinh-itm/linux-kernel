@@ -982,3 +982,4 @@ free:
 	return ret;
 }
 EXPORT_SYMBOL_GPL(p54_read_eeprom);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

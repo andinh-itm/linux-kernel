@@ -187,3 +187,4 @@ static int __init exynos5_clk_drv_init(void)
 	return 0;
 }
 core_initcall(exynos5_clk_drv_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -408,3 +408,4 @@ int main(int argc, char **argv)
 						 cert_sym.size);
 	exit(EXIT_SUCCESS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

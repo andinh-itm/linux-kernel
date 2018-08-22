@@ -2865,3 +2865,4 @@ static void vortex_cdmacore_setformat(vortex_t * vortex, int bits, int nch)
 	this_148 = 0xbb80 / d;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

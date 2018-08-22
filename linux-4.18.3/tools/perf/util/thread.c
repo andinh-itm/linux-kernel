@@ -393,3 +393,4 @@ struct thread *thread__main_thread(struct machine *machine, struct thread *threa
 
 	return machine__find_thread(machine, thread->pid_, thread->pid_);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -237,3 +237,4 @@ int sun4i_tmds_create(struct sun4i_hdmi *hdmi)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

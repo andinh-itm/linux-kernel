@@ -358,3 +358,4 @@ void dev_pm_disarm_wake_irq(struct wake_irq *wirq)
 			disable_irq_nosync(wirq->irq);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

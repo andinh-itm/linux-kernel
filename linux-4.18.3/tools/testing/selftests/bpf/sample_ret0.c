@@ -5,3 +5,4 @@ int func()
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

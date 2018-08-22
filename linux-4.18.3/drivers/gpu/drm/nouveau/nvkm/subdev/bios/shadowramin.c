@@ -118,3 +118,4 @@ nvbios_ramin = {
 	.read = pramin_read,
 	.rw = true,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

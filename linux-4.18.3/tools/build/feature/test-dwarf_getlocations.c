@@ -11,3 +11,4 @@ int main(void)
 	ptrdiff_t offset = 0;
         return (int)dwarf_getlocations(&attr, offset, &base, &start, &end, &op, &nops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

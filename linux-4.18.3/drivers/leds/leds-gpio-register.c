@@ -43,3 +43,4 @@ struct platform_device *__init gpio_led_register_device(
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

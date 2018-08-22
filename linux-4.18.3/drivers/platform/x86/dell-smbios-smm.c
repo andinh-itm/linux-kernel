@@ -184,3 +184,4 @@ void exit_dell_smbios_smm(void)
 		free_page((unsigned long)buffer);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

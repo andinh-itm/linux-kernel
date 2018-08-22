@@ -2318,3 +2318,4 @@ void rtw_set_sec_pn(struct adapter *padapter)
 #define CIPHER_WPA_EAP "WPA-EAP IEEE8021X"
 
 #endif /* CONFIG_PNO_SUPPORT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

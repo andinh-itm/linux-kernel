@@ -1655,3 +1655,4 @@ MODULE_PARM_DESC(nomtrr, "Disable MTRR support (default: enabled)");
 
 module_init(tdfxfb_init);
 module_exit(tdfxfb_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

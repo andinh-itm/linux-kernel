@@ -81,3 +81,4 @@ void __init zynq_pm_late_init(void)
 		writel(reg, ddrc_base + DDRC_DRAM_PARAM_REG3_OFFS);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1121,3 +1121,4 @@ isdn_tty_cmd_PLUSF_FAX(char **p, modem_info *info)
 		return (isdn_tty_cmd_FCLASS1(p, info));
 	PARSE_ERROR1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

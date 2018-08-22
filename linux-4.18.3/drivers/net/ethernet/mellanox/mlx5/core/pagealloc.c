@@ -577,3 +577,4 @@ int mlx5_wait_for_vf_pages(struct mlx5_core_dev *dev)
 	mlx5_core_dbg(dev, "All pages received from %s\n", dev->priv.name);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -79,3 +79,4 @@ void __hyp_text __banked_restore_state(struct kvm_cpu_context *ctxt)
 	write_special(ctxt->gp_regs.KVM_ARM_FIQ_lr,	LR_fiq);
 	write_special(ctxt->gp_regs.KVM_ARM_FIQ_spsr,	SPSR_fiq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

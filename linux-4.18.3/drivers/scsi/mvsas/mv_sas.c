@@ -2122,3 +2122,4 @@ int mvs_gpio_write(struct sas_ha_struct *sha, u8 reg_type, u8 reg_index,
 
 	return -ENOSYS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

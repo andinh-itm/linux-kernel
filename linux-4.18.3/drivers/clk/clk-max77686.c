@@ -321,3 +321,4 @@ module_platform_driver(max77686_clk_driver);
 MODULE_DESCRIPTION("MAXIM 77686 Clock Driver");
 MODULE_AUTHOR("Jonghwa Lee <jonghwa3.lee@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

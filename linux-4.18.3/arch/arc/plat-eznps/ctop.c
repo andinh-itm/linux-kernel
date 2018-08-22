@@ -30,3 +30,4 @@ void dp_save_restore(struct task_struct *prev, struct task_struct *next)
 	prev_task_dp->gpa1 = read_aux_reg(CTOP_AUX_GPA1);
 	write_aux_reg(CTOP_AUX_GPA1, next_task_dp->gpa1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -42,3 +42,4 @@ static void __init sun4i_codec_clk_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(sun4i_codec, "allwinner,sun4i-a10-codec-clk",
 	       sun4i_codec_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

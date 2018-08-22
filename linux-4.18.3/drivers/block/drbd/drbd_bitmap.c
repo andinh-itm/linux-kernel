@@ -1672,3 +1672,4 @@ int drbd_bm_e_weight(struct drbd_device *device, unsigned long enr)
 	spin_unlock_irqrestore(&b->bm_lock, flags);
 	return count;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

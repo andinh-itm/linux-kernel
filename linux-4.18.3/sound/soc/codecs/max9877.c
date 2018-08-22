@@ -175,3 +175,4 @@ module_i2c_driver(max9877_i2c_driver);
 MODULE_DESCRIPTION("ASoC MAX9877 amp driver");
 MODULE_AUTHOR("Joonyoung Shim <jy0922.shim@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

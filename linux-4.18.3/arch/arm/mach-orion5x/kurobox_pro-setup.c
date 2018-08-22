@@ -408,3 +408,4 @@ MACHINE_START(LINKSTATION_PRO, "Buffalo Linkstation Pro/Live")
 	.restart	= orion5x_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

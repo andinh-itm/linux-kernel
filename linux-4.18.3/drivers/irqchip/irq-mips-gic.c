@@ -803,3 +803,4 @@ static int __init gic_of_init(struct device_node *node,
 				 gic_cpu_startup, NULL);
 }
 IRQCHIP_DECLARE(mips_gic, "mti,gic", gic_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

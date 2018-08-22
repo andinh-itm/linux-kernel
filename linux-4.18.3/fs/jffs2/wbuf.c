@@ -1348,3 +1348,4 @@ int jffs2_ubivol_setup(struct jffs2_sb_info *c) {
 void jffs2_ubivol_cleanup(struct jffs2_sb_info *c) {
 	kfree(c->wbuf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -263,3 +263,4 @@ const struct adfs_dir_ops adfs_fplus_dir_ops = {
 	.sync		= adfs_fplus_sync,
 	.free		= adfs_fplus_free
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

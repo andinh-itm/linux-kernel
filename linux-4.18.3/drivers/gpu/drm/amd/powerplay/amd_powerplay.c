@@ -1229,3 +1229,4 @@ static const struct amd_pm_funcs pp_dpm_funcs = {
 	.get_display_mode_validation_clocks = pp_get_display_mode_validation_clocks,
 	.set_mmhub_powergating_by_smu = pp_set_mmhub_powergating_by_smu,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

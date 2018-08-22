@@ -1192,3 +1192,4 @@ int snd_mixart_create_mixer(struct mixart_mgr *mgr)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

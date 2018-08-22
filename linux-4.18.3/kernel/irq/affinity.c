@@ -268,3 +268,4 @@ int irq_calc_affinity_vectors(int minvec, int maxvec, const struct irq_affinity 
 	put_online_cpus();
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -142,3 +142,4 @@ module_exit(tps6507x_i2c_exit);
 
 MODULE_DESCRIPTION("TPS6507x chip family multi-function driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

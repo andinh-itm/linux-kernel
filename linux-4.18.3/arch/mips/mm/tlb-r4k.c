@@ -566,3 +566,4 @@ static int __init r4k_tlb_init_pm(void)
 	return cpu_pm_register_notifier(&r4k_tlb_pm_notifier_block);
 }
 arch_initcall(r4k_tlb_init_pm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

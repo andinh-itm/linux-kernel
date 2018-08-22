@@ -2684,3 +2684,4 @@ MODULE_AUTHOR("David Woodhouse <dwmw2@infradead.org> et al.");
 MODULE_DESCRIPTION("MTD chip driver for Intel/Sharp flash chips");
 MODULE_ALIAS("cfi_cmdset_0003");
 MODULE_ALIAS("cfi_cmdset_0200");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

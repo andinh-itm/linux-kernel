@@ -316,3 +316,4 @@ int indirect2direct(struct reiserfs_transaction_handle *th,
 
 	return block_size - round_tail_len;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

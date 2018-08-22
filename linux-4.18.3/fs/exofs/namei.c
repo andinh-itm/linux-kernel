@@ -321,3 +321,4 @@ const struct inode_operations exofs_dir_inode_operations = {
 const struct inode_operations exofs_special_inode_operations = {
 	.setattr	= exofs_setattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

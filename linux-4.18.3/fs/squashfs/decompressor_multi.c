@@ -196,3 +196,4 @@ int squashfs_decompress(struct squashfs_sb_info *msblk, struct buffer_head **bh,
 			msblk->decompressor->name);
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

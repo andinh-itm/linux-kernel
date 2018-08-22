@@ -82,3 +82,4 @@ void au1300_vss_block_control(int block, int enable)
 	spin_unlock_irqrestore(&au1300_vss_lock, flags);
 }
 EXPORT_SYMBOL_GPL(au1300_vss_block_control);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

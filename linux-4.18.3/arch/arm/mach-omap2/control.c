@@ -857,3 +857,4 @@ void __init omap3_control_legacy_iomap_init(void)
 {
 	omap2_clk_legacy_provider_init(TI_CLKM_SCRM, omap2_ctrl_base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

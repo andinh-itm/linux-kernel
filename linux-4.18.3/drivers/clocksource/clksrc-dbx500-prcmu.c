@@ -88,3 +88,4 @@ static int __init clksrc_dbx500_prcmu_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(dbx500_prcmu, "stericsson,db8500-prcmu-timer-4",
 		       clksrc_dbx500_prcmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

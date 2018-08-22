@@ -43,3 +43,4 @@ const struct dentry_operations hfs_dentry_operations =
 	.d_compare	= hfs_compare_dentry,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

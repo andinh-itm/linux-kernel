@@ -374,3 +374,4 @@ dfs_pattern_detector_init(struct ath_common *common,
 	return NULL;
 }
 EXPORT_SYMBOL(dfs_pattern_detector_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

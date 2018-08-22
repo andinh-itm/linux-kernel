@@ -740,3 +740,4 @@ static void __exit ne2k_pci_cleanup(void)
 
 module_init(ne2k_pci_init);
 module_exit(ne2k_pci_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

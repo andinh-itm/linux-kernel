@@ -103,3 +103,4 @@ struct amdgpu_afmt_acr amdgpu_afmt_acr(uint32_t clock)
 
 	return res;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -65,3 +65,4 @@ void pseries_kexec_cpu_down(int crash_shutdown, int secondary)
 	} else
 		xics_kexec_teardown_cpu(secondary);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

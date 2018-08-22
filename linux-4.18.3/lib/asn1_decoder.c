@@ -519,3 +519,4 @@ error:
 EXPORT_SYMBOL_GPL(asn1_ber_decoder);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

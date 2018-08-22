@@ -1027,3 +1027,4 @@ void amdtp_stream_pcm_abort(struct amdtp_stream *s)
 		snd_pcm_stop_xrun(pcm);
 }
 EXPORT_SYMBOL(amdtp_stream_pcm_abort);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

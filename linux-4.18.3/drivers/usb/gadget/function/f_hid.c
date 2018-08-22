@@ -1168,3 +1168,4 @@ void ghid_cleanup(void)
 	class_destroy(hidg_class);
 	hidg_class = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

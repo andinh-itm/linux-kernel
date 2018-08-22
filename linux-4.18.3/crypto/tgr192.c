@@ -685,3 +685,4 @@ module_exit(tgr192_mod_fini);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Tiger Message Digest Algorithm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

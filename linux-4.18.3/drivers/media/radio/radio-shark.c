@@ -417,3 +417,4 @@ static struct usb_driver usb_shark_driver = {
 #endif
 };
 module_usb_driver(usb_shark_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -555,3 +555,4 @@ xfs_inactive_symlink(
 	/* remove the remote symlink */
 	return xfs_inactive_symlink_rmt(ip);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

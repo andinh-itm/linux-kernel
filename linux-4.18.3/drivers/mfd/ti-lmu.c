@@ -257,3 +257,4 @@ module_i2c_driver(ti_lmu_driver);
 MODULE_DESCRIPTION("TI LMU MFD Core Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

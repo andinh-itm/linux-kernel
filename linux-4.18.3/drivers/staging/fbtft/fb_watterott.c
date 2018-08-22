@@ -291,3 +291,4 @@ MODULE_ALIAS("spi:" DRVNAME);
 MODULE_DESCRIPTION("FB driver for the Watterott LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

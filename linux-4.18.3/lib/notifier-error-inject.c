@@ -110,3 +110,4 @@ module_exit(err_inject_exit);
 MODULE_DESCRIPTION("Notifier error injection module");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Akinobu Mita <akinobu.mita@gmail.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

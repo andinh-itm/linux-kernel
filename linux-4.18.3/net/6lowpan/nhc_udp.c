@@ -186,3 +186,4 @@ LOWPAN_NHC(nhc_udp, "RFC6282 UDP", NEXTHDR_UDP, sizeof(struct udphdr),
 module_lowpan_nhc(nhc_udp);
 MODULE_DESCRIPTION("6LoWPAN next header RFC6282 UDP compression");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

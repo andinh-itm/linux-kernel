@@ -325,3 +325,4 @@ u64 acpi_ut_explicit_strtoul64(char *string)
 
 	return_VALUE(converted_integer);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

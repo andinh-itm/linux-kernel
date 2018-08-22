@@ -347,3 +347,4 @@ MODULE_LICENSE("GPL");
 
 MODULE_ALIAS("dmi:*:svnFUJITSU:pnLifeBook*:pvr*:rvnFUJITSU:*");
 MODULE_ALIAS("dmi:*:svnFUJITSU:pnLifebook*:pvr*:rvnFUJITSU:*");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

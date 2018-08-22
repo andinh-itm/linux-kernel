@@ -716,3 +716,4 @@ __setup("baycom_ser_fdx=", baycom_ser_fdx_setup);
 
 #endif /* MODULE */
 /* --------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

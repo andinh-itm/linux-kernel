@@ -126,3 +126,4 @@ MACHINE_START(MICRO9S, "Contec Micro9-Slim")
 	.restart	= ep93xx_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

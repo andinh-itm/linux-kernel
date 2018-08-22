@@ -2152,3 +2152,4 @@ MODULE_DESCRIPTION("ASoC WM5102 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm5102-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

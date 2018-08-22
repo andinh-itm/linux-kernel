@@ -42,3 +42,4 @@ module_platform_driver(brcmstb_nand_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Brian Norris");
 MODULE_DESCRIPTION("NAND driver for Broadcom STB chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

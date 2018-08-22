@@ -306,3 +306,4 @@ void __init sn_io_init(void)
 		for (j = 0; j <= max_pcibus_number; j++)
 			sn_pci_controller_fixup(i, j, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

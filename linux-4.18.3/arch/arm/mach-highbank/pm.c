@@ -58,3 +58,4 @@ void __init highbank_pm_init(void)
 
 	suspend_set_ops(&highbank_pm_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

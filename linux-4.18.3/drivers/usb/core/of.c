@@ -131,3 +131,4 @@ struct device *usb_of_get_companion_dev(struct device *dev)
 	return pdev ? &pdev->dev : NULL;
 }
 EXPORT_SYMBOL_GPL(usb_of_get_companion_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

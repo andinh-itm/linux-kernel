@@ -47,3 +47,4 @@ const struct ethtool_ops rtl819x_ethtool_ops = {
 	.get_drvinfo = _rtl92e_ethtool_get_drvinfo,
 	.get_link = _rtl92e_ethtool_get_link,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

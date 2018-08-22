@@ -108,3 +108,4 @@ void __init tegra20_init_speedo_data(struct tegra_sku_info *sku_info)
 	}
 	sku_info->soc_process_id = i;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -554,3 +554,4 @@ static int __init cpu_type_probe(void)
 #endif /* CONFIG_SPARC64 */
 
 early_initcall(cpu_type_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

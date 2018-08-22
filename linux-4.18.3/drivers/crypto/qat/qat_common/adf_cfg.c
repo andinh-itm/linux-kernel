@@ -365,3 +365,4 @@ int adf_cfg_get_param_value(struct adf_accel_dev *accel_dev,
 	up_read(&cfg->lock);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

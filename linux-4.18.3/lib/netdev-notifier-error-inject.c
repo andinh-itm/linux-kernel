@@ -53,3 +53,4 @@ module_exit(netdev_err_inject_exit);
 MODULE_DESCRIPTION("Netdevice notifier error injection module");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Nikolay Aleksandrov <razor@blackwall.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

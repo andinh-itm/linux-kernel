@@ -886,3 +886,4 @@ static int arm_pmu_hp_init(void)
 	return ret;
 }
 subsys_initcall(arm_pmu_hp_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

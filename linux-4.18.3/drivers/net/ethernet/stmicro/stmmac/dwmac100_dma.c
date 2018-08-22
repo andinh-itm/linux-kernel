@@ -135,3 +135,4 @@ const struct stmmac_dma_ops dwmac100_dma_ops = {
 	.stop_rx = dwmac_dma_stop_rx,
 	.dma_interrupt = dwmac_dma_interrupt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

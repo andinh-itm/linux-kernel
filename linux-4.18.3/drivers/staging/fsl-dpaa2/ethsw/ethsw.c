@@ -1509,3 +1509,4 @@ module_fsl_mc_driver(eth_sw_drv);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("DPAA2 Ethernet Switch Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

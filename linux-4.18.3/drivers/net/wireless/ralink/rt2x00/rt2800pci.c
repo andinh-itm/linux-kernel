@@ -467,3 +467,4 @@ static struct pci_driver rt2800pci_driver = {
 };
 
 module_pci_driver(rt2800pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

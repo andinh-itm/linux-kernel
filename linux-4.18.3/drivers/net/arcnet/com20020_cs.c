@@ -320,3 +320,4 @@ static struct pcmcia_driver com20020_cs_driver = {
 	.resume		= com20020_resume,
 };
 module_pcmcia_driver(com20020_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

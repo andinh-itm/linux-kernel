@@ -2844,3 +2844,4 @@ int fnic_is_abts_pending(struct fnic *fnic, struct scsi_cmnd *lr_sc)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

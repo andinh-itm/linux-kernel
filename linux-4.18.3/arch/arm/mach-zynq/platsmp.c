@@ -167,3 +167,4 @@ const struct smp_operations zynq_smp_ops __initconst = {
 	.cpu_kill		= zynq_cpu_kill,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

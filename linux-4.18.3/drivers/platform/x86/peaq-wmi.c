@@ -111,3 +111,4 @@ module_exit(peaq_wmi_exit);
 MODULE_DESCRIPTION("PEAQ 2-in-1 WMI hotkey driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -341,3 +341,4 @@ int mid_chip_setup(struct drm_device *dev)
 	mid_get_pci_revID(dev_priv);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

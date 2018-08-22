@@ -3544,3 +3544,4 @@ int rtsx_scsi_handler(struct scsi_cmnd *srb, struct rtsx_chip *chip)
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

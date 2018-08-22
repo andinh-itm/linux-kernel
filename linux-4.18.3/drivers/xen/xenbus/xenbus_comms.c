@@ -486,3 +486,4 @@ void xb_deinit_comms(void)
 	unbind_from_irqhandler(xenbus_irq, &xb_waitq);
 	xenbus_irq = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

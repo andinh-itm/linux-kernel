@@ -138,3 +138,4 @@ static struct platform_driver pcspkr_platform_driver = {
 };
 module_platform_driver(pcspkr_platform_driver);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

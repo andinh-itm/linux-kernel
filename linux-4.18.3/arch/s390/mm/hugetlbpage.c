@@ -243,3 +243,4 @@ static __init int setup_hugepagesz(char *opt)
 	return 1;
 }
 __setup("hugepagesz=", setup_hugepagesz);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

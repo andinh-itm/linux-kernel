@@ -450,3 +450,4 @@ module_platform_driver(exynos_cpufreq_platdrv);
 MODULE_AUTHOR("Amit Daniel Kachhap <amit.daniel@samsung.com>");
 MODULE_DESCRIPTION("Exynos5440 cpufreq driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

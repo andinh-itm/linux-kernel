@@ -118,3 +118,4 @@ void temac_mdio_teardown(struct temac_local *lp)
 	lp->mii_bus = NULL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

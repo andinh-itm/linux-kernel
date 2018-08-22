@@ -270,3 +270,4 @@ const char *fimc_is_strerr(unsigned int error)
 		return "Unknown";
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

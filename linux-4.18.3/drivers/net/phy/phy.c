@@ -1277,3 +1277,4 @@ int phy_ethtool_nway_reset(struct net_device *ndev)
 	return phy_restart_aneg(phydev);
 }
 EXPORT_SYMBOL(phy_ethtool_nway_reset);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

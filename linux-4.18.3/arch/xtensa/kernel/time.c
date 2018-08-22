@@ -216,3 +216,4 @@ void calibrate_delay(void)
 		(loops_per_jiffy / (10000 / HZ)) % 100);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

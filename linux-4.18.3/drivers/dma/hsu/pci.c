@@ -144,3 +144,4 @@ module_pci_driver(hsu_pci_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("High Speed UART DMA PCI driver");
 MODULE_AUTHOR("Andy Shevchenko <andriy.shevchenko@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

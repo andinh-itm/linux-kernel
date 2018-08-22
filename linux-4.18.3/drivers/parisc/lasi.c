@@ -237,3 +237,4 @@ struct parisc_driver lasi_driver __refdata = {
 	.id_table =	lasi_tbl,
 	.probe =	lasi_init_chip,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

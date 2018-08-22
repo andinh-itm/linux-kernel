@@ -77,3 +77,4 @@ int __init dsmg600_pci_init(void)
 }
 
 subsys_initcall(dsmg600_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

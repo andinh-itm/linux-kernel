@@ -309,3 +309,4 @@ ieee802154_rx_irqsafe(struct ieee802154_hw *hw, struct sk_buff *skb, u8 lqi)
 	tasklet_schedule(&local->tasklet);
 }
 EXPORT_SYMBOL(ieee802154_rx_irqsafe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

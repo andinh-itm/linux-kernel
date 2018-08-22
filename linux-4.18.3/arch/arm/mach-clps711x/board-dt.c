@@ -80,3 +80,4 @@ DT_MACHINE_START(CLPS711X_DT, "Cirrus Logic CLPS711X (Device Tree Support)")
 	.init_late	= clps711x_init,
 	.restart	= clps711x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

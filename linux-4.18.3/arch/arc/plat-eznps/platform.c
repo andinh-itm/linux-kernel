@@ -100,3 +100,4 @@ MACHINE_START(NPS, "nps")
 	.dt_compat	= eznps_compat,
 	.init_early	= eznps_early_init,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

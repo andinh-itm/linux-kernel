@@ -1108,3 +1108,4 @@ module_platform_driver(dim2_driver);
 MODULE_AUTHOR("Andrey Shvetsov <andrey.shvetsov@k2l.de>");
 MODULE_DESCRIPTION("MediaLB DIM2 Hardware Dependent Module");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

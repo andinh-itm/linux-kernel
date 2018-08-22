@@ -525,3 +525,4 @@ int mlx5_firmware_flash(struct mlx5_core_dev *dev,
 
 	return mlxfw_firmware_flash(&mlx5_mlxfw_dev.mlxfw_dev, firmware);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

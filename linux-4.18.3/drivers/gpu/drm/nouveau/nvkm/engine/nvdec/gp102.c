@@ -28,3 +28,4 @@ gp102_nvdec_new(struct nvkm_device *device, int index,
 {
 	return nvkm_nvdec_new_(device, index, pnvdec);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

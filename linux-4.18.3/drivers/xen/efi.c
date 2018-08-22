@@ -281,3 +281,4 @@ void xen_efi_reset_system(int reset_type, efi_status_t status,
 	}
 }
 EXPORT_SYMBOL_GPL(xen_efi_reset_system);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

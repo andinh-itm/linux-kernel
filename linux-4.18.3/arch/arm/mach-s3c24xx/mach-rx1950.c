@@ -820,3 +820,4 @@ MACHINE_START(RX1950, "HP iPAQ RX1950")
 	.init_machine = rx1950_init_machine,
 	.init_time	= rx1950_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

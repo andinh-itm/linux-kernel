@@ -953,3 +953,4 @@ void hiddev_disconnect(struct hid_device *hid)
 		kfree(hiddev);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

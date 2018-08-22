@@ -117,3 +117,4 @@ static struct snd_seq_driver emu10k1_synth_driver = {
 };
 
 module_snd_seq_driver(emu10k1_synth_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

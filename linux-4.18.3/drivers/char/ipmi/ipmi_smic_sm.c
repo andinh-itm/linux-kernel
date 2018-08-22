@@ -578,3 +578,4 @@ const struct si_sm_handlers smic_smi_handlers = {
 	.cleanup           = smic_cleanup,
 	.size              = smic_size,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

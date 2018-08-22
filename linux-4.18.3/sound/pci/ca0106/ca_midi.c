@@ -314,3 +314,4 @@ int ca_midi_init(void *dev_id, struct snd_ca_midi *midi, int device, char *name)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

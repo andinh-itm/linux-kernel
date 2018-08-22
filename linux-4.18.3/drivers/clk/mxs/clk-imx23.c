@@ -174,3 +174,4 @@ static void __init mx23_clocks_init(struct device_node *np)
 
 }
 CLK_OF_DECLARE(imx23_clkctrl, "fsl,imx23-clkctrl", mx23_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

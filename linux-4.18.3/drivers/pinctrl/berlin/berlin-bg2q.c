@@ -403,3 +403,4 @@ static struct platform_driver berlin2q_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(berlin2q_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

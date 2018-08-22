@@ -177,3 +177,4 @@ void dbg_pnp_show_option(struct pnp_dev *dev, struct pnp_option *option)
 	}
 	pnp_dbg(&dev->dev, "%s\n", buf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

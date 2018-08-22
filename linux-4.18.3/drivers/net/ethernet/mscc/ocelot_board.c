@@ -314,3 +314,4 @@ module_platform_driver(mscc_ocelot_driver);
 MODULE_DESCRIPTION("Microsemi Ocelot switch driver");
 MODULE_AUTHOR("Alexandre Belloni <alexandre.belloni@bootlin.com>");
 MODULE_LICENSE("Dual MIT/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1077,3 +1077,4 @@ MODULE_AUTHOR("Akshay Bhat <akshay.bhat@timesys.com>");
 MODULE_AUTHOR("Casey Fitzpatrick <casey.fitzpatrick@timesys.com>");
 MODULE_DESCRIPTION("Holt HI-3110 CAN driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

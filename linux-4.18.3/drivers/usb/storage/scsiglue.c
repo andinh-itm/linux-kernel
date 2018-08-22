@@ -668,3 +668,4 @@ unsigned char usb_stor_sense_invalidCDB[18] = {
 	[12]	= 0x24			    /* Invalid Field in CDB */
 };
 EXPORT_SYMBOL_GPL(usb_stor_sense_invalidCDB);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

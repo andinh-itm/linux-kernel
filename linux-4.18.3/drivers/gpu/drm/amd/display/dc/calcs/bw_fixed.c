@@ -189,3 +189,4 @@ struct bw_fixed bw_mul(const struct bw_fixed arg1, const struct bw_fixed arg2)
 	return res;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

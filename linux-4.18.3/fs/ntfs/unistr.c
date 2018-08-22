@@ -396,3 +396,4 @@ mem_err_out:
 	ntfs_error(vol->sb, "Failed to allocate name!");
 	return -ENOMEM;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

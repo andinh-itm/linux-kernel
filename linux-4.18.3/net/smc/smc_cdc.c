@@ -333,3 +333,4 @@ int __init smc_cdc_init(void)
 	}
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

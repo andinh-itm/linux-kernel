@@ -293,3 +293,4 @@ void dump_cs4245_registers(struct oxygen *chip,
 		snd_iprintf(buffer, " %02x", data->cs4245_shadow[addr]);
 	snd_iprintf(buffer, "\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

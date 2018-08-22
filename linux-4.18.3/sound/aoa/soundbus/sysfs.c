@@ -44,3 +44,4 @@ struct attribute *soundbus_dev_attrs[] = {
 	&dev_attr_modalias.attr,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -175,3 +175,4 @@ void __init ks8695_init_irq(void)
 		irq_clear_status_flags(irq, IRQ_NOREQUEST);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

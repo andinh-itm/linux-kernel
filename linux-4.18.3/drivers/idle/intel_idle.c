@@ -1494,3 +1494,4 @@ device_initcall(intel_idle_init);
  * is the easiest way (currently) to continue doing that.
  */
 module_param(max_cstate, int, 0444);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

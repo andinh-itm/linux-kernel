@@ -189,3 +189,4 @@ static void via_no_dac(struct pci_dev *dev)
 DECLARE_PCI_FIXUP_CLASS_FINAL(PCI_VENDOR_ID_VIA, PCI_ANY_ID,
 				PCI_CLASS_BRIDGE_PCI, 8, via_no_dac);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

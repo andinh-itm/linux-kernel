@@ -147,3 +147,4 @@ void picolcd_exit_cir(struct picolcd_data *data)
 	rc_unregister_device(rdev);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -229,3 +229,4 @@ sisfb_gettotalfrommode(struct SiS_Private *SiS_Pr, unsigned char modeno, int *ht
 
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

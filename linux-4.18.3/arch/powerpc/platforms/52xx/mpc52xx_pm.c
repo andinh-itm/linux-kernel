@@ -199,3 +199,4 @@ int __init mpc52xx_pm_init(void)
 	suspend_set_ops(&mpc52xx_pm_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

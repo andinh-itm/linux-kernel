@@ -64,3 +64,4 @@ const struct smp_operations sh73a0_smp_ops __initconst = {
 	.cpu_kill		= shmobile_smp_scu_cpu_kill,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

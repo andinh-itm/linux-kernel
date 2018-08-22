@@ -836,3 +836,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Rakesh Iyer <riyer@nvidia.com>");
 MODULE_DESCRIPTION("Tegra matrix keyboard controller driver");
 MODULE_ALIAS("platform:tegra-kbc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

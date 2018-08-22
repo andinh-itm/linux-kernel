@@ -168,3 +168,4 @@ module_platform_driver(ts73xx_fpga_driver);
 MODULE_AUTHOR("Florian Fainelli <f.fainelli@gmail.com>");
 MODULE_DESCRIPTION("TS-73xx FPGA Manager driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1184,3 +1184,4 @@ MODULE_ALIAS("pwcx");
 MODULE_VERSION( PWC_VERSION );
 
 module_usb_driver(pwc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

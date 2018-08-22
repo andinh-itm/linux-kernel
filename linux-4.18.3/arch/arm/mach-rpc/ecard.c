@@ -1129,3 +1129,4 @@ EXPORT_SYMBOL(ecard_readchunk);
 EXPORT_SYMBOL(ecard_register_driver);
 EXPORT_SYMBOL(ecard_remove_driver);
 EXPORT_SYMBOL(ecard_bus_type);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

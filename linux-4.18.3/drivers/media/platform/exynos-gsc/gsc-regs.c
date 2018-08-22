@@ -428,3 +428,4 @@ void gsc_hw_set_sfr_update(struct gsc_ctx *ctx)
 	cfg |= GSC_ENABLE_SFR_UPDATE;
 	writel(cfg, dev->regs + GSC_ENABLE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

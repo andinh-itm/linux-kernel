@@ -137,3 +137,4 @@ int fdt_nop_node(void *fdt, int nodeoffset)
 			endoffset - nodeoffset);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

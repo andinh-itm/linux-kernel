@@ -187,3 +187,4 @@ void da9063_irq_exit(struct da9063 *da9063)
 {
 	regmap_del_irq_chip(da9063->chip_irq, da9063->regmap_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

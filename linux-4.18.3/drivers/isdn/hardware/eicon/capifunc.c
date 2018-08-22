@@ -1217,3 +1217,4 @@ void __exit finit_capifunc(void)
 	remove_main_structs();
 	diva_os_destroy_spin_lock(&api_lock, "capifunc");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

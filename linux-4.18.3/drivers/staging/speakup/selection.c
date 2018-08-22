@@ -184,3 +184,4 @@ void speakup_cancel_paste(void)
 	cancel_work_sync(&speakup_paste_work.work);
 	tty_kref_put(speakup_paste_work.tty);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

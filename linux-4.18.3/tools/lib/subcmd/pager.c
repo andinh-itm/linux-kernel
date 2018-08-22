@@ -118,3 +118,4 @@ int pager_get_columns(void)
 
 	return (pager_columns ? pager_columns : 80) - 2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

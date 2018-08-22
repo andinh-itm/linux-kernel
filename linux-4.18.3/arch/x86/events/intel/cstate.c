@@ -703,3 +703,4 @@ static void __exit cstate_pmu_exit(void)
 	cstate_cleanup();
 }
 module_exit(cstate_pmu_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -531,3 +531,4 @@ MODULE_PARM_DESC(battery_voltage, "battery voltage (millivolts)");
 MODULE_DESCRIPTION("Power supply driver for testing");
 MODULE_AUTHOR("Anton Vorontsov <cbouatmailru@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

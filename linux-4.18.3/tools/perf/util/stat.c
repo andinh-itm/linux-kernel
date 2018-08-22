@@ -435,3 +435,4 @@ size_t perf_event__fprintf_stat_config(union perf_event *event, FILE *fp)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

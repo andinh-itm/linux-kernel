@@ -121,3 +121,4 @@ static int __init tx_7segled_init_sysfs(void)
 }
 
 device_initcall(tx_7segled_init_sysfs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

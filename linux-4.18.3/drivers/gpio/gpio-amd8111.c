@@ -247,3 +247,4 @@ module_exit(amd_gpio_exit);
 MODULE_AUTHOR("The Linux Kernel team");
 MODULE_DESCRIPTION("GPIO driver for AMD chipsets");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

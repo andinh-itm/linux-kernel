@@ -241,3 +241,4 @@ void prepare_vmcs(void *guest_rip, void *guest_rsp)
 	init_vmcs_host_state();
 	init_vmcs_guest_state(guest_rip, guest_rsp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

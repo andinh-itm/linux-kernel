@@ -4417,3 +4417,4 @@ const struct sh_pfc_soc_info sh73a0_pinmux_info = {
 	.gpio_irq = pinmux_irqs,
 	.gpio_irq_size = ARRAY_SIZE(pinmux_irqs),
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

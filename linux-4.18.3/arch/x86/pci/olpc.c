@@ -313,3 +313,4 @@ int __init pci_olpc_init(void)
 	is_lx = is_geode_lx();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

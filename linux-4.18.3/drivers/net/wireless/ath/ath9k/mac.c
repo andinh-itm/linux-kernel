@@ -1046,3 +1046,4 @@ void ath9k_hw_set_tx_filter(struct ath_hw *ah, u8 destidx, bool set)
 	}
 }
 EXPORT_SYMBOL(ath9k_hw_set_tx_filter);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -235,3 +235,4 @@ void divasfunc_exit(void)
 	divasa_xdi_driver_unload();
 	disconnect_didd();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

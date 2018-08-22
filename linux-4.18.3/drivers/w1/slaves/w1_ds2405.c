@@ -226,3 +226,4 @@ static struct w1_family w1_family_ds2405 = {
 };
 
 module_w1_family(w1_family_ds2405);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

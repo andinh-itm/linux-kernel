@@ -430,3 +430,4 @@ module_exit(mtd_nandbiterrs_exit);
 MODULE_DESCRIPTION("NAND bit error recovery test");
 MODULE_AUTHOR("Iwo Mergler");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

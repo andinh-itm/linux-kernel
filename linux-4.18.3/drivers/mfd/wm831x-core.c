@@ -1948,3 +1948,4 @@ EXPORT_SYMBOL_GPL(wm831x_device_shutdown);
 MODULE_DESCRIPTION("Core support for the WM831X AudioPlus PMIC");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mark Brown");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

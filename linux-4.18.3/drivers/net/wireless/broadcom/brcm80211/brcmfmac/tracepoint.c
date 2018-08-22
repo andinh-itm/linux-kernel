@@ -36,3 +36,4 @@ void __brcmf_err(const char *func, const char *fmt, ...)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -200,3 +200,4 @@ COMPAT_SYSCALL_DEFINE6(futex, u32 __user *, uaddr, int, op, u32, val,
 
 	return do_futex(uaddr, op, val, tp, uaddr2, val2, val3);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

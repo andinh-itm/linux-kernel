@@ -357,3 +357,4 @@ MODULE_AUTHOR("Michał Mirosław <mirq-linux@rere.qmqm.pl>");
 MODULE_DESCRIPTION("ENE CB710 memory card reader driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, cb710_pci_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

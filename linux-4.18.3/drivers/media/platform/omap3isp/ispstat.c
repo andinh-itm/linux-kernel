@@ -1079,3 +1079,4 @@ void omap3isp_stat_cleanup(struct ispstat *stat)
 	isp_stat_bufs_free(stat);
 	kfree(stat->buf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

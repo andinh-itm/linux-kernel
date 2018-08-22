@@ -3792,3 +3792,4 @@ MODULE_PARM_DESC(debug,   "debug bitmap, see drivers/atm/idt77252.h");
 
 MODULE_AUTHOR("Eddie C. Dost <ecd@atecom.com>");
 MODULE_DESCRIPTION("IDT77252 ABR SAR Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

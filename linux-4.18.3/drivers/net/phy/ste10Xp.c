@@ -119,3 +119,4 @@ MODULE_DEVICE_TABLE(mdio, ste10Xp_tbl);
 MODULE_DESCRIPTION("STMicroelectronics STe10Xp PHY driver");
 MODULE_AUTHOR("Giuseppe Cavallaro <peppe.cavallaro@st.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

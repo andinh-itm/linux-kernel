@@ -378,3 +378,4 @@ MODULE_DESCRIPTION("low-level driver for Sl82c105");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, sl82c105);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

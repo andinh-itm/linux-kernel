@@ -883,3 +883,4 @@ int pci_sriov_configure_simple(struct pci_dev *dev, int nr_virtfn)
 	return nr_virtfn;
 }
 EXPORT_SYMBOL_GPL(pci_sriov_configure_simple);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

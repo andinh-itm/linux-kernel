@@ -47,3 +47,4 @@ module_i2c_driver(ad193x_i2c_driver);
 MODULE_DESCRIPTION("ASoC AD1936/AD1937 audio CODEC driver");
 MODULE_AUTHOR("Barry Song <21cnbao@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

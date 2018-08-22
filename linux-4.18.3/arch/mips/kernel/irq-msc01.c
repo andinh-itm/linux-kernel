@@ -157,3 +157,4 @@ void __init init_msc_irqs(unsigned long icubase, unsigned int irqbase, msc_irqma
 	MSCIC_WRITE(MSC01_IC_GENA, MSC01_IC_GENA_GENA_BIT);	/* Enable interrupt generation */
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -337,3 +337,4 @@ err:
 	return ret;
 }
 TIMER_OF_DECLARE(intcp, "arm,integrator-cp-timer", integrator_cp_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

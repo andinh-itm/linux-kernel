@@ -371,3 +371,4 @@ module_exit(usbport_trig_exit);
 MODULE_AUTHOR("Rafał Miłecki <rafal@milecki.pl>");
 MODULE_DESCRIPTION("USB port trigger");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

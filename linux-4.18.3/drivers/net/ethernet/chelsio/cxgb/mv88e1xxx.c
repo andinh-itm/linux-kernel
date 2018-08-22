@@ -396,3 +396,4 @@ const struct gphy t1_mv88e1xxx_ops = {
 	.create = mv88e1xxx_phy_create,
 	.reset =  mv88e1xxx_phy_reset
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

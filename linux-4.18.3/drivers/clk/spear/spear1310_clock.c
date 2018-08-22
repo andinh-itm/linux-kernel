@@ -1120,3 +1120,4 @@ void __init spear1310_clk_init(void __iomem *misc_base, void __iomem *ras_base)
 			&_lock);
 	clk_register_clkdev(clk, NULL, "tdm_hdlc.1");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

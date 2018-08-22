@@ -1429,3 +1429,4 @@ void intel_fbc_init(struct drm_i915_private *dev_priv)
 	if (intel_fbc_hw_is_active(dev_priv))
 		intel_fbc_hw_deactivate(dev_priv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

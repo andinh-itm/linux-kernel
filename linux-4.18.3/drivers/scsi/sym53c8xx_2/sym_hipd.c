@@ -5835,3 +5835,4 @@ void sym_hcb_free(struct sym_hcb *np)
 	if (np->targtbl)
 		sym_mfree_dma(np->targtbl, 256, "TARGTBL");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

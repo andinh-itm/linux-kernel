@@ -689,3 +689,4 @@ MODULE_DESCRIPTION("ICS IDE driver");
 
 module_init(icside_init);
 module_exit(icside_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

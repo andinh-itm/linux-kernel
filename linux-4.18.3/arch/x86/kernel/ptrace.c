@@ -1399,3 +1399,4 @@ void send_sigtrap(struct task_struct *tsk, struct pt_regs *regs,
 	/* Send us the fake SIGTRAP */
 	force_sig_info(SIGTRAP, &info, tsk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

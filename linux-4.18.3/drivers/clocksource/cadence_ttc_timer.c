@@ -541,3 +541,4 @@ static int __init ttc_timer_init(struct device_node *timer)
 }
 
 TIMER_OF_DECLARE(ttc, "cdns,ttc", ttc_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

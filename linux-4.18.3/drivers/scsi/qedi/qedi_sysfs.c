@@ -50,3 +50,4 @@ struct device_attribute *qedi_shost_attrs[] = {
 	&dev_attr_speed,
 	NULL
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

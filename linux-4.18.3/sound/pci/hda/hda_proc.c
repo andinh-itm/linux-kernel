@@ -931,3 +931,4 @@ int snd_hda_codec_proc_new(struct hda_codec *codec)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

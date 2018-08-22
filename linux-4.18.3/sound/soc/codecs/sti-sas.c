@@ -483,3 +483,4 @@ module_platform_driver(sti_sas_platform_driver);
 MODULE_DESCRIPTION("audio codec for STMicroelectronics sti platforms");
 MODULE_AUTHOR("Arnaud.pouliquen@st.com");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

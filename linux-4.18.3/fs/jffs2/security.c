@@ -70,3 +70,4 @@ const struct xattr_handler jffs2_security_xattr_handler = {
 	.set = jffs2_security_setxattr,
 	.get = jffs2_security_getxattr
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

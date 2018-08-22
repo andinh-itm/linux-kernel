@@ -279,3 +279,4 @@ MODULE_AUTHOR("Vadim Pasternak <vadimp@mellanox.com>");
 MODULE_DESCRIPTION("Mellanox LED regmap driver");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_ALIAS("platform:leds-mlxreg");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

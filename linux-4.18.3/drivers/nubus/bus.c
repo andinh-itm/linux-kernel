@@ -110,3 +110,4 @@ int nubus_proc_show(struct seq_file *m, void *data)
 	return bus_for_each_dev(&nubus_bus_type, NULL, m,
 				nubus_print_device_name_fn);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

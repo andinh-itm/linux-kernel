@@ -1464,3 +1464,4 @@ const struct dev_pm_ops stmpe_dev_pm_ops = {
 	.resume		= stmpe_resume,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

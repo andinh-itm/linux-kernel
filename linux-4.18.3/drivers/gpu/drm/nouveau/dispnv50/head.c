@@ -509,3 +509,4 @@ out:
 		nv50_head_destroy(crtc);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

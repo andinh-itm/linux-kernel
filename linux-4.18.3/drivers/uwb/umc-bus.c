@@ -210,3 +210,4 @@ module_exit(umc_bus_exit);
 MODULE_DESCRIPTION("UWB Multi-interface Controller capability bus");
 MODULE_AUTHOR("Cambridge Silicon Radio Ltd.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

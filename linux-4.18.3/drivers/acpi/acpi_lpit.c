@@ -161,3 +161,4 @@ void acpi_init_lpit(void)
 	lpit_begin = (u64)lpit + sizeof(*lpit);
 	lpit_process(lpit_begin, lpit_begin + lpit->header.length);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

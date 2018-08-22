@@ -88,3 +88,4 @@ static int __init ls1b_platform_init(void)
 }
 
 arch_initcall(ls1b_platform_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -684,3 +684,4 @@ struct ctl_table usermodehelper_table[] = {
 	},
 	{ }
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

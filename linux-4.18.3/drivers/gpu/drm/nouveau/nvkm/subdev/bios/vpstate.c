@@ -80,3 +80,4 @@ nvbios_vpstate_entry(struct nvkm_bios *b, struct nvbios_vpstate_header *h,
 	e->clock_mhz = nvbios_rd16(b, offset + 0x5);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

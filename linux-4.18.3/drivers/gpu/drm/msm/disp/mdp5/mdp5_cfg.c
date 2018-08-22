@@ -650,3 +650,4 @@ static struct mdp5_cfg_platform *mdp5_get_config(struct platform_device *dev)
 
 	return &config;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

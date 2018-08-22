@@ -1364,3 +1364,4 @@ module_exit(da7210_exit);
 MODULE_DESCRIPTION("ASoC DA7210 driver");
 MODULE_AUTHOR("David Chen, Kuninori Morimoto");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

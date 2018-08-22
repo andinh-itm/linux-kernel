@@ -152,3 +152,4 @@ EXPORT_SYMBOL(_mcount);
 /* from pacache.S -- needed for clear/copy_page */
 EXPORT_SYMBOL(clear_page_asm);
 EXPORT_SYMBOL(copy_page_asm);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

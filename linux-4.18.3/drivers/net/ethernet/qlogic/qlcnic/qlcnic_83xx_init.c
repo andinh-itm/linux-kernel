@@ -2610,3 +2610,4 @@ void qlcnic_83xx_aer_start_poll_work(struct qlcnic_adapter *adapter)
 
 	qlcnic_schedule_work(adapter, qlcnic_83xx_idc_poll_dev_state, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

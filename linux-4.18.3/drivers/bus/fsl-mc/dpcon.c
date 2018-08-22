@@ -220,3 +220,4 @@ int dpcon_set_notification(struct fsl_mc_io *mc_io,
 	return mc_send_command(mc_io, &cmd);
 }
 EXPORT_SYMBOL_GPL(dpcon_set_notification);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

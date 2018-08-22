@@ -622,3 +622,4 @@ module_platform_driver(q6asm_dai_platform_driver);
 
 MODULE_DESCRIPTION("Q6ASM dai driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -635,3 +635,4 @@ static struct isa_driver snd_galaxy_driver = {
 };
 
 module_isa_driver(snd_galaxy_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

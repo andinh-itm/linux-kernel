@@ -137,3 +137,4 @@ define_machine(mpc86xx_hpcn) {
 	.pcibios_fixup_bus	= fsl_pcibios_fixup_bus,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

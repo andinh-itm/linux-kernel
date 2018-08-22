@@ -3196,3 +3196,4 @@ isdn_net_rmall(void)
 	spin_unlock_irqrestore(&dev->lock, flags);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2307,3 +2307,4 @@ int uvcg_attach_configfs(struct f_uvc_opts *opts)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

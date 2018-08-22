@@ -183,3 +183,4 @@ int gpio_reg_resume(struct gpio_chip *gc)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

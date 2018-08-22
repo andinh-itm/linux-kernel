@@ -262,3 +262,4 @@ module_spi_driver(tpm_tis_spi_driver);
 
 MODULE_DESCRIPTION("TPM Driver for native SPI access");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

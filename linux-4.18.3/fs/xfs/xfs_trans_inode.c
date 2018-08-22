@@ -153,3 +153,4 @@ xfs_trans_roll_inode(
 		xfs_trans_ijoin(*tpp, ip, 0);
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -832,3 +832,4 @@ void usbhs_pipe_remove(struct usbhs_priv *priv)
 
 	kfree(info->pipe);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

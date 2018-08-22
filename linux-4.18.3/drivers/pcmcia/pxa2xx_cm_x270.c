@@ -105,3 +105,4 @@ void __exit cmx270_pcmcia_exit(void)
 {
 	platform_device_unregister(cmx270_pcmcia_device);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

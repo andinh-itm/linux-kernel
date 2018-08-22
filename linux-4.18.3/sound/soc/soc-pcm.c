@@ -3269,3 +3269,4 @@ void soc_dpcm_debugfs_add(struct snd_soc_pcm_runtime *rtd)
 			    rtd, &dpcm_state_fops);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

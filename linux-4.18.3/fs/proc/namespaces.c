@@ -173,3 +173,4 @@ const struct inode_operations proc_ns_dir_inode_operations = {
 	.getattr	= pid_getattr,
 	.setattr	= proc_setattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

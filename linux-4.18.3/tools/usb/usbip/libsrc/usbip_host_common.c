@@ -292,3 +292,4 @@ struct usbip_exported_device *usbip_generic_get_device(
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

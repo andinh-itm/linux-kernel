@@ -739,3 +739,4 @@ MODULE_DESCRIPTION("MMP Two-Channel DMA Driver");
 MODULE_ALIAS("platform:mmp-tdma");
 MODULE_AUTHOR("Leo Yan <leoy@marvell.com>");
 MODULE_AUTHOR("Zhangfei Gao <zhangfei.gao@marvell.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -39,3 +39,4 @@ perf_callchain_kernel(struct perf_callchain_entry_ctx *entry, struct pt_regs *re
 
 	unwind_stack(NULL, regs, NULL, &callchain_ops, entry);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

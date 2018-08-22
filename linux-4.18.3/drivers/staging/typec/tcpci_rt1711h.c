@@ -310,3 +310,4 @@ module_i2c_driver(rt1711h_i2c_driver);
 MODULE_AUTHOR("ShuFan Lee <shufan_lee@richtek.com>");
 MODULE_DESCRIPTION("RT1711H USB Type-C Port Controller Interface Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

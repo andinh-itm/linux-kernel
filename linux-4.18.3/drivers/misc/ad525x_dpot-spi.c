@@ -144,3 +144,4 @@ MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("digital potentiometer SPI bus driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:ad_dpot");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

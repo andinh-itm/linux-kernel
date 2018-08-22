@@ -263,3 +263,4 @@ void msm_hdmi_audio_set_sample_rate(struct hdmi *hdmi, int rate)
 	audio->rate = rate;
 	msm_hdmi_audio_update(hdmi);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1178,3 +1178,4 @@ void __init acpi_lpss_init(void)
 }
 
 #endif /* CONFIG_X86_INTEL_LPSS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

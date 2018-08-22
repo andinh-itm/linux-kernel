@@ -567,3 +567,4 @@ module_exit(wm8776_exit);
 MODULE_DESCRIPTION("ASoC WM8776 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

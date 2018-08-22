@@ -59,3 +59,4 @@ MODULE_AUTHOR("Andreas Dannenberg <dannenberg@ti.com>");
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("PCM186x Universal Audio ADC I2C Interface Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

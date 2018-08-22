@@ -387,3 +387,4 @@ int vivid_fb_init(struct vivid_dev *dev)
 	return 0;
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

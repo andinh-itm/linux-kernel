@@ -230,3 +230,4 @@ int omap2_clk_disable_autoidle_all(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

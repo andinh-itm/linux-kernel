@@ -520,3 +520,4 @@ int dma_port_power_cycle(struct tb_dma_port *dma)
 
 	return dma_port_request(dma, in, 150);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

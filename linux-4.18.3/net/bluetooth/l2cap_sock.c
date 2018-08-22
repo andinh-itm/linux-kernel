@@ -1707,3 +1707,4 @@ void l2cap_cleanup_sockets(void)
 	bt_sock_unregister(BTPROTO_L2CAP);
 	proto_unregister(&l2cap_proto);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

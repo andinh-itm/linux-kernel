@@ -449,3 +449,4 @@ module_mipi_dsi_driver(sharp_panel_driver);
 MODULE_AUTHOR("Thierry Reding <treding@nvidia.com>");
 MODULE_DESCRIPTION("Sharp LQ101R1SX01 panel driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

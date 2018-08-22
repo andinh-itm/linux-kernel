@@ -905,3 +905,4 @@ void iwl_mvm_thermal_exit(struct iwl_mvm *mvm)
 #endif
 	mvm->init_status &= ~IWL_MVM_INIT_STATUS_THERMAL_INIT_COMPLETE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

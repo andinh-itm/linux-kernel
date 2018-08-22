@@ -281,3 +281,4 @@ static int st6422_stop(struct sd *sd)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

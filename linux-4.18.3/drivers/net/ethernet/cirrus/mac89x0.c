@@ -572,3 +572,4 @@ static struct platform_driver mac89x0_platform_driver = {
 };
 
 module_platform_driver(mac89x0_platform_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

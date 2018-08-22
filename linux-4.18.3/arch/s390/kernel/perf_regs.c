@@ -69,3 +69,4 @@ void perf_get_regs_user(struct perf_regs *regs_user,
 		save_fpu_regs();
 	regs_user->abi = perf_reg_abi(current);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -548,3 +548,4 @@ int llvm__search_clang(void)
 
 	return search_program(llvm_param.clang_path, "clang", clang_path);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

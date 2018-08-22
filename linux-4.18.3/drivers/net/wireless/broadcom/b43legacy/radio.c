@@ -2141,3 +2141,4 @@ void b43legacy_radio_clear_tssi(struct b43legacy_wldev *dev)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -351,3 +351,4 @@ void hdmi4_cec_uninit(struct hdmi_core_data *core)
 {
 	cec_unregister_adapter(core->adap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -161,3 +161,4 @@ struct clk *clk_register_gate2(struct device *dev, const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

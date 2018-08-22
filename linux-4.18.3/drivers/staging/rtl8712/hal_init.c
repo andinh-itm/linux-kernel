@@ -395,3 +395,4 @@ uint rtl871x_hal_init(struct _adapter *padapter)
 	}
 	return _SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

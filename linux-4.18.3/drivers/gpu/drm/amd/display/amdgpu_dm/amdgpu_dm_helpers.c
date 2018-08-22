@@ -505,3 +505,4 @@ void dm_set_dcn_clocks(struct dc_context *ctx, struct dc_clocks *clks)
 {
 	/* TODO: something */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

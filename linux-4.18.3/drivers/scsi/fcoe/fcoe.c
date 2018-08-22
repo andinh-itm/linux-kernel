@@ -2849,3 +2849,4 @@ static void fcoe_set_port_id(struct fc_lport *lport,
 	if (fp && fc_frame_payload_op(fp) == ELS_FLOGI)
 		fcoe_ctlr_recv_flogi(ctlr, lport, fp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

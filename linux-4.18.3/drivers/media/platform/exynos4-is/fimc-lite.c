@@ -1690,3 +1690,4 @@ static struct platform_driver fimc_lite_driver = {
 module_platform_driver(fimc_lite_driver);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" FIMC_LITE_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

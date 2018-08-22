@@ -1594,3 +1594,4 @@ static const struct dvb_frontend_ops cx24120_ops = {
 MODULE_DESCRIPTION("DVB Frontend module for Conexant CX24120/CX24118 hardware");
 MODULE_AUTHOR("Jemma Denson");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

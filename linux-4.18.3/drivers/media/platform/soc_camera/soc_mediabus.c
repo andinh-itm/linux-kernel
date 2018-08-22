@@ -531,3 +531,4 @@ module_exit(soc_mbus_exit);
 MODULE_DESCRIPTION("soc-camera media bus interface");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -232,3 +232,4 @@ MODULE_AUTHOR("Eric Bénard <eric@eukrea.com>");
 MODULE_DESCRIPTION("CPUIMX ALSA SoC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:eukrea_tlv320");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

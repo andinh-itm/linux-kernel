@@ -98,3 +98,4 @@ void mmp_clk_reset_register(struct device_node *np,
 
 	reset_controller_register(&unit->rcdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

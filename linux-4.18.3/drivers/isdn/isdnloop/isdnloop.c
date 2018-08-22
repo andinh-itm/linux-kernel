@@ -1526,3 +1526,4 @@ isdnloop_exit(void)
 
 module_init(isdnloop_init);
 module_exit(isdnloop_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

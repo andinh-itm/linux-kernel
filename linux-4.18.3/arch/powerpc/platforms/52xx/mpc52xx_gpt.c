@@ -789,3 +789,4 @@ static int __init mpc52xx_gpt_init(void)
 /* Make sure GPIOs and IRQs get set up before anyone tries to use them */
 subsys_initcall(mpc52xx_gpt_init);
 device_initcall(mpc52xx_gpt_wdt_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

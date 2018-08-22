@@ -535,3 +535,4 @@ bool rtl8723e_dm_bt_is_wifi_up_link(struct ieee80211_hw *hw)
 		return true;
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

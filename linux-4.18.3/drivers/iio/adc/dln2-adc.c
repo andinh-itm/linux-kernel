@@ -714,3 +714,4 @@ MODULE_AUTHOR("Jack Andersen <jackoalan@gmail.com");
 MODULE_DESCRIPTION("Driver for the Diolan DLN2 ADC interface");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:dln2-adc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

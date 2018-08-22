@@ -1449,3 +1449,4 @@ int nand_markbad_bbt(struct mtd_info *mtd, loff_t offs)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

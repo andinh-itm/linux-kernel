@@ -134,3 +134,4 @@ static void __init db120_setup(void)
 
 MIPS_MACHINE(ATH79_MACH_DB120, "DB120", "Atheros DB120 reference board",
 	     db120_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

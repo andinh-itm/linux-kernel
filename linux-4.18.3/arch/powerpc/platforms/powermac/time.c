@@ -326,3 +326,4 @@ void __init pmac_calibrate_decr(void)
 			return;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

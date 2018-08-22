@@ -136,3 +136,4 @@ void rtl92cu_led_control(struct ieee80211_hw *hw,
 	RT_TRACE(rtlpriv, COMP_LED, DBG_LOUD, "ledaction %d\n", ledaction);
 	_rtl92cu_sw_led_control(hw, ledaction);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

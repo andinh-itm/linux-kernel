@@ -198,3 +198,4 @@ int sun4i_dclk_free(struct sun4i_tcon *tcon)
 	return 0;
 }
 EXPORT_SYMBOL(sun4i_dclk_free);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -41,3 +41,4 @@ g84_bsp_new(struct nvkm_device *device, int index, struct nvkm_engine **pengine)
 	return nvkm_xtensa_new_(&g84_bsp, device, index,
 				device->chipset != 0x92, 0x103000, pengine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

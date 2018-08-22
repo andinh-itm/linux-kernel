@@ -780,3 +780,4 @@ void sst_byt_dsp_free(struct device *dev, struct sst_pdata *pdata)
 	sst_ipc_fini(&byt->ipc);
 }
 EXPORT_SYMBOL_GPL(sst_byt_dsp_free);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

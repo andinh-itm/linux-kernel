@@ -1284,3 +1284,4 @@ module_platform_driver(miphy28lp_driver);
 MODULE_AUTHOR("Alexandre Torgue <alexandre.torgue@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics miphy28lp driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

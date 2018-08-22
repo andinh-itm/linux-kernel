@@ -106,3 +106,4 @@ int cx23885_s_register(struct file *file, void *fh,
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

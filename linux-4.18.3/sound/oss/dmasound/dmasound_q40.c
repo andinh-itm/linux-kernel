@@ -636,3 +636,4 @@ module_exit(dmasound_q40_cleanup);
 
 MODULE_DESCRIPTION("Q40/Q60 sound driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

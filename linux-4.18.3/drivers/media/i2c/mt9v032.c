@@ -1296,3 +1296,4 @@ module_i2c_driver(mt9v032_driver);
 MODULE_DESCRIPTION("Aptina MT9V032 Camera driver");
 MODULE_AUTHOR("Laurent Pinchart <laurent.pinchart@ideasonboard.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

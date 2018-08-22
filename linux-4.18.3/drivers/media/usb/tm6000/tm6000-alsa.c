@@ -519,3 +519,4 @@ static void __exit tm6000_alsa_unregister(void)
 
 module_init(tm6000_alsa_register);
 module_exit(tm6000_alsa_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

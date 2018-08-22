@@ -607,3 +607,4 @@ MODULE_ALIAS("platform:ep93xx-fb");
 MODULE_AUTHOR("Ryan Mallon, "
 	      "H Hartley Sweeten <hsweeten@visionengravers.com");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

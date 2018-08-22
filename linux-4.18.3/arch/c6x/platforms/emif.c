@@ -85,3 +85,4 @@ static int __init c6x_emifa_init(void)
 	return 0;
 }
 pure_initcall(c6x_emifa_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

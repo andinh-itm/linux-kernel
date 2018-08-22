@@ -278,3 +278,4 @@ module_i2c_driver(egalax_ts_driver);
 MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("Touchscreen driver for EETI eGalax touch controller");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

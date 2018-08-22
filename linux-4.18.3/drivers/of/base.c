@@ -1995,3 +1995,4 @@ int of_find_last_cache_level(unsigned int cpu)
 
 	return cache_level;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -596,3 +596,4 @@ void __init bootx_init(unsigned long r3, unsigned long r4)
 
 	__start(hdr, KERNELBASE + offset, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

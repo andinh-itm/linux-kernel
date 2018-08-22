@@ -333,3 +333,4 @@ int ef4_mdio_test_alive(struct ef4_nic *efx)
 	mutex_unlock(&efx->mac_lock);
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

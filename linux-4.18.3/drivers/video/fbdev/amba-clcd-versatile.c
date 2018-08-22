@@ -565,3 +565,4 @@ int versatile_clcd_init_panel(struct clcd_fb *fb, struct device_node *panel)
 }
 EXPORT_SYMBOL_GPL(versatile_clcd_init_panel);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

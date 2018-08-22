@@ -3180,3 +3180,4 @@ setstack_ni1(struct PStack *st)
 	strcpy(tmp, ni1_revision);
 	printk(KERN_INFO "HiSax: National ISDN-1 Rev. %s\n", HiSax_getrev(tmp));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

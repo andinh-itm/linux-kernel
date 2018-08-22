@@ -300,3 +300,4 @@ int elf_check_arch(const struct elf32_hdr *x)
 	return 1;
 }
 EXPORT_SYMBOL(elf_check_arch);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

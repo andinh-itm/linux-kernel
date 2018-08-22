@@ -220,3 +220,4 @@ void __init isa_init_dma(void)
 		request_dma(DMA_ISA_CASCADE, "cascade");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1525,3 +1525,4 @@ int __init setup_fadump(void)
 	return 1;
 }
 subsys_initcall(setup_fadump);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

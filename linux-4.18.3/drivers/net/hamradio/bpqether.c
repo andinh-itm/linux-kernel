@@ -611,3 +611,4 @@ MODULE_DESCRIPTION("Transmit and receive AX.25 packets over Ethernet");
 MODULE_LICENSE("GPL");
 module_init(bpq_init_driver);
 module_exit(bpq_cleanup_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -443,3 +443,4 @@ module_init(kvmppc_e500mc_init);
 module_exit(kvmppc_e500mc_exit);
 MODULE_ALIAS_MISCDEV(KVM_MINOR);
 MODULE_ALIAS("devname:kvm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

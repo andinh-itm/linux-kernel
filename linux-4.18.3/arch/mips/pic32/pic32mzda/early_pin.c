@@ -273,3 +273,4 @@ void pic32_pps_output(int function, int pin)
 
 	iounmap(pps_base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

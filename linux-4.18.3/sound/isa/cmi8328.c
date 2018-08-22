@@ -470,3 +470,4 @@ static struct isa_driver snd_cmi8328_driver = {
 };
 
 module_isa_driver(snd_cmi8328_driver, CMI8328_MAX);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

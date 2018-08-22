@@ -150,3 +150,4 @@ module_platform_driver_probe(davinci_vc_driver, davinci_vc_probe);
 MODULE_AUTHOR("Miguel Aguilar");
 MODULE_DESCRIPTION("Texas Instruments DaVinci Voice Codec Core Interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

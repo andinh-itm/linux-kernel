@@ -1156,3 +1156,4 @@ static int __init pat_memtype_list_init(void)
 late_initcall(pat_memtype_list_init);
 
 #endif /* CONFIG_DEBUG_FS && CONFIG_X86_PAT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

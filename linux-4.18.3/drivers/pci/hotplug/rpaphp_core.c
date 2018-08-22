@@ -488,3 +488,4 @@ struct hotplug_slot_ops rpaphp_hotplug_slot_ops = {
 
 module_init(rpaphp_init);
 module_exit(rpaphp_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

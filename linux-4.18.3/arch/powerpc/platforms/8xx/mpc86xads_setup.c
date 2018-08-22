@@ -148,3 +148,4 @@ define_machine(mpc86x_ads) {
 	.get_rtc_time		= mpc8xx_get_rtc_time,
 	.progress		= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

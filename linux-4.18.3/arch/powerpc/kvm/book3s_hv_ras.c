@@ -333,3 +333,4 @@ long kvmppc_realmode_hmi_handler(void)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

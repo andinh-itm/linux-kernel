@@ -2526,3 +2526,4 @@ EXPORT_SYMBOL(ZSTD_insertBlock);
 
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("Zstd Decompressor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

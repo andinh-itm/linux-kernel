@@ -967,3 +967,4 @@ static struct platform_driver sgio2audio_driver = {
 };
 
 module_platform_driver(sgio2audio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

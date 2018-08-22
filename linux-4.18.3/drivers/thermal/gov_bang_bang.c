@@ -136,3 +136,4 @@ void thermal_gov_bang_bang_unregister(void)
 {
 	thermal_unregister_governor(&thermal_gov_bang_bang);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

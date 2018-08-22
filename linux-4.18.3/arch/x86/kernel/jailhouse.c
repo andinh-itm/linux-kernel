@@ -217,3 +217,4 @@ const struct hypervisor_x86 x86_hyper_jailhouse __refconst = {
 	.init.init_platform	= jailhouse_init_platform,
 	.init.x2apic_available	= jailhouse_x2apic_available,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

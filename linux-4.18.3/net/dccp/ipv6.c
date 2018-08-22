@@ -1167,3 +1167,4 @@ MODULE_ALIAS_NET_PF_PROTO_TYPE(PF_INET6, 0, 6);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Arnaldo Carvalho de Melo <acme@mandriva.com>");
 MODULE_DESCRIPTION("DCCPv6 - Datagram Congestion Controlled Protocol");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

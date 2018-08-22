@@ -143,3 +143,4 @@ const struct plat_smp_ops paravirt_smp_ops = {
 	.smp_setup		= paravirt_smp_setup,
 	.prepare_cpus		= paravirt_prepare_cpus,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

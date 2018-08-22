@@ -184,3 +184,4 @@ void oss_irq_disable(int irq) {
 	if (IRQ_SRC(irq) == 1)
 		via_irq_disable(irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

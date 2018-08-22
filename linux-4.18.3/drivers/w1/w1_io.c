@@ -457,3 +457,4 @@ void w1_next_pullup(struct w1_master *dev, int delay)
 	dev->pullup_duration = delay;
 }
 EXPORT_SYMBOL_GPL(w1_next_pullup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

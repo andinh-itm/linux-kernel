@@ -408,3 +408,4 @@ int au0828_i2c_unregister(struct au0828_dev *dev)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

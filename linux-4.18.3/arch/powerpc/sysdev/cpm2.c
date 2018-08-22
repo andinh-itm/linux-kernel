@@ -354,3 +354,4 @@ void cpm2_set_pin(int port, int pin, int flags)
 	else
 		clrbits32(&iop[port].odr, pin);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

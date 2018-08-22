@@ -1484,3 +1484,4 @@ MODULE_AUTHOR("Sascha Hauer <kernel@pengutronix.de>, "
 	      "Marc Kleine-Budde <kernel@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("CAN port driver for flexcan based chip");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

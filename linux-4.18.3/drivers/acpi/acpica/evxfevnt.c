@@ -363,3 +363,4 @@ acpi_status acpi_get_event_status(u32 event, acpi_event_status * event_status)
 
 ACPI_EXPORT_SYMBOL(acpi_get_event_status)
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -75,3 +75,4 @@ size_t elf_core_extra_data_size(void)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

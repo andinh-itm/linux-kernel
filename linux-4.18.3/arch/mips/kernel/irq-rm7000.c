@@ -47,3 +47,4 @@ void __init rm7k_cpu_irq_init(void)
 		irq_set_chip_and_handler(i, &rm7k_irq_controller,
 					 handle_percpu_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

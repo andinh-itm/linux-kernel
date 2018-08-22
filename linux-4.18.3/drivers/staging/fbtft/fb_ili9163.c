@@ -262,3 +262,4 @@ MODULE_ALIAS("platform:ili9163");
 MODULE_DESCRIPTION("FB driver for the ILI9163 LCD Controller");
 MODULE_AUTHOR("Kozhevnikov Anatoly");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

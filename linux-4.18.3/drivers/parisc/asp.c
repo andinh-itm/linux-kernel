@@ -128,3 +128,4 @@ struct parisc_driver asp_driver __refdata = {
 	.id_table =	asp_tbl,
 	.probe =	asp_init_chip,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

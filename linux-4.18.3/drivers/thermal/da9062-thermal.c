@@ -313,3 +313,4 @@ MODULE_AUTHOR("Steve Twiss");
 MODULE_DESCRIPTION("Thermal TJUNC device driver for Dialog DA9062 and DA9061");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9062-thermal");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

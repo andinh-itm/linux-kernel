@@ -100,3 +100,4 @@ MACHINE_START(NXDKN, "Hilscher nxdkn")
 	.init_machine	= nxdkn_init,
 	.restart	= netx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

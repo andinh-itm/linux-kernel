@@ -97,3 +97,4 @@ void __init sun3_init_IRQ(void)
 	if (request_irq(IRQ_USER+127, sun3_vec255, 0, "vec255", NULL))
 		pr_err("Couldn't register %s interrupt\n", "vec255");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

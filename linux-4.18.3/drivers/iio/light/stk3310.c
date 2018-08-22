@@ -694,3 +694,4 @@ module_i2c_driver(stk3310_driver);
 MODULE_AUTHOR("Tiberiu Breana <tiberiu.a.breana@intel.com>");
 MODULE_DESCRIPTION("STK3310 Ambient Light and Proximity Sensor driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

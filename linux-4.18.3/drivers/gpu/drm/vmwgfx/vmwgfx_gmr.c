@@ -149,3 +149,4 @@ void vmw_gmr_unbind(struct vmw_private *dev_priv, int gmr_id)
 	if (likely(dev_priv->capabilities & SVGA_CAP_GMR2))
 		vmw_gmr2_unbind(dev_priv, gmr_id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

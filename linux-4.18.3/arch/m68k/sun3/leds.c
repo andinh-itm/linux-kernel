@@ -12,3 +12,4 @@ void sun3_leds(unsigned char byte)
 	SET_CONTROL_BYTE(AC_LEDS, byte);
 	SET_DFC(dfc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

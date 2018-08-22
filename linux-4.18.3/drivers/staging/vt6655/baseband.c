@@ -2394,3 +2394,4 @@ BBvExitDeepSleep(struct vnt_private *priv, unsigned char byLocalID)
 	BBbWriteEmbedded(priv, 0x0C, 0x00); /* CR12 */
 	BBbWriteEmbedded(priv, 0x0D, 0x01); /* CR13 */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

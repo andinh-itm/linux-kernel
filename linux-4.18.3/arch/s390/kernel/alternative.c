@@ -111,3 +111,4 @@ void __init apply_alternative_instructions(void)
 {
 	apply_alternatives(__alt_instructions, __alt_instructions_end);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

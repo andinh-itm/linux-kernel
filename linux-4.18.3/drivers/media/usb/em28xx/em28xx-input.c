@@ -961,3 +961,4 @@ MODULE_VERSION(EM28XX_VERSION);
 
 module_init(em28xx_rc_register);
 module_exit(em28xx_rc_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

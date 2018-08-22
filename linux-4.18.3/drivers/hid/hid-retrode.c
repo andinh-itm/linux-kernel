@@ -98,3 +98,4 @@ static struct hid_driver retrode_driver = {
 module_hid_driver(retrode_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -27,3 +27,4 @@ void libapi_set_print(libapi_print_fn_t warn,
 	__pr_info    = info;
 	__pr_debug   = debug;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

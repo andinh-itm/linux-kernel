@@ -538,3 +538,4 @@ module_platform_driver(wm8350_power_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Power supply driver for WM8350");
 MODULE_ALIAS("platform:wm8350-power");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

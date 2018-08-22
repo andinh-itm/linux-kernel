@@ -545,3 +545,4 @@ int wm8350_irq_exit(struct wm8350 *wm8350)
 	free_irq(wm8350->chip_irq, wm8350);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -160,3 +160,4 @@ void fimc_is_unregister_i2c_driver(void)
 {
 	platform_driver_unregister(&fimc_is_i2c_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

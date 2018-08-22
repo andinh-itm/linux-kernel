@@ -285,3 +285,4 @@ MODULE_AUTHOR("Liam Girdwood, Xingchao Wang");
 MODULE_DESCRIPTION("Intel SST Audio for WPT/Broadwell");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:broadwell-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

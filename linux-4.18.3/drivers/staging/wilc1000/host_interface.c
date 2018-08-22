@@ -4053,3 +4053,4 @@ int wilc_get_tx_power(struct wilc_vif *vif, u8 *tx_power)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

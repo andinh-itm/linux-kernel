@@ -523,3 +523,4 @@ out:
 	hfs_find_exit(&src_fd);
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

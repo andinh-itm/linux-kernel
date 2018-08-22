@@ -190,3 +190,4 @@ void __init xen_efi_init(void)
 	set_bit(EFI_PARAVIRT, &efi.flags);
 	set_bit(EFI_64BIT, &efi.flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

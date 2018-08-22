@@ -529,3 +529,4 @@ const struct si_sm_handlers kcs_smi_handlers = {
 	.cleanup           = kcs_cleanup,
 	.size              = kcs_size,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -692,3 +692,4 @@ MODULE_DEVICE_TABLE(mdio, bcm7xxx_tbl);
 MODULE_DESCRIPTION("Broadcom BCM7xxx internal PHY driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Broadcom Corporation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -408,3 +408,4 @@ module_platform_driver(pic32_rtc_driver);
 MODULE_DESCRIPTION("Microchip PIC32 RTC Driver");
 MODULE_AUTHOR("Joshua Henderson <joshua.henderson@microchip.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

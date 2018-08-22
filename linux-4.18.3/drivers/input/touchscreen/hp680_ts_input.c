@@ -125,3 +125,4 @@ module_exit(hp680_ts_exit);
 MODULE_AUTHOR("Andriy Skulysh, askulysh@image.kiev.ua");
 MODULE_DESCRIPTION("HP Jornada 680 touchscreen driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

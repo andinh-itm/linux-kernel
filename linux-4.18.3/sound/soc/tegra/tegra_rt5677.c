@@ -320,3 +320,4 @@ MODULE_DESCRIPTION("Tegra+RT5677 machine ASoC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_DEVICE_TABLE(of, tegra_rt5677_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

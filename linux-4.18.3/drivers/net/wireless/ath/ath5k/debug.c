@@ -1124,3 +1124,4 @@ ath5k_debug_printtxbuf(struct ath5k_hw *ah, struct ath5k_buf *bf)
 		td->tx_stat.tx_status_0, td->tx_stat.tx_status_1,
 		done ? ' ' : (ts.ts_status == 0) ? '*' : '!');
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

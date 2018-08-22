@@ -374,3 +374,4 @@ err_clkevt:
 	return ret;
 }
 TIMER_OF_DECLARE(flextimer, "fsl,ftm-timer", ftm_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

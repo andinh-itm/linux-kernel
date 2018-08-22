@@ -367,3 +367,4 @@ u8 r8712_set_802_11_add_wep(struct _adapter *padapter,
 		return false;
 	return _SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

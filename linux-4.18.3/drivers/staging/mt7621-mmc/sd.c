@@ -2454,3 +2454,4 @@ module_exit(mt_msdc_exit);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("MediaTek MT6575 SD/MMC Card Driver");
 MODULE_AUTHOR("Infinity Chen <infinity.chen@mediatek.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

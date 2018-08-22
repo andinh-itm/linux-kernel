@@ -818,3 +818,4 @@ void i40evf_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &i40evf_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -298,3 +298,4 @@ static int toshiba_bt_rfkill_remove(struct acpi_device *device)
 }
 
 module_acpi_driver(toshiba_bt_rfkill_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

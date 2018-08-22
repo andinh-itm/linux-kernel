@@ -1917,3 +1917,4 @@ void rtl8821ae_c2h_ra_report_handler(struct ieee80211_hw *hw,
 
 	rtl8821ae_dm_update_init_rate(hw, rate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

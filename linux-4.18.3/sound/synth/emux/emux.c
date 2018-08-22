@@ -180,3 +180,4 @@ static void __exit alsa_emux_exit(void)
 
 module_init(alsa_emux_init)
 module_exit(alsa_emux_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

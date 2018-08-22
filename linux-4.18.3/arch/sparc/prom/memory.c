@@ -86,3 +86,4 @@ void __init prom_meminit(void)
 	for (i = 0; i < num_ents; i++)
 		sp_banks[i].num_bytes &= PAGE_MASK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

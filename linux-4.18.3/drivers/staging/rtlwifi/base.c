@@ -2811,3 +2811,4 @@ void rtl_core_module_exit(void)
 	/* remove debugfs */
 	rtl_debugfs_remove_topdir();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

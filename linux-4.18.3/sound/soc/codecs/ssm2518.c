@@ -823,3 +823,4 @@ module_i2c_driver(ssm2518_driver);
 MODULE_DESCRIPTION("ASoC SSM2518 driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

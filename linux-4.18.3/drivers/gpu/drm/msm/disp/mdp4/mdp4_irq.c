@@ -119,3 +119,4 @@ void mdp4_disable_vblank(struct msm_kms *kms, struct drm_crtc *crtc)
 			mdp4_crtc_vblank(crtc), false);
 	mdp4_disable(mdp4_kms);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

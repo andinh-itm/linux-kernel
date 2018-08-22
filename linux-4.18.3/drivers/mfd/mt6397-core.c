@@ -369,3 +369,4 @@ module_platform_driver(mt6397_driver);
 MODULE_AUTHOR("Flora Fu, MediaTek");
 MODULE_DESCRIPTION("Driver for MediaTek MT6397 PMIC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

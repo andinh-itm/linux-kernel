@@ -73,3 +73,4 @@ union ieee754dp ieee754dp_fsp(union ieee754sp x)
 	return builddp(xs, xe + DP_EBIAS,
 		       (u64) xm << (DP_FBITS - SP_FBITS));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

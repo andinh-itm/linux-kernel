@@ -267,3 +267,4 @@ int rcar_du_group_set_routing(struct rcar_du_group *rgrp)
 
 	return rcar_du_set_dpad0_vsp1_routing(rgrp->dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

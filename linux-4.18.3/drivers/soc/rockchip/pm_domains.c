@@ -998,3 +998,4 @@ static int __init rockchip_pm_domain_drv_register(void)
 	return platform_driver_register(&rockchip_pm_domain_driver);
 }
 postcore_initcall(rockchip_pm_domain_drv_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

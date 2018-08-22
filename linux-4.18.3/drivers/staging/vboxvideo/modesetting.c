@@ -140,3 +140,4 @@ int hgsmi_get_mode_hints(struct gen_pool *ctx, unsigned int screens,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

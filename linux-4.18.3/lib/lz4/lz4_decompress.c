@@ -506,3 +506,4 @@ EXPORT_SYMBOL(LZ4_decompress_fast_usingDict);
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_DESCRIPTION("LZ4 decompressor");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

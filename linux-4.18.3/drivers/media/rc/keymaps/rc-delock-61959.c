@@ -81,3 +81,4 @@ module_exit(exit_rc_map_delock_61959)
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Jakob Haufe <sur5r@sur5r.net>");
 MODULE_DESCRIPTION("Delock 61959 remote keytable");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

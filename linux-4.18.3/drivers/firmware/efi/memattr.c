@@ -184,3 +184,4 @@ int __init efi_memattr_apply_permissions(struct mm_struct *mm,
 	memunmap(tbl);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

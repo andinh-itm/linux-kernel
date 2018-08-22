@@ -114,3 +114,4 @@ void FPU_copy_to_reg0(FPU_REG const *r, u_char tag)
 	fpu_tag_word &= ~(3 << (regnr * 2));
 	fpu_tag_word |= (tag & 3) << (regnr * 2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

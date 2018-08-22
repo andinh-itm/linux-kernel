@@ -139,3 +139,4 @@ fail:
 
 module_init(string_selftest_init);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -904,3 +904,4 @@ module_usb_driver(mcba_usb_driver);
 MODULE_AUTHOR("Remigiusz Kołłątaj <remigiusz.kollataj@mobica.com>");
 MODULE_DESCRIPTION("SocketCAN driver for Microchip CAN BUS Analyzer Tool");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

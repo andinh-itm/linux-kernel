@@ -1704,3 +1704,4 @@ bool rtl8723e_phy_set_rf_power_state(struct ieee80211_hw *hw,
 	bresult = _rtl8723e_phy_set_rf_power_state(hw, rfpwr_state);
 	return bresult;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

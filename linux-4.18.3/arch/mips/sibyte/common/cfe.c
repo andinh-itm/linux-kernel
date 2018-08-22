@@ -342,3 +342,4 @@ void prom_putchar(char c)
 	while ((ret = cfe_write(cfe_cons_handle, &c, 1)) == 0)
 		;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

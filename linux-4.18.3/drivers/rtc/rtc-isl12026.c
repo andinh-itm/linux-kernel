@@ -499,3 +499,4 @@ module_i2c_driver(isl12026_driver);
 
 MODULE_DESCRIPTION("ISL 12026 RTC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2245,3 +2245,4 @@ ice_cfg_vsi_lan(struct ice_port_info *pi, u16 vsi_id, u8 tc_bitmap,
 	return ice_cfg_vsi_qs(pi, vsi_id, tc_bitmap, max_lanqs,
 			      ICE_SCHED_NODE_OWNER_LAN);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

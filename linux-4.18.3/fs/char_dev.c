@@ -683,3 +683,4 @@ EXPORT_SYMBOL(cdev_device_add);
 EXPORT_SYMBOL(cdev_device_del);
 EXPORT_SYMBOL(__register_chrdev);
 EXPORT_SYMBOL(__unregister_chrdev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

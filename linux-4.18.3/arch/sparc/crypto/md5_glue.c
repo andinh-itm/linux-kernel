@@ -188,3 +188,4 @@ MODULE_DESCRIPTION("MD5 Message Digest Algorithm, sparc64 md5 opcode accelerated
 MODULE_ALIAS_CRYPTO("md5");
 
 #include "crop_devid.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

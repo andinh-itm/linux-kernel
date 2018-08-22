@@ -3218,3 +3218,4 @@ s32 e1000_get_cable_length_82577(struct e1000_hw *hw)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

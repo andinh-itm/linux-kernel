@@ -163,3 +163,4 @@ struct img_ir_decoder img_ir_sony = {
 	.scancode = img_ir_sony_scancode,
 	.filter = img_ir_sony_filter,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

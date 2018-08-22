@@ -85,3 +85,4 @@ void __init davinci_setup_usb(unsigned mA, unsigned potpgt_ms)
 }
 
 #endif  /* CONFIG_USB_MUSB_HDRC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

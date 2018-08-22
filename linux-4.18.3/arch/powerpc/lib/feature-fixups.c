@@ -652,3 +652,4 @@ static int __init test_feature_fixups(void)
 late_initcall(test_feature_fixups);
 
 #endif /* CONFIG_FTR_FIXUP_SELFTEST */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

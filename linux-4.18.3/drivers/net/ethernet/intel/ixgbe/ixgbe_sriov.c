@@ -1660,3 +1660,4 @@ int ixgbe_ndo_get_vf_config(struct net_device *netdev,
 	ivi->trusted = adapter->vfinfo[vf].trusted;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

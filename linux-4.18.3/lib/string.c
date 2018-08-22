@@ -1052,3 +1052,4 @@ void fortify_panic(const char *name)
 	BUG();
 }
 EXPORT_SYMBOL(fortify_panic);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

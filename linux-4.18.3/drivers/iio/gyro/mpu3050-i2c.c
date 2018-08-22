@@ -121,3 +121,4 @@ module_i2c_driver(mpu3050_i2c_driver);
 MODULE_AUTHOR("Linus Walleij");
 MODULE_DESCRIPTION("Invensense MPU3050 gyroscope driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

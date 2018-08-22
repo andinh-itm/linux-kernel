@@ -303,3 +303,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Joseph(Yossi) Hanin <yhanin@marvell.com>");
 MODULE_DESCRIPTION("Regulator Driver for Marvell 88PM800 PMIC");
 MODULE_ALIAS("platform:88pm800-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1061,3 +1061,4 @@ int iwl_mvm_update_d0i3_power_mode(struct iwl_mvm *mvm,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1654,3 +1654,4 @@ bool igb_enable_mng_pass_thru(struct e1000_hw *hw)
 out:
 	return ret_val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

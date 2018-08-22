@@ -129,3 +129,4 @@ void wil_fw_core_dump(struct wil6210_priv *wil)
 	dev_coredumpv(wil_to_dev(wil), fw_dump_data, fw_dump_size, GFP_KERNEL);
 	wil_info(wil, "fw core dumped, size %d bytes\n", fw_dump_size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

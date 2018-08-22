@@ -147,3 +147,4 @@ __initcall(proc_dma_init);
 EXPORT_SYMBOL(request_dma);
 EXPORT_SYMBOL(free_dma);
 EXPORT_SYMBOL(dma_spin_lock);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

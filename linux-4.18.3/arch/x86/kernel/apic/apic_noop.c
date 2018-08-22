@@ -158,3 +158,4 @@ struct apic apic_noop __ro_after_init = {
 	.x86_32_early_logical_apicid	= noop_x86_32_early_logical_apicid,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

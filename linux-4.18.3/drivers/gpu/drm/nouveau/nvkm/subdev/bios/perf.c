@@ -213,3 +213,4 @@ nvbios_perf_fan_parse(struct nvkm_bios *bios,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -43,3 +43,4 @@ gv100_fifo_user_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 {
 	return nvkm_object_new_(&gv100_fifo_user, oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -569,3 +569,4 @@ int wilc_wlan_cfg_init(void)
 	memset((void *)&g_mac, 0, sizeof(struct wilc_mac_cfg));
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

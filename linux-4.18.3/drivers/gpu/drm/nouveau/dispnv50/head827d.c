@@ -122,3 +122,4 @@ head827d = {
 	.dither = head507d_dither,
 	.procamp = head507d_procamp,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

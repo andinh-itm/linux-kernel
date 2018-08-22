@@ -1193,3 +1193,4 @@ MODULE_AUTHOR("Andrea Venturi <be17068@iperbole.bo.it>");
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
 MODULE_DESCRIPTION("Allwinner A10 I2S driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

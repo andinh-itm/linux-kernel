@@ -280,3 +280,4 @@ static void __exit tc1100_exit(void)
 
 module_init(tc1100_init);
 module_exit(tc1100_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

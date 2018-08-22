@@ -3623,3 +3623,4 @@ radeon_combios_encoder_dpms_scratch_regs(struct drm_encoder *encoder, bool on)
 	}
 	WREG32(RADEON_BIOS_6_SCRATCH, bios_6_scratch);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -487,3 +487,4 @@ void adtvk503_audio(struct bttv *btv, struct v4l2_tuner *t, int set)
 	if (bttv_gpio)
 		bttv_gpio_tracking(btv, "adtvk503");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

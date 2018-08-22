@@ -5143,3 +5143,4 @@ void setKey(struct net_device *dev, u8 EntryNo, u8 KeyIndex, u16 KeyType,
  ****************************************************************************/
 module_init(rtl8192_usb_module_init);
 module_exit(rtl8192_usb_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

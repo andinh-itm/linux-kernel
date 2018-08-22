@@ -535,3 +535,4 @@ module_comedi_pci_driver(adv_pci_dio_driver, adv_pci_dio_pci_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for Advantech Digital I/O Cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

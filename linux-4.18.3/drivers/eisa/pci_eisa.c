@@ -88,3 +88,4 @@ static int __init pci_eisa_init_early(void)
 	return 0;
 }
 subsys_initcall_sync(pci_eisa_init_early);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

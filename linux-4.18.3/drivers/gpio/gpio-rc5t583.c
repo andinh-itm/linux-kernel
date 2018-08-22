@@ -151,3 +151,4 @@ static int __init rc5t583_gpio_init(void)
 	return platform_driver_register(&rc5t583_gpio_driver);
 }
 subsys_initcall(rc5t583_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -312,3 +312,4 @@ MODULE_ALIAS("platform:" DRIVER_NAME);
 MODULE_AUTHOR("Russell King <rmk@arm.linux.org.uk>");
 MODULE_DESCRIPTION("SA11x0 multimedia communications port driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

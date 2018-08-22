@@ -28,3 +28,4 @@ void snidle(int state)
 		pda->idle_flag = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

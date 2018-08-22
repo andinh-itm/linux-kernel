@@ -135,3 +135,4 @@ static struct i2c_driver cs3308_driver = {
 };
 
 module_i2c_driver(cs3308_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

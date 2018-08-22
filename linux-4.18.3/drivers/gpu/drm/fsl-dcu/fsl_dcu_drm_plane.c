@@ -233,3 +233,4 @@ struct drm_plane *fsl_dcu_drm_primary_create_plane(struct drm_device *dev)
 
 	return primary;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

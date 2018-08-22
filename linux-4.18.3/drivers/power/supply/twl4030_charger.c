@@ -1123,3 +1123,4 @@ MODULE_AUTHOR("Gražvydas Ignotas");
 MODULE_DESCRIPTION("TWL4030 Battery Charger Interface driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:twl4030_bci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

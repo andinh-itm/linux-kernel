@@ -271,3 +271,4 @@ int amdgpu_si_write_smc_sram_dword(struct amdgpu_device *adev, u32 smc_address,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

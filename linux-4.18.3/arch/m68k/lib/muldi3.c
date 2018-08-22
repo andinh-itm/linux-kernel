@@ -94,3 +94,4 @@ __muldi3 (DItype u, DItype v)
   return w.ll;
 }
 EXPORT_SYMBOL(__muldi3);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

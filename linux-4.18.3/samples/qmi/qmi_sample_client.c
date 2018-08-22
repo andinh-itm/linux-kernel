@@ -620,3 +620,4 @@ module_exit(qmi_sample_exit);
 
 MODULE_DESCRIPTION("Sample QMI client driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

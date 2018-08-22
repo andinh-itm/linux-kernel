@@ -305,3 +305,4 @@ void sunxi_factors_unregister(struct device_node *node, struct clk *clk)
 	kfree(factors->gate);
 	kfree(factors);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

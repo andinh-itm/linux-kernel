@@ -364,3 +364,4 @@ void led_trigger_unregister_simple(struct led_trigger *trig)
 	kfree(trig);
 }
 EXPORT_SYMBOL_GPL(led_trigger_unregister_simple);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

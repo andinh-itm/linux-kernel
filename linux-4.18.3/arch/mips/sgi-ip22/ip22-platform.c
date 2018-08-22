@@ -208,3 +208,4 @@ static int __init sgi_ds1286_devinit(void)
 }
 
 device_initcall(sgi_ds1286_devinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -263,3 +263,4 @@ void b43_bus_set_wldev(struct b43_bus_dev *dev, void *wldev)
 #endif
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

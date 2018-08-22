@@ -1192,3 +1192,4 @@ MODULE_AUTHOR("Adams Xu <Adams.xu@azwave.com.cn>");
 MODULE_DESCRIPTION("Driver for AZUREWAVE DVB-S/S2 USB2.0 (AZ6027)");
 MODULE_VERSION("1.0");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

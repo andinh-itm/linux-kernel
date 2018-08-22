@@ -6941,3 +6941,4 @@ u8 run_in_thread_hdl(struct adapter *padapter, u8 *pbuf)
 
 	return H2C_SUCCESS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -828,3 +828,4 @@ void set_buildid_dir(const char *dir)
 	/* for communicating with external commands */
 	setenv("PERF_BUILDID_DIR", buildid_dir, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

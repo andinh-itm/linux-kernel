@@ -182,3 +182,4 @@ module_i2c_driver(chtdc_ti_i2c_driver);
 
 MODULE_DESCRIPTION("I2C driver for Intel SoC Dollar Cove TI PMIC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

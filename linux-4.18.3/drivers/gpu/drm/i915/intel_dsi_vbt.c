@@ -798,3 +798,4 @@ bool intel_dsi_vbt_init(struct intel_dsi *intel_dsi, u16 panel_id)
 
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

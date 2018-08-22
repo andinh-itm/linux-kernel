@@ -563,3 +563,4 @@ u32 host1x_syncpt_base_id(struct host1x_syncpt_base *base)
 	return base->id;
 }
 EXPORT_SYMBOL(host1x_syncpt_base_id);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

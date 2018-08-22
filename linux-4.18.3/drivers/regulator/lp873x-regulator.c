@@ -238,3 +238,4 @@ MODULE_AUTHOR("J Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("LP873X voltage regulator driver");
 MODULE_ALIAS("platform:lp873x-pmic");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

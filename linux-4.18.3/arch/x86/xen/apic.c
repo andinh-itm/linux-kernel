@@ -224,3 +224,4 @@ void __init xen_init_apic(void)
 	x86_platform.apic_post_init = xen_apic_check;
 }
 apic_driver(xen_pv_apic);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

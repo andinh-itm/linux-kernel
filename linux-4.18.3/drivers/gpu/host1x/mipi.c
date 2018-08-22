@@ -551,3 +551,4 @@ struct platform_driver tegra_mipi_driver = {
 	.probe = tegra_mipi_probe,
 	.remove = tegra_mipi_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

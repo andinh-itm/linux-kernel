@@ -885,3 +885,4 @@ void hinic_rq_update(struct hinic_rq *rq, u16 prod_idx)
 {
 	*rq->pi_virt_addr = cpu_to_be16(RQ_MASKED_IDX(rq, prod_idx + 1));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

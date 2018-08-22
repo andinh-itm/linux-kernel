@@ -56,3 +56,4 @@ void __init isa_rtc_init(void)
 			printk(KERN_WARNING "RTC: *** warning: CMOS battery bad\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

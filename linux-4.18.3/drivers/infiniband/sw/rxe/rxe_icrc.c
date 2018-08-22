@@ -94,3 +94,4 @@ u32 rxe_icrc_hdr(struct rxe_pkt_info *pkt, struct sk_buff *skb)
 			rxe_opcode[pkt->opcode].length - RXE_BTH_BYTES);
 	return crc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

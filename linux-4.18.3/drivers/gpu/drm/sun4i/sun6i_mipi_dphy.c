@@ -290,3 +290,4 @@ int sun6i_dphy_remove(struct sun6i_dsi *dsi)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -170,3 +170,4 @@ void __init plat_time_init(void)
 	    alchemy_time_init(alchemy_m2inttab[t]))
 		cpu_wait = NULL;	/* wait doesn't work with r4k timer */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

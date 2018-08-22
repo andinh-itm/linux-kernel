@@ -567,3 +567,4 @@ const struct raid6_calls raid6_avx512x4 = {
 #endif
 
 #endif /* CONFIG_AS_AVX512 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

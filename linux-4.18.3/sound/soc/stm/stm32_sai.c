@@ -204,3 +204,4 @@ MODULE_DESCRIPTION("STM32 Soc SAI Interface");
 MODULE_AUTHOR("Olivier Moysan <olivier.moysan@st.com>");
 MODULE_ALIAS("platform:st,stm32-sai");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

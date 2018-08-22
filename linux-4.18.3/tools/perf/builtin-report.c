@@ -1389,3 +1389,4 @@ error:
 	perf_session__delete(session);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

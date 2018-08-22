@@ -119,3 +119,4 @@ nvkm_gddr5_calc(struct nvkm_ram *ram, bool nuts)
 	ram->mr[8] |= (CL & 0x10) >> 4;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

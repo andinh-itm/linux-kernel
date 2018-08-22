@@ -288,3 +288,4 @@ void rt2x00lib_config(struct rt2x00_dev *rt2x00dev,
 				   autowake_timeout - 15);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

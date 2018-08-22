@@ -1451,3 +1451,4 @@ module_i2c_driver(max2175_driver);
 MODULE_DESCRIPTION("Maxim MAX2175 RF to Bits tuner driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Ramesh Shanmugasundaram <ramesh.shanmugasundaram@bp.renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

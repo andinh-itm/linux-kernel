@@ -234,3 +234,4 @@ put_opp_table:
 	return ret;
 }
 EXPORT_SYMBOL_GPL(dev_pm_opp_get_sharing_cpus);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

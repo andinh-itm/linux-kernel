@@ -66,3 +66,4 @@ seek_error:
 	fprintf(stderr, "Could not set file offset\n");
 	return (ACPI_UINT32_MAX);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

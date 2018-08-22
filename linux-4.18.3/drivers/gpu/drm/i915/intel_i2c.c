@@ -882,3 +882,4 @@ void intel_teardown_gmbus(struct drm_i915_private *dev_priv)
 		i2c_del_adapter(&bus->adapter);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

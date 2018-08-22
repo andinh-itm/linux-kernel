@@ -90,3 +90,4 @@ void __init samsung_wdt_reset_init(void __iomem *base)
 	wdt_base = base;
 	wdt_clock = clk_get(NULL, "watchdog");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

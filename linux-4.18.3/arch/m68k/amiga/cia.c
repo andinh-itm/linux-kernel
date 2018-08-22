@@ -184,3 +184,4 @@ void __init cia_init_IRQ(struct ciabase *base)
 			base->name, base))
 		pr_err("Couldn't register %s interrupt\n", base->name);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

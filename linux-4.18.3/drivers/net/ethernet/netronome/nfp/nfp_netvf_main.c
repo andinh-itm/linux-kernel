@@ -349,3 +349,4 @@ struct pci_driver nfp_netvf_pci_driver = {
 	.probe       = nfp_netvf_pci_probe,
 	.remove      = nfp_netvf_pci_remove,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

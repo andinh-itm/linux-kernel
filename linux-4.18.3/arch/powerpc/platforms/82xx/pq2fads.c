@@ -193,3 +193,4 @@ define_machine(pq2fads)
 	.restart = pq2_restart,
 	.progress = udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

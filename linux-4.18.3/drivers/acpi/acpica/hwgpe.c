@@ -511,3 +511,4 @@ acpi_status acpi_hw_enable_all_wakeup_gpes(void)
 }
 
 #endif				/* !ACPI_REDUCED_HARDWARE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

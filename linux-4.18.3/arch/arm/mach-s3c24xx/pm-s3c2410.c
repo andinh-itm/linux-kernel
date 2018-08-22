@@ -169,3 +169,4 @@ static int __init s3c2442_pm_drvinit(void)
 
 arch_initcall(s3c2442_pm_drvinit);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

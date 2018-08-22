@@ -1388,3 +1388,4 @@ static struct greybus_driver gb_camera_driver = {
 module_greybus_driver(gb_camera_driver);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

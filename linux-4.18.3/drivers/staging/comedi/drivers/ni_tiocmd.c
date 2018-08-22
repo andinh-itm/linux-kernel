@@ -450,3 +450,4 @@ module_exit(ni_tiocmd_cleanup_module);
 MODULE_AUTHOR("Comedi <comedi@comedi.org>");
 MODULE_DESCRIPTION("Comedi command support for NI general-purpose counters");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

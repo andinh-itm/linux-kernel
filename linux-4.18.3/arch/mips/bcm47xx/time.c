@@ -79,3 +79,4 @@ void __init plat_time_init(void)
 	/* Set MIPS counter frequency for fixed_rate_gettimeoffset() */
 	mips_hpt_frequency = hz;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

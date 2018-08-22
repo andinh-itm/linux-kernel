@@ -212,3 +212,4 @@ const struct geode_dc_ops gx1_dc_ops = {
 	.set_mode	 = gx1_set_mode,
 	.set_palette_reg = gx1_set_hw_palette_reg,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

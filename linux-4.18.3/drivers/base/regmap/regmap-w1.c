@@ -243,3 +243,4 @@ struct regmap *__devm_regmap_init_w1(struct device *w1_dev,
 EXPORT_SYMBOL_GPL(__devm_regmap_init_w1);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

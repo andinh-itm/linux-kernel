@@ -498,3 +498,4 @@ void brcmf_proto_bcdc_detach(struct brcmf_pub *drvr)
 	brcmf_fws_detach(bcdc->fws);
 	kfree(bcdc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

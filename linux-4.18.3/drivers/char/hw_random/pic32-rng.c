@@ -149,3 +149,4 @@ module_platform_driver(pic32_rng_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Joshua Henderson <joshua.henderson@microchip.com>");
 MODULE_DESCRIPTION("Microchip PIC32 RNG Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

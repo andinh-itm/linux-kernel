@@ -947,3 +947,4 @@ void intel_whitelist_workarounds_apply(struct intel_engine_cs *engine)
 #if IS_ENABLED(CONFIG_DRM_I915_SELFTEST)
 #include "selftests/intel_workarounds.c"
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

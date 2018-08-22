@@ -531,3 +531,4 @@ MODULE_DEVICE_TABLE(of, bt_bmc_match);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alistair Popple <alistair@popple.id.au>");
 MODULE_DESCRIPTION("Linux device interface to the IPMI BT interface");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

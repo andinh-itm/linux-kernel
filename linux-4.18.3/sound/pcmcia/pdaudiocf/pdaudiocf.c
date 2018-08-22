@@ -301,3 +301,4 @@ static struct pcmcia_driver pdacf_cs_driver = {
 #endif
 };
 module_pcmcia_driver(pdacf_cs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

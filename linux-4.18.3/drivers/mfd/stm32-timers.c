@@ -273,3 +273,4 @@ module_platform_driver(stm32_timers_driver);
 
 MODULE_DESCRIPTION("STMicroelectronics STM32 Timers");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

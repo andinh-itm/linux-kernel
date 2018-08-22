@@ -335,3 +335,4 @@ MODULE_AUTHOR("Nikita Yushchenko <nikita.yoush@cogentembedded.com>");
 MODULE_AUTHOR("Andrey Smirnov <andrew.smirnov@gmail.com>");
 MODULE_DESCRIPTION("RAVE SP Watchdog driver");
 MODULE_ALIAS("platform:rave-sp-watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

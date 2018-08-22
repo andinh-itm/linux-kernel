@@ -138,3 +138,4 @@ void pinctrl_utils_free_map(struct pinctrl_dev *pctldev,
 	kfree(map);
 }
 EXPORT_SYMBOL_GPL(pinctrl_utils_free_map);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -416,3 +416,4 @@ int jffs2_compressors_exit(void)
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

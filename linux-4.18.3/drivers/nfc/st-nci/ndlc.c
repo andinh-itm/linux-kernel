@@ -309,3 +309,4 @@ void ndlc_remove(struct llt_ndlc *ndlc)
 	skb_queue_purge(&ndlc->send_q);
 }
 EXPORT_SYMBOL(ndlc_remove);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

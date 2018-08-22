@@ -86,3 +86,4 @@ static struct platform_driver ocelot_reset_driver = {
 	},
 };
 builtin_platform_driver(ocelot_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

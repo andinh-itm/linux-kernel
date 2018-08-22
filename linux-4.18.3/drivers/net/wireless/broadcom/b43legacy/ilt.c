@@ -334,3 +334,4 @@ u16 b43legacy_ilt_read(struct b43legacy_wldev *dev, u16 offset)
 	b43legacy_phy_write(dev, B43legacy_PHY_ILT_G_CTRL, offset);
 	return b43legacy_phy_read(dev, B43legacy_PHY_ILT_G_DATA1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

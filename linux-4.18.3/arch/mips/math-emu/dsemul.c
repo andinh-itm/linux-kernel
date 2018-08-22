@@ -304,3 +304,4 @@ bool do_dsemulret(struct pt_regs *xcp)
 	MIPS_FPU_EMU_INC_STATS(ds_emul);
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

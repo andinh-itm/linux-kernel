@@ -564,3 +564,4 @@ void cpufreq_dbs_governor_limits(struct cpufreq_policy *policy)
 	mutex_unlock(&policy_dbs->update_mutex);
 }
 EXPORT_SYMBOL_GPL(cpufreq_dbs_governor_limits);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

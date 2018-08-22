@@ -287,3 +287,4 @@ module_platform_driver(histb_combphy_driver);
 
 MODULE_DESCRIPTION("HiSilicon STB COMBPHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

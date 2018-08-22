@@ -68,3 +68,4 @@ gp102_disp_core_new(const struct nvkm_oclass *oclass, void *argv, u32 argc,
 	return nv50_disp_core_new_(&gp102_disp_core_func, &gk104_disp_core_mthd,
 				   disp, 0, oclass, argv, argc, pobject);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

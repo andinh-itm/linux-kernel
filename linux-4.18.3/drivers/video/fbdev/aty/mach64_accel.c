@@ -429,3 +429,4 @@ void atyfb_imageblit(struct fb_info *info, const struct fb_image *image)
 	wait_for_fifo(1, par);
 	aty_st_le32(DP_PIX_WIDTH, pix_width_save, par);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

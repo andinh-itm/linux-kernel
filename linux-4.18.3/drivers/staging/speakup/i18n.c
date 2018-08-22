@@ -623,3 +623,4 @@ void spk_free_user_msgs(void)
 	}
 	spin_unlock_irqrestore(&speakup_info.spinlock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

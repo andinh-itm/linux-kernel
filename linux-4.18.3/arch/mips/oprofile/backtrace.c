@@ -175,3 +175,4 @@ void notrace op_mips_backtrace(struct pt_regs *const regs, unsigned int depth)
 	else
 		do_kernel_backtrace(low_addr, &frame, depth);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

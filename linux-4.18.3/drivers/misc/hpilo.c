@@ -916,3 +916,4 @@ MODULE_PARM_DESC(max_ccb, "Maximum number of HP iLO channels to attach (8-24)(de
 
 module_init(ilo_init);
 module_exit(ilo_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

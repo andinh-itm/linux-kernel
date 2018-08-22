@@ -715,3 +715,4 @@ struct net_device *alloc_mscandev(void)
 MODULE_AUTHOR("Andrey Volkov <avolkov@varma-el.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("CAN port driver for a MSCAN based chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

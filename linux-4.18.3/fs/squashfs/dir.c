@@ -234,3 +234,4 @@ const struct file_operations squashfs_dir_ops = {
 	.iterate_shared = squashfs_readdir,
 	.llseek = generic_file_llseek,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

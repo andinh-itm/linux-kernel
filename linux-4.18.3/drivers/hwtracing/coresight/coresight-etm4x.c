@@ -1073,3 +1073,4 @@ static struct amba_driver etm4x_driver = {
 	.id_table	= etm4_ids,
 };
 builtin_amba_driver(etm4x_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

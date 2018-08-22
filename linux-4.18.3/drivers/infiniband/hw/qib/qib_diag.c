@@ -904,3 +904,4 @@ static ssize_t qib_diag_write(struct file *fp, const char __user *data,
 bail:
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

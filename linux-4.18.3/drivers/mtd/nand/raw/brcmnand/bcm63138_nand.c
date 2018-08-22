@@ -107,3 +107,4 @@ module_platform_driver(bcm63138_nand_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Brian Norris");
 MODULE_DESCRIPTION("NAND driver for BCM63138");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

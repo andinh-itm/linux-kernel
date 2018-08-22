@@ -227,3 +227,4 @@ module_fsl_mc_driver(rtc_drv);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("DPAA2 PTP Clock Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

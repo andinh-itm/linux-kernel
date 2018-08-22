@@ -319,3 +319,4 @@ MODULE_AUTHOR("Atsushi Nemoto <anemo@mba.ocn.ne.jp>");
 MODULE_DESCRIPTION("TX4939 internal RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:tx4939rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

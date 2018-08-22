@@ -385,3 +385,4 @@ module_platform_driver(brcmstb_thermal_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Brian Norris");
 MODULE_DESCRIPTION("Broadcom STB AVS TMON thermal driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

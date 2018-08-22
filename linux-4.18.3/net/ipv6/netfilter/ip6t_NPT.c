@@ -153,3 +153,4 @@ MODULE_DESCRIPTION("IPv6-to-IPv6 Network Prefix Translation (RFC 6296)");
 MODULE_AUTHOR("Patrick McHardy <kaber@trash.net>");
 MODULE_ALIAS("ip6t_SNPT");
 MODULE_ALIAS("ip6t_DNPT");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -154,3 +154,4 @@ EXPORT_SYMBOL(omapdss_stack_is_ready);
 MODULE_AUTHOR("Tomi Valkeinen <tomi.valkeinen@ti.com>");
 MODULE_DESCRIPTION("OMAP Display Subsystem Base");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

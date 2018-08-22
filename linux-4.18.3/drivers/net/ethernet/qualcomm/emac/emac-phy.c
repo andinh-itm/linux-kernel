@@ -162,3 +162,4 @@ int emac_phy_config(struct platform_device *pdev, struct emac_adapter *adpt)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -832,3 +832,4 @@ void oxygen_pci_shutdown(struct pci_dev *pci)
 	chip->model.cleanup(chip);
 }
 EXPORT_SYMBOL(oxygen_pci_shutdown);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

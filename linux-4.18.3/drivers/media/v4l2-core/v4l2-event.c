@@ -353,3 +353,4 @@ int v4l2_src_change_event_subdev_subscribe(struct v4l2_subdev *sd,
 	return v4l2_src_change_event_subscribe(fh, sub);
 }
 EXPORT_SYMBOL_GPL(v4l2_src_change_event_subdev_subscribe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

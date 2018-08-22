@@ -402,3 +402,4 @@ void fbcon_rotate_cw(struct fbcon_ops *ops)
 	ops->update_start = cw_update_start;
 }
 EXPORT_SYMBOL(fbcon_rotate_cw);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

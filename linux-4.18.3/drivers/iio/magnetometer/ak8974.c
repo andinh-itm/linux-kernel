@@ -952,3 +952,4 @@ MODULE_DESCRIPTION("AK8974 and AMI30x 3-axis magnetometer driver");
 MODULE_AUTHOR("Samu Onkalo");
 MODULE_AUTHOR("Linus Walleij");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

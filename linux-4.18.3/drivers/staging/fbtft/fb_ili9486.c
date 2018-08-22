@@ -101,3 +101,4 @@ MODULE_ALIAS("platform:ili9486");
 MODULE_DESCRIPTION("FB driver for the ILI9486 LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

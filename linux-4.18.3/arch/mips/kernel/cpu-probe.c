@@ -2145,3 +2145,4 @@ void cpu_set_vpe_id(struct cpuinfo_mips *cpuinfo, unsigned int vpe)
 	cpuinfo->globalnumber &= ~MIPS_GLOBALNUMBER_VP;
 	cpuinfo->globalnumber |= vpe << MIPS_GLOBALNUMBER_VP_SHF;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

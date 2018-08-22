@@ -400,3 +400,4 @@ module_usb_driver(as102_usb_driver);
 MODULE_DESCRIPTION(DRIVER_FULL_NAME);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Pierrick Hascoet <pierrick.hascoet@abilis.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

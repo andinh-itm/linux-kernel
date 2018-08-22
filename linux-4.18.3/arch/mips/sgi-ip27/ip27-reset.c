@@ -79,3 +79,4 @@ void ip27_reboot_setup(void)
 	_machine_halt = ip27_machine_halt;
 	pm_power_off = ip27_machine_power_off;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

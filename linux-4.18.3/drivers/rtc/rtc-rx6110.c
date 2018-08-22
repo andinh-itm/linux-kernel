@@ -399,3 +399,4 @@ module_spi_driver(rx6110_driver);
 MODULE_AUTHOR("Val Krutov <val.krutov@erd.epson.com>");
 MODULE_DESCRIPTION("RX-6110 SA RTC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -273,3 +273,4 @@ int __init ti_clk_add_component(struct device_node *node, struct clk_hw *hw,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

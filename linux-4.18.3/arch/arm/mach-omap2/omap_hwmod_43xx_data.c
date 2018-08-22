@@ -1011,3 +1011,4 @@ int __init am43xx_hwmod_init(void)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

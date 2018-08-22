@@ -201,3 +201,4 @@ module_platform_driver(cplds_driver);
 MODULE_DESCRIPTION("PXA Cplds interrupts driver");
 MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

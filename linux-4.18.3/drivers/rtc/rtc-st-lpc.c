@@ -329,3 +329,4 @@ module_platform_driver(st_rtc_platform_driver);
 MODULE_DESCRIPTION("STMicroelectronics LPC RTC driver");
 MODULE_AUTHOR("David Paris <david.paris@st.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

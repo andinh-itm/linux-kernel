@@ -2668,3 +2668,4 @@ int gelic_wl_driver_remove(struct gelic_card *card)
 	pr_debug("%s:end\n", __func__);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

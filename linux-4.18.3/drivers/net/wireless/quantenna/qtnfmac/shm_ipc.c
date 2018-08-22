@@ -174,3 +174,4 @@ int qtnf_shm_ipc_send(struct qtnf_shm_ipc *ipc, const u8 *buf, size_t size)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

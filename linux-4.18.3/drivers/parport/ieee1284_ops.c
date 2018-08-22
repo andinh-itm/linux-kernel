@@ -913,3 +913,4 @@ EXPORT_SYMBOL(parport_ieee1284_epp_write_data);
 EXPORT_SYMBOL(parport_ieee1284_epp_read_data);
 EXPORT_SYMBOL(parport_ieee1284_epp_write_addr);
 EXPORT_SYMBOL(parport_ieee1284_epp_read_addr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

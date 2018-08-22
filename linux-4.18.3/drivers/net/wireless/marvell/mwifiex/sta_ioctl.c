@@ -1493,3 +1493,4 @@ int mwifiex_get_chan_info(struct mwifiex_private *priv,
 
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

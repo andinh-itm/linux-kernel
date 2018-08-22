@@ -2031,3 +2031,4 @@ int elantech_init(struct psmouse *psmouse)
 	psmouse_reset(psmouse);
 	return error;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

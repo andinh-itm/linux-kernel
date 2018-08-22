@@ -1039,3 +1039,4 @@ struct xgene_ring_ops xgene_ring1_ops = {
 	.wr_cmd = xgene_enet_wr_cmd,
 	.len = xgene_enet_ring_len,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -897,3 +897,4 @@ static struct usb_driver usb_audio_driver = {
 };
 
 module_usb_driver(usb_audio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

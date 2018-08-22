@@ -753,3 +753,4 @@ uint32_t __jffs2_ref_totlen(struct jffs2_sb_info *c, struct jffs2_eraseblock *je
 #endif /* TEST_TOTLEN */
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -363,3 +363,4 @@ module_exit(dsa_loop_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Florian Fainelli");
 MODULE_DESCRIPTION("DSA loopback driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

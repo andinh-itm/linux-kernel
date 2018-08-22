@@ -369,3 +369,4 @@ static struct serio_driver sunkbd_drv = {
 };
 
 module_serio_driver(sunkbd_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

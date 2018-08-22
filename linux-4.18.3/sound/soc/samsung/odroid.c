@@ -224,3 +224,4 @@ module_platform_driver(odroid_audio_driver);
 MODULE_AUTHOR("Sylwester Nawrocki <s.nawrocki@samsung.com>");
 MODULE_DESCRIPTION("Odroid XU3/XU4 audio support");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

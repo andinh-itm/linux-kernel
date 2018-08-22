@@ -64,3 +64,4 @@ __init void mips_machine_setup(void)
 	if (mips_machine->mach_setup)
 		mips_machine->mach_setup();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

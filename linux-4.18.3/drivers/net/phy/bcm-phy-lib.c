@@ -382,3 +382,4 @@ EXPORT_SYMBOL_GPL(bcm_phy_get_stats);
 MODULE_DESCRIPTION("Broadcom PHY Library");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Broadcom Corporation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

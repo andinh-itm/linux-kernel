@@ -375,3 +375,4 @@ static __attribute__((unused)) void test_kq(struct kfd_dev *dev)
 }
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

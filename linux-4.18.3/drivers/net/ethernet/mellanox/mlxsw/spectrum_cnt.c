@@ -205,3 +205,4 @@ void mlxsw_sp_counter_free(struct mlxsw_sp *mlxsw_sp,
 	for (i = 0; i < sub_pool->entry_size; i++)
 		__clear_bit(counter_index + i, pool->usage);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

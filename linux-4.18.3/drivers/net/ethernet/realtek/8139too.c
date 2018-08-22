@@ -2686,3 +2686,4 @@ static void __exit rtl8139_cleanup_module (void)
 
 module_init(rtl8139_init_module);
 module_exit(rtl8139_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

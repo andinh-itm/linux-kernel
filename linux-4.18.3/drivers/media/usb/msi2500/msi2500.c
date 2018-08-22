@@ -1328,3 +1328,4 @@ module_usb_driver(msi2500_driver);
 MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("Mirics MSi3101 SDR Dongle");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

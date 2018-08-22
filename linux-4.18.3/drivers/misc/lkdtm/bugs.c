@@ -255,3 +255,4 @@ void lkdtm_STACK_GUARD_PAGE_TRAILING(void)
 
 	pr_err("FAIL: accessed page after stack!\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

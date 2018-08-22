@@ -779,3 +779,4 @@ int aspeed_pin_config_group_set(struct pinctrl_dev *pctldev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

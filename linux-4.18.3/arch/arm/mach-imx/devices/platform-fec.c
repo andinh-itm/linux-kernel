@@ -50,3 +50,4 @@ struct platform_device *__init imx_add_fec(
 			res, ARRAY_SIZE(res),
 			pdata, sizeof(*pdata), DMA_BIT_MASK(32));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

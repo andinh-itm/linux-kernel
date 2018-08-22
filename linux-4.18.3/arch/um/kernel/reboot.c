@@ -58,3 +58,4 @@ void machine_halt(void)
 {
 	machine_power_off();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

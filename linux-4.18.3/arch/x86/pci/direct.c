@@ -313,3 +313,4 @@ int __init pci_direct_probe(void)
 	release_region(0xCF8, 4);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

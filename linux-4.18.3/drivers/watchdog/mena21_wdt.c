@@ -231,3 +231,4 @@ MODULE_AUTHOR("MEN Mikro Elektronik");
 MODULE_DESCRIPTION("MEN A21 Watchdog");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:a21-watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

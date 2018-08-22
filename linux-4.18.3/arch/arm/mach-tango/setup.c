@@ -16,3 +16,4 @@ DT_MACHINE_START(TANGO_DT, "Sigma Tango DT")
 	.l2c_aux_mask	= ~0,
 	.l2c_write_sec	= tango_l2c_write,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -5884,3 +5884,4 @@ static void __exit b43_exit(void)
 
 module_init(b43_init)
 module_exit(b43_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

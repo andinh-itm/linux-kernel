@@ -178,3 +178,4 @@ const struct tegra_fuse_soc tegra186_fuse_soc = {
 	.info = &tegra186_fuse_info,
 };
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

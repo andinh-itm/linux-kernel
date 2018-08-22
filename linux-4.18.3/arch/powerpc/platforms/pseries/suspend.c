@@ -280,3 +280,4 @@ static int __init pseries_suspend_init(void)
 	return 0;
 }
 machine_device_initcall(pseries, pseries_suspend_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

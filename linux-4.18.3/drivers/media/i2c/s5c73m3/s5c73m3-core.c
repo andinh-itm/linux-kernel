@@ -1823,3 +1823,4 @@ module_i2c_driver(s5c73m3_i2c_driver);
 MODULE_DESCRIPTION("Samsung S5C73M3 camera driver");
 MODULE_AUTHOR("Sylwester Nawrocki <s.nawrocki@samsung.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

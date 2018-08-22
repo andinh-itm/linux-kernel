@@ -1727,3 +1727,4 @@ EXPORT_SYMBOL_GPL(zpa2326_remove);
 MODULE_AUTHOR("Gregor Boirie <gregor.boirie@parrot.com>");
 MODULE_DESCRIPTION("Core driver for Murata ZPA2326 pressure sensor");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -50,3 +50,4 @@ static const struct kconf_id *kconf_id_lookup(register const char *str, register
 	}
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

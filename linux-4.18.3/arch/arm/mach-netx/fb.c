@@ -75,3 +75,4 @@ int netx_fb_init(struct clcd_board *board, struct clcd_panel *panel)
 	fb_device.dev.platform_data = board;
 	return amba_device_register(&fb_device, &iomem_resource);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -452,3 +452,4 @@ MODULE_DESCRIPTION("Tahvo USB transceiver driver");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Juha Yrjölä, Tony Lindgren, and Timo Teräs");
 MODULE_AUTHOR("Aaro Koskinen <aaro.koskinen@iki.fi>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

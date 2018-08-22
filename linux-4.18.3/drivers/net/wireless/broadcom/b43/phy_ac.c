@@ -90,3 +90,4 @@ const struct b43_phy_operations b43_phyops_ac = {
 	.recalc_txpower		= b43_phy_ac_op_recalc_txpower,
 	.adjust_txpower		= b43_phy_ac_op_adjust_txpower,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

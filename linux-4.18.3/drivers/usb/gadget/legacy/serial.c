@@ -275,3 +275,4 @@ static void __exit cleanup(void)
 	usb_composite_unregister(&gserial_driver);
 }
 module_exit(cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

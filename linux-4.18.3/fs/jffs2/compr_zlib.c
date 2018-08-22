@@ -220,3 +220,4 @@ void jffs2_zlib_exit(void)
     jffs2_unregister_compressor(&jffs2_zlib_comp);
     free_workspaces();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

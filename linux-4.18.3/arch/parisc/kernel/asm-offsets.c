@@ -302,3 +302,4 @@ int main(void)
 	BLANK();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

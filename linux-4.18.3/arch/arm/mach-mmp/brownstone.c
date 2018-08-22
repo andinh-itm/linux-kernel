@@ -229,3 +229,4 @@ MACHINE_START(BROWNSTONE, "Brownstone Development Platform")
 	.init_machine	= brownstone_init,
 	.restart	= mmp_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

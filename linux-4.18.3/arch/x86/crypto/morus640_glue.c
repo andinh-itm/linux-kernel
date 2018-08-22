@@ -296,3 +296,4 @@ EXPORT_SYMBOL_GPL(cryptd_morus640_glue_exit_tfm);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ondrej Mosnacek <omosnacek@gmail.com>");
 MODULE_DESCRIPTION("MORUS-640 AEAD mode -- glue for x86 optimizations");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

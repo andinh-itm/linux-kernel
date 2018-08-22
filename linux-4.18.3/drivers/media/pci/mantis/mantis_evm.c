@@ -115,3 +115,4 @@ void mantis_evmgr_exit(struct mantis_ca *ca)
 	mantis_hif_exit(ca);
 	mantis_pcmcia_exit(ca);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

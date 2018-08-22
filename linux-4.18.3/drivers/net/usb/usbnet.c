@@ -2189,3 +2189,4 @@ module_exit(usbnet_exit);
 MODULE_AUTHOR("David Brownell");
 MODULE_DESCRIPTION("USB network driver framework");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

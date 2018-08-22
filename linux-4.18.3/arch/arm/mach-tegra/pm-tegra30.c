@@ -33,3 +33,4 @@ void tegra30_sleep_core_init(void)
 	tegra_sleep_core_finish = tegra30_sleep_core_finish;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

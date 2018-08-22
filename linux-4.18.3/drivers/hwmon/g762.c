@@ -1101,3 +1101,4 @@ module_i2c_driver(g762_driver);
 MODULE_AUTHOR("Arnaud EBALARD <arno@natisbad.org>");
 MODULE_DESCRIPTION("GMT G762/G763 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

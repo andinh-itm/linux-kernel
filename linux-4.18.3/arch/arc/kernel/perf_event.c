@@ -560,3 +560,4 @@ module_platform_driver(arc_pmu_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mischa Jonker <mjonker@synopsys.com>");
 MODULE_DESCRIPTION("ARC PMU driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

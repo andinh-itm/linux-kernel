@@ -243,3 +243,4 @@ int emac_sgmii_init_fsm9900(struct emac_adapter *adpt)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

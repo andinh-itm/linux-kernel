@@ -626,3 +626,4 @@ module_exit(ohci_pxa27x_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa27x-ohci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

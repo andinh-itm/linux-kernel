@@ -190,3 +190,4 @@ const struct decode_checker arm_regs_checker[NUM_PROBES_ARM_ACTIONS] = {
 	[PROBES_MOV_IP_SP] = {.checker = arm_check_regs_mov_ip_sp},
 	[PROBES_LDRSTRD] = {.checker = arm_check_regs_ldrdstrd},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

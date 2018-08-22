@@ -1131,3 +1131,4 @@ struct regmap * __init da8xx_get_cfgchip(void)
 
 	return da8xx_cfgchip;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

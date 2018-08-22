@@ -3393,3 +3393,4 @@ module_platform_driver(mmcc_msm8996_driver);
 MODULE_DESCRIPTION("QCOM MMCC MSM8996 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mmcc-msm8996");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

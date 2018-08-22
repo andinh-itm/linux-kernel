@@ -703,3 +703,4 @@ void __init acpi_processor_init(void)
 	acpi_scan_add_handler_with_hotplug(&processor_handler, "processor");
 	acpi_scan_add_handler(&processor_container_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

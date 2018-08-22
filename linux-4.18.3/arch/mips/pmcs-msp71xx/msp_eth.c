@@ -109,3 +109,4 @@ int __init msp_eth_setup(void)
 	return ret;
 }
 subsys_initcall(msp_eth_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

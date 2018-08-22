@@ -34,3 +34,4 @@ void wil_memset_toio_32(volatile void __iomem *dst, u32 val,
 }
 
 #include "fw_inc.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

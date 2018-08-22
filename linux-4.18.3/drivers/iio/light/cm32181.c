@@ -368,3 +368,4 @@ module_i2c_driver(cm32181_driver);
 MODULE_AUTHOR("Kevin Tsai <ktsai@capellamicro.com>");
 MODULE_DESCRIPTION("CM32181 ambient light sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

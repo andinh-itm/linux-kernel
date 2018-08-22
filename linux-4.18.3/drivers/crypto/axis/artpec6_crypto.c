@@ -3188,3 +3188,4 @@ module_platform_driver(artpec6_crypto_driver);
 MODULE_AUTHOR("Axis Communications AB");
 MODULE_DESCRIPTION("ARTPEC-6 Crypto driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

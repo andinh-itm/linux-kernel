@@ -56,3 +56,4 @@ const int hash_digest_size[HASH_ALGO__LAST] = {
 	[HASH_ALGO_SM3_256]	= SM3256_DIGEST_SIZE,
 };
 EXPORT_SYMBOL_GPL(hash_digest_size);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

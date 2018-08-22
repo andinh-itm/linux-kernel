@@ -229,3 +229,4 @@ void devm_iio_kfifo_free(struct device *dev, struct iio_buffer *r)
 EXPORT_SYMBOL(devm_iio_kfifo_free);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

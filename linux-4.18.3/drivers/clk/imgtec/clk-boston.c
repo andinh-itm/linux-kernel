@@ -101,3 +101,4 @@ static void __init clk_boston_setup(struct device_node *np)
  * CPU frequency for use with the GIC or cop0 counters/timers.
  */
 CLK_OF_DECLARE(clk_boston, "img,boston-clock", clk_boston_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

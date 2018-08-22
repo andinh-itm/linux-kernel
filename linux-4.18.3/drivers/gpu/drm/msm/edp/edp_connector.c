@@ -138,3 +138,4 @@ struct drm_connector *msm_edp_connector_init(struct msm_edp *edp)
 
 	return connector;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

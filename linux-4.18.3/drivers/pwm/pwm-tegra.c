@@ -322,3 +322,4 @@ module_platform_driver(tegra_pwm_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("NVIDIA Corporation");
 MODULE_ALIAS("platform:tegra-pwm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

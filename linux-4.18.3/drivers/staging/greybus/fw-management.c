@@ -718,3 +718,4 @@ void fw_mgmt_exit(void)
 	class_destroy(fw_mgmt_class);
 	ida_destroy(&fw_mgmt_minors_map);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

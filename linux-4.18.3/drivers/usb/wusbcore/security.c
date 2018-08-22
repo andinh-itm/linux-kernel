@@ -597,3 +597,4 @@ void wusbhc_gtk_rekey(struct wusbhc *wusbhc)
 	 */
 	queue_work(wusbhc->wq_security, &wusbhc->gtk_rekey_work);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

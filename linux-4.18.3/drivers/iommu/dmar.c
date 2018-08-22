@@ -2042,3 +2042,4 @@ int dmar_device_remove(acpi_handle handle)
 {
 	return dmar_device_hotplug(handle, false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

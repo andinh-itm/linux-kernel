@@ -556,3 +556,4 @@ void __init xen_hvm_init_time_ops(void)
 	x86_platform.set_wallclock = xen_set_wallclock;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

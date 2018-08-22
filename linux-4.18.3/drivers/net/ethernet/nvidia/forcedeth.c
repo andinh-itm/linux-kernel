@@ -6419,3 +6419,4 @@ MODULE_AUTHOR("Manfred Spraul <manfred@colorfullife.com>");
 MODULE_DESCRIPTION("Reverse Engineered nForce ethernet driver");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, pci_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

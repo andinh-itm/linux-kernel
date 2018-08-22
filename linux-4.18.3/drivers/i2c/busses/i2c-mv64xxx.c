@@ -1016,3 +1016,4 @@ module_platform_driver(mv64xxx_i2c_driver);
 MODULE_AUTHOR("Mark A. Greer <mgreer@mvista.com>");
 MODULE_DESCRIPTION("Marvell mv64xxx host bridge i2c ctlr driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -175,3 +175,4 @@ static struct isa_driver snd_ad1848_driver = {
 };
 
 module_isa_driver(snd_ad1848_driver, SNDRV_CARDS);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

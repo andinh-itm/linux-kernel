@@ -944,3 +944,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Andrew Victor, David Brownell");
 MODULE_DESCRIPTION("MTD DataFlash driver");
 MODULE_ALIAS("spi:mtd_dataflash");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

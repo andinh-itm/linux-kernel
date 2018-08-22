@@ -1075,3 +1075,4 @@ void tune_serdes(struct hfi1_pportdata *ppd)
 bail:
 	ppd->driver_link_ready = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

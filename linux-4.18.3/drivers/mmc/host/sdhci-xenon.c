@@ -678,3 +678,4 @@ module_platform_driver(sdhci_xenon_driver);
 MODULE_DESCRIPTION("SDHCI platform driver for Marvell Xenon SDHC");
 MODULE_AUTHOR("Hu Ziji <huziji@marvell.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

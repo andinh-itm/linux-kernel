@@ -452,3 +452,4 @@ idx_err_out:
 	ntfs_error(sb, "Corrupt index.  Aborting lookup.");
 	goto err_out;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

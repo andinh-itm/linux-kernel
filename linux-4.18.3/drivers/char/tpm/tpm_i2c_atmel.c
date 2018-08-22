@@ -224,3 +224,4 @@ module_i2c_driver(i2c_atmel_driver);
 MODULE_AUTHOR("Jason Gunthorpe <jgunthorpe@obsidianresearch.com>");
 MODULE_DESCRIPTION("Atmel TPM I2C Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

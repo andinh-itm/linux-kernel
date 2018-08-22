@@ -91,3 +91,4 @@ void pwc_construct(struct pwc_device *pdev)
 		pdev->frame_trailer_size = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

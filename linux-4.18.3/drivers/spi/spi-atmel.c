@@ -1841,3 +1841,4 @@ MODULE_DESCRIPTION("Atmel AT32/AT91 SPI Controller driver");
 MODULE_AUTHOR("Haavard Skinnemoen (Atmel)");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:atmel_spi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

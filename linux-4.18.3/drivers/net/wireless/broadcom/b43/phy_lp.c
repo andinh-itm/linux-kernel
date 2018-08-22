@@ -2714,3 +2714,4 @@ const struct b43_phy_operations b43_phyops_lp = {
 	.pwork_15sec		= b43_lpphy_op_pwork_15sec,
 	.pwork_60sec		= lpphy_calibration,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

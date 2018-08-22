@@ -550,3 +550,4 @@ void tulip_find_mii(struct net_device *dev, int board_idx)
 		tp->phys[0] = 1;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -198,3 +198,4 @@ struct cpuidle_monitor intel_snb_monitor = {
 					       at 20GHz */
 };
 #endif /* defined(__i386__) || defined(__x86_64__) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

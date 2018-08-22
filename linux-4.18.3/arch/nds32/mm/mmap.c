@@ -71,3 +71,4 @@ arch_get_unmapped_area(struct file *filp, unsigned long addr,
 	info.align_offset = pgoff << PAGE_SHIFT;
 	return vm_unmapped_area(&info);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

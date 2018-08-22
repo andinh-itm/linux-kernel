@@ -310,3 +310,4 @@ int __cw1200_irq_enable(struct cw1200_common *priv, int enable)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -800,3 +800,4 @@ MODULE_LICENSE("Dual BSD/GPL");
 MODULE_FIRMWARE(ISCI_FW_NAME);
 module_init(isci_init);
 module_exit(isci_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

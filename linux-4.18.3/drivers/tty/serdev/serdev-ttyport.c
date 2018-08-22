@@ -318,3 +318,4 @@ int serdev_tty_port_unregister(struct tty_port *port)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

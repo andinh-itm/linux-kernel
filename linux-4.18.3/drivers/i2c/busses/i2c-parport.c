@@ -328,3 +328,4 @@ MODULE_PARM_DESC(parport,
 
 module_init(i2c_parport_init);
 module_exit(i2c_parport_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

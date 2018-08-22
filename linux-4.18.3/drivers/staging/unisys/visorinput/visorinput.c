@@ -786,3 +786,4 @@ MODULE_DESCRIPTION("s-Par human input driver for virtual keyboard/mouse");
 
 MODULE_ALIAS("visorbus:" VISOR_MOUSE_CHANNEL_GUID_STR);
 MODULE_ALIAS("visorbus:" VISOR_KEYBOARD_CHANNEL_GUID_STR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

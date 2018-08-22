@@ -507,3 +507,4 @@ module_exit(exit_squashfs_fs);
 MODULE_DESCRIPTION("squashfs 4.0, a compressed read-only filesystem");
 MODULE_AUTHOR("Phillip Lougher <phillip@squashfs.org.uk>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

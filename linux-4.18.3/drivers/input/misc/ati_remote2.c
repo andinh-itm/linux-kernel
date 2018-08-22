@@ -1036,3 +1036,4 @@ static int ati_remote2_post_reset(struct usb_interface *interface)
 }
 
 module_usb_driver(ati_remote2_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

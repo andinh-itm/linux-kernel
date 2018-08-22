@@ -206,3 +206,4 @@ unlock_and_exit:
 }
 
 ACPI_EXPORT_SYMBOL(acpi_get_next_object)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

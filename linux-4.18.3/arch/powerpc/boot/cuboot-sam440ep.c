@@ -47,3 +47,4 @@ void platform_init(unsigned long r3, unsigned long r4, unsigned long r5,
 	fdt_init(_dtb_start);
 	serial_console_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

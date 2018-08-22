@@ -4229,3 +4229,4 @@ int qla4_8xxx_check_init_adapter_retry(struct scsi_qla_host *ha)
 exit_init_adapter_failure:
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

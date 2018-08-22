@@ -239,3 +239,4 @@ err_free_cpus:
 }
 CLK_OF_DECLARE(sun9i_a80_cpus, "allwinner,sun9i-a80-cpus-clk",
 	       sun9i_a80_cpus_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

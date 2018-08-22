@@ -61,3 +61,4 @@ bool mock_cancel_request(struct i915_request *request)
 
 	return was_queued;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

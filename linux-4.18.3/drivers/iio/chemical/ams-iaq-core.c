@@ -188,3 +188,4 @@ module_i2c_driver(ams_iaqcore_driver);
 MODULE_AUTHOR("Matt Ranostay <matt.ranostay@konsulko.com>");
 MODULE_DESCRIPTION("AMS iAQ-Core VOC sensors");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

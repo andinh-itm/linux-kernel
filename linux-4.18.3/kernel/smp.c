@@ -797,3 +797,4 @@ int smp_call_on_cpu(unsigned int cpu, int (*func)(void *), void *par, bool phys)
 	return sscs.ret;
 }
 EXPORT_SYMBOL_GPL(smp_call_on_cpu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

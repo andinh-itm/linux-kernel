@@ -445,3 +445,4 @@ MODULE_AUTHOR("Holger Waechtler");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(cx22700_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

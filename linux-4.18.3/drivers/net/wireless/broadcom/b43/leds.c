@@ -361,3 +361,4 @@ void b43_leds_unregister(struct b43_wl *wl)
 	b43_unregister_led(&leds->led_assoc);
 	b43_unregister_led(&leds->led_radio);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

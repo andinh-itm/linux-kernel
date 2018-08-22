@@ -6572,3 +6572,4 @@ lpfc_get_vport_cfgparam(struct lpfc_vport *vport)
 	lpfc_enable_da_id_init(vport, lpfc_enable_da_id);
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

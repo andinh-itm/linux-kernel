@@ -266,3 +266,4 @@ static int __init tomoyo_initerface_init(void)
 }
 
 fs_initcall(tomoyo_initerface_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1008,3 +1008,4 @@ MODULE_AUTHOR("Graeme Gregory <gg@slimlogic.co.uk>");
 MODULE_AUTHOR("Oleksandr Kozaruk <oleksandr.kozaruk@ti.com");
 MODULE_DESCRIPTION("twl6030 ADC driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

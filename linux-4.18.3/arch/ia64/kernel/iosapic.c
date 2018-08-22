@@ -1140,3 +1140,4 @@ void map_iosapic_to_node(unsigned int gsi_base, int node)
 	return;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

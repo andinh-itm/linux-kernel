@@ -501,3 +501,4 @@ fake_event(struct snd_emux *emu, struct snd_emux_port *port, int ch, int param, 
 	ev.data.control.value = val;
 	snd_emux_event_input(&ev, 0, port, atomic, hop);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

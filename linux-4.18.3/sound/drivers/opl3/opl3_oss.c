@@ -269,3 +269,4 @@ static int snd_opl3_reset_seq_oss(struct snd_seq_oss_arg *arg)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

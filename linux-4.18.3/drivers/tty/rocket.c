@@ -3112,3 +3112,4 @@ static unsigned char SetLineNumber(int ctrl, int aiop, int ch)
 	lineNumbers[(ctrl << 5) | (aiop << 3) | ch] = nextLineNumber++;
 	return (nextLineNumber - 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -658,3 +658,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Wind River");
 MODULE_DESCRIPTION("STA2x11 mfd for GPIO, SCTL and APBREG");
 MODULE_DEVICE_TABLE(pci, sta2x11_mfd_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

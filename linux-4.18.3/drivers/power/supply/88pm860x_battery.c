@@ -1019,3 +1019,4 @@ module_platform_driver(pm860x_battery_driver);
 
 MODULE_DESCRIPTION("Marvell 88PM860x Battery driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

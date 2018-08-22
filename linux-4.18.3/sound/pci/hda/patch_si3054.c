@@ -316,3 +316,4 @@ static struct hda_codec_driver si3054_driver = {
 };
 
 module_hda_codec_driver(si3054_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

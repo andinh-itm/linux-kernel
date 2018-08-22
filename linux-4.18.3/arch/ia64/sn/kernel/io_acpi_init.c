@@ -511,3 +511,4 @@ sn_io_acpi_init(void)
 		panic("sal_ioif_init failed: [%lx] %s\n",
 		      status, ia64_sal_strerror(status));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

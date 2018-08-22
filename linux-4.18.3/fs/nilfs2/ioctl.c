@@ -1375,3 +1375,4 @@ long nilfs_compat_ioctl(struct file *filp, unsigned int cmd, unsigned long arg)
 	return nilfs_ioctl(filp, cmd, (unsigned long)compat_ptr(arg));
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -174,3 +174,4 @@ void tah_exit(void)
 {
 	platform_driver_unregister(&tah_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

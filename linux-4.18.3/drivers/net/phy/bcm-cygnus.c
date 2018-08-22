@@ -153,3 +153,4 @@ module_phy_driver(bcm_cygnus_phy_driver);
 MODULE_DESCRIPTION("Broadcom Cygnus internal PHY driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Broadcom Corporation");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

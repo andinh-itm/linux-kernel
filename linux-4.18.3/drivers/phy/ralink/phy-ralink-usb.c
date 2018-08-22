@@ -247,3 +247,4 @@ module_platform_driver(ralink_usb_phy_driver);
 MODULE_DESCRIPTION("Ralink USB phy driver");
 MODULE_AUTHOR("John Crispin <john@phrozen.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

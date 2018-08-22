@@ -193,3 +193,4 @@ module_platform_driver(dove_thermal_driver);
 MODULE_AUTHOR("Andrew Lunn <andrew@lunn.ch>");
 MODULE_DESCRIPTION("Dove thermal driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

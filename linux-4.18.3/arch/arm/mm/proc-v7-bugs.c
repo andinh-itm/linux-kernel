@@ -172,3 +172,4 @@ void cpu_v7_bugs_init(void)
 {
 	cpu_v7_spectre_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

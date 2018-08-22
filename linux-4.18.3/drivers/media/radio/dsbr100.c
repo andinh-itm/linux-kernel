@@ -427,3 +427,4 @@ static struct usb_driver usb_dsbr100_driver = {
 };
 
 module_usb_driver(usb_dsbr100_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

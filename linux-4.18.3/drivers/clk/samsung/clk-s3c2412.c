@@ -292,3 +292,4 @@ static void __init s3c2412_clk_init(struct device_node *np)
 	s3c2412_common_clk_init(np, 0, 0, NULL);
 }
 CLK_OF_DECLARE(s3c2412_clk, "samsung,s3c2412-clock", s3c2412_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

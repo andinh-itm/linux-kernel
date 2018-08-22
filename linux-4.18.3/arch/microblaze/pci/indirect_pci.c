@@ -160,3 +160,4 @@ setup_indirect_pci(struct pci_controller *hose,
 	hose->ops = &indirect_pci_ops;
 	hose->indirect_type = flags;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

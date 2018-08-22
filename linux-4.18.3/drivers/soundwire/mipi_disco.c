@@ -399,3 +399,4 @@ int sdw_slave_read_prop(struct sdw_slave *slave)
 	return 0;
 }
 EXPORT_SYMBOL(sdw_slave_read_prop);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

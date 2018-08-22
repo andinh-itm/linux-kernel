@@ -675,3 +675,4 @@ static struct platform_driver bcm_kona_gpio_driver = {
 	.probe = bcm_kona_gpio_probe,
 };
 builtin_platform_driver(bcm_kona_gpio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

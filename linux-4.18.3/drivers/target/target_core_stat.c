@@ -1399,3 +1399,4 @@ void target_stat_setup_mappedlun_default_groups(struct se_lun_acl *lacl)
 	configfs_add_default_group(&lacl->ml_stat_grps.scsi_att_intr_port_group,
 			&lacl->ml_stat_grps.stat_group);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

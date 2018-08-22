@@ -778,3 +778,4 @@ MODULE_AUTHOR("Andrew de Quincey");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(tda10086_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

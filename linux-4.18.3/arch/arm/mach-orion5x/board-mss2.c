@@ -88,3 +88,4 @@ void __init mss2_init(void)
 	/* register mss2 specific power-off method */
 	pm_power_off = mss2_power_off;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

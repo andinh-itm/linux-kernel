@@ -93,3 +93,4 @@ u32 rtl92e_eeprom_read(struct net_device *dev, u32 addr)
 		      (EPROM_CMD_NORMAL<<EPROM_CMD_OPERATING_MODE_SHIFT));
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

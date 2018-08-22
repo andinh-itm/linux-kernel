@@ -316,3 +316,4 @@ bad:
 EXPORT_SYMBOL_GPL(dm_sm_disk_open);
 
 /*----------------------------------------------------------------*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

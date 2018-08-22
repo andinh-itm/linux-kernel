@@ -402,3 +402,4 @@ struct device_attribute *arcmsr_host_attrs[] = {
 	&dev_attr_host_fw_hd_channels,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -603,3 +603,4 @@ void gigaset_if_freedriver(struct gigaset_driver *drv)
 	tty_unregister_driver(drv->tty);
 	put_tty_driver(drv->tty);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

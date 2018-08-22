@@ -202,3 +202,4 @@ MODULE_DESCRIPTION("Hardware spinlock driver for OMAP");
 MODULE_AUTHOR("Simon Que <sque@ti.com>");
 MODULE_AUTHOR("Hari Kanigeri <h-kanigeri2@ti.com>");
 MODULE_AUTHOR("Ohad Ben-Cohen <ohad@wizery.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

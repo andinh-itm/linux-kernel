@@ -815,3 +815,4 @@ static int syscall_exit_register(struct trace_event_call *event,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

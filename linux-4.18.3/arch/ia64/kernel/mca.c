@@ -2143,3 +2143,4 @@ ia64_mca_late_init(void)
 }
 
 device_initcall(ia64_mca_late_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

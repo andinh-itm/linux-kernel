@@ -108,3 +108,4 @@ static struct pci_driver mt76pci_driver = {
 };
 
 module_pci_driver(mt76pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

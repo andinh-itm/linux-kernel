@@ -75,3 +75,4 @@ static struct platform_driver st_clk_driver = {
 	.remove = st_clk_remove,
 };
 builtin_platform_driver(st_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

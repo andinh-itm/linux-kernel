@@ -1134,3 +1134,4 @@ struct smb_version_values smb1_values = {
 	.signing_enabled = SECMODE_SIGN_ENABLED,
 	.signing_required = SECMODE_SIGN_REQUIRED,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

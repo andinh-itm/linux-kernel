@@ -140,3 +140,4 @@ u32 altera_shrink(u8 *in, u32 in_length, u8 *out, u32 out_length, s32 version)
 
 	return data_length;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

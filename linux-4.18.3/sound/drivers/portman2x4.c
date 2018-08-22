@@ -868,3 +868,4 @@ static void __exit snd_portman_module_exit(void)
 
 module_init(snd_portman_module_init);
 module_exit(snd_portman_module_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

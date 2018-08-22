@@ -514,3 +514,4 @@ lca_clock_fiddle(int divisor)
         LCA_WRITE_PMR(pmr_reg);
         mb();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

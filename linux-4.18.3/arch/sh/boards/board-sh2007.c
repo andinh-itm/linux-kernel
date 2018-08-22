@@ -144,3 +144,4 @@ struct sh_machine_vector mv_sh2007 __initmv = {
 	.mv_name		= "sh2007",
 	.mv_init_irq		= sh2007_init_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

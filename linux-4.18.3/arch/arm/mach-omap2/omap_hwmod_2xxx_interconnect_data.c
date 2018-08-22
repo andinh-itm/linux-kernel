@@ -266,3 +266,4 @@ struct omap_hwmod_ocp_if omap2xxx_l4_core__aes = {
 	.clk		= "aes_ick",
 	.user		= OCP_USER_MPU | OCP_USER_SDMA,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

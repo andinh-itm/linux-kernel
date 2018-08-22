@@ -135,3 +135,4 @@ unsigned long perf_misc_flags(struct pt_regs *regs)
 
 	return misc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -237,3 +237,4 @@ struct op_powerpc_model op_model_pa6t = {
 	.stop			= pa6t_stop,
 	.handle_interrupt	= pa6t_handle_interrupt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

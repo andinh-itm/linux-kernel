@@ -102,3 +102,4 @@ static struct platform_driver berlin_reset_driver = {
 	},
 };
 builtin_platform_driver(berlin_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

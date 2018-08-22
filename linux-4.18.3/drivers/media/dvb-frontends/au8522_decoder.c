@@ -791,3 +791,4 @@ static struct i2c_driver au8522_driver = {
 };
 
 module_i2c_driver(au8522_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

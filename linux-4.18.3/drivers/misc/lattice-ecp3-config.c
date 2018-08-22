@@ -247,3 +247,4 @@ MODULE_AUTHOR("Stefan Roese <sr@denx.de>");
 MODULE_DESCRIPTION("Lattice ECP3 FPGA configuration via SPI");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(FIRMWARE_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

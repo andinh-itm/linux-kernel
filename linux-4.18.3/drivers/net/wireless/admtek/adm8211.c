@@ -2014,3 +2014,4 @@ static struct pci_driver adm8211_driver = {
 };
 
 module_pci_driver(adm8211_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

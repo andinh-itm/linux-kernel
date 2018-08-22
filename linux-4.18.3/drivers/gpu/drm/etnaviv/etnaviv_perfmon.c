@@ -482,3 +482,4 @@ void etnaviv_perfmon_process(struct etnaviv_gpu *gpu,
 
 	*(bo + pmr->offset) = val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

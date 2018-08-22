@@ -147,3 +147,4 @@ void __weak mach_resume(void)
 {
 	enable_mfgpt0_counter();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

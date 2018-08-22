@@ -4521,3 +4521,4 @@ MODULE_DESCRIPTION("ASoC WM8994 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8994-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

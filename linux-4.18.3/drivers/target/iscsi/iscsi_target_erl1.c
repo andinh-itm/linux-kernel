@@ -1287,3 +1287,4 @@ void iscsit_stop_dataout_timer(struct iscsi_cmd *cmd)
 	spin_unlock_bh(&cmd->dataout_timeout_lock);
 }
 EXPORT_SYMBOL(iscsit_stop_dataout_timer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

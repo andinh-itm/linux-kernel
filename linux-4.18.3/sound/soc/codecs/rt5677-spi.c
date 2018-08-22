@@ -238,3 +238,4 @@ module_spi_driver(rt5677_spi_driver);
 MODULE_DESCRIPTION("ASoC RT5677 SPI driver");
 MODULE_AUTHOR("Oder Chiou <oder_chiou@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -84,3 +84,4 @@ out_unmap:
 
 TIMER_OF_DECLARE(arm_systick, "arm,armv7m-systick",
 			system_timer_of_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

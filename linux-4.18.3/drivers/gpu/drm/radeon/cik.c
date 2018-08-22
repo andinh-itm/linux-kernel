@@ -9804,3 +9804,4 @@ static void cik_program_aspm(struct radeon_device *rdev)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

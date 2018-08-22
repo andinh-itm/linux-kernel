@@ -856,3 +856,4 @@ MODULE_AUTHOR("Andrea Paterniani, <a.paterniani@swapp-eng.it>");
 MODULE_DESCRIPTION("User mode SPI device interface");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:spidev");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

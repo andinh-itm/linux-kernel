@@ -138,3 +138,4 @@ void cros_ec_lpc_mec_destroy(void)
 	mutex_destroy(&io_mutex);
 }
 EXPORT_SYMBOL(cros_ec_lpc_mec_destroy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

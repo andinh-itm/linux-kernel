@@ -262,3 +262,4 @@ static void __init sun4i_a10_display_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(sun4i_a10_display, "allwinner,sun4i-a10-display-clk",
 	       sun4i_a10_display_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

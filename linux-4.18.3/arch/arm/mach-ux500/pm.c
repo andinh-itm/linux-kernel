@@ -203,3 +203,4 @@ void __init ux500_pm_init(u32 phy_base, u32 size)
 	/* Set up ux500 suspend callbacks. */
 	suspend_set_ops(UX500_SUSPEND_OPS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

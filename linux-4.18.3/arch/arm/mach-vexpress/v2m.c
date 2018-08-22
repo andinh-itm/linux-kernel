@@ -15,3 +15,4 @@ DT_MACHINE_START(VEXPRESS_DT, "ARM-Versatile Express")
 	.smp		= smp_ops(vexpress_smp_dt_ops),
 	.smp_init	= smp_init_ops(vexpress_smp_init_ops),
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

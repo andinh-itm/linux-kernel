@@ -411,3 +411,4 @@ static int pci_slot_init(void)
 }
 
 subsys_initcall(pci_slot_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -340,3 +340,4 @@ out:
 	return err;
 }
 EXPORT_SYMBOL_GPL(of_resolve_phandles);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

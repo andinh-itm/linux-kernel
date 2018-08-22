@@ -482,3 +482,4 @@ module_i2c_driver(ccs811_driver);
 MODULE_AUTHOR("Narcisa Vasile <narcisaanamaria12@gmail.com>");
 MODULE_DESCRIPTION("CCS811 volatile organic compounds sensor");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

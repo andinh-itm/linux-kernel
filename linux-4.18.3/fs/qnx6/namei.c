@@ -37,3 +37,4 @@ struct dentry *qnx6_lookup(struct inode *dir, struct dentry *dentry,
 	}
 	return d_splice_alias(foundinode, dentry);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

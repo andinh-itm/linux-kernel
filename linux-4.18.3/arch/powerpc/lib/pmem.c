@@ -65,3 +65,4 @@ void memcpy_page_flushcache(char *to, struct page *page, size_t offset,
 	memcpy_flushcache(to, page_to_virt(page) + offset, len);
 }
 EXPORT_SYMBOL(memcpy_page_flushcache);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

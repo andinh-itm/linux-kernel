@@ -37,3 +37,4 @@ static int __init iop3xx_pmu_init(void)
 }
 
 arch_initcall(iop3xx_pmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

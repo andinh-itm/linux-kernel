@@ -476,3 +476,4 @@ int st_nci_vendor_cmds_init(struct nci_dev *ndev)
 				   sizeof(st_nci_vendor_cmds));
 }
 EXPORT_SYMBOL(st_nci_vendor_cmds_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

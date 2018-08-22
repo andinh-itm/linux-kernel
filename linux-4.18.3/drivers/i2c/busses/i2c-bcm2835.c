@@ -425,3 +425,4 @@ MODULE_AUTHOR("Stephen Warren <swarren@wwwdotorg.org>");
 MODULE_DESCRIPTION("BCM2835 I2C bus adapter");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:i2c-bcm2835");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

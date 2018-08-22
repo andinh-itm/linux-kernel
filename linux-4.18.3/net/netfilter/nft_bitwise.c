@@ -145,3 +145,4 @@ struct nft_expr_type nft_bitwise_type __read_mostly = {
 	.maxattr	= NFTA_BITWISE_MAX,
 	.owner		= THIS_MODULE,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

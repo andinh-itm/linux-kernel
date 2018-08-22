@@ -907,3 +907,4 @@ void snd_p16v_resume(struct snd_emu10k1 *emu)
 			snd_emu10k1_ptr20_write(emu, i, ch, *val);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

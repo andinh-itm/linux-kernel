@@ -56,3 +56,4 @@ int strncmp(const char *cs, const char *ct, size_t count)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

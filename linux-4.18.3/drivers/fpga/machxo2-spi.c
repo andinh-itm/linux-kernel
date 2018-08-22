@@ -413,3 +413,4 @@ module_spi_driver(machxo2_spi_driver)
 MODULE_AUTHOR("Paolo Pisati <p.pisati@gmail.com>");
 MODULE_DESCRIPTION("Load Lattice FPGA firmware over SPI");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

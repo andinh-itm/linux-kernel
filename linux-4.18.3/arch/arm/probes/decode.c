@@ -519,3 +519,4 @@ probes_decode_insn(probes_opcode_t insn, struct arch_probes_insn *asi,
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1320,3 +1320,4 @@ module_i2c_driver(rt298_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT298 driver");
 MODULE_AUTHOR("Bard Liao <bardliao@realtek.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

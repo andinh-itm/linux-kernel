@@ -837,3 +837,4 @@ void ocfs2_resmap_claimed_bits(struct ocfs2_reservation_map *resmap,
 
 	spin_unlock(&resv_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

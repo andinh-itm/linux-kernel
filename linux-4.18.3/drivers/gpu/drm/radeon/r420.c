@@ -502,3 +502,4 @@ int r420_debugfs_pipes_info_init(struct radeon_device *rdev)
 	return 0;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

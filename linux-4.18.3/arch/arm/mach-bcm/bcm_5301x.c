@@ -48,3 +48,4 @@ DT_MACHINE_START(BCM5301X, "BCM5301X")
 	.dt_compat	= bcm5301x_dt_compat,
 	.init_early	= bcm5301x_init_early,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

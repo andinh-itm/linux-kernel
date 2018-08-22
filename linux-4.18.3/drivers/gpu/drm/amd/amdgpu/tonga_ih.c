@@ -525,3 +525,4 @@ const struct amdgpu_ip_block_version tonga_ih_ip_block =
 	.rev = 0,
 	.funcs = &tonga_ih_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

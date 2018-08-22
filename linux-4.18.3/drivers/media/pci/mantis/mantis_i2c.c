@@ -262,3 +262,4 @@ int mantis_i2c_exit(struct mantis_pci *mantis)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(mantis_i2c_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

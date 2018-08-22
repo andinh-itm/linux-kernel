@@ -1207,3 +1207,4 @@ int mlxsw_afa_block_append_mcrouter(struct mlxsw_afa_block *block,
 	return 0;
 }
 EXPORT_SYMBOL(mlxsw_afa_block_append_mcrouter);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

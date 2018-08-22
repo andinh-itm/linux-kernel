@@ -1110,3 +1110,4 @@ module_i2c_driver(adp5589_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Michael Hennerich <hennerich@blackfin.uclinux.org>");
 MODULE_DESCRIPTION("ADP5589/ADP5585 Keypad driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

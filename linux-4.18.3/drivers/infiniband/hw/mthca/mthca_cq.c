@@ -979,3 +979,4 @@ void mthca_cleanup_cq_table(struct mthca_dev *dev)
 	mthca_array_cleanup(&dev->cq_table.cq, dev->limits.num_cqs);
 	mthca_alloc_cleanup(&dev->cq_table.alloc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -162,3 +162,4 @@ int snd_pcsp_new_mixer(struct snd_pcsp *chip, int nopcm)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

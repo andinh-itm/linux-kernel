@@ -1555,3 +1555,4 @@ mwifiex_band_to_radio_type(u8 band)
 		return HostCmd_SCAN_RADIO_TYPE_BG;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

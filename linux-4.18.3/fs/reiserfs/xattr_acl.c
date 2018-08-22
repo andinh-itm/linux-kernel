@@ -403,3 +403,4 @@ int reiserfs_acl_chmod(struct inode *inode)
 
 	return posix_acl_chmod(inode, inode->i_mode);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

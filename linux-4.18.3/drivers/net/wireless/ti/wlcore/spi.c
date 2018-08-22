@@ -588,3 +588,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Luciano Coelho <coelho@ti.com>");
 MODULE_AUTHOR("Juuso Oikarinen <juuso.oikarinen@nokia.com>");
 MODULE_ALIAS("spi:wl1271");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

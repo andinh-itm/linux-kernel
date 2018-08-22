@@ -971,3 +971,4 @@ bool kvm_vgic_map_is_active(struct kvm_vcpu *vcpu, unsigned int vintid)
 	return map_is_active;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

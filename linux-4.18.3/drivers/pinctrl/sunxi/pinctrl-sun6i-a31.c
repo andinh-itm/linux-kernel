@@ -998,3 +998,4 @@ static struct platform_driver sun6i_a31_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(sun6i_a31_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

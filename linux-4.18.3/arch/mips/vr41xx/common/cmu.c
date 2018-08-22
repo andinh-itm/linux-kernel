@@ -255,3 +255,4 @@ static int __init vr41xx_cmu_init(void)
 }
 
 core_initcall(vr41xx_cmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -90,3 +90,4 @@ module_exit(wm8350_i2c_exit);
 
 MODULE_DESCRIPTION("I2C support for the WM8350 AudioPlus PMIC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

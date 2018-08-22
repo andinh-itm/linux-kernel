@@ -469,3 +469,4 @@ nouveau_acpi_edid(struct drm_device *dev, struct drm_connector *connector)
 
 	return kmemdup(edid, EDID_LENGTH, GFP_KERNEL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

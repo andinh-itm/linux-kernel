@@ -17,3 +17,4 @@ const unsigned char __clz_tab[] = {
 	8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8,
 	    8, 8, 8, 8, 8, 8, 8, 8,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

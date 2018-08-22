@@ -151,3 +151,4 @@ void __init nuc900_init_gpio(int nr_group)
 		gpiochip_add_data(&gpio_chip->chip, gpio_chip);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

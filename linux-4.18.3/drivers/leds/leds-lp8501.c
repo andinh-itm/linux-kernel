@@ -409,3 +409,4 @@ module_i2c_driver(lp8501_driver);
 MODULE_DESCRIPTION("Texas Instruments LP8501 LED driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

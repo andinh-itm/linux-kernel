@@ -177,3 +177,4 @@ static int __init exynos4x12_isp_clk_init(void)
 	return platform_driver_register(&exynos4x12_isp_clk_driver);
 }
 core_initcall(exynos4x12_isp_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

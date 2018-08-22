@@ -1396,3 +1396,4 @@ struct iscsi_tiqn *iscsit_snmp_get_tiqn(struct iscsi_conn *conn)
 
 	return tpg->tpg_tiqn;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -68,3 +68,4 @@ int sunxi_ccu_get_mmc_timing_mode(struct clk *clk)
 	return !!(readl(cm->base + cm->reg) & CCU_MMC_NEW_TIMING_MODE);
 }
 EXPORT_SYMBOL_GPL(sunxi_ccu_get_mmc_timing_mode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

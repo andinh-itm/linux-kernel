@@ -813,3 +813,4 @@ EXPORT_SYMBOL(matroxfb_read_pins);
 MODULE_AUTHOR("(c) 1999-2002 Petr Vandrovec <vandrove@vc.cvut.cz>");
 MODULE_DESCRIPTION("Miscellaneous support for Matrox video cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

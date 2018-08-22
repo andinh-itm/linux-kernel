@@ -708,3 +708,4 @@ void dpp1_dscl_set_scaler_manual_scale(
 	dpp1_dscl_set_scl_filter(dpp, scl_data, ycbcr);
 	PERF_TRACE();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

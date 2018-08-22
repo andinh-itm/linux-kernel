@@ -1413,3 +1413,4 @@ void asd_update_port_links(struct asd_ha_struct *asd_ha, struct asd_phy *phy)
 }
 
 MODULE_FIRMWARE(SAS_RAZOR_SEQUENCER_FW_FILE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

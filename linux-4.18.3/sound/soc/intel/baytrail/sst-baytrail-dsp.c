@@ -364,3 +364,4 @@ struct sst_ops sst_byt_ops = {
 	.free = sst_byt_free,
 	.parse_fw = sst_byt_parse_fw_image,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

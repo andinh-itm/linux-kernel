@@ -100,3 +100,4 @@ void power4_enable_pmcs(void)
 		"memory");
 }
 #endif /* CONFIG_PPC64 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

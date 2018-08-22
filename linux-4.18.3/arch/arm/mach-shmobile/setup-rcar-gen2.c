@@ -218,3 +218,4 @@ DT_MACHINE_START(RZ_G1_DT, "Generic RZ/G1 (Flattened Device Tree)")
 	.reserve	= rcar_gen2_reserve,
 	.dt_compat	= rz_g1_boards_compat_dt,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

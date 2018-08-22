@@ -120,3 +120,4 @@ int __init snd_info_minor_register(void)
 	entry->c.text.read = snd_sndstat_proc_read;
 	return snd_info_register(entry); /* freed in error path */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

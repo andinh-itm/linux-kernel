@@ -625,3 +625,4 @@ MODULE_DESCRIPTION("ICS PATA driver");
 
 module_init(pata_icside_init);
 module_exit(pata_icside_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

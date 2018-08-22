@@ -428,3 +428,4 @@ module_i2c_driver(mcp3422_driver);
 MODULE_AUTHOR("Angelo Compagnucci <angelo.compagnucci@gmail.com>");
 MODULE_DESCRIPTION("Microchip mcp3421/2/3/4/5/6/7/8 driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

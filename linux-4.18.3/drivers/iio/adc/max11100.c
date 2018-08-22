@@ -177,3 +177,4 @@ module_spi_driver(max11100_driver);
 MODULE_AUTHOR("Jacopo Mondi <jacopo@jmondi.org>");
 MODULE_DESCRIPTION("Maxim max11100 ADC Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

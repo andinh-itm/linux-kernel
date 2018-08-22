@@ -1720,3 +1720,4 @@ MODULE_FIRMWARE("isi608em.bin");
 MODULE_FIRMWARE("isi616em.bin");
 MODULE_FIRMWARE("isi4608.bin");
 MODULE_FIRMWARE("isi4616.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

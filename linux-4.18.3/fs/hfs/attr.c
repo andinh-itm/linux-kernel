@@ -150,3 +150,4 @@ const struct xattr_handler *hfs_xattr_handlers[] = {
 	&hfs_type_handler,
 	NULL
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

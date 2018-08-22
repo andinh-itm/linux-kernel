@@ -355,3 +355,4 @@ module_platform_driver(ti_tscadc_driver);
 MODULE_DESCRIPTION("TI touchscreen / ADC MFD controller driver");
 MODULE_AUTHOR("Rachna Patil <rachna@ti.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

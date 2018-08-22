@@ -1515,3 +1515,4 @@ static void conf_changed(void)
 	gtk_widget_set_sensitive(save_btn, changed);
 	gtk_widget_set_sensitive(save_menu_item, changed);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

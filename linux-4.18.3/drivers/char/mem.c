@@ -944,3 +944,4 @@ static int __init chr_dev_init(void)
 }
 
 fs_initcall(chr_dev_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

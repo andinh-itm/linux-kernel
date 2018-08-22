@@ -38,3 +38,4 @@ module_spi_driver(ssm2602_spi_driver);
 MODULE_DESCRIPTION("ASoC SSM2602 SPI driver");
 MODULE_AUTHOR("Cliff Cai");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

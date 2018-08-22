@@ -183,3 +183,4 @@ MODULE_AUTHOR("Alessandro Zummo <a.zummo@towertech.it>");
 MODULE_DESCRIPTION("EP93XX RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ep93xx-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

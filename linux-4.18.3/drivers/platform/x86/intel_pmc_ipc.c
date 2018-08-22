@@ -1034,3 +1034,4 @@ MODULE_LICENSE("GPL");
 /* Some modules are dependent on this, so init earlier */
 fs_initcall(intel_pmc_ipc_init);
 module_exit(intel_pmc_ipc_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

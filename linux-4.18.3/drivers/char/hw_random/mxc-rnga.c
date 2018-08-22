@@ -214,3 +214,4 @@ module_platform_driver_probe(mxc_rnga_driver, mxc_rnga_probe);
 MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("H/W RNGA driver for i.MX");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -123,3 +123,4 @@ void rose_enquiry_response(struct sock *sk)
 
 	rose_stop_timer(sk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

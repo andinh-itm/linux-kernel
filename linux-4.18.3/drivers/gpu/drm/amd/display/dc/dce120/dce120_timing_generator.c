@@ -1173,3 +1173,4 @@ void dce120_timing_generator_construct(
 	tg110->min_v_sync_width = 1;
 	tg110->min_v_blank = 3;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

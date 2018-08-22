@@ -96,3 +96,4 @@ struct shash_alg sha512_neon_algs[] = { {
 		.cra_module		= THIS_MODULE,
 	}
 } };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

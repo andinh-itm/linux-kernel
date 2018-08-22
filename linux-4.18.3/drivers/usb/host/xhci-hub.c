@@ -1685,3 +1685,4 @@ int xhci_bus_resume(struct usb_hcd *hcd)
 }
 
 #endif	/* CONFIG_PM */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

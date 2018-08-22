@@ -180,3 +180,4 @@ static int __init sh7751_pci_init(void)
 	return register_pci_controller(chan);
 }
 arch_initcall(sh7751_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

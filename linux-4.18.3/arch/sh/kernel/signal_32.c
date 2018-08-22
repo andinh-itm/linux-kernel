@@ -508,3 +508,4 @@ asmlinkage void do_notify_resume(struct pt_regs *regs, unsigned int save_r0,
 		tracehook_notify_resume(regs);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

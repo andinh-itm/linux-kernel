@@ -73,3 +73,4 @@ void __init opal_kmsg_init(void)
 	if (rc != 0)
 		pr_err("opal: kmsg_dump_register failed; returned %d\n", rc);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

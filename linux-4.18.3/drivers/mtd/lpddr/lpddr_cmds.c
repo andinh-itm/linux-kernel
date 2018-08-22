@@ -747,3 +747,4 @@ static int lpddr_unlock(struct mtd_info *mtd, loff_t ofs, uint64_t len)
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexey Korolev <akorolev@infradead.org>");
 MODULE_DESCRIPTION("MTD driver for LPDDR flash chips");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

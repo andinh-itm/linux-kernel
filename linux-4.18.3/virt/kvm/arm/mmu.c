@@ -2191,3 +2191,4 @@ void kvm_toggle_cache(struct kvm_vcpu *vcpu, bool was_enabled)
 
 	trace_kvm_toggle_cache(*vcpu_pc(vcpu), was_enabled, now_enabled);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

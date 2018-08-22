@@ -200,3 +200,4 @@ MODULE_AUTHOR("Anthony Olech <Anthony.Olech@diasemi.com>");
 MODULE_DESCRIPTION("DA9052 SM Device Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9052-watchdog");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

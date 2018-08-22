@@ -968,3 +968,4 @@ static struct pcmcia_driver lbs_driver = {
 	.id_table       = if_cs_ids,
 };
 module_pcmcia_driver(lbs_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

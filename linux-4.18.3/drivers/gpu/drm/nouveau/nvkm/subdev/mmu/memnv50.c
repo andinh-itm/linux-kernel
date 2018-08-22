@@ -86,3 +86,4 @@ nv50_mem_new(struct nvkm_mmu *mmu, int type, u8 page, u64 size,
 	return nvkm_ram_get(mmu->subdev.device, NVKM_RAM_MM_NORMAL, type,
 			    page, size, contig, false, pmemory);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

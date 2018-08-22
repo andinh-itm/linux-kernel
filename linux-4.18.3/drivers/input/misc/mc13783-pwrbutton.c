@@ -267,3 +267,4 @@ MODULE_ALIAS("platform:mc13783-pwrbutton");
 MODULE_DESCRIPTION("MC13783 Power Button");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Philippe Retornaz");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

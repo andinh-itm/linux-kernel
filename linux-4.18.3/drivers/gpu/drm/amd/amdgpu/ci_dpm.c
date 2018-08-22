@@ -6830,3 +6830,4 @@ static void ci_dpm_set_irq_funcs(struct amdgpu_device *adev)
 	adev->pm.dpm.thermal.irq.num_types = AMDGPU_THERMAL_IRQ_LAST;
 	adev->pm.dpm.thermal.irq.funcs = &ci_dpm_irq_funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

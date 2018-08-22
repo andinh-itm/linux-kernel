@@ -259,3 +259,4 @@ void print_bpf_insn(const struct bpf_insn_cbs *cbs,
 			insn->code, bpf_class_string[class]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

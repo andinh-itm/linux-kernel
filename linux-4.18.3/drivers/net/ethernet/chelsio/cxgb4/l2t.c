@@ -757,3 +757,4 @@ const struct file_operations t4_l2t_fops = {
 	.llseek = seq_lseek,
 	.release = seq_release,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

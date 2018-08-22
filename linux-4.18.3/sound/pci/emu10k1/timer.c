@@ -94,3 +94,4 @@ int snd_emu10k1_timer(struct snd_emu10k1 *emu, int device)
 	emu->timer = timer;
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -782,3 +782,4 @@ struct acpi_device *acpi_resource_consumer(struct resource *res)
 	acpi_get_devices(NULL, acpi_res_consumer_cb, res, (void **) &consumer);
 	return consumer;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

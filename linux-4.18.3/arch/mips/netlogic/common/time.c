@@ -108,3 +108,4 @@ void __init plat_time_init(void)
 	pr_info("MIPS counter frequency [%ld]\n",
 			(unsigned long)mips_hpt_frequency);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

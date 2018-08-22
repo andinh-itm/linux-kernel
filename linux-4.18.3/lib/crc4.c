@@ -44,3 +44,4 @@ EXPORT_SYMBOL_GPL(crc4);
 
 MODULE_DESCRIPTION("CRC4 calculations");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

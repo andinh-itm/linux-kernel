@@ -714,3 +714,4 @@ MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_DESCRIPTION("Freescale MXS LRADC touchscreen driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mxs-lradc-ts");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

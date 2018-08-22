@@ -392,3 +392,4 @@ int uvcg_video_init(struct uvc_video *video)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -117,3 +117,4 @@ define_machine(p1023_rdb) {
 	.pcibios_fixup_phb      = fsl_pcibios_fixup_phb,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

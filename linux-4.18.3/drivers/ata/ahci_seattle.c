@@ -208,3 +208,4 @@ MODULE_DESCRIPTION("Seattle AHCI SATA platform driver");
 MODULE_AUTHOR("Brijesh Singh <brijesh.singh@amd.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

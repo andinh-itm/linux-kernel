@@ -679,3 +679,4 @@ int perf_evlist__gtk_browse_hists(struct perf_evlist *evlist,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -265,3 +265,4 @@ int setup_avm_a1_pcmcia(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

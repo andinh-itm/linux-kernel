@@ -527,3 +527,4 @@ int s3fwrn5_fw_recv_frame(struct nci_dev *ndev, struct sk_buff *skb)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -569,3 +569,4 @@ module_i2c_driver(pca9532_driver);
 MODULE_AUTHOR("Riku Voipio");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("PCA 9532 LED dimmer");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

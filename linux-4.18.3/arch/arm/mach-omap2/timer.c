@@ -745,3 +745,4 @@ static int __init omap2_override_clocksource(char *str)
 	return 0;
 }
 early_param("clocksource", omap2_override_clocksource);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2182,3 +2182,4 @@ EXPORT_SYMBOL_GPL(cyttsp4_remove);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Cypress TrueTouch(R) Standard touchscreen core driver");
 MODULE_AUTHOR("Cypress");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -900,3 +900,4 @@ module_i2c_driver(tda18250_driver);
 MODULE_DESCRIPTION("NXP TDA18250 silicon tuner driver");
 MODULE_AUTHOR("Olli Salonen <olli.salonen@iki.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

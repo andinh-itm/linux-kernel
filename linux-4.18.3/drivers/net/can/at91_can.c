@@ -1415,3 +1415,4 @@ module_platform_driver(at91_can_driver);
 MODULE_AUTHOR("Marc Kleine-Budde <mkl@pengutronix.de>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION(KBUILD_MODNAME " CAN netdevice driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

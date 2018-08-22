@@ -1734,3 +1734,4 @@ module_comedi_pci_driver(adl_pci9118_driver, adl_pci9118_pci_driver);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi low-level driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

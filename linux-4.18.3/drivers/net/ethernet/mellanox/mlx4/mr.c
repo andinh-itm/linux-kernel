@@ -1154,3 +1154,4 @@ int mlx4_SYNC_TPT(struct mlx4_dev *dev)
 			MLX4_CMD_TIME_CLASS_A, MLX4_CMD_NATIVE);
 }
 EXPORT_SYMBOL_GPL(mlx4_SYNC_TPT);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

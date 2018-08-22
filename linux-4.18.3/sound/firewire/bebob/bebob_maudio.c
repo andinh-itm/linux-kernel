@@ -795,3 +795,4 @@ const struct snd_bebob_spec maudio_nrv10_spec = {
 	.rate	= &usual_rate_spec,
 	.meter	= &nrv10_meter_spec
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

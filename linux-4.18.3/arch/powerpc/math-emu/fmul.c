@@ -44,3 +44,4 @@ fmul(void *frD, void *frA, void *frB)
 
 	return FP_CUR_EXCEPTIONS;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

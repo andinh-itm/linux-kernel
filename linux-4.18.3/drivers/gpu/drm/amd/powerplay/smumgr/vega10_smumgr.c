@@ -478,3 +478,4 @@ const struct pp_smumgr_func vega10_smu_funcs = {
 	.get_argument = vega10_get_argument,
 	.smc_table_manager = vega10_smc_table_manager,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -453,3 +453,4 @@ int ixp4xx_setup(int nr, struct pci_sys_data *sys)
 
 EXPORT_SYMBOL(ixp4xx_pci_read);
 EXPORT_SYMBOL(ixp4xx_pci_write);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

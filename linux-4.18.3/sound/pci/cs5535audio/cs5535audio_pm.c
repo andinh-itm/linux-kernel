@@ -113,3 +113,4 @@ static int __maybe_unused snd_cs5535audio_resume(struct device *dev)
 }
 
 SIMPLE_DEV_PM_OPS(snd_cs5535audio_pm, snd_cs5535audio_suspend, snd_cs5535audio_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

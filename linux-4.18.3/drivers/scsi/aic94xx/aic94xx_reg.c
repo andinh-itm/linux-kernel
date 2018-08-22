@@ -329,3 +329,4 @@ void asd_write_reg_string(struct asd_ha_struct *asd_ha, void *src,
 		__asd_write_reg_byte(asd_ha, offs, *p);
 	spin_unlock_irqrestore(&asd_ha->iolock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

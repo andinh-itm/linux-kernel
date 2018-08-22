@@ -422,3 +422,4 @@ const struct ieee80211_ops mt7601u_ops = {
 	.sta_rate_tbl_update = mt76_sta_rate_tbl_update,
 	.set_rts_threshold = mt7601u_set_rts_threshold,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

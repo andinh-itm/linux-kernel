@@ -1525,3 +1525,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Camellia Cipher Algorithm, asm optimized");
 MODULE_ALIAS_CRYPTO("camellia");
 MODULE_ALIAS_CRYPTO("camellia-asm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

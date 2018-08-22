@@ -672,3 +672,4 @@ static int __init at91_pm_modes_select(char *str)
 	return 0;
 }
 early_param("atmel.pm_modes", at91_pm_modes_select);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

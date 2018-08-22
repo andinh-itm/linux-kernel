@@ -184,3 +184,4 @@ int test__insn_x86(struct test *test __maybe_unused, int subtest __maybe_unused)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

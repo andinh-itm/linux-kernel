@@ -1508,3 +1508,4 @@ module_platform_driver(pxad_driver);
 MODULE_DESCRIPTION("Marvell PXA Peripheral DMA Driver");
 MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

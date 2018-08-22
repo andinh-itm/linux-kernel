@@ -221,3 +221,4 @@ int emac_sgmii_init_qdf2400(struct emac_adapter *adpt)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

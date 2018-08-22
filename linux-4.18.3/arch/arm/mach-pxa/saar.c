@@ -605,3 +605,4 @@ MACHINE_START(SAAR, "PXA930 Handheld Platform (aka SAAR)")
 	.init_machine   = saar_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

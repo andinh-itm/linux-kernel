@@ -77,3 +77,4 @@ void __init init_kn02_irqs(int base)
 
 	kn02_irq_base = base;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

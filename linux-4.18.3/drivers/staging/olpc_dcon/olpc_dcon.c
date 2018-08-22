@@ -819,3 +819,4 @@ module_init(olpc_dcon_init);
 module_exit(olpc_dcon_exit);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

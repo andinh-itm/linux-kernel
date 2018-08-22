@@ -130,3 +130,4 @@ static int __init u300_init_boardpower(void)
 }
 
 device_initcall(u300_init_boardpower);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

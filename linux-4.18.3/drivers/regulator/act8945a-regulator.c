@@ -163,3 +163,4 @@ module_platform_driver(act8945a_pmic_driver);
 MODULE_DESCRIPTION("Active-semi ACT8945A voltage regulator driver");
 MODULE_AUTHOR("Wenyou Yang <wenyou.yang@atmel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

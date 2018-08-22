@@ -336,3 +336,4 @@ EXPORT_SYMBOL(st_slim_rproc_put);
 MODULE_AUTHOR("Peter Griffin <peter.griffin@linaro.org>");
 MODULE_DESCRIPTION("STMicroelectronics SLIM core rproc driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

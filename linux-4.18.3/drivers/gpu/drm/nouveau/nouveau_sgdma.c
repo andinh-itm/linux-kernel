@@ -105,3 +105,4 @@ nouveau_sgdma_create_ttm(struct ttm_buffer_object *bo, uint32_t page_flags)
 		return NULL;
 	return &nvbe->ttm.ttm;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

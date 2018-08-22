@@ -1578,3 +1578,4 @@ module_platform_driver(stm32_hash_driver);
 MODULE_DESCRIPTION("STM32 SHA1/224/256 & MD5 (HMAC) hw accelerator driver");
 MODULE_AUTHOR("Lionel Debieve <lionel.debieve@st.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

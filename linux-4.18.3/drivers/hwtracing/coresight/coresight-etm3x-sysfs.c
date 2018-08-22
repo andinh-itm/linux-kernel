@@ -1263,3 +1263,4 @@ const struct attribute_group *coresight_etm_groups[] = {
 	&coresight_etm_mgmt_group,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

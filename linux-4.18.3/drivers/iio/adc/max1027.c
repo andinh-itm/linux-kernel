@@ -509,3 +509,4 @@ module_spi_driver(max1027_driver);
 MODULE_AUTHOR("Philippe Reynes <tremyfr@yahoo.fr>");
 MODULE_DESCRIPTION("MAX1027/MAX1029/MAX1031 ADC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

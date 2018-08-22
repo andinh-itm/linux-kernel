@@ -182,3 +182,4 @@ static void __init armada_375_clk_gating_init(struct device_node *np)
 }
 CLK_OF_DECLARE(armada_375_clk_gating, "marvell,armada-375-gating-clock",
 	       armada_375_clk_gating_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

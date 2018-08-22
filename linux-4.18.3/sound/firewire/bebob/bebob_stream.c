@@ -1003,3 +1003,4 @@ void snd_bebob_stream_lock_release(struct snd_bebob *bebob)
 end:
 	spin_unlock_irq(&bebob->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

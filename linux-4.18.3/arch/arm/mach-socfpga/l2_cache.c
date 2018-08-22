@@ -88,3 +88,4 @@ void socfpga_init_arria10_l2_ecc(void)
 exit:
 	iounmap(mapped_l2_edac_addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

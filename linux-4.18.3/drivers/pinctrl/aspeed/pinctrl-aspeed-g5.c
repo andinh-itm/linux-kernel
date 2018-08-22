@@ -2583,3 +2583,4 @@ static int aspeed_g5_pinctrl_init(void)
 }
 
 arch_initcall(aspeed_g5_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

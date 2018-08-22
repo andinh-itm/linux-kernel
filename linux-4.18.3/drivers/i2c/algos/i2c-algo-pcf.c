@@ -430,3 +430,4 @@ MODULE_LICENSE("GPL");
 module_param(i2c_debug, int, S_IRUGO | S_IWUSR);
 MODULE_PARM_DESC(i2c_debug,
 	"debug level - 0 off; 1 normal; 2,3 more verbose; 9 pcf-protocol");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

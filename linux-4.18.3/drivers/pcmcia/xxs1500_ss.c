@@ -325,3 +325,4 @@ module_platform_driver(xxs1500_pcmcia_socket_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("PCMCIA Socket Services for MyCable XXS1500 systems");
 MODULE_AUTHOR("Manuel Lauss");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

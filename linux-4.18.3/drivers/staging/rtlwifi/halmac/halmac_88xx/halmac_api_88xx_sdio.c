@@ -961,3 +961,4 @@ u32 halmac_reg_read_indirect_32_sdio_88xx(struct halmac_adapter *halmac_adapter,
 
 	return value32.dword;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

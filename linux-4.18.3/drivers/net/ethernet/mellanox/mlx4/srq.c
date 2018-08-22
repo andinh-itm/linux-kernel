@@ -307,3 +307,4 @@ struct mlx4_srq *mlx4_srq_lookup(struct mlx4_dev *dev, u32 srqn)
 	return srq;
 }
 EXPORT_SYMBOL_GPL(mlx4_srq_lookup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

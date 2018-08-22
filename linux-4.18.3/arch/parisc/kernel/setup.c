@@ -424,3 +424,4 @@ void __init start_parisc(void)
 	start_kernel();
 	// not reached
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

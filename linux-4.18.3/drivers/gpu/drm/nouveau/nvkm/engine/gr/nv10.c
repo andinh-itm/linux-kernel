@@ -1219,3 +1219,4 @@ nv10_gr_new(struct nvkm_device *device, int index, struct nvkm_gr **pgr)
 {
 	return nv10_gr_new_(&nv10_gr, device, index, pgr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

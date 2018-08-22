@@ -1560,3 +1560,4 @@ MODULE_ALIAS("platform:cpcap-codec");
 MODULE_DESCRIPTION("ASoC CPCAP codec driver");
 MODULE_AUTHOR("Sebastian Reichel");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

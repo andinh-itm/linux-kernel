@@ -805,3 +805,4 @@ struct device_attribute *pm8001_host_attrs[] = {
 	NULL,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

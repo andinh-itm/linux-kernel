@@ -3517,3 +3517,4 @@ int slvt_freeze_reg(struct cxd2880_tnrdmd *tnr_dmd)
 				      CXD2880_IO_TGT_DMD,
 				      0x01, 0x01);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -127,3 +127,4 @@ void decompress_kernel(unsigned long boot_heap_start)
 	/* FIXME: should we flush cache here? */
 	puts("Now, booting the kernel...\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

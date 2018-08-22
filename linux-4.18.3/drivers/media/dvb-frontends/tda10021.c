@@ -526,3 +526,4 @@ MODULE_AUTHOR("Ralph Metzler, Holger Waechtler, Markus Schulz");
 MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(tda10021_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

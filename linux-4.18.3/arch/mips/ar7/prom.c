@@ -266,3 +266,4 @@ int prom_putchar(char c)
 	serial_out(UART_TX, c);
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

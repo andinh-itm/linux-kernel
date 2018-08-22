@@ -333,3 +333,4 @@ MODULE_LICENSE("GPL");
 
 module_init(pcf8591_init);
 module_exit(pcf8591_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

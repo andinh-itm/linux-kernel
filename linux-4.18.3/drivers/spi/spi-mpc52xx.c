@@ -549,3 +549,4 @@ static struct platform_driver mpc52xx_spi_of_driver = {
 	.remove = mpc52xx_spi_remove,
 };
 module_platform_driver(mpc52xx_spi_of_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

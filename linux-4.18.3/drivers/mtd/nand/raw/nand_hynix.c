@@ -674,3 +674,4 @@ const struct nand_manufacturer_ops hynix_nand_manuf_ops = {
 	.init = hynix_nand_init,
 	.cleanup = hynix_nand_cleanup,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

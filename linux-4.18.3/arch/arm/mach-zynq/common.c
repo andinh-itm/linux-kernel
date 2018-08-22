@@ -204,3 +204,4 @@ DT_MACHINE_START(XILINX_EP107, "Xilinx Zynq Platform")
 	.dt_compat	= zynq_dt_match,
 	.reserve	= zynq_memory_init,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

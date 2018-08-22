@@ -1351,3 +1351,4 @@ static int __init stm32_dma_init(void)
 	return platform_driver_probe(&stm32_dma_driver, stm32_dma_probe);
 }
 subsys_initcall(stm32_dma_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -878,3 +878,4 @@ void __init hpte_init_native(void)
 	mmu_hash_ops.flush_hash_range = native_flush_hash_range;
 	mmu_hash_ops.hugepage_invalidate   = native_hugepage_invalidate;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

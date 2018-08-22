@@ -445,3 +445,4 @@ static const struct i2c_adapter i2c_adap_template = {
 	.owner = THIS_MODULE,
 	.name              = "usbvision",
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

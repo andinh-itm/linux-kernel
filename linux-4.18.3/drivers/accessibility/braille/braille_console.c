@@ -391,3 +391,4 @@ int braille_unregister_console(struct console *console)
 	braille_co = NULL;
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

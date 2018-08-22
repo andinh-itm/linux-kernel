@@ -582,3 +582,4 @@ void gb_control_mode_switch_complete(struct gb_control *control)
 {
 	gb_connection_mode_switch_complete(control->connection);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

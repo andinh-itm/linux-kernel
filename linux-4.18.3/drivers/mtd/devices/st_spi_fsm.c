@@ -2174,3 +2174,4 @@ module_platform_driver(stfsm_driver);
 MODULE_AUTHOR("Angus Clark <angus.clark@st.com>");
 MODULE_DESCRIPTION("ST SPI FSM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

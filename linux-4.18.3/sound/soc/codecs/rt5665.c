@@ -4981,3 +4981,4 @@ module_i2c_driver(rt5665_i2c_driver);
 MODULE_DESCRIPTION("ASoC RT5665 driver");
 MODULE_AUTHOR("Bard Liao <bardliao@realtek.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

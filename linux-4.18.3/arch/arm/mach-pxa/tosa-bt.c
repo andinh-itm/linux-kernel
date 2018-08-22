@@ -136,3 +136,4 @@ module_platform_driver(tosa_bt_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Dmitry Baryshkov");
 MODULE_DESCRIPTION("Bluetooth built-in chip control");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

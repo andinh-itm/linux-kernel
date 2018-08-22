@@ -80,3 +80,4 @@ gf119_hdmi_ctrl(struct nvkm_ior *ior, int head, bool enable, u8 max_ac_packet,
 	/* HDMI_CTRL */
 	nvkm_mask(device, 0x616798 + hoff, 0x401f007f, ctrl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

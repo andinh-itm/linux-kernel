@@ -337,3 +337,4 @@ void brcmu_dbg_hex_dump(const void *data, size_t size, const char *fmt, ...)
 EXPORT_SYMBOL(brcmu_dbg_hex_dump);
 
 #endif				/* defined(DEBUG) */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

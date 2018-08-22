@@ -301,3 +301,4 @@ MODULE_AUTHOR("Andreas Klinger <ak@it-klinger.de>");
 MODULE_DESCRIPTION("SRF04 ultrasonic sensor for distance measuring using GPIOs");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:srf04");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -410,3 +410,4 @@ MACHINE_START(OSIRIS, "Simtec-OSIRIS")
 	.init_machine	= osiris_init,
 	.init_time	= osiris_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -101,3 +101,4 @@ int detect_extended_topology(struct cpuinfo_x86 *c)
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -475,3 +475,4 @@ int ide_cdrom_packet(struct cdrom_device_info *cdi,
 		cgc->buflen -= len;
 	return cgc->stat;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

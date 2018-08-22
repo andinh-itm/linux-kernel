@@ -319,3 +319,4 @@ module_exit(cleanup_phram);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Joern Engel <joern@wh.fh-wedel.de>");
 MODULE_DESCRIPTION("MTD driver for physical RAM");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

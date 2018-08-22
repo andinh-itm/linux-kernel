@@ -161,3 +161,4 @@ void EnableRamdacOutput(volatile STG4000REG __iomem * pSTGReg)
 	tmp = (STG_READ_REG(DACStreamCtrl)) | SET_BIT(0);
 	STG_WRITE_REG(DACStreamCtrl, tmp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

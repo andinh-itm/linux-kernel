@@ -101,3 +101,4 @@ void nfit_mce_unregister(void)
 {
 	mce_unregister_decode_chain(&nfit_mce_dec);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

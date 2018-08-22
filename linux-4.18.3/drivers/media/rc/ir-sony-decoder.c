@@ -246,3 +246,4 @@ module_exit(ir_sony_decode_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("David Härdeman <david@hardeman.nu>");
 MODULE_DESCRIPTION("Sony IR protocol decoder");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

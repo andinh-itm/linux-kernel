@@ -40,3 +40,4 @@ module_spi_driver(es8328_spi_driver);
 MODULE_DESCRIPTION("ASoC ES8328 audio CODEC SPI driver");
 MODULE_AUTHOR("Sean Cross <xobs@kosagi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

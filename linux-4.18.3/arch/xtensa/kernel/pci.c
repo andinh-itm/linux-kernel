@@ -214,3 +214,4 @@ int pci_iobar_pfn(struct pci_dev *pdev, int bar, struct vm_area_struct *vma)
 	vma->vm_pgoff += (ioaddr + pci_ctrl->io_space.start) >> PAGE_SHIFT;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

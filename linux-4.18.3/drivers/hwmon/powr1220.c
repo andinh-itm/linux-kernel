@@ -389,3 +389,4 @@ module_i2c_driver(powr1220_driver);
 MODULE_AUTHOR("Scott Kanowitz");
 MODULE_DESCRIPTION("POWR1220 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

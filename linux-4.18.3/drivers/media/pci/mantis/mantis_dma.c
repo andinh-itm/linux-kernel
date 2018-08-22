@@ -226,3 +226,4 @@ void mantis_dma_xfer(unsigned long data)
 		mantis->last_block = (mantis->last_block + 1) % MANTIS_BLOCK_COUNT;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

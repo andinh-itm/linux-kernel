@@ -4127,3 +4127,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Cadence MACB/GEM Ethernet driver");
 MODULE_AUTHOR("Haavard Skinnemoen (Atmel)");
 MODULE_ALIAS("platform:macb");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

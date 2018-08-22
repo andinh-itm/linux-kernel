@@ -194,3 +194,4 @@ void __init arch_init_irq(void)
 	mips_cpu_irq_init();
 	ls1x_irq_init(LS1X_IRQ_BASE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

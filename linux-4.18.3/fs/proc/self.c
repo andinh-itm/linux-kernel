@@ -71,3 +71,4 @@ void __init proc_self_init(void)
 {
 	proc_alloc_inum(&self_inum);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

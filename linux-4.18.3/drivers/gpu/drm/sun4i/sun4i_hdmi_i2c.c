@@ -319,3 +319,4 @@ int sun4i_hdmi_i2c_create(struct device *dev, struct sun4i_hdmi *hdmi)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

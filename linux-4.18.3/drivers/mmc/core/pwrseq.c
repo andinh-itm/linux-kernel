@@ -116,3 +116,4 @@ void mmc_pwrseq_unregister(struct mmc_pwrseq *pwrseq)
 	}
 }
 EXPORT_SYMBOL_GPL(mmc_pwrseq_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

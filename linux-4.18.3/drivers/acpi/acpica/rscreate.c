@@ -443,3 +443,4 @@ acpi_rs_create_aml_resources(struct acpi_buffer *resource_list,
 			  output_buffer->pointer, (u32) output_buffer->length));
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

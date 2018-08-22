@@ -621,3 +621,4 @@ struct device_attribute *zfcp_sysfs_shost_attrs[] = {
 	&dev_attr_queue_full,
 	NULL
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

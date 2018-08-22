@@ -53,3 +53,4 @@ void perf_evsel__free_counts(struct perf_evsel *evsel)
 	perf_counts__delete(evsel->counts);
 	evsel->counts = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

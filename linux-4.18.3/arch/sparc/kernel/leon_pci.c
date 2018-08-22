@@ -87,3 +87,4 @@ int pcibios_enable_device(struct pci_dev *dev, int mask)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

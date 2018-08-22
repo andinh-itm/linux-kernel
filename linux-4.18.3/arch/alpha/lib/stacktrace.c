@@ -101,3 +101,4 @@ stacktrace(void)
 		prologue = seek_prologue(ret_pc);
 	} while (IS_KERNEL_TEXT(ret_pc));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

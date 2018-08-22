@@ -228,3 +228,4 @@ void thermal_gov_step_wise_unregister(void)
 {
 	thermal_unregister_governor(&thermal_gov_step_wise);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

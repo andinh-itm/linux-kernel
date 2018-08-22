@@ -76,3 +76,4 @@ int uvd_v4_2_resume(struct radeon_device *rdev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

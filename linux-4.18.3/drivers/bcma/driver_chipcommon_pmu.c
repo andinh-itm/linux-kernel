@@ -660,3 +660,4 @@ void bcma_pmu_spuravoid_pllupdate(struct bcma_drv_cc *cc, int spuravoid)
 	bcma_pmu_write32(cc, BCMA_CC_PMU_CTL, tmp);
 }
 EXPORT_SYMBOL_GPL(bcma_pmu_spuravoid_pllupdate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

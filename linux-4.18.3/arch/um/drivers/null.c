@@ -49,3 +49,4 @@ const struct chan_ops null_ops = {
 	.free		= null_free,
 	.winch		= 0,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -18,3 +18,4 @@ void __init highlander_plat_pinmux_setup(void)
 	gpio_request(GPIO_FN_SCIF0_RXD, NULL);
 	gpio_request(GPIO_FN_SCIF0_TXD, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

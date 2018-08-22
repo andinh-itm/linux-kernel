@@ -580,3 +580,4 @@ MODULE_AUTHOR("Peter Korsgaard <jacmet@sunsite.dk>");
 MODULE_DESCRIPTION("OpenCores I2C bus driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ocores-i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

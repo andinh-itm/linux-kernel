@@ -705,3 +705,4 @@ EXPORT_SYMBOL_GPL(uniphier_aio_remove);
 MODULE_AUTHOR("Katsuhiro Suzuki <suzuki.katsuhiro@socionext.com>");
 MODULE_DESCRIPTION("UniPhier AIO CPU DAI driver.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

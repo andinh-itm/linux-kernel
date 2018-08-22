@@ -418,3 +418,4 @@ int ast_mmap(struct file *filp, struct vm_area_struct *vma)
 	ast = file_priv->minor->dev->dev_private;
 	return ttm_bo_mmap(filp, vma, &ast->ttm.bdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

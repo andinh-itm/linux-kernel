@@ -2028,3 +2028,4 @@ MODULE_AUTHOR("Fox Chen <mhchen@golf.ccl.itri.org.tw>, "
 	      "Gustavo Niemeyer <niemeyer@conectiva.com>");
 MODULE_DESCRIPTION("Planet wl3501 wireless driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

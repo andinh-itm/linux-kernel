@@ -7060,3 +7060,4 @@ void brcmf_cfg80211_detach(struct brcmf_cfg80211_info *cfg)
 	brcmf_free_wiphy(cfg->wiphy);
 	kfree(cfg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

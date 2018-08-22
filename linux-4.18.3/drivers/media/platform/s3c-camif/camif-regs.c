@@ -604,3 +604,4 @@ void camif_hw_dump_regs(struct camif_dev *camif, const char *label)
 		dev_info(camif->dev, "%s:\t0x%08x\n", registers[i].name, cfg);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

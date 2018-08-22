@@ -900,3 +900,4 @@ module_platform_driver(ti_abb_driver);
 MODULE_DESCRIPTION("Texas Instruments ABB LDO regulator driver");
 MODULE_AUTHOR("Texas Instruments Inc.");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

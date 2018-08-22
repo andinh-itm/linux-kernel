@@ -1755,3 +1755,4 @@ module_exit(gcc_mdm9615_exit);
 MODULE_DESCRIPTION("QCOM GCC MDM9615 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:gcc-mdm9615");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

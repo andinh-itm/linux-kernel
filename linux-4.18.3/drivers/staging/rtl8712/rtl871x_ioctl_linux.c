@@ -2335,3 +2335,4 @@ struct iw_handler_def r871x_handlers_def = {
 			    sizeof(struct iw_priv_args),
 	.get_wireless_stats = r871x_get_wireless_stats
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

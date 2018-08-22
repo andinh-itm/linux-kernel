@@ -49,3 +49,4 @@ int mx25_revision(void)
 	return mx25_cpu_rev;
 }
 EXPORT_SYMBOL(mx25_revision);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

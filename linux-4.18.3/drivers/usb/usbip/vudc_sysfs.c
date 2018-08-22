@@ -219,3 +219,4 @@ const struct attribute_group vudc_attr_group = {
 	.attrs = dev_attrs,
 	.bin_attrs = dev_bin_attrs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

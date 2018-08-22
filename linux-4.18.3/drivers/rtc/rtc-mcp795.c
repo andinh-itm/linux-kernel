@@ -455,3 +455,4 @@ MODULE_DESCRIPTION("MCP795 RTC SPI Driver");
 MODULE_AUTHOR("Josef Gajdusek <atx@atx.name>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:mcp795");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

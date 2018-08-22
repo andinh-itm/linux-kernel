@@ -562,3 +562,4 @@ static void __exit alsa_virmidi_exit(void)
 
 module_init(alsa_virmidi_init)
 module_exit(alsa_virmidi_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

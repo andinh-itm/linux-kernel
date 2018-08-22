@@ -84,3 +84,4 @@ int mod_verify_sig(const void *mod, unsigned long *_modlen)
 				      NULL, VERIFYING_MODULE_SIGNATURE,
 				      NULL, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

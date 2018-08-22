@@ -381,3 +381,4 @@ module_exit(tca6416_keypad_exit);
 MODULE_AUTHOR("Sriramakrishnan <srk@ti.com>");
 MODULE_DESCRIPTION("Keypad driver over tca6146 IO expander");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

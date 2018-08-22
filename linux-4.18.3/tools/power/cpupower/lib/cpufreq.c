@@ -714,3 +714,4 @@ unsigned long cpufreq_get_transitions(unsigned int cpu)
 {
 	return sysfs_cpufreq_get_one_value(cpu, STATS_NUM_TRANSITIONS);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

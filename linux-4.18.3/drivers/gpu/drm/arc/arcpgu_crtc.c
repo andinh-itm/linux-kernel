@@ -249,3 +249,4 @@ int arc_pgu_setup_crtc(struct drm_device *drm)
 	drm_crtc_helper_add(&arcpgu->crtc, &arc_pgu_crtc_helper_funcs);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

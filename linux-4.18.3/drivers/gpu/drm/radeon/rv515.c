@@ -1301,3 +1301,4 @@ void rv515_bandwidth_update(struct radeon_device *rdev)
 	}
 	rv515_bandwidth_avivo_update(rdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

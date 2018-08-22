@@ -3104,3 +3104,4 @@ module_i2c_driver(wm8996_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8996 driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

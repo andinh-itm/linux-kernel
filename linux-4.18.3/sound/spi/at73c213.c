@@ -1129,3 +1129,4 @@ module_spi_driver(at73c213_driver);
 MODULE_AUTHOR("Hans-Christian Egtvedt <egtvedt@samfundet.no>");
 MODULE_DESCRIPTION("Sound driver for AT73C213 with Atmel SSC");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -885,3 +885,4 @@ struct platform_driver omapdss_hdmi4hw_driver = {
 		.suppress_bind_attrs = true,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

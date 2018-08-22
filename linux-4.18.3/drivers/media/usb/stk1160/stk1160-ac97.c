@@ -163,3 +163,4 @@ void stk1160_ac97_setup(struct stk1160 *dev)
 	stk1160_ac97_dump_regs(dev);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

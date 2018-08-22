@@ -467,3 +467,4 @@ module_platform_driver(xlp_spi_driver);
 MODULE_AUTHOR("Kamlakant Patel <kamlakant.patel@broadcom.com>");
 MODULE_DESCRIPTION("Netlogic XLP SPI controller driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

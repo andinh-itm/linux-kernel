@@ -4236,3 +4236,4 @@ static void qlcnic_83xx_io_resume(struct pci_dev *pdev)
 	if (test_and_clear_bit(__QLCNIC_AER, &adapter->state))
 		qlcnic_83xx_aer_start_poll_work(adapter);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

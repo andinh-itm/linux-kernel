@@ -587,3 +587,4 @@ int ast_vhub_init_dev(struct ast_vhub *vhub, unsigned int idx)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

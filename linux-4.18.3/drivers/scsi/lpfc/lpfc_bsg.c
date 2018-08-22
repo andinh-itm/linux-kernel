@@ -5522,3 +5522,4 @@ lpfc_bsg_timeout(struct bsg_job *job)
 	 */
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

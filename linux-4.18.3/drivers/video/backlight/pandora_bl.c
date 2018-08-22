@@ -163,3 +163,4 @@ MODULE_AUTHOR("Gražvydas Ignotas <notasas@gmail.com>");
 MODULE_DESCRIPTION("Pandora Backlight Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pandora-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -87,3 +87,4 @@ struct platform_device *__init imx_add_imx_ssi(
 			res, ARRAY_SIZE(res),
 			pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

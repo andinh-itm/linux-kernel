@@ -868,3 +868,4 @@ void menu_get_ext_help(struct menu *menu, struct gstr *help)
 	if (sym)
 		get_symbol_str(help, sym, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

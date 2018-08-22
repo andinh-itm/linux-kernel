@@ -1404,3 +1404,4 @@ umode_t beiscsi_attr_is_visible(int param_type, int param)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

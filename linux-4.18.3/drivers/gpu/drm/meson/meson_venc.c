@@ -1852,3 +1852,4 @@ void meson_venc_init(struct meson_drm *priv)
 
 	priv->venc.current_mode = MESON_VENC_MODE_NONE;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

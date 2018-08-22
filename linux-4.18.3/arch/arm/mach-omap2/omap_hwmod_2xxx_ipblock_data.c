@@ -741,3 +741,4 @@ struct omap_hwmod omap2xxx_aes_hwmod = {
 	},
 	.class		= &omap2xxx_aes_class,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

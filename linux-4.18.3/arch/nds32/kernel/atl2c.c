@@ -62,3 +62,4 @@ static int __init atl2c_of_init(void)
 }
 
 subsys_initcall(atl2c_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

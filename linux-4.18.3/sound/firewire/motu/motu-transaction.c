@@ -135,3 +135,4 @@ void snd_motu_transaction_unregister(struct snd_motu *motu)
 	snd_motu_transaction_write(motu, ASYNC_ADDR_HI, &data, sizeof(data));
 	snd_motu_transaction_write(motu, ASYNC_ADDR_LO, &data, sizeof(data));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -886,3 +886,4 @@ module_exit(ppdev_cleanup);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_CHARDEV_MAJOR(PP_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

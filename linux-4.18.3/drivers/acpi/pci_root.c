@@ -940,3 +940,4 @@ void __init acpi_pci_root_init(void)
 	pci_acpi_crs_quirks();
 	acpi_scan_add_handler_with_hotplug(&pci_root_handler, "pci_root");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

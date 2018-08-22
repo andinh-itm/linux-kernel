@@ -119,3 +119,4 @@ void setup_clear_cpu_cap(unsigned int feature)
 {
 	do_clear_cpu_cap(NULL, feature);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

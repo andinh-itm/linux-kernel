@@ -213,3 +213,4 @@ void radeonfb_bl_exit(struct radeonfb_info *rinfo)
 		printk("radeonfb: Backlight unloaded\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

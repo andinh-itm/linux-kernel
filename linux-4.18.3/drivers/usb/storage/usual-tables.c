@@ -106,3 +106,4 @@ int usb_usual_ignore_device(struct usb_interface *intf)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

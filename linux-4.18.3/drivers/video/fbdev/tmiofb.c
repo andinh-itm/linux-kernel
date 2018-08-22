@@ -1046,3 +1046,4 @@ module_exit(tmiofb_cleanup);
 MODULE_DESCRIPTION("TMIO framebuffer driver");
 MODULE_AUTHOR("Chris Humbert, Dirk Opfer, Dmitry Baryshkov");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

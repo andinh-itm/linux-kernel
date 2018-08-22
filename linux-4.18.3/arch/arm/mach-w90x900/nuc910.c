@@ -60,3 +60,4 @@ void __init nuc910_board_init(void)
 {
 	nuc900_board_init(nuc910_dev, ARRAY_SIZE(nuc910_dev));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

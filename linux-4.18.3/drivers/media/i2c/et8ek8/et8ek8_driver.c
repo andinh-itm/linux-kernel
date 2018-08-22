@@ -1521,3 +1521,4 @@ module_i2c_driver(et8ek8_i2c_driver);
 MODULE_AUTHOR("Sakari Ailus <sakari.ailus@iki.fi>, Pavel Machek <pavel@ucw.cz");
 MODULE_DESCRIPTION("Toshiba ET8EK8 camera sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

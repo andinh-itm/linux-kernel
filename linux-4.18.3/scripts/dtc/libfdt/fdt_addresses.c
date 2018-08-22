@@ -94,3 +94,4 @@ int fdt_size_cells(const void *fdt, int nodeoffset)
 
 	return val;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

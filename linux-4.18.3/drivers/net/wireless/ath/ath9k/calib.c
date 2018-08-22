@@ -481,3 +481,4 @@ void ath9k_hw_bstuck_nfcal(struct ath_hw *ah)
 }
 EXPORT_SYMBOL(ath9k_hw_bstuck_nfcal);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

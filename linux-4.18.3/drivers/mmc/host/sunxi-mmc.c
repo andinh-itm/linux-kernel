@@ -1490,3 +1490,4 @@ MODULE_DESCRIPTION("Allwinner's SD/MMC Card Controller Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("David Lanzendörfer <david.lanzendoerfer@o2s.ch>");
 MODULE_ALIAS("platform:sunxi-mmc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

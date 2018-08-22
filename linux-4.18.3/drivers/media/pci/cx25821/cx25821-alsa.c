@@ -827,3 +827,4 @@ static int cx25821_alsa_init(void)
 
 late_initcall(cx25821_alsa_init);
 module_exit(cx25821_audio_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

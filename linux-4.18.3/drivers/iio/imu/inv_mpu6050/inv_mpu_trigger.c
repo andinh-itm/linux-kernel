@@ -166,3 +166,4 @@ int inv_mpu6050_probe_trigger(struct iio_dev *indio_dev, int irq_type)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

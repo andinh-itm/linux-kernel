@@ -56,3 +56,4 @@ module_hid_driver(jabra_driver);
 MODULE_AUTHOR("Niels Skou Olsen <nolsen@jabra.com>");
 MODULE_DESCRIPTION("Jabra USB HID Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

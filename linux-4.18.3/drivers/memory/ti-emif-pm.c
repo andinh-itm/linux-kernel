@@ -321,3 +321,4 @@ module_platform_driver(ti_emif_driver);
 MODULE_AUTHOR("Dave Gerlach <d-gerlach@ti.com>");
 MODULE_DESCRIPTION("Texas Instruments SRAM EMIF driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

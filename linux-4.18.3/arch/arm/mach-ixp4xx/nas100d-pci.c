@@ -73,3 +73,4 @@ int __init nas100d_pci_init(void)
 }
 
 subsys_initcall(nas100d_pci_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

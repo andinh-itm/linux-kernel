@@ -1064,3 +1064,4 @@ void hgpk_module_init(void)
 			sizeof(hgpk_mode_name));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -153,3 +153,4 @@ static int __init integrator_soc_init(void)
 	return 0;
 }
 device_initcall(integrator_soc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -47,3 +47,4 @@ module_init(boca_init);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("8250 serial probe module for Boca cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

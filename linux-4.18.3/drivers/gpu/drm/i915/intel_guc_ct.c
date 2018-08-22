@@ -903,3 +903,4 @@ void intel_guc_ct_disable(struct intel_guc_ct *ct)
 	guc->handler = intel_guc_to_host_event_handler_nop;
 	DRM_INFO("CT: %s\n", enableddisabled(false));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

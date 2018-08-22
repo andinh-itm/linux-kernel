@@ -218,3 +218,4 @@ static int __init sun4i_timer_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(sun4i, "allwinner,sun4i-a10-timer",
 		       sun4i_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

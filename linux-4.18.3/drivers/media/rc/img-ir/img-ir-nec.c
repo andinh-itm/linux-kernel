@@ -175,3 +175,4 @@ struct img_ir_decoder img_ir_nec = {
 	.scancode = img_ir_nec_scancode,
 	.filter = img_ir_nec_filter,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

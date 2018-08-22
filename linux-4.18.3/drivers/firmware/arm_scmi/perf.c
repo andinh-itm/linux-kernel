@@ -479,3 +479,4 @@ static int __init scmi_perf_init(void)
 				      &scmi_perf_protocol_init);
 }
 subsys_initcall(scmi_perf_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

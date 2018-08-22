@@ -817,3 +817,4 @@ void mlx4_free_hwq_res(struct mlx4_dev *dev, struct mlx4_hwq_resources *wqres,
 	mlx4_db_free(dev, &wqres->db);
 }
 EXPORT_SYMBOL_GPL(mlx4_free_hwq_res);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

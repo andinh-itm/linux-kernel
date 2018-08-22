@@ -1380,3 +1380,4 @@ void clkdm_restore_context(void)
 {
 	clkdm_for_each(_clkdm_restore_context, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

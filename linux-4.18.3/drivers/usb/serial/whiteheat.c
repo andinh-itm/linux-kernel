@@ -836,3 +836,4 @@ MODULE_LICENSE("GPL");
 
 MODULE_FIRMWARE("whiteheat.fw");
 MODULE_FIRMWARE("whiteheat_loader.fw");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

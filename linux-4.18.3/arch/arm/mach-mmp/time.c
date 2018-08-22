@@ -237,3 +237,4 @@ out:
 	pr_err("Failed to get timer from device tree with error:%d\n", ret);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

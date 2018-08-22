@@ -321,3 +321,4 @@ int nfp_nffw_info_mip_first(struct nfp_nffw_info *state, u32 *cpp_id, u64 *off)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -398,3 +398,4 @@ void __init tegra_init_suspend(void)
 	suspend_set_ops(&tegra_suspend_ops);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

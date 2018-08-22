@@ -95,3 +95,4 @@ void af_nfc_exit(void)
 {
 	sock_unregister(PF_NFC);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

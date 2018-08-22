@@ -2332,3 +2332,4 @@ void wilc_free_wiphy(struct net_device *net)
 	wiphy_free(net->ieee80211_ptr->wiphy);
 	kfree(net->ieee80211_ptr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1430,3 +1430,4 @@ void kvm_reset_coprocs(struct kvm_vcpu *vcpu)
 		if (vcpu_cp15(vcpu, num) == 0x42424242)
 			panic("Didn't reset vcpu_cp15(vcpu, %zi)", num);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

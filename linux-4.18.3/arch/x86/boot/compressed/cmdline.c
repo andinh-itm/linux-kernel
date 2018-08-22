@@ -32,3 +32,4 @@ int cmdline_find_option_bool(const char *option)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

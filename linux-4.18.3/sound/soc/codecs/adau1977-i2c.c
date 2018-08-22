@@ -49,3 +49,4 @@ module_i2c_driver(adau1977_i2c_driver);
 MODULE_DESCRIPTION("ASoC ADAU1977/ADAU1978/ADAU1979 driver");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

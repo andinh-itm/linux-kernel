@@ -606,3 +606,4 @@ module_platform_driver(axxia_i2c_driver);
 MODULE_DESCRIPTION("Axxia I2C Bus driver");
 MODULE_AUTHOR("Anders Berg <anders.berg@lsi.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -323,3 +323,4 @@ const struct ttm_mem_type_manager_func amdgpu_vram_mgr_func = {
 	.put_node	= amdgpu_vram_mgr_del,
 	.debug		= amdgpu_vram_mgr_debug
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

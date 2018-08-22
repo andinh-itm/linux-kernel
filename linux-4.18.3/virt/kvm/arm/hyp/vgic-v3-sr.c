@@ -1127,3 +1127,4 @@ int __hyp_text __vgic_v3_perform_cpuif_access(struct kvm_vcpu *vcpu)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

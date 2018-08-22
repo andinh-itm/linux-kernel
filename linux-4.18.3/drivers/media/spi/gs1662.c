@@ -474,3 +474,4 @@ module_spi_driver(gs_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Charles-Antoine Couret <charles-antoine.couret@nexvision.fr>");
 MODULE_DESCRIPTION("Gennum GS1662 HD/SD-SDI Serializer driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

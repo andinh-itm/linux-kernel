@@ -205,3 +205,4 @@ void __init reserve_crashkernel(void)
 disable:
 	crashk_res.start = crashk_res.end = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

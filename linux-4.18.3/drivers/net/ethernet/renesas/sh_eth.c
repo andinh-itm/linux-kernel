@@ -3470,3 +3470,4 @@ module_platform_driver(sh_eth_driver);
 MODULE_AUTHOR("Nobuhiro Iwamatsu, Yoshihiro Shimoda");
 MODULE_DESCRIPTION("Renesas SuperH Ethernet driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

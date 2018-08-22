@@ -1600,3 +1600,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("Peter Hong <Peter_Hong@fintek.com.tw>");
 MODULE_AUTHOR("Tom Tsai <Tom_Tsai@fintek.com.tw>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -898,3 +898,4 @@ void stmmac_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &stmmac_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

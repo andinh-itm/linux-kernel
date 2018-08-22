@@ -600,3 +600,4 @@ static void mt9m111_dump_registers(struct sd *sd)
 
 	pr_info("mt9m111 register state dump complete\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

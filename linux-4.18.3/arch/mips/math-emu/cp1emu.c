@@ -2927,3 +2927,4 @@ int fpu_emulator_cop1Handler(struct pt_regs *xcp, struct mips_fpu_struct *ctx,
 
 	return sig;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1329,3 +1329,4 @@ int bm2835_mmal_init_controls(struct bm2835_mmal_dev *dev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -61,3 +61,4 @@ static int __init unregister_stderr(void)
 }
 
 __initcall(unregister_stderr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

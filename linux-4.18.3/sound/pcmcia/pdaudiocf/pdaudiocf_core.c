@@ -294,3 +294,4 @@ int snd_pdacf_resume(struct snd_pdacf *chip)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

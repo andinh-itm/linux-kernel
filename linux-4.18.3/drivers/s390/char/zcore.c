@@ -364,3 +364,4 @@ fail:
 	return rc;
 }
 subsys_initcall(zcore_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

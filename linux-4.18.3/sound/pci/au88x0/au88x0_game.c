@@ -132,3 +132,4 @@ static void vortex_gameport_unregister(vortex_t * vortex)
 static inline int vortex_gameport_register(vortex_t * vortex) { return -ENOSYS; }
 static inline void vortex_gameport_unregister(vortex_t * vortex) { }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

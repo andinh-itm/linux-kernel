@@ -604,3 +604,4 @@ module_platform_driver_probe(armada38x_rtc_driver, armada38x_rtc_probe);
 MODULE_DESCRIPTION("Marvell Armada 38x RTC driver");
 MODULE_AUTHOR("Gregory CLEMENT <gregory.clement@free-electrons.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

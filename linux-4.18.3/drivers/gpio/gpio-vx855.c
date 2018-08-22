@@ -299,3 +299,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Harald Welte <HaraldWelte@viatech.com>");
 MODULE_DESCRIPTION("GPIO driver for the VIA VX855 chipset");
 MODULE_ALIAS("platform:vx855_gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

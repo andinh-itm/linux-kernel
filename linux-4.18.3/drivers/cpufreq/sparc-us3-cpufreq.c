@@ -222,3 +222,4 @@ MODULE_LICENSE("GPL");
 
 module_init(us3_freq_init);
 module_exit(us3_freq_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

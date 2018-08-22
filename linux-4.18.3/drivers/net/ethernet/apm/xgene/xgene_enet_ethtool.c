@@ -375,3 +375,4 @@ void xgene_enet_set_ethtool_ops(struct net_device *ndev)
 {
 	ndev->ethtool_ops = &xgene_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

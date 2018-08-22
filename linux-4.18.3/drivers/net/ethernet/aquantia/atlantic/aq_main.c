@@ -150,3 +150,4 @@ static const struct net_device_ops aq_ndev_ops = {
 	.ndo_set_mac_address = aq_ndev_set_mac_address,
 	.ndo_set_features = aq_ndev_set_features
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

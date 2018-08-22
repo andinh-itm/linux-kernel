@@ -1196,3 +1196,4 @@ module_i2c_driver(mt9p031_i2c_driver);
 MODULE_DESCRIPTION("Aptina MT9P031 Camera driver");
 MODULE_AUTHOR("Bastian Hecht <hechtb@gmail.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

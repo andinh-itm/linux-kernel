@@ -621,3 +621,4 @@ const struct amdgpu_ip_block_version acp_ip_block =
 	.rev = 0,
 	.funcs = &acp_ip_funcs,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

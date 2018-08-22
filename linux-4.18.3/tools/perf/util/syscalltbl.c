@@ -177,3 +177,4 @@ int syscalltbl__strglobmatch_first(struct syscalltbl *tbl, const char *syscall_g
 	return syscalltbl__strglobmatch_next(tbl, syscall_glob, idx);
 }
 #endif /* HAVE_SYSCALL_TABLE_SUPPORT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

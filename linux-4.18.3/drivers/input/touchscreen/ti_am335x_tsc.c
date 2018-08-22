@@ -549,3 +549,4 @@ module_platform_driver(ti_tsc_driver);
 MODULE_DESCRIPTION("TI touchscreen controller driver");
 MODULE_AUTHOR("Rachna Patil <rachna@ti.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

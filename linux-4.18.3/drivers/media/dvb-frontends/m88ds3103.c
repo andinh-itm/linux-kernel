@@ -1523,3 +1523,4 @@ MODULE_DESCRIPTION("Montage Technology M88DS3103 DVB-S/S2 demodulator driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(M88DS3103_FIRMWARE);
 MODULE_FIRMWARE(M88RS6000_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

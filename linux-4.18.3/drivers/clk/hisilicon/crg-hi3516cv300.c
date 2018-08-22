@@ -328,3 +328,4 @@ module_exit(hi3516cv300_crg_exit);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("HiSilicon Hi3516CV300 CRG Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

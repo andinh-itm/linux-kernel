@@ -516,3 +516,4 @@ unsigned int mpc52xx_get_irq(void)
 
 	return irq_linear_revmap(mpc52xx_irqhost, irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -253,3 +253,4 @@ int iwl_mvm_send_proto_offload(struct iwl_mvm *mvm,
 	hcmd.len[0] = size;
 	return iwl_mvm_send_cmd(mvm, &hcmd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

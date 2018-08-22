@@ -218,3 +218,4 @@ static struct phy_driver bcm87xx_driver[] = {
 module_phy_driver(bcm87xx_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -41,3 +41,4 @@ enum usb_phy_interface of_usb_get_phy_mode(struct device_node *np)
 	return USBPHY_INTERFACE_MODE_UNKNOWN;
 }
 EXPORT_SYMBOL_GPL(of_usb_get_phy_mode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

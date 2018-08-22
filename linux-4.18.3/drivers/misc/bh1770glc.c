@@ -1408,3 +1408,4 @@ module_i2c_driver(bh1770_driver);
 MODULE_DESCRIPTION("BH1770GLC / SFH7770 combined ALS and proximity sensor");
 MODULE_AUTHOR("Samu Onkalo, Nokia Corporation");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

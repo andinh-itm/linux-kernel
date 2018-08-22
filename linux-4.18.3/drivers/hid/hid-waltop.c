@@ -746,3 +746,4 @@ static struct hid_driver waltop_driver = {
 module_hid_driver(waltop_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -500,3 +500,4 @@ const struct intel_dvo_dev_ops ivch_ops = {
 	.dump_regs = ivch_dump_regs,
 	.destroy = ivch_destroy,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -251,3 +251,4 @@ void __init socfpga_gate_init(struct device_node *node)
 {
 	__socfpga_gate_init(node, &gateclk_ops);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -241,3 +241,4 @@ err_register:
 	kfree(mmc_clock);
 	return ERR_PTR(ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

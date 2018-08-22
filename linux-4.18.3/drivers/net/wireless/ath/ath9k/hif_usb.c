@@ -1445,3 +1445,4 @@ void ath9k_hif_usb_exit(void)
 {
 	usb_deregister(&ath9k_hif_usb_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

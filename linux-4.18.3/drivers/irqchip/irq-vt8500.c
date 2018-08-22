@@ -255,3 +255,4 @@ out:
 }
 
 IRQCHIP_DECLARE(vt8500_irq, "via,vt8500-intc", vt8500_irq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

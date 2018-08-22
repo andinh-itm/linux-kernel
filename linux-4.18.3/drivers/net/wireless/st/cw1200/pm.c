@@ -364,3 +364,4 @@ int cw1200_wow_resume(struct ieee80211_hw *hw)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

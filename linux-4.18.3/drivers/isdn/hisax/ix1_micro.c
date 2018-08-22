@@ -314,3 +314,4 @@ int setup_ix1micro(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

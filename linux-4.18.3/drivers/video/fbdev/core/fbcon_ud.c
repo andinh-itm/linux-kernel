@@ -446,3 +446,4 @@ void fbcon_rotate_ud(struct fbcon_ops *ops)
 	ops->update_start = ud_update_start;
 }
 EXPORT_SYMBOL(fbcon_rotate_ud);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

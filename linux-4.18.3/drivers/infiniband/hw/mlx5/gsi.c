@@ -539,3 +539,4 @@ void mlx5_ib_gsi_pkey_change(struct mlx5_ib_gsi_qp *gsi)
 	setup_qps(gsi);
 	mutex_unlock(&gsi->mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

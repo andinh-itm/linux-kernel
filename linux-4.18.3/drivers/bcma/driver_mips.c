@@ -381,3 +381,4 @@ void bcma_core_mips_init(struct bcma_drv_mips *mcore)
 
 	mcore->setup_done = true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

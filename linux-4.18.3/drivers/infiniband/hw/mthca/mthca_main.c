@@ -1270,3 +1270,4 @@ static void __exit mthca_cleanup(void)
 
 module_init(mthca_init);
 module_exit(mthca_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

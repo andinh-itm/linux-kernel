@@ -1229,3 +1229,4 @@ MODULE_AUTHOR("Broadcom Corporation");
 MODULE_DESCRIPTION("Driver for Broadcom Starfighter 2 ethernet switch chip");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:brcm-sf2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

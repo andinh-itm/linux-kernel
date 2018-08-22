@@ -413,3 +413,4 @@ int adf_enable_vf2pf_comms(struct adf_accel_dev *accel_dev)
 	return adf_vf2pf_request_version(accel_dev);
 }
 EXPORT_SYMBOL_GPL(adf_enable_vf2pf_comms);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

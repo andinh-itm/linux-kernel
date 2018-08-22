@@ -3986,3 +3986,4 @@ void vchiq_log_dump_mem(const char *label, u32 addr, const void *void_mem,
 			num_bytes = 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

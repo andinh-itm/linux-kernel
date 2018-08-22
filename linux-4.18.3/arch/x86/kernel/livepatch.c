@@ -63,3 +63,4 @@ void arch_klp_init_object_loaded(struct klp_patch *patch,
 		apply_paravirt(pseg, pseg + para->sh_size);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

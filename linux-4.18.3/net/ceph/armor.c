@@ -104,3 +104,4 @@ int ceph_unarmor(char *dst, const char *src, const char *end)
 	}
 	return olen;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

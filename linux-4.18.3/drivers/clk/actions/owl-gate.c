@@ -75,3 +75,4 @@ const struct clk_ops owl_gate_ops = {
 	.enable		= owl_gate_enable,
 	.is_enabled	= owl_gate_is_enabled,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

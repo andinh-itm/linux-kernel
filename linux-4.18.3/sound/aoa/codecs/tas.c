@@ -946,3 +946,4 @@ static struct i2c_driver tas_driver = {
 };
 
 module_i2c_driver(tas_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

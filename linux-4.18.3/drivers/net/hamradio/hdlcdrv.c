@@ -778,3 +778,4 @@ module_init(hdlcdrv_init_driver);
 module_exit(hdlcdrv_cleanup_driver);
 
 /* --------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

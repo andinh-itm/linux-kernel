@@ -111,3 +111,4 @@ module_exit(max7301_exit);
 MODULE_AUTHOR("Juergen Beisert, Wolfram Sang");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("MAX7301 GPIO-Expander");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

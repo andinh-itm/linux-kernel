@@ -91,3 +91,4 @@ err_free_device:
 	return retval;
 }
 device_initcall(lasat_uart_add);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

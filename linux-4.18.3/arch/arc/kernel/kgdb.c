@@ -212,3 +212,4 @@ struct kgdb_arch arch_kgdb_ops = {
 	.gdb_bpt_instr		= {0x7e, 0x78},
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

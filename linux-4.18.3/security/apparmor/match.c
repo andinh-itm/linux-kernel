@@ -738,3 +738,4 @@ unsigned int aa_dfa_leftmatch(struct aa_dfa *dfa, unsigned int start,
 
 	return leftmatch_fb(dfa, start, str, &wb, count);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -133,3 +133,4 @@ nouveau_vga_lastclose(struct drm_device *dev)
 {
 	vga_switcheroo_process_delayed_switch();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

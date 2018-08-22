@@ -388,3 +388,4 @@ MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("devname:vhci");
 MODULE_ALIAS_MISCDEV(VHCI_MINOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

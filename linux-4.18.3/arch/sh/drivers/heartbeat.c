@@ -153,3 +153,4 @@ static int __init heartbeat_init(void)
 	return platform_driver_register(&heartbeat_driver);
 }
 device_initcall(heartbeat_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

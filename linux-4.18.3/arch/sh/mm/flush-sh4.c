@@ -109,3 +109,4 @@ void __init sh4__flush_region_init(void)
 	__flush_invalidate_region	= sh4__flush_invalidate_region;
 	__flush_purge_region		= sh4__flush_purge_region;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

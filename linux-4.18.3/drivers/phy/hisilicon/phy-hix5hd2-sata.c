@@ -189,3 +189,4 @@ MODULE_AUTHOR("Jiancheng Xue <xuejiancheng@huawei.com>");
 MODULE_DESCRIPTION("HISILICON HIX5HD2 SATA PHY driver");
 MODULE_ALIAS("platform:hix5hd2-sata-phy");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -44,3 +44,4 @@ int bpf_func__null_lseek(void *ctx, int err, unsigned long _f_mode,
 
 char _license[] SEC("license") = "GPL";
 int _version SEC("version") = LINUX_VERSION_CODE;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -72,3 +72,4 @@ int test_alloc_fence_negative(void)
 	sw_sync_timeline_destroy(timeline);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

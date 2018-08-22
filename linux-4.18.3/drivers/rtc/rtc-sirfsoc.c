@@ -459,3 +459,4 @@ MODULE_DESCRIPTION("SiRF SoC rtc driver");
 MODULE_AUTHOR("Xianglong Du <Xianglong.Du@csr.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sirfsoc-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

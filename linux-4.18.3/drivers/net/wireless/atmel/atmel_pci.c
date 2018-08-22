@@ -76,3 +76,4 @@ static void atmel_pci_remove(struct pci_dev *pdev)
 }
 
 module_pci_driver(atmel_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

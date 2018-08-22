@@ -281,3 +281,4 @@ void stmmac_get_mac_addr(void __iomem *ioaddr, unsigned char *addr,
 	addr[5] = (hi_addr >> 8) & 0xff;
 }
 EXPORT_SYMBOL_GPL(stmmac_get_mac_addr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

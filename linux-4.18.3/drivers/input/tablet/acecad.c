@@ -268,3 +268,4 @@ static struct usb_driver usb_acecad_driver = {
 };
 
 module_usb_driver(usb_acecad_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

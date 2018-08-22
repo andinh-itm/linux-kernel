@@ -266,3 +266,4 @@ module_spi_driver(mi0283qt_spi_driver);
 MODULE_DESCRIPTION("Multi-Inno MI0283QT DRM driver");
 MODULE_AUTHOR("Noralf Trønnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

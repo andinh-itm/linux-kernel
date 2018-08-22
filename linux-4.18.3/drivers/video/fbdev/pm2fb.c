@@ -1835,3 +1835,4 @@ MODULE_AUTHOR("Jim Hague <jim.hague@acm.org>");
 MODULE_DESCRIPTION("Permedia2 framebuffer device driver");
 MODULE_LICENSE("GPL");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1864,3 +1864,4 @@ err:
 	kfree(intel_dsi);
 	kfree(intel_connector);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

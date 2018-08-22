@@ -29,3 +29,4 @@ DT_MACHINE_START(BERLIN_DT, "Marvell Berlin")
 	.l2c_aux_val	= 0x30c00000,
 	.l2c_aux_mask	= 0xfeffffff,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

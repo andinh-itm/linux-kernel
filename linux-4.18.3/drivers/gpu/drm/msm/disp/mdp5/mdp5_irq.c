@@ -134,3 +134,4 @@ void mdp5_disable_vblank(struct msm_kms *kms, struct drm_crtc *crtc)
 			mdp5_crtc_vblank(crtc), false);
 	pm_runtime_put_sync(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

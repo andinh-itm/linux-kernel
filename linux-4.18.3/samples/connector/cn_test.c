@@ -199,3 +199,4 @@ module_exit(cn_test_fini);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Evgeniy Polyakov <zbr@ioremap.net>");
 MODULE_DESCRIPTION("Connector's test module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

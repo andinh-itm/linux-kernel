@@ -162,3 +162,4 @@ void vnt_init_bands(struct vnt_private *priv)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

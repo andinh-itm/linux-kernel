@@ -270,3 +270,4 @@ struct alpha_machine_vector rawhide_mv __initmv = {
 	.pci_swizzle		= common_swizzle,
 };
 ALIAS_MV(rawhide)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

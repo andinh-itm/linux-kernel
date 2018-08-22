@@ -861,3 +861,4 @@ void atl1c_post_phy_linkchg(struct atl1c_hw *hw, u16 link_speed)
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -81,3 +81,4 @@ SOLOS_ATTR_RO(TotalStart)
 SOLOS_ATTR_RO(RecentShowtimeStart)
 SOLOS_ATTR_RO(TotalRxBlocks)
 SOLOS_ATTR_RO(TotalTxBlocks)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -400,3 +400,4 @@ void nitrox_config_lbc_unit(struct nitrox_device *ndev)
 	offset = LBC_ELM_VF65_128_INT_ENA_W1S;
 	nitrox_write_csr(ndev, offset, (~0ULL));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

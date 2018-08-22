@@ -211,3 +211,4 @@ struct clk *tegra_clk_register_periph_data(void __iomem *clk_base,
 					  init->num_parents, &init->periph,
 					  clk_base, init->offset, init->flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

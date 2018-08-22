@@ -322,3 +322,4 @@ module_exit(hp300_8250_exit);
 MODULE_DESCRIPTION("HP DCA/APCI serial driver");
 MODULE_AUTHOR("Kars de Jong <jongk@linux-m68k.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

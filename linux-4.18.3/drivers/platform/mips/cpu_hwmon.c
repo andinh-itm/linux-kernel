@@ -211,3 +211,4 @@ MODULE_AUTHOR("Yu Xiang <xiangy@lemote.com>");
 MODULE_AUTHOR("Huacai Chen <chenhc@lemote.com>");
 MODULE_DESCRIPTION("Loongson CPU Hwmon driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

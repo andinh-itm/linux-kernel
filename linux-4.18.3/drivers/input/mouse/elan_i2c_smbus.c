@@ -540,3 +540,4 @@ const struct elan_transport_ops elan_smbus_ops = {
 	.get_report		= elan_smbus_get_report,
 	.get_pattern		= elan_smbus_get_pattern,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

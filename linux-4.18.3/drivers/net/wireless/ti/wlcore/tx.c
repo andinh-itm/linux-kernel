@@ -1324,3 +1324,4 @@ bool wlcore_is_queue_stopped_locked(struct wl1271 *wl, struct wl12xx_vif *wlvif,
 	assert_spin_locked(&wl->wl_lock);
 	return !!wl->queue_stop_reasons[hwq];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

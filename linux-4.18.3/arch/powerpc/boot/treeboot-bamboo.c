@@ -41,3 +41,4 @@ void platform_init(void)
 	read_pibs_mac();
 	bamboo_init((u8 *)&pibs_mac0, (u8 *)&pibs_mac1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

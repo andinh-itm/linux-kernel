@@ -26,3 +26,4 @@ int main(void)
 	DEFINE(CLOCK_COARSE_RES, LOW_RES_NSEC);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

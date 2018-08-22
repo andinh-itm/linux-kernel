@@ -1370,3 +1370,4 @@ void rtl88eu_phy_lc_calibrate(struct adapter *adapt)
 
 	dm_odm->RFCalibrateInfo.bLCKInProgress = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

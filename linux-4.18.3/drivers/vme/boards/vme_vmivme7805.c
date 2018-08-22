@@ -108,3 +108,4 @@ MODULE_DESCRIPTION("VMIVME-7805 board support driver");
 MODULE_AUTHOR("Arthur Benilov <arthur.benilov@iba-group.com>");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

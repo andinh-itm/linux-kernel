@@ -74,3 +74,4 @@ int perf_event__synthesize_extra_kmaps(struct perf_tool *tool,
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

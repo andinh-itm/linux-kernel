@@ -362,3 +362,4 @@ void __init ar2315_arch_init(void)
 	}
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

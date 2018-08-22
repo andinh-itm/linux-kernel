@@ -472,3 +472,4 @@ void __init rcar_sysc_init(phys_addr_t base, u32 syscier)
 	pr_debug("%s: syscier = 0x%08x\n", __func__, syscier);
 	iowrite32(syscier, rcar_sysc_base + SYSCIER);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

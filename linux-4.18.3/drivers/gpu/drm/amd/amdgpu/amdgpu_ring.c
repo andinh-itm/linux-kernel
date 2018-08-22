@@ -572,3 +572,4 @@ static void amdgpu_debugfs_ring_fini(struct amdgpu_ring *ring)
 	debugfs_remove(ring->ent);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

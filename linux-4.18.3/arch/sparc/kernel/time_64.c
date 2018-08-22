@@ -896,3 +896,4 @@ int read_current_timer(unsigned long *timer_val)
 	*timer_val = get_tick();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

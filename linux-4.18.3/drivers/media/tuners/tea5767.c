@@ -471,3 +471,4 @@ EXPORT_SYMBOL_GPL(tea5767_autodetection);
 MODULE_DESCRIPTION("Philips TEA5767 FM tuner driver");
 MODULE_AUTHOR("Mauro Carvalho Chehab <mchehab@kernel.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

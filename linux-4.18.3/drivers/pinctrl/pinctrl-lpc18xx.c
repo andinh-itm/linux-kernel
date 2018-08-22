@@ -1380,3 +1380,4 @@ static struct platform_driver lpc18xx_scu_driver = {
 	},
 };
 builtin_platform_driver(lpc18xx_scu_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

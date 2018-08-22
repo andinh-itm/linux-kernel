@@ -2824,3 +2824,4 @@ u32 btc_dpm_get_mclk(struct radeon_device *rdev, bool low)
 	else
 		return requested_state->high.mclk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

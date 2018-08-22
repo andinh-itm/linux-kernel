@@ -874,3 +874,4 @@ out_delete:
 	perf_session__delete(inject.session);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

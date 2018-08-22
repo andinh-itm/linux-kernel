@@ -235,3 +235,4 @@ module_platform_driver_probe(at91_poweroff_driver, at91_poweroff_probe);
 MODULE_AUTHOR("Atmel Corporation");
 MODULE_DESCRIPTION("Shutdown driver for Atmel SoCs");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

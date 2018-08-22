@@ -208,3 +208,4 @@ bool dce_use_lut(enum surface_pixel_format format)
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

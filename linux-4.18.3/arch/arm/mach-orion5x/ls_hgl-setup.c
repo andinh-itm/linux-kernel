@@ -276,3 +276,4 @@ MACHINE_START(LINKSTATION_LS_HGL, "Buffalo Linkstation LS-HGL")
 	.fixup		= tag_fixup_mem32,
 	.restart	= orion5x_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

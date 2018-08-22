@@ -318,3 +318,4 @@ MACHINE_START(NSLU2, "Linksys NSLU2")
 #endif
 	.restart	= ixp4xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

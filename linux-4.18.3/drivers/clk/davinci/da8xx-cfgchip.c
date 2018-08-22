@@ -788,3 +788,4 @@ static int __init da8xx_cfgchip_driver_init(void)
 
 /* has to be postcore_initcall because PSC devices depend on the async3 clock */
 postcore_initcall(da8xx_cfgchip_driver_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

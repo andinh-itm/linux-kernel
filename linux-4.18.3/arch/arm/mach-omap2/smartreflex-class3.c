@@ -60,3 +60,4 @@ static int __init sr_class3_init(void)
 	return sr_register_class(&class3_data);
 }
 omap_late_initcall(sr_class3_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

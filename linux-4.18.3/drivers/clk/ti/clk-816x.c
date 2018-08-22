@@ -85,3 +85,4 @@ int __init dm816x_dt_clk_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

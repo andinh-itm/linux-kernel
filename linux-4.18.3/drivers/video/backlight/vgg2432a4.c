@@ -264,3 +264,4 @@ MODULE_AUTHOR("Ben Dooks <ben-linux@fluff.org>");
 MODULE_DESCRIPTION("VGG2432A4 LCD Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("spi:VGG2432A4");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -79,3 +79,4 @@ err_unmap:
 }
 CLK_OF_DECLARE(sun4i_mod1, "allwinner,sun4i-a10-mod1-clk",
 	       sun4i_mod1_clk_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

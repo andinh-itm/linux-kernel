@@ -65,3 +65,4 @@ MODULE_DEVICE_TABLE(of, ci_hdrc_zevio_dt_ids);
 module_platform_driver(ci_hdrc_zevio_driver);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -236,3 +236,4 @@ fail_base2:
 module_init(buddha_init);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

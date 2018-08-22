@@ -299,3 +299,4 @@ MODULE_DESCRIPTION("ASoC Intel(R) Baytrail/Cherrytrail Machine driver");
 MODULE_AUTHOR("David Yang <yangxiaohua@everest-semi.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:bytcht_es8316");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

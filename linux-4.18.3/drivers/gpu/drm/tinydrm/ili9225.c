@@ -453,3 +453,4 @@ module_spi_driver(ili9225_spi_driver);
 MODULE_DESCRIPTION("Ilitek ILI9225 DRM driver");
 MODULE_AUTHOR("David Lechner <david@lechnology.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

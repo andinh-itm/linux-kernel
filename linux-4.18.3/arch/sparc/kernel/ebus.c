@@ -255,3 +255,4 @@ void ebus_dma_enable(struct ebus_dma_info *p, int on)
 	spin_unlock_irqrestore(&p->lock, flags);
 }
 EXPORT_SYMBOL(ebus_dma_enable);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

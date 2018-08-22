@@ -379,3 +379,4 @@ MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("E3C EC168 driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(EC168_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -654,3 +654,4 @@ void snd_ak4113_resume(struct ak4113 *chip)
 }
 EXPORT_SYMBOL(snd_ak4113_resume);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

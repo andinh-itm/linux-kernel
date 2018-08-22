@@ -1146,3 +1146,4 @@ sense_reason_t target_do_receive_copy_results(struct se_cmd *se_cmd)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

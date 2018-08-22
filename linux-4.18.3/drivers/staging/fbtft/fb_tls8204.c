@@ -158,3 +158,4 @@ MODULE_ALIAS("spi:tls8204");
 MODULE_DESCRIPTION("FB driver for the TLS8204 LCD Controller");
 MODULE_AUTHOR("Michael Hope");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

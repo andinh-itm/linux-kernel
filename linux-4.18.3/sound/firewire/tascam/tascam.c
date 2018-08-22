@@ -259,3 +259,4 @@ static void __exit snd_tscm_exit(void)
 
 module_init(snd_tscm_init);
 module_exit(snd_tscm_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

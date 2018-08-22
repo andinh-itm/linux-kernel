@@ -1208,3 +1208,4 @@ const struct cxl_backend_ops cxl_guest_ops = {
 	.afu_cr_write32 = guest_afu_cr_write32,
 	.read_adapter_vpd = cxl_guest_read_adapter_vpd,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

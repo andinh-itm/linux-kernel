@@ -5581,3 +5581,4 @@ static int synclinkmp_init_one (struct pci_dev *dev,
 static void synclinkmp_remove_one (struct pci_dev *dev)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

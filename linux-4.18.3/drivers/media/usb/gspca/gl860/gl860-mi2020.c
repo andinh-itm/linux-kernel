@@ -803,3 +803,4 @@ static void mi2020_post_unset_alt(struct gspca_dev *gspca_dev)
 	msleep(40);
 	ctrl_out(gspca_dev, 0x40, 1, 0x0001, 0x0000, 0, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

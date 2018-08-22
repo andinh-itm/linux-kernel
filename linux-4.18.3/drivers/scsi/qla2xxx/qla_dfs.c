@@ -569,3 +569,4 @@ qla2x00_dfs_remove(scsi_qla_host_t *vha)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1308,3 +1308,4 @@ MODULE_AUTHOR("Maruthi.Bayyavarapu@amd.com");
 MODULE_DESCRIPTION("AMD ACP PCM Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:"DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

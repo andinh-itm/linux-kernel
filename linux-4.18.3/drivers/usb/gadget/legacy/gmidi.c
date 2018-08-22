@@ -183,3 +183,4 @@ static struct usb_composite_driver midi_driver = {
 };
 
 module_usb_composite_driver(midi_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

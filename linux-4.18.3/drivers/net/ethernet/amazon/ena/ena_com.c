@@ -2714,3 +2714,4 @@ void ena_com_get_intr_moderation_entry(struct ena_com_dev *ena_dev,
 	intr_moder_tbl[level].pkts_per_interval;
 	entry->bytes_per_interval = intr_moder_tbl[level].bytes_per_interval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -599,3 +599,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Nuvoton NAU7802 ADC Driver");
 MODULE_AUTHOR("Maxime Ripard <maxime.ripard@free-electrons.com>");
 MODULE_AUTHOR("Alexandre Belloni <alexandre.belloni@free-electrons.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

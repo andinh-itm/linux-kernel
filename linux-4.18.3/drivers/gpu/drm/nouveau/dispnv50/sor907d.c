@@ -39,3 +39,4 @@ const struct nv50_outp_func
 sor907d = {
 	.ctrl = sor907d_ctrl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -96,3 +96,4 @@ int __init tegra114_cpuidle_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

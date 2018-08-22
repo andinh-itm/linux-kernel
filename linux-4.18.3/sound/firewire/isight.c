@@ -742,3 +742,4 @@ static void __exit alsa_isight_exit(void)
 
 module_init(alsa_isight_init);
 module_exit(alsa_isight_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

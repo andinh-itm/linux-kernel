@@ -110,3 +110,4 @@ void cleanup_module(void)
 EXPORT_SYMBOL(atafb_mfb_copyarea);
 EXPORT_SYMBOL(atafb_mfb_fillrect);
 EXPORT_SYMBOL(atafb_mfb_linefill);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

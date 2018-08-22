@@ -643,3 +643,4 @@ static void __init mtk_apmixedsys_init(struct device_node *node)
 }
 CLK_OF_DECLARE(mtk_apmixedsys, "mediatek,mt8135-apmixedsys",
 		mtk_apmixedsys_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

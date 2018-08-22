@@ -40,3 +40,4 @@ void samsung_sync_wakemask(void __iomem *reg,
 	printk(KERN_INFO "wakemask %08x => %08x\n", __raw_readl(reg), val);
 	__raw_writel(val, reg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

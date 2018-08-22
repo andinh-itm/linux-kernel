@@ -201,3 +201,4 @@ module_platform_driver(ams_delta_panel_driver);
 MODULE_AUTHOR("Jonathan McDowell <noodles@earth.li>");
 MODULE_DESCRIPTION("LCD panel support for the Amstrad E3 (Delta) videophone");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

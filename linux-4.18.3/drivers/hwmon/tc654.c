@@ -512,3 +512,4 @@ module_i2c_driver(tc654_driver);
 MODULE_AUTHOR("Allied Telesis Labs");
 MODULE_DESCRIPTION("Microchip TC654/TC655 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

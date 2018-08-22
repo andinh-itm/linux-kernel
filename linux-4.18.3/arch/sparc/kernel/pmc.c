@@ -98,3 +98,4 @@ static int __init pmc_init(void)
  * initialized, so we install ourselves thusly:
  */
 __initcall(pmc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

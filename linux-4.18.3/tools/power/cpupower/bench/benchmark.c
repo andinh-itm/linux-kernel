@@ -192,3 +192,4 @@ void start_benchmark(struct config *config)
 		load_time += config->load_step;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

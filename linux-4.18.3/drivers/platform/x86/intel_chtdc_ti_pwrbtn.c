@@ -91,3 +91,4 @@ module_platform_driver(chtdc_ti_pwrbtn_driver);
 
 MODULE_DESCRIPTION("Power-button driver for Dollar Cove TI PMIC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -267,3 +267,4 @@ module_platform_driver_probe(amiga_a3000_scsi_driver, amiga_a3000_scsi_probe);
 MODULE_DESCRIPTION("Amiga 3000 built-in SCSI");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:amiga-a3000-scsi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

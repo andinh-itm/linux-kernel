@@ -314,3 +314,4 @@ module_i2c_driver(st_nci_i2c_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION(DRIVER_DESC);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2074,3 +2074,4 @@ osd_cdb_offset __osd_encode_offset(
 		 be32_offset, *padding);
 	return be32_offset;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -888,3 +888,4 @@ static int __init sirfsoc_gpio_init(void)
 	return sirfsoc_gpio_probe(np);
 }
 subsys_initcall(sirfsoc_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

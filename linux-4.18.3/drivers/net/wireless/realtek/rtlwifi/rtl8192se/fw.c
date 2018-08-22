@@ -633,3 +633,4 @@ void rtl92s_set_fw_joinbss_report_cmd(struct ieee80211_hw *hw,
 	_rtl92s_firmware_set_h2c_cmd(hw, FW_H2C_JOINBSSRPT, (u8 *)&joinbss_rpt);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

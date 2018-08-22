@@ -403,3 +403,4 @@ module_init(NCR_D700_init);
 module_exit(NCR_D700_exit);
 
 __setup("NCR_D700=", param_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

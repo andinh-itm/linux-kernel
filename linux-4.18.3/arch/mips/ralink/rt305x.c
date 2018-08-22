@@ -273,3 +273,4 @@ void prom_soc_init(struct ralink_soc_info *soc_info)
 		rt2880_pinmux_data = rt3352_pinmux_data;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

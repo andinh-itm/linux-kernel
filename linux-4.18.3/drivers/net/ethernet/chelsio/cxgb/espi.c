@@ -370,3 +370,4 @@ int t1_espi_get_mon_t204(adapter_t *adapter, u32 *valp, u8 wait)
 	spin_unlock(&espi->lock);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

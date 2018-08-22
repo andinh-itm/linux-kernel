@@ -160,3 +160,4 @@ size_t syscall_arg__scnprintf_ioctl_cmd(char *bf, size_t size, struct syscall_ar
 
 	return ioctl__scnprintf_cmd(cmd, bf, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

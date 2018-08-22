@@ -2162,3 +2162,4 @@ int auxtrace_parse_filters(struct perf_evlist *evlist)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

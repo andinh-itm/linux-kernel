@@ -1974,3 +1974,4 @@ int radeon_get_crtc_scanoutpos(struct drm_device *dev, unsigned int pipe,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

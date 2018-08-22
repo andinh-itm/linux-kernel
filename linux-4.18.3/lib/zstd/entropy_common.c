@@ -241,3 +241,4 @@ size_t HUF_readStats_wksp(BYTE *huffWeight, size_t hwSize, U32 *rankStats, U32 *
 	*nbSymbolsPtr = (U32)(oSize + 1);
 	return iSize + 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

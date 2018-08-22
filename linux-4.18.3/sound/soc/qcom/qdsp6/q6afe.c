@@ -1493,3 +1493,4 @@ static struct apr_driver qcom_q6afe_driver = {
 module_apr_driver(qcom_q6afe_driver);
 MODULE_DESCRIPTION("Q6 Audio Front End");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

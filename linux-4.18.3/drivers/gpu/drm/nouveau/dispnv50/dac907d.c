@@ -37,3 +37,4 @@ const struct nv50_outp_func
 dac907d = {
 	.ctrl = dac907d_ctrl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

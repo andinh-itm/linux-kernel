@@ -86,3 +86,4 @@ void snd_kctl_jack_report(struct snd_card *card,
 	kctl->private_value = status;
 	snd_ctl_notify(card, SNDRV_CTL_EVENT_MASK_VALUE, &kctl->id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

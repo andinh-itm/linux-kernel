@@ -163,3 +163,4 @@ const struct v4l2_ctrl_ops ivtv_hdl_out_ops = {
 	.s_ctrl = ivtv_s_ctrl,
 	.g_volatile_ctrl = ivtv_g_volatile_ctrl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2271,3 +2271,4 @@ int RivaGetConfig
     return (0);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

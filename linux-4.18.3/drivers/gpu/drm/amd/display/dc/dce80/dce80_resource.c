@@ -1299,3 +1299,4 @@ struct resource_pool *dce83_create_resource_pool(
 	BREAK_TO_DEBUGGER();
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

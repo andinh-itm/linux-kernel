@@ -43,3 +43,4 @@ module_exit(defon_trig_exit);
 MODULE_AUTHOR("Nick Forbes <nick.forbes@incepta.com>");
 MODULE_DESCRIPTION("Default-ON LED trigger");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

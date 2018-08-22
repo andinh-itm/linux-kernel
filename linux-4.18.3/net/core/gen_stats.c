@@ -396,3 +396,4 @@ gnet_stats_finish_copy(struct gnet_dump *d)
 	return 0;
 }
 EXPORT_SYMBOL(gnet_stats_finish_copy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

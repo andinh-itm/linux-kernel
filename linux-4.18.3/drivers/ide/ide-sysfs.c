@@ -141,3 +141,4 @@ int ide_sysfs_register_port(ide_hwif_t *hwif)
 
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

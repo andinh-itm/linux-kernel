@@ -101,3 +101,4 @@ MODULE_ALIAS("platform:ili9481");
 MODULE_DESCRIPTION("FB driver for the ILI9481 LCD Controller");
 MODULE_AUTHOR("Petr Olivka");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

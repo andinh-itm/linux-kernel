@@ -185,3 +185,4 @@ void exynos_drm_mode_config_init(struct drm_device *dev)
 
 	dev->mode_config.normalize_zpos = true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

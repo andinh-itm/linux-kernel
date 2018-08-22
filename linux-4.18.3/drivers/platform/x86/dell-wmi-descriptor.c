@@ -211,3 +211,4 @@ MODULE_ALIAS("wmi:" DELL_WMI_DESCRIPTOR_GUID);
 MODULE_AUTHOR("Mario Limonciello <mario.limonciello@dell.com>");
 MODULE_DESCRIPTION("Dell WMI descriptor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

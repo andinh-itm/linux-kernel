@@ -295,3 +295,4 @@ const struct clk_hw_omap_ops clkhwops_wait = {
 	.find_idlest	= omap2_clk_dflt_find_idlest,
 	.find_companion	= omap2_clk_dflt_find_companion,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

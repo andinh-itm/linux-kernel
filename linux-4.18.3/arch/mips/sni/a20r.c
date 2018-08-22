@@ -247,3 +247,4 @@ static int __init snirm_a20r_setup_devinit(void)
 }
 
 device_initcall(snirm_a20r_setup_devinit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

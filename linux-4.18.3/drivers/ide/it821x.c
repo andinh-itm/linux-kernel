@@ -713,3 +713,4 @@ MODULE_PARM_DESC(noraid, "Force card into bypass mode");
 MODULE_AUTHOR("Alan Cox");
 MODULE_DESCRIPTION("PCI driver module for the ITE 821x");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

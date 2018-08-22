@@ -245,3 +245,4 @@ void show_kernel_fault_diag(const char *str, struct pt_regs *regs,
 	if (!user_mode(regs))
 		show_stacktrace(current, regs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

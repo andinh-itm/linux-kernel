@@ -129,3 +129,4 @@ void event_report(struct event *e)
 {
 	event_report_justified(e, 0, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

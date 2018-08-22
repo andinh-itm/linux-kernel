@@ -159,3 +159,4 @@ static struct platform_driver mmc_pwrseq_simple_driver = {
 
 module_platform_driver(mmc_pwrseq_simple_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -382,3 +382,4 @@ void cobalt_i2c_exit(struct cobalt *cobalt)
 		i2c_del_adapter(&cobalt->i2c_adap[i]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

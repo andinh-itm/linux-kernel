@@ -123,3 +123,4 @@ MODULE_DESCRIPTION("Low level driver for Toshiba Piccolo ATA");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, ata_tosh);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

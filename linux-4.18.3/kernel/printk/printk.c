@@ -3252,3 +3252,4 @@ void kmsg_dump_rewind(struct kmsg_dumper *dumper)
 EXPORT_SYMBOL_GPL(kmsg_dump_rewind);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

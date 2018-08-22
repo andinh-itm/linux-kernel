@@ -78,3 +78,4 @@ struct platform_device *__init imx_add_spi_imx(
 	return imx_add_platform_device(data->devid, data->id,
 			res, ARRAY_SIZE(res), pdata, sizeof(*pdata));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

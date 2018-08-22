@@ -249,3 +249,4 @@ static int __init bcm2836_arm_irqchip_l1_intc_of_init(struct device_node *node,
 
 IRQCHIP_DECLARE(bcm2836_arm_irqchip_l1_intc, "brcm,bcm2836-l1-intc",
 		bcm2836_arm_irqchip_l1_intc_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

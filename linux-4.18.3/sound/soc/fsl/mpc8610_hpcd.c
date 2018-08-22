@@ -430,3 +430,4 @@ module_exit(mpc8610_hpcd_exit);
 MODULE_AUTHOR("Timur Tabi <timur@freescale.com>");
 MODULE_DESCRIPTION("Freescale MPC8610 HPCD ALSA SoC machine driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

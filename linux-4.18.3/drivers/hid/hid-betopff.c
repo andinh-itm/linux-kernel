@@ -158,3 +158,4 @@ static struct hid_driver betop_driver = {
 module_hid_driver(betop_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

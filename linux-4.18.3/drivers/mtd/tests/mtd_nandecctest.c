@@ -320,3 +320,4 @@ module_exit(ecc_test_exit);
 MODULE_DESCRIPTION("NAND ECC function test module");
 MODULE_AUTHOR("Akinobu Mita");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

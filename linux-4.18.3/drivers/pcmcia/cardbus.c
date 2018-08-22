@@ -123,3 +123,4 @@ void cb_free(struct pcmcia_socket *s)
 
 	pci_unlock_rescan_remove();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

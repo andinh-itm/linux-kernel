@@ -66,3 +66,4 @@ EXPORT_SYMBOL(iio_triggered_event_cleanup);
 MODULE_AUTHOR("Vladimir Barinov");
 MODULE_DESCRIPTION("IIO helper functions for setting up triggered events");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

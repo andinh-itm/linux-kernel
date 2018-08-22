@@ -427,3 +427,4 @@ void mic_driver_uninit(struct mic_driver *mdrv)
 	mic_dp_uninit();
 	module_put(mdrv->dev->driver->owner);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

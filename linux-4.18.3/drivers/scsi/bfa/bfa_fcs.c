@@ -1622,3 +1622,4 @@ bfa_fcs_attach(struct bfa_fcs_s *fcs, struct bfa_s *bfa, struct bfad_s *bfad,
 	bfa_sm_set_state(fabric, bfa_fcs_fabric_sm_uninit);
 	bfa_fcs_lport_attach(&fabric->bport, fabric->fcs, FC_VF_ID_NULL, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

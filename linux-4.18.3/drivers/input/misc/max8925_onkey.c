@@ -175,3 +175,4 @@ module_platform_driver(max8925_onkey_driver);
 MODULE_DESCRIPTION("Maxim MAX8925 ONKEY driver");
 MODULE_AUTHOR("Haojian Zhuang <haojian.zhuang@marvell.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

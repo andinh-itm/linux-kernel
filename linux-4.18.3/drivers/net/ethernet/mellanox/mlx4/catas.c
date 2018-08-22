@@ -330,3 +330,4 @@ void mlx4_catas_end(struct mlx4_dev *dev)
 		dev->persist->catas_wq = NULL;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

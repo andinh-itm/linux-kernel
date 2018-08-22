@@ -156,3 +156,4 @@ MODULE_AUTHOR("Jaya Kumar");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Atlas button driver");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

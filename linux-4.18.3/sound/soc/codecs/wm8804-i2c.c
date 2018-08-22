@@ -62,3 +62,4 @@ module_i2c_driver(wm8804_i2c_driver);
 MODULE_DESCRIPTION("ASoC WM8804 driver - I2C");
 MODULE_AUTHOR("Charles Keepax <ckeepax@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

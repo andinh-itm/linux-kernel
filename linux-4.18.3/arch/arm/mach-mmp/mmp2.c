@@ -176,3 +176,4 @@ struct platform_device mmp2_device_gpio = {
 	.num_resources	= ARRAY_SIZE(mmp2_resource_gpio),
 	.resource	= mmp2_resource_gpio,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

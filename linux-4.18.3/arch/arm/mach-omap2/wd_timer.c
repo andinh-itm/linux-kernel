@@ -102,3 +102,4 @@ int omap2_wd_timer_reset(struct omap_hwmod *oh)
 	return (c == MAX_MODULE_SOFTRESET_WAIT) ? -ETIMEDOUT :
 		omap2_wd_timer_disable(oh);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

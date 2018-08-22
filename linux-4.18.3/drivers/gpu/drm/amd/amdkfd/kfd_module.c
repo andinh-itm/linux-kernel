@@ -180,3 +180,4 @@ MODULE_LICENSE("GPL and additional rights");
 MODULE_VERSION(__stringify(KFD_DRIVER_MAJOR) "."
 	       __stringify(KFD_DRIVER_MINOR) "."
 	       __stringify(KFD_DRIVER_PATCHLEVEL));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

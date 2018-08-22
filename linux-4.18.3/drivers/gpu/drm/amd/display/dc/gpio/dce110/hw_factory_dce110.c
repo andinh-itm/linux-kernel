@@ -176,3 +176,4 @@ void dal_hw_factory_dce110_init(struct hw_factory *factory)
 
 	factory->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

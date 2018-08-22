@@ -968,3 +968,4 @@ void driver_detach(struct device_driver *drv)
 		put_device(dev);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

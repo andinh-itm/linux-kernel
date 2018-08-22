@@ -956,3 +956,4 @@ void kfd_signal_hw_exception_event(unsigned int pasid)
 	mutex_unlock(&p->event_mutex);
 	kfd_unref_process(p);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -61,3 +61,4 @@ void dal_hw_factory_diag_fpga_init(struct hw_factory *factory)
 	factory->number_of_pins[GPIO_ID_GSL] = 4;
 	factory->funcs = &funcs;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

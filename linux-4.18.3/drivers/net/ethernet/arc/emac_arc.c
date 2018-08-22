@@ -94,3 +94,4 @@ module_platform_driver(emac_arc_driver);
 MODULE_AUTHOR("Romain Perier <romain.perier@gmail.com>");
 MODULE_DESCRIPTION("ARC EMAC platform driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

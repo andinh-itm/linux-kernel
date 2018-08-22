@@ -973,3 +973,4 @@ static void __init st_of_quadfs660D_setup(struct device_node *np)
 	st_of_quadfs_setup(np, (struct clkgen_quadfs_data *) &st_fs660c32_D);
 }
 CLK_OF_DECLARE(quadfs660D, "st,quadfs", st_of_quadfs660D_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

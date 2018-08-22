@@ -773,3 +773,4 @@ EXPORT_SYMBOL_GPL(ahci_platform_resume);
 MODULE_DESCRIPTION("AHCI SATA platform library");
 MODULE_AUTHOR("Anton Vorontsov <avorontsov@ru.mvista.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

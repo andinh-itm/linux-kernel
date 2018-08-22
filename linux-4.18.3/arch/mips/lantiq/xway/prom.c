@@ -144,3 +144,4 @@ void __init ltq_soc_detect(struct ltq_soc_info *i)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

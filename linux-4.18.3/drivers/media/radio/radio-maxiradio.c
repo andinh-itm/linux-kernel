@@ -202,3 +202,4 @@ static struct pci_driver maxiradio_driver = {
 };
 
 module_pci_driver(maxiradio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

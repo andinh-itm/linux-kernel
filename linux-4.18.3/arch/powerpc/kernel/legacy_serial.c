@@ -648,3 +648,4 @@ static int __init check_legacy_serial_console(void)
 console_initcall(check_legacy_serial_console);
 
 #endif /* CONFIG_SERIAL_8250_CONSOLE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

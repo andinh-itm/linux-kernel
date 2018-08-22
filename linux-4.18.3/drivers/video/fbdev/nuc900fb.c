@@ -762,3 +762,4 @@ module_platform_driver(nuc900fb_driver);
 
 MODULE_DESCRIPTION("Framebuffer driver for the NUC900");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

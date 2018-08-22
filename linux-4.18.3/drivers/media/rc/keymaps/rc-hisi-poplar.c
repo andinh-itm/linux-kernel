@@ -67,3 +67,4 @@ module_init(init_rc_map_hisi_poplar)
 module_exit(exit_rc_map_hisi_poplar)
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

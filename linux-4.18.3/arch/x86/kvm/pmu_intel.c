@@ -356,3 +356,4 @@ struct kvm_pmu_ops intel_pmu_ops = {
 	.init = intel_pmu_init,
 	.reset = intel_pmu_reset,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

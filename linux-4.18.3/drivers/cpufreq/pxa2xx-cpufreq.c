@@ -337,3 +337,4 @@ MODULE_DESCRIPTION("CPU frequency changing driver for the PXA architecture");
 MODULE_LICENSE("GPL");
 module_init(pxa_cpu_init);
 module_exit(pxa_cpu_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

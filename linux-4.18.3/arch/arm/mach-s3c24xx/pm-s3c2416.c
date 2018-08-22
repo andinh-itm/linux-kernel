@@ -79,3 +79,4 @@ static void s3c2416_pm_resume(void)
 struct syscore_ops s3c2416_pm_syscore_ops = {
 	.resume		= s3c2416_pm_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -646,3 +646,4 @@ void pmac_xpram_write(int xpaddr, u8 data)
 EXPORT_SYMBOL(pmac_get_partition);
 EXPORT_SYMBOL(pmac_xpram_read);
 EXPORT_SYMBOL(pmac_xpram_write);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -243,3 +243,4 @@ static void log2_kernel(FPU_REG const *arg, u_char argsign, Xsig *accum_result,
 	accum_result->msw = accumulator.msw;
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

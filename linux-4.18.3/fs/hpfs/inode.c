@@ -315,3 +315,4 @@ void hpfs_evict_inode(struct inode *inode)
 		hpfs_unlock(inode->i_sb);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

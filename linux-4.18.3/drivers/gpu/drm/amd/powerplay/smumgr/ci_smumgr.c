@@ -2904,3 +2904,4 @@ const struct pp_smumgr_func ci_smu_funcs = {
 	.is_dpm_running = ci_is_dpm_running,
 	.update_dpm_settings = ci_update_dpm_settings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

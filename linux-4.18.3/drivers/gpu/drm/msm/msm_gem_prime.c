@@ -77,3 +77,4 @@ struct reservation_object *msm_gem_prime_res_obj(struct drm_gem_object *obj)
 
 	return msm_obj->resv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

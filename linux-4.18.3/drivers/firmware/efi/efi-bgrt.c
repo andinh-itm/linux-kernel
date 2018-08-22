@@ -89,3 +89,4 @@ void __init efi_bgrt_init(struct acpi_table_header *table)
 out:
 	memset(bgrt, 0, sizeof(bgrt_tab));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

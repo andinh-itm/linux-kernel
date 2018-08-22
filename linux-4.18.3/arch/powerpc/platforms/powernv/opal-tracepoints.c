@@ -86,3 +86,4 @@ void __trace_opal_exit(long opcode, unsigned long retval)
 out:
 	local_irq_restore(flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -359,3 +359,4 @@ int buffer_icap_get_configuration(struct hwicap_drvdata *drvdata, u32 *data,
 
 	return 0;
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

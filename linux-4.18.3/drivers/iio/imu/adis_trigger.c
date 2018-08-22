@@ -87,3 +87,4 @@ void adis_remove_trigger(struct adis *adis)
 	iio_trigger_free(adis->trig);
 }
 EXPORT_SYMBOL_GPL(adis_remove_trigger);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

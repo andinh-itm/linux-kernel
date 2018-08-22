@@ -170,3 +170,4 @@ struct clk *mpd4_lvds_pll_init(struct drm_device *dev)
 fail:
 	return ERR_PTR(ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

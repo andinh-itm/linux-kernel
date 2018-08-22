@@ -500,3 +500,4 @@ MODULE_AUTHOR("Aubrey Li <aubrey.li@linux.intel.com>");
 MODULE_DESCRIPTION("Intel Atom SOC Power Management Controller Interface");
 MODULE_LICENSE("GPL v2");
 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

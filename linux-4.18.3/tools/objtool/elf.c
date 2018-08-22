@@ -676,3 +676,4 @@ void elf_close(struct elf *elf)
 
 	free(elf);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

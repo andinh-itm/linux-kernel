@@ -1144,3 +1144,4 @@ void c67x00_sched_stop_scheduler(struct c67x00_hcd *c67x00)
 {
 	tasklet_kill(&c67x00->tasklet);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

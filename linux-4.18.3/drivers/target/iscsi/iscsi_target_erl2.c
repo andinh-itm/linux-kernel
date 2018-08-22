@@ -435,3 +435,4 @@ int iscsit_connection_recovery_transport_reset(struct iscsi_conn *conn)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -97,3 +97,4 @@ module_i2c_driver(lp87565_driver);
 MODULE_AUTHOR("J Keerthy <j-keerthy@ti.com>");
 MODULE_DESCRIPTION("lp87565 chip family Multi-Function Device driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

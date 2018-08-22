@@ -53,3 +53,4 @@ define_machine(mpc836x_rdk) {
 	.calibrate_decr	= generic_calibrate_decr,
 	.progress	= udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

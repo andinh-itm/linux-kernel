@@ -353,3 +353,4 @@ int intel_guc_live_selftest(struct drm_i915_private *dev_priv)
 
 	return i915_subtests(tests, dev_priv);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -64,3 +64,4 @@ int q6dsp_map_channels(u8 ch_map[PCM_MAX_NUM_CHANNEL], int ch)
 }
 EXPORT_SYMBOL_GPL(q6dsp_map_channels);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

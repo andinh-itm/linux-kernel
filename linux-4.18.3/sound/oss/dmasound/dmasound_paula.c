@@ -736,3 +736,4 @@ module_platform_driver_probe(amiga_audio_driver, amiga_audio_probe);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:amiga-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

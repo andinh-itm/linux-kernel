@@ -612,3 +612,4 @@ const struct pci_error_handlers qib_pci_err_handler = {
 	.slot_reset = qib_pci_slot_reset,
 	.resume = qib_pci_resume,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -157,3 +157,4 @@ int serial_console_init(void)
 err_out:
 	return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

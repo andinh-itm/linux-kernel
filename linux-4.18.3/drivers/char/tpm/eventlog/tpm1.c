@@ -308,3 +308,4 @@ const struct seq_operations tpm1_binary_b_measurements_seqops = {
 	.stop = tpm1_bios_measurements_stop,
 	.show = tpm1_binary_bios_measurements_show,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

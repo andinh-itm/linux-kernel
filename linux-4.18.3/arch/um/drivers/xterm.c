@@ -221,3 +221,4 @@ const struct chan_ops xterm_ops = {
 	.free		= generic_free,
 	.winch		= 1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

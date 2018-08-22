@@ -175,3 +175,4 @@ MODULE_AUTHOR("Barry Song <21cnbao@gmail.com>");
 MODULE_DESCRIPTION("Analog Devices ADIS16130 High Precision Angular Rate");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("spi:adis16130");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

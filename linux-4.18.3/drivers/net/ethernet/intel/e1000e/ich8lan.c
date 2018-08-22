@@ -5926,3 +5926,4 @@ const struct e1000_info e1000_pch_cnp_info = {
 	.phy_ops		= &ich8_phy_ops,
 	.nvm_ops		= &spt_nvm_ops,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

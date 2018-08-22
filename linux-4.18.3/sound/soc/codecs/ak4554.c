@@ -100,3 +100,4 @@ module_platform_driver(ak4554_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("SoC AK4554 driver");
 MODULE_AUTHOR("Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

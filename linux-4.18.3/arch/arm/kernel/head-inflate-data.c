@@ -60,3 +60,4 @@ int __init __inflate_kernel_data(void)
 		rc = strm->avail_out;  /* should be 0 */
 	return rc;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

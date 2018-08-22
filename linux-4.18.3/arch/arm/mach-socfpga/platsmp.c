@@ -139,3 +139,4 @@ static const struct smp_operations socfpga_a10_smp_ops __initconst = {
 
 CPU_METHOD_OF_DECLARE(socfpga_smp, "altr,socfpga-smp", &socfpga_smp_ops);
 CPU_METHOD_OF_DECLARE(socfpga_a10_smp, "altr,socfpga-a10-smp", &socfpga_a10_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

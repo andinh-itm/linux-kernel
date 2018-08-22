@@ -431,3 +431,4 @@ static struct usb_composite_driver nokia_driver = {
 };
 
 module_usb_composite_driver(nokia_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

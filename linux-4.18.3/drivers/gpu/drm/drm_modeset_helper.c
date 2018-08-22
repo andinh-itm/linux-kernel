@@ -232,3 +232,4 @@ int drm_mode_config_helper_resume(struct drm_device *dev)
 	return ret;
 }
 EXPORT_SYMBOL(drm_mode_config_helper_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

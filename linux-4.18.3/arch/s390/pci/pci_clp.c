@@ -642,3 +642,4 @@ static int __init clp_misc_init(void)
 }
 
 device_initcall(clp_misc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

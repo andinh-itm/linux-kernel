@@ -840,3 +840,4 @@ void pinmux_generic_free_functions(struct pinctrl_dev *pctldev)
 }
 
 #endif /* CONFIG_GENERIC_PINMUX_FUNCTIONS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

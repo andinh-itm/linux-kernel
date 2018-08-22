@@ -2665,3 +2665,4 @@ module_i2c_driver(nau8825_driver);
 MODULE_DESCRIPTION("ASoC nau8825 driver");
 MODULE_AUTHOR("Anatol Pomozov <anatol@chromium.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

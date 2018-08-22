@@ -1350,3 +1350,4 @@ static int __init ab8500_core_init(void)
 	return platform_driver_register(&ab8500_core_driver);
 }
 core_initcall(ab8500_core_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -137,3 +137,4 @@ struct parisc_driver wax_driver __refdata = {
 	.id_table =	wax_tbl,
 	.probe =	wax_init_chip,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

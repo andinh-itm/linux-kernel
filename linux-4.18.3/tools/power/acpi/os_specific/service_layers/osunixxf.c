@@ -1315,3 +1315,4 @@ void acpi_os_wait_events_complete(void)
 {
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

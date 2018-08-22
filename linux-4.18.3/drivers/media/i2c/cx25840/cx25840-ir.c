@@ -1268,3 +1268,4 @@ int cx25840_ir_remove(struct v4l2_subdev *sd)
 	state->ir_state = NULL;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

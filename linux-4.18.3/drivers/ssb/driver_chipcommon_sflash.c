@@ -162,3 +162,4 @@ int ssb_sflash_init(struct ssb_chipcommon *cc)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

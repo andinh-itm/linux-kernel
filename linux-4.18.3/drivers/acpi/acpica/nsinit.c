@@ -688,3 +688,4 @@ acpi_ns_init_one_device(acpi_handle obj_handle,
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

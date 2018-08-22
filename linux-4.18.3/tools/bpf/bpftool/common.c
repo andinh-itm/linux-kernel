@@ -620,3 +620,4 @@ void print_dev_json(__u32 ifindex, __u64 ns_dev, __u64 ns_inode)
 		jsonw_string_field(json_wtr, "ifname", name);
 	jsonw_end_object(json_wtr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

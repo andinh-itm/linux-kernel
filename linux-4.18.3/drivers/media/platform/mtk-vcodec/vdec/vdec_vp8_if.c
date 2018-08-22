@@ -631,3 +631,4 @@ struct vdec_common_if *get_vp8_dec_comm_if(void)
 {
 	return &vdec_vp8_if;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

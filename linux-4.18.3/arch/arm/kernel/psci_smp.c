@@ -128,3 +128,4 @@ const struct smp_operations psci_smp_ops __initconst = {
 	.cpu_kill		= psci_cpu_kill,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

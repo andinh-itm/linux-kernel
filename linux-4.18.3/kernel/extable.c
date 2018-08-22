@@ -174,3 +174,4 @@ int func_ptr_is_kernel_text(void *ptr)
 		return 1;
 	return is_module_text_address(addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

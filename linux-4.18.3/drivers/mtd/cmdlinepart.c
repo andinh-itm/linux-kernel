@@ -411,3 +411,4 @@ module_param(mtdparts, charp, 0);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Marius Groeger <mag@sysgo.de>");
 MODULE_DESCRIPTION("Command line configuration of MTD partitions");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

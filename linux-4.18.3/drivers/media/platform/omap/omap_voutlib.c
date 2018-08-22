@@ -355,3 +355,4 @@ bool omap_vout_dss_omap34xx(void)
 		return false;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

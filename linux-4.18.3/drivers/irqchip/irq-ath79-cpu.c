@@ -95,3 +95,4 @@ void __init ath79_cpu_irq_init(unsigned irq_wb_chan2, unsigned irq_wb_chan3)
 	irq_wb_chan[3] = irq_wb_chan3;
 	mips_cpu_irq_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

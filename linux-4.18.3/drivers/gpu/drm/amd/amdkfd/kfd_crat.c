@@ -1271,3 +1271,4 @@ void kfd_destroy_crat_image(void *crat_image)
 {
 	kfree(crat_image);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

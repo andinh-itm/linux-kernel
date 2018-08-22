@@ -363,3 +363,4 @@ void affs_free_bitmap(struct super_block *sb)
 	kfree(sbi->s_bitmap);
 	sbi->s_bitmap = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

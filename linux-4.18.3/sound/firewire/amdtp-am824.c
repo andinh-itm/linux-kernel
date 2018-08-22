@@ -396,3 +396,4 @@ int amdtp_am824_init(struct amdtp_stream *s, struct fw_unit *unit,
 				 sizeof(struct amdtp_am824));
 }
 EXPORT_SYMBOL_GPL(amdtp_am824_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

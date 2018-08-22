@@ -152,3 +152,4 @@ int __init sirfsoc_pm_init(void)
 	suspend_set_ops(&sirfsoc_pm_ops);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -52,3 +52,4 @@ const struct snd_bebob_spec phase88_rack_spec = {
 	.rate	= &phase_series_rate_spec,
 	.meter	= NULL
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

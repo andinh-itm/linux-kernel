@@ -102,3 +102,4 @@ int __init spi_eeprom_read(int busid, int chipid, int address,
 		spi_unregister_driver(&early_seeprom_driver);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

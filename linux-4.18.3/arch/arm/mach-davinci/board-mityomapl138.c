@@ -572,3 +572,4 @@ MACHINE_START(MITYOMAPL138, "MityDSP-L138/MityARM-1808")
 	.init_late	= davinci_init_late,
 	.dma_zone_size	= SZ_128M,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -877,3 +877,4 @@ module_platform_driver(ep93xx_eth_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ep93xx-eth");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

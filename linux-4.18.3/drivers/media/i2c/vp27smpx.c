@@ -198,3 +198,4 @@ static struct i2c_driver vp27smpx_driver = {
 };
 
 module_i2c_driver(vp27smpx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

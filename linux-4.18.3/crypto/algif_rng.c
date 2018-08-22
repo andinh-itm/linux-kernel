@@ -189,3 +189,4 @@ static void __exit rng_exit(void)
 
 module_init(rng_init);
 module_exit(rng_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

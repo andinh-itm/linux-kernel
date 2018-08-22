@@ -444,3 +444,4 @@ module_platform_driver(cc10001_adc_driver);
 MODULE_AUTHOR("Phani Movva <Phani.Movva@imgtec.com>");
 MODULE_DESCRIPTION("Cosmic Circuits ADC driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

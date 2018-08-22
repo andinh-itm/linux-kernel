@@ -287,3 +287,4 @@ void foo(void)
 		offsetof (struct itc_jitter_data_t, itc_lastcycle));
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -786,3 +786,4 @@ module_exit(carminefb_cleanup);
 MODULE_AUTHOR("Sebastian Siewior <bigeasy@linutronix.de>");
 MODULE_DESCRIPTION("Framebuffer driver for Fujitsu Carmine based devices");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

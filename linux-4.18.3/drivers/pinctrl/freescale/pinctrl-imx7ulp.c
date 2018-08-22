@@ -356,3 +356,4 @@ static int __init imx7ulp_pinctrl_init(void)
 	return platform_driver_register(&imx7ulp_pinctrl_driver);
 }
 arch_initcall(imx7ulp_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

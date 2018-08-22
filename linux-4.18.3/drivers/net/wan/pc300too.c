@@ -532,3 +532,4 @@ MODULE_PARM_DESC(use_crystal_clock,
 		 "Use 24.576 MHz clock instead of PCI clock");
 module_init(pc300_init_module);
 module_exit(pc300_cleanup_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

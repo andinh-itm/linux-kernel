@@ -654,3 +654,4 @@ module_i2c_driver(ov5647_driver);
 MODULE_AUTHOR("Ramiro Oliveira <roliveir@synopsys.com>");
 MODULE_DESCRIPTION("A low-level driver for OmniVision ov5647 sensors");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

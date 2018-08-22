@@ -40,3 +40,4 @@ DT_MACHINE_START(MMP2_DT, "Marvell MMP2 (Device Tree Support)")
 	.init_time	= mmp_init_time,
 	.dt_compat	= mmp2_dt_board_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

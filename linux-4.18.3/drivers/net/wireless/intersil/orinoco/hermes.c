@@ -775,3 +775,4 @@ static const struct hermes_ops hermes_ops_local = {
 	.lock_irq = hermes_lock_irq,
 	.unlock_irq = hermes_unlock_irq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

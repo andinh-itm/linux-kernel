@@ -1016,3 +1016,4 @@ MODULE_AUTHOR("Bjorn Andersson <bjorn.andersson@sonymobile.com>");
 MODULE_DESCRIPTION("Qualcomm MSM8660 pinctrl driver");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, msm8660_pinctrl_of_match);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

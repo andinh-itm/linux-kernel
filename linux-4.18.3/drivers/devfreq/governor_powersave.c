@@ -62,3 +62,4 @@ static void __exit devfreq_powersave_exit(void)
 }
 module_exit(devfreq_powersave_exit);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

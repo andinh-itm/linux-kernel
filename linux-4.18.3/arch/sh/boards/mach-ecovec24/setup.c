@@ -1446,3 +1446,4 @@ static struct sh_machine_vector mv_ecovec __initmv = {
 	.mv_name	= "R0P7724 (EcoVec)",
 	.mv_mem_reserve	= ecovec_mv_mem_reserve,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

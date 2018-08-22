@@ -321,3 +321,4 @@ void __init rcar_du_of_init(const struct of_device_id *of_ids)
 {
 	rcar_du_of_lvds_patch(of_ids);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

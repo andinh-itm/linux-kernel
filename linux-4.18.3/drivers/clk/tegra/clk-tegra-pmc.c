@@ -131,3 +131,4 @@ void __init tegra_pmc_clk_init(void __iomem *pmc_base,
 	*dt_clk = clk;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

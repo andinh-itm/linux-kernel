@@ -152,3 +152,4 @@ module_platform_driver(rockchip_dp_phy_driver);
 MODULE_AUTHOR("Yakir Yang <ykk@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip DP PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

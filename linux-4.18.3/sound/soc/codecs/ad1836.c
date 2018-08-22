@@ -411,3 +411,4 @@ module_spi_driver(ad1836_spi_driver);
 MODULE_DESCRIPTION("ASoC ad1836 driver");
 MODULE_AUTHOR("Barry Song <21cnbao@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

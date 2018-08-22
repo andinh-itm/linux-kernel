@@ -538,3 +538,4 @@ void snd_gf1_peek_print_block(struct snd_gus_card * gus, unsigned int addr, int 
 #endif  /*  0  */
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

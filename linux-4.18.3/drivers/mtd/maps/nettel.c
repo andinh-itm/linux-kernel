@@ -459,3 +459,4 @@ MODULE_AUTHOR("Greg Ungerer <gerg@snapgear.com>");
 MODULE_DESCRIPTION("SnapGear/SecureEdge FLASH support");
 
 /****************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

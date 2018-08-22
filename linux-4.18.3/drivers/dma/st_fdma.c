@@ -887,3 +887,4 @@ MODULE_DESCRIPTION("STMicroelectronics FDMA engine driver");
 MODULE_AUTHOR("Ludovic.barre <Ludovic.barre@st.com>");
 MODULE_AUTHOR("Peter Griffin <peter.griffin@linaro.org>");
 MODULE_ALIAS("platform: " DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -227,3 +227,4 @@ module_exit(mpc85xx_l2ctlr_of_exit);
 
 MODULE_DESCRIPTION("Freescale MPC85xx L2 controller init");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

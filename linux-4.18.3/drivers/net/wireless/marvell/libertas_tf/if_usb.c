@@ -920,3 +920,4 @@ module_usb_driver(if_usb_driver);
 MODULE_DESCRIPTION("8388 USB WLAN Thinfirm Driver");
 MODULE_AUTHOR("Cozybit Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

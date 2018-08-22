@@ -140,3 +140,4 @@ void __init opal_msglog_sysfs_init(void)
 	if (sysfs_create_bin_file(opal_kobj, &opal_msglog_attr) != 0)
 		pr_warn("OPAL: sysfs file creation failed\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

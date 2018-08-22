@@ -339,3 +339,4 @@ module_platform_driver(sh_keysc_device_driver);
 MODULE_AUTHOR("Magnus Damm");
 MODULE_DESCRIPTION("SuperH KEYSC Keypad Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -155,3 +155,4 @@ int apei_clear_mce(u64 record_id)
 {
 	return erst_clear(record_id);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

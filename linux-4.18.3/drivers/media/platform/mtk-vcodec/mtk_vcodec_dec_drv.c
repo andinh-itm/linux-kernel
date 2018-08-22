@@ -406,3 +406,4 @@ module_platform_driver(mtk_vcodec_dec_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Mediatek video codec V4L2 decoder driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

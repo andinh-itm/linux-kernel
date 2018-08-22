@@ -266,3 +266,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("LZO1X Decompressor");
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

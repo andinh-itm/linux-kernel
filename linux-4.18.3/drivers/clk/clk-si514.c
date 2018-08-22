@@ -376,3 +376,4 @@ module_i2c_driver(si514_driver);
 MODULE_AUTHOR("Mike Looijmans <mike.looijmans@topic.nl>");
 MODULE_DESCRIPTION("Si514 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

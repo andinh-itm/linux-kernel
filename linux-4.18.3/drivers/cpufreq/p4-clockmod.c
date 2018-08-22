@@ -276,3 +276,4 @@ MODULE_LICENSE("GPL");
 
 late_initcall(cpufreq_p4_init);
 module_exit(cpufreq_p4_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

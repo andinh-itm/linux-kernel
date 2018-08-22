@@ -38,3 +38,4 @@ static int __init paravirt_cons_init(void)
 core_initcall(paravirt_cons_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

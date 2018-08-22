@@ -256,3 +256,4 @@ const struct ethtool_ops mlx5i_pkey_ethtool_ops = {
 	.get_link           = ethtool_op_get_link,
 	.get_ts_info        = mlx5i_get_ts_info,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

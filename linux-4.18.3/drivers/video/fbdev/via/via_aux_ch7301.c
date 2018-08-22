@@ -48,3 +48,4 @@ void via_aux_ch7301_probe(struct via_aux_bus *bus)
 	probe(bus, 0x75);
 	probe(bus, 0x76);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

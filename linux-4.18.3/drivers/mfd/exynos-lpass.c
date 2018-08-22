@@ -197,3 +197,4 @@ module_platform_driver(exynos_lpass_driver);
 
 MODULE_DESCRIPTION("Samsung Low Power Audio Subsystem driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

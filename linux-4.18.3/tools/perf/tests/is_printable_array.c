@@ -36,3 +36,4 @@ int test__is_printable_array(struct test *test __maybe_unused, int subtest __may
 
 	return TEST_OK;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

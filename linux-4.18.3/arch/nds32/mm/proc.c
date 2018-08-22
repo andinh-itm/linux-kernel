@@ -531,3 +531,4 @@ void cpu_switch_mm(struct mm_struct *mm)
 	__nds32__mtsr_dsb(cid, NDS32_SR_TLB_MISC);
 	__nds32__mtsr_isb(__pa(mm->pgd), NDS32_SR_L1_PPTB);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

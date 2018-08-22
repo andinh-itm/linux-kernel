@@ -426,3 +426,4 @@ err_cleanup:
 	dev->snd_card = NULL;
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

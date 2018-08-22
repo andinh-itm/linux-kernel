@@ -3068,3 +3068,4 @@ module_platform_driver(mmcc_msm8960_driver);
 MODULE_DESCRIPTION("QCOM MMCC MSM8960 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:mmcc-msm8960");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

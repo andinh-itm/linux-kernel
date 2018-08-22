@@ -332,3 +332,4 @@ inline int rmi_2d_sensor_of_probe(struct device *dev,
 }
 #endif
 EXPORT_SYMBOL_GPL(rmi_2d_sensor_of_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

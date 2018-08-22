@@ -607,3 +607,4 @@ MACHINE_START(N35, "Acer-N35")
 	.init_irq	= s3c2410_init_irq,
 	.map_io		= n30_map_io,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

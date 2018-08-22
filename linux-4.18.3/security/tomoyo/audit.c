@@ -467,3 +467,4 @@ __poll_t tomoyo_poll_log(struct file *file, poll_table *wait)
 		return EPOLLIN | EPOLLRDNORM;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

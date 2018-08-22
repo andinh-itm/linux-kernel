@@ -1079,3 +1079,4 @@ void hns_roce_cleanup_qp_table(struct hns_roce_dev *hr_dev)
 {
 	hns_roce_bitmap_cleanup(&hr_dev->qp_table.bitmap);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

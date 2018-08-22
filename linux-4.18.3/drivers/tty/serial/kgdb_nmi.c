@@ -381,3 +381,4 @@ int kgdb_unregister_nmi_console(void)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(kgdb_unregister_nmi_console);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

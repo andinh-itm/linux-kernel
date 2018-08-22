@@ -309,3 +309,4 @@ MODULE_AUTHOR("Haavard Skinnemoen (Atmel)");
 MODULE_DESCRIPTION("Samsung LTV350QV LCD Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:ltv350qv");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

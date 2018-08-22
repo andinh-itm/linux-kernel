@@ -435,3 +435,4 @@ void vtime_init(void)
 		stcctm5(smp_cpu_mtid + 1, this_cpu_ptr(mt_cycles));
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

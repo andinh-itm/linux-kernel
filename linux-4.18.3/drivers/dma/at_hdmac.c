@@ -2173,3 +2173,4 @@ MODULE_DESCRIPTION("Atmel AHB DMA Controller driver");
 MODULE_AUTHOR("Nicolas Ferre <nicolas.ferre@atmel.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:at_hdmac");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

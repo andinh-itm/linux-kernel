@@ -1880,3 +1880,4 @@ int rsi_mgmt_pkt_recv(struct rsi_common *common, u8 *msg)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

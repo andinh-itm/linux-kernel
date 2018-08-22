@@ -441,3 +441,4 @@ int zd_rf_init_al2230(struct zd_rf *rf)
 	rf->patch_cck_gain = 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

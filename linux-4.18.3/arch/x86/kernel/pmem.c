@@ -30,3 +30,4 @@ static __init int register_e820_pmem(void)
 	return platform_device_add(pdev);
 }
 device_initcall(register_e820_pmem);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

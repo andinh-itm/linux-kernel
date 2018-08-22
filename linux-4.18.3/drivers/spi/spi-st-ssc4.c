@@ -481,3 +481,4 @@ module_platform_driver(spi_st_driver);
 MODULE_AUTHOR("Patrice Chotard <patrice.chotard@st.com>");
 MODULE_DESCRIPTION("STM SSC SPI driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

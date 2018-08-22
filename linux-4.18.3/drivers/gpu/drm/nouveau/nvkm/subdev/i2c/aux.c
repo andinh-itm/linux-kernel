@@ -176,3 +176,4 @@ nvkm_i2c_aux_new_(const struct nvkm_i2c_aux_func *func,
 		return -ENOMEM;
 	return nvkm_i2c_aux_ctor(func, pad, id, *paux);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

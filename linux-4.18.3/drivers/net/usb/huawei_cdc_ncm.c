@@ -228,3 +228,4 @@ module_usb_driver(huawei_cdc_ncm_driver);
 MODULE_AUTHOR("Enrico Mioso <mrkiko.rs@gmail.com>");
 MODULE_DESCRIPTION("USB CDC NCM host driver with encapsulated protocol support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

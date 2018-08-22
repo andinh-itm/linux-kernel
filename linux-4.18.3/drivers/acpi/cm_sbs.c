@@ -99,3 +99,4 @@ void acpi_unlock_battery_dir(struct proc_dir_entry *acpi_battery_dir_param)
 	return;
 }
 EXPORT_SYMBOL(acpi_unlock_battery_dir);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

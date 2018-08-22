@@ -7662,3 +7662,4 @@ void l2cap_exit(void)
 
 module_param(disable_ertm, bool, 0644);
 MODULE_PARM_DESC(disable_ertm, "Disable enhanced retransmission mode");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

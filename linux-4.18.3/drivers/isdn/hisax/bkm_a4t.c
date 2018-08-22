@@ -356,3 +356,4 @@ int setup_bkm_a4t(struct IsdnCard *card)
 
 	return a4t_cs_init(card, cs, pci_memaddr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

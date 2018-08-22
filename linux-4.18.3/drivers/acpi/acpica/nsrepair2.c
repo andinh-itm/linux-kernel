@@ -945,3 +945,4 @@ acpi_ns_remove_element(union acpi_operand_object *obj_desc, u32 index)
 	*dest = NULL;
 	obj_desc->package.count = new_count;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

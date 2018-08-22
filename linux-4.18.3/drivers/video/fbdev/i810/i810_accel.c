@@ -454,3 +454,4 @@ void i810fb_init_ringbuffer(struct fb_info *info)
 	i810_writel(IRING + 12, mmio, tmp1 | tmp2);
 	i810fb_iring_enable(par, ON);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

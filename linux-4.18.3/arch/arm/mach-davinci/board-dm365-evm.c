@@ -781,3 +781,4 @@ MACHINE_START(DAVINCI_DM365_EVM, "DaVinci DM365 EVM")
 	.dma_zone_size	= SZ_128M,
 MACHINE_END
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2131,3 +2131,4 @@ void viafb_fill_var_timing_info(struct fb_var_screeninfo *var,
 	var->vsync_len = mode->vsync_len;
 	var->sync = mode->sync;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -120,3 +120,4 @@ void netup_initialize(struct cx23885_dev *dev)
 	/* start microcontroller */
 	i2c_av_and_or(i2c, 0x803, ~0x10, 0x10);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

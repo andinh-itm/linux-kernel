@@ -238,3 +238,4 @@ __init int yamon_dt_serial_config(void *fdt)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

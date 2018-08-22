@@ -812,3 +812,4 @@ int sigmadsp_restrict_params(struct sigmadsp *sigmadsp,
 EXPORT_SYMBOL_GPL(sigmadsp_restrict_params);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

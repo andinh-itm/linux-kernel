@@ -303,3 +303,4 @@ asmlinkage void syscall_trace_leave(void)
 		tracehook_report_syscall_exit(task_pt_regs(current), 0);
 }
 #endif /* CONFIG_COLDFIRE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

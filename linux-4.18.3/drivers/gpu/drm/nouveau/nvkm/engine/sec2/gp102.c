@@ -28,3 +28,4 @@ gp102_sec2_new(struct nvkm_device *device, int index,
 {
 	return nvkm_sec2_new_(device, index, psec2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -855,3 +855,4 @@ console_map_init(void)
 			con_set_default_unimap(vc_cons[i].d);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -98,3 +98,4 @@ void hns3_dcbnl_setup(struct hnae3_handle *handle)
 
 	dev->dcbnl_ops = &hns3_dcbnl_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

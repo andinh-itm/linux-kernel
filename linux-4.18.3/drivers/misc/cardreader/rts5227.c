@@ -372,3 +372,4 @@ void rts522a_init_params(struct rtsx_pcr *pcr)
 
 	pcr->reg_pm_ctrl3 = RTS522A_PM_CTRL3;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

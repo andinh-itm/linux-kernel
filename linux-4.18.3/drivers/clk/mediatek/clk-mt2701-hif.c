@@ -79,3 +79,4 @@ static struct platform_driver clk_mt2701_hif_drv = {
 };
 
 builtin_platform_driver(clk_mt2701_hif_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

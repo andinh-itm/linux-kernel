@@ -330,3 +330,4 @@ size_t FSE_decompress_wksp(void *dst, size_t dstCapacity, const void *cSrc, size
 
 	return FSE_decompress_usingDTable(dst, dstCapacity, ip, cSrcSize, dt); /* always return, even if it is an error code */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

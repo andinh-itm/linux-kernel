@@ -242,3 +242,4 @@ void viafb_vt1636_patch_skew_on_vt3364(
 	viafb_set_dpa_gfx(plvds_chip_info->output_interface,
 		    &GFX_DPA_SETTING_TBL_VT3364[index]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

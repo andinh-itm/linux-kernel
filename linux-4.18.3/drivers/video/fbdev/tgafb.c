@@ -1609,3 +1609,4 @@ module_exit(tgafb_exit);
 
 MODULE_DESCRIPTION("Framebuffer driver for TGA/SFB+ chipset");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

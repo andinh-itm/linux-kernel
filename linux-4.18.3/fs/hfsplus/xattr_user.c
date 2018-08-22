@@ -35,3 +35,4 @@ const struct xattr_handler hfsplus_xattr_user_handler = {
 	.get	= hfsplus_user_getxattr,
 	.set	= hfsplus_user_setxattr,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

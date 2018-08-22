@@ -141,3 +141,4 @@ int kvm_mips_trans_mtc0(union mips_instruction inst, u32 *opc,
 
 	return kvm_mips_trans_replace(vcpu, opc, mtc0_inst);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -208,3 +208,4 @@ MODULE_AUTHOR("Mike Looijmans <mike.looijmans@topic.nl>");
 MODULE_DESCRIPTION("Driver for LTC3651 charger");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ltc3651-charger");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

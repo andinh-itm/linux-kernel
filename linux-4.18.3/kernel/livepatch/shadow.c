@@ -309,3 +309,4 @@ void klp_shadow_free_all(unsigned long id, klp_shadow_dtor_t dtor)
 	spin_unlock_irqrestore(&klp_shadow_lock, flags);
 }
 EXPORT_SYMBOL_GPL(klp_shadow_free_all);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

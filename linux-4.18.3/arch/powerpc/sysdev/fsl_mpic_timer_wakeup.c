@@ -157,3 +157,4 @@ module_exit(fsl_wakeup_sys_exit);
 MODULE_DESCRIPTION("Freescale MPIC global timer wakeup driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Wang Dongsheng <dongsheng.wang@freescale.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

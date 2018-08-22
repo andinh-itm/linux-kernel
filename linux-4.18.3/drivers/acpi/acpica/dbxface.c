@@ -481,3 +481,4 @@ void acpi_set_debugger_thread_id(acpi_thread_id thread_id)
 }
 
 ACPI_EXPORT_SYMBOL(acpi_set_debugger_thread_id)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -570,3 +570,4 @@ int smapi_init(void)
 
 	return retval;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

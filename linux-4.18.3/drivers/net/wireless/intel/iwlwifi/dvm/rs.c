@@ -3336,3 +3336,4 @@ void iwlagn_rate_control_unregister(void)
 	ieee80211_rate_control_unregister(&rs_ops);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

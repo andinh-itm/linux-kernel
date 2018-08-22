@@ -150,3 +150,4 @@ static void alc_fixup_dell_wmi(struct hda_codec *codec,
 }
 
 #endif /* CONFIG_DELL_LAPTOP */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

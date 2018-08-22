@@ -164,3 +164,4 @@ prom_get_idprom(char *idbuf, int num_bytes)
 
         return idbuf[0];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

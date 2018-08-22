@@ -1771,3 +1771,4 @@ MODULE_DESCRIPTION("Arizona Extcon driver");
 MODULE_AUTHOR("Mark Brown <broonie@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:extcon-arizona");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

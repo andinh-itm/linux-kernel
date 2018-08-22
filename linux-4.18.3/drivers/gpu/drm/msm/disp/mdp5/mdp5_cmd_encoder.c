@@ -228,3 +228,4 @@ int mdp5_cmd_encoder_set_split_display(struct drm_encoder *encoder,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

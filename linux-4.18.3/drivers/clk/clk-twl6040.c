@@ -126,3 +126,4 @@ MODULE_DESCRIPTION("TWL6040 clock driver for McPDM functional clock");
 MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_ALIAS("platform:twl6040-pdmclk");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

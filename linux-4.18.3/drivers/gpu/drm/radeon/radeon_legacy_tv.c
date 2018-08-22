@@ -922,3 +922,4 @@ void radeon_legacy_tv_adjust_pll2(struct drm_encoder *encoder,
 	*pixclks_cntl |= RADEON_PIX2CLK_SRC_SEL_P2PLLCLK | RADEON_PIXCLK_TV_SRC_SEL;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

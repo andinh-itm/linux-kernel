@@ -355,3 +355,4 @@ module_exit(slidebar_exit);
 MODULE_AUTHOR("Andrey Moiseev <o2g.org.ru@gmail.com>");
 MODULE_DESCRIPTION("Slidebar input support for some Lenovo IdeaPad laptops");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1049,3 +1049,4 @@ void coresight_unregister(struct coresight_device *csdev)
 	device_unregister(&csdev->dev);
 }
 EXPORT_SYMBOL_GPL(coresight_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

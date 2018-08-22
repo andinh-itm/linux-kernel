@@ -636,3 +636,4 @@ module_i2c_driver(ps8622_driver);
 MODULE_AUTHOR("Vincent Palatin <vpalatin@chromium.org>");
 MODULE_DESCRIPTION("Parade ps8622/ps8625 eDP-LVDS converter driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

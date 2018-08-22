@@ -553,3 +553,4 @@ int pwc_get_cmos_sensor(struct pwc_device *pdev, int *sensor)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

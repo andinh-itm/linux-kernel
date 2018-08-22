@@ -1252,3 +1252,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Yoshihiro Shimoda");
 MODULE_DESCRIPTION("SuperH FLCTL driver");
 MODULE_ALIAS("platform:sh_flctl");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

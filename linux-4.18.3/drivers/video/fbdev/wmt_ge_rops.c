@@ -179,3 +179,4 @@ MODULE_DESCRIPTION("Accelerators for raster operations using "
 		   "WonderMedia Graphics Engine");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, wmt_dt_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

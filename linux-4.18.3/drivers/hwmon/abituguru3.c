@@ -1319,3 +1319,4 @@ MODULE_LICENSE("GPL");
 
 module_init(abituguru3_init);
 module_exit(abituguru3_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

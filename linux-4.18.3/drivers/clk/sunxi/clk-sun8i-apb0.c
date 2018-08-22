@@ -114,3 +114,4 @@ static struct platform_driver sun8i_a23_apb0_clk_driver = {
 	.probe = sun8i_a23_apb0_clk_probe,
 };
 builtin_platform_driver(sun8i_a23_apb0_clk_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

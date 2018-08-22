@@ -2510,3 +2510,4 @@ int dmz_resume_metadata(struct dmz_metadata *zmd)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

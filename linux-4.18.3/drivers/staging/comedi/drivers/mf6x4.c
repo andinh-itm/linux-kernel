@@ -308,3 +308,4 @@ module_comedi_pci_driver(mf6x4_driver, mf6x4_pci_driver);
 MODULE_AUTHOR("Rostislav Lisovy <lisovy@gmail.com>");
 MODULE_DESCRIPTION("Comedi MF634 and MF624 DAQ cards driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

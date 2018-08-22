@@ -321,3 +321,4 @@ void nxp_nci_fw_recv_frame(struct nci_dev *ndev, struct sk_buff *skb)
 		schedule_work(&fw_info->work);
 }
 EXPORT_SYMBOL(nxp_nci_fw_recv_frame);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

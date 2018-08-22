@@ -2185,3 +2185,4 @@ void bnx2fc_free_fw_resc(struct bnx2fc_hba *hba)
 	}
 	bnx2fc_free_hash_table(hba);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

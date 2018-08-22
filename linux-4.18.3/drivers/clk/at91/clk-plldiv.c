@@ -131,3 +131,4 @@ of_at91sam9x5_clk_plldiv_setup(struct device_node *np)
 }
 CLK_OF_DECLARE(at91sam9x5_clk_plldiv, "atmel,at91sam9x5-clk-plldiv",
 	       of_at91sam9x5_clk_plldiv_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

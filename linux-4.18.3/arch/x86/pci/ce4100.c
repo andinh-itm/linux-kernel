@@ -338,3 +338,4 @@ int __init ce4100_pci_init(void)
 	/* Indicate caller that it should invoke pci_legacy_init() */
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

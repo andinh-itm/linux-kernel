@@ -154,3 +154,4 @@ void __intel_pt_log(const char *fmt, ...)
 	vfprintf(f, fmt, args);
 	va_end(args);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

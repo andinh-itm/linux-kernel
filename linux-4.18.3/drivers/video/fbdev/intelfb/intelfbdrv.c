@@ -1667,3 +1667,4 @@ static int intelfb_sync(struct fb_info *info)
 	return 0;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

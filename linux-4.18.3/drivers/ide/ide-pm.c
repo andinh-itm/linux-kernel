@@ -279,3 +279,4 @@ void ide_check_pm_state(ide_drive_t *drive, struct request *rq)
 		spin_unlock_irqrestore(q->queue_lock, flags);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

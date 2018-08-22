@@ -1605,3 +1605,4 @@ module_platform_driver(pwrap_drv);
 MODULE_AUTHOR("Flora Fu, MediaTek");
 MODULE_DESCRIPTION("MediaTek MT8135 PMIC Wrapper Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

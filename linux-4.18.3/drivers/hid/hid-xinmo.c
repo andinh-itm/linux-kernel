@@ -60,3 +60,4 @@ static struct hid_driver xinmo_driver = {
 
 module_hid_driver(xinmo_driver);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

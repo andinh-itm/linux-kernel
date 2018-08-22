@@ -113,3 +113,4 @@ bool i2c_detect_slave_mode(struct device *dev)
 	return false;
 }
 EXPORT_SYMBOL_GPL(i2c_detect_slave_mode);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

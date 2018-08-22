@@ -1052,3 +1052,4 @@ MODULE_AUTHOR("Harsha Priya <harshapriya.n@intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:kbl_rt5663");
 MODULE_ALIAS("platform:kbl_rt5663_m98927");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

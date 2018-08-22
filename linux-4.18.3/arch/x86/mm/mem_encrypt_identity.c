@@ -565,3 +565,4 @@ void __init sme_enable(struct boot_params *bp)
 
 	physical_mask &= ~sme_me_mask;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

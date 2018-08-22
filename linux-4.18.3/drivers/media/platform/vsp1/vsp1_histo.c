@@ -589,3 +589,4 @@ error:
 	vsp1_histogram_cleanup(histo);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

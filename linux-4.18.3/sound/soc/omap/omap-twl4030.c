@@ -351,3 +351,4 @@ MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@ti.com>");
 MODULE_DESCRIPTION("ALSA SoC for TI SoC based boards with twl4030 codec");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:omap-twl4030");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

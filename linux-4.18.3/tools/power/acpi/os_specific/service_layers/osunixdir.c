@@ -168,3 +168,4 @@ void acpi_os_close_directory(void *dir_handle)
 	closedir(external_info->dir_ptr);
 	free(dir_handle);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

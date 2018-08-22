@@ -275,3 +275,4 @@ void iio_simple_dummy_events_unregister(struct iio_dev *indio_dev)
 	/* Not part of normal driver */
 	iio_dummy_evgen_release_irq(st->event_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

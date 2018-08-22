@@ -419,3 +419,4 @@ void acpi_db_dump_buffer(u32 address)
 				  ACPI_UINT32_MAX);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

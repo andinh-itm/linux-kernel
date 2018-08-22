@@ -321,3 +321,4 @@ int bench_futex_wake_parallel(int argc, const char **argv)
 	return ret;
 }
 #endif /* HAVE_PTHREAD_BARRIER */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

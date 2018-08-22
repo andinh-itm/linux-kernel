@@ -4378,3 +4378,4 @@ u32 ni_dpm_get_mclk(struct radeon_device *rdev, bool low)
 		return requested_state->performance_levels[requested_state->performance_level_count - 1].mclk;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

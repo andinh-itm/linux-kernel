@@ -777,3 +777,4 @@ struct device_node *dev_pm_opp_get_of_node(struct dev_pm_opp *opp)
 	return of_node_get(opp->np);
 }
 EXPORT_SYMBOL_GPL(dev_pm_opp_get_of_node);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

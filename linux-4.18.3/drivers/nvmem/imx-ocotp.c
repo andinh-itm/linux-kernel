@@ -482,3 +482,4 @@ module_platform_driver(imx_ocotp_driver);
 MODULE_AUTHOR("Philipp Zabel <p.zabel@pengutronix.de>");
 MODULE_DESCRIPTION("i.MX6/i.MX7 OCOTP fuse box driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

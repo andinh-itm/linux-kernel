@@ -581,3 +581,4 @@ module_i2c_driver(max9611_driver);
 MODULE_AUTHOR("Jacopo Mondi <jacopo+renesas@jmondi.org>");
 MODULE_DESCRIPTION("Maxim max9611/12 current sense amplifier with 12bit ADC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

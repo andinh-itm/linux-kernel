@@ -261,3 +261,4 @@ int kvm_s390_handle_diag(struct kvm_vcpu *vcpu)
 		return -EOPNOTSUPP;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -491,3 +491,4 @@ int brcmf_btcoex_set_mode(struct brcmf_cfg80211_vif *vif,
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -490,3 +490,4 @@ int mtk_eint_do_init(struct mtk_eint *eint)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

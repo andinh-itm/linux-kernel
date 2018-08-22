@@ -505,3 +505,4 @@ static void __init pxa27x_dt_clocks_init(struct device_node *np)
 	clk_pxa_dt_common_init(np);
 }
 CLK_OF_DECLARE(pxa_clks, "marvell,pxa270-clocks", pxa27x_dt_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

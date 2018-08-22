@@ -1285,3 +1285,4 @@ static void __exit adbhid_exit(void)
  
 module_init(adbhid_init);
 module_exit(adbhid_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -559,3 +559,4 @@ module_platform_driver_probe(davinci_rtc_driver, davinci_rtc_probe);
 MODULE_AUTHOR("Miguel Aguilar <miguel.aguilar@ridgerun.com>");
 MODULE_DESCRIPTION("Texas Instruments DaVinci PRTC Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

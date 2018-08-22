@@ -85,3 +85,4 @@ int qxl_mode_dumb_mmap(struct drm_file *file_priv,
 	drm_gem_object_put_unlocked(gobj);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

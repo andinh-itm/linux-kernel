@@ -1383,3 +1383,4 @@ static void __exit ehci_hcd_cleanup(void)
 	clear_bit(USB_EHCI_LOADED, &usb_hcds_loaded);
 }
 module_exit(ehci_hcd_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -480,3 +480,4 @@ module_usb_composite_driver(eth_driver);
 MODULE_DESCRIPTION(PREFIX DRIVER_DESC);
 MODULE_AUTHOR("David Brownell, Benedikt Spanger");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

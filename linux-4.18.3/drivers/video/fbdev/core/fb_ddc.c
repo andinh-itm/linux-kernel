@@ -125,3 +125,4 @@ EXPORT_SYMBOL_GPL(fb_ddc_read);
 MODULE_AUTHOR("Dennis Munsie <dmunsie@cecropia.com>");
 MODULE_DESCRIPTION("DDC/EDID reading support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

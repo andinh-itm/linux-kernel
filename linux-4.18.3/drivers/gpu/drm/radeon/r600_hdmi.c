@@ -533,3 +533,4 @@ void r600_hdmi_enable(struct drm_encoder *encoder, bool enable)
 		  enable ? "En" : "Dis", dig->afmt->offset, radeon_encoder->encoder_id);
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

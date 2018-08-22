@@ -544,3 +544,4 @@ module_i2c_driver(adnp_i2c_driver);
 MODULE_DESCRIPTION("Avionic Design N-bit GPIO expander");
 MODULE_AUTHOR("Thierry Reding <thierry.reding@avionic-design.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

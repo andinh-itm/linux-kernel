@@ -679,3 +679,4 @@ MODULE_PARM_DESC(vt_switch, "enable VT switch during suspend/resume");
 
 MODULE_DESCRIPTION("Framebuffer driver for the AMD Geode LX");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

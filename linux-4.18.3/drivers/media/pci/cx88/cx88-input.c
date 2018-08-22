@@ -659,3 +659,4 @@ void cx88_i2c_init_ir(struct cx88_core *core)
 MODULE_AUTHOR("Gerd Knorr, Pavel Machek, Chris Pascoe");
 MODULE_DESCRIPTION("input driver for cx88 GPIO-based IR remote controls");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

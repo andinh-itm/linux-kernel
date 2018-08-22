@@ -469,3 +469,4 @@ struct mqd_manager *mqd_manager_init_cik_hawaii(enum KFD_MQD_TYPE type,
 		mqd->update_mqd = update_mqd_hawaii;
 	return mqd;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

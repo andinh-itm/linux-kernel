@@ -86,3 +86,4 @@ EXPORT_SYMBOL_GPL(__devm_regmap_init_sdw);
 
 MODULE_DESCRIPTION("Regmap SoundWire Module");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

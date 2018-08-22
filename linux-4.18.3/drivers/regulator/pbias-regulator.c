@@ -260,3 +260,4 @@ MODULE_AUTHOR("Balaji T K <balajitk@ti.com>");
 MODULE_DESCRIPTION("pbias voltage regulator");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pbias-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

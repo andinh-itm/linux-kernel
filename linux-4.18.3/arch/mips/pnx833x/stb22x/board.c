@@ -131,3 +131,4 @@ void __init pnx833x_board_setup(void)
 	pnx833x_gpio_select_function_alt(0);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

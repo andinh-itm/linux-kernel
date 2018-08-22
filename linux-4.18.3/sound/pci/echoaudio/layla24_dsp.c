@@ -392,3 +392,4 @@ static int dsp_set_digital_mode(struct echoaudio *chip, u8 mode)
 	dev_dbg(chip->card->dev, "set_digital_mode to %d\n", mode);
 	return incompatible_clock;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

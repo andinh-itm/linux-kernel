@@ -54,3 +54,4 @@ struct device_attribute *fnic_attrs[] = {
 	&dev_attr_link_state,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

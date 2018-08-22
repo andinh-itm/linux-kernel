@@ -74,3 +74,4 @@ int kallsyms__parse(const char *filename, void *arg,
 out_failure:
 	return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

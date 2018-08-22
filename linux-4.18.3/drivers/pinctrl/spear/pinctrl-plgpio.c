@@ -716,3 +716,4 @@ static int __init plgpio_init(void)
 	return platform_driver_register(&plgpio_driver);
 }
 subsys_initcall(plgpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

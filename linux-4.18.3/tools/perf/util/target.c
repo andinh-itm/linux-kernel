@@ -150,3 +150,4 @@ int target__strerror(struct target *target, int errnum,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

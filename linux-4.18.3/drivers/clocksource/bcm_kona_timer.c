@@ -204,3 +204,4 @@ TIMER_OF_DECLARE(brcm_kona, "brcm,kona-timer", kona_timer_init);
  * being kept here for driver compatibility
  */
 TIMER_OF_DECLARE(bcm_kona, "bcm,kona-timer", kona_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

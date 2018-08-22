@@ -400,3 +400,4 @@ int snd_ff_create_pcm_devices(struct snd_ff *ff)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -460,3 +460,4 @@ module_usb_driver(i1480_dfu_driver);
 MODULE_AUTHOR("Inaky Perez-Gonzalez <inaky.perez-gonzalez@intel.com>");
 MODULE_DESCRIPTION("Intel Wireless UWB Link 1480 firmware uploader for USB");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

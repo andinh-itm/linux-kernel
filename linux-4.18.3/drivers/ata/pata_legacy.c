@@ -1277,3 +1277,4 @@ module_param(iordy_mask, int, 0);
 
 module_init(legacy_init);
 module_exit(legacy_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

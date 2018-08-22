@@ -452,3 +452,4 @@ module_platform_driver(qoriq_ptp_driver);
 MODULE_AUTHOR("Richard Cochran <richardcochran@gmail.com>");
 MODULE_DESCRIPTION("PTP clock for Freescale QorIQ 1588 timer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

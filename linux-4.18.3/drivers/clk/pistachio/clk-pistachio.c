@@ -336,3 +336,4 @@ static void __init pistachio_cr_top_init(struct device_node *np)
 }
 CLK_OF_DECLARE(pistachio_cr_top, "img,pistachio-cr-top",
 	       pistachio_cr_top_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode
