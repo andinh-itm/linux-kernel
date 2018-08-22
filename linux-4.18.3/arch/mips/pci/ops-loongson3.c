@@ -100,3 +100,4 @@ struct pci_ops loongson_pci_ops = {
 	.read = loongson3_pci_pcibios_read,
 	.write = loongson3_pci_pcibios_write
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

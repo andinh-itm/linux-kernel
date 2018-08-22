@@ -496,3 +496,4 @@ void __init omap4_mpuss_early_init(void)
 		writel_relaxed(startup_pa, sar_base +
 			       OMAP5_CPU1_WAKEUP_NS_PA_ADDR_OFFSET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

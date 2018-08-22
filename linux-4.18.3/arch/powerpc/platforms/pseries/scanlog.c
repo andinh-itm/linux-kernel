@@ -198,3 +198,4 @@ static void __exit scanlog_cleanup(void)
 module_init(scanlog_init);
 module_exit(scanlog_cleanup);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1287,3 +1287,4 @@ void mtk_cipher_alg_release(struct mtk_cryp *cryp)
 	mtk_aes_unregister_algs();
 	mtk_aes_record_free(cryp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

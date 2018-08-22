@@ -105,3 +105,4 @@ MODULE_AUTHOR("Phil Sutter <n0-1@freewrt.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Support for S1 button on Routerboard 532");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

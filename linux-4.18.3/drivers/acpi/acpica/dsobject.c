@@ -554,3 +554,4 @@ acpi_ds_init_object_from_op(struct acpi_walk_state *walk_state,
 
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

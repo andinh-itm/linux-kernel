@@ -1034,3 +1034,4 @@ static void __exit hp_wmi_exit(void)
 	}
 }
 module_exit(hp_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

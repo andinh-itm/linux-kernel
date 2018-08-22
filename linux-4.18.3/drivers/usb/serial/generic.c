@@ -654,3 +654,4 @@ int usb_serial_generic_resume(struct usb_serial *serial)
 	return c ? -EIO : 0;
 }
 EXPORT_SYMBOL_GPL(usb_serial_generic_resume);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

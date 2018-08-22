@@ -335,3 +335,4 @@ MODULE_ALIAS("platform:tps80031-rtc");
 MODULE_DESCRIPTION("TI TPS80031/TPS80032 RTC driver");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

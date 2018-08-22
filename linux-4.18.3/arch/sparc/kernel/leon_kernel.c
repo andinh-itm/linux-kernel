@@ -523,3 +523,4 @@ void __init leon_init_IRQ(void)
 	sparc_config.clear_clock_irq  = leon_clear_clock_irq;
 	sparc_config.load_profile_irq = leon_load_profile_irq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

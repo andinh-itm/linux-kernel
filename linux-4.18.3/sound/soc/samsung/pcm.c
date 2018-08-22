@@ -605,3 +605,4 @@ MODULE_AUTHOR("Jaswinder Singh, <jassisinghbrar@gmail.com>");
 MODULE_DESCRIPTION("S3C PCM Controller Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:samsung-pcm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

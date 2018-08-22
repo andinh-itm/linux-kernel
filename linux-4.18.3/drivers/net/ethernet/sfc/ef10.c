@@ -6814,3 +6814,4 @@ const struct efx_nic_type efx_hunt_a0_nic_type = {
 			    1 << HWTSTAMP_FILTER_ALL,
 	.rx_hash_key_size = 40,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -920,3 +920,4 @@ MODULE_DESCRIPTION("ASoC ADAU1701 SigmaDSP driver");
 MODULE_AUTHOR("Cliff Cai <cliff.cai@analog.com>");
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

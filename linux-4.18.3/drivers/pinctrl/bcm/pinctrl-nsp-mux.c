@@ -642,3 +642,4 @@ static int __init nsp_pinmux_init(void)
 	return platform_driver_register(&nsp_pinmux_driver);
 }
 arch_initcall(nsp_pinmux_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

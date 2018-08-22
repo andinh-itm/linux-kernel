@@ -3030,3 +3030,4 @@ EXPORT_SYMBOL(fas216_print_devices);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("Generic FAS216/NCR53C9x driver core");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

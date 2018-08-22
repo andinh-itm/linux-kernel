@@ -102,3 +102,4 @@ alloc_fail:
 /*******************************************************************************
  * Protected functions - visible only inside of DC (not visible in DM)
  ******************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

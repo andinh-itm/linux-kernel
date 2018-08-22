@@ -323,3 +323,4 @@ const struct dispc_coef *dispc_ovl_get_scale_coef(int inc, int five_taps)
 			return five_taps ? coefs[i].coef_5 : coefs[i].coef_3;
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

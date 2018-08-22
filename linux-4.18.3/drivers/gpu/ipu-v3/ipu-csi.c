@@ -762,3 +762,4 @@ void ipu_csi_dump(struct ipu_csi *csi)
 		ipu_csi_read(csi, CSI_SKIP));
 }
 EXPORT_SYMBOL_GPL(ipu_csi_dump);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

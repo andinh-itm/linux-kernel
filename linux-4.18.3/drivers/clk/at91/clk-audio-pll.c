@@ -534,3 +534,4 @@ CLK_OF_DECLARE(of_sama5d2_clk_audio_pll_pad_setup,
 CLK_OF_DECLARE(of_sama5d2_clk_audio_pll_pmc_setup,
 	       "atmel,sama5d2-clk-audio-pll-pmc",
 	       of_sama5d2_clk_audio_pll_pmc_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

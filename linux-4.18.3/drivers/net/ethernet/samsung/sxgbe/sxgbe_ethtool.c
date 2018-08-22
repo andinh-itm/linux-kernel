@@ -501,3 +501,4 @@ void sxgbe_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &sxgbe_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

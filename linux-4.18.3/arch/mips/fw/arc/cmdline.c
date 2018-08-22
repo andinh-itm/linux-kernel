@@ -102,3 +102,4 @@ void __init prom_init_cmdline(void)
 	printk(KERN_DEBUG "prom cmdline: %s\n", arcs_cmdline);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

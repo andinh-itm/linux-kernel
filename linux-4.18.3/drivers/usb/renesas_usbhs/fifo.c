@@ -1459,3 +1459,4 @@ void usbhs_fifo_remove(struct usbhs_priv *priv)
 	usbhs_for_each_dfifo(priv, fifo, i)
 		usbhsf_dma_quit(priv, fifo);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

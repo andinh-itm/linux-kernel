@@ -173,3 +173,4 @@ void acpi_ut_safe_strncpy(char *dest, char *source, acpi_size dest_size)
 }
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -261,3 +261,4 @@ static int __init atmel_soc_device_init(void)
 	return 0;
 }
 subsys_initcall(atmel_soc_device_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

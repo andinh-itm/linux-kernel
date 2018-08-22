@@ -773,3 +773,4 @@ static int is_tps_locked(struct cxd2880_tnrdmd *tnr_dmd)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

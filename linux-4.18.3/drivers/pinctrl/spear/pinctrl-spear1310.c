@@ -2716,3 +2716,4 @@ static int __init spear1310_pinctrl_init(void)
 	return platform_driver_register(&spear1310_pinctrl_driver);
 }
 arch_initcall(spear1310_pinctrl_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

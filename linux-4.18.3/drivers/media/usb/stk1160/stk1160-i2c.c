@@ -292,3 +292,4 @@ int stk1160_i2c_unregister(struct stk1160 *dev)
 	i2c_del_adapter(&dev->i2c_adap);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -246,3 +246,4 @@ void __init gsc_init(void)
 	register_parisc_driver(&wax_driver);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -127,3 +127,4 @@ void snd_opl4_free_proc(struct snd_opl4 *opl4)
 {
 	snd_info_free_entry(opl4->proc_entry);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

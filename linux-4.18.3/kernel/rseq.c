@@ -365,3 +365,4 @@ SYSCALL_DEFINE4(rseq, struct rseq __user *, rseq, u32, rseq_len,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

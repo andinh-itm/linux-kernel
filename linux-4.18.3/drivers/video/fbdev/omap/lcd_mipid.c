@@ -605,3 +605,4 @@ module_spi_driver(mipid_spi_driver);
 
 MODULE_DESCRIPTION("MIPI display driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -449,3 +449,4 @@ cleanup:
 	*logical_result = local_result;
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

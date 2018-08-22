@@ -299,3 +299,4 @@ module_i2c_driver(am2315_driver);
 MODULE_AUTHOR("Tiberiu Breana <tiberiu.a.breana@intel.com>");
 MODULE_DESCRIPTION("Aosong AM2315 relative humidity and temperature");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -578,3 +578,4 @@ module_platform_driver(lcc_mdm9615_driver);
 MODULE_DESCRIPTION("QCOM LCC MDM9615 Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:lcc-mdm9615");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

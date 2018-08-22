@@ -382,3 +382,4 @@ acpi_hw_get_pci_device_info(struct acpi_pci_id *pci_id,
 	*bus_number = (u16)pci_value;
 	return (AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

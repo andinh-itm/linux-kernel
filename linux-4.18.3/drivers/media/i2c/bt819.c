@@ -485,3 +485,4 @@ static struct i2c_driver bt819_driver = {
 };
 
 module_i2c_driver(bt819_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

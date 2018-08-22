@@ -254,3 +254,4 @@ module_platform_driver(spi_lp8841_rtc_driver);
 MODULE_DESCRIPTION("SPI master driver for ICP DAS LP-8841 RTC");
 MODULE_AUTHOR("Sergei Ianovich");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

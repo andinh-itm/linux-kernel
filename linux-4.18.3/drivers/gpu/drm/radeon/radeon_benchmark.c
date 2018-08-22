@@ -247,3 +247,4 @@ void radeon_benchmark(struct radeon_device *rdev, int test_number)
 		DRM_ERROR("Unknown benchmark\n");
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

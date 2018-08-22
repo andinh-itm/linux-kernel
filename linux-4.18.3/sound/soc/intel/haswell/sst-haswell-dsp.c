@@ -707,3 +707,4 @@ struct sst_ops haswell_ops = {
 	.free = hsw_free,
 	.parse_fw = hsw_parse_fw_image,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

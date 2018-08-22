@@ -576,3 +576,4 @@ CLK_OF_DECLARE(arm_syscon_integratorcp_cm_core_clk,
 CLK_OF_DECLARE(arm_syscon_integratorcp_cm_mem_clk,
 	       "arm,syscon-icst525-integratorcp-cm-mem", of_syscon_icst_setup);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

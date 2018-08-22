@@ -504,3 +504,4 @@ long sm750_sw_i2c_write_reg(unsigned char addr,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

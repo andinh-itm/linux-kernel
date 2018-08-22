@@ -308,3 +308,4 @@ phandle prom_inst2pkg(int inst)
 		return 0;
 	return node;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

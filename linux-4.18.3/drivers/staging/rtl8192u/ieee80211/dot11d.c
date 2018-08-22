@@ -174,3 +174,4 @@ int ToLegalChannel(struct ieee80211_device *dev, u8 channel)
 	return default_chn;
 }
 EXPORT_SYMBOL(ToLegalChannel);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

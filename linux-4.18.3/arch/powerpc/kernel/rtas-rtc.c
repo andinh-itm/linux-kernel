@@ -111,3 +111,4 @@ int rtas_set_rtc_time(struct rtc_time *tm)
 
         return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

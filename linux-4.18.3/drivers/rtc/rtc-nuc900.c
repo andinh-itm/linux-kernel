@@ -273,3 +273,4 @@ MODULE_AUTHOR("Wan ZongShun <mcuos.com@gmail.com>");
 MODULE_DESCRIPTION("nuc910/nuc920 RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:nuc900-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

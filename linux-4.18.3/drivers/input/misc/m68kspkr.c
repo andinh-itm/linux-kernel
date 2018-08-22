@@ -147,3 +147,4 @@ static void __exit m68kspkr_exit(void)
 
 module_init(m68kspkr_init);
 module_exit(m68kspkr_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1416,3 +1416,4 @@ MODULE_AUTHOR("Benjamin Herrenschmidt");
 MODULE_DESCRIPTION("Apple MacIO PATA driver");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

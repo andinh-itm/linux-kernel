@@ -1293,3 +1293,4 @@ static void __exit alsa_pcm_exit(void)
 
 module_init(alsa_pcm_init)
 module_exit(alsa_pcm_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

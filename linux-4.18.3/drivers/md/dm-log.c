@@ -888,3 +888,4 @@ module_exit(dm_dirty_log_exit);
 MODULE_DESCRIPTION(DM_NAME " dirty region log");
 MODULE_AUTHOR("Joe Thornber, Heinz Mauelshagen <dm-devel@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

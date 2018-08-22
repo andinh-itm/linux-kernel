@@ -65,3 +65,4 @@ EXPORT_SYMBOL(crc16);
 MODULE_DESCRIPTION("CRC16 calculations");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

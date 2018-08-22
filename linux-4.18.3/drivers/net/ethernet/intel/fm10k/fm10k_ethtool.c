@@ -1187,3 +1187,4 @@ void fm10k_set_ethtool_ops(struct net_device *dev)
 {
 	dev->ethtool_ops = &fm10k_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

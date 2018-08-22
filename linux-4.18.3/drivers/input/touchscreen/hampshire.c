@@ -187,3 +187,4 @@ static struct serio_driver hampshire_drv = {
 };
 
 module_serio_driver(hampshire_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

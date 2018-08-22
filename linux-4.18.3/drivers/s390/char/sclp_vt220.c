@@ -896,3 +896,4 @@ sclp_vt220_con_init(void)
 console_initcall(sclp_vt220_con_init);
 #endif /* CONFIG_SCLP_VT220_CONSOLE */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

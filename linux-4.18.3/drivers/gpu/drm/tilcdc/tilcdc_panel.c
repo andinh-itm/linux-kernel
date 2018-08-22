@@ -435,3 +435,4 @@ void __exit tilcdc_panel_fini(void)
 {
 	platform_driver_unregister(&panel_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

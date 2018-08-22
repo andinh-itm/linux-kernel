@@ -1031,3 +1031,4 @@ void __init pmac_setup_smp(void)
 }
 
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

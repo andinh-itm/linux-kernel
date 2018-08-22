@@ -1481,3 +1481,4 @@ static struct usb_driver usbtmc_driver = {
 module_usb_driver(usbtmc_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

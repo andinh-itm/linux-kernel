@@ -6,3 +6,4 @@ int main(void)
 	(void)ocsd_get_version();
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

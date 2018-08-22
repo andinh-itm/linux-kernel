@@ -314,3 +314,4 @@ void spk_serial_release(void)
 	speakup_info.port_tts = 0;
 }
 EXPORT_SYMBOL_GPL(spk_serial_release);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

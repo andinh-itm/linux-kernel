@@ -752,3 +752,4 @@ int ipu_di_init(struct ipu_soc *ipu, struct device *dev, int id,
 void ipu_di_exit(struct ipu_soc *ipu, int id)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

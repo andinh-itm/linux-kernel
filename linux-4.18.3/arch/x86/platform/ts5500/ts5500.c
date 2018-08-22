@@ -345,3 +345,4 @@ error:
 	return err;
 }
 device_initcall(ts5500_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -549,3 +549,4 @@ static void __exit alsa_hwdep_exit(void)
 
 module_init(alsa_hwdep_init)
 module_exit(alsa_hwdep_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

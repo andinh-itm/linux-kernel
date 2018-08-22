@@ -1079,3 +1079,4 @@ EXPORT_SYMBOL_GPL(atmel_ssc_put_audio);
 MODULE_AUTHOR("Sedji Gaouaou, sedji.gaouaou@atmel.com, www.atmel.com");
 MODULE_DESCRIPTION("ATMEL SSC ASoC Interface");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

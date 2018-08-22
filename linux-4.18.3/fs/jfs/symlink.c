@@ -33,3 +33,4 @@ const struct inode_operations jfs_symlink_inode_operations = {
 	.listxattr	= jfs_listxattr,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

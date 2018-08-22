@@ -125,3 +125,4 @@ int vnt_check_firmware_version(struct vnt_private *priv)
 	}
 	return true;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

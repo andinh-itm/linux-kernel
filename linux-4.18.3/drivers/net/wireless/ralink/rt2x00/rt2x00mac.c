@@ -839,3 +839,4 @@ bool rt2x00mac_tx_frames_pending(struct ieee80211_hw *hw)
 	return false;
 }
 EXPORT_SYMBOL_GPL(rt2x00mac_tx_frames_pending);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

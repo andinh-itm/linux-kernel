@@ -281,3 +281,4 @@ module_init(lowpan_init_module);
 module_exit(lowpan_cleanup_module);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_RTNL_LINK("lowpan");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

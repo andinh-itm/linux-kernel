@@ -246,3 +246,4 @@ MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("Driver for chargers which report their online status through a GPIO");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:gpio-charger");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

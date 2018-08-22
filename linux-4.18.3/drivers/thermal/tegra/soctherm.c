@@ -1461,3 +1461,4 @@ module_platform_driver(tegra_soctherm_driver);
 MODULE_AUTHOR("Mikko Perttunen <mperttunen@nvidia.com>");
 MODULE_DESCRIPTION("NVIDIA Tegra SOCTHERM thermal management driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

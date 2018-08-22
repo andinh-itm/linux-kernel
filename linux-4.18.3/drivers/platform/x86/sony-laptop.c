@@ -4937,3 +4937,4 @@ static void __exit sony_laptop_exit(void)
 
 module_init(sony_laptop_init);
 module_exit(sony_laptop_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

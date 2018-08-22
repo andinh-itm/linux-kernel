@@ -446,3 +446,4 @@ static struct platform_driver sh_dac_driver = {
 };
 
 module_platform_driver(sh_dac_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

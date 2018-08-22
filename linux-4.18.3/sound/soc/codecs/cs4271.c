@@ -728,3 +728,4 @@ EXPORT_SYMBOL_GPL(cs4271_probe);
 MODULE_AUTHOR("Alexander Sverdlin <subaparts@yandex.ru>");
 MODULE_DESCRIPTION("Cirrus Logic CS4271 ALSA SoC Codec Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

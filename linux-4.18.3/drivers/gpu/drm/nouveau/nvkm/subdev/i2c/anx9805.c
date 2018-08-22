@@ -276,3 +276,4 @@ anx9805_pad_new(struct nvkm_i2c_bus *bus, int id, u8 addr,
 	pad->addr = addr;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

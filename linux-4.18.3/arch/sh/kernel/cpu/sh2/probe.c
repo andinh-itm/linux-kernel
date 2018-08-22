@@ -72,3 +72,4 @@ void __ref cpu_probe(void)
 	boot_cpu_data.icache = boot_cpu_data.dcache;
 	boot_cpu_data.family = CPU_FAMILY_SH2;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

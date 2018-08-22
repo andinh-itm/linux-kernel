@@ -1028,3 +1028,4 @@ int ioat_reset_hw(struct ioatdma_chan *ioat_chan)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

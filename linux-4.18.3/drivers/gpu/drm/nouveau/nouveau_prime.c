@@ -114,3 +114,4 @@ struct reservation_object *nouveau_gem_prime_res_obj(struct drm_gem_object *obj)
 
 	return nvbo->bo.resv;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

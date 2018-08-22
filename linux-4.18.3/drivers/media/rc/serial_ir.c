@@ -857,3 +857,4 @@ MODULE_PARM_DESC(txsense, "Sense of transmitter circuit (0 = active high, 1 = ac
 
 module_param(softcarrier, bool, 0444);
 MODULE_PARM_DESC(softcarrier, "Software carrier (0 = off, 1 = on, default on)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

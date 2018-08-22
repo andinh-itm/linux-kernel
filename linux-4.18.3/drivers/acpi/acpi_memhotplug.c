@@ -388,3 +388,4 @@ void __init acpi_memory_hotplug_init(void)
 }
 
 #endif /* CONFIG_ACPI_HOTPLUG_MEMORY */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

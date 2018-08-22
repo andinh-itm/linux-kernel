@@ -291,3 +291,4 @@ void xlr_board_info_setup(void)
 	print_credit_config(&gmac[0]);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

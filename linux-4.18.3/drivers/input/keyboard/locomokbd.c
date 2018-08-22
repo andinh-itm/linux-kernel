@@ -358,3 +358,4 @@ static void __exit locomokbd_exit(void)
 
 module_init(locomokbd_init);
 module_exit(locomokbd_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

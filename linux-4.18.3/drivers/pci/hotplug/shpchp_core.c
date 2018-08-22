@@ -357,3 +357,4 @@ static void __exit shpcd_cleanup(void)
 
 module_init(shpcd_init);
 module_exit(shpcd_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

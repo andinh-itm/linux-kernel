@@ -54,3 +54,4 @@ module_spi_driver(wm8804_spi_driver);
 MODULE_DESCRIPTION("ASoC WM8804 driver - SPI");
 MODULE_AUTHOR("Charles Keepax <ckeepax@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

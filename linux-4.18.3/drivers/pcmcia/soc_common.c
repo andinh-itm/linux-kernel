@@ -891,3 +891,4 @@ EXPORT_SYMBOL(soc_pcmcia_add_one);
 MODULE_AUTHOR("John Dorsey <john+@cs.cmu.edu>");
 MODULE_DESCRIPTION("Linux PCMCIA Card Services: Common SoC support");
 MODULE_LICENSE("Dual MPL/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

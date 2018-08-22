@@ -316,3 +316,4 @@ const struct intel_dvo_dev_ops tfp410_ops = {
 	.dump_regs = tfp410_dump_regs,
 	.destroy = tfp410_destroy,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

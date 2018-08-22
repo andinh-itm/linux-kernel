@@ -166,3 +166,4 @@ EXPORT_SYMBOL_GPL(isp1301_get_client);
 MODULE_AUTHOR("Roland Stigge <stigge@antcom.de>");
 MODULE_DESCRIPTION("NXP ISP1301 USB transceiver driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

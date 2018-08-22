@@ -171,3 +171,4 @@ struct clk *tegra_clk_register_periph_gate(const char *name,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

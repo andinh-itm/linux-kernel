@@ -3173,3 +3173,4 @@ static void dm_send_rssi_tofw(struct net_device *dev)
 }
 
 /*---------------------------Define function prototype------------------------*/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

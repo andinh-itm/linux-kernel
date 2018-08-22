@@ -297,3 +297,4 @@ MODULE_LICENSE("GPL");
 
 EXPORT_SYMBOL(ttusbdecfe_dvbt_attach);
 EXPORT_SYMBOL(ttusbdecfe_dvbs_attach);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

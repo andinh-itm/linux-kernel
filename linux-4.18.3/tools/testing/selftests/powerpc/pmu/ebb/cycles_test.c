@@ -58,3 +58,4 @@ int main(void)
 {
 	return test_harness(cycles, "cycles");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

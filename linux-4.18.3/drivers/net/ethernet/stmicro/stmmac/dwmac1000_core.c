@@ -551,3 +551,4 @@ int dwmac1000_setup(struct stmmac_priv *priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

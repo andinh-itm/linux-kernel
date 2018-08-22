@@ -989,3 +989,4 @@ void qed_consq_free(struct qed_hwfn *p_hwfn)
 	kfree(p_hwfn->p_consq);
 	p_hwfn->p_consq = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -415,3 +415,4 @@ void mtk_jpeg_dec_set_config(void __iomem *base,
 				   config->dma_last_mcu);
 	mtk_jpeg_dec_set_pause_mcu_idx(base, config->total_mcu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

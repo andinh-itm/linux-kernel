@@ -560,3 +560,4 @@ void cs_etm_decoder__free(struct cs_etm_decoder *decoder)
 	decoder->dcd_tree = NULL;
 	free(decoder);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

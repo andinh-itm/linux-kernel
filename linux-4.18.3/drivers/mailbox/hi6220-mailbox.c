@@ -393,3 +393,4 @@ module_exit(hi6220_mbox_exit);
 MODULE_AUTHOR("Leo Yan <leo.yan@linaro.org>");
 MODULE_DESCRIPTION("Hi6220 mailbox driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

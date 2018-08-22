@@ -187,3 +187,4 @@ module_exit(cleanup_mtdram);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Larsson <alexl@redhat.com>");
 MODULE_DESCRIPTION("Simulated MTD driver for testing");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

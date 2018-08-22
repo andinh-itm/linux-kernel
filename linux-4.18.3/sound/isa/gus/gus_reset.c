@@ -411,3 +411,4 @@ int snd_gf1_stop(struct snd_gus_card * gus)
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

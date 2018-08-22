@@ -271,3 +271,4 @@ static struct platform_driver cc770_platform_driver = {
 };
 
 module_platform_driver(cc770_platform_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

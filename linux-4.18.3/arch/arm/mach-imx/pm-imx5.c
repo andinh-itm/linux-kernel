@@ -422,3 +422,4 @@ void __init imx53_pm_init(void)
 	if (IS_ENABLED(CONFIG_SOC_IMX53))
 		imx5_pm_common_init(&imx53_pm_data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

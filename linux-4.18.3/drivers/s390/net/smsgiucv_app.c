@@ -217,3 +217,4 @@ module_exit(smsgiucv_app_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("Deliver z/VM CP SMSG as uevents");
 MODULE_AUTHOR("Hendrik Brueckner <brueckner@linux.vnet.ibm.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

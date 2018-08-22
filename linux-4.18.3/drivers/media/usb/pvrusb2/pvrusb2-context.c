@@ -415,3 +415,4 @@ struct pvr2_ioread *pvr2_channel_create_mpeg_stream(
 	pvr2_ioread_set_sync_key(cp,stream_sync_key,sizeof(stream_sync_key));
 	return cp;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

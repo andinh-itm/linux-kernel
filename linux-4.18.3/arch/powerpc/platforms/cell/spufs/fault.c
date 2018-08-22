@@ -189,3 +189,4 @@ int spufs_handle_class1(struct spu_context *ctx)
 	spuctx_switch_state(ctx, SPU_UTIL_SYSTEM);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

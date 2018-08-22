@@ -722,3 +722,4 @@ EXPORT_SYMBOL_GPL(dm_rh_start_recovery);
 MODULE_DESCRIPTION(DM_NAME " region hash");
 MODULE_AUTHOR("Joe Thornber/Heinz Mauelshagen <dm-devel@redhat.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -321,3 +321,4 @@ MODULE_DESCRIPTION("SPI controller driver for Atheros AR71XX/AR724X/AR913X");
 MODULE_AUTHOR("Gabor Juhos <juhosg@openwrt.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

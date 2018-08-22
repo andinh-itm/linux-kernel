@@ -4146,3 +4146,4 @@ void r100_io_wreg(struct radeon_device *rdev, u32 reg, u32 v)
 		iowrite32(v, rdev->rio_mem + RADEON_MM_DATA);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

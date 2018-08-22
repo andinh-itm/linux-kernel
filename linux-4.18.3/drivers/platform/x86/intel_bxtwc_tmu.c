@@ -156,3 +156,4 @@ module_platform_driver(bxt_wcove_tmu_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Nilesh Bacchewar <nilesh.bacchewar@intel.com>");
 MODULE_DESCRIPTION("BXT Whiskey Cove TMU Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

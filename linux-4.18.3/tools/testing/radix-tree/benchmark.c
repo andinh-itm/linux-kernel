@@ -255,3 +255,4 @@ void benchmark(void)
 	for (s = 0; step[s]; s++)
 		benchmark_join(step[s]);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

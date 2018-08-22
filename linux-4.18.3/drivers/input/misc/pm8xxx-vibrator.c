@@ -268,3 +268,4 @@ MODULE_ALIAS("platform:pm8xxx_vib");
 MODULE_DESCRIPTION("PMIC8xxx vibrator driver based on ff-memless framework");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Amy Maloche <amaloche@codeaurora.org>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

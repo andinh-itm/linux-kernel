@@ -413,3 +413,4 @@ module_i2c_driver(vz89x_driver);
 MODULE_AUTHOR("Matt Ranostay <matt.ranostay@konsulko.com>");
 MODULE_DESCRIPTION("SGX Sensortech MiCS VZ89X VOC sensors");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

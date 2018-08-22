@@ -241,3 +241,4 @@ module_platform_driver(omap_rproc_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("OMAP Remote Processor control driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -342,3 +342,4 @@ MACHINE_START(BADGE4, "Hewlett-Packard Laboratories BadgePAD 4")
 #endif
 	.restart	= sa11x0_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

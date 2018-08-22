@@ -479,3 +479,4 @@ MODULE_PARM_DESC(iic_force_normal,
 MODULE_PARM_DESC(iic_timeout, "Set timeout value in msecs (default 1000 ms)");
 MODULE_PARM_DESC(iic_read_delay,
 		 "Delay between data read cycles (default 0 ms)");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

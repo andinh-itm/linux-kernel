@@ -463,3 +463,4 @@ static struct i2c_driver adv7393_driver = {
 	.id_table	= adv7393_id,
 };
 module_i2c_driver(adv7393_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

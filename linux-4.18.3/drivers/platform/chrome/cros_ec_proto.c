@@ -602,3 +602,4 @@ u32 cros_ec_get_host_event(struct cros_ec_device *ec_dev)
 	return host_event;
 }
 EXPORT_SYMBOL(cros_ec_get_host_event);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

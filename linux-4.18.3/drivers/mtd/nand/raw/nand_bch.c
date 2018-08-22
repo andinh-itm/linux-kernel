@@ -232,3 +232,4 @@ EXPORT_SYMBOL(nand_bch_free);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ivan Djelic <ivan.djelic@parrot.com>");
 MODULE_DESCRIPTION("NAND software BCH ECC support");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

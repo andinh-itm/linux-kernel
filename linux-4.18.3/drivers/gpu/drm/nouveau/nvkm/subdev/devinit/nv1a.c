@@ -40,3 +40,4 @@ nv1a_devinit_new(struct nvkm_device *device, int index,
 {
 	return nv04_devinit_new_(&nv1a_devinit, device, index, pinit);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

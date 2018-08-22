@@ -545,3 +545,4 @@ snd_bebob_exit(void)
 
 module_init(snd_bebob_init);
 module_exit(snd_bebob_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

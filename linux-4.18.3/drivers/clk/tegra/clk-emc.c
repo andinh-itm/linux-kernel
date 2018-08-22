@@ -536,3 +536,4 @@ struct clk *tegra_clk_register_emc(void __iomem *base, struct device_node *np,
 
 	return clk;
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

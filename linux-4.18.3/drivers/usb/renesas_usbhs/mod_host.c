@@ -1572,3 +1572,4 @@ int usbhs_mod_host_remove(struct usbhs_priv *priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

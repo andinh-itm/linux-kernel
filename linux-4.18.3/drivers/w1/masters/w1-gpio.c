@@ -207,3 +207,4 @@ module_platform_driver(w1_gpio_driver);
 MODULE_DESCRIPTION("GPIO w1 bus master driver");
 MODULE_AUTHOR("Ville Syrjala <syrjala@sci.fi>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

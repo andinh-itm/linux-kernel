@@ -28,3 +28,4 @@ static int __init mips_reboot_setup(void)
 	return 0;
 }
 arch_initcall(mips_reboot_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

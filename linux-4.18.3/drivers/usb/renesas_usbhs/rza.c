@@ -50,3 +50,4 @@ const struct renesas_usbhs_platform_callback usbhs_rza1_ops = {
 	.hardware_init = usbhs_rza1_hardware_init,
 	.get_id = usbhs_rza_get_id,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

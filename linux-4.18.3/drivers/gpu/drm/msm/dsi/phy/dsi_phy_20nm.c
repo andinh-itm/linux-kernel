@@ -151,3 +151,4 @@ const struct msm_dsi_phy_cfg dsi_phy_20nm_cfgs = {
 	.num_dsi_phy = 2,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

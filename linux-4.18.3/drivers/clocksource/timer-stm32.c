@@ -334,3 +334,4 @@ err:
 }
 
 TIMER_OF_DECLARE(stm32, "st,stm32-timer", stm32_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

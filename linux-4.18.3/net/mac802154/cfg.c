@@ -490,3 +490,4 @@ const struct cfg802154_ops mac802154_config_ops = {
 	.del_devkey = ieee802154_del_devkey,
 #endif /* CONFIG_IEEE802154_NL802154_EXPERIMENTAL */
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

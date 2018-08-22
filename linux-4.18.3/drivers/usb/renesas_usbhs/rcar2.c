@@ -73,3 +73,4 @@ const struct renesas_usbhs_platform_callback usbhs_rcar2_ops = {
 	.power_ctrl = usbhs_rcar2_power_ctrl,
 	.get_id = usbhs_rcar2_get_id,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

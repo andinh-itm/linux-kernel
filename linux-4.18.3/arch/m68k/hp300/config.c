@@ -275,3 +275,4 @@ void __init config_hp300(void)
 	hp300_setup_serial_console();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

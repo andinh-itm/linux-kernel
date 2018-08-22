@@ -173,3 +173,4 @@ void arch_sync_dma_for_cpu(struct device *dev, phys_addr_t paddr,
 {
 	return c6x_dma_sync(dev, paddr, size, dir);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

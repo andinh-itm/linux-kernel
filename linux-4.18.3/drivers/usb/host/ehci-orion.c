@@ -379,3 +379,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_ALIAS("platform:orion-ehci");
 MODULE_AUTHOR("Tzachi Perelstein");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

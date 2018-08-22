@@ -166,3 +166,4 @@ u32 rds_ib_ring_completed(struct rds_ib_work_ring *ring, u32 wr_id, u32 oldest)
 		 wr_id, oldest);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

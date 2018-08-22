@@ -212,3 +212,4 @@ struct cpuidle_monitor cpuidle_sysfs_monitor = {
 	.needs_root		= 0,
 	.overflow_s		= UINT_MAX,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

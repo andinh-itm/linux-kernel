@@ -143,3 +143,4 @@ int mce_gen_pool_init(void)
 
 	return mce_gen_pool_create();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1036,3 +1036,4 @@ static struct mdio_device_id __maybe_unused micrel_tbl[] = {
 };
 
 MODULE_DEVICE_TABLE(mdio, micrel_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

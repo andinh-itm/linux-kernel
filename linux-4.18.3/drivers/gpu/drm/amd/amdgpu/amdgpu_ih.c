@@ -272,3 +272,4 @@ void amdgpu_ih_clear_fault(struct amdgpu_device *adev, u64 key)
 
 	spin_unlock_irqrestore(&adev->irq.ih.faults->lock, flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -117,3 +117,4 @@ static void __exit sha1_ce_mod_fini(void)
 
 module_cpu_feature_match(SHA1, sha1_ce_mod_init);
 module_exit(sha1_ce_mod_fini);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

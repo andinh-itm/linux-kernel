@@ -1361,3 +1361,4 @@ MODULE_DESCRIPTION("ASoC WM8400 driver");
 MODULE_AUTHOR("Mark Brown");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:wm8400-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

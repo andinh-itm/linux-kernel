@@ -169,3 +169,4 @@ int prom_putchar(char c)
 
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

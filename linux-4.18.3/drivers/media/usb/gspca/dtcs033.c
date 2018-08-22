@@ -437,3 +437,4 @@ static void dtcs033_stopN(struct gspca_dev *gspca_dev)
 		ARRAY_SIZE(dtcs033_stop_reqs));
 	return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

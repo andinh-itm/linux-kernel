@@ -128,3 +128,4 @@ const struct squashfs_decompressor squashfs_lzo_comp_ops = {
 	.name = "lzo",
 	.supported = 1
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -168,3 +168,4 @@ module_exit(mst_pcmcia_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa2xx-pcmcia");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

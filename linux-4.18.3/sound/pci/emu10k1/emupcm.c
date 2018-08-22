@@ -1866,3 +1866,4 @@ int snd_emu10k1_pcm_efx(struct snd_emu10k1 *emu, int device)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

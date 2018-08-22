@@ -194,3 +194,4 @@ module_platform_driver(ls1x_rtc_driver);
 
 MODULE_AUTHOR("zhao zhang <zhzhl555@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

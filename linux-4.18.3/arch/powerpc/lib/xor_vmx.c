@@ -158,3 +158,4 @@ void __xor_altivec_5(unsigned long bytes, unsigned long *v1_in,
 		v5 += 4;
 	} while (--lines > 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

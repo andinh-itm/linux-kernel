@@ -514,3 +514,4 @@ module_platform_driver(rockchip_pdm_driver);
 MODULE_AUTHOR("Sugar <sugar.zhang@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip PDM Controller Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

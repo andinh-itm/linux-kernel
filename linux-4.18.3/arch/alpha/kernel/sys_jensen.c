@@ -236,3 +236,4 @@ struct alpha_machine_vector jensen_mv __initmv = {
 	.kill_arch		= NULL,
 };
 ALIAS_MV(jensen)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

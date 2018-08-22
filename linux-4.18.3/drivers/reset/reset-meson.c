@@ -171,3 +171,4 @@ static struct platform_driver meson_reset_driver = {
 	},
 };
 builtin_platform_driver(meson_reset_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

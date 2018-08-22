@@ -196,3 +196,4 @@ struct acpi_rsconvert_info acpi_rs_set_vendor[7] = {
 	 sizeof(struct aml_resource_large_header),
 	 0}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

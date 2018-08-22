@@ -121,3 +121,4 @@ static int __init s390_arch_random_init(void)
 	return 0;
 }
 arch_initcall(s390_arch_random_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

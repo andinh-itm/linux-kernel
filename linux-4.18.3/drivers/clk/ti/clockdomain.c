@@ -174,3 +174,4 @@ void __init ti_dt_clockdomains_setup(void)
 		of_ti_clockdomain_setup(np);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

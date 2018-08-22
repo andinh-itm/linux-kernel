@@ -58,3 +58,4 @@ int test_fence_merge_same_fence(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

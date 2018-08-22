@@ -511,3 +511,4 @@ module_i2c_driver(tps6598x_i2c_driver);
 MODULE_AUTHOR("Heikki Krogerus <heikki.krogerus@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("TI TPS6598x USB Power Delivery Controller Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

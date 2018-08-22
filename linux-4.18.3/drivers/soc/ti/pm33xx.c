@@ -347,3 +347,4 @@ module_platform_driver(am33xx_pm_driver);
 MODULE_ALIAS("platform:pm33xx");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("am33xx power management driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

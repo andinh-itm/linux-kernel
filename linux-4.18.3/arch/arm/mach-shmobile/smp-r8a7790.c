@@ -69,3 +69,4 @@ const struct smp_operations r8a7790_smp_ops __initconst = {
 	.cpu_kill		= shmobile_smp_apmu_cpu_kill,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

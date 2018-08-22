@@ -217,3 +217,4 @@ MODULE_DESCRIPTION("low-level driver for Amiga Gayle PATA");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:amiga-gayle-ide");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

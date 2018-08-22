@@ -526,3 +526,4 @@ static void tx4927_quirk_slc90e66_bridge(struct pci_dev *dev)
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_EFAR, PCI_DEVICE_ID_EFAR_SLC90E66_0,
 	tx4927_quirk_slc90e66_bridge);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

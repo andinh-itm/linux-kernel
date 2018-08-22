@@ -201,3 +201,4 @@ struct device * __init efi_get_device_by_path(struct efi_dev_path **node,
 
 	return child;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

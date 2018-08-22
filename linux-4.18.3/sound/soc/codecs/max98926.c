@@ -602,3 +602,4 @@ module_i2c_driver(max98926_i2c_driver)
 MODULE_DESCRIPTION("ALSA SoC MAX98926 driver");
 MODULE_AUTHOR("Anish kumar <anish.kumar@maximintegrated.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

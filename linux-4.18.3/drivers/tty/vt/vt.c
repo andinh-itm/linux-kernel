@@ -4357,3 +4357,4 @@ EXPORT_SYMBOL(global_cursor_default);
 #ifndef VT_SINGLE_DRIVER
 EXPORT_SYMBOL(give_up_console);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

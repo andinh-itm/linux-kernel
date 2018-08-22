@@ -227,3 +227,4 @@ static __init int ok_to_run_trace_benchmark(void)
 }
 
 early_initcall(ok_to_run_trace_benchmark);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1076,3 +1076,4 @@ void rfbi_uninit_platform_driver(void)
 {
 	platform_driver_unregister(&omap_rfbihw_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

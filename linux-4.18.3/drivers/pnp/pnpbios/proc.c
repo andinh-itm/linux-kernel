@@ -285,3 +285,4 @@ void __exit pnpbios_proc_exit(void)
 	remove_proc_entry("boot", proc_pnp);
 	remove_proc_entry("bus/pnp", NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

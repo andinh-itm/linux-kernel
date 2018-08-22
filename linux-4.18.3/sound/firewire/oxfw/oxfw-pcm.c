@@ -423,3 +423,4 @@ int snd_oxfw_create_pcm(struct snd_oxfw *oxfw)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -202,3 +202,4 @@ static int x86__annotate_init(struct arch *arch, char *cpuid)
 	arch->initialized = true;
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

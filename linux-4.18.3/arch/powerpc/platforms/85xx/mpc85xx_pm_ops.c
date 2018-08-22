@@ -104,3 +104,4 @@ int __init mpc85xx_setup_pmc(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

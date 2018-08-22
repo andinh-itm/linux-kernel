@@ -65,3 +65,4 @@ static int macronix_nand_init(struct nand_chip *chip)
 const struct nand_manufacturer_ops macronix_nand_manuf_ops = {
 	.init = macronix_nand_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -462,3 +462,4 @@ struct snd_ice1712_card_info snd_vt1724_psc724_cards[] = {
 	},
 	{} /*terminator*/
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

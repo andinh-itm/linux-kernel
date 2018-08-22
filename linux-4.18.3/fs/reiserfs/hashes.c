@@ -175,3 +175,4 @@ u32 r5_hash(const signed char *msg, int len)
 	}
 	return a;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

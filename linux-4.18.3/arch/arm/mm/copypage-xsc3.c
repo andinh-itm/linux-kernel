@@ -112,3 +112,4 @@ struct cpu_user_fns xsc3_mc_user_fns __initdata = {
 	.cpu_clear_user_highpage = xsc3_mc_clear_user_highpage,
 	.cpu_copy_user_highpage	= xsc3_mc_copy_user_highpage,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

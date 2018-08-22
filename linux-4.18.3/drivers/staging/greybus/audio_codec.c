@@ -1102,3 +1102,4 @@ MODULE_DESCRIPTION("APBridge ALSA SoC dummy codec driver");
 MODULE_AUTHOR("Vaibhav Agarwal <vaibhav.agarwal@linaro.org>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:apb-dummy-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

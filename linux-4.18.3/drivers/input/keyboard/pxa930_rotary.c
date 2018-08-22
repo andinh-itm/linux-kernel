@@ -198,3 +198,4 @@ module_platform_driver(pxa930_rotary_driver);
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Driver for PXA93x Enhanced Rotary Controller");
 MODULE_AUTHOR("Yao Yong <yaoyong@marvell.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

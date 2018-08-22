@@ -145,3 +145,4 @@ void oprofile_arch_exit(void)
 	if (model)
 		model->exit();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -564,3 +564,4 @@ static void u8500_clk_init(struct device_node *np)
 	}
 }
 CLK_OF_DECLARE(u8500_clks, "stericsson,u8500-clks", u8500_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

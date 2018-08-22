@@ -1860,3 +1860,4 @@ void iwl_mvm_get_sync_time(struct iwl_mvm *mvm, u32 *gp2, u64 *boottime)
 		iwl_mvm_power_update_device(mvm);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

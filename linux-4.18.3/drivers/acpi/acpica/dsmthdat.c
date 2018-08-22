@@ -679,3 +679,4 @@ acpi_ds_method_data_get_type(u16 opcode,
 	return_VALUE(object->type);
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -205,3 +205,4 @@ const struct nand_manufacturer *nand_get_manufacturer(u8 id)
 
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

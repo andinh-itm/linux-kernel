@@ -565,3 +565,4 @@ const struct qce_algo_ops ahash_ops = {
 	.unregister_algs = qce_ahash_unregister,
 	.async_req_handle = qce_ahash_async_req_handle,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

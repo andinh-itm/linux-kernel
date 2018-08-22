@@ -196,3 +196,4 @@ nouveau_mem_new(struct nouveau_cli *cli, u8 kind, u8 comp,
 	reg->mm_node = mem;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

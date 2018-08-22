@@ -741,3 +741,4 @@ char *arch_ftrace_match_adjust(char *str, const char *search)
 		return str;
 }
 #endif /* PPC64_ELF_ABI_v1 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

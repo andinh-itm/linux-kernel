@@ -303,3 +303,4 @@ module_i2c_driver(bq27xxx_battery_i2c_driver);
 MODULE_AUTHOR("Andrew F. Davis <afd@ti.com>");
 MODULE_DESCRIPTION("BQ27xxx battery monitor i2c driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

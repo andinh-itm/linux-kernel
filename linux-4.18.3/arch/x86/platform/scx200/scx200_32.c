@@ -127,3 +127,4 @@ EXPORT_SYMBOL(scx200_gpio_base);
 EXPORT_SYMBOL(scx200_gpio_shadow);
 EXPORT_SYMBOL(scx200_gpio_configure);
 EXPORT_SYMBOL(scx200_cb_base);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

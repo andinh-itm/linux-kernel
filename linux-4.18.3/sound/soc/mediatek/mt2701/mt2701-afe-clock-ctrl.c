@@ -296,3 +296,4 @@ int mt2701_mclk_configuration(struct mtk_base_afe *afe, int id)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

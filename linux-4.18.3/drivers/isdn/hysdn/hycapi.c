@@ -783,3 +783,4 @@ hycapi_capi_create(hysdn_card *card)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -37,3 +37,4 @@ DT_MACHINE_START(DOVE_DT, "Marvell Dove")
 	.restart	= mvebu_restart,
 	.dt_compat	= dove_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -244,3 +244,4 @@ int hgsmi_cursor_position(struct gen_pool *ctx, bool report_position,
  *  * VMMDev additions driver will inform the host which version of the info
  *    it expects, host must support all versions.
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

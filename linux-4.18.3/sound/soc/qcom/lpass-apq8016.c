@@ -268,3 +268,4 @@ module_platform_driver(apq8016_lpass_cpu_platform_driver);
 MODULE_DESCRIPTION("APQ8016 LPASS CPU Driver");
 MODULE_LICENSE("GPL v2");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

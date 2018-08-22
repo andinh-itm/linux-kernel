@@ -30,3 +30,4 @@ CLK_OF_DECLARE(socfpga_a10_perip_clk, "altr,socfpga-a10-perip-clk",
 	       socfpga_a10_periph_init);
 CLK_OF_DECLARE(socfpga_a10_gate_clk, "altr,socfpga-a10-gate-clk",
 	       socfpga_a10_gate_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

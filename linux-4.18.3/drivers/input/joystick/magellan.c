@@ -222,3 +222,4 @@ static struct serio_driver magellan_drv = {
 };
 
 module_serio_driver(magellan_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

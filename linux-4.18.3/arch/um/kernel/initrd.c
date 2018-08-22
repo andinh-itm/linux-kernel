@@ -79,3 +79,4 @@ static int load_initrd(char *filename, void *buf, int size)
 	os_close_file(fd);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

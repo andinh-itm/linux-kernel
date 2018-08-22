@@ -9,3 +9,4 @@ void notrace lkdtm_rodata_do_nothing(void)
 {
 	/* Does nothing. We just want an architecture agnostic "return". */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -336,3 +336,4 @@ int opa_smi_get_fwd_port(struct opa_smp *smp)
 	return !opa_get_smp_direction(smp) ? smp->route.dr.initial_path[smp->hop_ptr+1] :
 		smp->route.dr.return_path[smp->hop_ptr-1];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

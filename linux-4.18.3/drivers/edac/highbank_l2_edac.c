@@ -151,3 +151,4 @@ module_platform_driver(highbank_l2_edac_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Calxeda, Inc.");
 MODULE_DESCRIPTION("EDAC Driver for Calxeda Highbank L2 Cache");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

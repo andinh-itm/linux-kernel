@@ -935,3 +935,4 @@ MODULE_AUTHOR("Ivan T. Ivanov <iivanov@mm-sol.com>");
 MODULE_DESCRIPTION("Qualcomm SPMI PMIC MPP pin control driver");
 MODULE_ALIAS("platform:qcom-spmi-mpp");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

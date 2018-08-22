@@ -293,3 +293,4 @@ int cpm_console_init(void *devp, struct serial_console_data *scdp)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

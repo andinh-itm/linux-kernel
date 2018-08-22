@@ -804,3 +804,4 @@ module_platform_driver(img_spfi_driver);
 MODULE_DESCRIPTION("IMG SPFI controller driver");
 MODULE_AUTHOR("Andrew Bresticker <abrestic@chromium.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

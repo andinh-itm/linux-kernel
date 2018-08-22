@@ -207,3 +207,4 @@ DT_MACHINE_START(ARMADA_39X_DT, "Marvell Armada 39x (Device Tree)")
 	.restart	= mvebu_restart,
 	.dt_compat	= armada_39x_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -336,3 +336,4 @@ int snd_msndmix_force_recsrc(struct snd_msnd *dev, int recsrc)
 	return snd_msndmix_set_mux(dev, recsrc);
 }
 EXPORT_SYMBOL(snd_msndmix_force_recsrc);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

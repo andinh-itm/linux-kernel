@@ -712,3 +712,4 @@ static void __exit sn_pci_hotplug_exit(void)
 
 module_init(sn_pci_hotplug_init);
 module_exit(sn_pci_hotplug_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

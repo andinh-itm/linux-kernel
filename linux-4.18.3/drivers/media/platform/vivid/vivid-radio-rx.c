@@ -276,3 +276,4 @@ int vivid_radio_rx_s_tuner(struct file *file, void *fh, const struct v4l2_tuner 
 	dev->radio_rx_audmode = vt->audmode >= V4L2_TUNER_MODE_STEREO;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

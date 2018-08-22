@@ -633,3 +633,4 @@ static void __exit alsa_mpu401_uart_exit(void)
 
 module_init(alsa_mpu401_uart_init)
 module_exit(alsa_mpu401_uart_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -729,3 +729,4 @@ static int __init nsp_gpio_init(void)
 	return platform_driver_register(&nsp_gpio_driver);
 }
 arch_initcall_sync(nsp_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

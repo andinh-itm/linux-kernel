@@ -2246,3 +2246,4 @@ static struct pci_driver skfddi_pci_driver = {
 };
 
 module_pci_driver(skfddi_pci_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

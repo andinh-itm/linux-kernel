@@ -39,3 +39,4 @@ void __init r8a7779_pm_init(void)
 	if (!once++)
 		r8a7779_sysc_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

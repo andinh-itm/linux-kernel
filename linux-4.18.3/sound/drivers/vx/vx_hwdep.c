@@ -119,3 +119,4 @@ void snd_vx_free_firmware(struct vx_core *chip)
 
 EXPORT_SYMBOL(snd_vx_setup_firmware);
 EXPORT_SYMBOL(snd_vx_free_firmware);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

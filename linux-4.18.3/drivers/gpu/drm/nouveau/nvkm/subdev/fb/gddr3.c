@@ -117,3 +117,4 @@ nvkm_gddr3_calc(struct nvkm_ram *ram)
 	ram->mr[1] |= !DLL << 6;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

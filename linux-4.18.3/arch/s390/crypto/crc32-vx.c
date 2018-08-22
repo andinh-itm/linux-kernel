@@ -312,3 +312,4 @@ MODULE_ALIAS_CRYPTO("crc32");
 MODULE_ALIAS_CRYPTO("crc32-vx");
 MODULE_ALIAS_CRYPTO("crc32c");
 MODULE_ALIAS_CRYPTO("crc32c-vx");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -598,3 +598,4 @@ void cw1200_core_release(struct cw1200_common *self)
 	return;
 }
 EXPORT_SYMBOL_GPL(cw1200_core_release);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

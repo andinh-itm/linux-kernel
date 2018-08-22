@@ -66,3 +66,4 @@ g84_devinit_new(struct nvkm_device *device, int index,
 {
 	return nv50_devinit_new_(&g84_devinit, device, index, pinit);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1206,3 +1206,4 @@ static void __exit nes_exit_module(void)
 
 module_init(nes_init_module);
 module_exit(nes_exit_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

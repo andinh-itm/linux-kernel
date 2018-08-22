@@ -415,3 +415,4 @@ MODULE_AUTHOR("Yoshihiro Shimoda");
 MODULE_DESCRIPTION("Renesas SUDMAC driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:" SUDMAC_DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

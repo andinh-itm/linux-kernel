@@ -37,3 +37,4 @@ long clk_round_rate_index(struct clk_hw *hw, unsigned long drate,
 
 	return rate;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

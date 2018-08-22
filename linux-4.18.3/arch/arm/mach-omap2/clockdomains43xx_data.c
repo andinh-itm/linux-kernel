@@ -194,3 +194,4 @@ void __init am43xx_clockdomains_init(void)
 	clkdm_register_clkdms(clockdomains_am43xx);
 	clkdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

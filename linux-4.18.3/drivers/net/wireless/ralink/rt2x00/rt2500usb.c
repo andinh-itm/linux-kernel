@@ -1989,3 +1989,4 @@ static struct usb_driver rt2500usb_driver = {
 };
 
 module_usb_driver(rt2500usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

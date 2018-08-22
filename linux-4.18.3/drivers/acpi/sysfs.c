@@ -1047,3 +1047,4 @@ int __init acpi_sysfs_init(void)
 	result = sysfs_create_file(acpi_kobj, &pm_profile_attr.attr);
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

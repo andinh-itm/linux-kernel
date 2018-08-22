@@ -382,3 +382,4 @@ int adf_dev_restarted_notify(struct adf_accel_dev *accel_dev)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

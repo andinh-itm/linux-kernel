@@ -3489,3 +3489,4 @@ void ixgbe_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &ixgbe_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

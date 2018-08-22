@@ -197,3 +197,4 @@ static void __init dove_clk_init(struct device_node *np)
 		mvebu_clk_gating_setup(cgnp, dove_gating_desc);
 }
 CLK_OF_DECLARE(dove_clk, "marvell,dove-core-clock", dove_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -490,3 +490,4 @@ int __init sh_clk_fsidiv_register(struct clk *clks, int nr)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -137,3 +137,4 @@ int m68328_hwclk(int set, struct rtc_time *t)
 }
 
 /***************************************************************************/
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

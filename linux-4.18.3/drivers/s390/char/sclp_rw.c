@@ -466,3 +466,4 @@ sclp_emit_buffer(struct sclp_buffer *buffer,
 	buffer->callback = callback;
 	return sclp_add_request(&buffer->request);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

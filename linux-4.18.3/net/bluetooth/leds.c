@@ -99,3 +99,4 @@ void bt_leds_cleanup(void)
 {
 	led_trigger_unregister_simple(bt_power_led_trigger);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

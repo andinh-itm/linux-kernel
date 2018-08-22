@@ -245,3 +245,4 @@ void usb_deregister_dev(struct usb_interface *intf,
 	destroy_usb_class();
 }
 EXPORT_SYMBOL_GPL(usb_deregister_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

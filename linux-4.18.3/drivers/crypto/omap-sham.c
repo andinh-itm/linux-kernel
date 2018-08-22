@@ -2280,3 +2280,4 @@ MODULE_DESCRIPTION("OMAP SHA1/MD5 hw acceleration support.");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Dmitry Kasatkin");
 MODULE_ALIAS("platform:omap-sham");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

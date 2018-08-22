@@ -676,3 +676,4 @@ MODULE_AUTHOR("Thomas Chou <thomas@wytron.com.tw>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRV_NAME);
 MODULE_ALIAS_CHARDEV_MAJOR(SERIAL_ALTERA_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

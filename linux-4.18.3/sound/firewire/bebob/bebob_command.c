@@ -294,3 +294,4 @@ int avc_bridgeco_get_plug_strm_fmt(struct fw_unit *unit,
 end:
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -813,3 +813,4 @@ int __init omap4xxx_dt_clk_init(void)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

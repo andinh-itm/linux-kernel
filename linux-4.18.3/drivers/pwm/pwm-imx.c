@@ -334,3 +334,4 @@ module_platform_driver(imx_pwm_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Sascha Hauer <s.hauer@pengutronix.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

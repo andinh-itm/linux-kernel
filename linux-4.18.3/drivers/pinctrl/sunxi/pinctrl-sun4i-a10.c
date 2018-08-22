@@ -1324,3 +1324,4 @@ static struct platform_driver sun4i_a10_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(sun4i_a10_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

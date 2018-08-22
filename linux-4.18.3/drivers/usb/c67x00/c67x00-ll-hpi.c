@@ -475,3 +475,4 @@ void c67x00_ll_init(struct c67x00_device *dev)
 void c67x00_ll_release(struct c67x00_device *dev)
 {
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1551,3 +1551,4 @@ int cn23xx_get_vf_stats(struct octeon_device *oct, int vfidx,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

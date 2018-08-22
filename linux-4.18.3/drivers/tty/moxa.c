@@ -2095,3 +2095,4 @@ static void MoxaSetFifo(struct moxa_port *port, int enable)
 		moxafunc(ofsAddr, FC_SetTxFIFOCnt, 16);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

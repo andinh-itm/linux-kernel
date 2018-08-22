@@ -764,3 +764,4 @@ void fc_disc_init(struct fc_lport *lport)
 	INIT_LIST_HEAD(&disc->rports);
 }
 EXPORT_SYMBOL(fc_disc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

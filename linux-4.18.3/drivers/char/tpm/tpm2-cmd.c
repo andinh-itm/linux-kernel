@@ -1077,3 +1077,4 @@ int tpm2_find_cc(struct tpm_chip *chip, u32 cc)
 
 	return -1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

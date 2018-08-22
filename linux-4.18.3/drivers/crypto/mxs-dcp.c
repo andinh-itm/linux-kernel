@@ -1113,3 +1113,4 @@ MODULE_AUTHOR("Marek Vasut <marex@denx.de>");
 MODULE_DESCRIPTION("Freescale MXS DCP Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mxs-dcp");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -411,3 +411,4 @@ int drm_crtc_add_crc_entry(struct drm_crtc *crtc, bool has_frame,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(drm_crtc_add_crc_entry);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

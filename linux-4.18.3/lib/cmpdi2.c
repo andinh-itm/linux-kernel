@@ -40,3 +40,4 @@ word_type notrace __cmpdi2(long long a, long long b)
 	return 1;
 }
 EXPORT_SYMBOL(__cmpdi2);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

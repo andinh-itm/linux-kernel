@@ -189,3 +189,4 @@ void die(struct pt_regs *regs, const char *str)
 	oops_exit();
 	do_exit(SIGSEGV);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

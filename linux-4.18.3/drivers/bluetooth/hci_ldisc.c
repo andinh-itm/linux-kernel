@@ -915,3 +915,4 @@ MODULE_DESCRIPTION("Bluetooth HCI UART driver ver " VERSION);
 MODULE_VERSION(VERSION);
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_LDISC(N_HCI);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

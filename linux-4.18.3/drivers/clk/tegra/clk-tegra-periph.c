@@ -1061,3 +1061,4 @@ void __init tegra_periph_clk_init(void __iomem *clk_base,
 	gate_clk_init(clk_base, tegra_clks);
 	div_clk_init(clk_base, tegra_clks);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -154,3 +154,4 @@ static int __init vexpress_reset_init(void)
 	return platform_driver_register(&vexpress_reset_driver);
 }
 device_initcall(vexpress_reset_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

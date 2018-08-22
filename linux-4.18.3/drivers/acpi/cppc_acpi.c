@@ -1383,3 +1383,4 @@ unsigned int cppc_get_transition_latency(int cpu_num)
 	return latency_ns;
 }
 EXPORT_SYMBOL_GPL(cppc_get_transition_latency);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -204,3 +204,4 @@ module_platform_driver(pistachio_usb_phy_driver);
 MODULE_AUTHOR("Andrew Bresticker <abrestic@chromium.org>");
 MODULE_DESCRIPTION("IMG Pistachio USB2.0 PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

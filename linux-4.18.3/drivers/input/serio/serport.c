@@ -309,3 +309,4 @@ static void __exit serport_exit(void)
 
 module_init(serport_init);
 module_exit(serport_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

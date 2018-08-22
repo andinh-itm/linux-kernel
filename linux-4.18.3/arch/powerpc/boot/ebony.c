@@ -90,3 +90,4 @@ void ebony_init(void *mac0, void *mac1)
 	fdt_init(_dtb_start);
 	serial_console_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

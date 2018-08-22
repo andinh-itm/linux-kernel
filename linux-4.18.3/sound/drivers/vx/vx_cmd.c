@@ -107,3 +107,4 @@ void vx_init_rmh(struct vx_rmh *rmh, unsigned int cmd)
 	rmh->Cmd[0] = vx_dsp_cmds[cmd].opcode;
 }
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

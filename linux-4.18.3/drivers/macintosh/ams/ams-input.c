@@ -159,3 +159,4 @@ void ams_input_exit(void)
 	ams_input_disable();
 	mutex_unlock(&ams_input_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

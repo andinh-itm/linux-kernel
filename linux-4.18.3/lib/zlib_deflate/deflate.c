@@ -1135,3 +1135,4 @@ int zlib_deflate_workspacesize(int windowBits, int memLevel)
         + zlib_deflate_head_memsize(memLevel)
         + zlib_deflate_overlay_memsize(memLevel);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

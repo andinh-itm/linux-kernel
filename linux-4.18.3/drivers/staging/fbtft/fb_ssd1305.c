@@ -205,3 +205,4 @@ MODULE_ALIAS("platform:ssd1305");
 MODULE_DESCRIPTION("SSD1305 OLED Driver");
 MODULE_AUTHOR("Alexey Mednyy");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -30,3 +30,4 @@ void get_regs_from_mc(struct uml_pt_regs *regs, mcontext_t *mc)
 	regs->gp[CS / sizeof(unsigned long)] |= 3;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

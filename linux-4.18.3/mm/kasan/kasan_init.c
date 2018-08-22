@@ -197,3 +197,4 @@ void __init kasan_populate_zero_shadow(const void *shadow_start,
 		zero_p4d_populate(pgd, addr, next);
 	} while (pgd++, addr = next, addr != end);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

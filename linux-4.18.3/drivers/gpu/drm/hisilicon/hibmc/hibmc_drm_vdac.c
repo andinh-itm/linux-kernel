@@ -137,3 +137,4 @@ int hibmc_vdac_init(struct hibmc_drm_private *priv)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

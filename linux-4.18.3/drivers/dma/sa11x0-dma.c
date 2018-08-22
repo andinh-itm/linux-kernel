@@ -1115,3 +1115,4 @@ MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("SA-11x0 DMA driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:sa11x0-dma");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

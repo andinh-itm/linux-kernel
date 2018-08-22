@@ -266,3 +266,4 @@ int diag26c(void *req, void *resp, enum diag26c_sc subcode)
 	return __diag26c(req, resp, subcode);
 }
 EXPORT_SYMBOL(diag26c);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

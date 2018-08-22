@@ -53,3 +53,4 @@ const char *get_arch_regstr(unsigned int n)
 {
 	return (n < SH_MAX_REGS) ? sh_regs_table[n] : NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

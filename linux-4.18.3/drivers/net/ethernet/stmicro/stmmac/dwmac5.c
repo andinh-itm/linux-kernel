@@ -549,3 +549,4 @@ int dwmac5_flex_pps_config(void __iomem *ioaddr, int index,
 	writel(val, ioaddr + MAC_PPS_CONTROL);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

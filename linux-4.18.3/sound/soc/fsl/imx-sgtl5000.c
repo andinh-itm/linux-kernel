@@ -212,3 +212,4 @@ MODULE_AUTHOR("Shawn Guo <shawn.guo@linaro.org>");
 MODULE_DESCRIPTION("Freescale i.MX SGTL5000 ASoC machine driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:imx-sgtl5000");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -251,3 +251,4 @@ MODULE_DESCRIPTION("Texas Instruments LP8788 ADC Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lp8788-adc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -273,3 +273,4 @@ MODULE_DESCRIPTION("Backlight Driver for Marvell Semiconductor 88PM8606");
 MODULE_AUTHOR("Haojian Zhuang <haojian.zhuang@marvell.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:88pm860x-backlight");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -959,3 +959,4 @@ int kvm_arm_timer_has_attr(struct kvm_vcpu *vcpu, struct kvm_device_attr *attr)
 
 	return -ENXIO;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

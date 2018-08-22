@@ -416,3 +416,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Lee Jones <lee.jones@linaro.org>");
 MODULE_DESCRIPTION("PWM Regulator Driver");
 MODULE_ALIAS("platform:pwm-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

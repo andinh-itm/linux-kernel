@@ -2642,3 +2642,4 @@ MODULE_AUTHOR("Broadcom Corporation");
 MODULE_DESCRIPTION("Broadcom System Port Ethernet MAC driver");
 MODULE_ALIAS("platform:brcm-systemport");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

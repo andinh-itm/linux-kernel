@@ -78,3 +78,4 @@ const struct kfd_event_interrupt_class event_interrupt_class_cik = {
 	.interrupt_isr = cik_event_interrupt_isr,
 	.interrupt_wq = cik_event_interrupt_wq,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

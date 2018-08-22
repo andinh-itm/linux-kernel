@@ -233,3 +233,4 @@ const struct attribute_group amd64_edac_inj_group = {
 	.attrs = amd64_edac_inj_attrs,
 	.is_visible = amd64_edac_inj_is_visible,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

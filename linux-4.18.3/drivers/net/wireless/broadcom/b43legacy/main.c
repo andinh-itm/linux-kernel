@@ -4064,3 +4064,4 @@ static void __exit b43legacy_exit(void)
 
 module_init(b43legacy_init)
 module_exit(b43legacy_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -219,3 +219,4 @@ static int __init scmi_power_init(void)
 				      &scmi_power_protocol_init);
 }
 subsys_initcall(scmi_power_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

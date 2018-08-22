@@ -245,3 +245,4 @@ MODULE_DESCRIPTION("PMIC driver for Dialog DA9063");
 MODULE_AUTHOR("Krystian Garbaciak");
 MODULE_AUTHOR("Michal Hajduk");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

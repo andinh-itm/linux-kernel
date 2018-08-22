@@ -4120,3 +4120,4 @@ int iwl_mvm_tx_protection(struct iwl_mvm *mvm, struct iwl_mvm_sta *mvmsta,
 	else
 		return rs_drv_tx_protection(mvm, mvmsta, enable);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

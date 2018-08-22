@@ -1086,3 +1086,4 @@ static int __init zx_clk_init(void)
 	return platform_driver_register(&zx_clk_driver);
 }
 core_initcall(zx_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

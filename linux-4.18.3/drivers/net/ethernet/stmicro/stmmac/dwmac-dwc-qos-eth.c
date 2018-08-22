@@ -520,3 +520,4 @@ module_platform_driver(dwc_eth_dwmac_driver);
 MODULE_AUTHOR("Joao Pinto <jpinto@synopsys.com>");
 MODULE_DESCRIPTION("Synopsys DWC Ethernet Quality-of-Service v4.10a driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

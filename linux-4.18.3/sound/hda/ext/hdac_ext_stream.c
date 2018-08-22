@@ -571,3 +571,4 @@ int snd_hdac_ext_stream_set_lpib(struct hdac_ext_stream *stream, u32 value)
 	return 0;
 }
 EXPORT_SYMBOL_GPL(snd_hdac_ext_stream_set_lpib);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

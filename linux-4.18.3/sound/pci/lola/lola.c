@@ -773,3 +773,4 @@ static struct pci_driver lola_driver = {
 };
 
 module_pci_driver(lola_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

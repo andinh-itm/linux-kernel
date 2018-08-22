@@ -77,3 +77,4 @@ int uartlite_console_init(void *devp, struct serial_console_data *scdp)
 	scdp->close = NULL;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

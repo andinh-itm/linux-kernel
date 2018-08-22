@@ -802,3 +802,4 @@ void rt2x00debug_deregister(struct rt2x00_dev *rt2x00dev)
 
 	rt2x00dev->debugfs_intf = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1006,3 +1006,4 @@ MODULE_DESCRIPTION("Driver for SWIM floppy controller");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Laurent Vivier <laurent@lvivier.info>");
 MODULE_ALIAS_BLOCKDEV_MAJOR(FLOPPY_MAJOR);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

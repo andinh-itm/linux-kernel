@@ -48,3 +48,4 @@ gf100_msppp_new(struct nvkm_device *device, int index,
 {
 	return nvkm_msppp_new_(&gf100_msppp, device, index, pengine);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

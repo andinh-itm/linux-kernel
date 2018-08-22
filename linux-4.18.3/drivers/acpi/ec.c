@@ -2088,3 +2088,4 @@ static void __exit acpi_ec_exit(void)
 	acpi_ec_query_exit();
 }
 #endif	/* 0 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

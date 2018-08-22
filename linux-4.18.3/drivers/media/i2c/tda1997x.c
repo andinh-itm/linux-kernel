@@ -2819,3 +2819,4 @@ module_i2c_driver(tda1997x_i2c_driver);
 MODULE_AUTHOR("Tim Harvey <tharvey@gateworks.com>");
 MODULE_DESCRIPTION("TDA1997X HDMI Receiver driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

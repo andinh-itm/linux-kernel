@@ -313,3 +313,4 @@ void ptp_cleanup_pin_groups(struct ptp_clock *ptp)
 	kfree(ptp->pin_attr);
 	kfree(ptp->pin_dev_attr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

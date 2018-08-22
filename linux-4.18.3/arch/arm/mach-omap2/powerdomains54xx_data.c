@@ -328,3 +328,4 @@ void __init omap54xx_powerdomains_init(void)
 	pwrdm_register_pwrdms(powerdomains_omap54xx);
 	pwrdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -720,3 +720,4 @@ static void ess_config_fifo(struct s_smc *smc)
 
 #endif	/* no SLIM_SMT */
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

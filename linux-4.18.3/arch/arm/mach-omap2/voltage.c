@@ -340,3 +340,4 @@ void voltdm_init(struct voltagedomain **voltdms)
 			_voltdm_register(*v);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

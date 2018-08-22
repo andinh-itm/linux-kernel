@@ -303,3 +303,4 @@ int setup_isurf(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

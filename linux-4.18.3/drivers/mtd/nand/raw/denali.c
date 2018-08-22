@@ -1408,3 +1408,4 @@ void denali_remove(struct denali_nand_info *denali)
 	denali_disable_irq(denali);
 }
 EXPORT_SYMBOL(denali_remove);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

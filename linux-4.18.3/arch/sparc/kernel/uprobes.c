@@ -329,3 +329,4 @@ arch_uretprobe_hijack_return_addr(unsigned long trampoline_vaddr,
 
 	return orig_ret_vaddr + 8;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

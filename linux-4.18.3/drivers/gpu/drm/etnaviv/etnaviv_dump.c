@@ -237,3 +237,4 @@ void etnaviv_core_dump(struct etnaviv_gpu *gpu)
 
 	dev_coredumpv(gpu->dev, iter.start, iter.data - iter.start, GFP_KERNEL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

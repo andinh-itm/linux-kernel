@@ -569,3 +569,4 @@ MODULE_AUTHOR("Jiri Slaby <jirislaby@gmail.com>");
 MODULE_DESCRIPTION("Sensable Phantom driver (PCI devices)");
 MODULE_LICENSE("GPL");
 MODULE_VERSION(PHANTOM_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

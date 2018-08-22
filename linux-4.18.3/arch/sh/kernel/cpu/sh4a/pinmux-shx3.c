@@ -27,3 +27,4 @@ static int __init plat_pinmux_setup(void)
 			       ARRAY_SIZE(shx3_pfc_resources));
 }
 arch_initcall(plat_pinmux_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

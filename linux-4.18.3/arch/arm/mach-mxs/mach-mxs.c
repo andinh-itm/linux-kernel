@@ -464,3 +464,4 @@ DT_MACHINE_START(MXS, "Freescale MXS (Device Tree)")
 	.dt_compat	= mxs_dt_compat,
 	.restart	= mxs_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

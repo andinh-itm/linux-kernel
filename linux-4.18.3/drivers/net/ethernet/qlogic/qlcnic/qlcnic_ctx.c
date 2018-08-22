@@ -1428,3 +1428,4 @@ qlcnic_get_eswitch_port_config(struct qlcnic_adapter *adapter,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

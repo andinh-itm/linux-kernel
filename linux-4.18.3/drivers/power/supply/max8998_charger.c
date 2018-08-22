@@ -200,3 +200,4 @@ MODULE_DESCRIPTION("MAXIM 8998 battery control driver");
 MODULE_AUTHOR("MyungJoo Ham <myungjoo.ham@samsung.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:max8998-battery");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

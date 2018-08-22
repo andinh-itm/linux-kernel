@@ -2992,3 +2992,4 @@ void ath10k_htt_set_rx_ops(struct ath10k_htt *htt)
 	else
 		htt->rx_ops = &htt_rx_ops_32;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

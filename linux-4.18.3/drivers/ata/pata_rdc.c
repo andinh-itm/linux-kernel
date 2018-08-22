@@ -396,3 +396,4 @@ MODULE_DESCRIPTION("SCSI low-level driver for RDC PATA controllers");
 MODULE_LICENSE("GPL");
 MODULE_DEVICE_TABLE(pci, rdc_pci_tbl);
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

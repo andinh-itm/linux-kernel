@@ -222,3 +222,4 @@ static struct platform_driver radio_si4713_pdriver = {
 };
 
 module_platform_driver(radio_si4713_pdriver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

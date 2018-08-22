@@ -384,3 +384,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_DESCRIPTION("EP93xx Matrix Keypad Controller");
 MODULE_ALIAS("platform:ep93xx-keypad");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

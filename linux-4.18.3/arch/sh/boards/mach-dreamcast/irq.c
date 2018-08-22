@@ -154,3 +154,4 @@ void systemasic_irq_init(void)
 	for (i = HW_EVENT_IRQ_BASE; i < HW_EVENT_IRQ_MAX; i++)
 		irq_set_chip_and_handler(i, &systemasic_int, handle_level_irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

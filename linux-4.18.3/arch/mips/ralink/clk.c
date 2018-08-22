@@ -87,3 +87,4 @@ void __init plat_time_init(void)
 	clk_put(clk);
 	timer_probe();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

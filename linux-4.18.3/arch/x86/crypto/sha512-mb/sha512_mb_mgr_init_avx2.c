@@ -67,3 +67,4 @@ void sha512_mb_mgr_init_avx2(struct sha512_mb_mgr *state)
 	for (j = 0; j < 4; j++)
 		state->ldata[j].job_in_lane = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

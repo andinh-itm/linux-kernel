@@ -320,3 +320,4 @@ void __init paging_init(void)
 	/* Initialize the kernel's ZERO_PGE. */
 	memset((void *)ZERO_PGE, 0, PAGE_SIZE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

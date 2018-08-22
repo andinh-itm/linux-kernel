@@ -349,3 +349,4 @@ struct device_attribute *qla4xxx_host_attrs[] = {
 	&dev_attr_fw_uptime,
 	NULL,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

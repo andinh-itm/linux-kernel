@@ -430,3 +430,4 @@ static struct platform_driver xgene_rng_driver = {
 module_platform_driver(xgene_rng_driver);
 MODULE_DESCRIPTION("APM X-Gene RNG driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

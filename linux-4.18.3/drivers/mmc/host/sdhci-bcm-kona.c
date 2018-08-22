@@ -337,3 +337,4 @@ module_platform_driver(sdhci_bcm_kona_driver);
 MODULE_DESCRIPTION("SDHCI driver for Broadcom Kona platform");
 MODULE_AUTHOR("Broadcom");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

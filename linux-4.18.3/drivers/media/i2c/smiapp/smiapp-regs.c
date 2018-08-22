@@ -301,3 +301,4 @@ int smiapp_write(struct smiapp_sensor *sensor, u32 reg, u32 val)
 
 	return smiapp_write_no_quirk(sensor, reg, val);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -21,3 +21,4 @@ int bpf_decoder(unsigned int *sample)
 }
 
 char _license[] SEC("license") = "GPL";
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

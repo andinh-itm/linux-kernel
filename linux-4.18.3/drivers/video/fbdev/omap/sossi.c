@@ -691,3 +691,4 @@ struct lcd_ctrl_extif omap1_ext_if = {
 	.max_transmit_size	= SOSSI_MAX_XMIT_BYTES,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

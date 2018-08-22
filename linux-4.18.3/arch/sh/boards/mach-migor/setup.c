@@ -647,3 +647,4 @@ static struct sh_machine_vector mv_migor __initmv = {
 	.mv_mode_pins		= migor_mode_pins,
 	.mv_mem_reserve		= migor_mv_mem_reserve,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

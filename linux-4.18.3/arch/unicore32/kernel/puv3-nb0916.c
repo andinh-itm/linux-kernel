@@ -149,3 +149,4 @@ int __init mach_nb0916_init(void)
 }
 
 subsys_initcall_sync(mach_nb0916_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

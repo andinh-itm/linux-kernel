@@ -150,3 +150,4 @@ MODULE_AUTHOR("Sebastian A. Siewior <bigeasy@linutronix.de>");
 MODULE_DESCRIPTION("ot200 LED driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:leds-ot200");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

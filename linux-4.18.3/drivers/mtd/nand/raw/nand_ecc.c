@@ -509,3 +509,4 @@ EXPORT_SYMBOL(nand_correct_data);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Frans Meulenbroeks <fransmeulenbroeks@gmail.com>");
 MODULE_DESCRIPTION("Generic NAND ECC support");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

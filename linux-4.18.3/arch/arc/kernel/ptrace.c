@@ -303,3 +303,4 @@ asmlinkage void syscall_trace_exit(struct pt_regs *regs)
 {
 	tracehook_report_syscall_exit(regs, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

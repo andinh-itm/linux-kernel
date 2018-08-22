@@ -190,3 +190,4 @@ void olpc_quirks_cleanup(void)
 {
 	gpio_free(OLPC_GPIO_MIC_AC);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

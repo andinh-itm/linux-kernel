@@ -180,3 +180,4 @@ MODULE_ALIAS("platform:ssd1289");
 MODULE_DESCRIPTION("FB driver for the SSD1289 LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

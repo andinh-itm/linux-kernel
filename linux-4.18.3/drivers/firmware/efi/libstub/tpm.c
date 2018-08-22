@@ -134,3 +134,4 @@ void efi_retrieve_tpm2_eventlog(efi_system_table_t *sys_table_arg)
 	/* Only try to retrieve the logs in 1.2 format. */
 	efi_retrieve_tpm2_eventlog_1_2(sys_table_arg);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

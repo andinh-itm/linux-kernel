@@ -340,3 +340,4 @@ void __init acpiphp_init(void)
 		acpiphp_disabled ? ", disabled by user; please report a bug"
 				 : "");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

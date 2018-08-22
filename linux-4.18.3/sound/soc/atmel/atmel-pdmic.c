@@ -733,3 +733,4 @@ module_platform_driver(atmel_pdmic_driver);
 MODULE_DESCRIPTION("Atmel PDMIC driver under ALSA SoC architecture");
 MODULE_AUTHOR("Songjun Wu <songjun.wu@atmel.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

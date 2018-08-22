@@ -366,3 +366,4 @@ static int __init tc3589x_gpio_init(void)
 	return platform_driver_register(&tc3589x_gpio_driver);
 }
 subsys_initcall(tc3589x_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

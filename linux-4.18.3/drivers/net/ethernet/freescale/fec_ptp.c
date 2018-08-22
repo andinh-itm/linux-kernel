@@ -634,3 +634,4 @@ void fec_ptp_stop(struct platform_device *pdev)
 	if (fep->ptp_clock)
 		ptp_clock_unregister(fep->ptp_clock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

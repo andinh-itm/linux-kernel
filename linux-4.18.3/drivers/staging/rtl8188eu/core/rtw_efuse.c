@@ -930,3 +930,4 @@ void EFUSE_ShadowMapUpdate(
 	else
 		Efuse_ReadAllMap(pAdapter, efuseType, pEEPROM->efuse_eeprom_data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

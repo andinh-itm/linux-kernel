@@ -464,3 +464,4 @@ static const struct cpu_dev nsc_cpu_dev = {
 };
 
 cpu_dev_register(nsc_cpu_dev);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -84,3 +84,4 @@ struct cpu_user_fns fa_user_fns __initdata = {
 	.cpu_clear_user_highpage = fa_clear_user_highpage,
 	.cpu_copy_user_highpage	= fa_copy_user_highpage,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

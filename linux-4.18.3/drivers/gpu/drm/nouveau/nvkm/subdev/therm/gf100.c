@@ -56,3 +56,4 @@ gf100_clkgate_init(struct nvkm_therm *therm,
  * TODO: Fermi clockgating isn't understood fully yet, so we don't specify any
  * clockgate functions to use
  */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

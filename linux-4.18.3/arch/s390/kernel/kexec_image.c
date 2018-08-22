@@ -74,3 +74,4 @@ const struct kexec_file_ops s390_kexec_image_ops = {
 	.probe = s390_image_probe,
 	.load = s390_image_load,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1020,3 +1020,4 @@ static int __init cygnus_pinmux_init(void)
 	return platform_driver_register(&cygnus_pinmux_driver);
 }
 arch_initcall(cygnus_pinmux_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

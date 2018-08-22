@@ -466,3 +466,4 @@ MODULE_DEVICE_TABLE(usb, id_table);
 MODULE_AUTHOR("Mario Kicherer, dev@kicherer.org");
 MODULE_DESCRIPTION("Behringer BCD2000 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

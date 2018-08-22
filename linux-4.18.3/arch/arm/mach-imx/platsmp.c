@@ -127,3 +127,4 @@ const struct smp_operations ls1021a_smp_ops __initconst = {
 	.smp_prepare_cpus	= ls1021a_smp_prepare_cpus,
 	.smp_boot_secondary	= ls1021a_boot_secondary,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

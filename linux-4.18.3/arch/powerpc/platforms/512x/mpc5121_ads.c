@@ -75,3 +75,4 @@ define_machine(mpc5121_ads) {
 	.calibrate_decr		= generic_calibrate_decr,
 	.restart		= mpc512x_restart,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

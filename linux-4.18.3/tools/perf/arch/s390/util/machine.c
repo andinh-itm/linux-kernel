@@ -18,3 +18,4 @@ int arch__fix_module_text_start(u64 *start, const char *name)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

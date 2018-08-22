@@ -82,3 +82,4 @@ int snd_dg00x_transaction_register(struct snd_dg00x *dg00x)
 
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

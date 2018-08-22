@@ -107,3 +107,4 @@ MODULE_DESCRIPTION("AHCI SATA platform driver");
 MODULE_AUTHOR("Anton Vorontsov <avorontsov@ru.mvista.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ahci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

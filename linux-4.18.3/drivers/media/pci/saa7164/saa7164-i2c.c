@@ -120,3 +120,4 @@ int saa7164_i2c_unregister(struct saa7164_i2c *bus)
 	i2c_del_adapter(&bus->i2c_adap);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

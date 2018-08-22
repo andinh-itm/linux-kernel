@@ -191,3 +191,4 @@ static struct platform_driver q40kbd_driver = {
 };
 
 module_platform_driver_probe(q40kbd_driver, q40kbd_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2059,3 +2059,4 @@ module_i2c_driver(s5k5baf_i2c_driver);
 MODULE_DESCRIPTION("Samsung S5K5BAF(X) UXGA camera driver");
 MODULE_AUTHOR("Andrzej Hajda <a.hajda@samsung.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

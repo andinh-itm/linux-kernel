@@ -109,3 +109,4 @@ module_acpi_driver(chromeos_tbmc_driver);
 
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("ChromeOS ACPI tablet switch driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

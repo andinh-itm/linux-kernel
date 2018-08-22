@@ -388,3 +388,4 @@ int ima_eventsig_init(struct ima_event_data *event_data,
 	return ima_write_template_field_data(xattr_value, event_data->xattr_len,
 					     DATA_FMT_HEX, field_data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

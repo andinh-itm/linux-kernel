@@ -142,3 +142,4 @@ module_exit(wm831x_spi_exit);
 MODULE_DESCRIPTION("SPI support for WM831x/2x AudioPlus PMICs");
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Mark Brown");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

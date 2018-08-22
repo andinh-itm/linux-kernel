@@ -126,3 +126,4 @@ static int __init ti_32k_timer_init(struct device_node *np)
 }
 TIMER_OF_DECLARE(ti_32k_timer, "ti,omap-counter32k",
 		ti_32k_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

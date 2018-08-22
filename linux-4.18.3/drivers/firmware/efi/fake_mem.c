@@ -139,3 +139,4 @@ static int __init setup_fake_mem(char *p)
 }
 
 early_param("efi_fake_mem", setup_fake_mem);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

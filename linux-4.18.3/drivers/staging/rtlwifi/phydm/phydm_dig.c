@@ -1524,3 +1524,4 @@ bool phydm_dig_go_up_check(void *dm_void)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

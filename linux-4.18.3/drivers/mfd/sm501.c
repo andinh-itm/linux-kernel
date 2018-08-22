@@ -1744,3 +1744,4 @@ module_exit(sm501_base_exit);
 MODULE_DESCRIPTION("SM501 Core Driver");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>, Vincent Sanders");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

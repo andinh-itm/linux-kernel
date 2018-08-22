@@ -46,3 +46,4 @@ module_spi_driver(aic23_spi);
 MODULE_DESCRIPTION("ASoC TLV320AIC23 codec driver SPI");
 MODULE_AUTHOR("Arun KS <arunks@mistralsolutions.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

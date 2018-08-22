@@ -89,3 +89,4 @@ void b43legacy_rfkill_poll(struct ieee80211_hw *hw)
 
 	mutex_unlock(&wl->mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

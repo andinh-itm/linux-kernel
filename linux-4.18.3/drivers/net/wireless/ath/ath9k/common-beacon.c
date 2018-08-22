@@ -164,3 +164,4 @@ void ath9k_cmn_beacon_config_ap(struct ath_hw *ah,
 		conf->nexttbtt, conf->intval, conf->beacon_interval);
 }
 EXPORT_SYMBOL(ath9k_cmn_beacon_config_ap);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

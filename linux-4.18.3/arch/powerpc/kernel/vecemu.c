@@ -345,3 +345,4 @@ int emulate_altivec(struct pt_regs *regs)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1270,3 +1270,4 @@ static struct platform_driver mvebu_gpio_driver = {
 	.resume         = mvebu_gpio_resume,
 };
 builtin_platform_driver(mvebu_gpio_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

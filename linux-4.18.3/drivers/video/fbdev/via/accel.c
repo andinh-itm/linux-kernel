@@ -545,3 +545,4 @@ void viafb_wait_engine_idle(struct fb_info *info)
 	if (loop >= MAXLOOP)
 		printk(KERN_ERR "viafb_wait_engine_idle: not syncing\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

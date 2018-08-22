@@ -112,3 +112,4 @@ void fmc_free_id_info(struct fmc_device *fmc)
 	kfree(fmc->id.manufacturer);
 	kfree(fmc->id.product_name);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

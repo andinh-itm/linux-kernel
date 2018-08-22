@@ -296,3 +296,4 @@ void __init ehv_pic_init(void)
 	global_ehv_pic = ehv_pic;
 	irq_set_default_host(global_ehv_pic->irqhost);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -356,3 +356,4 @@ void omap3isp_csiphy_cleanup(struct isp_device *isp)
 	mutex_destroy(&isp->isp_csiphy1.mutex);
 	mutex_destroy(&isp->isp_csiphy2.mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

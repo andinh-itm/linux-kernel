@@ -135,3 +135,4 @@ module_param(iterations, long, 0400);
 MODULE_AUTHOR("Daniel Axtens <dja@axtens.net>");
 MODULE_DESCRIPTION("Vector polynomial multiply-sum CRC tester");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

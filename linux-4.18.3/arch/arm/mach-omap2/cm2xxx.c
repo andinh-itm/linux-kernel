@@ -400,3 +400,4 @@ static void __exit omap2xxx_cm_exit(void)
 	cm_unregister(&omap2xxx_cm_ll_data);
 }
 __exitcall(omap2xxx_cm_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

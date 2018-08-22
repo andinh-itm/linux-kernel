@@ -21,3 +21,4 @@ unsigned name_to_int(const struct qstr *qstr)
 out:
 	return ~0U;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

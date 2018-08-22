@@ -446,3 +446,4 @@ int otg_statemachine(struct otg_fsm *fsm)
 }
 EXPORT_SYMBOL_GPL(otg_statemachine);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

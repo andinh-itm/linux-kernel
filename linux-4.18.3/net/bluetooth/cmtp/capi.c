@@ -593,3 +593,4 @@ void cmtp_detach_device(struct cmtp_session *session)
 
 	detach_capi_ctr(&session->ctrl);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

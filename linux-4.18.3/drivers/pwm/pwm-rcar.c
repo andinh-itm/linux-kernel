@@ -313,3 +313,4 @@ MODULE_AUTHOR("Yoshihiro Shimoda <yoshihiro.shimoda.uh@renesas.com>");
 MODULE_DESCRIPTION("Renesas PWM Timer Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:pwm-rcar");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

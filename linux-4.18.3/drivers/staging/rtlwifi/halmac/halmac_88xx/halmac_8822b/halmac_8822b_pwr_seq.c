@@ -550,3 +550,4 @@ struct halmac_wl_pwr_cfg_ *halmac_8822b_enter_deep_lps_flow[] = {
 /* Leave LPS -FW behavior */
 struct halmac_wl_pwr_cfg_ *halmac_8822b_leave_lps_flow[] = {
 	HALMAC_RTL8822B_TRANS_LPS_TO_ACT, NULL};
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

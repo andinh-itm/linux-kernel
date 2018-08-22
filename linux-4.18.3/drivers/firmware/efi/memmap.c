@@ -340,3 +340,4 @@ void __init efi_memmap_insert(struct efi_memory_map *old_memmap, void *buf,
 		}
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -33,3 +33,4 @@ module_init(accent_init);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("8250 serial probe module for Accent Async cards");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

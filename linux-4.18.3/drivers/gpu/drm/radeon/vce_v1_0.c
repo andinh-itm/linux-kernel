@@ -382,3 +382,4 @@ int vce_v1_0_init(struct radeon_device *rdev)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

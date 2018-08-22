@@ -287,3 +287,4 @@ struct alpha_machine_vector takara_mv __initmv = {
 	.pci_swizzle		= takara_swizzle,
 };
 ALIAS_MV(takara)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

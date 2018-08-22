@@ -294,3 +294,4 @@ int handle_trapped_io(struct pt_regs *regs, unsigned long address)
 	set_fs(oldfs);
 	return tmp == 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

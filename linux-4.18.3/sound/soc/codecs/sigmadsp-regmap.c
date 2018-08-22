@@ -58,3 +58,4 @@ EXPORT_SYMBOL_GPL(devm_sigmadsp_init_regmap);
 MODULE_AUTHOR("Lars-Peter Clausen <lars@metafoo.de>");
 MODULE_DESCRIPTION("SigmaDSP regmap firmware loader");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

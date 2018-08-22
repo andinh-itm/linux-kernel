@@ -112,3 +112,4 @@ asmlinkage void __init smp_callin(void)
 	preempt_disable();
 	cpu_startup_entry(CPUHP_AP_ONLINE_IDLE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

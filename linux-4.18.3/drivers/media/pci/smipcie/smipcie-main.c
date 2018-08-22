@@ -1127,3 +1127,4 @@ module_pci_driver(smipcie_driver);
 MODULE_AUTHOR("Max nibble <nibble.max@gmail.com>");
 MODULE_DESCRIPTION("SMI PCIe driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

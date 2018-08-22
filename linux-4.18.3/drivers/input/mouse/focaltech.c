@@ -458,3 +458,4 @@ fail:
 	return error;
 }
 #endif /* CONFIG_MOUSE_PS2_FOCALTECH */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

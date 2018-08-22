@@ -131,3 +131,4 @@ void hisi_reset_exit(struct hisi_reset_controller *rstc)
 	reset_controller_unregister(&rstc->rcdev);
 }
 EXPORT_SYMBOL_GPL(hisi_reset_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

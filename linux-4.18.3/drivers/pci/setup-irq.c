@@ -60,3 +60,4 @@ void pci_assign_irq(struct pci_dev *dev)
 	   the real IRQ to use; the device does not use it. */
 	pci_write_config_byte(dev, PCI_INTERRUPT_LINE, irq);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

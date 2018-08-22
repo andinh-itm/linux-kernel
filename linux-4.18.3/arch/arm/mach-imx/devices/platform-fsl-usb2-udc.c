@@ -52,3 +52,4 @@ struct platform_device *__init imx_add_fsl_usb2_udc(
 			res, ARRAY_SIZE(res),
 			pdata, sizeof(*pdata), DMA_BIT_MASK(32));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -119,3 +119,4 @@ MODULE_AUTHOR("Pawel Moll <pawel.moll@arm.com>");
 MODULE_DESCRIPTION("Versatile Express regulator");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:vexpress-regulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1330,3 +1330,4 @@ static struct pci_driver intel8x0m_driver = {
 };
 
 module_pci_driver(intel8x0m_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

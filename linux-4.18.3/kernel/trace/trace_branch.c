@@ -449,3 +449,4 @@ __init static int all_annotated_branch_stats(void)
 }
 fs_initcall(all_annotated_branch_stats);
 #endif /* CONFIG_PROFILE_ALL_BRANCHES */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -241,3 +241,4 @@ MODULE_AUTHOR("Eddie C. Dost, David S. Miller");
 MODULE_DESCRIPTION("Sun serial common layer");
 MODULE_LICENSE("GPL");
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -288,3 +288,4 @@ module_platform_driver_probe(sprd_gpio_driver, sprd_gpio_probe);
 
 MODULE_DESCRIPTION("Spreadtrum GPIO driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

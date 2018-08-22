@@ -1074,3 +1074,4 @@ module_platform_driver(sht15_driver);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Sensirion SHT15 temperature and humidity sensor driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

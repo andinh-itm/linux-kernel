@@ -119,3 +119,4 @@ static void __exit ah_mt6_exit(void)
 
 module_init(ah_mt6_init);
 module_exit(ah_mt6_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

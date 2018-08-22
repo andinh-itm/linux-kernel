@@ -1507,3 +1507,4 @@ static struct platform_driver fusb300_driver = {
 };
 
 module_platform_driver_probe(fusb300_driver, fusb300_probe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

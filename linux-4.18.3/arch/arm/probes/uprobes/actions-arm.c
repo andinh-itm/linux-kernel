@@ -230,3 +230,4 @@ const union decode_action uprobes_probes_actions[] = {
 	[PROBES_BRANCH] = {.handler = simulate_bbl},
 	[PROBES_LDMSTM] = {.decoder = uprobe_decode_ldmstm}
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

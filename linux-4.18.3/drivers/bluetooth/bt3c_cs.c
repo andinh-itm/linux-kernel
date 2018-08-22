@@ -744,3 +744,4 @@ static struct pcmcia_driver bt3c_driver = {
 	.id_table	= bt3c_ids,
 };
 module_pcmcia_driver(bt3c_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

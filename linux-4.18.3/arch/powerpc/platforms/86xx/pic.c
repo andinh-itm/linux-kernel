@@ -69,3 +69,4 @@ void __init mpc86xx_init_irq(void)
 	irq_set_chained_handler(cascade_irq, mpc86xx_8259_cascade);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

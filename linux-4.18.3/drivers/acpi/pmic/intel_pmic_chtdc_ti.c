@@ -132,3 +132,4 @@ static struct platform_driver chtdc_ti_pmic_opregion_driver = {
 	.id_table = chtdc_ti_pmic_opregion_id_table,
 };
 builtin_platform_driver(chtdc_ti_pmic_opregion_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

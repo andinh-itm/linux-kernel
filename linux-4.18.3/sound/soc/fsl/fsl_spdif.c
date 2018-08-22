@@ -1380,3 +1380,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("Freescale S/PDIF CPU DAI Driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:fsl-spdif-dai");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

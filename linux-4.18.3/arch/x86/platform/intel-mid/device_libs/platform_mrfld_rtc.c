@@ -46,3 +46,4 @@ static int __init mrfld_legacy_rtc_init(void)
 	return mrfld_legacy_rtc_alloc_irq();
 }
 arch_initcall(mrfld_legacy_rtc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

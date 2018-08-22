@@ -219,3 +219,4 @@ void sw_sync_fence_destroy(int fd)
 	if (sw_sync_fence_is_valid(fd))
 		close(fd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

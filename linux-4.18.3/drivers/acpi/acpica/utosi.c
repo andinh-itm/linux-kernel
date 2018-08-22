@@ -453,3 +453,4 @@ acpi_status acpi_ut_osi_implementation(struct acpi_walk_state *walk_state)
 	walk_state->return_desc = return_desc;
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

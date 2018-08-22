@@ -185,3 +185,4 @@ void drm_i2c_encoder_restore(struct drm_encoder *encoder)
 	get_slave_funcs(encoder)->restore(encoder);
 }
 EXPORT_SYMBOL(drm_i2c_encoder_restore);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

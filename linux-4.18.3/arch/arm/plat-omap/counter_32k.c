@@ -115,3 +115,4 @@ int __init omap_init_clocksource_32k(void __iomem *vbase)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

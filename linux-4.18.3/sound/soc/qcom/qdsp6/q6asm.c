@@ -1397,3 +1397,4 @@ static struct apr_driver qcom_q6asm_driver = {
 module_apr_driver(qcom_q6asm_driver);
 MODULE_DESCRIPTION("Q6 Audio Stream Manager driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

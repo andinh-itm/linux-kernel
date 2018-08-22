@@ -111,3 +111,4 @@ notrace void arch_local_irq_restore(unsigned long flags)
 EXPORT_SYMBOL(arch_local_irq_restore);
 
 #endif /* !CONFIG_CPU_MIPSR2 && !CONFIG_CPU_MIPSR6 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

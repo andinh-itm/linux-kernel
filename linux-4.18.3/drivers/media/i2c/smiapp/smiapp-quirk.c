@@ -237,3 +237,4 @@ static int tcm8500md_limits(struct smiapp_sensor *sensor)
 const struct smiapp_quirk smiapp_tcm8500md_quirk = {
 	.limits = tcm8500md_limits,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

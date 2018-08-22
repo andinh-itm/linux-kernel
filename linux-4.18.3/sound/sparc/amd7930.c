@@ -1098,3 +1098,4 @@ static void __exit amd7930_exit(void)
 
 module_init(amd7930_init);
 module_exit(amd7930_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

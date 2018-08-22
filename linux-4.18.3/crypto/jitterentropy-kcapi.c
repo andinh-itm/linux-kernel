@@ -205,3 +205,4 @@ MODULE_LICENSE("Dual BSD/GPL");
 MODULE_AUTHOR("Stephan Mueller <smueller@chronox.de>");
 MODULE_DESCRIPTION("Non-physical True Random Number Generator based on CPU Jitter");
 MODULE_ALIAS_CRYPTO("jitterentropy_rng");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

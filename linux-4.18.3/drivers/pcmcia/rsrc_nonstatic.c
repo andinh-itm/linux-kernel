@@ -1235,3 +1235,4 @@ static void __exit nonstatic_sysfs_exit(void)
 
 module_init(nonstatic_sysfs_init);
 module_exit(nonstatic_sysfs_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

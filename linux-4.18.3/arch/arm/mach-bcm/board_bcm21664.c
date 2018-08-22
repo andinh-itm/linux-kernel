@@ -29,3 +29,4 @@ DT_MACHINE_START(BCM21664_DT, "BCM21664 Broadcom Application Processor")
 	.init_machine = bcm21664_init,
 	.dt_compat = bcm21664_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

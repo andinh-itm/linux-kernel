@@ -128,3 +128,4 @@ WLAN_PWR_CFG rtl8723B_leave_swlps_flow[
 	RTL8723B_TRANS_SWLPS_TO_ACT
 	RTL8723B_TRANS_END
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

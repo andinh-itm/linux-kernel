@@ -38,3 +38,4 @@ int __init bcm63xx_rng_register(void)
 	return platform_device_register(&bcm63xx_rng_device);
 }
 arch_initcall(bcm63xx_rng_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

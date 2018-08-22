@@ -49,3 +49,4 @@ int jffs2_flash_direct_write(struct jffs2_sb_info *c, loff_t ofs, size_t len,
 	}
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

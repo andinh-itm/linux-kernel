@@ -84,3 +84,4 @@ static struct hid_driver redragon_driver = {
 module_hid_driver(redragon_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

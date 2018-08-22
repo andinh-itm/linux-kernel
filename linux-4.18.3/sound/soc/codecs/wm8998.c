@@ -1423,3 +1423,4 @@ MODULE_DESCRIPTION("ASoC WM8998 driver");
 MODULE_AUTHOR("Richard Fitzgerald <rf@opensource.wolfsonmicro.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:wm8998-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

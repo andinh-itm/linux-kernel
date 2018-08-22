@@ -142,3 +142,4 @@ int hfsplus_init_posix_acl(struct inode *inode, struct inode *dir)
 	}
 	return err;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

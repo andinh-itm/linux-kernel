@@ -765,3 +765,4 @@ MODULE_LICENSE("GPL");
 
 module_init(i2c_dev_init);
 module_exit(i2c_dev_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

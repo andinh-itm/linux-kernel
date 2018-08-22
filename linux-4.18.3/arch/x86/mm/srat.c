@@ -112,3 +112,4 @@ int __init x86_acpi_numa_init(void)
 		return ret;
 	return srat_disabled() ? -EINVAL : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2719,3 +2719,4 @@ MODULE_DESCRIPTION("Renesas USB3.0 Peripheral driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Yoshihiro Shimoda <yoshihiro.shimoda.uh@renesas.com>");
 MODULE_ALIAS("platform:renesas_usb3");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

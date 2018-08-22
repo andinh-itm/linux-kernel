@@ -2254,3 +2254,4 @@ module_i2c_driver(da7219_i2c_driver);
 MODULE_DESCRIPTION("ASoC DA7219 Codec Driver");
 MODULE_AUTHOR("Adam Thomson <Adam.Thomson.Opensource@diasemi.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

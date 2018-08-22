@@ -1247,3 +1247,4 @@ module_platform_driver(tegra_vde_driver);
 MODULE_DESCRIPTION("NVIDIA Tegra Video Decoder driver");
 MODULE_AUTHOR("Dmitry Osipenko <digetx@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

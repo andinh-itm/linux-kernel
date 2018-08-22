@@ -29,3 +29,4 @@ u64 __weak rdtsc(void)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

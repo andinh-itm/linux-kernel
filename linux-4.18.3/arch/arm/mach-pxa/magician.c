@@ -1020,3 +1020,4 @@ MACHINE_START(MAGICIAN, "HTC Magician")
 	.init_time	= pxa_timer_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

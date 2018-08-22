@@ -8,3 +8,4 @@ main(void)
 	puts("");
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

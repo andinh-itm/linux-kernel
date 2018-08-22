@@ -429,3 +429,4 @@ void kvmppc_mmu_book3s_32_init(struct kvm_vcpu *vcpu)
 	mmu->slbie = NULL;
 	mmu->slbia = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

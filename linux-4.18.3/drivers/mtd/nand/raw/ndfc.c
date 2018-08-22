@@ -284,3 +284,4 @@ module_platform_driver(ndfc_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Thomas Gleixner <tglx@linutronix.de>");
 MODULE_DESCRIPTION("OF Platform driver for NDFC");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

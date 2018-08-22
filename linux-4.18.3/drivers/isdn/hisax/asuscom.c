@@ -421,3 +421,4 @@ int setup_asuscom(struct IsdnCard *card)
 	}
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

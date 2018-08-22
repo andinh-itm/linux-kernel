@@ -192,3 +192,4 @@ MODULE_DESCRIPTION("Comedi low-level driver for the Computerboards PCIM-DDA "
 		   "series.  Currently only supports PCIM-DDA06-16 (which "
 		   "also happens to be the only board in this series. :) ) ");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

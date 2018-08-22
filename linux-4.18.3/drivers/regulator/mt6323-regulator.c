@@ -423,3 +423,4 @@ module_platform_driver(mt6323_regulator_driver);
 MODULE_AUTHOR("Chen Zhong <chen.zhong@mediatek.com>");
 MODULE_DESCRIPTION("Regulator Driver for MediaTek MT6323 PMIC");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

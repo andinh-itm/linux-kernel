@@ -344,3 +344,4 @@ void make_empty_dir_item(char *body, __le32 dirid, __le32 objid,
 	memcpy(body + deh_location(dot), ".", 1);
 	memcpy(body + deh_location(dotdot), "..", 2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

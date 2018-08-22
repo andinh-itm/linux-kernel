@@ -88,3 +88,4 @@ module_usb_serial_driver(serial_drivers, id_table);
 MODULE_AUTHOR("Wesley W. Terpstra <w.terpstra@gsi.de>");
 MODULE_DESCRIPTION("USB Wishbone-Serial adapter");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

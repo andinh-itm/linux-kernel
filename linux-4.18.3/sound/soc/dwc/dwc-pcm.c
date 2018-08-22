@@ -280,3 +280,4 @@ int dw_pcm_register(struct platform_device *pdev)
 	return devm_snd_soc_register_component(&pdev->dev, &dw_pcm_component,
 					       NULL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1998,3 +1998,4 @@ module_param_named(monitor, monitor_string, charp, 0);
 MODULE_PARM_DESC(monitor, "Specify the monitor port "
 	"(\"dvi\", \"lvds\", or \"dlvds\") if supported by the platform");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -565,3 +565,4 @@ static struct gameport_driver adi_drv = {
 };
 
 module_gameport_driver(adi_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

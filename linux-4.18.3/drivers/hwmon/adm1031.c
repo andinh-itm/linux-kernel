@@ -1099,3 +1099,4 @@ module_i2c_driver(adm1031_driver);
 MODULE_AUTHOR("Alexandre d'Alton <alex@alexdalton.org>");
 MODULE_DESCRIPTION("ADM1031/ADM1030 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

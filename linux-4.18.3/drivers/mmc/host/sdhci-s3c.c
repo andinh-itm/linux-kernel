@@ -799,3 +799,4 @@ MODULE_DESCRIPTION("Samsung SDHCI (HSMMC) glue");
 MODULE_AUTHOR("Ben Dooks, <ben@simtec.co.uk>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:s3c-sdhci");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

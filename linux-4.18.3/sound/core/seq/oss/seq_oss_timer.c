@@ -275,3 +275,4 @@ snd_seq_oss_timer_ioctl(struct seq_oss_timer *timer, unsigned int cmd, int __use
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

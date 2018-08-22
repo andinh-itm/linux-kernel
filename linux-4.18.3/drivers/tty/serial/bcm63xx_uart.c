@@ -925,3 +925,4 @@ module_exit(bcm_uart_exit);
 MODULE_AUTHOR("Maxime Bizon <mbizon@freebox.fr>");
 MODULE_DESCRIPTION("Broadcom 63xx integrated uart driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

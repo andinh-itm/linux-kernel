@@ -151,3 +151,4 @@ static int __init exynos_pmu_init(void)
 
 }
 postcore_initcall(exynos_pmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

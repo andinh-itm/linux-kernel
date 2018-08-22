@@ -164,3 +164,4 @@ int migor_lcd_qvga_setup(void *sohandle, struct sh_mobile_lcdc_sys_bus_ops *so)
 	mdelay(100);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

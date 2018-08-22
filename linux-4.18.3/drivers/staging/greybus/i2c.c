@@ -340,3 +340,4 @@ static struct gbphy_driver i2c_driver = {
 
 module_gbphy_driver(i2c_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

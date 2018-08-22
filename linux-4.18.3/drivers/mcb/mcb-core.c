@@ -521,3 +521,4 @@ module_exit(mcb_exit);
 MODULE_DESCRIPTION("MEN Chameleon Bus Driver");
 MODULE_AUTHOR("Johannes Thumshirn <johannes.thumshirn@men.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

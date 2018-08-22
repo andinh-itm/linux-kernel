@@ -606,3 +606,4 @@ MODULE_DESCRIPTION("AM35x MUSB Glue Layer");
 MODULE_AUTHOR("Ajay Kumar Gupta <ajay.gupta@ti.com>");
 MODULE_LICENSE("GPL v2");
 module_platform_driver(am35x_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

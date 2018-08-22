@@ -1732,3 +1732,4 @@ void ath6kl_htc_pipe_attach(struct ath6kl *ar)
 {
 	ar->htc_ops = &ath6kl_htc_pipe_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

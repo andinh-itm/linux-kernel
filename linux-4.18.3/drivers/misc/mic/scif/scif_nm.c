@@ -235,3 +235,4 @@ void scif_get_node_info(void)
 	/* Wait for a response with SCIF_GET_NODE_INFO */
 	wait_for_completion(&node_info);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

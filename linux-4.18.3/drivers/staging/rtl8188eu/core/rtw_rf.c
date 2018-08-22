@@ -64,3 +64,4 @@ u32 rtw_ch2freq(u32 channel)
 
 	return freq;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -326,3 +326,4 @@ static void __exit tgfx_exit(void)
 
 module_init(tgfx_init);
 module_exit(tgfx_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

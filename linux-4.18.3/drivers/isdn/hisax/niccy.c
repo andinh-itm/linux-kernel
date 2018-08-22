@@ -378,3 +378,4 @@ int setup_niccy(struct IsdnCard *card)
 	}
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

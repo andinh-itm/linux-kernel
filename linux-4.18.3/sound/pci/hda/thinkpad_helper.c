@@ -89,3 +89,4 @@ static void hda_fixup_thinkpad_acpi(struct hda_codec *codec,
 }
 
 #endif /* CONFIG_THINKPAD_ACPI */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

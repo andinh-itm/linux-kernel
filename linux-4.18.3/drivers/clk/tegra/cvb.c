@@ -146,3 +146,4 @@ void tegra_cvb_remove_opp_table(struct device *dev,
 		dev_pm_opp_remove(dev, entry->freq);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

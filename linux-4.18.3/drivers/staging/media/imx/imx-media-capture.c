@@ -770,3 +770,4 @@ EXPORT_SYMBOL_GPL(imx_media_capture_device_remove);
 MODULE_DESCRIPTION("i.MX5/6 v4l2 video capture interface driver");
 MODULE_AUTHOR("Steve Longerbeam <steve_longerbeam@mentor.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

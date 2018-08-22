@@ -42,3 +42,4 @@ int mxc_set_irq_fiq(unsigned int irq, unsigned int type)
 	return ret;
 }
 EXPORT_SYMBOL(mxc_set_irq_fiq);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

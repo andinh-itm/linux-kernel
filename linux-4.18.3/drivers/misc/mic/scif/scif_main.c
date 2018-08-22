@@ -357,3 +357,4 @@ MODULE_DEVICE_TABLE(scif, id_table);
 MODULE_AUTHOR("Intel Corporation");
 MODULE_DESCRIPTION("Intel(R) SCIF driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

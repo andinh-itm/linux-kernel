@@ -547,3 +547,4 @@ MODULE_LICENSE("GPL and additional rights");
 
 module_init(ch7006_init);
 module_exit(ch7006_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

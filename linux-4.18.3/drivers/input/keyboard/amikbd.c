@@ -274,3 +274,4 @@ static struct platform_driver amikbd_driver = {
 module_platform_driver_probe(amikbd_driver, amikbd_probe);
 
 MODULE_ALIAS("platform:amiga-keyboard");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

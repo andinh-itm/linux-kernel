@@ -344,3 +344,4 @@ module_pcmcia_driver(softingcs_driver);
 MODULE_DESCRIPTION("softing CANcard driver"
 		", links PCMCIA card to softing driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

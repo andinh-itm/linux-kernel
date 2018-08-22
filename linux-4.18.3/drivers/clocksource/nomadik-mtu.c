@@ -286,3 +286,4 @@ static int __init nmdk_timer_of_init(struct device_node *node)
 }
 TIMER_OF_DECLARE(nomadik_mtu, "st,nomadik-mtu",
 		       nmdk_timer_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

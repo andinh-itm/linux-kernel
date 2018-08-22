@@ -261,3 +261,4 @@ DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_CIRRUS, PCI_DEVICE_ID_CIRRUS_5436,
 DECLARE_PCI_FIXUP_FINAL(PCI_VENDOR_ID_CIRRUS, PCI_DEVICE_ID_CIRRUS_5446,
 			quirk_cirrus_ram_size);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1078,3 +1078,4 @@ static int __init pseries_memory_hotplug_init(void)
 	return 0;
 }
 machine_device_initcall(pseries, pseries_memory_hotplug_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

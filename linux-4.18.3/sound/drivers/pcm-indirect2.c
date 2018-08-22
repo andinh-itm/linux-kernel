@@ -571,3 +571,4 @@ snd_pcm_indirect2_capture_interrupt(struct snd_pcm_substream *substream,
 		snd_pcm_period_elapsed(substream);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -165,3 +165,4 @@ isa_no_iack_sc_device_interrupt(unsigned long vector)
 	}
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

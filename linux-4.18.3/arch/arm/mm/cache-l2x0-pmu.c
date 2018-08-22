@@ -582,3 +582,4 @@ out_pmu:
 	return ret;
 }
 device_initcall(l2x0_pmu_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

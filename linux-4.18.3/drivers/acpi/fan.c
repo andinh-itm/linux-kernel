@@ -425,3 +425,4 @@ static int acpi_fan_resume(struct device *dev)
 #endif
 
 module_platform_driver(acpi_fan_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

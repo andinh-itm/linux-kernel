@@ -79,3 +79,4 @@ static int __init xo1_rtc_init(void)
 	return 0;
 }
 arch_initcall(xo1_rtc_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

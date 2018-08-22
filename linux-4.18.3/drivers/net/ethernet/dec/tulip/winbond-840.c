@@ -1661,3 +1661,4 @@ static void __exit w840_exit(void)
 
 module_init(w840_init);
 module_exit(w840_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

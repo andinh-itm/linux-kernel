@@ -704,3 +704,4 @@ module_i2c_driver(cdce706_i2c_driver);
 MODULE_AUTHOR("Max Filippov <jcmvbkbc@gmail.com>");
 MODULE_DESCRIPTION("TI CDCE 706 clock synthesizer driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

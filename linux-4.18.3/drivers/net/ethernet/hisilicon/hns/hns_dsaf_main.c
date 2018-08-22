@@ -2936,3 +2936,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Huawei Tech. Co., Ltd.");
 MODULE_DESCRIPTION("HNS DSAF driver");
 MODULE_VERSION(DSAF_MOD_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

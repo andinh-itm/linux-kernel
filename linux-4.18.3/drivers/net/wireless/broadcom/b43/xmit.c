@@ -937,3 +937,4 @@ void b43_tx_resume(struct b43_wldev *dev)
 	else
 		b43_dma_tx_resume(dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

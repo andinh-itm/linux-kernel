@@ -3432,3 +3432,4 @@ int mlx4_vf_set_enable_smi_admin(struct mlx4_dev *dev, int slave, int port,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(mlx4_vf_set_enable_smi_admin);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

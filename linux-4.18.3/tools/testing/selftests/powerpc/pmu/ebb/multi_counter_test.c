@@ -91,3 +91,4 @@ int main(void)
 {
 	return test_harness(multi_counter, "multi_counter");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

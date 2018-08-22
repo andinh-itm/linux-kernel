@@ -469,3 +469,4 @@ MODULE_AUTHOR("Mathias Nyman (Intel)");
 MODULE_DESCRIPTION("GPIO interface for Intel Lynxpoint");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:lp_gpio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

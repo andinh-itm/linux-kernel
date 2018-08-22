@@ -1672,3 +1672,4 @@ module_exit(omap_gpio_exit);
 MODULE_DESCRIPTION("omap gpio driver");
 MODULE_ALIAS("platform:gpio-omap");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -189,3 +189,4 @@ static struct serio_driver inexio_drv = {
 };
 
 module_serio_driver(inexio_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

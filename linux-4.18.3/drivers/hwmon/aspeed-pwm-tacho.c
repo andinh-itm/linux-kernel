@@ -1002,3 +1002,4 @@ module_platform_driver(aspeed_pwm_tacho_driver);
 MODULE_AUTHOR("Jaghathiswari Rankappagounder Natarajan <jaghu@google.com>");
 MODULE_DESCRIPTION("ASPEED PWM and Fan Tacho device driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -499,3 +499,4 @@ fail:
 	atmel_hlcdc_crtc_destroy(&crtc->base);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

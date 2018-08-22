@@ -283,3 +283,4 @@ out:
 }
 
 MODULE_FIRMWARE("yamaha/yss225_registers.bin");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

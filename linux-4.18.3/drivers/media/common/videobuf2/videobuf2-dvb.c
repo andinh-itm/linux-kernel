@@ -343,3 +343,4 @@ void vb2_dvb_dealloc_frontends(struct vb2_dvb_frontends *f)
 	mutex_unlock(&f->lock);
 }
 EXPORT_SYMBOL(vb2_dvb_dealloc_frontends);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

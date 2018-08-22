@@ -206,3 +206,4 @@ static struct platform_driver clk_mt7622_aud_drv = {
 };
 
 builtin_platform_driver(clk_mt7622_aud_drv);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

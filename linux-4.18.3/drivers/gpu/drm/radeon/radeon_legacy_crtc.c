@@ -1119,3 +1119,4 @@ void radeon_legacy_init_crtc(struct drm_device *dev,
 		radeon_crtc->crtc_offset = RADEON_CRTC2_H_TOTAL_DISP - RADEON_CRTC_H_TOTAL_DISP;
 	drm_crtc_helper_add(&radeon_crtc->base, &legacy_helper_funcs);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

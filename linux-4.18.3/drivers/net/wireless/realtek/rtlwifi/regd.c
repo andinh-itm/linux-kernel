@@ -473,3 +473,4 @@ void rtl_reg_notifier(struct wiphy *wiphy, struct regulatory_request *request)
 
 	_rtl_reg_notifier_apply(wiphy, request, &rtlpriv->regd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -191,3 +191,4 @@ EXPORT_SYMBOL(libipw_channel_to_freq);
 EXPORT_SYMBOL(libipw_channel_to_index);
 EXPORT_SYMBOL(libipw_set_geo);
 EXPORT_SYMBOL(libipw_get_geo);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

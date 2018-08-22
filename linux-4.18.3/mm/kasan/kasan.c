@@ -901,3 +901,4 @@ static int __init kasan_memhotplug_init(void)
 
 core_initcall(kasan_memhotplug_init);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

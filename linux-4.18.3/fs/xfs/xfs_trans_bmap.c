@@ -240,3 +240,4 @@ xfs_bmap_update_init_defer_op(void)
 {
 	xfs_defer_init_op_type(&xfs_bmap_update_defer_type);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1372,3 +1372,4 @@ module_i2c_driver(ov5645_i2c_driver);
 MODULE_DESCRIPTION("Omnivision OV5645 Camera Driver");
 MODULE_AUTHOR("Todor Tomov <todor.tomov@linaro.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

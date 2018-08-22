@@ -737,3 +737,4 @@ MACHINE_START(AMS_DELTA, "Amstrad E3 (Delta)")
 	.init_time	= omap1_timer_init,
 	.restart	= omap1_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

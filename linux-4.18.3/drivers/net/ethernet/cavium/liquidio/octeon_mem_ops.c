@@ -198,3 +198,4 @@ void octeon_write_device_mem32(struct octeon_device *oct, u64 coreaddr,
 
 	__octeon_pci_rw_core_mem(oct, coreaddr, (u8 *)&t, 4, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

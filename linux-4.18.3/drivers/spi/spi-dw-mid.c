@@ -328,3 +328,4 @@ int dw_spi_mid_init(struct dw_spi *dws)
 #endif
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

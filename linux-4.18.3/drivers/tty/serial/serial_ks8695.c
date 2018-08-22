@@ -696,3 +696,4 @@ module_exit(ks8695uart_exit);
 MODULE_DESCRIPTION("KS8695 serial port driver");
 MODULE_AUTHOR("Micrel Inc.");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

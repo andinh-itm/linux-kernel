@@ -205,3 +205,4 @@ void __iomem *pci_platform_rom(struct pci_dev *pdev, size_t *size)
 	return NULL;
 }
 EXPORT_SYMBOL(pci_platform_rom);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

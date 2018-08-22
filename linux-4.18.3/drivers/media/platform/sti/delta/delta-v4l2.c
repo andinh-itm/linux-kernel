@@ -1991,3 +1991,4 @@ module_platform_driver(delta_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Hugues Fruchet <hugues.fruchet@st.com>");
 MODULE_DESCRIPTION("STMicroelectronics DELTA video decoder V4L2 driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

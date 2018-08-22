@@ -465,3 +465,4 @@ struct dma_chan *acpi_dma_simple_xlate(struct acpi_dma_spec *dma_spec,
 	return dma_request_channel(info->dma_cap, info->filter_fn, dma_spec);
 }
 EXPORT_SYMBOL_GPL(acpi_dma_simple_xlate);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

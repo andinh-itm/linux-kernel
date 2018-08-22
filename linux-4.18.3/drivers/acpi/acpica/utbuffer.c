@@ -299,3 +299,4 @@ acpi_ut_dump_buffer_to_file(ACPI_FILE file,
 	return;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

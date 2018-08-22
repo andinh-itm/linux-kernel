@@ -101,3 +101,4 @@ void __init tegra_init_irq(void)
 
 	tegra114_gic_cpu_pm_registration();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

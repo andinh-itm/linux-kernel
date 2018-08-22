@@ -122,3 +122,4 @@ MODULE_AUTHOR("Alan Hourihane <alanh@fairlite.demon.co.uk> / "
 MODULE_DESCRIPTION("Amiga A4000T NCR53C710 driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:amiga-a4000t-scsi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

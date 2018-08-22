@@ -408,3 +408,4 @@ int is_valid_bugaddr(unsigned long addr)
 {
 	return __kernel_text_address(addr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

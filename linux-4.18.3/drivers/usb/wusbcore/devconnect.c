@@ -1083,3 +1083,4 @@ int wusb_set_dev_addr(struct wusbhc *wusbhc, struct wusb_dev *wusb_dev, u8 addr)
 
 	return result;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

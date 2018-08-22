@@ -934,3 +934,4 @@ static struct amba_driver stm_driver = {
 };
 
 builtin_amba_driver(stm_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

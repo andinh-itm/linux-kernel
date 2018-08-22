@@ -388,3 +388,4 @@ static const struct rpc_program gssp_program = {
 	.version	= gssp_version,
 	.stats		= &gssp_stats,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -647,3 +647,4 @@ int vudc_remove(struct platform_device *pdev)
 	kfree(udc);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

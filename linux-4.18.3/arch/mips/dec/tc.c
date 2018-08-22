@@ -93,3 +93,4 @@ void __init tc_device_get_irq(struct tc_dev *tdev)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

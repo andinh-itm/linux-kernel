@@ -303,3 +303,4 @@ initjade(struct IsdnCardState *cs)
 	modejade(cs->bcs, 0, 0);
 	modejade(cs->bcs + 1, 0, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

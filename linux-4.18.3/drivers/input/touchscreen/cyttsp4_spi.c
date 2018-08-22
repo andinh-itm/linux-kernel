@@ -197,3 +197,4 @@ MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Cypress TrueTouch(R) Standard Product (TTSP) SPI driver");
 MODULE_AUTHOR("Cypress");
 MODULE_ALIAS("spi:cyttsp4");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

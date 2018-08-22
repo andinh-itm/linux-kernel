@@ -493,3 +493,4 @@ void ast_vhub_init_ep0(struct ast_vhub *vhub, struct ast_vhub_ep *ep,
 		ep->buf_dma = vhub->ep0_bufs_dma;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -254,3 +254,4 @@ module_platform_driver(goldfish_battery_device);
 MODULE_AUTHOR("Mike Lockwood lockwood@android.com");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Battery driver for the Goldfish emulator");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

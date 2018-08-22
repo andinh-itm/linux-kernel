@@ -51,3 +51,4 @@ long __pmem_direct_access(struct pmem_device *pmem, pgoff_t pgoff,
 		return nr_pages;
 	return PHYS_PFN(pmem->size - pmem->pfn_pad - offset);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

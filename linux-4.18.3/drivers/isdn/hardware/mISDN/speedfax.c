@@ -530,3 +530,4 @@ Speedfax_cleanup(void)
 
 module_init(Speedfax_init);
 module_exit(Speedfax_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -219,3 +219,4 @@ static struct sh_machine_vector mv_urquell __initmv = {
 	.mv_mode_pins	= urquell_mode_pins,
 	.mv_clk_init	= urquell_clk_init,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

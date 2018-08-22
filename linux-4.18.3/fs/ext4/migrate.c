@@ -671,3 +671,4 @@ errout:
 	up_write(&EXT4_I(inode)->i_data_sem);
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

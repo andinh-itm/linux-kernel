@@ -190,3 +190,4 @@ MACHINE_START(IQ80321, "Intel IQ80321")
 	.init_machine	= iq80321_init_machine,
 	.restart	= iop3xx_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

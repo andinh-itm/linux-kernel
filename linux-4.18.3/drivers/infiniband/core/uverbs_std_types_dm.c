@@ -106,3 +106,4 @@ DECLARE_UVERBS_NAMED_OBJECT(UVERBS_OBJECT_DM,
 			    &UVERBS_TYPE_ALLOC_IDR(1, uverbs_free_dm),
 			    &UVERBS_METHOD(UVERBS_METHOD_DM_ALLOC),
 			    &UVERBS_METHOD(UVERBS_METHOD_DM_FREE));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

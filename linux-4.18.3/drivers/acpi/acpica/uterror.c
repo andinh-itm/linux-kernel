@@ -324,3 +324,4 @@ acpi_ut_method_error(const char *module_name,
 }
 
 #endif				/* ACPI_NO_ERROR_MESSAGES */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

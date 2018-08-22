@@ -220,3 +220,4 @@ static int __init ux500_soc_device_init(void)
 	return 0;
 }
 subsys_initcall(ux500_soc_device_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

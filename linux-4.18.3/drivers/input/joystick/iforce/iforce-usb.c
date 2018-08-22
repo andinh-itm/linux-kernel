@@ -233,3 +233,4 @@ struct usb_driver iforce_usb_driver = {
 	.disconnect =	iforce_usb_disconnect,
 	.id_table =	iforce_usb_ids,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

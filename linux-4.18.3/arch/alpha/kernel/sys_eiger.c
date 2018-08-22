@@ -224,3 +224,4 @@ struct alpha_machine_vector eiger_mv __initmv = {
 	.pci_swizzle		= eiger_swizzle,
 };
 ALIAS_MV(eiger)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

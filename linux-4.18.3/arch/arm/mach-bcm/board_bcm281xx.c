@@ -70,3 +70,4 @@ DT_MACHINE_START(BCM281XX_DT, "BCM281xx Broadcom Application Processor")
 	.restart = bcm281xx_restart,
 	.dt_compat = bcm281xx_dt_compat,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -456,3 +456,4 @@ module_exit(cleanup_ssfdcr);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Claudio Lanconelli <lanconelli.claudio@eptar.com>");
 MODULE_DESCRIPTION("Flash Translation Layer for read-only SSFDC SmartMedia card");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

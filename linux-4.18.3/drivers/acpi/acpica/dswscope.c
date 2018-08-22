@@ -179,3 +179,4 @@ acpi_status acpi_ds_scope_stack_pop(struct acpi_walk_state *walk_state)
 	acpi_ut_delete_generic_state(scope_info);
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

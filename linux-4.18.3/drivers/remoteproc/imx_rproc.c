@@ -422,3 +422,4 @@ module_platform_driver(imx_rproc_driver);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("IMX6SX/7D remote processor control driver");
 MODULE_AUTHOR("Oleksij Rempel <o.rempel@pengutronix.de>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2652,3 +2652,4 @@ static struct pci_driver rme9652_driver = {
 };
 
 module_pci_driver(rme9652_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

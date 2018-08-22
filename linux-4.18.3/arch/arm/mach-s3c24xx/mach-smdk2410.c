@@ -106,3 +106,4 @@ MACHINE_START(SMDK2410, "SMDK2410") /* @TODO: request a new identifier and switc
 	.init_machine	= smdk2410_init,
 	.init_time	= smdk2410_init_time,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

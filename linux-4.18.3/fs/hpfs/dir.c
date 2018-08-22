@@ -335,3 +335,4 @@ const struct file_operations hpfs_dir_ops =
 	.fsync		= hpfs_file_fsync,
 	.unlocked_ioctl	= hpfs_ioctl,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

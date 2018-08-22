@@ -87,3 +87,4 @@ union ieee754dp ieee754dp_rint(union ieee754dp x)
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -38,3 +38,4 @@ int main(void)
 {
 	return test_harness(reg_access, "reg_access");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

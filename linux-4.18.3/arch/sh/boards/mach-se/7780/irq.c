@@ -66,3 +66,4 @@ void __init init_se7780_IRQ(void)
 	__raw_writew(0x0013, FPGA_PCI_INTSEL1);
 	__raw_writew(0xE402, FPGA_PCI_INTSEL2);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -43,3 +43,4 @@ const struct xattr_handler reiserfs_xattr_trusted_handler = {
 	.set = trusted_set,
 	.list = trusted_list,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

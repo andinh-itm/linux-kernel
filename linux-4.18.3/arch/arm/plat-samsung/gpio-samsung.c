@@ -1322,3 +1322,4 @@ unsigned int s3c2410_modify_misccr(unsigned int clear, unsigned int change)
 }
 EXPORT_SYMBOL(s3c2410_modify_misccr);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

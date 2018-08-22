@@ -597,3 +597,4 @@ void ar9002_hw_attach_phy_ops(struct ath_hw *ah)
 
 	ar9002_hw_set_nf_limits(ah);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -154,3 +154,4 @@ static void __init ap136_setup(void)
 MIPS_MACHINE(ATH79_MACH_AP136_010, "AP136-010",
 	     "Atheros AP136-010 reference board",
 	     ap136_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

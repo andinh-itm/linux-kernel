@@ -797,3 +797,4 @@ void radeon_acpi_fini(struct radeon_device *rdev)
 {
 	unregister_acpi_notifier(&rdev->acpi_nb);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

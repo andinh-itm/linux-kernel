@@ -104,3 +104,4 @@ u8 acpi_ut_ascii_char_to_hex(int hex_char)
 
 	return ((u8)(hex_char - 0x57));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

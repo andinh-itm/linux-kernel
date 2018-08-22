@@ -3610,3 +3610,4 @@ static struct i2c_driver adv7842_driver = {
 };
 
 module_i2c_driver(adv7842_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

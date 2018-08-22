@@ -48,3 +48,4 @@ int __init lpt_clk_init(void)
 {
 	return platform_driver_register(&lpt_clk_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2255,3 +2255,4 @@ module_platform_driver(gr_driver);
 MODULE_AUTHOR("Aeroflex Gaisler AB.");
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

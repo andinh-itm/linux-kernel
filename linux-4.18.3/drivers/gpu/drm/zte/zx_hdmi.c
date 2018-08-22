@@ -761,3 +761,4 @@ struct platform_driver zx_hdmi_driver = {
 		.of_match_table	= zx_hdmi_of_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

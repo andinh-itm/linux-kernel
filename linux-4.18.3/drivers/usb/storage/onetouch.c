@@ -304,3 +304,4 @@ static struct usb_driver onetouch_driver = {
 };
 
 module_usb_stor_driver(onetouch_driver, onetouch_host_template, DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

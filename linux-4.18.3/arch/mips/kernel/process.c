@@ -848,3 +848,4 @@ void mips_dump_regs64(u64 *uregs, const struct pt_regs *regs)
 	uregs[MIPS64_EF_CP0_CAUSE] = regs->cp0_cause;
 }
 #endif /* CONFIG_64BIT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

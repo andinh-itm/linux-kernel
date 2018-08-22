@@ -58,3 +58,4 @@ void tty_set_lock_subclass(struct tty_struct *tty)
 {
 	lockdep_set_subclass(&tty->legacy_mutex, TTY_LOCK_SLAVE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

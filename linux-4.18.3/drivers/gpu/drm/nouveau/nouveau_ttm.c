@@ -365,3 +365,4 @@ nouveau_ttm_fini(struct nouveau_drm *drm)
 				device->func->resource_size(device, 1));
 
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -12,3 +12,4 @@ static __init int add_pcspkr(void)
 	return IS_ERR(pd) ? PTR_ERR(pd) : 0;
 }
 device_initcall(add_pcspkr);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

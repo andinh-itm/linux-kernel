@@ -99,3 +99,4 @@ nouveau_dp_detect(struct nouveau_encoder *nv_encoder)
 		return NOUVEAU_DP_SST;
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -244,3 +244,4 @@ static void mbxfb_debugfs_remove(struct fb_info *fbi)
 	debugfs_remove(dbg->sysconf);
 	debugfs_remove(dbg->dir);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

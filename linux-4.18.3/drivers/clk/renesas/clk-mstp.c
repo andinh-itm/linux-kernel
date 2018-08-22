@@ -348,3 +348,4 @@ void __init cpg_mstp_add_clk_domain(struct device_node *np)
 
 	of_genpd_add_provider_simple(np, pd);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

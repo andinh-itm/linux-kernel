@@ -708,3 +708,4 @@ void usb6fire_pcm_destroy(struct sfire_chip *chip)
 	kfree(rt);
 	chip->pcm = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

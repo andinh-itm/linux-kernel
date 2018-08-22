@@ -864,3 +864,4 @@ __jffs2_dbg_dump_node(struct jffs2_sb_info *c, uint32_t ofs)
 	}
 }
 #endif /* JFFS2_DBG_DUMPS || JFFS2_DBG_PARANOIA_CHECKS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

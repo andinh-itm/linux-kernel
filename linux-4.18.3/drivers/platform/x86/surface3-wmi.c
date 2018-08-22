@@ -293,3 +293,4 @@ static void __exit s3_wmi_exit(void)
 
 module_init(s3_wmi_init);
 module_exit(s3_wmi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

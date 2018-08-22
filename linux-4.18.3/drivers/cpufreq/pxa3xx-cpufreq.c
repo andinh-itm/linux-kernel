@@ -228,3 +228,4 @@ module_exit(cpufreq_exit);
 
 MODULE_DESCRIPTION("CPU frequency scaling driver for PXA3xx");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -283,3 +283,4 @@ module_exit(acpi_configfs_exit);
 MODULE_AUTHOR("Octavian Purdila <octavian.purdila@intel.com>");
 MODULE_DESCRIPTION("ACPI configfs support");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

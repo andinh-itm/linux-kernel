@@ -721,3 +721,4 @@ nvkm_clk_new_(const struct nvkm_clk_func *func, struct nvkm_device *device,
 		return -ENOMEM;
 	return nvkm_clk_ctor(func, device, index, allow_reclock, *pclk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

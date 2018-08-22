@@ -215,3 +215,4 @@ int io_mem_abort(struct kvm_vcpu *vcpu, struct kvm_run *run,
 	run->exit_reason	= KVM_EXIT_MMIO;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

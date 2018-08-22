@@ -159,3 +159,4 @@ struct kbdiacruc ebc_accent_table[MAX_DIACR] = {
 };
 
 unsigned int ebc_accent_table_size = 4;
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

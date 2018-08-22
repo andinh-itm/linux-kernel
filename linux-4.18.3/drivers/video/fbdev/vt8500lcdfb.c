@@ -493,3 +493,4 @@ MODULE_AUTHOR("Alexey Charkov <alchark@gmail.com>");
 MODULE_DESCRIPTION("LCD controller driver for VIA VT8500");
 MODULE_LICENSE("GPL v2");
 MODULE_DEVICE_TABLE(of, via_dt_ids);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

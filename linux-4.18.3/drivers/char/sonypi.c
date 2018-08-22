@@ -1561,3 +1561,4 @@ static void __exit sonypi_exit(void)
 
 module_init(sonypi_init);
 module_exit(sonypi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

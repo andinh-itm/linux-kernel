@@ -301,3 +301,4 @@ static void __exit alsa_card_ad1816a_exit(void)
 
 module_init(alsa_card_ad1816a_init)
 module_exit(alsa_card_ad1816a_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

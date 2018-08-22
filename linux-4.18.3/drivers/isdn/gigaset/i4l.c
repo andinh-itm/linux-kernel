@@ -693,3 +693,4 @@ void gigaset_isdn_unregdrv(void)
 {
 	/* nothing to do */
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

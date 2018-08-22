@@ -68,3 +68,4 @@ gf119_dac_cnt(struct nvkm_disp *disp, unsigned long *pmask)
 	*pmask = (nvkm_rd32(device, 0x612004) & 0x000000f0) >> 4;
 	return 4;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

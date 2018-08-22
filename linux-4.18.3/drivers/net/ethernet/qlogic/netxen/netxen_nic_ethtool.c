@@ -962,3 +962,4 @@ const struct ethtool_ops netxen_nic_ethtool_ops = {
 	.get_link_ksettings = netxen_nic_get_link_ksettings,
 	.set_link_ksettings = netxen_nic_set_link_ksettings,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

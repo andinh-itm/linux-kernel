@@ -70,3 +70,4 @@ void delta_trace_summary(struct delta_ctx *ctx)
 		ctx->stream_errors,
 		ctx->decode_errors);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -282,3 +282,4 @@ MODULE_DESCRIPTION("tps65132 regulator driver");
 MODULE_AUTHOR("Venkat Reddy Talla <vreddytalla@nvidia.com>");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

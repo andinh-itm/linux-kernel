@@ -216,3 +216,4 @@ void usb6fire_midi_destroy(struct sfire_chip *chip)
 	kfree(rt);
 	chip->midi = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

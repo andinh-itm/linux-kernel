@@ -218,3 +218,4 @@ MODULE_DESCRIPTION("Marvell EBU AHCI SATA driver");
 MODULE_AUTHOR("Thomas Petazzoni <thomas.petazzoni@free-electrons.com>, Marcin Wojtas <mw@semihalf.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:ahci_mvebu");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

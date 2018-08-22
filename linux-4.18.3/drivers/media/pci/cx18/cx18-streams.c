@@ -1046,3 +1046,4 @@ struct cx18_stream *cx18_handle_to_stream(struct cx18 *cx, u32 handle)
 	}
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

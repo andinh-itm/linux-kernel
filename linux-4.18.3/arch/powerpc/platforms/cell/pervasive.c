@@ -135,3 +135,4 @@ void __init cbe_pervasive_init(void)
 	ppc_md.power_save = cbe_power_save;
 	ppc_md.system_reset_exception = cbe_system_reset_exception;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

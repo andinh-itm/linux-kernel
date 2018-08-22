@@ -131,3 +131,4 @@ module_platform_driver(rng_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Egor Martovetsky <egor@pasemi.com>");
 MODULE_DESCRIPTION("H/W RNG driver for PA Semi processor");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

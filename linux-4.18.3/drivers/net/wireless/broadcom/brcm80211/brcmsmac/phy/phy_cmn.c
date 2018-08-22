@@ -2951,3 +2951,4 @@ bool wlc_phy_txpower_ipa_ison(struct brcms_phy_pub *ppi)
 	else
 		return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

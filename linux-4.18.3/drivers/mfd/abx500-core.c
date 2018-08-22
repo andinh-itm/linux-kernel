@@ -148,3 +148,4 @@ int abx500_startup_irq_enabled(struct device *dev, unsigned int irq)
 		return -ENOTSUPP;
 }
 EXPORT_SYMBOL(abx500_startup_irq_enabled);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

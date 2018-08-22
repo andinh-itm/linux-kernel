@@ -588,3 +588,4 @@ static void __init sun8i_v3s_ccu_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(sun8i_v3s_ccu, "allwinner,sun8i-v3s-ccu",
 	       sun8i_v3s_ccu_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

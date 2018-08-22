@@ -329,3 +329,4 @@ static int __init olpc_ec_init_module(void)
 	return platform_driver_register(&olpc_ec_plat_driver);
 }
 arch_initcall(olpc_ec_init_module);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

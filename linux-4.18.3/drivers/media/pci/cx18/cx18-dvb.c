@@ -601,3 +601,4 @@ static int dvb_register(struct cx18_stream *stream)
 }
 
 MODULE_FIRMWARE(FWFILE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

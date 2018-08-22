@@ -441,3 +441,4 @@ static struct pci_driver ali1563_pci_driver = {
 module_pci_driver(ali1563_pci_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -111,3 +111,4 @@ void pxa_restart(enum reboot_mode mode, const char *cmd)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -169,3 +169,4 @@ struct pccard_resource_ops pccard_iodyn_ops = {
 	.exit = NULL,
 };
 EXPORT_SYMBOL(pccard_iodyn_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

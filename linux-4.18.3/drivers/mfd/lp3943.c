@@ -156,3 +156,4 @@ module_i2c_driver(lp3943_driver);
 MODULE_DESCRIPTION("LP3943 MFD Core Driver");
 MODULE_AUTHOR("Milo Kim");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

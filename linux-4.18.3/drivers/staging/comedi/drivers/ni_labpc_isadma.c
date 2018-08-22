@@ -179,3 +179,4 @@ module_exit(ni_labpc_isadma_cleanup_module);
 MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi NI Lab-PC ISA DMA support");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

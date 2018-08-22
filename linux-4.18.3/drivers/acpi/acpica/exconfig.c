@@ -538,3 +538,4 @@ acpi_status acpi_ex_unload_table(union acpi_operand_object *ddb_handle)
 	}
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

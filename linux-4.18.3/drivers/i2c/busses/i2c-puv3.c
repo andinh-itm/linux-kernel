@@ -276,3 +276,4 @@ module_platform_driver(puv3_i2c_driver);
 MODULE_DESCRIPTION("PKUnity v3 I2C driver");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:puv3_i2c");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

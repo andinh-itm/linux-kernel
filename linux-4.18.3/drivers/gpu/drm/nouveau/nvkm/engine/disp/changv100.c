@@ -32,3 +32,4 @@ gv100_disp_chan_user(struct nv50_disp_chan *chan, u64 *psize)
 	*psize = 0x1000;
 	return 0x690000 + ((chan->chid.user - 1) * 0x1000);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

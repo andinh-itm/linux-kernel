@@ -150,3 +150,4 @@ struct kgdb_arch arch_kgdb_ops = {
 	.gdb_bpt_instr = {0xba, 0x0c, 0x00, 0x18}, /* brki r16, 0x18 */
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

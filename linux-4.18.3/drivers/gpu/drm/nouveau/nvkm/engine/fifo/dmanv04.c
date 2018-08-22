@@ -224,3 +224,4 @@ nv04_fifo_dma_oclass = {
 	.base.maxver = 0,
 	.ctor = nv04_fifo_dma_new,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

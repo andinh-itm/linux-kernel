@@ -95,3 +95,4 @@ bfa_cb_image_get_size(enum bfi_asic_gen asic_gen)
 		return 0;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

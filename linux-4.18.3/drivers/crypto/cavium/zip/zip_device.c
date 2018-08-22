@@ -200,3 +200,4 @@ void zip_update_cmd_bufs(struct zip_device *zip_dev, u32 queue)
 
 	spin_unlock(&zip_dev->iq[queue].lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

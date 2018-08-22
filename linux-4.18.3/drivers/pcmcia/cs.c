@@ -921,3 +921,4 @@ static void __exit exit_pcmcia_cs(void)
 subsys_initcall(init_pcmcia_cs);
 module_exit(exit_pcmcia_cs);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -421,3 +421,4 @@ static struct platform_driver socfpga_dwmac_driver = {
 module_platform_driver(socfpga_dwmac_driver);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

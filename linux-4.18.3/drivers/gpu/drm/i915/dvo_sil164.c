@@ -277,3 +277,4 @@ const struct intel_dvo_dev_ops sil164_ops = {
 	.dump_regs = sil164_dump_regs,
 	.destroy = sil164_destroy,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

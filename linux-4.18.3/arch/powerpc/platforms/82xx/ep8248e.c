@@ -325,3 +325,4 @@ define_machine(ep8248e)
 	.restart = pq2_restart,
 	.progress = udbg_progress,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

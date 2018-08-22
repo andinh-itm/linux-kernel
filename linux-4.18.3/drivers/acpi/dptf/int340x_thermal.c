@@ -51,3 +51,4 @@ void __init acpi_int340x_thermal_init(void)
 {
 	acpi_scan_add_handler(&int340x_thermal_handler);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1434,3 +1434,4 @@ void jffs2_do_clear_inode(struct jffs2_sb_info *c, struct jffs2_inode_info *f)
 
 	mutex_unlock(&f->sem);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

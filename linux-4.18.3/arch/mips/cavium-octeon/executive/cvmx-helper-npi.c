@@ -111,3 +111,4 @@ int __cvmx_helper_npi_enable(int interface)
 	/* Enables are controlled by the remote host, so nothing to do here */
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

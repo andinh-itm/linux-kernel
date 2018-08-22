@@ -341,3 +341,4 @@ static int __init scmi_clock_init(void)
 				      &scmi_clock_protocol_init);
 }
 subsys_initcall(scmi_clock_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

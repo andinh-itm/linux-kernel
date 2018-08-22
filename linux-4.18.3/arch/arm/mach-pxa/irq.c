@@ -271,3 +271,4 @@ void __init pxa_dt_irq_init(int (*fn)(struct irq_data *, unsigned int))
 	pxa_init_irq_common(node, pxa_internal_irq_nr, fn);
 }
 #endif /* CONFIG_OF */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

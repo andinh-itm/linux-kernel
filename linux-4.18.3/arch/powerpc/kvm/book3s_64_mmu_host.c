@@ -415,3 +415,4 @@ int kvmppc_mmu_init(struct kvm_vcpu *vcpu)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

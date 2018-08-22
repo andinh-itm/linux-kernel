@@ -276,3 +276,4 @@ module_comedi_pci_driver(adl_pci7x3x_driver, adl_pci7x3x_pci_driver);
 MODULE_DESCRIPTION("ADLINK PCI-723x/743x Isolated Digital I/O boards");
 MODULE_AUTHOR("H Hartley Sweeten <hsweeten@visionengravers.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1992,3 +1992,4 @@ static void __exit asus_laptop_exit(void)
 
 module_init(asus_laptop_init);
 module_exit(asus_laptop_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

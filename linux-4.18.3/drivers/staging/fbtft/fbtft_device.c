@@ -1591,3 +1591,4 @@ module_exit(fbtft_device_exit);
 MODULE_DESCRIPTION("Add a FBTFT device.");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

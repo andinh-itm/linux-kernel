@@ -491,3 +491,4 @@ MODULE_AUTHOR("Nokia Corporation");
 MODULE_DESCRIPTION("ALSA SoC Nokia RX-51");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:rx51-audio");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

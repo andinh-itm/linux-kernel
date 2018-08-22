@@ -285,3 +285,4 @@ static int __init efm32_timer_init(struct device_node *np)
 }
 TIMER_OF_DECLARE(efm32compat, "efm32,timer", efm32_timer_init);
 TIMER_OF_DECLARE(efm32, "energymicro,efm32-timer", efm32_timer_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

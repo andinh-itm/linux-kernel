@@ -2648,3 +2648,4 @@ static struct pci_driver via82xx_driver = {
 };
 
 module_pci_driver(via82xx_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

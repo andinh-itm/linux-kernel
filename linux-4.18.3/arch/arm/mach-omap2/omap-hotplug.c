@@ -70,3 +70,4 @@ int omap4_cpu_kill(unsigned int cpu)
 {
 	return 1;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -177,3 +177,4 @@ int swphy_read_reg(int reg, const struct fixed_phy_status *state)
 	}
 }
 EXPORT_SYMBOL_GPL(swphy_read_reg);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

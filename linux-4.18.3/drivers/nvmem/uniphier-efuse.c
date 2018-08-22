@@ -83,3 +83,4 @@ module_platform_driver(uniphier_efuse_driver);
 MODULE_AUTHOR("Keiji Hayashibara <hayashibara.keiji@socionext.com>");
 MODULE_DESCRIPTION("UniPhier eFuse driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

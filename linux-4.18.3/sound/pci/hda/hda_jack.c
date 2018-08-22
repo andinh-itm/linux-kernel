@@ -573,3 +573,4 @@ void snd_hda_jack_poll_all(struct hda_codec *codec)
 }
 EXPORT_SYMBOL_GPL(snd_hda_jack_poll_all);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

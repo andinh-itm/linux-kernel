@@ -221,3 +221,4 @@ static struct platform_driver ap806_clock_driver = {
 	},
 };
 builtin_platform_driver(ap806_clock_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1375,3 +1375,4 @@ static void __exit dec_lance_exit(void)
 
 module_init(dec_lance_init);
 module_exit(dec_lance_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

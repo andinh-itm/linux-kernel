@@ -1386,3 +1386,4 @@ static struct usb_driver ua101_driver = {
 };
 
 module_usb_driver(ua101_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -25,3 +25,4 @@ int posix_xattr_acl(const char *xattr)
 		return 1;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

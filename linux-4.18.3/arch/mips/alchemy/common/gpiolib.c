@@ -172,3 +172,4 @@ static int __init alchemy_gpiochip_init(void)
 	return ret;
 }
 arch_initcall(alchemy_gpiochip_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

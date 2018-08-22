@@ -106,3 +106,4 @@ const struct consw dummy_con = {
 	.con_font_copy =	dummycon_font_copy,
 };
 EXPORT_SYMBOL_GPL(dummy_con);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

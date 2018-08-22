@@ -295,3 +295,4 @@ void srcpos_set_line(char *f, int l)
 	current_srcfile->name = f;
 	current_srcfile->lineno = l;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

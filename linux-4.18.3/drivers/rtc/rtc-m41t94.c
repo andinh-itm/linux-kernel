@@ -146,3 +146,4 @@ MODULE_AUTHOR("Kim B. Heino <Kim.Heino@bluegiga.com>");
 MODULE_DESCRIPTION("Driver for ST M41T94 SPI RTC");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rtc-m41t94");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

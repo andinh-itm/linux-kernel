@@ -471,3 +471,4 @@ MODULE_DESCRIPTION("HiSilicon SoC HHA uncore PMU driver");
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Shaokun Zhang <zhangshaokun@hisilicon.com>");
 MODULE_AUTHOR("Anurup M <anurup.m@huawei.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

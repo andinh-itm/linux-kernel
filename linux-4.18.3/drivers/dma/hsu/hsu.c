@@ -498,3 +498,4 @@ EXPORT_SYMBOL_GPL(hsu_dma_remove);
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("High Speed UART DMA core driver");
 MODULE_AUTHOR("Andy Shevchenko <andriy.shevchenko@linux.intel.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

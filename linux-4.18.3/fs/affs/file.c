@@ -981,3 +981,4 @@ const struct file_operations affs_file_operations = {
 const struct inode_operations affs_file_inode_operations = {
 	.setattr	= affs_notify_change,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

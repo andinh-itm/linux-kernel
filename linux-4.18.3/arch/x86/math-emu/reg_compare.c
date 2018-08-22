@@ -477,3 +477,4 @@ void fucomip(void)
 	if (!compare_ui_st_st(FPU_rm))
 		FPU_pop();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

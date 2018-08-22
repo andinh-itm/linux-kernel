@@ -321,3 +321,4 @@ module_exit(ir_imon_decode_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Sean Young <sean@mess.org>");
 MODULE_DESCRIPTION("iMON IR protocol decoder");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

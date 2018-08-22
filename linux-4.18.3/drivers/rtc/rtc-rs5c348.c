@@ -223,3 +223,4 @@ MODULE_AUTHOR("Atsushi Nemoto <anemo@mba.ocn.ne.jp>");
 MODULE_DESCRIPTION("Ricoh RS5C348 RTC driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:rtc-rs5c348");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

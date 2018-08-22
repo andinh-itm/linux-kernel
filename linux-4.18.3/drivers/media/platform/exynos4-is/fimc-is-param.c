@@ -894,3 +894,4 @@ void fimc_is_set_initial_params(struct fimc_is *is)
 	__is_set_fd_config_orientation(is, FD_CONFIG_ORIENTATION_DISABLE);
 	__is_set_fd_config_orientation_val(is, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

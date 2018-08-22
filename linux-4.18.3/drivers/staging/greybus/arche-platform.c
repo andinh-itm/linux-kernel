@@ -710,3 +710,4 @@ module_exit(arche_exit);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Vaibhav Hiremath <vaibhav.hiremath@linaro.org>");
 MODULE_DESCRIPTION("Arche Platform Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

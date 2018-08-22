@@ -84,3 +84,4 @@ int crypto_ecdh_decode_key(const char *buf, unsigned int len,
 	return 0;
 }
 EXPORT_SYMBOL_GPL(crypto_ecdh_decode_key);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

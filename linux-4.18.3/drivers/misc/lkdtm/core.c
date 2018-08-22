@@ -503,3 +503,4 @@ module_exit(lkdtm_module_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("Kernel crash testing module");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

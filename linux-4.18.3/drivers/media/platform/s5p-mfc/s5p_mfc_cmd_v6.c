@@ -171,3 +171,4 @@ struct s5p_mfc_hw_cmds *s5p_mfc_init_hw_cmds_v6(void)
 {
 	return &s5p_mfc_cmds_v6;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

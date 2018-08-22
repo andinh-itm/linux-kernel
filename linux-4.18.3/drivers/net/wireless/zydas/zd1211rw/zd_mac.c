@@ -1549,3 +1549,4 @@ static void housekeeping_disable(struct zd_mac *mac)
 	cancel_delayed_work_sync(&mac->housekeeping.link_led_work);
 	zd_chip_control_leds(&mac->chip, ZD_LED_OFF);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

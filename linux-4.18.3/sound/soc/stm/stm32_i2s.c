@@ -944,3 +944,4 @@ MODULE_DESCRIPTION("STM32 Soc i2s Interface");
 MODULE_AUTHOR("Olivier Moysan, <olivier.moysan@st.com>");
 MODULE_ALIAS("platform:stm32-i2s");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

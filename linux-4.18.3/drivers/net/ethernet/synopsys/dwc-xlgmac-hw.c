@@ -3145,3 +3145,4 @@ void xlgmac_init_hw_ops(struct xlgmac_hw_ops *hw_ops)
 	hw_ops->set_rss_hash_key = xlgmac_set_rss_hash_key;
 	hw_ops->set_rss_lookup_table = xlgmac_set_rss_lookup_table;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -372,3 +372,4 @@ struct sti_mixer *sti_mixer_create(struct device *dev,
 
 	return mixer;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

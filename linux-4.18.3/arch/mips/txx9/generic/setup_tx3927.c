@@ -134,3 +134,4 @@ void __init tx3927_mtd_init(int ch)
 		return; /* disabled */
 	txx9_physmap_flash_init(ch, start, size, &pdata);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

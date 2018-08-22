@@ -146,3 +146,4 @@ static int __init socfpga_pm_init(void)
 	return 0;
 }
 arch_initcall(socfpga_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

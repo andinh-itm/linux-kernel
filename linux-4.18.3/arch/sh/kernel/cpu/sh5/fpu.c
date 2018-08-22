@@ -109,3 +109,4 @@ asmlinkage void do_fpu_error(unsigned long ex, struct pt_regs *regs)
 
 	force_sig(SIGFPE, tsk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

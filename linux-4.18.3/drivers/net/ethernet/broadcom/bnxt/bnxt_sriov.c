@@ -1139,3 +1139,4 @@ int bnxt_approve_mac(struct bnxt *bp, u8 *mac)
 	return 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

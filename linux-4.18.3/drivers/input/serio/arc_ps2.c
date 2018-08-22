@@ -277,3 +277,4 @@ module_platform_driver(arc_ps2_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Pavel Sokolov <psokolov@synopsys.com>");
 MODULE_DESCRIPTION("ARC PS/2 Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

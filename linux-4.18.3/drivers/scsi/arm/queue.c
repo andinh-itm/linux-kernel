@@ -316,3 +316,4 @@ EXPORT_SYMBOL(queue_probetgtlun);
 MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("SCSI command queueing");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

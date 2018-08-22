@@ -113,3 +113,4 @@ int __init arm64_acpi_numa_init(void)
 
 	return srat_disabled() ? -EINVAL : 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

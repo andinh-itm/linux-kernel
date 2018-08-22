@@ -479,3 +479,4 @@ MODULE_AUTHOR("Balaji Rao <balajirrao@openmoko.org>");
 MODULE_DESCRIPTION("PCF50633 mbc driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pcf50633-mbc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

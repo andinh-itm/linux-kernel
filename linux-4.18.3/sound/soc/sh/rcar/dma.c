@@ -799,3 +799,4 @@ int rsnd_dma_probe(struct rsnd_priv *priv)
 	/* dummy mem mod for debug */
 	return rsnd_mod_init(NULL, &mem, &mem_ops, NULL, NULL, 0, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

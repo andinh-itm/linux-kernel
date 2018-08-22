@@ -1265,3 +1265,4 @@ MODULE_AUTHOR("Antti Palosaari <crope@iki.fi>");
 MODULE_DESCRIPTION("NXP TDA10071 DVB-S/S2 demodulator driver");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(TDA10071_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

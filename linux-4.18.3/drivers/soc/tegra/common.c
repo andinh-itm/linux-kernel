@@ -30,3 +30,4 @@ bool soc_is_tegra(void)
 
 	return of_match_node(tegra_machine_match, root) != NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

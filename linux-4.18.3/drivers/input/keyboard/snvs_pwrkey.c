@@ -222,3 +222,4 @@ module_platform_driver(imx_snvs_pwrkey_driver);
 MODULE_AUTHOR("Freescale Semiconductor");
 MODULE_DESCRIPTION("i.MX snvs power key Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

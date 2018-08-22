@@ -511,3 +511,4 @@ void xgbe_init_function_ptrs_i2c(struct xgbe_i2c_if *i2c_if)
 
 	i2c_if->i2c_isr			= xgbe_i2c_combined_isr;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

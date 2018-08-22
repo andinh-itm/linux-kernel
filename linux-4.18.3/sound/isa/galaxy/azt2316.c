@@ -109,3 +109,4 @@
 	GALAXY_CONFIG_CDDMA8_MASK | GALAXY_CONFIG_CDIRQ_MASK)
 
 #include "galaxy.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

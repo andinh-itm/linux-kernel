@@ -282,3 +282,4 @@ static int __init nps_setup_clockevent(struct device_node *node)
 TIMER_OF_DECLARE(ezchip_nps400_clk_evt, "ezchip,nps400-timer0",
 		       nps_setup_clockevent);
 #endif /* CONFIG_EZNPS_MTM_EXT */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -127,3 +127,4 @@ void rt2x00lib_free_firmware(struct rt2x00_dev *rt2x00dev)
 	release_firmware(rt2x00dev->fw);
 	rt2x00dev->fw = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -213,3 +213,4 @@ static int __init npcm7xx_timer_init(struct device_node *np)
 
 TIMER_OF_DECLARE(npcm7xx, "nuvoton,npcm750-timer", npcm7xx_timer_init);
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

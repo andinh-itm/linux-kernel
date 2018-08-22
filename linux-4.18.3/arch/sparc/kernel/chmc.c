@@ -861,3 +861,4 @@ static void __exit us3mc_cleanup(void)
 
 module_init(us3mc_init);
 module_exit(us3mc_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

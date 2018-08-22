@@ -882,3 +882,4 @@ int charlcd_unregister(struct charlcd *lcd)
 EXPORT_SYMBOL_GPL(charlcd_unregister);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

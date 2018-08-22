@@ -243,3 +243,4 @@ static struct platform_driver xway_nand_driver = {
 };
 
 builtin_platform_driver(xway_nand_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

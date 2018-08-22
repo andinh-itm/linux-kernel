@@ -264,3 +264,4 @@ int ide_set_xfer_rate(ide_drive_t *drive, u8 rate)
 
 	return ide_set_dma_mode(drive, rate);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

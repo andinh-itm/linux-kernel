@@ -523,3 +523,4 @@ MACHINE_START(MX35_3DS, "Freescale MX35PDK")
 	.init_late	= mx35_3ds_late_init,
 	.restart	= mxc_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

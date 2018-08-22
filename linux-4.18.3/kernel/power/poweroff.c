@@ -44,3 +44,4 @@ static int __init pm_sysrq_init(void)
 }
 
 subsys_initcall(pm_sysrq_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

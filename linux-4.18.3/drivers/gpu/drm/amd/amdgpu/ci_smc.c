@@ -277,3 +277,4 @@ int amdgpu_ci_write_smc_sram_dword(struct amdgpu_device *adev,
 
 	return ret;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

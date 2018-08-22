@@ -377,3 +377,4 @@ int hinic_port_get_cap(struct hinic_dev *nic_dev,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

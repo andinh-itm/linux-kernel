@@ -168,3 +168,4 @@ void oaktrail_lvds_i2c_init(struct drm_encoder *encoder)
 
 	gma_encoder->ddc_bus = chan;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

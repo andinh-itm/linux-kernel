@@ -92,3 +92,4 @@ void gma_backlight_exit(struct drm_device *dev)
 	}
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

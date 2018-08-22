@@ -3368,3 +3368,4 @@ void t3_sge_prep(struct adapter *adap, struct sge_params *p)
 
 	spin_lock_init(&adap->sge.reg_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

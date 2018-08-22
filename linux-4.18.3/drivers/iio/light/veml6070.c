@@ -215,3 +215,4 @@ module_i2c_driver(veml6070_driver);
 MODULE_AUTHOR("Peter Meerwald-Stadler <pmeerw@pmeerw.net>");
 MODULE_DESCRIPTION("Vishay VEML6070 UV A light sensor driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

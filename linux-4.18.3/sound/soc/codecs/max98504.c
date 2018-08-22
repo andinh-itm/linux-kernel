@@ -381,3 +381,4 @@ module_i2c_driver(max98504_i2c_driver);
 
 MODULE_DESCRIPTION("ASoC MAX98504 driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -69,3 +69,4 @@ module_i2c_driver(bmg160_i2c_driver);
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("BMG160 I2C Gyro driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

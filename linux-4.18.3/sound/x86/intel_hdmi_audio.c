@@ -1956,3 +1956,4 @@ MODULE_AUTHOR("Jerome Anand <jerome.anand@intel.com>");
 MODULE_DESCRIPTION("Intel HDMI Audio driver");
 MODULE_LICENSE("GPL v2");
 MODULE_SUPPORTED_DEVICE("{Intel,Intel_HAD}");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

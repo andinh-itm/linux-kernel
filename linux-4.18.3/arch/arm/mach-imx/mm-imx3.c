@@ -320,3 +320,4 @@ void __init imx35_soc_init(void)
 					ARRAY_SIZE(imx35_audmux_res));
 }
 #endif /* ifdef CONFIG_SOC_IMX35 */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

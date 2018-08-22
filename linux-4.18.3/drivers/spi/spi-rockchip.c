@@ -947,3 +947,4 @@ module_platform_driver(rockchip_spi_driver);
 MODULE_AUTHOR("Addy Ke <addy.ke@rock-chips.com>");
 MODULE_DESCRIPTION("ROCKCHIP SPI Controller Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

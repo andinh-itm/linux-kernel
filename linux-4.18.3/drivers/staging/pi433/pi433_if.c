@@ -1380,3 +1380,4 @@ MODULE_AUTHOR("Marcus Wolf, <linux@wolf-entwicklungen.de>");
 MODULE_DESCRIPTION("Driver for Pi433");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("spi:pi433");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

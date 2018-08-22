@@ -91,3 +91,4 @@ void __init init_IRQ(void)
 	/* Load the initial ienable value */
 	ienable = RDCTL(CTL_IENABLE);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

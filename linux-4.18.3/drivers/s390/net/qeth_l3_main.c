@@ -2971,3 +2971,4 @@ module_exit(qeth_l3_exit);
 MODULE_AUTHOR("Frank Blaschka <frank.blaschka@de.ibm.com>");
 MODULE_DESCRIPTION("qeth layer 3 discipline");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

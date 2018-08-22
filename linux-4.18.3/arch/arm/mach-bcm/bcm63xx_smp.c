@@ -167,3 +167,4 @@ static const struct smp_operations bcm63138_smp_ops __initconst = {
 };
 
 CPU_METHOD_OF_DECLARE(bcm63138_smp, "brcm,bcm63138", &bcm63138_smp_ops);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

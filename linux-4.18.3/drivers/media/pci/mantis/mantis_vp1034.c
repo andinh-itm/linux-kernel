@@ -118,3 +118,4 @@ struct mantis_hwconfig vp1034_config = {
 	.power		= GPIF_A12,
 	.reset		= GPIF_A13,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

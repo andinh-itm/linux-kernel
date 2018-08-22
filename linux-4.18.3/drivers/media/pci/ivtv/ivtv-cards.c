@@ -1368,3 +1368,4 @@ int ivtv_get_audio_output(struct ivtv *itv, u16 index, struct v4l2_audioout *aud
 	strlcpy(aud_output->name, "A/V Audio Out", sizeof(aud_output->name));
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

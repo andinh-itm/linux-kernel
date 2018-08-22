@@ -436,3 +436,4 @@ MODULE_AUTHOR("Robert Jarzmik <robert.jarzmik@free.fr>");
 MODULE_DESCRIPTION("PXA27x/PXA3xx Realtime Clock Driver (RTC)");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pxa-rtc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1462,3 +1462,4 @@ fc_gfn_req_build(struct fchs_s *fchs, void *pyld, u32 s_id, wwn_t wwn)
 
 	return sizeof(struct ct_hdr_s) + sizeof(fcgs_gfn_req_t);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

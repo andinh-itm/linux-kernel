@@ -36,3 +36,4 @@ u8 tw5864_indir_readb(struct tw5864_dev *dev, u16 addr)
 
 	return tw_readl(TW5864_IND_DATA);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

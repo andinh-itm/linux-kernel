@@ -1648,3 +1648,4 @@ MODULE_LICENSE("GPL");
 
 module_init(abituguru_init);
 module_exit(abituguru_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

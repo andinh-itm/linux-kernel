@@ -275,3 +275,4 @@ struct platform_driver vc4_hvs_driver = {
 		.of_match_table = vc4_hvs_dt_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

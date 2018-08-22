@@ -241,3 +241,4 @@ void __init cmx255_init(void)
 	cmx255_init_nor();
 	cmx255_init_nand();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

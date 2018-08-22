@@ -592,3 +592,4 @@ module_i2c_driver(pca9685_i2c_driver);
 MODULE_AUTHOR("Steffen Trumtrar <s.trumtrar@pengutronix.de>");
 MODULE_DESCRIPTION("PWM driver for PCA9685");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1553,3 +1553,4 @@ EXPORT_SYMBOL_GPL(si476x_core_cmd_intb_pin_cfg);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Andrey Smirnov <andrew.smirnov@gmail.com>");
 MODULE_DESCRIPTION("API for command exchange for si476x");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

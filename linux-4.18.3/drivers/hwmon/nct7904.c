@@ -578,3 +578,4 @@ module_i2c_driver(nct7904_driver);
 MODULE_AUTHOR("Vadim V. Vlasov <vvlasov@dev.rtsoft.ru>");
 MODULE_DESCRIPTION("Hwmon driver for NUVOTON NCT7904");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

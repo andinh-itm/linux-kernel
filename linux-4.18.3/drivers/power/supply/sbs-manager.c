@@ -443,3 +443,4 @@ module_i2c_driver(sbsm_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Karl-Heinz Schneider <karl-heinz@schneider-inet.de>");
 MODULE_DESCRIPTION("SBSM Smart Battery System Manager");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

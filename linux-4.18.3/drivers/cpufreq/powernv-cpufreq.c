@@ -1125,3 +1125,4 @@ module_exit(powernv_cpufreq_exit);
 
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vaidyanathan Srinivasan <svaidy at linux.vnet.ibm.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

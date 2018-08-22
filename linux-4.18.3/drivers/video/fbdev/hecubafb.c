@@ -308,3 +308,4 @@ module_platform_driver(hecubafb_driver);
 MODULE_DESCRIPTION("fbdev driver for Hecuba/Apollo controller");
 MODULE_AUTHOR("Jaya Kumar");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -250,3 +250,4 @@ void bch_moving_init_cache_set(struct cache_set *c)
 	bch_keybuf_init(&c->moving_gc_keys);
 	sema_init(&c->moving_in_flight, 64);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

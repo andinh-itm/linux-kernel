@@ -290,3 +290,4 @@ MODULE_AUTHOR("dann frazier <dannf@dannf.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("EFI RTC driver");
 MODULE_ALIAS("platform:rtc-efi");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

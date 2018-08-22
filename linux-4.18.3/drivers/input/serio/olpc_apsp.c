@@ -280,3 +280,4 @@ static struct platform_driver olpc_apsp_driver = {
 MODULE_DESCRIPTION("OLPC AP-SP serio driver");
 MODULE_LICENSE("GPL");
 module_platform_driver(olpc_apsp_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

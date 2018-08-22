@@ -298,3 +298,4 @@ MODULE_AUTHOR("Carlo Caione <carlo.caione@gmail.com>");
 MODULE_AUTHOR("Henrik Nordstrom <henrik@henriknordstrom.net>");
 MODULE_DESCRIPTION("sunxi WatchDog Timer Driver");
 MODULE_VERSION(DRV_VERSION);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

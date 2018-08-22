@@ -225,3 +225,4 @@ module_platform_driver(apbps2_of_driver);
 MODULE_AUTHOR("Aeroflex Gaisler AB.");
 MODULE_DESCRIPTION("GRLIB APBPS2 PS/2 serial I/O");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -141,3 +141,4 @@ static __init int kdb_ftrace_register(void)
 }
 
 late_initcall(kdb_ftrace_register);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

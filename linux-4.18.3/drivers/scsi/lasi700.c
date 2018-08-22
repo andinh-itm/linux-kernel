@@ -185,3 +185,4 @@ lasi700_exit(void)
 
 module_init(lasi700_init);
 module_exit(lasi700_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

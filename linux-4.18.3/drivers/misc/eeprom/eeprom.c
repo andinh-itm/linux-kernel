@@ -220,3 +220,4 @@ MODULE_AUTHOR("Frodo Looijaard <frodol@dds.nl> and "
 		"Greg Kroah-Hartman <greg@kroah.com>");
 MODULE_DESCRIPTION("I2C EEPROM driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

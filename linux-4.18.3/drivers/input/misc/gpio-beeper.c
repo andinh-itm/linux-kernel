@@ -116,3 +116,4 @@ module_platform_driver(gpio_beeper_platform_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Alexander Shiyan <shc_work@mail.ru>");
 MODULE_DESCRIPTION("Generic GPIO beeper driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

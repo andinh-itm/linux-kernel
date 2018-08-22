@@ -129,3 +129,4 @@ static struct platform_driver gxbb_aoclkc_driver = {
 	},
 };
 builtin_platform_driver(gxbb_aoclkc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2582,3 +2582,4 @@ int snd_soc_tplg_component_remove(struct snd_soc_component *comp, u32 index)
 	return !list_empty(&comp->dobj_list);
 }
 EXPORT_SYMBOL_GPL(snd_soc_tplg_component_remove);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

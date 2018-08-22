@@ -138,3 +138,4 @@ static void __exit wm831x_i2c_exit(void)
 	i2c_del_driver(&wm831x_i2c_driver);
 }
 module_exit(wm831x_i2c_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

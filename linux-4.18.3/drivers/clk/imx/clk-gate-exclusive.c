@@ -92,3 +92,4 @@ struct clk *imx_clk_gate_exclusive(const char *name, const char *parent,
 
 	return clk;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

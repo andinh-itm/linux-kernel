@@ -975,3 +975,4 @@ static struct platform_driver hidma_driver = {
 
 module_platform_driver(hidma_driver);
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -315,3 +315,4 @@ void omap_fbdev_fini(struct drm_device *dev)
 
 	priv->fbdev = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

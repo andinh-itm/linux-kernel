@@ -30,3 +30,4 @@ void __init bcm47xx_workarounds(void)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

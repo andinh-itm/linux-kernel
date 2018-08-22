@@ -301,3 +301,4 @@ const struct ethtool_ops aq_ethtool_ops = {
 	.get_coalesce	     = aq_ethtool_get_coalesce,
 	.set_coalesce	     = aq_ethtool_set_coalesce,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -998,3 +998,4 @@ MODULE_DESCRIPTION("STM32 Soc spdifrx Interface");
 MODULE_AUTHOR("Olivier Moysan, <olivier.moysan@st.com>");
 MODULE_ALIAS("platform:stm32-spdifrx");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

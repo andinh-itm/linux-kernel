@@ -750,3 +750,4 @@ struct scripting_ops perl_scripting_ops = {
 	.process_event = perl_process_event,
 	.generate_script = perl_generate_script,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

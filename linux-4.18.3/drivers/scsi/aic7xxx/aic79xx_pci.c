@@ -1012,3 +1012,4 @@ ahd_aic790X_setup(struct ahd_softc *ahd)
 
 	return (0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

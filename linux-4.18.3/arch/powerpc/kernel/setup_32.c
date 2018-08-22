@@ -263,3 +263,4 @@ __init void initialize_cache_info(void)
 	if (cpu_has_feature(CPU_FTR_UNIFIED_ID_CACHE))
 		ucache_bsize = icache_bsize = dcache_bsize;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

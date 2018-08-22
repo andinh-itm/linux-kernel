@@ -2467,3 +2467,4 @@ static int __init trap_pm_init(void)
 	return cpu_pm_register_notifier(&trap_pm_notifier_block);
 }
 arch_initcall(trap_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

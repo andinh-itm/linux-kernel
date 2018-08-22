@@ -210,3 +210,4 @@ MODULE_AUTHOR("Russell King");
 MODULE_DESCRIPTION("Oak SCSI driver");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

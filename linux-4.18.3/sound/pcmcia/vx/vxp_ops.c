@@ -610,3 +610,4 @@ struct snd_vx_ops snd_vxpocket_ops = {
 	.dma_write = vxp_dma_write,
 	.dma_read = vxp_dma_read,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

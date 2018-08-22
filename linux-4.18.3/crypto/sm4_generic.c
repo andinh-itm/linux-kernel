@@ -244,3 +244,4 @@ MODULE_DESCRIPTION("SM4 Cipher Algorithm");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS_CRYPTO("sm4");
 MODULE_ALIAS_CRYPTO("sm4-generic");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

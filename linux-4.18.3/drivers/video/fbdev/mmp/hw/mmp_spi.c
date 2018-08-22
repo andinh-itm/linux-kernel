@@ -178,3 +178,4 @@ int lcd_spi_register(struct mmphw_ctrl *ctrl)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

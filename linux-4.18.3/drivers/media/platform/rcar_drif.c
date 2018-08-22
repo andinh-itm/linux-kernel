@@ -1501,3 +1501,4 @@ MODULE_DESCRIPTION("Renesas R-Car Gen3 DRIF driver");
 MODULE_ALIAS("platform:" RCAR_DRIF_DRV_NAME);
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Ramesh Shanmugasundaram <ramesh.shanmugasundaram@bp.renesas.com>");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

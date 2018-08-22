@@ -213,3 +213,4 @@ const struct tegra_soctherm_soc tegra210_soctherm = {
 	.bptt = TEGRA210_BPTT,
 	.use_ccroc = false,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -117,3 +117,4 @@ void virtio_gpu_fence_event_process(struct virtio_gpu_device *vgdev,
 	}
 	spin_unlock_irqrestore(&drv->lock, irq_flags);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

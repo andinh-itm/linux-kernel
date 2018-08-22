@@ -643,3 +643,4 @@ void __init imx6ul_pm_init(void)
 {
 	imx6_pm_common_init(&imx6ul_pm_data);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

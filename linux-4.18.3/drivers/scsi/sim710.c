@@ -253,3 +253,4 @@ static void __exit sim710_exit(void)
 
 module_init(sim710_init);
 module_exit(sim710_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

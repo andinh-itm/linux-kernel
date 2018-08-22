@@ -247,3 +247,4 @@ static void __exit msg_cleanup(void)
 	usb_composite_unregister(&msg_driver);
 }
 module_exit(msg_cleanup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

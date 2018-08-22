@@ -115,3 +115,4 @@ void cfg80211_debugfs_rdev_add(struct cfg80211_registered_device *rdev)
 	DEBUGFS_ADD(long_retry_limit);
 	DEBUGFS_ADD(ht40allow_map);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

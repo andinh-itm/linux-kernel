@@ -1276,3 +1276,4 @@ MODULE_AUTHOR("Comedi http://www.comedi.org");
 MODULE_DESCRIPTION("Comedi driver for Meilhaus ME-4000 series boards");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(ME4000_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

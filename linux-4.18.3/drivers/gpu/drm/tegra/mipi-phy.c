@@ -135,3 +135,4 @@ int mipi_dphy_timing_validate(struct mipi_dphy_timing *timing,
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

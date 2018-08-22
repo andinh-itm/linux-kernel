@@ -154,3 +154,4 @@ static int __init init_amcore(void)
 }
 
 arch_initcall(init_amcore);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

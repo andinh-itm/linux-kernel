@@ -258,3 +258,4 @@ static void __exit ct82c710_exit(void)
 
 module_init(ct82c710_init);
 module_exit(ct82c710_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

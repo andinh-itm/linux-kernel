@@ -528,3 +528,4 @@ struct platform_driver zx_vga_driver = {
 		.of_match_table	= zx_vga_of_match,
 	},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

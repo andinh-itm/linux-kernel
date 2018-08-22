@@ -222,3 +222,4 @@ static int __init max77843_i2c_init(void)
 	return i2c_add_driver(&max77843_i2c_driver);
 }
 subsys_initcall(max77843_i2c_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

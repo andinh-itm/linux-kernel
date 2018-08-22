@@ -548,3 +548,4 @@ module_i2c_driver(fsa9480_i2c_driver);
 MODULE_AUTHOR("Minkyu Kang <mk7.kang@samsung.com>");
 MODULE_DESCRIPTION("FSA9480 USB Switch driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

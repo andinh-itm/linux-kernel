@@ -1090,3 +1090,4 @@ int sdei_event_handler(struct pt_regs *regs,
 	return err;
 }
 NOKPROBE_SYMBOL(sdei_event_handler);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

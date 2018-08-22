@@ -4895,3 +4895,4 @@ struct megasas_instance_template megasas_instance_template_fusion = {
 	.build_and_issue_cmd = megasas_build_and_issue_cmd_fusion,
 	.issue_dcmd = megasas_issue_dcmd_fusion,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

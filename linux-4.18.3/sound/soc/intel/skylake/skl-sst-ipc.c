@@ -1031,3 +1031,4 @@ int skl_ipc_set_d0ix(struct sst_generic_ipc *ipc, struct skl_ipc_d0ix_msg *msg)
 	return ret;
 }
 EXPORT_SYMBOL_GPL(skl_ipc_set_d0ix);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

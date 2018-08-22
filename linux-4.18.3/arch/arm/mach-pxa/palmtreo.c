@@ -558,3 +558,4 @@ MACHINE_START(CENTRO, "Palm Centro 685")
 	.restart	= pxa_restart,
 MACHINE_END
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

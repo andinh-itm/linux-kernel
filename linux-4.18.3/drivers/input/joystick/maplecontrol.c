@@ -190,3 +190,4 @@ static void __exit dc_pad_exit(void)
 
 module_init(dc_pad_init);
 module_exit(dc_pad_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -242,3 +242,4 @@ void usb_acpi_unregister(void)
 {
 	unregister_acpi_bus_type(&usb_acpi_bus);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

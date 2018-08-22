@@ -260,3 +260,4 @@ void pch_gbe_hal_power_down_phy(struct pch_gbe_hw *hw)
 	if (hw->func->power_down_phy)
 		hw->func->power_down_phy(hw);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

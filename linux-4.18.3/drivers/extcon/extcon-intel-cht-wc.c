@@ -396,3 +396,4 @@ module_platform_driver(cht_wc_extcon_driver);
 MODULE_DESCRIPTION("Intel Cherrytrail Whiskey Cove PMIC extcon driver");
 MODULE_AUTHOR("Hans de Goede <hdegoede@redhat.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

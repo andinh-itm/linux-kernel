@@ -797,3 +797,4 @@ static void __exit ser_gigaset_exit(void)
 
 module_init(ser_gigaset_init);
 module_exit(ser_gigaset_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

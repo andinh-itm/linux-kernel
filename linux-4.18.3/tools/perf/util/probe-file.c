@@ -1064,3 +1064,4 @@ bool kretprobe_offset_is_supported(void)
 {
 	return scan_ftrace_readme(FTRACE_README_KRETPROBE_OFFSET);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

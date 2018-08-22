@@ -391,3 +391,4 @@ module_i2c_driver(s5k6a3_driver);
 MODULE_DESCRIPTION("S5K6A3 image sensor subdev driver");
 MODULE_AUTHOR("Sylwester Nawrocki <s.nawrocki@samsung.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

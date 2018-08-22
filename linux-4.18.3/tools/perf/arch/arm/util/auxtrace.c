@@ -106,3 +106,4 @@ struct auxtrace_record
 	*err = 0;
 	return NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

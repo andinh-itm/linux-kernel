@@ -46,3 +46,4 @@ void sni_machine_power_off(void)
 {
 	*(volatile unsigned char *)PCIMT_CSWCSM = 0xfd;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

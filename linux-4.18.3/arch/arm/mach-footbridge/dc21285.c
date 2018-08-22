@@ -364,3 +364,4 @@ void __init dc21285_postinit(void)
 {
 	register_isa_ports(DC21285_PCI_MEM, DC21285_PCI_IO, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

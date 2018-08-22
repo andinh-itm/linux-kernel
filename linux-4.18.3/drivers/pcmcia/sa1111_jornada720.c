@@ -109,3 +109,4 @@ int pcmcia_jornada720_init(struct sa1111_dev *sadev)
 	return sa1111_pcmcia_add(sadev, &jornada720_pcmcia_ops,
 				 sa11xx_drv_pcmcia_add_one);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1261,3 +1261,4 @@ void ps3_vuart_port_driver_unregister(struct ps3_vuart_port_driver *drv)
 	ps3_system_bus_driver_unregister(&drv->core);
 }
 EXPORT_SYMBOL_GPL(ps3_vuart_port_driver_unregister);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

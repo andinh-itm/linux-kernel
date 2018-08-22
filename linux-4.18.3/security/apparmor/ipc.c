@@ -219,3 +219,4 @@ int aa_may_signal(struct aa_label *sender, struct aa_label *target, int sig)
 			profile_signal_perm(profile, target, MAY_WRITE, &sa),
 			profile_signal_perm(profile, sender, MAY_READ, &sa));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

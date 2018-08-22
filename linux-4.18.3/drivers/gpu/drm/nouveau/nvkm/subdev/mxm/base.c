@@ -276,3 +276,4 @@ nvkm_mxm_new_(struct nvkm_device *device, int index, struct nvkm_mxm **pmxm)
 		mxm->action |= MXM_SANITISE_DCB;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -646,3 +646,4 @@ MODULE_AUTHOR("Szabolcs Gyurko <szabolcs.gyurko@tlt.hu>, "
 	      "Matt Reimer <mreimer@vpop.net>, "
 	      "Anton Vorontsov <cbou@mail.ru>");
 MODULE_DESCRIPTION("ds2760 battery driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

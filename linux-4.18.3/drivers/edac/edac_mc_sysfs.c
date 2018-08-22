@@ -1091,3 +1091,4 @@ void edac_mc_sysfs_exit(void)
 {
 	device_unregister(mci_pdev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

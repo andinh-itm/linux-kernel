@@ -74,3 +74,4 @@ module_i2c_driver(aic32x4_i2c_driver);
 MODULE_DESCRIPTION("ASoC TLV320AIC32x4 codec driver I2C");
 MODULE_AUTHOR("Jeremy McDermond <nh6z@nh6z.net>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

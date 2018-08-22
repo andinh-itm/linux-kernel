@@ -173,3 +173,4 @@ module_exit(hp680bl_exit);
 MODULE_AUTHOR("Andriy Skulysh <askulysh@gmail.com>");
 MODULE_DESCRIPTION("HP Jornada 680 Backlight Driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

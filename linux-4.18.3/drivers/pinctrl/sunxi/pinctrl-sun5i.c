@@ -748,3 +748,4 @@ static struct platform_driver sun5i_pinctrl_driver = {
 	},
 };
 builtin_platform_driver(sun5i_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

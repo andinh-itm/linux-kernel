@@ -357,3 +357,4 @@ module_exit(pseries_energy_cleanup);
 MODULE_DESCRIPTION("Driver for pSeries platform energy management");
 MODULE_AUTHOR("Vaidyanathan Srinivasan");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

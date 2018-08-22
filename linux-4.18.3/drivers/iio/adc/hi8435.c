@@ -566,3 +566,4 @@ module_spi_driver(hi8435_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Vladimir Barinov");
 MODULE_DESCRIPTION("HI-8435 threshold detector");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

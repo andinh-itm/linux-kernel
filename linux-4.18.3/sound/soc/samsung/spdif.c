@@ -489,3 +489,4 @@ MODULE_AUTHOR("Seungwhan Youn, <sw.youn@samsung.com>");
 MODULE_DESCRIPTION("Samsung S/PDIF Controller Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:samsung-spdif");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

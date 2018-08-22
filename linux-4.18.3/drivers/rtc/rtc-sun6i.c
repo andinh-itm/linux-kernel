@@ -593,3 +593,4 @@ static struct platform_driver sun6i_rtc_driver = {
 	},
 };
 builtin_platform_driver(sun6i_rtc_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1848,3 +1848,4 @@ static const struct dvb_frontend_ops dst_atsc_ops = {
 MODULE_DESCRIPTION("DST DVB-S/T/C/ATSC Combo Frontend driver");
 MODULE_AUTHOR("Jamie Honan, Manu Abraham");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

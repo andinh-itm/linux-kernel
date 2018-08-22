@@ -2162,3 +2162,4 @@ module_usb_driver(ims_pcu_driver);
 MODULE_DESCRIPTION("IMS Passenger Control Unit driver");
 MODULE_AUTHOR("Dmitry Torokhov <dmitry.torokhov@gmail.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

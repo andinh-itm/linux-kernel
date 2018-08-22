@@ -148,3 +148,4 @@ static int __init acpi_sleep_setup(char *str)
 }
 
 __setup("acpi_sleep=", acpi_sleep_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1897,3 +1897,4 @@ static struct hid_driver mt_driver = {
 #endif
 };
 module_hid_driver(mt_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

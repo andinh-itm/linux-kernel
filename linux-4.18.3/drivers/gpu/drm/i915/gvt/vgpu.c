@@ -559,3 +559,4 @@ void intel_gvt_reset_vgpu(struct intel_vgpu *vgpu)
 	intel_gvt_reset_vgpu_locked(vgpu, true, 0);
 	mutex_unlock(&vgpu->gvt->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

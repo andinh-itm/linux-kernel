@@ -118,3 +118,4 @@ void exit_browser(bool wait_for_ok)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -413,3 +413,4 @@ void snd_motu_stream_lock_release(struct snd_motu *motu)
 out:
 	spin_unlock_irq(&motu->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

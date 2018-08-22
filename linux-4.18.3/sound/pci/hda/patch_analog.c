@@ -1193,3 +1193,4 @@ static struct hda_codec_driver analog_driver = {
 };
 
 module_hda_codec_driver(analog_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

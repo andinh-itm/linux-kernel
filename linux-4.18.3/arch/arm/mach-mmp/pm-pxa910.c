@@ -272,3 +272,4 @@ static int __init pxa910_pm_init(void)
 }
 
 late_initcall(pxa910_pm_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

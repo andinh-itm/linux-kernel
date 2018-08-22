@@ -419,3 +419,4 @@ MODULE_ALIAS("platform:rockchip-spdif");
 MODULE_DESCRIPTION("ROCKCHIP SPDIF transceiver Interface");
 MODULE_AUTHOR("Sjoerd Simons <sjoerd.simons@collabora.co.uk>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

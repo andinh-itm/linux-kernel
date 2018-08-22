@@ -266,3 +266,4 @@ static void __init of_keystone_psc_clk_init(struct device_node *node)
 }
 CLK_OF_DECLARE(keystone_gate_clk, "ti,keystone,psc-clock",
 					of_keystone_psc_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

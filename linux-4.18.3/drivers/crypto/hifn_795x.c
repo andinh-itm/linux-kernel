@@ -2692,3 +2692,4 @@ module_exit(hifn_fini);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Evgeniy Polyakov <johnpol@2ka.mipt.ru>");
 MODULE_DESCRIPTION("Driver for HIFN 795x crypto accelerator chip.");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

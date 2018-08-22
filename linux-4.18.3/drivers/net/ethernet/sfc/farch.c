@@ -2987,3 +2987,4 @@ void efx_farch_filter_sync_rx_mode(struct efx_nic *efx)
 
 	netif_addr_unlock_bh(net_dev);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

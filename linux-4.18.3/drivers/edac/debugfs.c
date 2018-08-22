@@ -161,3 +161,4 @@ struct dentry *edac_debugfs_create_x16(const char *name, umode_t mode,
 	return debugfs_create_x16(name, mode, parent, value);
 }
 EXPORT_SYMBOL_GPL(edac_debugfs_create_x16);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1460,3 +1460,4 @@ MODULE_AUTHOR("Kai Vehmanen <kai.vehmanen@nokia.com>");
 MODULE_AUTHOR("Peter Ujfalusi <peter.ujfalusi@nokia.com>");
 MODULE_DESCRIPTION("CMT speech driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

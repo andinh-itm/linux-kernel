@@ -110,3 +110,4 @@ struct clk *devm_get_clk_from_child(struct device *dev,
 	return clk;
 }
 EXPORT_SYMBOL(devm_get_clk_from_child);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

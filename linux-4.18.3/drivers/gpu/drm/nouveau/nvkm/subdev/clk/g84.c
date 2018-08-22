@@ -46,3 +46,4 @@ g84_clk_new(struct nvkm_device *device, int index, struct nvkm_clk **pclk)
 	return nv50_clk_new_(&g84_clk, device, index,
 			     (device->chipset >= 0x94), pclk);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

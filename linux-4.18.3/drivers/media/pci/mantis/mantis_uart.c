@@ -196,3 +196,4 @@ void mantis_uart_exit(struct mantis_pci *mantis)
 	flush_work(&mantis->uart_work);
 }
 EXPORT_SYMBOL_GPL(mantis_uart_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -329,3 +329,4 @@ MODULE_ALIAS("platform:uc1611");
 MODULE_DESCRIPTION("FB driver for the UC1611 LCD controller");
 MODULE_AUTHOR("Henri Chain");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

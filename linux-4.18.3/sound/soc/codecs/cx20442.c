@@ -426,3 +426,4 @@ MODULE_DESCRIPTION("ASoC CX20442-11 voice modem codec driver");
 MODULE_AUTHOR("Janusz Krzysztofik");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:cx20442-codec");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

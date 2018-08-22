@@ -2100,3 +2100,4 @@ bna_hw_stats_get(struct bna *bna)
 
 	bna_bfi_stats_get(bna);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

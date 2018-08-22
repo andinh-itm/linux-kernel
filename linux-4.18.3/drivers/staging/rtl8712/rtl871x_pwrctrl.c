@@ -236,3 +236,4 @@ void r8712_unregister_cmd_alive(struct _adapter *padapter)
 	}
 	mutex_unlock(&pwrctrl->mutex_lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

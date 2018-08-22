@@ -247,3 +247,4 @@ static int __init jcore_pit_init(struct device_node *node)
 }
 
 TIMER_OF_DECLARE(jcore_pit, "jcore,pit", jcore_pit_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

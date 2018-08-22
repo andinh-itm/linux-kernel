@@ -431,3 +431,4 @@ module_exit(mtdoops_exit);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Richard Purdie <rpurdie@openedhand.com>");
 MODULE_DESCRIPTION("MTD Oops/Panic console logger/driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

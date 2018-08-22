@@ -1414,3 +1414,4 @@ module_i2c_driver(rj54n1_i2c_driver);
 MODULE_DESCRIPTION("Sharp RJ54N1CB0C Camera driver");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

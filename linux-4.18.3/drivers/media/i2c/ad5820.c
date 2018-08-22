@@ -371,3 +371,4 @@ module_i2c_driver(ad5820_i2c_driver);
 MODULE_AUTHOR("Tuukka Toivonen");
 MODULE_DESCRIPTION("AD5820 camera lens driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

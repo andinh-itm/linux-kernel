@@ -38,3 +38,4 @@ static int __init ibm_workpad_setup(void)
 }
 
 arch_initcall(ibm_workpad_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

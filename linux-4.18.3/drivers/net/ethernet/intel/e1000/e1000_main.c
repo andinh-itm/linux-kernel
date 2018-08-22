@@ -5331,3 +5331,4 @@ static void e1000_io_resume(struct pci_dev *pdev)
 }
 
 /* e1000_main.c */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

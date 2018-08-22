@@ -316,3 +316,4 @@ static void __exit alsa_seq_device_exit(void)
 
 subsys_initcall(alsa_seq_device_init)
 module_exit(alsa_seq_device_exit)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

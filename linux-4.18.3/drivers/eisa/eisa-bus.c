@@ -458,3 +458,4 @@ postcore_initcall(eisa_init);
 
 int EISA_bus;		/* for legacy drivers */
 EXPORT_SYMBOL(EISA_bus);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

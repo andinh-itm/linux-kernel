@@ -222,3 +222,4 @@ const struct inode_operations hpfs_file_iops =
 	.setattr	= hpfs_setattr,
 	.fiemap		= hpfs_fiemap,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

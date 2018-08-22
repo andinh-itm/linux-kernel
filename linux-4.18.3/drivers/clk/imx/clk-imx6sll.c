@@ -338,3 +338,4 @@ static void __init imx6sll_clocks_init(struct device_node *ccm_node)
 	clk_set_rate(clks[IMX6SLL_CLK_AHB], 132000000);
 }
 CLK_OF_DECLARE_DRIVER(imx6sll, "fsl,imx6sll-ccm", imx6sll_clocks_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -99,3 +99,4 @@ struct regmap *__devm_regmap_init_ac97(struct snd_ac97 *ac97,
 EXPORT_SYMBOL_GPL(__devm_regmap_init_ac97);
 
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

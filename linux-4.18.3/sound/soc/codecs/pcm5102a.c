@@ -64,3 +64,4 @@ module_platform_driver(pcm5102a_codec_driver);
 MODULE_DESCRIPTION("ASoC PCM5102A codec driver");
 MODULE_AUTHOR("Florian Meier <florian.meier@koalo.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

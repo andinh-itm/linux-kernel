@@ -355,3 +355,4 @@ nfp_rtsym_map(struct nfp_rtsym_table *rtbl, const char *name, const char *id,
 
 	return mem;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

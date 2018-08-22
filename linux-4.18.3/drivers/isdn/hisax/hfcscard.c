@@ -259,3 +259,4 @@ int setup_hfcs(struct IsdnCard *card)
 	cs->irq_func = &hfcs_interrupt;
 	return (1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3337,3 +3337,4 @@ static void __exit toshiba_acpi_exit(void)
 
 module_init(toshiba_acpi_init);
 module_exit(toshiba_acpi_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

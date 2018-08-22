@@ -67,3 +67,4 @@ int default_machine_kexec_prepare(struct kimage *image)
 {
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

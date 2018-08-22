@@ -3154,3 +3154,4 @@ MODULE_AUTHOR("Jiri Pirko <jiri@resnulli.us>");
 MODULE_AUTHOR("Scott Feldman <sfeldma@gmail.com>");
 MODULE_DESCRIPTION("Rocker switch device driver");
 MODULE_DEVICE_TABLE(pci, rocker_pci_id_table);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

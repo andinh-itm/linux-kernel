@@ -133,3 +133,4 @@ MODULE_AUTHOR("Texas Instruments Ltd");
 MODULE_DESCRIPTION("BQ27xxx battery monitor HDQ/1-wire driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("w1-family-" __stringify(W1_FAMILY_BQ27000));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

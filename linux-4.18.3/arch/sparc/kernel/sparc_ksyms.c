@@ -10,3 +10,4 @@
 
 /* This is needed only for drivers/sbus/char/openprom.c */
 EXPORT_SYMBOL(saved_command_line);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

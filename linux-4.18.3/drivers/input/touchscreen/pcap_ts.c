@@ -256,3 +256,4 @@ MODULE_DESCRIPTION("Motorola PCAP2 touchscreen driver");
 MODULE_AUTHOR("Daniel Ribeiro / Harald Welte");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:pcap_ts");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

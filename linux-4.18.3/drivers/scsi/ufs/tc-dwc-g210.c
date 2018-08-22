@@ -318,3 +318,4 @@ EXPORT_SYMBOL(tc_dwc_g210_config_20_bit);
 MODULE_AUTHOR("Joao Pinto <Joao.Pinto@synopsys.com>");
 MODULE_DESCRIPTION("Synopsys G210 Test Chip driver");
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

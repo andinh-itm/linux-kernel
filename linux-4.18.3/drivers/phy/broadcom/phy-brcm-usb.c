@@ -457,3 +457,4 @@ MODULE_ALIAS("platform:brcmstb-usb-phy");
 MODULE_AUTHOR("Al Cooper <acooper@broadcom.com>");
 MODULE_DESCRIPTION("BRCM USB PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

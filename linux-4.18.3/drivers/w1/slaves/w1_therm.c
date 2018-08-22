@@ -759,3 +759,4 @@ MODULE_ALIAS("w1-family-" __stringify(W1_THERM_DS1822));
 MODULE_ALIAS("w1-family-" __stringify(W1_THERM_DS18B20));
 MODULE_ALIAS("w1-family-" __stringify(W1_THERM_DS1825));
 MODULE_ALIAS("w1-family-" __stringify(W1_THERM_DS28EA00));
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

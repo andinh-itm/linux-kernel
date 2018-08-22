@@ -1522,3 +1522,4 @@ module_i2c_driver(kxcjk1013_driver);
 MODULE_AUTHOR("Srinivas Pandruvada <srinivas.pandruvada@linux.intel.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_DESCRIPTION("KXCJK1013 accelerometer driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

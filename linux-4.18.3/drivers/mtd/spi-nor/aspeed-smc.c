@@ -905,3 +905,4 @@ module_platform_driver(aspeed_smc_driver);
 MODULE_DESCRIPTION("ASPEED Static Memory Controller Driver");
 MODULE_AUTHOR("Cedric Le Goater <clg@kaod.org>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

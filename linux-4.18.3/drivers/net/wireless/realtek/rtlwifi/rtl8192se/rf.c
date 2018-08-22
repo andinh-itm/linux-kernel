@@ -527,3 +527,4 @@ void rtl92s_phy_rf6052_set_bandwidth(struct ieee80211_hw *hw, u8 bandwidth)
 		break;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

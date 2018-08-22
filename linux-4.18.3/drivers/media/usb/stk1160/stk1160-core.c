@@ -439,3 +439,4 @@ static struct usb_driver stk1160_usb_driver = {
 };
 
 module_usb_driver(stk1160_usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

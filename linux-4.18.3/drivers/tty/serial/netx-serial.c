@@ -731,3 +731,4 @@ MODULE_AUTHOR("Sascha Hauer");
 MODULE_DESCRIPTION("NetX serial port driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:" DRIVER_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1136,3 +1136,4 @@ static struct platform_driver isif_driver = {
 module_platform_driver(isif_driver);
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

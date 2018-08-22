@@ -442,3 +442,4 @@ static int __init c6x_clk_debugfs_init(void)
 }
 device_initcall(c6x_clk_debugfs_init);
 #endif /* CONFIG_DEBUG_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

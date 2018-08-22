@@ -325,3 +325,4 @@ void __init check_bugs64(void)
 	if (!IS_ENABLED(CONFIG_CPU_MIPSR6))
 		check_daddi();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

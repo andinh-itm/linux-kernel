@@ -108,3 +108,4 @@ module_pci_driver(rdc321x_sb_driver);
 MODULE_AUTHOR("Florian Fainelli <florian@openwrt.org>");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("RDC R-321x MFD southbridge driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

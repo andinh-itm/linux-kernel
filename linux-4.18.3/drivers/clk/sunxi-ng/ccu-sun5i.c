@@ -1032,3 +1032,4 @@ static void __init sun5i_gr8_ccu_setup(struct device_node *node)
 }
 CLK_OF_DECLARE(sun5i_gr8_ccu, "nextthing,gr8-ccu",
 	       sun5i_gr8_ccu_setup);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

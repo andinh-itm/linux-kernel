@@ -216,3 +216,4 @@ MACHINE_START(PALMT5, "Palm Tungsten|T5")
 	.init_machine	= palmt5_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

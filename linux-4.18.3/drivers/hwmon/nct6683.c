@@ -1500,3 +1500,4 @@ MODULE_LICENSE("GPL");
 
 module_init(sensors_nct6683_init);
 module_exit(sensors_nct6683_exit);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -42,3 +42,4 @@ struct xfs_globals xfs_globals = {
 	.bug_on_assert		=	false,	/* assert failures WARN() */
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

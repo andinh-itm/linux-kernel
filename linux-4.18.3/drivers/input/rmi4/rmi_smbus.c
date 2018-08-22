@@ -435,3 +435,4 @@ MODULE_AUTHOR("Andrew Duggan <aduggan@synaptics.com>");
 MODULE_AUTHOR("Benjamin Tissoires <benjamin.tissoires@redhat.com>");
 MODULE_DESCRIPTION("RMI4 SMBus driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

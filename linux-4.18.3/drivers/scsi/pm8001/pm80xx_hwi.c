@@ -4675,3 +4675,4 @@ const struct pm8001_dispatch pm8001_80xx_dispatch = {
 	.fw_flash_update_req	= pm8001_chip_fw_flash_update_req,
 	.set_dev_state_req	= pm8001_chip_set_dev_state_req,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

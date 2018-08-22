@@ -228,3 +228,4 @@ module_platform_driver(platram_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>");
 MODULE_DESCRIPTION("MTD platform RAM map driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

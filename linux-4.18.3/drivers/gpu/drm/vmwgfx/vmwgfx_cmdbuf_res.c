@@ -345,3 +345,4 @@ size_t vmw_cmdbuf_res_man_size(void)
 
 	return res_man_size;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

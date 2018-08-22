@@ -230,3 +230,4 @@ void in6_dev_finish_destroy(struct inet6_dev *idev)
 	call_rcu(&idev->rcu, in6_dev_finish_destroy_rcu);
 }
 EXPORT_SYMBOL(in6_dev_finish_destroy);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

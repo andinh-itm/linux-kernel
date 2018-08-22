@@ -495,3 +495,4 @@ module_i2c_driver(imx074_i2c_driver);
 MODULE_DESCRIPTION("Sony IMX074 Camera driver");
 MODULE_AUTHOR("Guennadi Liakhovetski <g.liakhovetski@gmx.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

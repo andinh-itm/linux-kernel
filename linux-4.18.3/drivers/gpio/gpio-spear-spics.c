@@ -197,3 +197,4 @@ static int __init spics_gpio_init(void)
 	return platform_driver_register(&spics_gpio_driver);
 }
 subsys_initcall(spics_gpio_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

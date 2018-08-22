@@ -135,3 +135,4 @@ void savagefb_imageblit(struct fb_info *info, const struct fb_image *image)
 }
 
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

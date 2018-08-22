@@ -512,3 +512,4 @@ MODULE_AUTHOR("Peter Tyser <ptyser@xes-inc.com>");
 MODULE_DESCRIPTION("GPIO interface for Intel ICH series");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:"DRV_NAME);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

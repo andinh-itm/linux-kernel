@@ -164,3 +164,4 @@ module_platform_driver(atmel_trng_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Peter Korsgaard <jacmet@sunsite.dk>");
 MODULE_DESCRIPTION("Atmel true random number generator driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

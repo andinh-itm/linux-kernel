@@ -202,3 +202,4 @@ nvkm_fb_new_(const struct nvkm_fb_func *func, struct nvkm_device *device,
 	nvkm_fb_ctor(func, device, index, *pfb);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

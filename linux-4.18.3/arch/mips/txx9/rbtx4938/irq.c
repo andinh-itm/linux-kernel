@@ -155,3 +155,4 @@ void __init rbtx4938_irq_setup(void)
 	/* Onboard 10M Ether: High Active */
 	irq_set_irq_type(RBTX4938_IRQ_ETHER, IRQF_TRIGGER_HIGH);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -246,3 +246,4 @@ void __init plat_irq_setup(void)
 	plat_irq_setup_sh3();
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

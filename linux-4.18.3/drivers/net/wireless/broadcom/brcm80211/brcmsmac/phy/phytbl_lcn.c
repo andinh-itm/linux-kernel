@@ -3291,3 +3291,4 @@ const struct lcnphy_tx_gain_tbl_entry dot11lcnphy_5GHz_gaintable_rev0[128] = {
 	{255, 255, 0x10, 0, 64},
 	{255, 248, 0x10, 0, 64},
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

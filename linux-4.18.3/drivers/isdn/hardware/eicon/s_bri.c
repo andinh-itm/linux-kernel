@@ -189,3 +189,4 @@ void prepare_maestra_functions(PISDN_ADAPTER IoAdapter) {
 	diva_os_prepare_maestra_functions(IoAdapter);
 }
 /* -------------------------------------------------------------------------- */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

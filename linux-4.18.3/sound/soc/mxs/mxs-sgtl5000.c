@@ -200,3 +200,4 @@ MODULE_AUTHOR("Freescale Semiconductor, Inc.");
 MODULE_DESCRIPTION("MXS ALSA SoC Machine driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:mxs-sgtl5000");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

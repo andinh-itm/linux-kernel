@@ -337,3 +337,4 @@ void __exit lkdtm_usercopy_exit(void)
 {
 	kmem_cache_destroy(whitelist_cache);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -137,3 +137,4 @@ static void __init nsp_lcpll0_clk_init(struct device_node *node)
 			    ARRAY_SIZE(lcpll0_clk));
 }
 CLK_OF_DECLARE(nsp_lcpll0_clk, "brcm,nsp-lcpll0", nsp_lcpll0_clk_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

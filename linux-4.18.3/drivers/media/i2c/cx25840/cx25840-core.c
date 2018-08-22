@@ -5368,3 +5368,4 @@ static struct i2c_driver cx25840_driver = {
 };
 
 module_i2c_driver(cx25840_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

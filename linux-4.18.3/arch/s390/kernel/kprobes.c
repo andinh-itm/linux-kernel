@@ -730,3 +730,4 @@ int arch_trampoline_kprobe(struct kprobe *p)
 	return p->addr == (kprobe_opcode_t *) &kretprobe_trampoline;
 }
 NOKPROBE_SYMBOL(arch_trampoline_kprobe);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

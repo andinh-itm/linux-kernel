@@ -831,3 +831,4 @@ exit:
 	status = acpi_ut_acquire_mutex(ACPI_MTX_NAMESPACE);
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

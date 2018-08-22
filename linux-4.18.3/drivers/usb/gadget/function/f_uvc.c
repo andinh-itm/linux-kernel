@@ -929,3 +929,4 @@ static struct usb_function *uvc_alloc(struct usb_function_instance *fi)
 DECLARE_USB_FUNCTION_INIT(uvc, uvc_alloc_inst, uvc_alloc);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Laurent Pinchart");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

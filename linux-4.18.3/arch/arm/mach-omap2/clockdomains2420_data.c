@@ -152,3 +152,4 @@ void __init omap242x_clockdomains_init(void)
 	clkdm_register_clkdms(clockdomains_omap242x);
 	clkdm_complete_init();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

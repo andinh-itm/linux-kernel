@@ -501,3 +501,4 @@ static int __init init_ppc970_pmu(void)
 }
 
 early_initcall(init_ppc970_pmu);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -628,3 +628,4 @@ void intel_guc_log_handle_flush_event(struct intel_guc_log *log)
 {
 	queue_work(log->relay.flush_wq, &log->relay.flush_work);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

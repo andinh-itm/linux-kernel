@@ -613,3 +613,4 @@ MODULE_ALIAS("dmi:bvnIBM:*:pnIBMSystemx3550-*");
 MODULE_ALIAS("dmi:bvnIBM:*:pnIBMSystemx3650-*");
 MODULE_ALIAS("dmi:bvnIBM:*:pnIBMSystemx3655-*");
 MODULE_ALIAS("dmi:bvnIBM:*:pnIBMSystemx3755-*");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

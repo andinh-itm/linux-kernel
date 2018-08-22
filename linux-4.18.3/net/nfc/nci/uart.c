@@ -485,3 +485,4 @@ MODULE_AUTHOR("Marvell International Ltd.");
 MODULE_DESCRIPTION("NFC NCI UART driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_LDISC(N_NCI);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

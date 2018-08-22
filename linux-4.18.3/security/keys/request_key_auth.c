@@ -266,3 +266,4 @@ struct key *key_get_instantiation_authkey(key_serial_t target_id)
 error:
 	return authkey;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -3368,3 +3368,4 @@ void ath9k_hw_name(struct ath_hw *ah, char *hw_name, size_t len)
 	hw_name[used] = '\0';
 }
 EXPORT_SYMBOL(ath9k_hw_name);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

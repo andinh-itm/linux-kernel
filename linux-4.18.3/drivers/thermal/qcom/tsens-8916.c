@@ -111,3 +111,4 @@ const struct tsens_data data_8916 = {
 	.ops		= &ops_8916,
 	.hw_ids		= (unsigned int []){0, 1, 2, 4, 5 },
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

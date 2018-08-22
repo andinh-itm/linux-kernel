@@ -494,3 +494,4 @@ int pSeries_machine_check_exception(struct pt_regs *regs)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

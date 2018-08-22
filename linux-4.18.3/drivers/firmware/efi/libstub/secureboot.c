@@ -81,3 +81,4 @@ out_efi_err:
 	pr_efi_err(sys_table_arg, "Could not determine UEFI Secure Boot status.\n");
 	return efi_secureboot_mode_unknown;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

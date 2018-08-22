@@ -1950,3 +1950,4 @@ void intel_panel_fini(struct intel_panel *panel)
 		drm_mode_destroy(intel_connector->base.dev,
 				panel->downclock_mode);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

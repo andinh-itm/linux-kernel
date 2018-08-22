@@ -1243,3 +1243,4 @@ int setup_elsa(struct IsdnCard *card)
 
 	return setup_elsa_common(card);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

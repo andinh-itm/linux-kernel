@@ -3513,3 +3513,4 @@ void igb_set_ethtool_ops(struct net_device *netdev)
 {
 	netdev->ethtool_ops = &igb_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

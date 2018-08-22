@@ -1024,3 +1024,4 @@ MACHINE_START(VIPER, "Arcom/Eurotech VIPER SBC")
 	.init_machine	= viper_init,
 	.restart	= pxa_restart,
 MACHINE_END
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

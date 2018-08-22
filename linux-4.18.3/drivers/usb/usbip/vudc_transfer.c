@@ -494,3 +494,4 @@ void v_stop_timer(struct vudc *udc)
 	dev_dbg(&udc->pdev->dev, "timer stop");
 	t->state = VUDC_TR_STOPPED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

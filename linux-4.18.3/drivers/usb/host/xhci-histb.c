@@ -408,3 +408,4 @@ module_exit(xhci_histb_exit);
 
 MODULE_DESCRIPTION("HiSilicon STB xHCI Host Controller Driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

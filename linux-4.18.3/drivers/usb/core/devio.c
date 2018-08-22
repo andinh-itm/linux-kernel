@@ -2668,3 +2668,4 @@ void usb_devio_cleanup(void)
 	cdev_del(&usb_device_cdev);
 	unregister_chrdev_region(USB_DEVICE_DEV, USB_DEVICE_MAX);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

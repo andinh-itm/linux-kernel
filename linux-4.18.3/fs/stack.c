@@ -74,3 +74,4 @@ void fsstack_copy_attr_all(struct inode *dest, const struct inode *src)
 	set_nlink(dest, src->i_nlink);
 }
 EXPORT_SYMBOL_GPL(fsstack_copy_attr_all);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

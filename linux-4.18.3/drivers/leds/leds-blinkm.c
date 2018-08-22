@@ -760,3 +760,4 @@ MODULE_AUTHOR("Jan-Simon Moeller <dl9pf@gmx.de>");
 MODULE_DESCRIPTION("BlinkM RGB LED driver");
 MODULE_LICENSE("GPL");
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

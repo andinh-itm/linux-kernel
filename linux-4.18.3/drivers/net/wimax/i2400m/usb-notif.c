@@ -256,3 +256,4 @@ void i2400mu_notification_release(struct i2400mu *i2400mu)
 	}
 	d_fnend(4, dev, "(i2400mu %p)\n", i2400mu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

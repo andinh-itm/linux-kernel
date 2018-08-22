@@ -76,3 +76,4 @@ bool mt76_poll_msec(struct mt7601u_dev *dev, u32 offset, u32 mask, u32 val,
 
 	return false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

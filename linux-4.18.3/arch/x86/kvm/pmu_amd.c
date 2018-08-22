@@ -317,3 +317,4 @@ struct kvm_pmu_ops amd_pmu_ops = {
 	.init = amd_pmu_init,
 	.reset = amd_pmu_reset,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

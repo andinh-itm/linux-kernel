@@ -186,3 +186,4 @@ MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_ALIAS("platform:spear-ehci");
 MODULE_AUTHOR("Deepak Sikri");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

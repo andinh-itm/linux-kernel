@@ -225,3 +225,4 @@ void msm_fbdev_free(struct drm_device *dev)
 
 	priv->fbdev = NULL;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

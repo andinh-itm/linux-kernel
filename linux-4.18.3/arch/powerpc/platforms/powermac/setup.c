@@ -635,3 +635,4 @@ define_machine(powermac) {
 	.phys_mem_access_prot	= pci_phys_mem_access_prot,
 #endif
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

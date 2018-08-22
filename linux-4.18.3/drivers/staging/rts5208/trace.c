@@ -25,3 +25,4 @@ void _rtsx_trace(struct rtsx_chip *chip, const char *file, const char *func,
 		chip->msg_idx = 0;
 }
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

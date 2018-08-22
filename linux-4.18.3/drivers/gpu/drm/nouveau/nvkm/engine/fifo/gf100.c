@@ -676,3 +676,4 @@ gf100_fifo_new(struct nvkm_device *device, int index, struct nvkm_fifo **pfifo)
 
 	return nvkm_fifo_ctor(&gf100_fifo, device, index, 128, &fifo->base);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1993,3 +1993,4 @@ static struct usb_driver cx231xx_usb_driver = {
 };
 
 module_usb_driver(cx231xx_usb_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

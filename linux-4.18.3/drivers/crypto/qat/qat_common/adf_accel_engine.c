@@ -207,3 +207,4 @@ int adf_ae_shutdown(struct adf_accel_dev *accel_dev)
 	accel_dev->fw_loader = NULL;
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

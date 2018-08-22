@@ -204,3 +204,4 @@ module_platform_driver(omap_cpufreq_platdrv);
 
 MODULE_DESCRIPTION("cpufreq driver for OMAP SoCs");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

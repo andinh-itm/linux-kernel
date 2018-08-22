@@ -1277,3 +1277,4 @@ module_i2c_driver(sta350_i2c_driver);
 MODULE_DESCRIPTION("ASoC STA350 driver");
 MODULE_AUTHOR("Sven Brandau <info@brandau.biz>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -2489,3 +2489,4 @@ exit:
 	return err;
 }
 EXPORT_SYMBOL(__snd_usbmidi_create);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

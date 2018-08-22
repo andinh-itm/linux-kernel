@@ -61,3 +61,4 @@ static struct mdio_device_id __maybe_unused asix_tbl[] = {
 };
 
 MODULE_DEVICE_TABLE(mdio, asix_tbl);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

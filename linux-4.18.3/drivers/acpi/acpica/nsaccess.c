@@ -687,3 +687,4 @@ acpi_ns_lookup(union acpi_generic_state *scope_info,
 	*return_node = this_node;
 	return_ACPI_STATUS(AE_OK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

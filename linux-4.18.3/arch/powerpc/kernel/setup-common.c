@@ -984,3 +984,4 @@ void __init setup_arch(char **cmdline_p)
 		      (unsigned long)_stext);
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

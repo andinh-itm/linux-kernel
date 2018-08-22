@@ -148,3 +148,4 @@ void *simple_alloc_init(char *base, unsigned long heap_size,
 
 	return (void *)(heap_base + heap_size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

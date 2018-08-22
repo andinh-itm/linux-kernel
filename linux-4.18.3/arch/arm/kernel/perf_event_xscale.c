@@ -768,3 +768,4 @@ static struct platform_driver xscale_pmu_driver = {
 
 builtin_platform_driver(xscale_pmu_driver);
 #endif	/* CONFIG_CPU_XSCALE */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -710,3 +710,4 @@ module_spi_driver(ssp_driver);
 MODULE_DESCRIPTION("ssp sensorhub driver");
 MODULE_AUTHOR("Samsung Electronics");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

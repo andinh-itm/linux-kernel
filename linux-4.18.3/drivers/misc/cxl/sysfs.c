@@ -772,3 +772,4 @@ void cxl_sysfs_afu_m_remove(struct cxl_afu *afu)
 			device_remove_file(afu->chardev_m, &afu_master_attrs[i]);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -966,3 +966,4 @@ int ib_retry_rmpp(struct ib_mad_send_wr_private *mad_send_wr)
 
 	return IB_RMPP_RESULT_CONSUMED;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

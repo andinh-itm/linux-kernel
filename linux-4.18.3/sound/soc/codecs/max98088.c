@@ -1755,3 +1755,4 @@ module_i2c_driver(max98088_i2c_driver);
 MODULE_DESCRIPTION("ALSA SoC MAX98088 driver");
 MODULE_AUTHOR("Peter Hsiang, Jesse Marroquin");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

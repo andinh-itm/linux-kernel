@@ -538,3 +538,4 @@ MODULE_ALIAS_CRYPTO("des");
 MODULE_ALIAS_CRYPTO("des3_ede");
 
 #include "crop_devid.c"
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

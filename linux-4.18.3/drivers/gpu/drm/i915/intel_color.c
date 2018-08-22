@@ -673,3 +673,4 @@ void intel_color_init(struct drm_crtc *crtc)
 					   true,
 					   INTEL_INFO(dev_priv)->color.gamma_lut_size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -760,3 +760,4 @@ done:
 	if (amdgpu_atombios_dp_link_train_finish(&dp_info))
 		return;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

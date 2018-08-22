@@ -1406,3 +1406,4 @@ int vega10_power_control_set_level(struct pp_hwmgr *hwmgr)
 	}
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

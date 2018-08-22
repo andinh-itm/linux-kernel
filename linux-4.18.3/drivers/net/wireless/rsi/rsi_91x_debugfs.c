@@ -332,3 +332,4 @@ void rsi_remove_dbgfs(struct rsi_hw *adapter)
 	debugfs_remove_recursive(dev_dbgfs->subdir);
 }
 EXPORT_SYMBOL_GPL(rsi_remove_dbgfs);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

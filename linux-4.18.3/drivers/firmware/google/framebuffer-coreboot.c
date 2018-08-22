@@ -113,3 +113,4 @@ module_exit(coreboot_framebuffer_exit);
 
 MODULE_AUTHOR("Samuel Holland <samuel@sholland.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

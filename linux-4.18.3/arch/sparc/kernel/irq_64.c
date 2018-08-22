@@ -1154,3 +1154,4 @@ void __init init_IRQ(void)
 
 	irq_to_desc(0)->action = &timer_irq_action;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

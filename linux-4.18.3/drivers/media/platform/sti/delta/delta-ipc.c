@@ -592,3 +592,4 @@ void delta_ipc_exit(struct delta_dev *delta)
 {
 	unregister_rpmsg_driver(&delta->rpmsg_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

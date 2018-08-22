@@ -604,3 +604,4 @@ void insn_get_length(struct insn *insn)
 	insn->length = (unsigned char)((unsigned long)insn->next_byte
 				     - (unsigned long)insn->kaddr);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

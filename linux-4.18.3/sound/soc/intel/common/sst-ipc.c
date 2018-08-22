@@ -325,3 +325,4 @@ EXPORT_SYMBOL_GPL(sst_ipc_fini);
 MODULE_AUTHOR("Jin Yao");
 MODULE_DESCRIPTION("Intel SST IPC generic");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

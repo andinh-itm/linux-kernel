@@ -155,3 +155,4 @@ int netcp_sgmii_config(void __iomem *sgmii_ofs, int port, u32 interface)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

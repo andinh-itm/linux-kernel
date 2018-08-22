@@ -462,3 +462,4 @@ int hda_widget_sysfs_reinit(struct hdac_device *codec,
 	kobject_uevent(tree->root, KOBJ_CHANGE);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

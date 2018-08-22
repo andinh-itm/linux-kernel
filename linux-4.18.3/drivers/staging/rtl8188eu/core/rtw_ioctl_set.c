@@ -632,3 +632,4 @@ int rtw_set_country(struct adapter *adapter, const char *country_code)
 
 	return rtw_set_chplan_cmd(adapter, channel_plan, 1);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

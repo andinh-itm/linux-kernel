@@ -1938,3 +1938,4 @@ MODULE_DESCRIPTION("TI EMIF SDRAM Controller Driver");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:emif");
 MODULE_AUTHOR("Texas Instruments Inc");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

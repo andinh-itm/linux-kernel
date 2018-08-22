@@ -80,3 +80,4 @@ MODULE_AUTHOR("Pablo Neira Ayuso <pablo@netfilter.org>");
 MODULE_DESCRIPTION("Netfilter bridge packet logging");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS_NF_LOGGER(AF_BRIDGE, 0);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

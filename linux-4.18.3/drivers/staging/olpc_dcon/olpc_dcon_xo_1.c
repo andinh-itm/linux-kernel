@@ -203,3 +203,4 @@ struct dcon_platform_data dcon_pdata_xo_1 = {
 	.set_dconload = dcon_set_dconload_1,
 	.read_status = dcon_read_status_xo_1,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

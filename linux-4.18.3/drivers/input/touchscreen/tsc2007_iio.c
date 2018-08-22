@@ -137,3 +137,4 @@ int tsc2007_iio_configure(struct tsc2007 *ts)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

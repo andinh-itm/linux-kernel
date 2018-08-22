@@ -472,3 +472,4 @@ module_platform_driver(lpc18xx_pwm_driver);
 MODULE_AUTHOR("Ariel D'Alessandro <ariel@vanguardiasur.com.ar>");
 MODULE_DESCRIPTION("NXP LPC18xx PWM driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

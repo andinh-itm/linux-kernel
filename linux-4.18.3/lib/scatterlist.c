@@ -942,3 +942,4 @@ size_t sg_zero_buffer(struct scatterlist *sgl, unsigned int nents,
 	return offset;
 }
 EXPORT_SYMBOL(sg_zero_buffer);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

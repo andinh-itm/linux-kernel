@@ -63,3 +63,4 @@ const struct file_operations tpmrm_fops = {
 	.release = tpmrm_release,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -766,3 +766,4 @@ MODULE_ALIAS("platform:tps80031-regulator");
 MODULE_DESCRIPTION("Regulator Driver for TI TPS80031/TPS80032 PMIC");
 MODULE_AUTHOR("Laxman Dewangan <ldewangan@nvidia.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

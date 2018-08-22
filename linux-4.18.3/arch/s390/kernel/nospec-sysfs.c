@@ -19,3 +19,4 @@ ssize_t cpu_show_spectre_v2(struct device *dev,
 		return sprintf(buf, "Mitigation: limited branch prediction\n");
 	return sprintf(buf, "Vulnerable\n");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

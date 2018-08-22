@@ -529,3 +529,4 @@ void intel_vgpu_init_i2c_edid(struct intel_vgpu *vgpu)
 	edid->aux_ch.i2c_over_aux_ch = false;
 	edid->aux_ch.aux_ch_mot = false;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

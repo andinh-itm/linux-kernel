@@ -997,3 +997,4 @@ void perf_stat__print_shadow_stats(struct perf_evsel *evsel,
 	if (num == 0)
 		print_metric(ctxp, NULL, NULL, NULL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -280,3 +280,4 @@ void snd_ff_stream_lock_release(struct snd_ff *ff)
 end:
 	spin_unlock_irq(&ff->lock);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

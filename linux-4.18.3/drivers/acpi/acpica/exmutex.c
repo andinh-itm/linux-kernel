@@ -504,3 +504,4 @@ void acpi_ex_release_all_mutexes(struct acpi_thread_state *thread)
 
 	return_VOID;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

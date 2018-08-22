@@ -325,3 +325,4 @@ module_platform_driver(gpio_nand_driver);
 MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Ben Dooks <ben@simtec.co.uk>");
 MODULE_DESCRIPTION("GPIO NAND Driver");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

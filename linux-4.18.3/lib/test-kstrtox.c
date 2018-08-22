@@ -733,3 +733,4 @@ static int __init test_kstrtox_init(void)
 }
 module_init(test_kstrtox_init);
 MODULE_LICENSE("Dual BSD/GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

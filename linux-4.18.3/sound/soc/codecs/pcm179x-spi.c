@@ -64,3 +64,4 @@ module_spi_driver(pcm179x_spi_driver);
 MODULE_DESCRIPTION("ASoC PCM179X SPI driver");
 MODULE_AUTHOR("Michael Trimarchi <michael@amarulasolutions.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -4945,3 +4945,4 @@ xfs_btree_has_more_records(
 	else
 		return block->bb_u.s.bb_rightsib != cpu_to_be32(NULLAGBLOCK);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

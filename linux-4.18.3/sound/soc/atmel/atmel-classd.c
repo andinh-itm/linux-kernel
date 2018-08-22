@@ -666,3 +666,4 @@ module_platform_driver(atmel_classd_driver);
 MODULE_DESCRIPTION("Atmel ClassD driver under ALSA SoC architecture");
 MODULE_AUTHOR("Songjun Wu <songjun.wu@atmel.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -46,3 +46,4 @@ void __init kona_l2_cache_init(void)
 	if (ret)
 		pr_err("Couldn't enable L2 cache: %d\n", ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

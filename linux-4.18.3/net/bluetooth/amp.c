@@ -594,3 +594,4 @@ void amp_destroy_logical_link(struct hci_chan *hchan, u8 reason)
 
 	hci_chan_del(hchan);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

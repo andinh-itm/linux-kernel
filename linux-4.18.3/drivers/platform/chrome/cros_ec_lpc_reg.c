@@ -131,3 +131,4 @@ void cros_ec_lpc_reg_destroy(void)
 }
 
 #endif /* CONFIG_CROS_EC_LPC_MEC */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

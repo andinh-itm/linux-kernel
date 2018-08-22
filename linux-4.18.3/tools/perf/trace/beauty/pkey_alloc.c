@@ -48,3 +48,4 @@ size_t syscall_arg__scnprintf_pkey_alloc_access_rights(char *bf, size_t size, st
 
 	return pkey_alloc__scnprintf_access_rights(cmd, bf, size);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

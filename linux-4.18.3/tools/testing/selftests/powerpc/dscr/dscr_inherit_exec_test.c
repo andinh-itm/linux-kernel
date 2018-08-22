@@ -107,3 +107,4 @@ int main(int argc, char *argv[])
 	strncpy(prog, argv[0], strlen(argv[0]));
 	return test_harness(dscr_inherit_exec, "dscr_inherit_exec_test");
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

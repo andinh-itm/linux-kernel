@@ -2997,3 +2997,4 @@ MODULE_LICENSE("GPL");
 MODULE_AUTHOR("Huang Shijie <shijie8@gmail.com>");
 MODULE_AUTHOR("Mike Lavender");
 MODULE_DESCRIPTION("framework for SPI NOR");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

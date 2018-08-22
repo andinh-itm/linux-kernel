@@ -116,3 +116,4 @@ void odm_rf_saving(void *dm_void, u8 is_force_in_normal)
 		dm_ps_table->pre_rf_state = dm_ps_table->cur_rf_state;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

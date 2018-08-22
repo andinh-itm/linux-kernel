@@ -182,3 +182,4 @@ struct ppc_pci_io spiderpci_ops = {
 	.memcpy_fromio = spiderpci_memcpy_fromio,
 };
 
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

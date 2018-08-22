@@ -374,3 +374,4 @@ idu_of_init(struct device_node *intc, struct device_node *parent)
 	return 0;
 }
 IRQCHIP_DECLARE(arcv2_idu_intc, "snps,archs-idu-intc", idu_of_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

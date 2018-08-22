@@ -366,3 +366,4 @@ MODULE_DESCRIPTION("Touchscreen driver for Dialog Semiconductor DA9034");
 MODULE_AUTHOR("Eric Miao <eric.miao@marvell.com>, Bin Yang <bin.yang@marvell.com>");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:da9034-touch");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

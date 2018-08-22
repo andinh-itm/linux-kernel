@@ -974,3 +974,4 @@ MODULE_AUTHOR("Texas Instruments, Inc.");
 MODULE_DESCRIPTION("Power management for TWL4030");
 MODULE_LICENSE("GPL");
 MODULE_ALIAS("platform:twl4030_power");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -382,3 +382,4 @@ struct op_powerpc_model op_model_fsl_emb = {
 	.stop			= fsl_emb_stop,
 	.handle_interrupt	= fsl_emb_handle_interrupt,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

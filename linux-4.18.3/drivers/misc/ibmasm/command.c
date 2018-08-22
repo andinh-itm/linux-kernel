@@ -185,3 +185,4 @@ void ibmasm_receive_command_response(struct service_processor *sp, void *respons
 	command_put(sp->current_command);
 	exec_next_command(sp);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

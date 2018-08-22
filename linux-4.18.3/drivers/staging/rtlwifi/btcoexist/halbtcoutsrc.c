@@ -1850,3 +1850,4 @@ void exhalbtc_switch_band_notify_wifi_only(struct wifi_only_cfg *wifionly_cfg,
 	if (IS_HARDWARE_TYPE_8822B(wifionly_cfg->adapter))
 		ex_hal8822b_wifi_only_switchbandnotify(wifionly_cfg, is_5g);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

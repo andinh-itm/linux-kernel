@@ -241,3 +241,4 @@ static struct platform_driver of_fixed_factor_clk_driver = {
 };
 builtin_platform_driver(of_fixed_factor_clk_driver);
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

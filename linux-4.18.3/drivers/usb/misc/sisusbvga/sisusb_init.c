@@ -957,3 +957,4 @@ int SiSUSBSetVESAMode(struct SiS_Private *SiS_Pr, unsigned short VModeNo)
 }
 
 #endif /* INCL_SISUSB_CON */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

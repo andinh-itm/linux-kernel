@@ -320,3 +320,4 @@ module_spi_driver(altera_ps_driver)
 MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Joshua Clayton <stillcompiling@gmail.com>");
 MODULE_DESCRIPTION("Module to load Altera FPGA firmware over SPI");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

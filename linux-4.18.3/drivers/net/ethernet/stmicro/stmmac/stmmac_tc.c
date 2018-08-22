@@ -293,3 +293,4 @@ const struct stmmac_tc_ops dwmac510_tc_ops = {
 	.init = tc_init,
 	.setup_cls_u32 = tc_setup_cls_u32,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

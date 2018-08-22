@@ -410,3 +410,4 @@ module_platform_driver(st_rproc_driver);
 MODULE_DESCRIPTION("ST Remote Processor Control Driver");
 MODULE_AUTHOR("Ludovic Barre <ludovic.barre@st.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

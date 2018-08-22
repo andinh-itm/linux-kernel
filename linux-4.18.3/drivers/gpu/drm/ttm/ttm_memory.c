@@ -695,3 +695,4 @@ uint64_t ttm_get_kernel_zone_memory_size(struct ttm_mem_global *glob)
 	return glob->zone_kernel->max_mem;
 }
 EXPORT_SYMBOL(ttm_get_kernel_zone_memory_size);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

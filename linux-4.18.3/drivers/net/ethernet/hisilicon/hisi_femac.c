@@ -1004,3 +1004,4 @@ MODULE_DESCRIPTION("Hisilicon Fast Ethernet MAC driver");
 MODULE_AUTHOR("Dongpo Li <lidongpo@hisilicon.com>");
 MODULE_LICENSE("GPL v2");
 MODULE_ALIAS("platform:hisi-femac");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

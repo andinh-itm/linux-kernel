@@ -275,3 +275,4 @@ void __init imx_gpc_check_dt(void)
 		gpc_base = of_iomap(np, 0);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

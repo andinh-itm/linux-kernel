@@ -561,3 +561,4 @@ static void __exit strp_mod_exit(void)
 module_init(strp_mod_init);
 module_exit(strp_mod_exit);
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

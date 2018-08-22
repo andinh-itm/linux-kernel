@@ -365,3 +365,4 @@ void __init cpu_cache_init(void)
 skip:
 	emit_cache_params();
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

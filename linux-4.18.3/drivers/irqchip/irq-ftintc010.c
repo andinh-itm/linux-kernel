@@ -193,3 +193,4 @@ IRQCHIP_DECLARE(gemini, "cortina,gemini-interrupt-controller",
 		ft010_of_init_irq);
 IRQCHIP_DECLARE(moxa, "moxa,moxart-ic",
 		ft010_of_init_irq);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -1552,3 +1552,4 @@ mwifiex_wmm_process_tx(struct mwifiex_adapter *adapter)
 		}
 	} while (!mwifiex_wmm_lists_empty(adapter));
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

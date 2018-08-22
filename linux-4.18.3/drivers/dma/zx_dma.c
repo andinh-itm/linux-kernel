@@ -950,3 +950,4 @@ module_platform_driver(zx_pdma_driver);
 MODULE_DESCRIPTION("ZTE ZX296702 DMA Driver");
 MODULE_AUTHOR("Jun Nie jun.nie@linaro.org");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

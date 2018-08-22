@@ -267,3 +267,4 @@ MODULE_ALIAS("platform:ili9320");
 MODULE_DESCRIPTION("FB driver for the ILI9320 LCD Controller");
 MODULE_AUTHOR("Noralf Tronnes");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

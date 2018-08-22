@@ -1918,3 +1918,4 @@ void rtl8723bs_set_hal_ops(struct adapter *padapter)
 	pHalFunc->hal_checke_bt_hang = &rtl8723bs_hal_check_bt_hang;
 #endif
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -215,3 +215,4 @@ static int __init xlr_flash_init(void)
 }
 
 arch_initcall(xlr_flash_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

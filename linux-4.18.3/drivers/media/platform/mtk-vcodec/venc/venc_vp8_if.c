@@ -482,3 +482,4 @@ const struct venc_common_if *get_vp8_enc_comm_if(void)
 {
 	return &venc_vp8_if;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

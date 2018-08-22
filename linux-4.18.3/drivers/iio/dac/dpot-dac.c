@@ -263,3 +263,4 @@ module_platform_driver(dpot_dac_driver);
 MODULE_DESCRIPTION("DAC emulation driver using a digital potentiometer");
 MODULE_AUTHOR("Peter Rosin <peda@axentia.se>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

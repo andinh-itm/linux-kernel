@@ -33,3 +33,4 @@ void spear_restart(enum reboot_mode mode, const char *cmd)
 #endif
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

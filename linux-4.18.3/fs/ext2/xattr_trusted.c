@@ -40,3 +40,4 @@ const struct xattr_handler ext2_xattr_trusted_handler = {
 	.get	= ext2_xattr_trusted_get,
 	.set	= ext2_xattr_trusted_set,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

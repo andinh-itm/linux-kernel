@@ -252,3 +252,4 @@ int trace_seq_do_printf(struct trace_seq *s)
 {
 	return trace_seq_do_fprintf(s, stdout);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

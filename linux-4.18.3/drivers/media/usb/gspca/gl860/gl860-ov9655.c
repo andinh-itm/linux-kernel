@@ -334,3 +334,4 @@ static void ov9655_post_unset_alt(struct gspca_dev *gspca_dev)
 	ctrl_out(gspca_dev, 0x40, 5, 0x0000, 0x0000, 0, NULL);
 	ctrl_out(gspca_dev, 0x40, 1, 0x0061, 0x0000, 0, NULL);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

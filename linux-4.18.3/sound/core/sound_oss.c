@@ -257,3 +257,4 @@ int __init snd_minor_info_oss_init(void)
 	return snd_info_register(entry); /* freed in error path */
 }
 #endif /* CONFIG_SND_PROC_FS */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

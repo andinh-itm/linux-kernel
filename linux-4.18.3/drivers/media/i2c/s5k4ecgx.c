@@ -1033,3 +1033,4 @@ MODULE_AUTHOR("Sangwook Lee <sangwook.lee@linaro.org>");
 MODULE_AUTHOR("Seok-Young Jang <quartz.jang@samsung.com>");
 MODULE_LICENSE("GPL");
 MODULE_FIRMWARE(S5K4ECGX_FIRMWARE);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

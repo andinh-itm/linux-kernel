@@ -631,3 +631,4 @@ rockchip_register_restart_notifier(struct rockchip_clk_provider *ctx,
 		pr_err("%s: cannot register restart handler, %d\n",
 		       __func__, ret);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

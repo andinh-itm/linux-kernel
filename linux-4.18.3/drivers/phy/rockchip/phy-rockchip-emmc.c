@@ -377,3 +377,4 @@ module_platform_driver(rockchip_emmc_driver);
 MODULE_AUTHOR("Shawn Lin <shawn.lin@rock-chips.com>");
 MODULE_DESCRIPTION("Rockchip EMMC PHY driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

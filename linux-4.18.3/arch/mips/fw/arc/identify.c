@@ -114,3 +114,4 @@ void __init prom_identify_arch(void)
 
 	prom_flags = mach->flags;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

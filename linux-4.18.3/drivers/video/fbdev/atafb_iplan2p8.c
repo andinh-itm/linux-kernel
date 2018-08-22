@@ -343,3 +343,4 @@ void cleanup_module(void)
 EXPORT_SYMBOL(atafb_iplan2p8_copyarea);
 EXPORT_SYMBOL(atafb_iplan2p8_fillrect);
 EXPORT_SYMBOL(atafb_iplan2p8_linefill);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

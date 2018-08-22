@@ -915,3 +915,4 @@ void ssusb_gadget_exit(struct ssusb_mtk *ssusb)
 	device_init_wakeup(ssusb->dev, false);
 	mtu3_hw_exit(mtu);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

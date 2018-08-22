@@ -1492,3 +1492,4 @@ module_i2c_driver(anx78xx_driver);
 MODULE_DESCRIPTION("ANX78xx SlimPort Transmitter driver");
 MODULE_AUTHOR("Enric Balletbo i Serra <enric.balletbo@collabora.com>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

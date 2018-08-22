@@ -354,3 +354,4 @@ free_handle:
 	efi_call_early(free_pool, gop_handle);
 	return status;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

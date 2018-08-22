@@ -260,3 +260,4 @@ acpi_status ACPI_INIT_FUNCTION acpi_initialize_objects(u32 flags)
 }
 
 ACPI_EXPORT_SYMBOL_INIT(acpi_initialize_objects)
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

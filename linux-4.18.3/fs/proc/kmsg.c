@@ -63,3 +63,4 @@ static int __init proc_kmsg_init(void)
 	return 0;
 }
 fs_initcall(proc_kmsg_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

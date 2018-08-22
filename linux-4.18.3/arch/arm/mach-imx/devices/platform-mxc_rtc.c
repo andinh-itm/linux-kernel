@@ -44,3 +44,4 @@ struct platform_device *__init imx_add_mxc_rtc(
 	return imx_add_platform_device(data->devid, -1,
 			res, ARRAY_SIZE(res), NULL, 0);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

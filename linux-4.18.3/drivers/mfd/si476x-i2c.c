@@ -882,3 +882,4 @@ module_i2c_driver(si476x_core_driver);
 MODULE_AUTHOR("Andrey Smirnov <andrew.smirnov@gmail.com>");
 MODULE_DESCRIPTION("Si4761/64/68 AM/FM MFD core device driver");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

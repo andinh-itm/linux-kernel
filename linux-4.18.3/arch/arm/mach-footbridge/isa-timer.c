@@ -39,3 +39,4 @@ void __init isa_timer_init(void)
 	setup_irq(i8253_clockevent.irq, &pit_timer_irq);
 	clockevent_i8253_init(false);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

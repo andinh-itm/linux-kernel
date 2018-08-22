@@ -61,3 +61,4 @@ void snd_ff_proc_init(struct snd_ff *ff)
 	add_node(ff, root, "clock-config", proc_dump_clock_config);
 	add_node(ff, root, "sync-status", proc_dump_sync_status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

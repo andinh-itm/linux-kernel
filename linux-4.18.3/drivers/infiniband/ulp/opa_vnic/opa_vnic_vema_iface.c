@@ -388,3 +388,4 @@ void opa_vnic_query_ucast_macs(struct opa_vnic_adapter *adapter,
 	macs->num_macs_in_msg = cpu_to_be16(count);
 	macs->gen_count = cpu_to_be16(adapter->info.vport.uc_macs_gen_count);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

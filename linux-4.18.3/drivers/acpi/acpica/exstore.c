@@ -587,3 +587,4 @@ acpi_ex_store_direct_to_node(union acpi_operand_object *source_desc,
 	acpi_ut_remove_reference(new_desc);
 	return_ACPI_STATUS(status);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -79,3 +79,4 @@ void ODM_RF_Saving(void *pDM_VOID, u8 bForceInNormal)
 		pDM_PSTable->PreRFState = pDM_PSTable->CurRFState;
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

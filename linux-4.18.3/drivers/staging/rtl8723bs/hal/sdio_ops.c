@@ -1250,3 +1250,4 @@ u8 RecvOnePkt(struct adapter *adapter, u32 size)
 	return res;
 }
 #endif /* CONFIG_WOWLAN */
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

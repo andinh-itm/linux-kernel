@@ -644,3 +644,4 @@ struct snd_ice1712_card_info snd_vt1724_wtm_cards[] = {
 	},
 	{} /*terminator*/
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

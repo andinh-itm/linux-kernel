@@ -1095,3 +1095,4 @@ void hns3_ethtool_set_ops(struct net_device *netdev)
 	else
 		netdev->ethtool_ops = &hns3_ethtool_ops;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

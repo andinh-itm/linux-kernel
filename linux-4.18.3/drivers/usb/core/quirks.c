@@ -564,3 +564,4 @@ void usb_release_quirk_list(void)
 	quirk_list = NULL;
 	mutex_unlock(&quirk_mutex);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -447,3 +447,4 @@ scsi_trace_parse_cdb(struct trace_seq *p, unsigned char *cdb, int len)
 		return scsi_trace_misc(p, cdb, len);
 	}
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

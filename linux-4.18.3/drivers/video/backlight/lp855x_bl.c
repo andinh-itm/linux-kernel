@@ -547,3 +547,4 @@ module_i2c_driver(lp855x_driver);
 MODULE_DESCRIPTION("Texas Instruments LP855x Backlight driver");
 MODULE_AUTHOR("Milo Kim <milo.kim@ti.com>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

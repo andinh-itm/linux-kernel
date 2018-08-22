@@ -2102,3 +2102,4 @@ MODULE_LICENSE("GPL v2");
 MODULE_AUTHOR("Johan Palsson, Karl Komierowski");
 MODULE_ALIAS("platform:abx500-chargalg");
 MODULE_DESCRIPTION("abx500 battery charging algorithm");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

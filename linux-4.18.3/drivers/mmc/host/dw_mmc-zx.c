@@ -240,3 +240,4 @@ module_platform_driver(dw_mci_zx_pltfm_driver);
 
 MODULE_DESCRIPTION("ZTE emmc/sd driver");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -320,3 +320,4 @@ module_platform_driver(hd44780_driver);
 MODULE_DESCRIPTION("HD44780 Character LCD driver");
 MODULE_AUTHOR("Geert Uytterhoeven <geert@linux-m68k.org>");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -82,3 +82,4 @@ static void init_sdma_vm_v9(struct device_queue_manager *dqm, struct queue *q,
 	/* Not needed on SDMAv4 any more */
 	q->properties.sdma_vm_addr = 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

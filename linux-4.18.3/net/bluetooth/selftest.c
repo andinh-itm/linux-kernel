@@ -307,3 +307,4 @@ static int __init bt_selftest_init(void)
 late_initcall(bt_selftest_init);
 
 #endif
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

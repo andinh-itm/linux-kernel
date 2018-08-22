@@ -1112,3 +1112,4 @@ void __exit msm_mdp_unregister(void)
 	DBG("");
 	platform_driver_unregister(&mdp5_driver);
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

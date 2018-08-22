@@ -790,3 +790,4 @@ err_remove:
 	return rc;
 }
 device_initcall(gcov_fs_init);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

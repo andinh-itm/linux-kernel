@@ -685,3 +685,4 @@ static struct platform_driver armada_cp110_pinctrl_driver = {
 };
 
 builtin_platform_driver(armada_cp110_pinctrl_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

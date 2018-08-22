@@ -391,3 +391,4 @@ int prom_ihandle2path(int handle, char *buffer, int bufsize)
 
 	return (int) args[6];
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

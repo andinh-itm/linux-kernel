@@ -128,3 +128,4 @@ void __init omap44xx_voltagedomains_init(void)
 
 	voltdm_init(voltagedomains_omap4);
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

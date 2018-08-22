@@ -123,3 +123,4 @@ module_i2c_driver(menf21bmc_driver);
 MODULE_DESCRIPTION("MEN 14F021P00 BMC mfd core driver");
 MODULE_AUTHOR("Andreas Werner <andreas.werner@men.de>");
 MODULE_LICENSE("GPL v2");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

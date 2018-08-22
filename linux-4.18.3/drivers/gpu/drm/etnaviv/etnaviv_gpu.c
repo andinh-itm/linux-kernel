@@ -1863,3 +1863,4 @@ struct platform_driver etnaviv_gpu_driver = {
 	.remove = etnaviv_gpu_platform_remove,
 	.id_table = gpu_ids,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -259,3 +259,4 @@ struct platform_device jz4740_dma_device = {
 	.num_resources	= ARRAY_SIZE(jz4740_dma_resources),
 	.resource	= jz4740_dma_resources,
 };
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -210,3 +210,4 @@ module_exit(ehci_mxc_cleanup);
 MODULE_DESCRIPTION(DRIVER_DESC);
 MODULE_AUTHOR("Sascha Hauer");
 MODULE_LICENSE("GPL");
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

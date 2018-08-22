@@ -349,3 +349,4 @@ int dvb_usb_adapter_frontend_exit(struct dvb_usb_adapter *adap)
 
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

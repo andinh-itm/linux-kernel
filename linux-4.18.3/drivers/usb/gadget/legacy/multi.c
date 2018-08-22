@@ -489,3 +489,4 @@ static struct usb_composite_driver multi_driver = {
 };
 
 module_usb_composite_driver(multi_driver);
+newcodenewcodenewcodenewcodenewcodenewcodenewcode

@@ -134,3 +134,4 @@ int register_refined_jiffies(long cycles_per_second)
 	__clocksource_register(&refined_jiffies);
 	return 0;
 }
+newcodenewcodenewcodenewcodenewcodenewcodenewcode
